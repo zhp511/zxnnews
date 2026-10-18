@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-18T08:44:10Z",
- "news_fetched_at": "2026-10-18T08:43:47Z",
- "trends_fetched_at": "2026-10-18T08:43:47Z",
+ "built_at": "2026-10-18T09:45:12Z",
+ "news_fetched_at": "2026-10-18T09:45:12Z",
+ "trends_fetched_at": "2026-10-18T09:45:12Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -87,12 +87,12 @@
  ],
  "trends": [
   {
-   "name": "Nebraska",
-   "url": "https://x.com/search?q=Nebraska"
-  },
-  {
    "name": "Rhule",
    "url": "https://x.com/search?q=Rhule"
+  },
+  {
+   "name": "Nebraska",
+   "url": "https://x.com/search?q=Nebraska"
   },
   {
    "name": "Notre Dame",
@@ -111,6 +111,14 @@
    "url": "https://x.com/search?q=Miami"
   },
   {
+   "name": "#LingOrmBetweenUsConcertD2",
+   "url": "https://x.com/search?q=%23LingOrmBetweenUsConcertD2"
+  },
+  {
+   "name": "THE WORLD BETWEEN LINGORM D2",
+   "url": "https://x.com/search?q=THE%20WORLD%20BETWEEN%20LINGORM%20D2"
+  },
+  {
    "name": "Utah",
    "url": "https://x.com/search?q=Utah"
   },
@@ -123,28 +131,20 @@
    "url": "https://x.com/search?q=%23Huskers"
   },
   {
-   "name": "#AEWWrestleDream",
-   "url": "https://x.com/search?q=%23AEWWrestleDream"
+   "name": "Good Sunday",
+   "url": "https://x.com/search?q=Good%20Sunday"
   },
   {
-   "name": "Brock Thomas",
-   "url": "https://x.com/search?q=Brock%20Thomas"
-  },
-  {
-   "name": "Isaac Wilson",
-   "url": "https://x.com/search?q=Isaac%20Wilson"
+   "name": "Tommy",
+   "url": "https://x.com/search?q=Tommy"
   },
   {
    "name": "The French",
    "url": "https://x.com/search?q=The%20French"
   },
   {
-   "name": "Macron",
-   "url": "https://x.com/search?q=Macron"
-  },
-  {
-   "name": "Celine Dion",
-   "url": "https://x.com/search?q=Celine%20Dion"
+   "name": "Isaac Wilson",
+   "url": "https://x.com/search?q=Isaac%20Wilson"
   }
  ]
 }
