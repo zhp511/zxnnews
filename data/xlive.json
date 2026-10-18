@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-18T07:02:44Z",
- "searched_at": "2026-10-18T07:02:15Z",
+ "built_at": "2026-10-18T07:20:47Z",
+ "searched_at": "2026-10-18T07:20:35Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2111672567845290126",
-   "post_url": "https://x.com/Yugi601/status/2111672567845290126",
-   "name": "Yugi601",
-   "username": "Yugi601",
-   "verified_type": "blue",
-   "text": "LIVE Conversations! - Any Topic, Religion, Politics, Gaming, News, Life, Relationships etc! https://t.co/HQYjWZ8cnh",
-   "started_at": "2026-10-18T04:15:47.000Z",
-   "assumed_live_until": "2026-10-18T07:15:47Z"
-  },
   {
    "post_id": "2111691580725981483",
    "post_url": "https://x.com/TMHsChosen/status/2111691580725981483",
@@ -43,6 +33,16 @@
    "text": "GB News https://t.co/nMJhzrfUOz",
    "started_at": "2026-10-18T04:59:58.000Z",
    "assumed_live_until": "2026-10-18T07:59:58Z"
+  },
+  {
+   "post_id": "2111716649288270226",
+   "post_url": "https://x.com/Channel1TVGHA/status/2111716649288270226",
+   "name": "ChannelOne TV",
+   "username": "Channel1TVGHA",
+   "verified_type": "blue",
+   "text": "Channel One TV LIVE! Sunday Breakfast | Latest News updates from Ghana | 18th  October 2026 https://t.co/O9EoOKG0e4",
+   "started_at": "2026-10-18T07:10:57.000Z",
+   "assumed_live_until": "2026-10-18T10:10:57Z"
   },
   {
    "post_id": "2111694100390936687",
