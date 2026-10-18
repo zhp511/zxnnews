@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-18T16:30:42Z",
- "searched_at": "2026-10-18T16:30:00Z",
+ "built_at": "2026-10-18T16:49:16Z",
+ "searched_at": "2026-10-18T16:48:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -65,16 +65,6 @@
    "assumed_live_until": "2026-10-18T17:54:06Z"
   },
   {
-   "post_id": "2111825716488868086",
-   "post_url": "https://x.com/mfa_russia/status/2111825716488868086",
-   "name": "MFA Russia 🇷🇺",
-   "username": "mfa_russia",
-   "verified_type": "government",
-   "text": "🔴 #LIVE: Remarks and answers to media questions by Russia's Foreign Minister Sergey Lavrov following the 9th round of the Russia–Gulf Cooperation Council Strategic Dialogue at a joint news conference\n\nhttps://t.co/6r24fwvvaM",
-   "started_at": "2026-10-18T14:24:21.000Z",
-   "assumed_live_until": "2026-10-18T17:24:21Z"
-  },
-  {
    "post_id": "2111854063558242440",
    "post_url": "https://x.com/AgendaFreeTV/status/2111854063558242440",
    "name": "Agenda-Free TV",
@@ -83,6 +73,16 @@
    "text": "Incident (including Fire) at CFB Wainwright Causes Deaths & Injuries - LIVE Breaking News Coverage #wainwright #alberta https://t.co/daAx0pGt5m",
    "started_at": "2026-10-18T16:16:59.000Z",
    "assumed_live_until": "2026-10-18T19:16:59Z"
+  },
+  {
+   "post_id": "2111825716488868086",
+   "post_url": "https://x.com/mfa_russia/status/2111825716488868086",
+   "name": "MFA Russia 🇷🇺",
+   "username": "mfa_russia",
+   "verified_type": "government",
+   "text": "🔴 #LIVE: Remarks and answers to media questions by Russia's Foreign Minister Sergey Lavrov following the 9th round of the Russia–Gulf Cooperation Council Strategic Dialogue at a joint news conference\n\nhttps://t.co/6r24fwvvaM",
+   "started_at": "2026-10-18T14:24:21.000Z",
+   "assumed_live_until": "2026-10-18T17:24:21Z"
   }
  ]
 }
