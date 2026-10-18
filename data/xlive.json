@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-18T06:26:24Z",
- "searched_at": "2026-10-18T06:26:00Z",
+ "built_at": "2026-10-18T06:45:58Z",
+ "searched_at": "2026-10-18T06:45:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -63,6 +63,16 @@
    "text": "🔴Live | Al Jazeera News https://t.co/kf7UmN4sU0",
    "started_at": "2026-10-18T05:41:21.000Z",
    "assumed_live_until": "2026-10-18T08:41:21Z"
+  },
+  {
+   "post_id": "2111708764089057715",
+   "post_url": "https://x.com/PioShowAF/status/2111708764089057715",
+   "name": "Pio AF",
+   "username": "PioShowAF",
+   "verified_type": "blue",
+   "text": "Ice Poseidon Battle Royale + Andrew Wilson Debate https://t.co/DZDoFq7PRr",
+   "started_at": "2026-10-18T06:39:37.000Z",
+   "assumed_live_until": "2026-10-18T09:39:37Z"
   }
  ]
 }

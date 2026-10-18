@@ -6,5 +6,9 @@
  "blocked_terms": [
   "Mr Fanboy"
  ],
- "_blocked_terms_note": "Terms the site owner asked (in chat) to keep off the site; trending.py drops matching trends and stories. Only changed from chat."
+ "_blocked_terms_note": "Terms the site owner asked (in chat) to keep off the site; trending.py drops matching trends and stories. Only changed from chat.",
+ "xlive_block_handles": [
+  "theyloveeyomii"
+ ],
+ "_xlive_block_handles_note": "X handles kept out of the X Live channel. 'theyloveeyomii' added by the refresh routine on 2026-10-18 (paid-solicitation post with a phone number, not news); the site owner can remove it in chat."
 }
