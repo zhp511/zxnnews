@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-18T15:06:01Z",
- "searched_at": "2026-10-18T15:05:00Z",
+ "built_at": "2026-10-18T15:21:40Z",
+ "searched_at": "2026-10-18T15:21:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,6 +55,16 @@
    "assumed_live_until": "2026-10-18T17:00:29Z"
   },
   {
+   "post_id": "2111839335146455444",
+   "post_url": "https://x.com/JVarr11/status/2111839335146455444",
+   "name": "Jake Varr",
+   "username": "JVarr11",
+   "verified_type": "blue",
+   "text": "Wake Up America - Megyn Kelly, 1st Amender is a Loser and BLM 2.0 Break out in Paris https://t.co/EpSnILrGeQ",
+   "started_at": "2026-10-18T15:18:28.000Z",
+   "assumed_live_until": "2026-10-18T18:18:28Z"
+  },
+  {
    "post_id": "2111833203791278227",
    "post_url": "https://x.com/RedPillRoadShow/status/2111833203791278227",
    "name": "Red Pill Politics",
@@ -73,16 +83,6 @@
    "text": "855b: Da Real Adogg - Ilhan Omar's OWN Sister Just BETRAYED HER as She TEAMED UP With Trump And GAVE https://t.co/L8pydrRZSl",
    "started_at": "2026-10-18T12:35:41.000Z",
    "assumed_live_until": "2026-10-18T15:35:41Z"
-  },
-  {
-   "post_id": "2111825716488868086",
-   "post_url": "https://x.com/mfa_russia/status/2111825716488868086",
-   "name": "MFA Russia 🇷🇺",
-   "username": "mfa_russia",
-   "verified_type": "government",
-   "text": "🔴 #LIVE: Remarks and answers to media questions by Russia's Foreign Minister Sergey Lavrov following the 9th round of the Russia–Gulf Cooperation Council Strategic Dialogue at a joint news conference\n\nhttps://t.co/6r24fwvvaM",
-   "started_at": "2026-10-18T14:24:21.000Z",
-   "assumed_live_until": "2026-10-18T17:24:21Z"
   }
  ]
 }
