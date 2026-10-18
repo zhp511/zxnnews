@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-18T17:45:27Z",
- "searched_at": "2026-10-18T17:45:30Z",
+ "built_at": "2026-10-18T18:06:59Z",
+ "searched_at": "2026-10-18T18:06:40Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2111879247145079183",
+   "post_url": "https://x.com/georgegalloway/status/2111879247145079183",
+   "name": "George Galloway",
+   "username": "georgegalloway",
+   "verified_type": "blue",
+   "text": "RUMBLE IN THE JUMBLE | Day 230 | Trump v Zelensky | France in flames | West Bank settler attacks https://t.co/yJmGXRMpj1",
+   "started_at": "2026-10-18T17:57:03.000Z",
+   "assumed_live_until": "2026-10-18T20:57:03Z"
+  },
   {
    "post_id": "2111867498576658556",
    "post_url": "https://x.com/Dialogue_NRA/status/2111867498576658556",
@@ -45,14 +55,14 @@
    "assumed_live_until": "2026-10-18T18:18:28Z"
   },
   {
-   "post_id": "2111833203791278227",
-   "post_url": "https://x.com/RedPillRoadShow/status/2111833203791278227",
-   "name": "Red Pill Politics",
-   "username": "RedPillRoadShow",
+   "post_id": "2111879297594282373",
+   "post_url": "https://x.com/GeorgeOuda/status/2111879297594282373",
+   "name": "Ouda George Ouda",
+   "username": "GeorgeOuda",
    "verified_type": "blue",
-   "text": "Red Pill Politics (10-18-26) – EU Riots Spread | Tesla Roadster | BOLO Loomer | Midterm Strategies! https://t.co/3r2w8O3Pnz",
-   "started_at": "2026-10-18T14:54:06.000Z",
-   "assumed_live_until": "2026-10-18T17:54:06Z"
+   "text": "RCILHRE-WEEKEND SPECIAL FEATURE; WHAT IS POLITICS-UNDERSTANDING POLITICS BEYOND ELECTIONS https://t.co/qcDqgwYwaP",
+   "started_at": "2026-10-18T17:57:16.000Z",
+   "assumed_live_until": "2026-10-18T20:57:16Z"
   },
   {
    "post_id": "2111854063558242440",
@@ -65,24 +75,14 @@
    "assumed_live_until": "2026-10-18T19:16:59Z"
   },
   {
-   "post_id": "2111834729851040005",
-   "post_url": "https://x.com/omantvnews/status/2111834729851040005",
-   "name": "مركز الأخبار",
-   "username": "omantvnews",
-   "verified_type": "blue",
-   "text": "Live broadcast | English News Bulletin https://t.co/IosiMcFxov",
-   "started_at": "2026-10-18T15:00:10.000Z",
-   "assumed_live_until": "2026-10-18T18:00:10Z"
-  },
-  {
-   "post_id": "2111844787884368190",
-   "post_url": "https://x.com/MYANC/status/2111844787884368190",
-   "name": "ANC - African National Congress",
-   "username": "MYANC",
-   "verified_type": "blue",
-   "text": "[WATCH] ANC President Cde Cyril Ramaphosa Doorstep Interview in Khayelitsha, Western Cape https://t.co/c7XhmMVxOj",
-   "started_at": "2026-10-18T15:40:08.000Z",
-   "assumed_live_until": "2026-10-18T18:40:08Z"
+   "post_id": "2111879978434637970",
+   "post_url": "https://x.com/GBNEWS/status/2111879978434637970",
+   "name": "GB News",
+   "username": "GBNEWS",
+   "verified_type": "business",
+   "text": "GB News https://t.co/HEhL9tKLUz",
+   "started_at": "2026-10-18T17:59:58.000Z",
+   "assumed_live_until": "2026-10-18T20:59:58Z"
   }
  ]
 }
