@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-18T14:27:29Z",
- "searched_at": "2026-10-18T14:27:00Z",
+ "built_at": "2026-10-18T14:47:12Z",
+ "searched_at": "2026-10-18T14:46:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2111828227094380783",
+   "post_url": "https://x.com/ANI/status/2111828227094380783",
+   "name": "ANI",
+   "username": "ANI",
+   "verified_type": "business",
+   "text": "LIVE: Asaduddin Owaisi Holds Major Rally in Uttar Pradesh’s Rampur I UP Election I BJP I SP I Azam Khan https://t.co/PbdsVflMCV",
+   "started_at": "2026-10-18T14:34:19.000Z",
+   "assumed_live_until": "2026-10-18T17:34:19Z"
+  },
   {
    "post_id": "2111790623527448894",
    "post_url": "https://x.com/Dialogue_NRA/status/2111790623527448894",
@@ -35,16 +45,6 @@
    "assumed_live_until": "2026-10-18T16:05:24Z"
   },
   {
-   "post_id": "2111819712623747325",
-   "post_url": "https://x.com/BJdichter/status/2111819712623747325",
-   "name": "BJDichter - HonkingForFreedom.com",
-   "username": "BJdichter",
-   "verified_type": "blue",
-   "text": "Coffee with BJ | EP# 329 | The JD Vance Strategy, The French Civil War, Canada Adopts Trump Policies https://t.co/yApRhP4wyY",
-   "started_at": "2026-10-18T14:00:29.000Z",
-   "assumed_live_until": "2026-10-18T17:00:29Z"
-  },
-  {
    "post_id": "2111802232975077512",
    "post_url": "https://x.com/ReporterfyMedia/status/2111802232975077512",
    "name": "Reporterfy Media",
@@ -53,6 +53,16 @@
    "text": "🚨 LIVE: Mohammad Marandi - Trump Has Crashed America's ECONOMY For What ? https://t.co/B5VuulMYN7",
    "started_at": "2026-10-18T12:51:02.000Z",
    "assumed_live_until": "2026-10-18T15:51:02Z"
+  },
+  {
+   "post_id": "2111819712623747325",
+   "post_url": "https://x.com/BJdichter/status/2111819712623747325",
+   "name": "BJDichter - HonkingForFreedom.com",
+   "username": "BJdichter",
+   "verified_type": "blue",
+   "text": "Coffee with BJ | EP# 329 | The JD Vance Strategy, The French Civil War, Canada Adopts Trump Policies https://t.co/yApRhP4wyY",
+   "started_at": "2026-10-18T14:00:29.000Z",
+   "assumed_live_until": "2026-10-18T17:00:29Z"
   },
   {
    "post_id": "2111798372499959990",
@@ -73,16 +83,6 @@
    "text": "GB News https://t.co/sxLnzeoqkV",
    "started_at": "2026-10-18T11:59:57.000Z",
    "assumed_live_until": "2026-10-18T14:59:57Z"
-  },
-  {
-   "post_id": "2111825716488868086",
-   "post_url": "https://x.com/mfa_russia/status/2111825716488868086",
-   "name": "MFA Russia 🇷🇺",
-   "username": "mfa_russia",
-   "verified_type": "government",
-   "text": "🔴 #LIVE: Remarks and answers to media questions by Russia's Foreign Minister Sergey Lavrov following the 9th round of the Russia–Gulf Cooperation Council Strategic Dialogue at a joint news conference\n\nhttps://t.co/6r24fwvvaM",
-   "started_at": "2026-10-18T14:24:21.000Z",
-   "assumed_live_until": "2026-10-18T17:24:21Z"
   }
  ]
 }
