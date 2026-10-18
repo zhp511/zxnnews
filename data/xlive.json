@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-18T09:40:58Z",
- "searched_at": "2026-10-18T09:40:45Z",
+ "built_at": "2026-10-18T09:56:42Z",
+ "searched_at": "2026-10-18T09:56:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-10-18T10:10:57Z"
   },
   {
-   "post_id": "2111744585466794301",
-   "post_url": "https://x.com/TheLeedsLens/status/2111744585466794301",
-   "name": "TheLeedsLens",
-   "username": "TheLeedsLens",
-   "verified_type": "blue",
-   "text": "LIVE ON Youtube! | #LUFC vs #MUFC Build Up | #LUFC News https://t.co/UYvsTk4o8f",
-   "started_at": "2026-10-18T09:01:58.000Z",
-   "assumed_live_until": "2026-10-18T12:01:58Z"
-  },
-  {
    "post_id": "2111741583423111441",
    "post_url": "https://x.com/RadioPakistan/status/2111741583423111441",
    "name": "Radio Pakistan",
@@ -73,6 +63,16 @@
    "text": "Prime Minister @CMShehbaz is addressing the inauguration ceremony of Daanish School in Islamabad\n@PakPMO #News #RadioPakistan \n https://t.co/VEEm6ZwGcK",
    "started_at": "2026-10-18T08:50:02.000Z",
    "assumed_live_until": "2026-10-18T11:50:02Z"
+  },
+  {
+   "post_id": "2111744585466794301",
+   "post_url": "https://x.com/TheLeedsLens/status/2111744585466794301",
+   "name": "TheLeedsLens",
+   "username": "TheLeedsLens",
+   "verified_type": "blue",
+   "text": "LIVE ON Youtube! | #LUFC vs #MUFC Build Up | #LUFC News https://t.co/UYvsTk4o8f",
+   "started_at": "2026-10-18T09:01:58.000Z",
+   "assumed_live_until": "2026-10-18T12:01:58Z"
   },
   {
    "post_id": "2111721693844832282",
