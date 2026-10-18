@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-18T21:40:27Z",
- "searched_at": "2026-10-18T21:40:00Z",
+ "built_at": "2026-10-18T21:59:16Z",
+ "searched_at": "2026-10-18T21:58:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,16 +35,6 @@
    "assumed_live_until": "2026-10-18T22:28:30Z"
   },
   {
-   "post_id": "2111933704583229676",
-   "post_url": "https://x.com/alisamanif/status/2111933704583229676",
-   "name": "Ali Samani",
-   "username": "alisamanif",
-   "verified_type": "blue",
-   "text": "LIVE: Trump Attacks Zelensky; New Armed Group In Iran; Israel Decides Leader https://t.co/BtT21SsfsV",
-   "started_at": "2026-10-18T21:33:27.000Z",
-   "assumed_live_until": "2026-10-19T00:33:27Z"
-  },
-  {
    "post_id": "2111918403644739881",
    "post_url": "https://x.com/ChadAlanReich/status/2111918403644739881",
    "name": "Chad",
@@ -75,14 +65,24 @@
    "assumed_live_until": "2026-10-19T00:22:20Z"
   },
   {
-   "post_id": "2111935026833297625",
-   "post_url": "https://x.com/alouitseo/status/2111935026833297625",
-   "name": "Alouit Multimedia",
-   "username": "alouitseo",
+   "post_id": "2111924454880391371",
+   "post_url": "https://x.com/channelstv/status/2111924454880391371",
+   "name": "Channels Television",
+   "username": "channelstv",
+   "verified_type": "blue",
+   "text": "News At 10 https://t.co/KhyP50TARU",
+   "started_at": "2026-10-18T20:56:42.000Z",
+   "assumed_live_until": "2026-10-18T23:56:42Z"
+  },
+  {
+   "post_id": "2111926065014956126",
+   "post_url": "https://x.com/AgendaFreeTV/status/2111926065014956126",
+   "name": "Agenda-Free TV",
+   "username": "AgendaFreeTV",
    "verified_type": "none",
-   "text": "🚨 BREAKING: WHITE HOUSE *BOMBSHELL* CLARITY ACT UPDATE! 🚨 $XRP TREASURY COMING TO NASDAQ!\n\n https://t.co/QNU5eLLnh2",
-   "started_at": "2026-10-18T21:38:42.000Z",
-   "assumed_live_until": "2026-10-19T00:38:42Z"
+   "text": "Press Briefing on Incident & Fire at CFB Wainwright - LIVE Breaking News Coverage #wainwright #alberta https://t.co/G8UNMLOXmn",
+   "started_at": "2026-10-18T21:03:06.000Z",
+   "assumed_live_until": "2026-10-19T00:03:06Z"
   }
  ]
 }
