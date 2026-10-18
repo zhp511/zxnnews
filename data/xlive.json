@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-18T12:06:02Z",
- "searched_at": "2026-10-18T12:05:00Z",
+ "built_at": "2026-10-18T12:26:52Z",
+ "searched_at": "2026-10-18T12:26:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -65,16 +65,6 @@
    "assumed_live_until": "2026-10-18T14:14:23Z"
   },
   {
-   "post_id": "2111790069417988298",
-   "post_url": "https://x.com/utvghana/status/2111790069417988298",
-   "name": "UTV Ghana",
-   "username": "utvghana",
-   "verified_type": "blue",
-   "text": "MIDDAY NEWS 18/10/26 https://t.co/WZcYHGR7CC",
-   "started_at": "2026-10-18T12:02:42.000Z",
-   "assumed_live_until": "2026-10-18T15:02:42Z"
-  },
-  {
    "post_id": "2111789379773686010",
    "post_url": "https://x.com/GBNEWS/status/2111789379773686010",
    "name": "GB News",
@@ -83,6 +73,16 @@
    "text": "GB News https://t.co/sxLnzeoqkV",
    "started_at": "2026-10-18T11:59:57.000Z",
    "assumed_live_until": "2026-10-18T14:59:57Z"
+  },
+  {
+   "post_id": "2111790069417988298",
+   "post_url": "https://x.com/utvghana/status/2111790069417988298",
+   "name": "UTV Ghana",
+   "username": "utvghana",
+   "verified_type": "blue",
+   "text": "MIDDAY NEWS 18/10/26 https://t.co/WZcYHGR7CC",
+   "started_at": "2026-10-18T12:02:42.000Z",
+   "assumed_live_until": "2026-10-18T15:02:42Z"
   }
  ]
 }
