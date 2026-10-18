@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-18T09:05:29Z",
- "searched_at": "2026-10-18T09:05:00Z",
+ "built_at": "2026-10-18T09:25:53Z",
+ "searched_at": "2026-10-18T09:25:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,6 +45,16 @@
    "assumed_live_until": "2026-10-18T10:10:57Z"
   },
   {
+   "post_id": "2111744585466794301",
+   "post_url": "https://x.com/TheLeedsLens/status/2111744585466794301",
+   "name": "TheLeedsLens",
+   "username": "TheLeedsLens",
+   "verified_type": "blue",
+   "text": "LIVE ON Youtube! | #LUFC vs #MUFC Build Up | #LUFC News https://t.co/UYvsTk4o8f",
+   "started_at": "2026-10-18T09:01:58.000Z",
+   "assumed_live_until": "2026-10-18T12:01:58Z"
+  },
+  {
    "post_id": "2111741583423111441",
    "post_url": "https://x.com/RadioPakistan/status/2111741583423111441",
    "name": "Radio Pakistan",
@@ -73,16 +83,6 @@
    "text": "debate live https://t.co/MGZMPQn2n2",
    "started_at": "2026-10-18T07:31:00.000Z",
    "assumed_live_until": "2026-10-18T10:31:00Z"
-  },
-  {
-   "post_id": "2111744585466794301",
-   "post_url": "https://x.com/TheLeedsLens/status/2111744585466794301",
-   "name": "TheLeedsLens",
-   "username": "TheLeedsLens",
-   "verified_type": "blue",
-   "text": "LIVE ON Youtube! | #LUFC vs #MUFC Build Up | #LUFC News https://t.co/UYvsTk4o8f",
-   "started_at": "2026-10-18T09:01:58.000Z",
-   "assumed_live_until": "2026-10-18T12:01:58Z"
   }
  ]
 }
