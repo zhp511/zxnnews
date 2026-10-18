@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-18T02:25:20Z",
- "searched_at": "2026-10-18T02:25:20Z",
+ "built_at": "2026-10-18T02:41:40Z",
+ "searched_at": "2026-10-18T02:41:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,6 +45,16 @@
    "assumed_live_until": "2026-10-18T05:00:19Z"
   },
   {
+   "post_id": "2111647072797745157",
+   "post_url": "https://x.com/TheRlyBigShow/status/2111647072797745157",
+   "name": "The Really Big Show",
+   "username": "TheRlyBigShow",
+   "verified_type": "blue",
+   "text": "Decision Day: BC municipal election live results 2026 https://t.co/OXJtOguRMa",
+   "started_at": "2026-10-18T02:34:29.000Z",
+   "assumed_live_until": "2026-10-18T05:34:29Z"
+  },
+  {
    "post_id": "2111638488743616979",
    "post_url": "https://x.com/thisisshah_/status/2111638488743616979",
    "name": "This Is Shah",
@@ -73,16 +83,6 @@
    "text": "LIVE NOW, Talking current events, geopoltics, domestic politics, or whatever I feel like. https://t.co/l9cctbI60k",
    "started_at": "2026-10-18T01:05:27.000Z",
    "assumed_live_until": "2026-10-18T04:05:27Z"
-  },
-  {
-   "post_id": "2111627273325687062",
-   "post_url": "https://x.com/nauman_rustam/status/2111627273325687062",
-   "name": "Nauman Rustam Shaikh",
-   "username": "nauman_rustam",
-   "verified_type": "blue",
-   "text": "Team Progressive SANA Election Campaign Launch Houston 2026 https://t.co/HsYfFfzwu7",
-   "started_at": "2026-10-18T01:15:48.000Z",
-   "assumed_live_until": "2026-10-18T04:15:48Z"
   }
  ]
 }
