@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-18T08:32:49Z",
- "searched_at": "2026-10-18T08:32:40Z",
+ "built_at": "2026-10-18T08:48:08Z",
+ "searched_at": "2026-10-18T08:47:55Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2111737356814541246",
+   "post_url": "https://x.com/YSRCParty/status/2111737356814541246",
+   "name": "YSR Congress Party",
+   "username": "YSRCParty",
+   "verified_type": "blue",
+   "text": "LIVE: YSRCP Chief & Former CM @YSJagan Meets State Election Commissioner in Vijayawada https://t.co/j6WZ5FpKQe",
+   "started_at": "2026-10-18T08:33:14.000Z",
+   "assumed_live_until": "2026-10-18T11:33:14Z"
+  },
   {
    "post_id": "2111733660466700793",
    "post_url": "https://x.com/RTVnewsnetwork/status/2111733660466700793",
@@ -33,16 +43,6 @@
    "text": "Ice Poseidon Battle Royale + Andrew Wilson Debate https://t.co/DZDoFq7PRr",
    "started_at": "2026-10-18T06:39:37.000Z",
    "assumed_live_until": "2026-10-18T09:39:37Z"
-  },
-  {
-   "post_id": "2111694100390936687",
-   "post_url": "https://x.com/ProtestMusica/status/2111694100390936687",
-   "name": "Protest & Musica 🎶 🌎📺 🚨🎃",
-   "username": "ProtestMusica",
-   "verified_type": "none",
-   "text": "🔴Live | Al Jazeera News https://t.co/kf7UmN4sU0",
-   "started_at": "2026-10-18T05:41:21.000Z",
-   "assumed_live_until": "2026-10-18T08:41:21Z"
   },
   {
    "post_id": "2111721693844832282",
