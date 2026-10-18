@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-18T07:20:47Z",
- "searched_at": "2026-10-18T07:20:35Z",
+ "built_at": "2026-10-18T07:37:10Z",
+ "searched_at": "2026-10-18T07:36:45Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -63,6 +63,16 @@
    "text": "Ice Poseidon Battle Royale + Andrew Wilson Debate https://t.co/DZDoFq7PRr",
    "started_at": "2026-10-18T06:39:37.000Z",
    "assumed_live_until": "2026-10-18T09:39:37Z"
+  },
+  {
+   "post_id": "2111721693844832282",
+   "post_url": "https://x.com/LiPunjab/status/2111721693844832282",
+   "name": "Living India News",
+   "username": "LiPunjab",
+   "verified_type": "blue",
+   "text": "debate live https://t.co/MGZMPQn2n2",
+   "started_at": "2026-10-18T07:31:00.000Z",
+   "assumed_live_until": "2026-10-18T10:31:00Z"
   }
  ]
 }
