@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-18T17:25:55Z",
- "searched_at": "2026-10-18T17:25:40Z",
+ "built_at": "2026-10-18T17:45:27Z",
+ "searched_at": "2026-10-18T17:45:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2111828227094380783",
-   "post_url": "https://x.com/ANI/status/2111828227094380783",
-   "name": "ANI",
-   "username": "ANI",
-   "verified_type": "business",
-   "text": "LIVE: Asaduddin Owaisi Holds Major Rally in Uttar Pradesh’s Rampur I UP Election I BJP I SP I Azam Khan https://t.co/PbdsVflMCV",
-   "started_at": "2026-10-18T14:34:19.000Z",
-   "assumed_live_until": "2026-10-18T17:34:19Z"
-  },
   {
    "post_id": "2111867498576658556",
    "post_url": "https://x.com/Dialogue_NRA/status/2111867498576658556",
@@ -75,14 +65,24 @@
    "assumed_live_until": "2026-10-18T19:16:59Z"
   },
   {
-   "post_id": "2111826163459039642",
-   "post_url": "https://x.com/IndiaToday/status/2111826163459039642",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
-   "verified_type": "business",
-   "text": "#LIVE || Watch the top news and headlines at this hour | #ITLivestream https://t.co/R8hEV08kKK",
-   "started_at": "2026-10-18T14:26:07.000Z",
-   "assumed_live_until": "2026-10-18T17:26:07Z"
+   "post_id": "2111834729851040005",
+   "post_url": "https://x.com/omantvnews/status/2111834729851040005",
+   "name": "مركز الأخبار",
+   "username": "omantvnews",
+   "verified_type": "blue",
+   "text": "Live broadcast | English News Bulletin https://t.co/IosiMcFxov",
+   "started_at": "2026-10-18T15:00:10.000Z",
+   "assumed_live_until": "2026-10-18T18:00:10Z"
+  },
+  {
+   "post_id": "2111844787884368190",
+   "post_url": "https://x.com/MYANC/status/2111844787884368190",
+   "name": "ANC - African National Congress",
+   "username": "MYANC",
+   "verified_type": "blue",
+   "text": "[WATCH] ANC President Cde Cyril Ramaphosa Doorstep Interview in Khayelitsha, Western Cape https://t.co/c7XhmMVxOj",
+   "started_at": "2026-10-18T15:40:08.000Z",
+   "assumed_live_until": "2026-10-18T18:40:08Z"
   }
  ]
 }
