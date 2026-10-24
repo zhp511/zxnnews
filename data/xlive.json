@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T15:20:57Z",
- "searched_at": "2026-10-24T15:20:30Z",
+ "built_at": "2026-10-24T15:40:32Z",
+ "searched_at": "2026-10-24T15:40:32Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,6 +45,16 @@
    "assumed_live_until": "2026-10-24T18:00:10Z"
   },
   {
+   "post_id": "2114012376442036493",
+   "post_url": "https://x.com/Dialogue_NRA/status/2114012376442036493",
+   "name": "Dialogue works",
+   "username": "Dialogue_NRA",
+   "verified_type": "blue",
+   "text": "Seyed M. Marandi: BREAKING: Iran Is Testing New Missiles Almost Every Day https://t.co/vvdafdM3qG",
+   "started_at": "2026-10-24T15:13:21.000Z",
+   "assumed_live_until": "2026-10-24T18:13:21Z"
+  },
+  {
    "post_id": "2113976673314238888",
    "post_url": "https://x.com/utvghana/status/2113976673314238888",
    "name": "UTV Ghana",
@@ -73,16 +83,6 @@
    "text": "Business Builders w/ Rebecca Pearson  & Jeff Nelson (President/Founder of DrinkNomics) - 10/24/2026 https://t.co/QRsdr1F9nQ",
    "started_at": "2026-10-24T13:57:00.000Z",
    "assumed_live_until": "2026-10-24T16:57:00Z"
-  },
-  {
-   "post_id": "2114012376442036493",
-   "post_url": "https://x.com/Dialogue_NRA/status/2114012376442036493",
-   "name": "Dialogue works",
-   "username": "Dialogue_NRA",
-   "verified_type": "blue",
-   "text": "Seyed M. Marandi: BREAKING: Iran Is Testing New Missiles Almost Every Day https://t.co/vvdafdM3qG",
-   "started_at": "2026-10-24T15:13:21.000Z",
-   "assumed_live_until": "2026-10-24T18:13:21Z"
   }
  ]
 }
