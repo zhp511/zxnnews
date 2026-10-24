@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-24T07:43:27Z",
- "searched_at": "2026-10-24T07:43:00Z",
+ "built_at": "2026-10-24T08:02:51Z",
+ "searched_at": "2026-10-24T08:03:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2113900804839260218",
+   "post_url": "https://x.com/ANI/status/2113900804839260218",
+   "name": "ANI",
+   "username": "ANI",
+   "verified_type": "business",
+   "text": "LIVE: BJP Press Conference by Ravi Shankar Prasad I CJP I Rahul Gandhi | Congress | PM Modi\n\n#ravishankarprasad #bjp #cjp #sir #gyaneshkumar #cjpprotest #jantarmantar #live #delhi #delhipolice #delhinews #news https://t.co/KbDmRk08dA",
+   "started_at": "2026-10-24T07:50:00.000Z",
+   "assumed_live_until": "2026-10-24T10:50:00Z"
+  },
   {
    "post_id": "2113866781979038015",
    "post_url": "https://x.com/dcloicint/status/2113866781979038015",
@@ -33,16 +43,6 @@
    "text": "AISA president Neha Bora addresses press conference on anti-SIR protests in New Delhi https://t.co/ckhjPaZWoX",
    "started_at": "2026-10-24T06:29:07.000Z",
    "assumed_live_until": "2026-10-24T09:29:07Z"
-  },
-  {
-   "post_id": "2113858055582650490",
-   "post_url": "https://x.com/GBNEWS/status/2113858055582650490",
-   "name": "GB News",
-   "username": "GBNEWS",
-   "verified_type": "business",
-   "text": "GB News https://t.co/fCFtYex1Qx",
-   "started_at": "2026-10-24T05:00:08.000Z",
-   "assumed_live_until": "2026-10-24T08:00:08Z"
   },
   {
    "post_id": "2113888332413562914",
