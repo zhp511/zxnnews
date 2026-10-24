@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T07:26:52Z",
- "searched_at": "2026-10-24T07:26:00Z",
+ "built_at": "2026-10-24T07:43:27Z",
+ "searched_at": "2026-10-24T07:43:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-10-24T08:00:08Z"
   },
   {
-   "post_id": "2113849778044072270",
-   "post_url": "https://x.com/IndiaToday/status/2113849778044072270",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
-   "verified_type": "business",
-   "text": "#LIVE | Watch the top news and headlines at this hour | #ITLivestream https://t.co/Gz7bbnCiws",
-   "started_at": "2026-10-24T04:27:15.000Z",
-   "assumed_live_until": "2026-10-24T07:27:15Z"
-  },
-  {
    "post_id": "2113888332413562914",
    "post_url": "https://x.com/Channel1TVGHA/status/2113888332413562914",
    "name": "ChannelOne TV",
@@ -83,6 +73,16 @@
    "text": "TNCC President @manickamtagore Avl Press Meet \nhttps://t.co/aUcE7Oz1pN",
    "started_at": "2026-10-24T06:12:26.000Z",
    "assumed_live_until": "2026-10-24T09:12:26Z"
+  },
+  {
+   "post_id": "2113881665659687263",
+   "post_url": "https://x.com/RadioPakistan/status/2113881665659687263",
+   "name": "Radio Pakistan",
+   "username": "RadioPakistan",
+   "verified_type": "blue",
+   "text": "#Live: Finance Minister Muhammad Aurangzeb is addressing a ceremony in Lahore \n@Financegovpk #News #RadioPakistan \n https://t.co/jN48jjhbjn",
+   "started_at": "2026-10-24T06:33:57.000Z",
+   "assumed_live_until": "2026-10-24T09:33:57Z"
   }
  ]
 }
