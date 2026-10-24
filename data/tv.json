@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-18T21:50:40Z",
+ "checked_at": "2026-10-24T00:04:38Z",
  "channels": [
   {
    "key": "foxweather",
@@ -9,8 +9,8 @@
    "handle": "FOXWeather",
    "watch_url": "https://www.youtube.com/@FOXWeather/live",
    "video_id": "wt6SIE7BXS8",
-   "ok": true,
-   "title": "Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts"
+   "ok": false,
+   "why": "check failed: HTTP Error 429: Too Many Requests"
   },
   {
    "key": "livenow",
@@ -20,8 +20,8 @@
    "handle": "LiveNOWFOX",
    "watch_url": "https://www.youtube.com/@LiveNOWFOX/live",
    "video_id": "4hA9l5Ikzcc",
-   "ok": true,
-   "title": "TOP STORIES: Pope Leo returns, Iran war latest, midterm elections"
+   "ok": false,
+   "why": "check failed: HTTP Error 429: Too Many Requests"
   },
   {
    "key": "cbs",
@@ -30,9 +30,9 @@
    "channel_id": "UC8p1vwvWtl6T73JiExfWs1g",
    "handle": "CBSNews",
    "watch_url": "https://www.youtube.com/@CBSNews/live",
-   "video_id": "MMCqhcEgwLQ",
-   "ok": false,
-   "why": "not live right now"
+   "video_id": "V1b6nTzIknA",
+   "ok": true,
+   "title": "LIVE: Breaking News and Top Stories on CBS News 24/7"
   },
   {
    "key": "abc",
@@ -41,9 +41,9 @@
    "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
    "handle": "ABCNews",
    "watch_url": "https://www.youtube.com/@ABCNews/live",
-   "video_id": "8w65vTwKqac",
+   "video_id": "rIm8DksJWBI",
    "ok": true,
-   "title": "LIVE: ABC News Live - Sunday, October 18"
+   "title": "LIVE: ABC News Live - Friday, October 23"
   },
   {
    "key": "nbc",
@@ -52,9 +52,9 @@
    "channel_id": "UCeY0bbntWzzVIaj2z3QigXg",
    "handle": "NBCNews",
    "watch_url": "https://www.youtube.com/@NBCNews/live",
-   "video_id": "KQT3uyD6jQQ",
+   "video_id": "tm8igW6KfIs",
    "ok": true,
-   "title": "LIVE: NBC News NOW"
+   "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 23"
   },
   {
    "key": "bloomberg",
@@ -74,9 +74,9 @@
    "channel_id": "UCoMdktPbSTixAyNGwb-UYkQ",
    "handle": "SkyNews",
    "watch_url": "https://www.youtube.com/@SkyNews/live",
-   "video_id": "sjyBhg80_dI",
+   "video_id": "Yu7NmfuvvbY",
    "ok": true,
-   "title": "France feels &#39;anger and shame&#39; after riots, Macron says | The Wrap with Gillian Joseph"
+   "title": "Meghan &#39;deeply distressed&#39; by &#39;disturbing allegations&#39; against her father | The Wrap"
   },
   {
    "key": "directv",
