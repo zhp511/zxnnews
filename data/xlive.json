@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-24T17:53:16Z",
- "searched_at": "2026-10-24T17:53:00Z",
+ "built_at": "2026-10-24T18:10:06Z",
+ "searched_at": "2026-10-24T18:09:50Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2114009014195691783",
-   "post_url": "https://x.com/marclamonthill/status/2114009014195691783",
-   "name": "Marc Lamont Hill",
-   "username": "marclamonthill",
-   "verified_type": "blue",
-   "text": "Electoral Politics: A Legacy of Victories and Failures with Activist Attorney ESMERALDA SIMMONS https://t.co/VgMj5Ac5Nf",
-   "started_at": "2026-10-24T15:00:00.000Z",
-   "assumed_live_until": "2026-10-24T18:00:00Z"
-  },
   {
    "post_id": "2114050246665793702",
    "post_url": "https://x.com/RSBNetwork/status/2114050246665793702",
@@ -23,6 +13,16 @@
    "text": "LIVE: President Trump Holds a Rally in Perry, GA - 10/24/26 https://t.co/RPldhaUHlv",
    "started_at": "2026-10-24T17:43:50.000Z",
    "assumed_live_until": "2026-10-24T20:43:50Z"
+  },
+  {
+   "post_id": "2114054319830155453",
+   "post_url": "https://x.com/RealAmVoice/status/2114054319830155453",
+   "name": "Real America's Voice (RAV)",
+   "username": "RealAmVoice",
+   "verified_type": "business",
+   "text": "RINGSIDE POLITICS WITH JEFF CROUERE https://t.co/wk7MnPmgZz",
+   "started_at": "2026-10-24T18:00:01.000Z",
+   "assumed_live_until": "2026-10-24T21:00:01Z"
   },
   {
    "post_id": "2114039340389249462",
@@ -55,6 +55,16 @@
    "assumed_live_until": "2026-10-24T19:07:34Z"
   },
   {
+   "post_id": "2114056010637992267",
+   "post_url": "https://x.com/magnonewslive/status/2114056010637992267",
+   "name": "MAGNO NEWS LIVE",
+   "username": "magnonewslive",
+   "verified_type": "blue",
+   "text": "🇧🇷 Flavio Bolsonaro Holds Epic Rally in Rio de Janeiro to Defeat Communist Lula in Brazil Presidential Election [LIVE] https://t.co/IKCHdGmxy7 #Bolsonaro #Lula #Brazil #Brasil #LulaVaiVirar  #LulaLadrãoSeuLugareNaPrisao",
+   "started_at": "2026-10-24T18:06:44.000Z",
+   "assumed_live_until": "2026-10-24T21:06:44Z"
+  },
+  {
    "post_id": "2114048845160001815",
    "post_url": "https://x.com/realjamesrossi/status/2114048845160001815",
    "name": "James Rossi 🇺🇸",
@@ -73,16 +83,6 @@
    "text": "Politics by other means - The Grayzone live https://t.co/Ii8B35ZWNl",
    "started_at": "2026-10-24T17:49:14.000Z",
    "assumed_live_until": "2026-10-24T20:49:14Z"
-  },
-  {
-   "post_id": "2114012376442036493",
-   "post_url": "https://x.com/Dialogue_NRA/status/2114012376442036493",
-   "name": "Dialogue works",
-   "username": "Dialogue_NRA",
-   "verified_type": "blue",
-   "text": "Seyed M. Marandi: BREAKING: Iran Is Testing New Missiles Almost Every Day https://t.co/vvdafdM3qG",
-   "started_at": "2026-10-24T15:13:21.000Z",
-   "assumed_live_until": "2026-10-24T18:13:21Z"
   }
  ]
 }
