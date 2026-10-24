@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T13:18:53Z",
- "searched_at": "2026-10-24T13:19:00Z",
+ "built_at": "2026-10-24T13:35:13Z",
+ "searched_at": "2026-10-24T13:35:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-10-24T15:20:29Z"
   },
   {
-   "post_id": "2113941484965949531",
-   "post_url": "https://x.com/sandeshnews/status/2113941484965949531",
-   "name": "Sandesh",
-   "username": "sandeshnews",
-   "verified_type": "blue",
-   "text": "Sandesh News https://t.co/klqPOPDjrb",
-   "started_at": "2026-10-24T10:31:39.000Z",
-   "assumed_live_until": "2026-10-24T13:31:39Z"
-  },
-  {
    "post_id": "2113976673314238888",
    "post_url": "https://x.com/utvghana/status/2113976673314238888",
    "name": "UTV Ghana",
@@ -83,6 +73,16 @@
    "text": "Anambra Moves Against Miracle Centres | NAFDAC, Ebola & More | LIVE NEWS https://t.co/HFcSJlIalv",
    "started_at": "2026-10-24T12:00:31.000Z",
    "assumed_live_until": "2026-10-24T15:00:31Z"
+  },
+  {
+   "post_id": "2113960462056620452",
+   "post_url": "https://x.com/wolf_neve/status/2113960462056620452",
+   "name": "Wolf Neve 🐺 💥 Politics and News VTuber!",
+   "username": "wolf_neve",
+   "verified_type": "blue",
+   "text": "🚨 EUROPE ON EDGE: Protests & Riots Spreading? | LIVE World News — Havoc Report https://t.co/QcqBaDKQl0",
+   "started_at": "2026-10-24T11:47:04.000Z",
+   "assumed_live_until": "2026-10-24T14:47:04Z"
   }
  ]
 }
