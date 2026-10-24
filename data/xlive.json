@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T12:26:14Z",
- "searched_at": "2026-10-24T12:25:00Z",
+ "built_at": "2026-10-24T12:43:24Z",
+ "searched_at": "2026-10-24T12:43:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,14 +25,14 @@
    "assumed_live_until": "2026-10-24T13:43:15Z"
   },
   {
-   "post_id": "2113926581651640323",
-   "post_url": "https://x.com/ZeeNews/status/2113926581651640323",
-   "name": "Zee News",
-   "username": "ZeeNews",
-   "verified_type": "blue",
-   "text": "zee news https://t.co/pEwJO7wrNS",
-   "started_at": "2026-10-24T09:32:26.000Z",
-   "assumed_live_until": "2026-10-24T12:32:26Z"
+   "post_id": "2113963726986793025",
+   "post_url": "https://x.com/GBNEWS/status/2113963726986793025",
+   "name": "GB News",
+   "username": "GBNEWS",
+   "verified_type": "business",
+   "text": "GB News https://t.co/PeNg1tiMax",
+   "started_at": "2026-10-24T12:00:02.000Z",
+   "assumed_live_until": "2026-10-24T15:00:02Z"
   },
   {
    "post_id": "2113937479829242180",
@@ -43,16 +43,6 @@
    "text": "TEAM NEWS LIVE: Charlton Athletic v Norwich City https://t.co/Ozvb1GRe4l",
    "started_at": "2026-10-24T10:15:44.000Z",
    "assumed_live_until": "2026-10-24T13:15:44Z"
-  },
-  {
-   "post_id": "2113963726986793025",
-   "post_url": "https://x.com/GBNEWS/status/2113963726986793025",
-   "name": "GB News",
-   "username": "GBNEWS",
-   "verified_type": "business",
-   "text": "GB News https://t.co/PeNg1tiMax",
-   "started_at": "2026-10-24T12:00:02.000Z",
-   "assumed_live_until": "2026-10-24T15:00:02Z"
   },
   {
    "post_id": "2113965550129070411",
@@ -83,6 +73,16 @@
    "text": "Sandesh News https://t.co/klqPOPDjrb",
    "started_at": "2026-10-24T10:31:39.000Z",
    "assumed_live_until": "2026-10-24T13:31:39Z"
+  },
+  {
+   "post_id": "2113963847178674189",
+   "post_url": "https://x.com/mediasapientia/status/2113963847178674189",
+   "name": "Sapientia Radio & TV",
+   "username": "mediasapientia",
+   "verified_type": "blue",
+   "text": "Anambra Moves Against Miracle Centres | NAFDAC, Ebola & More | LIVE NEWS https://t.co/HFcSJlIalv",
+   "started_at": "2026-10-24T12:00:31.000Z",
+   "assumed_live_until": "2026-10-24T15:00:31Z"
   }
  ]
 }
