@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T13:00:45Z",
- "searched_at": "2026-10-24T13:01:00Z",
+ "built_at": "2026-10-24T13:18:53Z",
+ "searched_at": "2026-10-24T13:19:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-10-24T15:00:02Z"
   },
   {
-   "post_id": "2113937479829242180",
-   "post_url": "https://x.com/pinkun/status/2113937479829242180",
-   "name": "The Pink Un",
-   "username": "pinkun",
-   "verified_type": "blue",
-   "text": "TEAM NEWS LIVE: Charlton Athletic v Norwich City https://t.co/Ozvb1GRe4l",
-   "started_at": "2026-10-24T10:15:44.000Z",
-   "assumed_live_until": "2026-10-24T13:15:44Z"
-  },
-  {
    "post_id": "2113968874257613247",
    "post_url": "https://x.com/anadoluagency/status/2113968874257613247",
    "name": "Anadolu English",
@@ -83,6 +73,16 @@
    "text": "MIDDAY NEWS  24/10/26 https://t.co/TXru30wtc7",
    "started_at": "2026-10-24T12:51:29.000Z",
    "assumed_live_until": "2026-10-24T15:51:29Z"
+  },
+  {
+   "post_id": "2113963847178674189",
+   "post_url": "https://x.com/mediasapientia/status/2113963847178674189",
+   "name": "Sapientia Radio & TV",
+   "username": "mediasapientia",
+   "verified_type": "blue",
+   "text": "Anambra Moves Against Miracle Centres | NAFDAC, Ebola & More | LIVE NEWS https://t.co/HFcSJlIalv",
+   "started_at": "2026-10-24T12:00:31.000Z",
+   "assumed_live_until": "2026-10-24T15:00:31Z"
   }
  ]
 }
