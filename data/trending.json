@@ -1,7 +1,7 @@
 {
- "built_at": "2026-10-24T09:56:52Z",
- "news_fetched_at": "2026-10-24T09:56:52Z",
- "trends_fetched_at": "2026-10-24T09:56:52Z",
+ "built_at": "2026-10-24T11:01:02Z",
+ "news_fetched_at": "2026-10-24T11:01:02Z",
+ "trends_fetched_at": "2026-10-24T11:01:02Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
@@ -87,6 +87,14 @@
  ],
  "trends": [
   {
+   "name": "#NIKKE4thAnniversary",
+   "url": "https://x.com/search?q=%23NIKKE4thAnniversary"
+  },
+  {
+   "name": "Good Saturday",
+   "url": "https://x.com/search?q=Good%20Saturday"
+  },
+  {
    "name": "#CulturalCreditMatters",
    "url": "https://x.com/search?q=%23CulturalCreditMatters"
   },
@@ -97,10 +105,6 @@
   {
    "name": "Amen Thompson",
    "url": "https://x.com/search?q=Amen%20Thompson"
-  },
-  {
-   "name": "Good Saturday",
-   "url": "https://x.com/search?q=Good%20Saturday"
   },
   {
    "name": "Wemby",
@@ -115,36 +119,32 @@
    "url": "https://x.com/search?q=%23ScarletHeartTH"
   },
   {
-   "name": "#mcrla2",
-   "url": "https://x.com/search?q=%23mcrla2"
-  },
-  {
    "name": "#pw_mg",
    "url": "https://x.com/search?q=%23pw_mg"
-  },
-  {
-   "name": "Sengun",
-   "url": "https://x.com/search?q=Sengun"
   },
   {
    "name": "Warriors",
    "url": "https://x.com/search?q=Warriors"
   },
   {
-   "name": "NC State",
-   "url": "https://x.com/search?q=NC%20State"
+   "name": "Sengun",
+   "url": "https://x.com/search?q=Sengun"
   },
   {
-   "name": "Grizzlies",
-   "url": "https://x.com/search?q=Grizzlies"
+   "name": "#MCRLA2",
+   "url": "https://x.com/search?q=%23MCRLA2"
   },
   {
    "name": "Gerard",
    "url": "https://x.com/search?q=Gerard"
   },
   {
-   "name": "#LaGranjaTraicion",
-   "url": "https://x.com/search?q=%23LaGranjaTraicion"
+   "name": "Kessler",
+   "url": "https://x.com/search?q=Kessler"
+  },
+  {
+   "name": "Grizzlies",
+   "url": "https://x.com/search?q=Grizzlies"
   }
  ]
 }
