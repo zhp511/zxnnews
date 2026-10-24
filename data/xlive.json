@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T03:49:36Z",
- "searched_at": "2026-10-24T03:49:30Z",
+ "built_at": "2026-10-24T04:05:22Z",
+ "searched_at": "2026-10-24T04:05:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -13,6 +13,16 @@
    "text": "U.S. President Donald Trump addresses midterm election rally in Fort Myers, Florida https://t.co/oZGpbRWHbF",
    "started_at": "2026-10-24T02:19:40.000Z",
    "assumed_live_until": "2026-10-24T05:19:40Z"
+  },
+  {
+   "post_id": "2113842927319556262",
+   "post_url": "https://x.com/RealAmVoice/status/2113842927319556262",
+   "name": "Real America's Voice (RAV)",
+   "username": "RealAmVoice",
+   "verified_type": "business",
+   "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/x43U0D9l8W",
+   "started_at": "2026-10-24T04:00:01.000Z",
+   "assumed_live_until": "2026-10-24T07:00:01Z"
   },
   {
    "post_id": "2113831168110133402",
@@ -45,34 +55,24 @@
    "assumed_live_until": "2026-10-24T04:12:56Z"
   },
   {
-   "post_id": "2113797679797162403",
-   "post_url": "https://x.com/TAANTV/status/2113797679797162403",
-   "name": "TAAN TV - The African American Network",
-   "username": "TAANTV",
+   "post_id": "2113835298631344273",
+   "post_url": "https://x.com/RobertW22306227/status/2113835298631344273",
+   "name": "Santee Walden",
+   "username": "RobertW22306227",
    "verified_type": "blue",
-   "text": "Naomi Taylor chatting about the Scott Colom US Senate Race https://t.co/UIzFaKVM2J",
-   "started_at": "2026-10-24T01:00:13.000Z",
-   "assumed_live_until": "2026-10-24T04:00:13Z"
+   "text": "The American Rules #B1 Plus More News https://t.co/wEzEyivji5",
+   "started_at": "2026-10-24T03:29:43.000Z",
+   "assumed_live_until": "2026-10-24T06:29:43Z"
   },
   {
-   "post_id": "2113798352198627707",
-   "post_url": "https://x.com/angertab/status/2113798352198627707",
-   "name": "Matt Tardio",
-   "username": "angertab",
-   "verified_type": "blue",
-   "text": "BREAKING: Iran Approves Nuclear Weapon | Russia's Secret Role https://t.co/8HLrEmj72C",
-   "started_at": "2026-10-24T01:02:54.000Z",
-   "assumed_live_until": "2026-10-24T04:02:54Z"
-  },
-  {
-   "post_id": "2113797722793013576",
-   "post_url": "https://x.com/dahboo7/status/2113797722793013576",
-   "name": "Dahboo7 🎙",
-   "username": "dahboo7",
-   "verified_type": "blue",
-   "text": "🔴UNDERGROUND WORLD NEWS LIVE 10/23/26 https://t.co/MqnsVxPir6",
-   "started_at": "2026-10-24T01:00:24.000Z",
-   "assumed_live_until": "2026-10-24T04:00:24Z"
+   "post_id": "2113834507602403423",
+   "post_url": "https://x.com/IndiaToday/status/2113834507602403423",
+   "name": "IndiaToday",
+   "username": "IndiaToday",
+   "verified_type": "business",
+   "text": "#LIVE | Watch the top news and headlines at this hour | #ITLivestream https://t.co/RqjOkY0nks",
+   "started_at": "2026-10-24T03:26:34.000Z",
+   "assumed_live_until": "2026-10-24T06:26:34Z"
   },
   {
    "post_id": "2113799281710923933",
