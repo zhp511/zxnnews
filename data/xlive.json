@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T17:00:37Z",
- "searched_at": "2026-10-24T17:00:00Z",
+ "built_at": "2026-10-24T17:17:20Z",
+ "searched_at": "2026-10-24T17:17:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,6 +25,16 @@
    "assumed_live_until": "2026-10-24T18:00:00Z"
   },
   {
+   "post_id": "2114039340389249462",
+   "post_url": "https://x.com/DavidKrayden/status/2114039340389249462",
+   "name": "David Krayden",
+   "username": "DavidKrayden",
+   "verified_type": "blue",
+   "text": "Countdown to Destiny: The BC Election https://t.co/Nd9ltVGKcZ",
+   "started_at": "2026-10-24T17:00:30.000Z",
+   "assumed_live_until": "2026-10-24T20:00:30Z"
+  },
+  {
    "post_id": "2114025645844111581",
    "post_url": "https://x.com/Obi1unome/status/2114025645844111581",
    "name": "Billy Ray Valentine",
@@ -45,6 +55,16 @@
    "assumed_live_until": "2026-10-24T19:07:34Z"
   },
   {
+   "post_id": "2114012376442036493",
+   "post_url": "https://x.com/Dialogue_NRA/status/2114012376442036493",
+   "name": "Dialogue works",
+   "username": "Dialogue_NRA",
+   "verified_type": "blue",
+   "text": "Seyed M. Marandi: BREAKING: Iran Is Testing New Missiles Almost Every Day https://t.co/vvdafdM3qG",
+   "started_at": "2026-10-24T15:13:21.000Z",
+   "assumed_live_until": "2026-10-24T18:13:21Z"
+  },
+  {
    "post_id": "2114009059682894189",
    "post_url": "https://x.com/omantvnews/status/2114009059682894189",
    "name": "مركز الأخبار",
@@ -63,26 +83,6 @@
    "text": "LIVE: STV Haryana News-Haryana Vision 2047 Summit https://t.co/sSPnNtiyV1",
    "started_at": "2026-10-24T14:39:54.000Z",
    "assumed_live_until": "2026-10-24T17:39:54Z"
-  },
-  {
-   "post_id": "2114012376442036493",
-   "post_url": "https://x.com/Dialogue_NRA/status/2114012376442036493",
-   "name": "Dialogue works",
-   "username": "Dialogue_NRA",
-   "verified_type": "blue",
-   "text": "Seyed M. Marandi: BREAKING: Iran Is Testing New Missiles Almost Every Day https://t.co/vvdafdM3qG",
-   "started_at": "2026-10-24T15:13:21.000Z",
-   "assumed_live_until": "2026-10-24T18:13:21Z"
-  },
-  {
-   "post_id": "2114008282314785227",
-   "post_url": "https://x.com/LincolnSquareHQ/status/2114008282314785227",
-   "name": "Lincoln Square",
-   "username": "LincolnSquareHQ",
-   "verified_type": "blue",
-   "text": "Kelley Robinson, Human Rights Campaign President, Joins Maya May https://t.co/MKECYOEbTU",
-   "started_at": "2026-10-24T14:57:05.000Z",
-   "assumed_live_until": "2026-10-24T17:57:05Z"
   }
  ]
 }
