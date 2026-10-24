@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-24T11:05:04Z",
- "searched_at": "2026-10-24T11:05:00Z",
+ "built_at": "2026-10-24T11:24:14Z",
+ "searched_at": "2026-10-24T11:23:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2113950614304829733",
+   "post_url": "https://x.com/INCGoa/status/2113950614304829733",
+   "name": "Goa Congress",
+   "username": "INCGoa",
+   "verified_type": "blue",
+   "text": "LIVE: Press Briefing by GPCC Media and Communication Dept. Chairman Amarnath Panjikar and RTI Dept. Chairman Uday at Congress House Panjim. https://t.co/bxGT4zIvAE",
+   "started_at": "2026-10-24T11:07:56.000Z",
+   "assumed_live_until": "2026-10-24T14:07:56Z"
+  },
   {
    "post_id": "2113926773025194305",
    "post_url": "https://x.com/LeftysFear/status/2113926773025194305",
@@ -35,16 +45,6 @@
    "assumed_live_until": "2026-10-24T12:32:26Z"
   },
   {
-   "post_id": "2113937479829242180",
-   "post_url": "https://x.com/pinkun/status/2113937479829242180",
-   "name": "The Pink Un",
-   "username": "pinkun",
-   "verified_type": "blue",
-   "text": "TEAM NEWS LIVE: Charlton Athletic v Norwich City https://t.co/Ozvb1GRe4l",
-   "started_at": "2026-10-24T10:15:44.000Z",
-   "assumed_live_until": "2026-10-24T13:15:44Z"
-  },
-  {
    "post_id": "2113948630885564439",
    "post_url": "https://x.com/GBNEWS/status/2113948630885564439",
    "name": "GB News",
@@ -53,6 +53,16 @@
    "text": "GB News https://t.co/fH6laFOcxs",
    "started_at": "2026-10-24T11:00:03.000Z",
    "assumed_live_until": "2026-10-24T14:00:03Z"
+  },
+  {
+   "post_id": "2113937479829242180",
+   "post_url": "https://x.com/pinkun/status/2113937479829242180",
+   "name": "The Pink Un",
+   "username": "pinkun",
+   "verified_type": "blue",
+   "text": "TEAM NEWS LIVE: Charlton Athletic v Norwich City https://t.co/Ozvb1GRe4l",
+   "started_at": "2026-10-24T10:15:44.000Z",
+   "assumed_live_until": "2026-10-24T13:15:44Z"
   },
   {
    "post_id": "2113941484965949531",
@@ -73,16 +83,6 @@
    "text": "President John Dramani Mahama, Chairperson of the Tana Forum, Opens the 12th Tana High-Level Forum on Security in Africa in Bahir Dar, Ethiopia. https://t.co/T0WuUDuTwk",
    "started_at": "2026-10-24T09:13:41.000Z",
    "assumed_live_until": "2026-10-24T12:13:41Z"
-  },
-  {
-   "post_id": "2113918534636253371",
-   "post_url": "https://x.com/TheLeedsLens/status/2113918534636253371",
-   "name": "TheLeedsLens",
-   "username": "TheLeedsLens",
-   "verified_type": "blue",
-   "text": "LIVE ON Youtube! | DCL Expected To Start Against Sunderland? | Ipswich & Forest Drop Points! | #LUFC News https://t.co/37Dzjm8tsB",
-   "started_at": "2026-10-24T09:00:28.000Z",
-   "assumed_live_until": "2026-10-24T12:00:28Z"
   }
  ]
 }
