@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-24T11:43:06Z",
- "searched_at": "2026-10-24T11:43:00Z",
+ "built_at": "2026-10-24T12:02:16Z",
+ "searched_at": "2026-10-24T12:02:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2113961213667500167",
+   "post_url": "https://x.com/OffTopicShow2/status/2113961213667500167",
+   "name": "Off Topic Show",
+   "username": "OffTopicShow2",
+   "verified_type": "blue",
+   "text": "OFF TOPIC SHOW | Trump’s Weird Glitches, Ilhan Votes, Gavin vs Piers & UK Preps for Terror  #OffTopicShow #CompoundCensored #TrumpGlitches #IlhanOmar #GavinMcInnes #WesStreeting #JasonRezaJorjani #live #Livenow #News  #livenews https://t.co/IRbbeO1Hhl",
+   "started_at": "2026-10-24T11:50:03.000Z",
+   "assumed_live_until": "2026-10-24T14:50:03Z"
+  },
   {
    "post_id": "2113950614304829733",
    "post_url": "https://x.com/INCGoa/status/2113950614304829733",
@@ -35,16 +45,6 @@
    "assumed_live_until": "2026-10-24T13:43:15Z"
   },
   {
-   "post_id": "2113948630885564439",
-   "post_url": "https://x.com/GBNEWS/status/2113948630885564439",
-   "name": "GB News",
-   "username": "GBNEWS",
-   "verified_type": "business",
-   "text": "GB News https://t.co/fH6laFOcxs",
-   "started_at": "2026-10-24T11:00:03.000Z",
-   "assumed_live_until": "2026-10-24T14:00:03Z"
-  },
-  {
    "post_id": "2113926581651640323",
    "post_url": "https://x.com/ZeeNews/status/2113926581651640323",
    "name": "Zee News",
@@ -65,6 +65,16 @@
    "assumed_live_until": "2026-10-24T13:15:44Z"
   },
   {
+   "post_id": "2113955265368481990",
+   "post_url": "https://x.com/an8gi7yec20ru/status/2113955265368481990",
+   "name": "Angie Cruickshank",
+   "username": "an8gi7yec20ru",
+   "verified_type": "none",
+   "text": "Premier League Live Stream Now' — Aston Villa vs Manchester City.\n\nAston Villa vs Manchester City: Live Match News and Reactions.\n#EPL #VILLACITY #AVFC #MCFC\nhttps://t.co/JdpJ2Rd42h",
+   "started_at": "2026-10-24T11:26:25.000Z",
+   "assumed_live_until": "2026-10-24T14:26:25Z"
+  },
+  {
    "post_id": "2113921862526984457",
    "post_url": "https://x.com/gbcnews_/status/2113921862526984457",
    "name": "GBC News",
@@ -73,16 +83,6 @@
    "text": "President John Dramani Mahama, Chairperson of the Tana Forum, Opens the 12th Tana High-Level Forum on Security in Africa in Bahir Dar, Ethiopia. https://t.co/T0WuUDuTwk",
    "started_at": "2026-10-24T09:13:41.000Z",
    "assumed_live_until": "2026-10-24T12:13:41Z"
-  },
-  {
-   "post_id": "2113941484965949531",
-   "post_url": "https://x.com/sandeshnews/status/2113941484965949531",
-   "name": "Sandesh",
-   "username": "sandeshnews",
-   "verified_type": "blue",
-   "text": "Sandesh News https://t.co/klqPOPDjrb",
-   "started_at": "2026-10-24T10:31:39.000Z",
-   "assumed_live_until": "2026-10-24T13:31:39Z"
   }
  ]
 }
