@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-24T05:11:56Z",
- "searched_at": "2026-10-24T05:11:30Z",
+ "built_at": "2026-10-24T05:28:26Z",
+ "searched_at": "2026-10-24T05:28:20Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2113817669980045667",
-   "post_url": "https://x.com/the_hindu/status/2113817669980045667",
-   "name": "The Hindu",
-   "username": "the_hindu",
-   "verified_type": "blue",
-   "text": "U.S. President Donald Trump addresses midterm election rally in Fort Myers, Florida https://t.co/oZGpbRWHbF",
-   "started_at": "2026-10-24T02:19:40.000Z",
-   "assumed_live_until": "2026-10-24T05:19:40Z"
-  },
   {
    "post_id": "2113842927319556262",
    "post_url": "https://x.com/RealAmVoice/status/2113842927319556262",
@@ -23,16 +13,6 @@
    "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/x43U0D9l8W",
    "started_at": "2026-10-24T04:00:01.000Z",
    "assumed_live_until": "2026-10-24T07:00:01Z"
-  },
-  {
-   "post_id": "2113816052689953112",
-   "post_url": "https://x.com/paramounttactcl/status/2113816052689953112",
-   "name": "Paramount Tactical - Gary Melton",
-   "username": "paramounttactcl",
-   "verified_type": "blue",
-   "text": "Charlie Kirk Conspiracy Debate With Blake Bednarz - Was It Tyler Robinson On The Roof? https://t.co/AAbpkqoukS",
-   "started_at": "2026-10-24T02:13:14.000Z",
-   "assumed_live_until": "2026-10-24T05:13:14Z"
   },
   {
    "post_id": "2113831168110133402",
@@ -55,26 +35,6 @@
    "assumed_live_until": "2026-10-24T05:47:39Z"
   },
   {
-   "post_id": "2113819756080062550",
-   "post_url": "https://x.com/RealDaveIbrahim/status/2113819756080062550",
-   "name": "Dave Ibrahim",
-   "username": "RealDaveIbrahim",
-   "verified_type": "blue",
-   "text": "ETHAN KLEIN ACCUSED OF AFFAIR, H3 CREW WALKS OUT | TRUMP VS LEBRON: \"TOTAL DISGRACE\" | LANGLEY ATTACK CAUGHT ON CAMERA https://t.co/NqMSXv5b1m",
-   "started_at": "2026-10-24T02:27:57.000Z",
-   "assumed_live_until": "2026-10-24T05:27:57Z"
-  },
-  {
-   "post_id": "2113818006488756334",
-   "post_url": "https://x.com/MassStash/status/2113818006488756334",
-   "name": "MassStash™",
-   "username": "MassStash",
-   "verified_type": "blue",
-   "text": "639,000. That is the size of Jack Smith’s Trump supporter list. They kept the file. We have the receipt. https://t.co/FNFdfuKRDO",
-   "started_at": "2026-10-24T02:21:00.000Z",
-   "assumed_live_until": "2026-10-24T05:21:00Z"
-  },
-  {
    "post_id": "2113835298631344273",
    "post_url": "https://x.com/RobertW22306227/status/2113835298631344273",
    "name": "Santee Walden",
@@ -83,6 +43,46 @@
    "text": "The American Rules #B1 Plus More News https://t.co/wEzEyivji5",
    "started_at": "2026-10-24T03:29:43.000Z",
    "assumed_live_until": "2026-10-24T06:29:43Z"
+  },
+  {
+   "post_id": "2113849778044072270",
+   "post_url": "https://x.com/IndiaToday/status/2113849778044072270",
+   "name": "IndiaToday",
+   "username": "IndiaToday",
+   "verified_type": "business",
+   "text": "#LIVE | Watch the top news and headlines at this hour | #ITLivestream https://t.co/Gz7bbnCiws",
+   "started_at": "2026-10-24T04:27:15.000Z",
+   "assumed_live_until": "2026-10-24T07:27:15Z"
+  },
+  {
+   "post_id": "2113858055582650490",
+   "post_url": "https://x.com/GBNEWS/status/2113858055582650490",
+   "name": "GB News",
+   "username": "GBNEWS",
+   "verified_type": "business",
+   "text": "GB News https://t.co/fCFtYex1Qx",
+   "started_at": "2026-10-24T05:00:08.000Z",
+   "assumed_live_until": "2026-10-24T08:00:08Z"
+  },
+  {
+   "post_id": "2113828592501297282",
+   "post_url": "https://x.com/AJPArmy/status/2113828592501297282",
+   "name": "Average Joe Patriot 1776",
+   "username": "AJPArmy",
+   "verified_type": "blue",
+   "text": "LIVE NOW\nRapid Fire News #1235 ~F A F O FRIDAY~\nhttps://t.co/BmulBTVOoH",
+   "started_at": "2026-10-24T03:03:04.000Z",
+   "assumed_live_until": "2026-10-24T06:03:04Z"
+  },
+  {
+   "post_id": "2113820258301776335",
+   "post_url": "https://x.com/_ARMedia/status/2113820258301776335",
+   "name": "America Rising Media",
+   "username": "_ARMedia",
+   "verified_type": "blue",
+   "text": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 201 https://t.co/bOl6tLeMHP",
+   "started_at": "2026-10-24T02:29:57.000Z",
+   "assumed_live_until": "2026-10-24T05:29:57Z"
   }
  ]
 }
