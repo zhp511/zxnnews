@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T08:02:51Z",
- "searched_at": "2026-10-24T08:03:00Z",
+ "built_at": "2026-10-24T08:21:16Z",
+ "searched_at": "2026-10-24T08:21:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-10-24T10:00:27Z"
   },
   {
-   "post_id": "2113886732353757535",
-   "post_url": "https://x.com/FootscraysFine1/status/2113886732353757535",
-   "name": "Footscray's Finest",
-   "username": "FootscraysFine1",
-   "verified_type": "blue",
-   "text": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH SEXUALLY ASSAULTING A GARDEN GNOME. TRACES OF ROHYPNOL FOUND IN HIS HAIR https://t.co/P9W7zQqmWP",
-   "started_at": "2026-10-24T06:54:05.000Z",
-   "assumed_live_until": "2026-10-24T09:54:05Z"
-  },
-  {
    "post_id": "2113876251626889637",
    "post_url": "https://x.com/SALAMMASS1/status/2113876251626889637",
    "name": "Salam Mass",
@@ -83,6 +73,16 @@
    "text": "#Live: Finance Minister Muhammad Aurangzeb is addressing a ceremony in Lahore \n@Financegovpk #News #RadioPakistan \n https://t.co/jN48jjhbjn",
    "started_at": "2026-10-24T06:33:57.000Z",
    "assumed_live_until": "2026-10-24T09:33:57Z"
+  },
+  {
+   "post_id": "2113898808539242694",
+   "post_url": "https://x.com/StarAsiatvHD/status/2113898808539242694",
+   "name": "Star Asia Tv",
+   "username": "StarAsiatvHD",
+   "verified_type": "blue",
+   "text": "News Bulletin Star Asia Tv Live https://t.co/w7mBk2vTaX",
+   "started_at": "2026-10-24T07:42:04.000Z",
+   "assumed_live_until": "2026-10-24T10:42:04Z"
   }
  ]
 }
