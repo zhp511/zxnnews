@@ -1,5 +1,13 @@
 {
- "live": false,
- "checked_at": "2026-10-18T22:16:54.832620Z",
- "detection": "A post linking to an X broadcast counts as live for 3 h after posting (X's API doesn't report when a broadcast ends)."
+ "live": true,
+ "checked_at": "2026-10-24T00:00:37.119953Z",
+ "detection": "A post linking to an X broadcast counts as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
+ "post_id": "2113775317668290832",
+ "post_url": "https://x.com/zxnbluehandus/status/2113775317668290832",
+ "broadcast_id": "1mxPaZokBmEKN",
+ "broadcast_url": "https://x.com/i/broadcasts/1mxPaZokBmEKN",
+ "title": "ZXN “ we are bluehand ” AND patriot one network",
+ "post_text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory   #smackdown #WWERAW",
+ "started_at": "2026-10-23T23:31:22.000Z",
+ "assumed_live_until": "2026-10-24T02:31:22Z"
 }
