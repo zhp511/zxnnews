@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T07:08:44Z",
- "searched_at": "2026-10-24T07:08:00Z",
+ "built_at": "2026-10-24T07:26:52Z",
+ "searched_at": "2026-10-24T07:26:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -65,6 +65,16 @@
    "assumed_live_until": "2026-10-24T10:00:27Z"
   },
   {
+   "post_id": "2113886732353757535",
+   "post_url": "https://x.com/FootscraysFine1/status/2113886732353757535",
+   "name": "Footscray's Finest",
+   "username": "FootscraysFine1",
+   "verified_type": "blue",
+   "text": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH SEXUALLY ASSAULTING A GARDEN GNOME. TRACES OF ROHYPNOL FOUND IN HIS HAIR https://t.co/P9W7zQqmWP",
+   "started_at": "2026-10-24T06:54:05.000Z",
+   "assumed_live_until": "2026-10-24T09:54:05Z"
+  },
+  {
    "post_id": "2113876251626889637",
    "post_url": "https://x.com/SALAMMASS1/status/2113876251626889637",
    "name": "Salam Mass",
@@ -73,16 +83,6 @@
    "text": "TNCC President @manickamtagore Avl Press Meet \nhttps://t.co/aUcE7Oz1pN",
    "started_at": "2026-10-24T06:12:26.000Z",
    "assumed_live_until": "2026-10-24T09:12:26Z"
-  },
-  {
-   "post_id": "2113881665659687263",
-   "post_url": "https://x.com/RadioPakistan/status/2113881665659687263",
-   "name": "Radio Pakistan",
-   "username": "RadioPakistan",
-   "verified_type": "blue",
-   "text": "#Live: Finance Minister Muhammad Aurangzeb is addressing a ceremony in Lahore \n@Financegovpk #News #RadioPakistan \n https://t.co/jN48jjhbjn",
-   "started_at": "2026-10-24T06:33:57.000Z",
-   "assumed_live_until": "2026-10-24T09:33:57Z"
   }
  ]
 }
