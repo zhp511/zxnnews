@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-24T13:04:11Z",
- "news_fetched_at": "2026-10-24T13:04:00Z",
- "trends_fetched_at": "2026-10-24T13:04:00Z",
+ "built_at": "2026-10-24T14:06:50Z",
+ "news_fetched_at": "2026-10-24T14:07:00Z",
+ "trends_fetched_at": "2026-10-24T14:07:00Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
+  {
+   "id": "2113983563523846199",
+   "headline": "Bush Family Faces Backlash in Tight Texas Senate Race",
+   "hook": "A simple family portrait has turned into a flashpoint, with Trump supporters accusing the Bushes of quietly boosting Democrat James Talarico over GOP nominee Ken Paxton.",
+   "summary": "Texas Attorney General Ken Paxton, who beat out Bush family ties in past primaries and earned Trump's backing, faces state Rep. James Talarico in a toss-up Senate race flooded with outside spending, including from Elon Musk. Critics highlight George W. Bush skipping Paxton's fundraisers, elder Bush events excluding him, and reports of family members leaning Democratic, framing it as resistance to MAGA influence. The clash exposes a deep GOP rift between establishment legacies and Trump-aligned forces, with the race's result potentially tipping Senate control.",
+   "updated_at": "2026-10-24T13:23:00.000Z",
+   "url": "https://x.com/i/trending/2113983563523846199",
+   "topics": [],
+   "post_urls": []
+  },
   {
    "id": "2113891023965368470",
    "headline": "Republicans Push Voter Turnout Ahead of 2026 Midterms",
@@ -45,16 +55,6 @@
    "post_urls": []
   },
   {
-   "id": "2113674903635333577",
-   "headline": "Tillis Warns Trump's Coalition May Not Last Without Him",
-   "hook": "Over coffee at a Charlotte diner, retiring Sen. Thom Tillis shared a stark prediction about the Republican Party's future, sparking immediate pushback from conservatives.",
-   "summary": "In a POLITICO interview, North Carolina Sen. Thom Tillis, who is retiring in 2026 after clashes with Trump over Medicaid, said Trump's coalition would fade if Republicans return to traditional priorities like limited government and free markets. Critics pointed to 2012 election maps showing Mitt Romney's losses in states like North Carolina, Georgia, and Arizona, arguing Trump expanded the map by shifting focus to workers and broader appeal. They shared charts of growing Hispanic support and dismissed Tillis's view, insisting his 'traditional' approach led to repeated defeats while Trump's changes delivered wins.",
-   "updated_at": "2026-10-24T01:49:02.000Z",
-   "url": "https://x.com/i/trending/2113674903635333577",
-   "topics": [],
-   "post_urls": []
-  },
-  {
    "id": "2113623010510823832",
    "headline": "Cook Report Shifts 19 House Races Toward Democrats",
    "hook": "On October 23, the nonpartisan Cook Political Report adjusted ratings for 19 U.S. House races, tilting more toward Democrats and narrowing Republicans' path to holding their slim majority.",
@@ -87,64 +87,64 @@
  ],
  "trends": [
   {
-   "name": "Donnarumma",
-   "url": "https://x.com/search?q=Donnarumma"
-  },
-  {
    "name": "Good Saturday",
    "url": "https://x.com/search?q=Good%20Saturday"
   },
   {
-   "name": "#NIKKE4thAnniversary",
-   "url": "https://x.com/search?q=%23NIKKE4thAnniversary"
-  },
-  {
-   "name": "#上海必须追究姚润昊责任",
-   "url": "https://x.com/search?q=%23%E4%B8%8A%E6%B5%B7%E5%BF%85%E9%A1%BB%E8%BF%BD%E7%A9%B6%E5%A7%9A%E6%B6%A6%E6%98%8A%E8%B4%A3%E4%BB%BB"
-  },
-  {
-   "name": "#BladeRunnerAndPPGInCahoots",
-   "url": "https://x.com/search?q=%23BladeRunnerAndPPGInCahoots"
-  },
-  {
-   "name": "#AlconMustStopPPGCollab",
-   "url": "https://x.com/search?q=%23AlconMustStopPPGCollab"
-  },
-  {
-   "name": "Nicolas Jackson",
-   "url": "https://x.com/search?q=Nicolas%20Jackson"
-  },
-  {
-   "name": "Guehi",
-   "url": "https://x.com/search?q=Guehi"
-  },
-  {
-   "name": "Nico Jackson",
-   "url": "https://x.com/search?q=Nico%20Jackson"
+   "name": "Donnarumma",
+   "url": "https://x.com/search?q=Donnarumma"
   },
   {
    "name": "Villa",
    "url": "https://x.com/search?q=Villa"
   },
   {
-   "name": "#AVLMCI",
-   "url": "https://x.com/search?q=%23AVLMCI"
-  },
-  {
-   "name": "Caturday",
-   "url": "https://x.com/search?q=Caturday"
+   "name": "Nicolas Jackson",
+   "url": "https://x.com/search?q=Nicolas%20Jackson"
   },
   {
    "name": "StubHub",
    "url": "https://x.com/search?q=StubHub"
   },
   {
-   "name": "CULTURAL HERITAGE RECOGNITION",
-   "url": "https://x.com/search?q=CULTURAL%20HERITAGE%20RECOGNITION"
+   "name": "Guehi",
+   "url": "https://x.com/search?q=Guehi"
   },
   {
-   "name": "Ndiaye",
-   "url": "https://x.com/search?q=Ndiaye"
+   "name": "#上海必须追究姚润昊责任",
+   "url": "https://x.com/search?q=%23%E4%B8%8A%E6%B5%B7%E5%BF%85%E9%A1%BB%E8%BF%BD%E7%A9%B6%E5%A7%9A%E6%B6%A6%E6%98%8A%E8%B4%A3%E4%BB%BB"
+  },
+  {
+   "name": "#AlconMustStopPPGCollab",
+   "url": "https://x.com/search?q=%23AlconMustStopPPGCollab"
+  },
+  {
+   "name": "#BladeRunnerAndPPGInCahoots",
+   "url": "https://x.com/search?q=%23BladeRunnerAndPPGInCahoots"
+  },
+  {
+   "name": "Maresca",
+   "url": "https://x.com/search?q=Maresca"
+  },
+  {
+   "name": "Caturday",
+   "url": "https://x.com/search?q=Caturday"
+  },
+  {
+   "name": "#NIKKE4thAnniversary",
+   "url": "https://x.com/search?q=%23NIKKE4thAnniversary"
+  },
+  {
+   "name": "GAME DAY",
+   "url": "https://x.com/search?q=GAME%20DAY"
+  },
+  {
+   "name": "Nico Jackson",
+   "url": "https://x.com/search?q=Nico%20Jackson"
+  },
+  {
+   "name": "#SaturdayVibes",
+   "url": "https://x.com/search?q=%23SaturdayVibes"
   }
  ]
 }
