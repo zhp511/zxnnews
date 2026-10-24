@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-24T00:56:55Z",
- "searched_at": "2026-10-24T00:57:00Z",
+ "built_at": "2026-10-24T01:12:42Z",
+ "searched_at": "2026-10-24T01:13:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2113755111532966398",
-   "post_url": "https://x.com/AJNlive/status/2113755111532966398",
-   "name": "Alex Jones Network",
-   "username": "AJNlive",
-   "verified_type": "blue",
-   "text": "» WHAT HAPPENED TO MAHA?  Tiffany Cianci Joins Harrison Smith LIVE To Break Down RFK Jr.’s Health Agenda, The Movement’s Failures & The Road Ahead For America! – NOW LIVE! \n\n@TheVinoMom  \nhttps://t.co/xIXK4hstlO",
-   "started_at": "2026-10-23T22:11:04.000Z",
-   "assumed_live_until": "2026-10-24T01:11:04Z"
-  },
   {
    "post_id": "2113767457970401430",
    "post_url": "https://x.com/SecretAmericaTV/status/2113767457970401430",
@@ -45,16 +35,6 @@
    "assumed_live_until": "2026-10-24T02:04:18Z"
   },
   {
-   "post_id": "2113754222928003272",
-   "post_url": "https://x.com/magnonewslive/status/2113754222928003272",
-   "name": "MAGNO NEWS LIVE",
-   "username": "magnonewslive",
-   "verified_type": "blue",
-   "text": "🇺🇸 President Trump Returns to the White House following MAGA Rally in Fort Myers, Florida [LIVE] https://t.co/VckKbl7DG0",
-   "started_at": "2026-10-23T22:07:33.000Z",
-   "assumed_live_until": "2026-10-24T01:07:33Z"
-  },
-  {
    "post_id": "2113763791725060551",
    "post_url": "https://x.com/AmericaMission_/status/2113763791725060551",
    "name": "🦺America Mission",
@@ -83,6 +63,26 @@
    "text": "Toronto's 2026 municipal election is Monday, October 26 from 10 a.m. to 8 p.m\n\nStay Tuned to our LIVE Stream coverage from the studio, here with Greg Brady and Ben Mulroney. \n6pm-11pm. \n\nhttps://t.co/wQurGYwWFc",
    "started_at": "2026-10-23T22:59:09.000Z",
    "assumed_live_until": "2026-10-24T01:59:09Z"
+  },
+  {
+   "post_id": "2113774271449473224",
+   "post_url": "https://x.com/DianeSare/status/2113774271449473224",
+   "name": "Diane Sare",
+   "username": "DianeSare",
+   "verified_type": "blue",
+   "text": "Bibi Loves Bolsonaro: Why the Brazil Election Matters to Americans https://t.co/V8vOSJTAeB",
+   "started_at": "2026-10-23T23:27:12.000Z",
+   "assumed_live_until": "2026-10-24T02:27:12Z"
+  },
+  {
+   "post_id": "2113769872245379495",
+   "post_url": "https://x.com/killercarlshow/status/2113769872245379495",
+   "name": "The killer Carl radio show",
+   "username": "killercarlshow",
+   "verified_type": "blue",
+   "text": "Friday Night Live with Killer Carl: Politics and More https://t.co/aLDhUmo573",
+   "started_at": "2026-10-23T23:09:44.000Z",
+   "assumed_live_until": "2026-10-24T02:09:44Z"
   }
  ]
 }
