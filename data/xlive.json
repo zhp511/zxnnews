@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-24T02:00:49Z",
- "searched_at": "2026-10-24T02:00:30Z",
+ "built_at": "2026-10-24T02:21:57Z",
+ "searched_at": "2026-10-24T02:21:45Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2113817669980045667",
+   "post_url": "https://x.com/the_hindu/status/2113817669980045667",
+   "name": "The Hindu",
+   "username": "the_hindu",
+   "verified_type": "blue",
+   "text": "U.S. President Donald Trump addresses midterm election rally in Fort Myers, Florida https://t.co/oZGpbRWHbF",
+   "started_at": "2026-10-24T02:19:40.000Z",
+   "assumed_live_until": "2026-10-24T05:19:40Z"
+  },
   {
    "post_id": "2113785277777162327",
    "post_url": "https://x.com/MichaelJaco9/status/2113785277777162327",
@@ -15,16 +25,6 @@
    "assumed_live_until": "2026-10-24T03:10:57Z"
   },
   {
-   "post_id": "2113768507125145888",
-   "post_url": "https://x.com/furibemedia/status/2113768507125145888",
-   "name": "✭Fernando Uribe✭",
-   "username": "furibemedia",
-   "verified_type": "blue",
-   "text": "Justin Murphy For U.S. Senate Essex County and Union County Town Hall-October 23, 2026 https://t.co/7PRnwmpFfi",
-   "started_at": "2026-10-23T23:04:18.000Z",
-   "assumed_live_until": "2026-10-24T02:04:18Z"
-  },
-  {
    "post_id": "2113774271449473224",
    "post_url": "https://x.com/DianeSare/status/2113774271449473224",
    "name": "Diane Sare",
@@ -33,16 +33,6 @@
    "text": "Bibi Loves Bolsonaro: Why the Brazil Election Matters to Americans https://t.co/V8vOSJTAeB",
    "started_at": "2026-10-23T23:27:12.000Z",
    "assumed_live_until": "2026-10-24T02:27:12Z"
-  },
-  {
-   "post_id": "2113769872245379495",
-   "post_url": "https://x.com/killercarlshow/status/2113769872245379495",
-   "name": "The killer Carl radio show",
-   "username": "killercarlshow",
-   "verified_type": "blue",
-   "text": "Friday Night Live with Killer Carl: Politics and More https://t.co/aLDhUmo573",
-   "started_at": "2026-10-23T23:09:44.000Z",
-   "assumed_live_until": "2026-10-24T02:09:44Z"
   },
   {
    "post_id": "2113810112745734339",
@@ -83,6 +73,16 @@
    "text": "HOLD THE LINE, CAST THE VOTE: How the America-First Agenda is Saving the Streets https://t.co/7rEyeu3Jkr",
    "started_at": "2026-10-24T01:12:56.000Z",
    "assumed_live_until": "2026-10-24T04:12:56Z"
+  },
+  {
+   "post_id": "2113797679797162403",
+   "post_url": "https://x.com/TAANTV/status/2113797679797162403",
+   "name": "TAAN TV - The African American Network",
+   "username": "TAANTV",
+   "verified_type": "blue",
+   "text": "Naomi Taylor chatting about the Scott Colom US Senate Race https://t.co/UIzFaKVM2J",
+   "started_at": "2026-10-24T01:00:13.000Z",
+   "assumed_live_until": "2026-10-24T04:00:13Z"
   }
  ]
 }
