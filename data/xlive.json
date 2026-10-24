@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T17:17:20Z",
- "searched_at": "2026-10-24T17:17:00Z",
+ "built_at": "2026-10-24T17:32:56Z",
+ "searched_at": "2026-10-24T17:32:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -23,6 +23,16 @@
    "text": "Electoral Politics: A Legacy of Victories and Failures with Activist Attorney ESMERALDA SIMMONS https://t.co/VgMj5Ac5Nf",
    "started_at": "2026-10-24T15:00:00.000Z",
    "assumed_live_until": "2026-10-24T18:00:00Z"
+  },
+  {
+   "post_id": "2114046776005288146",
+   "post_url": "https://x.com/RSBNetwork/status/2114046776005288146",
+   "name": "RSBN 🇺🇸",
+   "username": "RSBNetwork",
+   "verified_type": "business",
+   "text": "LIVE: President Trump Holds a Rally in Macon, GA - 10/24/26 https://t.co/RPldhaVfb3",
+   "started_at": "2026-10-24T17:30:03.000Z",
+   "assumed_live_until": "2026-10-24T20:30:03Z"
   },
   {
    "post_id": "2114039340389249462",
@@ -73,16 +83,6 @@
    "text": "Live broadcast | English News Bulletin\n\n#OmanTVnews #مركز_الأخبار https://t.co/weKo3MsSYF",
    "started_at": "2026-10-24T15:00:10.000Z",
    "assumed_live_until": "2026-10-24T18:00:10Z"
-  },
-  {
-   "post_id": "2114003956062183511",
-   "post_url": "https://x.com/NayabSainiBJP/status/2114003956062183511",
-   "name": "Nayab Saini",
-   "username": "NayabSainiBJP",
-   "verified_type": "government",
-   "text": "LIVE: STV Haryana News-Haryana Vision 2047 Summit https://t.co/sSPnNtiyV1",
-   "started_at": "2026-10-24T14:39:54.000Z",
-   "assumed_live_until": "2026-10-24T17:39:54Z"
   }
  ]
 }
