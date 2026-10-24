@@ -1,0 +1,81 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ZXN · Your Election Day Headquarters · 2026 Midterms</title>
+<link rel="icon" href="../assets/election/zxn-icon.svg">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--red:#B22234;--blue:#0A3161;--navy:#071d3b;--line:#e3e6ec;--muted:#5b6475;--paper:#fbfaf7}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,sans-serif;background:var(--paper);color:#111827}
+header{background:var(--navy);padding:14px 16px;border-bottom:6px solid var(--red)}
+header .in{max-width:1200px;margin:auto;display:flex;align-items:center;gap:16px;flex-wrap:wrap;justify-content:space-between}
+header img{height:84px;max-width:100%}header a.home{color:#fff;font-weight:600;text-decoration:none;font-size:14px}
+.wrap{max-width:1200px;margin:auto;padding:14px 16px}
+.bar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between}
+.tabs button{font:700 16px Oswald,sans-serif;letter-spacing:1px;border:2px solid var(--blue);background:#fff;color:var(--blue);padding:8px 18px;cursor:pointer;border-radius:6px}
+.tabs button.on{background:var(--blue);color:#fff}
+#status{font-size:13px;color:var(--muted)}#status b{color:var(--red)}
+.count{display:flex;gap:6px;font:700 15px Oswald,sans-serif}.count span{padding:5px 10px;border-radius:4px;color:#fff}
+.grid{display:grid;grid-template-columns:1.6fr 1fr;gap:16px}@media(max-width:860px){.grid{grid-template-columns:1fr}header img{height:60px}}
+#map{background:#fff;border:1px solid var(--line);border-radius:10px;padding:6px}svg{width:100%;height:auto;display:block}
+path.st{stroke:#fff;stroke-width:.8;cursor:pointer}path.st:hover{stroke:#111;stroke-width:2}path.sel{stroke:#000;stroke-width:2.5}
+.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;margin:8px 4px}.legend i{display:inline-block;width:12px;height:12px;border-radius:2px;margin-right:4px;vertical-align:-1px}
+#panel{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px;max-height:640px;overflow:auto}
+#panel h2{font:700 26px Oswald,sans-serif;margin:0 0 4px;color:var(--navy)}.race{border-top:1px solid var(--line);padding:10px 0}
+.race h3{margin:0 0 4px;font:600 16px Oswald,sans-serif;color:var(--blue)}.meta{font-size:12px;color:var(--muted);margin-bottom:6px}
+.c{display:flex;justify-content:space-between;padding:4px 6px;border-left:5px solid #999;margin:3px 0;background:#f6f7f9;font-size:14px}
+.c.D{border-color:#1d4ed8}.c.R{border-color:var(--red)}.c.win{font-weight:800;background:#fff6d6}
+.tag{font-size:11px;font-weight:800;padding:2px 6px;border-radius:3px;background:#eee}.tag.live{background:var(--red);color:#fff}
+footer{font-size:12px;color:var(--muted);padding:20px 16px;max-width:1200px;margin:auto}
+select{padding:6px;font-size:14px}
+</style></head><body>
+<header><div class="in"><img src="../assets/election/zxn-election-logo.svg" alt="ZXN — Your Election Day Headquarters"><a class="home" href="../">← ZXN News home</a></div></header>
+<div class="wrap">
+ <div class="bar"><div class="tabs"><button data-k="senate" class="on">SENATE</button> <button data-k="governor">GOVERNOR</button> <button data-k="house">HOUSE</button></div>
+ <div class="count" id="count"></div></div>
+ <p id="status">Loading…</p>
+ <div class="grid"><div id="map"><svg id="svg" viewBox="0 0 975 610"></svg>
+  <div class="legend"><span><i style="background:#1d4ed8"></i>Dem win</span><span><i style="background:#B22234"></i>GOP win</span><span><i style="background:#7c3aed"></i>Other win</span><span><i style="background:#9db4e0"></i>Dem-held, awaiting</span><span><i style="background:#e8a3ab"></i>GOP-held, awaiting</span><span><i style="background:#e5e7eb"></i>No race</span></div></div>
+ <div id="panel"><h2>Pick a state</h2><p>Click any state on the map, or choose one: <select id="pick"></select></p><p class="meta">Election Day is Tuesday, November 3, 2026. The map colors in live as races are called.</p></div></div>
+</div>
+<footer>Candidate data: Wikipedia 2026 <a href="https://en.wikipedia.org/wiki/2026_United_States_Senate_elections">Senate</a>, <a href="https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections">gubernatorial</a> and <a href="https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections">House</a> election pages (CC BY-SA). Results are entered by ZXN from official state sources and race calls; ZXN does not project winners. Map: us-atlas.</footer>
+<script src="vendor/d3.min.js"></script><script src="vendor/topojson.min.js"></script>
+<script>
+const D={},K={tab:"senate",sel:null,res:{races:{}},polls:{}};
+const pc=p=>/^(Dem|DFL)/i.test(p)?"D":/^Rep/i.test(p)?"R":"O";
+const COL={D:"#1d4ed8",R:"#B22234",O:"#7c3aed"},LIGHT={D:"#9db4e0",R:"#e8a3ab",O:"#d8c8f5"};
+const key=(t,r)=>t+":"+(t==="governor"?r.state:r.label);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function racesFor(st){return (D[K.tab]||[]).filter(r=>r.state===st)}
+function color(st){const rs=racesFor(st);if(!rs.length)return"#e5e7eb";
+ const won=rs.map(r=>K.res.races[key(K.tab,r)]).filter(x=>x&&x.called);
+ if(won.length){const c={};won.forEach(w=>c[pc(w.party)]=(c[pc(w.party)]||0)+1);const top=Object.entries(c).sort((a,b)=>b[1]-a[1])[0][0];return COL[top]}
+ const c={};rs.forEach(r=>{const p=pc(r.incumbent_party||"");c[p]=(c[p]||0)+1});return LIGHT[Object.entries(c).sort((a,b)=>b[1]-a[1])[0][0]]}
+function paint(){d3.selectAll("path.st").attr("fill",d=>color(d.properties.name)).classed("sel",d=>d.properties.name===K.sel);
+ const rs=D[K.tab]||[];const c={D:0,R:0,O:0};rs.forEach(r=>{const w=K.res.races[key(K.tab,r)];if(w&&w.called)c[pc(w.party)]++});
+ document.getElementById("count").innerHTML=`<span style="background:#1d4ed8">DEM ${c.D}</span><span style="background:#7c3aed">OTH ${c.O}</span><span style="background:#B22234">GOP ${c.R}</span><span style="background:#555">${rs.length-c.D-c.R-c.O} OPEN</span>`;
+ if(K.sel)show(K.sel)}
+function show(st){K.sel=st;const rs=racesFor(st);const p=document.getElementById("panel");
+ const name={senate:"Senate",governor:"Governor",house:"House"}[K.tab];
+ let h=`<h2>${esc(st)} · ${name}</h2><p class="meta">Polls close: ${esc(K.polls[st]||K.polls[st+" (special)"]||"see state election office")}</p>`;
+ if(!rs.length)h+=`<p>No ${name} race in ${esc(st)} in 2026.</p>`;
+ rs.forEach(r=>{const w=K.res.races[key(K.tab,r)]||{};
+  const tag=w.called?`<span class="tag live">CALLED</span>`:w.pct_reporting!=null?`<span class="tag">${w.pct_reporting}% reporting</span>`:`<span class="tag">Awaiting results</span>`;
+  h+=`<div class="race"><h3>${esc(K.tab==="house"?r.label:r.label)} ${tag}</h3><div class="meta">Incumbent: ${esc(r.incumbent)}${r.incumbent_party?" ("+esc(r.incumbent_party)+")":""} · ${esc(r.status)}</div>`;
+  r.candidates.forEach(c=>{const win=w.called&&w.winner===c.name;const v=w.votes&&w.votes[c.name]!=null?w.votes[c.name].toLocaleString()+" votes":"";
+   h+=`<div class="c ${pc(c.party)} ${win?"win":""}"><span>${win?"✔ ":""}${esc(c.name)}</span><span>${esc(c.party)} ${v}</span></div>`});
+  if(w.source)h+=`<div class="meta">Result source: <a href="${esc(w.source)}" target="_blank" rel="noopener">${esc(w.source)}</a></div>`;
+  h+=`</div>`});
+ p.innerHTML=h+`<p class="meta"><a href="#" onclick="K.sel=null;location.reload();return false">All states</a></p>`;
+ d3.selectAll("path.st").classed("sel",d=>d.properties.name===K.sel)}
+async function poll(){try{const r=await fetch("../data/election/results.json?t="+Date.now());K.res=await r.json();
+ const n=Object.keys(K.res.races||{}).length;
+ document.getElementById("status").innerHTML=n?`<b>● LIVE</b> results updated ${new Date(K.res.updated).toLocaleString()} · auto-refreshing every 60s`:`Awaiting results · Election Day Tue Nov 3, 2026 · first polls close 6 pm ET · page auto-refreshes every 60s`;paint()}catch(e){}}
+(async()=>{const [us,s,g,h,pl]=await Promise.all(["vendor/states-albers-10m.json","../data/election/senate.json","../data/election/governor.json","../data/election/house.json","../data/election/polls.json"].map(u=>fetch(u).then(r=>r.json())));
+ D.senate=s.races;D.governor=g.races;D.house=h.races;K.polls=pl.poll_close_eastern||{};
+ const feats=topojson.feature(us,us.objects.states).features;const path=d3.geoPath();
+ d3.select("#svg").selectAll("path").data(feats).join("path").attr("class","st").attr("d",path).on("click",(e,d)=>show(d.properties.name)).append("title").text(d=>d.properties.name);
+ const sel=document.getElementById("pick");sel.innerHTML="<option>—</option>"+feats.map(f=>f.properties.name).sort().map(n=>`<option>${n}</option>`).join("");
+ document.addEventListener("change",e=>{if(e.target.id==="pick")show(e.target.value)});
+ document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>{document.querySelectorAll(".tabs button").forEach(x=>x.classList.toggle("on",x===b));K.tab=b.dataset.k;paint();if(K.sel)show(K.sel)});
+ const q=new URLSearchParams(location.search);if(q.get('tab'))document.querySelector(`.tabs button[data-k=${q.get('tab')}]`)?.click();if(q.get('state'))show(q.get('state'));
+ await poll();setInterval(poll,60000)})();
+</script></body></html>
