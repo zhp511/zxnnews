@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-24T17:32:56Z",
- "searched_at": "2026-10-24T17:32:30Z",
+ "built_at": "2026-10-24T17:53:16Z",
+ "searched_at": "2026-10-24T17:53:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2114036135899083052",
-   "post_url": "https://x.com/MaxBlumenthal/status/2114036135899083052",
-   "name": "Max Blumenthal",
-   "username": "MaxBlumenthal",
-   "verified_type": "blue",
-   "text": "Politics by other means - The Grayzone live https://t.co/DJxswwIZYW",
-   "started_at": "2026-10-24T16:47:46.000Z",
-   "assumed_live_until": "2026-10-24T19:47:46Z"
-  },
   {
    "post_id": "2114009014195691783",
    "post_url": "https://x.com/marclamonthill/status/2114009014195691783",
@@ -25,14 +15,14 @@
    "assumed_live_until": "2026-10-24T18:00:00Z"
   },
   {
-   "post_id": "2114046776005288146",
-   "post_url": "https://x.com/RSBNetwork/status/2114046776005288146",
+   "post_id": "2114050246665793702",
+   "post_url": "https://x.com/RSBNetwork/status/2114050246665793702",
    "name": "RSBN 🇺🇸",
    "username": "RSBNetwork",
    "verified_type": "business",
-   "text": "LIVE: President Trump Holds a Rally in Macon, GA - 10/24/26 https://t.co/RPldhaVfb3",
-   "started_at": "2026-10-24T17:30:03.000Z",
-   "assumed_live_until": "2026-10-24T20:30:03Z"
+   "text": "LIVE: President Trump Holds a Rally in Perry, GA - 10/24/26 https://t.co/RPldhaUHlv",
+   "started_at": "2026-10-24T17:43:50.000Z",
+   "assumed_live_until": "2026-10-24T20:43:50Z"
   },
   {
    "post_id": "2114039340389249462",
@@ -65,6 +55,26 @@
    "assumed_live_until": "2026-10-24T19:07:34Z"
   },
   {
+   "post_id": "2114048845160001815",
+   "post_url": "https://x.com/realjamesrossi/status/2114048845160001815",
+   "name": "James Rossi 🇺🇸",
+   "username": "realjamesrossi",
+   "verified_type": "blue",
+   "text": "🚨LIVE: President Trump Holds a Rally in Macon, GA - 10/24/26 https://t.co/HYATxU766r",
+   "started_at": "2026-10-24T17:38:16.000Z",
+   "assumed_live_until": "2026-10-24T20:38:16Z"
+  },
+  {
+   "post_id": "2114051606618788055",
+   "post_url": "https://x.com/RosanneMil3145/status/2114051606618788055",
+   "name": "Rosanne Miller",
+   "username": "RosanneMil3145",
+   "verified_type": "none",
+   "text": "Politics by other means - The Grayzone live https://t.co/Ii8B35ZWNl",
+   "started_at": "2026-10-24T17:49:14.000Z",
+   "assumed_live_until": "2026-10-24T20:49:14Z"
+  },
+  {
    "post_id": "2114012376442036493",
    "post_url": "https://x.com/Dialogue_NRA/status/2114012376442036493",
    "name": "Dialogue works",
@@ -73,16 +83,6 @@
    "text": "Seyed M. Marandi: BREAKING: Iran Is Testing New Missiles Almost Every Day https://t.co/vvdafdM3qG",
    "started_at": "2026-10-24T15:13:21.000Z",
    "assumed_live_until": "2026-10-24T18:13:21Z"
-  },
-  {
-   "post_id": "2114009059682894189",
-   "post_url": "https://x.com/omantvnews/status/2114009059682894189",
-   "name": "مركز الأخبار",
-   "username": "omantvnews",
-   "verified_type": "blue",
-   "text": "Live broadcast | English News Bulletin\n\n#OmanTVnews #مركز_الأخبار https://t.co/weKo3MsSYF",
-   "started_at": "2026-10-24T15:00:10.000Z",
-   "assumed_live_until": "2026-10-24T18:00:10Z"
   }
  ]
 }
