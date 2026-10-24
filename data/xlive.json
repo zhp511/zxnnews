@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T23:20:37Z",
- "searched_at": "2026-10-24T23:20:30Z",
+ "built_at": "2026-10-24T23:41:52Z",
+ "searched_at": "2026-10-24T23:41:45Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,16 +35,6 @@
    "assumed_live_until": "2026-10-25T01:29:44Z"
   },
   {
-   "post_id": "2114125954880811303",
-   "post_url": "https://x.com/BadlandsMedia_/status/2114125954880811303",
-   "name": "Badlands Media",
-   "username": "BadlandsMedia_",
-   "verified_type": "blue",
-   "text": "Badlands Media Special Coverage: President Trump Delivers Remarks from Macon, GA https://t.co/kucUFDcnux",
-   "started_at": "2026-10-24T22:44:40.000Z",
-   "assumed_live_until": "2026-10-25T01:44:40Z"
-  },
-  {
    "post_id": "2114134480755855404",
    "post_url": "https://x.com/RealLindellTV/status/2114134480755855404",
    "name": "LindellTV",
@@ -55,14 +45,14 @@
    "assumed_live_until": "2026-10-25T02:18:33Z"
   },
   {
-   "post_id": "2114127335096004789",
-   "post_url": "https://x.com/realBruceSnyder/status/2114127335096004789",
-   "name": "Bruce Snyder",
-   "username": "realBruceSnyder",
+   "post_id": "2114125954880811303",
+   "post_url": "https://x.com/BadlandsMedia_/status/2114125954880811303",
+   "name": "Badlands Media",
+   "username": "BadlandsMedia_",
    "verified_type": "blue",
-   "text": "LIVE: President Trump Holds a Rally in Macon, GA - 10/24/26\n\nhttps://t.co/qgVpwT1EqI",
-   "started_at": "2026-10-24T22:50:09.000Z",
-   "assumed_live_until": "2026-10-25T01:50:09Z"
+   "text": "Badlands Media Special Coverage: President Trump Delivers Remarks from Macon, GA https://t.co/kucUFDcnux",
+   "started_at": "2026-10-24T22:44:40.000Z",
+   "assumed_live_until": "2026-10-25T01:44:40Z"
   },
   {
    "post_id": "2114124097894613488",
@@ -73,6 +63,16 @@
    "text": "🇺🇸 [LIVE CAM 2] MAGA Majority Force Rally with President Donald Trump in in Perry, Georgia https://t.co/bddcZ8zOPC",
    "started_at": "2026-10-24T22:37:18.000Z",
    "assumed_live_until": "2026-10-25T01:37:18Z"
+  },
+  {
+   "post_id": "2114127335096004789",
+   "post_url": "https://x.com/realBruceSnyder/status/2114127335096004789",
+   "name": "Bruce Snyder",
+   "username": "realBruceSnyder",
+   "verified_type": "blue",
+   "text": "LIVE: President Trump Holds a Rally in Macon, GA - 10/24/26\n\nhttps://t.co/qgVpwT1EqI",
+   "started_at": "2026-10-24T22:50:09.000Z",
+   "assumed_live_until": "2026-10-25T01:50:09Z"
   },
   {
    "post_id": "2114127888614338890",
