@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-25T08:53:55Z",
- "searched_at": "2026-10-25T08:53:30Z",
+ "built_at": "2026-10-25T09:09:51Z",
+ "searched_at": "2026-10-25T09:09:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2114280792725868640",
+   "post_url": "https://x.com/RealAmVoice/status/2114280792725868640",
+   "name": "Real America's Voice (RAV)",
+   "username": "RealAmVoice",
+   "verified_type": "business",
+   "text": "SECURING AMERICA WITH FRANK GAFFNEY https://t.co/7jVC7fvSRo",
+   "started_at": "2026-10-25T08:59:57.000Z",
+   "assumed_live_until": "2026-10-25T11:59:57Z"
+  },
   {
    "post_id": "2114244267501867474",
    "post_url": "https://x.com/INC_Television/status/2114244267501867474",
@@ -13,16 +23,6 @@
    "text": "LIVE: Congress party briefing by Shri Saptagiri Ulaka and Ms Alka Lamba at AICC Office, New Delhi https://t.co/IOGy7myGIo",
    "started_at": "2026-10-25T06:34:48.000Z",
    "assumed_live_until": "2026-10-25T09:34:48Z"
-  },
-  {
-   "post_id": "2114234503602536843",
-   "post_url": "https://x.com/thesavera_times/status/2114234503602536843",
-   "name": "The Savera Times",
-   "username": "thesavera_times",
-   "verified_type": "blue",
-   "text": "Live | Rahul Gandhi Calls for Mega Rally on Nov 1 | INDIA Bloc’s ‘Save the Vote’ March in Delhi #RahulGandhi #INDIABloc #MegaRally #DelhiRally #Congress #IndianPolitics #RamlilaMaidan #OppositionAlliance https://t.co/2jhkroIkLo",
-   "started_at": "2026-10-25T05:56:00.000Z",
-   "assumed_live_until": "2026-10-25T08:56:00Z"
   },
   {
    "post_id": "2114261715085136137",
@@ -43,16 +43,6 @@
    "text": "Sola Areogun Ministries | All Nations Women Congress DAY 2 (Rebroadcast) | October 24, 2026 https://t.co/lgAd6bgKvw",
    "started_at": "2026-10-25T08:45:05.000Z",
    "assumed_live_until": "2026-10-25T11:45:05Z"
-  },
-  {
-   "post_id": "2114235500064338224",
-   "post_url": "https://x.com/GBNEWS/status/2114235500064338224",
-   "name": "GB News",
-   "username": "GBNEWS",
-   "verified_type": "business",
-   "text": "GB News https://t.co/tCgwRnLLdv",
-   "started_at": "2026-10-25T05:59:58.000Z",
-   "assumed_live_until": "2026-10-25T08:59:58Z"
   },
   {
    "post_id": "2114268983813927159",
@@ -83,6 +73,16 @@
    "text": "LIVE: @INCIndia party briefing by MP Shri @saptagiriulaka and @MahilaCongress  president Ms @LambaAlka at AICC Office, New Delhi\n\nhttps://t.co/iFcSK1tilz",
    "started_at": "2026-10-25T06:49:55.000Z",
    "assumed_live_until": "2026-10-25T09:49:55Z"
+  },
+  {
+   "post_id": "2114253262979530855",
+   "post_url": "https://x.com/StarAsiatvHD/status/2114253262979530855",
+   "name": "Star Asia Tv",
+   "username": "StarAsiatvHD",
+   "verified_type": "blue",
+   "text": "12 News Bulletin Star Asia Tv Live https://t.co/aHB2llSNE6",
+   "started_at": "2026-10-25T07:10:33.000Z",
+   "assumed_live_until": "2026-10-25T10:10:33Z"
   }
  ]
 }
