@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-25T07:24:35Z",
- "searched_at": "2026-10-25T07:24:00Z",
+ "built_at": "2026-10-25T07:40:20Z",
+ "searched_at": "2026-10-25T07:40:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2114214562472058936",
-   "post_url": "https://x.com/Conservative_BC/status/2114214562472058936",
-   "name": "Conservative Party of BC",
-   "username": "Conservative_BC",
-   "verified_type": "blue",
-   "text": "LIVE: Election Night in BC https://t.co/zfn3LJCwzu",
-   "started_at": "2026-10-25T04:36:46.000Z",
-   "assumed_live_until": "2026-10-25T07:36:46Z"
-  },
   {
    "post_id": "2114244267501867474",
    "post_url": "https://x.com/INC_Television/status/2114244267501867474",
@@ -83,6 +73,16 @@
    "text": "LIVE: Nellore District President & Former Minister Sri. Kakani Govardhan Reddy Press Meet https://t.co/3C963ckUkV",
    "started_at": "2026-10-25T05:57:14.000Z",
    "assumed_live_until": "2026-10-25T08:57:14Z"
+  },
+  {
+   "post_id": "2114250774335406387",
+   "post_url": "https://x.com/Channel1TVGHA/status/2114250774335406387",
+   "name": "ChannelOne TV",
+   "username": "Channel1TVGHA",
+   "verified_type": "blue",
+   "text": "Channel One TV LIVE! Sunday Breakfast | Latest News updates from Ghana | 25th  October 2026 https://t.co/AOolgaJGQX",
+   "started_at": "2026-10-25T07:00:40.000Z",
+   "assumed_live_until": "2026-10-25T10:00:40Z"
   }
  ]
 }
