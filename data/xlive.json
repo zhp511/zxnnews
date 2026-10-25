@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T12:17:43Z",
- "searched_at": "2026-10-25T12:17:00Z",
+ "built_at": "2026-10-25T12:35:18Z",
+ "searched_at": "2026-10-25T12:35:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -23,16 +23,6 @@
    "text": "LIVE: Congress President Shri @kharge | 139th Birth Anniversary of Dr Shri Krishna Singh | Patna, Bihar\n\n https://t.co/vKrgWCOZEe",
    "started_at": "2026-10-25T12:04:15.000Z",
    "assumed_live_until": "2026-10-25T15:04:15Z"
-  },
-  {
-   "post_id": "2114285840897921473",
-   "post_url": "https://x.com/ZeeNews/status/2114285840897921473",
-   "name": "Zee News",
-   "username": "ZeeNews",
-   "verified_type": "blue",
-   "text": "zee news https://t.co/Ym5B163Evw",
-   "started_at": "2026-10-25T09:20:00.000Z",
-   "assumed_live_until": "2026-10-25T12:20:00Z"
   },
   {
    "post_id": "2114326114890133824",
@@ -83,6 +73,16 @@
    "text": "Power BI Weekly News 238 #PBIWeeklyNewsJP https://t.co/y48ddXuFJA",
    "started_at": "2026-10-25T10:58:43.000Z",
    "assumed_live_until": "2026-10-25T13:58:43Z"
+  },
+  {
+   "post_id": "2114304387451666699",
+   "post_url": "https://x.com/jmdnewsflash/status/2114304387451666699",
+   "name": "JMD NEWS",
+   "username": "jmdnewsflash",
+   "verified_type": "blue",
+   "text": "JMD NEWS LIVE | UP News | Breaking News | CM Yogi | Akhilesh Yadav | Uttar Pradesh https://t.co/zeIA9vEStz",
+   "started_at": "2026-10-25T10:33:42.000Z",
+   "assumed_live_until": "2026-10-25T13:33:42Z"
   }
  ]
 }
