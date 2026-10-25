@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T17:13:26Z",
- "searched_at": "2026-10-25T17:13:00Z",
+ "built_at": "2026-10-25T17:30:49Z",
+ "searched_at": "2026-10-25T17:29:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-10-25T18:24:44Z"
   },
   {
-   "post_id": "2114360232381956488",
-   "post_url": "https://x.com/realjamesrossi/status/2114360232381956488",
-   "name": "James Rossi 🇺🇸",
-   "username": "realjamesrossi",
-   "verified_type": "blue",
-   "text": "🚨LIVE: President Trump Holds a Rally in Port Huron, MI - 10/25/26 https://t.co/cJBixD1QdQ",
-   "started_at": "2026-10-25T14:15:36.000Z",
-   "assumed_live_until": "2026-10-25T17:15:36Z"
-  },
-  {
    "post_id": "2114398803050565750",
    "post_url": "https://x.com/RosanneMil3145/status/2114398803050565750",
    "name": "Rosanne Miller",
@@ -75,14 +65,24 @@
    "assumed_live_until": "2026-10-25T19:42:20Z"
   },
   {
-   "post_id": "2114384949579309162",
-   "post_url": "https://x.com/ZeeNews/status/2114384949579309162",
+   "post_id": "2114392952214900965",
+   "post_url": "https://x.com/IndiaToday/status/2114392952214900965",
+   "name": "IndiaToday",
+   "username": "IndiaToday",
+   "verified_type": "business",
+   "text": "#LIVE || Take a look at the top news headlines https://t.co/DXcyJF1ztt",
+   "started_at": "2026-10-25T16:25:37.000Z",
+   "assumed_live_until": "2026-10-25T19:25:37Z"
+  },
+  {
+   "post_id": "2114407818434691319",
+   "post_url": "https://x.com/ZeeNews/status/2114407818434691319",
    "name": "Zee News",
    "username": "ZeeNews",
    "verified_type": "blue",
-   "text": "Zee News Live https://t.co/SBINpuy5Di",
-   "started_at": "2026-10-25T15:53:50.000Z",
-   "assumed_live_until": "2026-10-25T18:53:50Z"
+   "text": "zee news https://t.co/wBAjbQycee",
+   "started_at": "2026-10-25T17:24:42.000Z",
+   "assumed_live_until": "2026-10-25T20:24:42Z"
   }
  ]
 }
