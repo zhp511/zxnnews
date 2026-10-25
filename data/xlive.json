@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-25T20:00:40Z",
- "searched_at": "2026-10-25T20:01:00Z",
+ "built_at": "2026-10-25T20:21:46Z",
+ "searched_at": "2026-10-25T20:21:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2114437974465331569",
-   "post_url": "https://x.com/nicksortor/status/2114437974465331569",
-   "name": "Nick Sortor",
-   "username": "nicksortor",
-   "verified_type": "blue",
-   "text": "🔴 WATCH LIVE: President Trump TAKES THE STAGE for a rally in MICHIGAN with special guest NICKI MINAJ\n\nShe'll likely take the mic at some point.\n\nThis oughta be entertaining for a Sunday rally 🤣🔥 https://t.co/uK4lBOtQxx",
-   "started_at": "2026-10-25T19:24:32.000Z",
-   "assumed_live_until": "2026-10-25T22:24:32Z"
-  },
   {
    "post_id": "2114421585155387748",
    "post_url": "https://x.com/AgendaFreeTV/status/2114421585155387748",
@@ -83,6 +73,16 @@
    "text": "President Trump Holds a Rally in Port Huron, MI  #viral #Live #Trump https://t.co/yfgkaHgqh9",
    "started_at": "2026-10-25T18:24:29.000Z",
    "assumed_live_until": "2026-10-25T21:24:29Z"
+  },
+  {
+   "post_id": "2114433275485958293",
+   "post_url": "https://x.com/Goldstatetimes/status/2114433275485958293",
+   "name": "Golden State Times 🇺🇸",
+   "username": "Goldstatetimes",
+   "verified_type": "blue",
+   "text": "President Trump Rally live from #Michigan against #Elsayed #AbdulElSayed https://t.co/eajNct3E3S",
+   "started_at": "2026-10-25T19:05:51.000Z",
+   "assumed_live_until": "2026-10-25T22:05:51Z"
   }
  ]
 }
