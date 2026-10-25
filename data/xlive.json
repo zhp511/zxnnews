@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-25T05:05:57Z",
- "searched_at": "2026-10-25T05:06:00Z",
+ "built_at": "2026-10-25T05:24:26Z",
+ "searched_at": "2026-10-25T05:24:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2114214562472058936",
+   "post_url": "https://x.com/Conservative_BC/status/2114214562472058936",
+   "name": "Conservative Party of BC",
+   "username": "Conservative_BC",
+   "verified_type": "blue",
+   "text": "LIVE: Election Night in BC https://t.co/zfn3LJCwzu",
+   "started_at": "2026-10-25T04:36:46.000Z",
+   "assumed_live_until": "2026-10-25T07:36:46Z"
+  },
   {
    "post_id": "2114186921589236009",
    "post_url": "https://x.com/KelownaNow/status/2114186921589236009",
@@ -23,16 +33,6 @@
    "text": "BC Election Live https://t.co/cBK6EoRa3G",
    "started_at": "2026-10-25T02:40:59.000Z",
    "assumed_live_until": "2026-10-25T05:40:59Z"
-  },
-  {
-   "post_id": "2114214562472058936",
-   "post_url": "https://x.com/Conservative_BC/status/2114214562472058936",
-   "name": "Conservative Party of BC",
-   "username": "Conservative_BC",
-   "verified_type": "blue",
-   "text": "LIVE: Election Night in BC https://t.co/zfn3LJCwzu",
-   "started_at": "2026-10-25T04:36:46.000Z",
-   "assumed_live_until": "2026-10-25T07:36:46Z"
   },
   {
    "post_id": "2114202598270218645",
