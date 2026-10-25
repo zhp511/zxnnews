@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T23:13:35Z",
- "searched_at": "2026-10-25T23:13:30Z",
+ "built_at": "2026-10-25T23:30:23Z",
+ "searched_at": "2026-10-25T23:30:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -23,16 +23,6 @@
    "text": "Brazil Election LIVE https://t.co/WRh961vtAt",
    "started_at": "2026-10-25T22:09:50.000Z",
    "assumed_live_until": "2026-10-26T01:09:50Z"
-  },
-  {
-   "post_id": "2114451233490800998",
-   "post_url": "https://x.com/ehehzlzl/status/2114451233490800998",
-   "name": "JUN | 준 🇰🇷",
-   "username": "ehehzlzl",
-   "verified_type": "blue",
-   "text": "JUN | BRAZIL ELECTION LIVE https://t.co/ayttxgiZGK",
-   "started_at": "2026-10-25T20:17:13.000Z",
-   "assumed_live_until": "2026-10-25T23:17:13Z"
   },
   {
    "post_id": "2114491812287262836",
@@ -83,6 +73,16 @@
    "text": "🔴 LIVE: President Trump speaks at a rally in MICHIGAN with NICKI MINAJ / X https://t.co/RNdwkXPMMs",
    "started_at": "2026-10-25T20:44:08.000Z",
    "assumed_live_until": "2026-10-25T23:44:08Z"
+  },
+  {
+   "post_id": "2114479986346504410",
+   "post_url": "https://x.com/JosephFordCotto/status/2114479986346504410",
+   "name": "Dr. Joseph Ford Cotto",
+   "username": "JosephFordCotto",
+   "verified_type": "blue",
+   "text": "Democrats want to wreck America with third-world immigration + Trump's trying to make houses cheaper for Americans + much more https://t.co/ayYgusBJiN",
+   "started_at": "2026-10-25T22:11:28.000Z",
+   "assumed_live_until": "2026-10-26T01:11:28Z"
   }
  ]
 }
