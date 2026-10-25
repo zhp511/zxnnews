@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T07:40:20Z",
- "searched_at": "2026-10-25T07:40:30Z",
+ "built_at": "2026-10-25T07:59:34Z",
+ "searched_at": "2026-10-25T08:00:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,16 +15,6 @@
    "assumed_live_until": "2026-10-25T09:34:48Z"
   },
   {
-   "post_id": "2114249965279309922",
-   "post_url": "https://x.com/INCMumbai/status/2114249965279309922",
-   "name": "Mumbai Congress",
-   "username": "INCMumbai",
-   "verified_type": "none",
-   "text": "LIVE: Congress party briefing by Shri @saptagiriulaka and Ms @LambaAlka at AICC Office, New Delhi.\n\n#Delhi #India #Mumbai\n\n@INCIndia\nhttps://t.co/sZu4EVNMFz",
-   "started_at": "2026-10-25T06:57:27.000Z",
-   "assumed_live_until": "2026-10-25T09:57:27Z"
-  },
-  {
    "post_id": "2114234503602536843",
    "post_url": "https://x.com/thesavera_times/status/2114234503602536843",
    "name": "The Savera Times",
@@ -33,6 +23,16 @@
    "text": "Live | Rahul Gandhi Calls for Mega Rally on Nov 1 | INDIA Bloc’s ‘Save the Vote’ March in Delhi #RahulGandhi #INDIABloc #MegaRally #DelhiRally #Congress #IndianPolitics #RamlilaMaidan #OppositionAlliance https://t.co/2jhkroIkLo",
    "started_at": "2026-10-25T05:56:00.000Z",
    "assumed_live_until": "2026-10-25T08:56:00Z"
+  },
+  {
+   "post_id": "2114261715085136137",
+   "post_url": "https://x.com/INCWestBengal/status/2114261715085136137",
+   "name": "West Bengal Congress",
+   "username": "INCWestBengal",
+   "verified_type": "blue",
+   "text": "LIVE: Congress party briefing by Shri @saptagiriulaka and Ms @LambaAlka at AICC Office, New Delhi\nhttps://t.co/PME2XsgYHD",
+   "started_at": "2026-10-25T07:44:08.000Z",
+   "assumed_live_until": "2026-10-25T10:44:08Z"
   },
   {
    "post_id": "2114227612222673143",
