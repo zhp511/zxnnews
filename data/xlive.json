@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T02:47:16Z",
- "searched_at": "2026-10-25T02:47:00Z",
+ "built_at": "2026-10-25T03:06:53Z",
+ "searched_at": "2026-10-25T03:06:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,14 +55,24 @@
    "assumed_live_until": "2026-10-25T03:59:55Z"
   },
   {
-   "post_id": "2114144978641563952",
-   "post_url": "https://x.com/WesternStandard/status/2114144978641563952",
-   "name": "Western Standard",
-   "username": "WesternStandard",
-   "verified_type": "business",
-   "text": "WATCH LIVE: BC election 2026 coverage https://t.co/8wQTm0QDUG",
-   "started_at": "2026-10-25T00:00:16.000Z",
-   "assumed_live_until": "2026-10-25T03:00:16Z"
+   "post_id": "2114185425040589050",
+   "post_url": "https://x.com/Truththing25/status/2114185425040589050",
+   "name": "🗽Northern Watcher🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦",
+   "username": "Truththing25",
+   "verified_type": "blue",
+   "text": "BC Election Live https://t.co/cBK6EoRa3G",
+   "started_at": "2026-10-25T02:40:59.000Z",
+   "assumed_live_until": "2026-10-25T05:40:59Z"
+  },
+  {
+   "post_id": "2114186921589236009",
+   "post_url": "https://x.com/KelownaNow/status/2114186921589236009",
+   "name": "KelownaNow",
+   "username": "KelownaNow",
+   "verified_type": "blue",
+   "text": "BC Provincial Election 2026 https://t.co/eKoY5gutNG",
+   "started_at": "2026-10-25T02:46:56.000Z",
+   "assumed_live_until": "2026-10-25T05:46:56Z"
   },
   {
    "post_id": "2114166140381630916",
@@ -73,16 +83,6 @@
    "text": "ELECTION EVE🇧🇷 | 10/24/2026 \nhttps://t.co/x7MpZZcSzE",
    "started_at": "2026-10-25T01:24:21.000Z",
    "assumed_live_until": "2026-10-25T04:24:21Z"
-  },
-  {
-   "post_id": "2114145723705102537",
-   "post_url": "https://x.com/JosephFordCotto/status/2114145723705102537",
-   "name": "Dr. Joseph Ford Cotto",
-   "username": "JosephFordCotto",
-   "verified_type": "blue",
-   "text": "Keith Preston on polarized politics making America...something very different https://t.co/95XO0euoY7",
-   "started_at": "2026-10-25T00:03:14.000Z",
-   "assumed_live_until": "2026-10-25T03:03:14Z"
   }
  ]
 }
