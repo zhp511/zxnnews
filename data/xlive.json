@@ -1,29 +1,9 @@
 {
- "built_at": "2026-10-25T03:40:45Z",
- "searched_at": "2026-10-25T03:40:00Z",
+ "built_at": "2026-10-25T03:56:52Z",
+ "searched_at": "2026-10-25T03:56:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2114159157410734399",
-   "post_url": "https://x.com/CTVNews/status/2114159157410734399",
-   "name": "CTV News",
-   "username": "CTVNews",
-   "verified_type": "business",
-   "text": "B.C. provincial election results | CTV News Vancouver https://t.co/MXOtxvFGjZ",
-   "started_at": "2026-10-25T00:56:36.000Z",
-   "assumed_live_until": "2026-10-25T03:56:36Z"
-  },
-  {
-   "post_id": "2114159136288190637",
-   "post_url": "https://x.com/CTVVancouver/status/2114159136288190637",
-   "name": "CTV News Vancouver",
-   "username": "CTVVancouver",
-   "verified_type": "business",
-   "text": "2026 B.C. Election Results | CTV News Special Presentation https://t.co/oGjQ7sBjRb",
-   "started_at": "2026-10-25T00:56:31.000Z",
-   "assumed_live_until": "2026-10-25T03:56:31Z"
-  },
   {
    "post_id": "2114173548625617115",
    "post_url": "https://x.com/junonewscom/status/2114173548625617115",
@@ -55,16 +35,6 @@
    "assumed_live_until": "2026-10-25T05:40:59Z"
   },
   {
-   "post_id": "2114159988637917646",
-   "post_url": "https://x.com/Maninamerica/status/2114159988637917646",
-   "name": "Man in America",
-   "username": "Maninamerica",
-   "verified_type": "blue",
-   "text": "MKUltra Never Ended: How the CIA Drugged America | John Potash https://t.co/MEGxxw8CGR",
-   "started_at": "2026-10-25T00:59:55.000Z",
-   "assumed_live_until": "2026-10-25T03:59:55Z"
-  },
-  {
    "post_id": "2114186921589236009",
    "post_url": "https://x.com/KelownaNow/status/2114186921589236009",
    "name": "KelownaNow",
@@ -75,6 +45,26 @@
    "assumed_live_until": "2026-10-25T05:46:56Z"
   },
   {
+   "post_id": "2114159988637917646",
+   "post_url": "https://x.com/Maninamerica/status/2114159988637917646",
+   "name": "Man in America",
+   "username": "Maninamerica",
+   "verified_type": "blue",
+   "text": "MKUltra Never Ended: How the CIA Drugged America | John Potash https://t.co/MEGxxw8CGR",
+   "started_at": "2026-10-25T00:59:55.000Z",
+   "assumed_live_until": "2026-10-25T03:59:55Z"
+  },
+  {
+   "post_id": "2114185346640724080",
+   "post_url": "https://x.com/Paulysworld/status/2114185346640724080",
+   "name": "Paul Atkinson 🇨🇦",
+   "username": "Paulysworld",
+   "verified_type": "blue",
+   "text": "LIVE WATCH PARTY Election Day in BC Results — A TNEB News Special https://t.co/odh9XaQw8T",
+   "started_at": "2026-10-25T02:40:40.000Z",
+   "assumed_live_until": "2026-10-25T05:40:40Z"
+  },
+  {
    "post_id": "2114166140381630916",
    "post_url": "https://x.com/XFREEDOMSPEECH/status/2114166140381630916",
    "name": "🫡🇺🇸🇦🇷🇸🇻🌎🇧🇷🇺🇸🇮🇱🫡🇺🇸MAGATOMAHA🇮🇱🫡",
@@ -83,6 +73,16 @@
    "text": "ELECTION EVE🇧🇷 | 10/24/2026 \nhttps://t.co/x7MpZZcSzE",
    "started_at": "2026-10-25T01:24:21.000Z",
    "assumed_live_until": "2026-10-25T04:24:21Z"
+  },
+  {
+   "post_id": "2114190707003179361",
+   "post_url": "https://x.com/TheBreadRadio/status/2114190707003179361",
+   "name": "The NEW DEATH Radio",
+   "username": "TheBreadRadio",
+   "verified_type": "blue",
+   "text": "B.C. Election Results Live | The New Bread Radio https://t.co/TJiSj8RqG6",
+   "started_at": "2026-10-25T03:01:58.000Z",
+   "assumed_live_until": "2026-10-25T06:01:58Z"
   }
  ]
 }
