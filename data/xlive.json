@@ -1,29 +1,9 @@
 {
- "built_at": "2026-10-25T04:46:31Z",
- "searched_at": "2026-10-25T04:46:00Z",
+ "built_at": "2026-10-25T05:05:57Z",
+ "searched_at": "2026-10-25T05:06:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2114173548625617115",
-   "post_url": "https://x.com/junonewscom/status/2114173548625617115",
-   "name": "Juno News",
-   "username": "junonewscom",
-   "verified_type": "blue",
-   "text": "LIVE: Juno News BC Election Night Broadcast https://t.co/EYtOel8Cnm",
-   "started_at": "2026-10-25T01:53:48.000Z",
-   "assumed_live_until": "2026-10-25T04:53:48Z"
-  },
-  {
-   "post_id": "2114174312093827194",
-   "post_url": "https://x.com/the_hindu/status/2114174312093827194",
-   "name": "The Hindu",
-   "username": "the_hindu",
-   "verified_type": "blue",
-   "text": "U.S. President Donald Trump addresses midterm rally in Perry, Georgia https://t.co/dCa6XcX3xa",
-   "started_at": "2026-10-25T01:56:50.000Z",
-   "assumed_live_until": "2026-10-25T04:56:50Z"
-  },
   {
    "post_id": "2114186921589236009",
    "post_url": "https://x.com/KelownaNow/status/2114186921589236009",
@@ -83,6 +63,26 @@
    "text": "B.C. Election Results Live | The New Bread Radio https://t.co/TJiSj8RqG6",
    "started_at": "2026-10-25T03:01:58.000Z",
    "assumed_live_until": "2026-10-25T06:01:58Z"
+  },
+  {
+   "post_id": "2114219701022978090",
+   "post_url": "https://x.com/ChangeAgentX/status/2114219701022978090",
+   "name": "Charlie Bhai",
+   "username": "ChangeAgentX",
+   "verified_type": "blue",
+   "text": "BC Election 2026: Live Preliminary Results https://t.co/ANhPvePaV1",
+   "started_at": "2026-10-25T04:57:11.000Z",
+   "assumed_live_until": "2026-10-25T07:57:11Z"
+  },
+  {
+   "post_id": "2114190991389602013",
+   "post_url": "https://x.com/RealDaveIbrahim/status/2114190991389602013",
+   "name": "Dave Ibrahim",
+   "username": "RealDaveIbrahim",
+   "verified_type": "blue",
+   "text": "FRANCE PROTESTS: NEARLY 1,000 ARRESTED | COREY LEWANDOWSKI UNDER CRIMINAL INVESTIGATION | B.C. ELECTION NIGHT https://t.co/RhBqGrBua5",
+   "started_at": "2026-10-25T03:03:06.000Z",
+   "assumed_live_until": "2026-10-25T06:03:06Z"
   }
  ]
 }
