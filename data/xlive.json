@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-25T17:30:49Z",
- "searched_at": "2026-10-25T17:29:00Z",
+ "built_at": "2026-10-25T17:46:44Z",
+ "searched_at": "2026-10-25T17:47:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2114409442439729354",
+   "post_url": "https://x.com/Republicans/status/2114409442439729354",
+   "name": "Republicans",
+   "username": "Republicans",
+   "verified_type": "blue",
+   "text": "Midterm Rally in Port Huron, Michigan featuring President Donald J. Trump https://t.co/wPZ1uSyL0d",
+   "started_at": "2026-10-25T17:31:09.000Z",
+   "assumed_live_until": "2026-10-25T20:31:09Z"
+  },
   {
    "post_id": "2114383609675296778",
    "post_url": "https://x.com/magnonewslive/status/2114383609675296778",
@@ -65,24 +75,14 @@
    "assumed_live_until": "2026-10-25T19:42:20Z"
   },
   {
-   "post_id": "2114392952214900965",
-   "post_url": "https://x.com/IndiaToday/status/2114392952214900965",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
-   "verified_type": "business",
-   "text": "#LIVE || Take a look at the top news headlines https://t.co/DXcyJF1ztt",
-   "started_at": "2026-10-25T16:25:37.000Z",
-   "assumed_live_until": "2026-10-25T19:25:37Z"
-  },
-  {
-   "post_id": "2114407818434691319",
-   "post_url": "https://x.com/ZeeNews/status/2114407818434691319",
-   "name": "Zee News",
-   "username": "ZeeNews",
+   "post_id": "2114411295902441787",
+   "post_url": "https://x.com/RWOMC/status/2114411295902441787",
+   "name": "Republican Women of Mercer County 💪🇺🇸",
+   "username": "RWOMC",
    "verified_type": "blue",
-   "text": "zee news https://t.co/wBAjbQycee",
-   "started_at": "2026-10-25T17:24:42.000Z",
-   "assumed_live_until": "2026-10-25T20:24:42Z"
+   "text": "RNCResearch: RT @Republicans: Midterm Rally in Port Huron, Michigan featuring President Donald J. Trump https://t.co/2BeOFHCFZn",
+   "started_at": "2026-10-25T17:38:31.000Z",
+   "assumed_live_until": "2026-10-25T20:38:31Z"
   }
  ]
 }
