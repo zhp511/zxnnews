@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T09:30:13Z",
- "searched_at": "2026-10-25T09:30:13Z",
+ "built_at": "2026-10-25T09:52:10Z",
+ "searched_at": "2026-10-25T09:51:40Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,16 +15,6 @@
    "assumed_live_until": "2026-10-25T11:59:57Z"
   },
   {
-   "post_id": "2114244267501867474",
-   "post_url": "https://x.com/INC_Television/status/2114244267501867474",
-   "name": "INC TV",
-   "username": "INC_Television",
-   "verified_type": "blue",
-   "text": "LIVE: Congress party briefing by Shri Saptagiri Ulaka and Ms Alka Lamba at AICC Office, New Delhi https://t.co/IOGy7myGIo",
-   "started_at": "2026-10-25T06:34:48.000Z",
-   "assumed_live_until": "2026-10-25T09:34:48Z"
-  },
-  {
    "post_id": "2114261715085136137",
    "post_url": "https://x.com/INCWestBengal/status/2114261715085136137",
    "name": "West Bengal Congress",
@@ -33,6 +23,16 @@
    "text": "LIVE: Congress party briefing by Shri @saptagiriulaka and Ms @LambaAlka at AICC Office, New Delhi\nhttps://t.co/PME2XsgYHD",
    "started_at": "2026-10-25T07:44:08.000Z",
    "assumed_live_until": "2026-10-25T10:44:08Z"
+  },
+  {
+   "post_id": "2114292017115394223",
+   "post_url": "https://x.com/SandeepGuptaINC/status/2114292017115394223",
+   "name": "𝐒𝐚𝐧𝐝𝐞𝐞𝐩 𝐆𝐮𝐩𝐭𝐚",
+   "username": "SandeepGuptaINC",
+   "verified_type": "blue",
+   "text": "LIVE: Congress President Shri @kharge | 139th Birth Anniversary of Dr Shri Krishna Singh | Patna, Bihar\n\nhttps://t.co/DgUAGGdY9R",
+   "started_at": "2026-10-25T09:44:33.000Z",
+   "assumed_live_until": "2026-10-25T12:44:33Z"
   },
   {
    "post_id": "2114277052518191323",
@@ -55,6 +55,16 @@
    "assumed_live_until": "2026-10-25T12:20:00Z"
   },
   {
+   "post_id": "2114289304256311794",
+   "post_url": "https://x.com/IndiaToday/status/2114289304256311794",
+   "name": "IndiaToday",
+   "username": "IndiaToday",
+   "verified_type": "business",
+   "text": "#LIVE | Take a look at the top news headlines.\n#ITLivestream \n https://t.co/ND53xdcM4K",
+   "started_at": "2026-10-25T09:33:46.000Z",
+   "assumed_live_until": "2026-10-25T12:33:46Z"
+  },
+  {
    "post_id": "2114268983813927159",
    "post_url": "https://x.com/YSRCParty/status/2114268983813927159",
    "name": "YSR Congress Party",
@@ -73,16 +83,6 @@
    "text": "Channel One TV LIVE! Sunday Breakfast | Latest News updates from Ghana | 25th  October 2026 https://t.co/AOolgaJGQX",
    "started_at": "2026-10-25T07:00:40.000Z",
    "assumed_live_until": "2026-10-25T10:00:40Z"
-  },
-  {
-   "post_id": "2114248070951264457",
-   "post_url": "https://x.com/07Eldho/status/2114248070951264457",
-   "name": "Eldho Jobi 07 ( INC )",
-   "username": "07Eldho",
-   "verified_type": "none",
-   "text": "LIVE: @INCIndia party briefing by MP Shri @saptagiriulaka and @MahilaCongress  president Ms @LambaAlka at AICC Office, New Delhi\n\nhttps://t.co/iFcSK1tilz",
-   "started_at": "2026-10-25T06:49:55.000Z",
-   "assumed_live_until": "2026-10-25T09:49:55Z"
   }
  ]
 }
