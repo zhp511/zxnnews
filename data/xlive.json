@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-25T18:49:40Z",
- "searched_at": "2026-10-25T18:49:00Z",
+ "built_at": "2026-10-25T19:04:53Z",
+ "searched_at": "2026-10-25T19:04:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2114431372136010114",
+   "post_url": "https://x.com/channelstv/status/2114431372136010114",
+   "name": "Channels Television",
+   "username": "channelstv",
+   "verified_type": "blue",
+   "text": "Sunday Politics https://t.co/ZtwWciHsS9",
+   "started_at": "2026-10-25T18:58:18.000Z",
+   "assumed_live_until": "2026-10-25T21:58:18Z"
+  },
   {
    "post_id": "2114421585155387748",
    "post_url": "https://x.com/AgendaFreeTV/status/2114421585155387748",
@@ -73,16 +83,6 @@
    "text": "RNCResearch: RT @Republicans: Midterm Rally in Port Huron, Michigan featuring President Donald J. Trump https://t.co/2BeOFHCFZn",
    "started_at": "2026-10-25T17:38:31.000Z",
    "assumed_live_until": "2026-10-25T20:38:31Z"
-  },
-  {
-   "post_id": "2114398803050565750",
-   "post_url": "https://x.com/RosanneMil3145/status/2114398803050565750",
-   "name": "Rosanne Miller",
-   "username": "RosanneMil3145",
-   "verified_type": "none",
-   "text": "Ray McGovern: BREAKING: Trump Says He's Deciding Whether to Strike Iran or Make a Deal https://t.co/s5jdQMfI9Z",
-   "started_at": "2026-10-25T16:48:52.000Z",
-   "assumed_live_until": "2026-10-25T19:48:52Z"
   }
  ]
 }
