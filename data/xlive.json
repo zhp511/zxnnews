@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T20:21:46Z",
- "searched_at": "2026-10-25T20:21:00Z",
+ "built_at": "2026-10-25T20:39:00Z",
+ "searched_at": "2026-10-25T20:38:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,16 +15,6 @@
    "assumed_live_until": "2026-10-25T21:19:24Z"
   },
   {
-   "post_id": "2114424396161163581",
-   "post_url": "https://x.com/barrycunningham/status/2114424396161163581",
-   "name": "Barry Cunningham",
-   "username": "barrycunningham",
-   "verified_type": "blue",
-   "text": "LIVE TRUMP RALLY IN MICHIGAN! Abdul's Worst Nightmare! Countdown To The Midterms! | And More News! https://t.co/rpFSxXwB2X",
-   "started_at": "2026-10-25T18:30:34.000Z",
-   "assumed_live_until": "2026-10-25T21:30:34Z"
-  },
-  {
    "post_id": "2114438827393909147",
    "post_url": "https://x.com/wxyzdetroit/status/2114438827393909147",
    "name": "WXYZ Detroit",
@@ -33,6 +23,16 @@
    "text": "President Donald Trump speaks at Republican rally in Port Huron https://t.co/DmosiiP4K1",
    "started_at": "2026-10-25T19:27:55.000Z",
    "assumed_live_until": "2026-10-25T22:27:55Z"
+  },
+  {
+   "post_id": "2114424396161163581",
+   "post_url": "https://x.com/barrycunningham/status/2114424396161163581",
+   "name": "Barry Cunningham",
+   "username": "barrycunningham",
+   "verified_type": "blue",
+   "text": "LIVE TRUMP RALLY IN MICHIGAN! Abdul's Worst Nightmare! Countdown To The Midterms! | And More News! https://t.co/rpFSxXwB2X",
+   "started_at": "2026-10-25T18:30:34.000Z",
+   "assumed_live_until": "2026-10-25T21:30:34Z"
   },
   {
    "post_id": "2114428549176422794",
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-10-25T21:24:29Z"
   },
   {
-   "post_id": "2114433275485958293",
-   "post_url": "https://x.com/Goldstatetimes/status/2114433275485958293",
-   "name": "Golden State Times 🇺🇸",
-   "username": "Goldstatetimes",
+   "post_id": "2114447601848496357",
+   "post_url": "https://x.com/AmericaIsBackOG/status/2114447601848496357",
+   "name": "America Is Back on SOL 🇺🇸",
+   "username": "AmericaIsBackOG",
    "verified_type": "blue",
-   "text": "President Trump Rally live from #Michigan against #Elsayed #AbdulElSayed https://t.co/eajNct3E3S",
-   "started_at": "2026-10-25T19:05:51.000Z",
-   "assumed_live_until": "2026-10-25T22:05:51Z"
+   "text": "TRUMP LIVE: AMERICA IS BACK !\n\n https://t.co/ML2tOuAzGf",
+   "started_at": "2026-10-25T20:02:47.000Z",
+   "assumed_live_until": "2026-10-25T23:02:47Z"
   }
  ]
 }
