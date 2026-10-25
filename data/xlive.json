@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-25T18:34:16Z",
- "searched_at": "2026-10-25T18:34:00Z",
+ "built_at": "2026-10-25T18:49:40Z",
+ "searched_at": "2026-10-25T18:49:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2114409442439729354",
-   "post_url": "https://x.com/Republicans/status/2114409442439729354",
-   "name": "Republicans",
-   "username": "Republicans",
-   "verified_type": "blue",
-   "text": "Midterm Rally in Port Huron, Michigan featuring President Donald J. Trump https://t.co/wPZ1uSyL0d",
-   "started_at": "2026-10-25T17:31:09.000Z",
-   "assumed_live_until": "2026-10-25T20:31:09Z"
-  },
   {
    "post_id": "2114421585155387748",
    "post_url": "https://x.com/AgendaFreeTV/status/2114421585155387748",
@@ -45,6 +35,16 @@
    "assumed_live_until": "2026-10-25T20:49:06Z"
   },
   {
+   "post_id": "2114428549176422794",
+   "post_url": "https://x.com/BadlandsMedia_/status/2114428549176422794",
+   "name": "Badlands Media",
+   "username": "BadlandsMedia_",
+   "verified_type": "blue",
+   "text": "Badlands Media Special Coverage: President Trump Delivers Remarks from Port Huron, MI https://t.co/bYNTljOiec",
+   "started_at": "2026-10-25T18:47:04.000Z",
+   "assumed_live_until": "2026-10-25T21:47:04Z"
+  },
+  {
    "post_id": "2114411609913442514",
    "post_url": "https://x.com/LoomersFanClub/status/2114411609913442514",
    "name": "Loomer Fan Club",
@@ -55,14 +55,14 @@
    "assumed_live_until": "2026-10-25T20:39:46Z"
   },
   {
-   "post_id": "2114398803050565750",
-   "post_url": "https://x.com/RosanneMil3145/status/2114398803050565750",
-   "name": "Rosanne Miller",
-   "username": "RosanneMil3145",
-   "verified_type": "none",
-   "text": "Ray McGovern: BREAKING: Trump Says He's Deciding Whether to Strike Iran or Make a Deal https://t.co/s5jdQMfI9Z",
-   "started_at": "2026-10-25T16:48:52.000Z",
-   "assumed_live_until": "2026-10-25T19:48:52Z"
+   "post_id": "2114422865462460491",
+   "post_url": "https://x.com/spnctynews/status/2114422865462460491",
+   "name": "Spin City News",
+   "username": "spnctynews",
+   "verified_type": "blue",
+   "text": "President Trump Holds a Rally in Port Huron, MI  #viral #Live #Trump https://t.co/yfgkaHgqh9",
+   "started_at": "2026-10-25T18:24:29.000Z",
+   "assumed_live_until": "2026-10-25T21:24:29Z"
   },
   {
    "post_id": "2114411295902441787",
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-10-25T20:38:31Z"
   },
   {
-   "post_id": "2114422865462460491",
-   "post_url": "https://x.com/spnctynews/status/2114422865462460491",
-   "name": "Spin City News",
-   "username": "spnctynews",
-   "verified_type": "blue",
-   "text": "President Trump Holds a Rally in Port Huron, MI  #viral #Live #Trump https://t.co/yfgkaHgqh9",
-   "started_at": "2026-10-25T18:24:29.000Z",
-   "assumed_live_until": "2026-10-25T21:24:29Z"
+   "post_id": "2114398803050565750",
+   "post_url": "https://x.com/RosanneMil3145/status/2114398803050565750",
+   "name": "Rosanne Miller",
+   "username": "RosanneMil3145",
+   "verified_type": "none",
+   "text": "Ray McGovern: BREAKING: Trump Says He's Deciding Whether to Strike Iran or Make a Deal https://t.co/s5jdQMfI9Z",
+   "started_at": "2026-10-25T16:48:52.000Z",
+   "assumed_live_until": "2026-10-25T19:48:52Z"
   }
  ]
 }
