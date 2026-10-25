@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T02:05:41Z",
- "searched_at": "2026-10-25T02:05:41Z",
+ "built_at": "2026-10-25T02:23:06Z",
+ "searched_at": "2026-10-25T02:22:50Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,16 +35,6 @@
    "assumed_live_until": "2026-10-25T03:56:31Z"
   },
   {
-   "post_id": "2114134480755855404",
-   "post_url": "https://x.com/RealLindellTV/status/2114134480755855404",
-   "name": "LindellTV",
-   "username": "RealLindellTV",
-   "verified_type": "blue",
-   "text": "LIVE: PRESIDENT TRUMP SPEAKS AT A RALLY IN GEORGIA https://t.co/wkFc7qez6S",
-   "started_at": "2026-10-24T23:18:33.000Z",
-   "assumed_live_until": "2026-10-25T02:18:33Z"
-  },
-  {
    "post_id": "2114173548625617115",
    "post_url": "https://x.com/junonewscom/status/2114173548625617115",
    "name": "Juno News",
@@ -53,6 +43,16 @@
    "text": "LIVE: Juno News BC Election Night Broadcast https://t.co/EYtOel8Cnm",
    "started_at": "2026-10-25T01:53:48.000Z",
    "assumed_live_until": "2026-10-25T04:53:48Z"
+  },
+  {
+   "post_id": "2114159988637917646",
+   "post_url": "https://x.com/Maninamerica/status/2114159988637917646",
+   "name": "Man in America",
+   "username": "Maninamerica",
+   "verified_type": "blue",
+   "text": "MKUltra Never Ended: How the CIA Drugged America | John Potash https://t.co/MEGxxw8CGR",
+   "started_at": "2026-10-25T00:59:55.000Z",
+   "assumed_live_until": "2026-10-25T03:59:55Z"
   },
   {
    "post_id": "2114144978641563952",
@@ -65,6 +65,16 @@
    "assumed_live_until": "2026-10-25T03:00:16Z"
   },
   {
+   "post_id": "2114145860271698395",
+   "post_url": "https://x.com/_ARMedia/status/2114145860271698395",
+   "name": "America Rising Media",
+   "username": "_ARMedia",
+   "verified_type": "blue",
+   "text": "America Rising Live: Featuring Michigan Gubernatorial Candidate Donna Brandenburg https://t.co/b0FSY4Bf0s",
+   "started_at": "2026-10-25T00:03:46.000Z",
+   "assumed_live_until": "2026-10-25T03:03:46Z"
+  },
+  {
    "post_id": "2114137438222524480",
    "post_url": "https://x.com/ActforMissouri/status/2114137438222524480",
    "name": "Act for Missouri",
@@ -73,16 +83,6 @@
    "text": "Saturday Night Stream - Pre-election Special https://t.co/k5yakc8ZKC",
    "started_at": "2026-10-24T23:30:18.000Z",
    "assumed_live_until": "2026-10-25T02:30:18Z"
-  },
-  {
-   "post_id": "2114134531930513493",
-   "post_url": "https://x.com/joveg8/status/2114134531930513493",
-   "name": "JV",
-   "username": "joveg8",
-   "verified_type": "blue",
-   "text": "LIVE: President Trump Holds a Rally in Perry, GA   https://t.co/uvoEmAUMdg",
-   "started_at": "2026-10-24T23:18:45.000Z",
-   "assumed_live_until": "2026-10-25T02:18:45Z"
   }
  ]
 }
