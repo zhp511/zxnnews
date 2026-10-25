@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T06:17:42Z",
- "searched_at": "2026-10-25T06:17:30Z",
+ "built_at": "2026-10-25T06:34:11Z",
+ "searched_at": "2026-10-25T06:34:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-10-25T08:52:00Z"
   },
   {
-   "post_id": "2114197348335370533",
-   "post_url": "https://x.com/IndiaToday/status/2114197348335370533",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
-   "verified_type": "business",
-   "text": "LIVE | Watch what's making news at this hour\n#ITLivestream https://t.co/Tc8fsuW5ZK",
-   "started_at": "2026-10-25T03:28:22.000Z",
-   "assumed_live_until": "2026-10-25T06:28:22Z"
-  },
-  {
    "post_id": "2114235500064338224",
    "post_url": "https://x.com/GBNEWS/status/2114235500064338224",
    "name": "GB News",
@@ -83,6 +73,16 @@
    "text": "LIVE: Nellore District President & Former Minister Sri. Kakani Govardhan Reddy Press Meet https://t.co/3C963ckUkV",
    "started_at": "2026-10-25T05:57:14.000Z",
    "assumed_live_until": "2026-10-25T08:57:14Z"
+  },
+  {
+   "post_id": "2114200227536404964",
+   "post_url": "https://x.com/sandeshnews/status/2114200227536404964",
+   "name": "Sandesh",
+   "username": "sandeshnews",
+   "verified_type": "blue",
+   "text": "Sandesh News https://t.co/Iy7UNOEffz",
+   "started_at": "2026-10-25T03:39:48.000Z",
+   "assumed_live_until": "2026-10-25T06:39:48Z"
   }
  ]
 }
