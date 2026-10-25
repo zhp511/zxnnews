@@ -1,9 +1,29 @@
 {
- "built_at": "2026-10-25T13:17:23Z",
- "searched_at": "2026-10-25T13:17:00Z",
+ "built_at": "2026-10-25T13:32:44Z",
+ "searched_at": "2026-10-25T13:32:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2114347747390501094",
+   "post_url": "https://x.com/ANI/status/2114347747390501094",
+   "name": "ANI",
+   "username": "ANI",
+   "verified_type": "business",
+   "text": "BJP's Sambit Patra Hits Back at Congress Chief Kharge Over ‘Modi Ka Baap’ Comment\n\n#sambitpatra #congress #mallikarjunkharge #narendramodi #live https://t.co/HngMerYBAP",
+   "started_at": "2026-10-25T13:26:00.000Z",
+   "assumed_live_until": "2026-10-25T16:26:00Z"
+  },
+  {
+   "post_id": "2114348863775703190",
+   "post_url": "https://x.com/RSBNetwork/status/2114348863775703190",
+   "name": "RSBN 🇺🇸",
+   "username": "RSBNetwork",
+   "verified_type": "business",
+   "text": "LIVE: President Trump Holds a Rally in Port Huron, MI - 10/25/26 https://t.co/0va9uMsVIS",
+   "started_at": "2026-10-25T13:30:26.000Z",
+   "assumed_live_until": "2026-10-25T16:30:26Z"
+  },
   {
    "post_id": "2114327175344370162",
    "post_url": "https://x.com/INCPuducherry/status/2114327175344370162",
@@ -25,6 +45,16 @@
    "assumed_live_until": "2026-10-25T15:35:44Z"
   },
   {
+   "post_id": "2114347281017405772",
+   "post_url": "https://x.com/FrStephenImb/status/2114347281017405772",
+   "name": "Fr Stephen Imbarrato",
+   "username": "FrStephenImb",
+   "verified_type": "blue",
+   "text": "Our Lady of America; my courageous friends, revisiting the death penalty and NFP! Fr Imbarrato https://t.co/F5PVj9siRt",
+   "started_at": "2026-10-25T13:24:09.000Z",
+   "assumed_live_until": "2026-10-25T16:24:09Z"
+  },
+  {
    "post_id": "2114322440738455561",
    "post_url": "https://x.com/Mur_Tech/status/2114322440738455561",
    "name": "John R. Murphy",
@@ -35,14 +65,14 @@
    "assumed_live_until": "2026-10-25T14:45:26Z"
   },
   {
-   "post_id": "2114317513941270827",
-   "post_url": "https://x.com/IndiaToday/status/2114317513941270827",
+   "post_id": "2114347831633047957",
+   "post_url": "https://x.com/IndiaToday/status/2114347831633047957",
    "name": "IndiaToday",
    "username": "IndiaToday",
    "verified_type": "business",
-   "text": "LIVE || Catch the top news updates & headlines, only on India Today! https://t.co/K923ua5qE5",
-   "started_at": "2026-10-25T11:25:52.000Z",
-   "assumed_live_until": "2026-10-25T14:25:52Z"
+   "text": "Catch the top news updates & headlines, only on India Today! https://t.co/O20dDXpxHY",
+   "started_at": "2026-10-25T13:26:20.000Z",
+   "assumed_live_until": "2026-10-25T16:26:20Z"
   },
   {
    "post_id": "2114307649819095343",
@@ -53,36 +83,6 @@
    "text": "Hibs v Celtic Team News Reaction & Match Preview #HIBCEL | #CelticFC🍀 https://t.co/3pYKkiMEiW",
    "started_at": "2026-10-25T10:46:40.000Z",
    "assumed_live_until": "2026-10-25T13:46:40Z"
-  },
-  {
-   "post_id": "2114341214191575082",
-   "post_url": "https://x.com/GBNEWS/status/2114341214191575082",
-   "name": "GB News",
-   "username": "GBNEWS",
-   "verified_type": "business",
-   "text": "GB News https://t.co/k2VyShSvWk",
-   "started_at": "2026-10-25T13:00:02.000Z",
-   "assumed_live_until": "2026-10-25T16:00:02Z"
-  },
-  {
-   "post_id": "2114337051604889748",
-   "post_url": "https://x.com/tedinvestigate/status/2114337051604889748",
-   "name": "Ted Investigates",
-   "username": "tedinvestigate",
-   "verified_type": "blue",
-   "text": "TED\"S MORNING SHOW -ALL BREAKING NEWS https://t.co/DP69jwqs5A",
-   "started_at": "2026-10-25T12:43:30.000Z",
-   "assumed_live_until": "2026-10-25T15:43:30Z"
-  },
-  {
-   "post_id": "2114340050855133534",
-   "post_url": "https://x.com/utvghana/status/2114340050855133534",
-   "name": "UTV Ghana",
-   "username": "utvghana",
-   "verified_type": "blue",
-   "text": "MIDDAY NEWS 25/10/26 https://t.co/71ISrWb5XN",
-   "started_at": "2026-10-25T12:55:25.000Z",
-   "assumed_live_until": "2026-10-25T15:55:25Z"
   }
  ]
 }
