@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-24T23:57:26Z",
- "searched_at": "2026-10-24T23:57:10Z",
+ "built_at": "2026-10-25T00:15:41Z",
+ "searched_at": "2026-10-25T00:15:41Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,16 +25,6 @@
    "assumed_live_until": "2026-10-25T01:14:34Z"
   },
   {
-   "post_id": "2114122196155298217",
-   "post_url": "https://x.com/barrycunningham/status/2114122196155298217",
-   "name": "Barry Cunningham",
-   "username": "barrycunningham",
-   "verified_type": "blue",
-   "text": "LIVE TRUMP RALLY IN GEORGIA ! Countdown To The Midterms! | And More News! https://t.co/9aFrlZhcV6",
-   "started_at": "2026-10-24T22:29:44.000Z",
-   "assumed_live_until": "2026-10-25T01:29:44Z"
-  },
-  {
    "post_id": "2114134480755855404",
    "post_url": "https://x.com/RealLindellTV/status/2114134480755855404",
    "name": "LindellTV",
@@ -43,6 +33,16 @@
    "text": "LIVE: PRESIDENT TRUMP SPEAKS AT A RALLY IN GEORGIA https://t.co/wkFc7qez6S",
    "started_at": "2026-10-24T23:18:33.000Z",
    "assumed_live_until": "2026-10-25T02:18:33Z"
+  },
+  {
+   "post_id": "2114122196155298217",
+   "post_url": "https://x.com/barrycunningham/status/2114122196155298217",
+   "name": "Barry Cunningham",
+   "username": "barrycunningham",
+   "verified_type": "blue",
+   "text": "LIVE TRUMP RALLY IN GEORGIA ! Countdown To The Midterms! | And More News! https://t.co/9aFrlZhcV6",
+   "started_at": "2026-10-24T22:29:44.000Z",
+   "assumed_live_until": "2026-10-25T01:29:44Z"
   },
   {
    "post_id": "2114125954880811303",
