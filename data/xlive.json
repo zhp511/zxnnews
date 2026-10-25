@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T09:09:51Z",
- "searched_at": "2026-10-25T09:09:30Z",
+ "built_at": "2026-10-25T09:30:13Z",
+ "searched_at": "2026-10-25T09:30:13Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,6 +45,16 @@
    "assumed_live_until": "2026-10-25T11:45:05Z"
   },
   {
+   "post_id": "2114285840897921473",
+   "post_url": "https://x.com/ZeeNews/status/2114285840897921473",
+   "name": "Zee News",
+   "username": "ZeeNews",
+   "verified_type": "blue",
+   "text": "zee news https://t.co/Ym5B163Evw",
+   "started_at": "2026-10-25T09:20:00.000Z",
+   "assumed_live_until": "2026-10-25T12:20:00Z"
+  },
+  {
    "post_id": "2114268983813927159",
    "post_url": "https://x.com/YSRCParty/status/2114268983813927159",
    "name": "YSR Congress Party",
@@ -73,16 +83,6 @@
    "text": "LIVE: @INCIndia party briefing by MP Shri @saptagiriulaka and @MahilaCongress  president Ms @LambaAlka at AICC Office, New Delhi\n\nhttps://t.co/iFcSK1tilz",
    "started_at": "2026-10-25T06:49:55.000Z",
    "assumed_live_until": "2026-10-25T09:49:55Z"
-  },
-  {
-   "post_id": "2114253262979530855",
-   "post_url": "https://x.com/StarAsiatvHD/status/2114253262979530855",
-   "name": "Star Asia Tv",
-   "username": "StarAsiatvHD",
-   "verified_type": "blue",
-   "text": "12 News Bulletin Star Asia Tv Live https://t.co/aHB2llSNE6",
-   "started_at": "2026-10-25T07:10:33.000Z",
-   "assumed_live_until": "2026-10-25T10:10:33Z"
   }
  ]
 }
