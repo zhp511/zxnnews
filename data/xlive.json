@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-25T03:06:53Z",
- "searched_at": "2026-10-25T03:06:00Z",
+ "built_at": "2026-10-25T03:25:58Z",
+ "searched_at": "2026-10-25T03:25:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,16 +25,6 @@
    "assumed_live_until": "2026-10-25T03:56:31Z"
   },
   {
-   "post_id": "2114174312093827194",
-   "post_url": "https://x.com/the_hindu/status/2114174312093827194",
-   "name": "The Hindu",
-   "username": "the_hindu",
-   "verified_type": "blue",
-   "text": "U.S. President Donald Trump addresses midterm rally in Perry, Georgia https://t.co/dCa6XcX3xa",
-   "started_at": "2026-10-25T01:56:50.000Z",
-   "assumed_live_until": "2026-10-25T04:56:50Z"
-  },
-  {
    "post_id": "2114173548625617115",
    "post_url": "https://x.com/junonewscom/status/2114173548625617115",
    "name": "Juno News",
@@ -45,14 +35,14 @@
    "assumed_live_until": "2026-10-25T04:53:48Z"
   },
   {
-   "post_id": "2114159988637917646",
-   "post_url": "https://x.com/Maninamerica/status/2114159988637917646",
-   "name": "Man in America",
-   "username": "Maninamerica",
+   "post_id": "2114174312093827194",
+   "post_url": "https://x.com/the_hindu/status/2114174312093827194",
+   "name": "The Hindu",
+   "username": "the_hindu",
    "verified_type": "blue",
-   "text": "MKUltra Never Ended: How the CIA Drugged America | John Potash https://t.co/MEGxxw8CGR",
-   "started_at": "2026-10-25T00:59:55.000Z",
-   "assumed_live_until": "2026-10-25T03:59:55Z"
+   "text": "U.S. President Donald Trump addresses midterm rally in Perry, Georgia https://t.co/dCa6XcX3xa",
+   "started_at": "2026-10-25T01:56:50.000Z",
+   "assumed_live_until": "2026-10-25T04:56:50Z"
   },
   {
    "post_id": "2114185425040589050",
@@ -63,6 +53,16 @@
    "text": "BC Election Live https://t.co/cBK6EoRa3G",
    "started_at": "2026-10-25T02:40:59.000Z",
    "assumed_live_until": "2026-10-25T05:40:59Z"
+  },
+  {
+   "post_id": "2114159988637917646",
+   "post_url": "https://x.com/Maninamerica/status/2114159988637917646",
+   "name": "Man in America",
+   "username": "Maninamerica",
+   "verified_type": "blue",
+   "text": "MKUltra Never Ended: How the CIA Drugged America | John Potash https://t.co/MEGxxw8CGR",
+   "started_at": "2026-10-25T00:59:55.000Z",
+   "assumed_live_until": "2026-10-25T03:59:55Z"
   },
   {
    "post_id": "2114186921589236009",
