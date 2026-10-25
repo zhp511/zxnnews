@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-25T20:53:32Z",
- "news_fetched_at": "2026-10-25T20:53:00Z",
- "trends_fetched_at": "2026-10-25T20:53:00Z",
+ "built_at": "2026-10-25T22:00:58Z",
+ "news_fetched_at": "2026-10-25T22:00:30Z",
+ "trends_fetched_at": "2026-10-25T22:00:30Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
-  {
-   "id": "2114438483930648921",
-   "headline": "Prediction Markets Give Democrats 63% Chance of Midterm Sweep",
-   "hook": "With just eight days until the November 3 midterms, betting markets see Democrats poised to take both chambers of Congress.",
-   "summary": "Polls and models show Democrats favored for 229 House seats, surpassing the 218 needed for majority, while Senate races remain tight with projections varying from a 50-49 Republican edge to a 52-45 Democratic lead. Prediction markets like Kalshi put Democratic House control at 90% odds and a full congressional sweep at 63%. Skeptics question poll reliability, citing claims of fabricated data, and urge Republicans to turn out strong amid concerns over inflation boosting Democratic support in key states like Texas, Michigan, and Maine.",
-   "updated_at": "2026-10-25T20:28:56.000Z",
-   "url": "https://x.com/i/trending/2114438483930648921",
-   "topics": [],
-   "post_urls": []
-  },
   {
    "id": "2113998497309479123",
    "headline": "Conservatives Criticize Thune's Low-Key Midterm Push",
@@ -65,22 +55,32 @@
    "post_urls": []
   },
   {
+   "id": "2114056886236664059",
+   "headline": "Prediction Markets Give Democrats 66% Chance of House and Senate Sweep Before Midterms",
+   "hook": "With Election Day one week away, betting markets show Democrats on track for a rare double victory in Congress. Yet reminders of past polling misses keep everyone urging voters to show up.",
+   "summary": "Major platforms like Polymarket list Democrats at 91% odds to take the House and 67% for the Senate, with a full sweep at 66%. Polls point to a potential 250 House seats for Democrats, their largest majority since 2008, but internal data shows Republicans closing gaps in Midwest races. Skeptics cite contradictions like a CNN Senate map favoring Republicans 53-46 and the 2016 New York Times forecast that gave Hillary Clinton a 92% edge she didn't win. Both sides push turnout, questioning if markets and polls will match reality.",
+   "updated_at": "2026-10-25T02:00:46.000Z",
+   "url": "https://x.com/i/trending/2114056886236664059",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2114079287233958290",
+   "headline": "Rubio Hails Trump as Visionary Ahead of Midterms",
+   "hook": "Marco Rubio stepped up to call President Trump a visionary who turns the impossible into reality, energizing his team in ways traditional politicians never could.",
+   "summary": "Secretary of State Rubio praised Trump for imagining bold outcomes and delivering them, remarks shared by the State Department just days before the November 3 midterms that will shape Congress for the final two years of his term. Conservative voices celebrated the tribute as epic, linking it to analyses warning Trump could pursue assertive foreign policy unshackled by elections, while a Wall Street Journal editorial cautioned against risks like a potential summit with Putin and Xi that might divide alliances. The comments highlight divides over U.S. foreign policy direction, amid Rubio's recent diplomacy on trade, energy, and defense ties.",
+   "updated_at": "2026-10-25T01:53:23.000Z",
+   "url": "https://x.com/i/trending/2114079287233958290",
+   "topics": [],
+   "post_urls": []
+  },
+  {
    "id": "2114115004890812684",
    "headline": "Online Hopes for Right-Wing Losses in Brazil, Israel, and US Elections",
    "hook": "One post imagined a single week sweeping out Bolsonaro in Brazil, Netanyahu in Israel, and Republican majorities in the US Congress. It quickly drew tens of thousands of likes from those rooting for the shift.",
    "summary": "A message on October 24 envisioned defeats for right-wing figures in upcoming votes: Brazil's presidential runoff on Sunday pitting Senator Flávio Bolsonaro against President Luiz Inácio Lula da Silva, Israel's Knesset elections on Tuesday where Netanyahu's coalition trails or ties the opposition, and US midterms on November 3 with narrow Republican majorities at risk in the House and Senate. Polls show all three races neck-and-neck, fueling both optimism and skepticism online. Some called the scenario unlikely or dismissed opposition candidates as similar problems, highlighting the tight uncertainties ahead.",
    "updated_at": "2026-10-25T00:32:48.000Z",
    "url": "https://x.com/i/trending/2114115004890812684",
-   "topics": [],
-   "post_urls": []
-  },
-  {
-   "id": "2114117543329952216",
-   "headline": "Fuentes Warns Against Skipping GOP Votes Amid Neocon Fears",
-   "hook": "Nicholas J. Fuentes issued a stark warning on October 24: sitting out Republican votes could let neocons seize the party and spark wars or media overhauls.",
-   "summary": "In his post, Fuentes cautioned that without Republican support, neocons might launch a regime change war in Iran or hand media control to figures like Bari Weiss at CBS and CNN. Replies from the America First crowd pushed back, with some highlighting immigration as the top priority and others mocking the neocon label as simplistic. The debate ties into 2026 midterm tensions, amplified by Bush family endorsements of Democrat James Talarico over Republican Ken Paxton in Texas.",
-   "updated_at": "2026-10-24T22:16:51.000Z",
-   "url": "https://x.com/i/trending/2114117543329952216",
    "topics": [],
    "post_urls": []
   }
@@ -95,12 +95,20 @@
    "url": "https://x.com/search?q=Ravens"
   },
   {
+   "name": "Larson",
+   "url": "https://x.com/search?q=Larson"
+  },
+  {
    "name": "Falcons",
    "url": "https://x.com/search?q=Falcons"
   },
   {
    "name": "Texans",
    "url": "https://x.com/search?q=Texans"
+  },
+  {
+   "name": "49ers",
+   "url": "https://x.com/search?q=49ers"
   },
   {
    "name": "Browns",
@@ -111,16 +119,20 @@
    "url": "https://x.com/search?q=Jets"
   },
   {
-   "name": "Bengals",
-   "url": "https://x.com/search?q=Bengals"
+   "name": "Vikings",
+   "url": "https://x.com/search?q=Vikings"
   },
   {
    "name": "JJ McCarthy",
    "url": "https://x.com/search?q=JJ%20McCarthy"
   },
   {
-   "name": "Vikings",
-   "url": "https://x.com/search?q=Vikings"
+   "name": "#NASCAR",
+   "url": "https://x.com/search?q=%23NASCAR"
+  },
+  {
+   "name": "Lions",
+   "url": "https://x.com/search?q=Lions"
   },
   {
    "name": "Dolphins",
@@ -131,20 +143,8 @@
    "url": "https://x.com/search?q=Niners"
   },
   {
-   "name": "Daniel Jones",
-   "url": "https://x.com/search?q=Daniel%20Jones"
-  },
-  {
-   "name": "Panthers",
-   "url": "https://x.com/search?q=Panthers"
-  },
-  {
-   "name": "Aaron Glenn",
-   "url": "https://x.com/search?q=Aaron%20Glenn"
-  },
-  {
-   "name": "#BigBlue",
-   "url": "https://x.com/search?q=%23BigBlue"
+   "name": "Bengals",
+   "url": "https://x.com/search?q=Bengals"
   }
  ]
 }
