@@ -123,6 +123,10 @@ def kicker(url):
 
 
 CONFIG = os.path.join(ROOT, "data", "site_config.json")
+try:
+    PINNED_ID = (json.load(open(CONFIG)) or {}).get("pinned_top")
+except Exception:
+    PINNED_ID = None
 # Short notes like "Make this top story" / "pin this" / "put this on the front page".
 EDITORIAL_RE = re.compile(r"\b(top story|lead story|main story|front ?page|pin (this|it)|feature (this|it)|headline (this|it))\b", re.I)
 TEST_RE = re.compile(r"^(test|testing)(\s+(in|\d+))?(\s+youtube live)?$", re.I)
@@ -143,6 +147,8 @@ def detect_live(posts, config):
     for p in sorted(posts, key=lambda p: p["created_at"], reverse=True):
         if p["hidden"] and (p["hidden_reason"] == "test post" or str(p["hidden_reason"]).startswith("editorial")):
             continue
+        if str(p.get("original_text") or p.get("text") or "").startswith("RT @"):
+            continue  # a repost of someone else's broadcast isn't our own live stream
         hay = " ".join([p["original_text"], (p.get("link") or {}).get("url") or ""] + p.get("_expanded_urls", []))
         m = BROADCAST_RE.search(hay)
         if m:
@@ -279,7 +285,7 @@ def build():
             hidden, reason = True, "editorial note (quote-post)" if quoted_ids else "editorial note"
         elif TEST_RE.match(bare) or (card_title or "").lower().startswith("happening now: test"):
             hidden, reason = True, "test post"
-        elif bare.startswith("@") or (len(bare) < 10 and not card):
+        elif (bare.startswith("@") or (len(bare) < 10 and not card)) and t["id"] != PINNED_ID:
             hidden, reason = True, "reply-style / too short"
         key = (headline.lower(), (card or {}).get("expanded_url") or (pseudo or {}).get("url") or bare[:80].lower())
         if not hidden and key in seen:

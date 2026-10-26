@@ -1,0 +1,675 @@
+{
+ "fetched_at": "2026-10-25T18:46:00Z",
+ "tool": "x.search_news",
+ "args": {
+  "query": "US politics",
+  "max_results": 10,
+  "max_age_hours": 24,
+  "news.fields": "name,summary,hook,category,updated_at,contexts,cluster_posts_results"
+ },
+ "meta": {
+  "result_count": 10
+ },
+ "data": [
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2114119282460401742"
+    },
+    {
+     "post_id": "2114151752127635590"
+    },
+    {
+     "post_id": "2114184486485365153"
+    },
+    {
+     "post_id": "2114156875847753911"
+    },
+    {
+     "post_id": "2114152672953762259"
+    },
+    {
+     "post_id": "2114119282460401742"
+    },
+    {
+     "post_id": "2114151752127635590"
+    },
+    {
+     "post_id": "2114146834738242041"
+    },
+    {
+     "post_id": "2114184486485365153"
+    },
+    {
+     "post_id": "2114120051314098329"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [
+      "Jonah Goldberg"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In a podcast clip, Jonah Goldberg pointed to 'neuroses' among left-wing White women and 'self-esteem issues' among right-wing White men as key drivers of U.S. political woes.",
+   "id": "2114161429938872369",
+   "name": "Jonah Goldberg Blames White Americans' Traits for Political Dysfunction",
+   "summary": "The Dispatch editor described these groups' personal traits as fueling dysfunction, while praising immigrants and groups like Hispanics and Indians as among the 'most patriotic and best Americans' and top Republicans. Online responses split sharply, with many criticizing the race-and-gender framing as divisive identity politics and highlighting what they see as double standards given Goldberg's Jewish background. Others urged shifting focus from demographics to everyday concerns like the economy and safety, reflecting Goldberg's own past warnings against tribal politics.",
+   "updated_at": "2026-10-25T03:47:57.000Z",
+   "url": "https://x.com/i/trending/2114161429938872369"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2114041990522208665"
+    },
+    {
+     "post_id": "2113996454784380946"
+    },
+    {
+     "post_id": "2114041479299571899"
+    },
+    {
+     "post_id": "2114073449090142409"
+    },
+    {
+     "post_id": "2114136134401896864"
+    },
+    {
+     "post_id": "2114041479299571899"
+    },
+    {
+     "post_id": "2114073449090142409"
+    },
+    {
+     "post_id": "2114041990522208665"
+    },
+    {
+     "post_id": "2113996454784380946"
+    },
+    {
+     "post_id": "2114136134401896864"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "2026 Elections"
+     ],
+     "organizations": [
+      "Democratic Party",
+      "Republican Party"
+     ],
+     "people": [
+      "Donald Trump"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": [
+      "POLY"
+     ]
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Elections"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "With Election Day one week away, betting markets show Democrats on track for a rare double victory in Congress. Yet reminders of past polling misses keep everyone urging voters to show up.",
+   "id": "2114056886236664059",
+   "name": "Prediction Markets Give Democrats 66% Chance of House and Senate Sweep Before Midterms",
+   "summary": "Major platforms like Polymarket list Democrats at 91% odds to take the House and 67% for the Senate, with a full sweep at 66%. Polls point to a potential 250 House seats for Democrats, their largest majority since 2008, but internal data shows Republicans closing gaps in Midwest races. Skeptics cite contradictions like a CNN Senate map favoring Republicans 53-46 and the 2016 New York Times forecast that gave Hillary Clinton a 92% edge she didn't win. Both sides push turnout, questioning if markets and polls will match reality.",
+   "updated_at": "2026-10-25T02:00:46.000Z",
+   "url": "https://x.com/i/trending/2114056886236664059"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2113417613472931906"
+    },
+    {
+     "post_id": "2113519224169627717"
+    },
+    {
+     "post_id": "2113088854123032935"
+    },
+    {
+     "post_id": "2113313920991797675"
+    },
+    {
+     "post_id": "2113405587279298941"
+    },
+    {
+     "post_id": "2113417613472931906"
+    },
+    {
+     "post_id": "2113313920991797675"
+    },
+    {
+     "post_id": "2113519224169627717"
+    },
+    {
+     "post_id": "2113632561583071592"
+    },
+    {
+     "post_id": "2113323063341404179"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Democratic Party",
+      "Republican Party"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Religion",
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A Texas Presbyterian seminarian running for U.S. Senate called God 'nonbinary' in a 2021 speech, sparking intense faith-based arguments among Christian voters just weeks from Election Day.",
+   "id": "2113372608947458371",
+   "name": "Texas Christians Debate Voting for Talarico Over God Comments",
+   "summary": "James Talarico, facing Republican Ken Paxton in a tight Texas Senate race, faces backlash from conservative Christians for his past remarks on God's gender and support for transgender children, with some declaring such views incompatible with faith. Critics online question how churchgoers can back him, while others counter that Jesus prioritized the poor and sick, and no party fully aligns with Christian values. The debate highlights tensions in American Christianity over politics, theology, and issues like abortion and gender as early voting continues ahead of November 3.",
+   "updated_at": "2026-10-24T18:39:05.000Z",
+   "url": "https://x.com/i/trending/2113372608947458371"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2113712729894842620"
+    },
+    {
+     "post_id": "2113703754017243641"
+    },
+    {
+     "post_id": "2114028124123918744"
+    },
+    {
+     "post_id": "2114010426887508454"
+    },
+    {
+     "post_id": "2113712729894842620"
+    },
+    {
+     "post_id": "2113756302618792140"
+    },
+    {
+     "post_id": "2113703754017243641"
+    },
+    {
+     "post_id": "2114010426887508454"
+    },
+    {
+     "post_id": "2114028124123918744"
+    },
+    {
+     "post_id": "2114057472491344163"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Democratic Party"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Dozens of social media creators climbed into their cars or stood in their homes, holding up keys and signs while delivering the exact same warning: 'Our country is NOT FOR SALE.' The uniform phrasing has people wondering if it's genuine outrage or a scripted push.",
+   "id": "2113806137791234506",
+   "name": "Influencers Recite Identical 'Country Not for Sale' Lines Against Musk",
+   "summary": "Videos show influencers repeating the phrase word-for-word in reference to Elon Musk's massive political donations, with collages circulating that highlight the identical messaging alongside his image. Critics call it coordinated propaganda, possibly paid, while supporters view it as grassroots resistance to billionaire influence in the 2026 midterms—Musk has donated over $445 million to Republican super PACs. The pattern mirrors Democratic candidate James Talarico's Texas campaign slogan against Ken Paxton, fueling debates on funding, scripting, and online political messaging.",
+   "updated_at": "2026-10-24T21:19:45.000Z",
+   "url": "https://x.com/i/trending/2113806137791234506"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2114127054362878287"
+    },
+    {
+     "post_id": "2114399972737110429"
+    },
+    {
+     "post_id": "2114188546391310539"
+    },
+    {
+     "post_id": "2114165993387753813"
+    },
+    {
+     "post_id": "2114402443165417573"
+    },
+    {
+     "post_id": "2114169316648321431"
+    },
+    {
+     "post_id": "2114393104975360427"
+    },
+    {
+     "post_id": "2114185611359998187"
+    },
+    {
+     "post_id": "2114374839796412548"
+    },
+    {
+     "post_id": "2114403631860789334"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "2026 Midterm Elections"
+     ],
+     "organizations": [
+      "CBS News",
+      "Kalshi"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Elections"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "With midterms one week away, betting markets have flipped dramatically in Democrats' favor, putting a House and Senate sweep within reach.",
+   "id": "2114119759981871406",
+   "name": "Prediction Markets Show Democrats Poised for Midterm Sweep",
+   "summary": "Polymarket gives Democrats 66% odds of capturing both chambers, while trackers like CBS News/YouGov project them gaining to 229 House seats from their current 214. Senate races stay competitive, with forecasts showing Republicans at 53 seats but potential Democratic flips in states like North Carolina. Economic worries like inflation fuel the Democratic surge in polls and markets, though skeptics highlight past polling errors and call for strong turnout.",
+   "updated_at": "2026-10-25T17:04:26.000Z",
+   "url": "https://x.com/i/trending/2114119759981871406"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2114349070076514335"
+    },
+    {
+     "post_id": "2114401992496095583"
+    },
+    {
+     "post_id": "2114352163615072329"
+    },
+    {
+     "post_id": "2114372400154300815"
+    },
+    {
+     "post_id": "2114373547330294192"
+    },
+    {
+     "post_id": "2114364351171703180"
+    },
+    {
+     "post_id": "2114352930283487356"
+    },
+    {
+     "post_id": "2114380923995148501"
+    },
+    {
+     "post_id": "2114367929311695353"
+    },
+    {
+     "post_id": "2114353039595499729"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Democratic Party"
+     ],
+     "people": [
+      "Pastor4justice",
+      "Gentry W. Gever"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Religion",
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Pastor Kevin Riggs shared a simple truth from his life: 'I am a Christian. I voted Democrat.' His words opened a flood of responses questioning faith and politics.",
+   "id": "2114411164155146380",
+   "name": "Pastor Sparks Debate on Christianity and Democratic Voting",
+   "summary": "Riggs's post amid the 2026 midterms drew critics who argued Democratic stances on abortion, family, and sexuality clash with biblical teachings, with one comparing it to a vegetarian eating meat. Supporters countered by citing Bible verses on feeding the hungry, caring for the sick, welcoming strangers, and loving neighbors from Matthew, Luke, and Mark. The discussion highlights deep divides among Christians, as polls show white evangelicals favoring Republicans while others vary, and analyses note no biblical mandate ties faith to one party.",
+   "updated_at": "2026-10-25T17:45:07.000Z",
+   "url": "https://x.com/i/trending/2114411164155146380"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2114078668268146834"
+    },
+    {
+     "post_id": "2114087067030278403"
+    },
+    {
+     "post_id": "2114104872744444220"
+    },
+    {
+     "post_id": "2114080363123548355"
+    },
+    {
+     "post_id": "2114078668268146834"
+    },
+    {
+     "post_id": "2114087067030278403"
+    },
+    {
+     "post_id": "2114104872744444220"
+    },
+    {
+     "post_id": "2114085535828611218"
+    },
+    {
+     "post_id": "2114106600818409718"
+    },
+    {
+     "post_id": "2114079960877117887"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "GOP"
+     ],
+     "people": [
+      "Nicholas J. Fuentes",
+      "Blake Kresses"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Nicholas J. Fuentes issued a stark warning on October 24: sitting out Republican votes could let neocons seize the party and spark wars or media overhauls.",
+   "id": "2114117543329952216",
+   "name": "Fuentes Warns Against Skipping GOP Votes Amid Neocon Fears",
+   "summary": "In his post, Fuentes cautioned that without Republican support, neocons might launch a regime change war in Iran or hand media control to figures like Bari Weiss at CBS and CNN. Replies from the America First crowd pushed back, with some highlighting immigration as the top priority and others mocking the neocon label as simplistic. The debate ties into 2026 midterm tensions, amplified by Bush family endorsements of Democrat James Talarico over Republican Ken Paxton in Texas.",
+   "updated_at": "2026-10-24T22:16:51.000Z",
+   "url": "https://x.com/i/trending/2114117543329952216"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2113888248426537327"
+    },
+    {
+     "post_id": "2114352486790414514"
+    },
+    {
+     "post_id": "2114236042169729424"
+    },
+    {
+     "post_id": "2114335984124862523"
+    },
+    {
+     "post_id": "2114236042169729424"
+    },
+    {
+     "post_id": "2114305360752484583"
+    },
+    {
+     "post_id": "2114352486790414514"
+    },
+    {
+     "post_id": "2114335984124862523"
+    },
+    {
+     "post_id": "2114355479920963795"
+    },
+    {
+     "post_id": "2114336981308277118"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "X backlash"
+     ],
+     "organizations": [
+      "Washington Post"
+     ],
+     "people": [
+      "Donald Trump"
+     ],
+     "places": [
+      "X"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Hundreds of thousands of immigrants now face waits stretching to 13 months as naturalization approvals plummet since President Trump's return to office.",
+   "id": "2114372945875521994",
+   "name": "U.S. Citizenship Approvals Drop 72% in 2026 After Trump Return",
+   "summary": "U.S. officials approved just 173,000 naturalizations in the first eight months of 2026, down 72 percent from the year before, with charts showing a sharp decline after Trump's inauguration. The backlog has swelled above 800,000 applications, prompting some to seek court help amid midterm elections. The Trump administration attributes the slowdown to stricter screening, expanded background checks, social media reviews, and a reinstated civics test to ensure only qualified applicants receive citizenship. Discussions highlight divides over processing speed versus thorough vetting standards like residency, English proficiency, and good moral character.",
+   "updated_at": "2026-10-25T15:11:47.000Z",
+   "url": "https://x.com/i/trending/2114372945875521994"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2114041990522208665"
+    },
+    {
+     "post_id": "2113705421471113556"
+    },
+    {
+     "post_id": "2113985221335109642"
+    },
+    {
+     "post_id": "2113818597810201055"
+    },
+    {
+     "post_id": "2113985221335109642"
+    },
+    {
+     "post_id": "2113790875989950671"
+    },
+    {
+     "post_id": "2113777775484301401"
+    },
+    {
+     "post_id": "2114041990522208665"
+    },
+    {
+     "post_id": "2113996454784380946"
+    },
+    {
+     "post_id": "2113303119631384801"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "Senate Election"
+     ],
+     "organizations": [
+      "CNN",
+      "Republican Party",
+      "Democratic Party"
+     ],
+     "people": [],
+     "places": [
+      "Michigan",
+      "Maine",
+      "Texas",
+      "Alaska",
+      "Ohio"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Elections"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "With only 12 days until the November 3 midterms, markets see Democrats with a strong shot at flipping both the House and Senate.",
+   "id": "2113366468440322211",
+   "name": "Prediction Markets Favor Democrats in Tight Midterm Races",
+   "summary": "Prediction markets give Democrats a 66-67% chance of taking control of both chambers, driven by recent momentum in key battlegrounds like Michigan, Maine, Texas, Alaska, and Ohio. The Cook Political Report shifted 19 House races toward Democrats, putting them on track to flip 12-22 seats for a majority, though senior Democrats caution against expecting a huge win amid tight polls and Republican spending. Republicans highlight historical polling misses in Trump-won states, while the Senate map stays razor-close with Democrats needing four net gains from the 47-53 Republican edge.",
+   "updated_at": "2026-10-24T18:08:32.000Z",
+   "url": "https://x.com/i/trending/2113366468440322211"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2114010977364500664"
+    },
+    {
+     "post_id": "2114092900497903646"
+    },
+    {
+     "post_id": "2114088391176507757"
+    },
+    {
+     "post_id": "2114117367303385268"
+    },
+    {
+     "post_id": "2114010977364500664"
+    },
+    {
+     "post_id": "2114092900497903646"
+    },
+    {
+     "post_id": "2114074341277388837"
+    },
+    {
+     "post_id": "2114092562281906507"
+    },
+    {
+     "post_id": "2114088391176507757"
+    },
+    {
+     "post_id": "2114117367303385268"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [
+      "Jair Bolsonaro",
+      "Benjamin Netanyahu"
+     ],
+     "places": [
+      "Brazil",
+      "Israel",
+      "United States"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "One post imagined a single week sweeping out Bolsonaro in Brazil, Netanyahu in Israel, and Republican majorities in the US Congress. It quickly drew tens of thousands of likes from those rooting for the shift.",
+   "id": "2114115004890812684",
+   "name": "Online Hopes for Right-Wing Losses in Brazil, Israel, and US Elections",
+   "summary": "A message on October 24 envisioned defeats for right-wing figures in upcoming votes: Brazil's presidential runoff on Sunday pitting Senator Flávio Bolsonaro against President Luiz Inácio Lula da Silva, Israel's Knesset elections on Tuesday where Netanyahu's coalition trails or ties the opposition, and US midterms on November 3 with narrow Republican majorities at risk in the House and Senate. Polls show all three races neck-and-neck, fueling both optimism and skepticism online. Some called the scenario unlikely or dismissed opposition candidates as similar problems, highlighting the tight uncertainties ahead.",
+   "updated_at": "2026-10-25T00:32:48.000Z",
+   "url": "https://x.com/i/trending/2114115004890812684"
+  }
+ ]
+}
