@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T05:16:14Z",
+ "fetched_at": "2026-10-29T06:56:00Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -22,6 +22,41 @@
  "pages": [
   {
    "data": [
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2115697203008114688"
+      ]
+     },
+     "created_at": "2026-10-29T06:48:57.000Z",
+     "edit_history_tweet_ids": [
+      "2115697207974277280",
+      "2115697377394794731"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "pic.x.com/nI6LGcjArV",
+        "end": 273,
+        "expanded_url": "https://x.com/zxnbluehandus/status/2115697377394794731/photo/1",
+        "media_key": "3_2115697203008114688",
+        "start": 250,
+        "url": "https://t.co/nI6LGcjArV"
+       }
+      ]
+     },
+     "id": "2115697377394794731",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "October 29 2026 Today we tell the truth on  @RobManess @WorldviewTube @CHELLESHOCKEDTM @KatTheHammer1 @averageJohn911 @ali_hopper it all starts 2:30 pm eastern time pre-show 3 PM Showtime we find the truth. That’s the bottom line  because we said so https://t.co/nI6LGcjArV",
+     "url": "https://x.com/i/status/2115697377394794731"
+    },
     {
      "attachments": {
       "media_keys": [
@@ -414,6 +449,11 @@
    "includes": {
     "media": [
      {
+      "media_key": "3_2115697203008114688",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HVx3ZY2WEAAohqg.jpg"
+     },
+     {
       "media_key": "3_2115658659212455936",
       "type": "photo",
       "url": "https://pbs.twimg.com/media/HVxUV2BWcAA073T.jpg"
@@ -461,9 +501,9 @@
     ]
    },
    "meta": {
-    "newest_id": "2115658670302449803",
+    "newest_id": "2115697377394794731",
     "oldest_id": "2114712683744493696",
-    "result_count": 20
+    "result_count": 21
    }
   },
   {
