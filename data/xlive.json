@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-29T05:16:49Z",
- "searched_at": "2026-10-29T05:16:39Z",
+ "built_at": "2026-10-29T05:36:17Z",
+ "searched_at": "2026-10-29T05:36:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-10-29T06:40:57Z"
   },
   {
-   "post_id": "2115632759008010310",
-   "post_url": "https://x.com/TheRealDeanRyan/status/2115632759008010310",
-   "name": "Dean Ryan",
-   "username": "TheRealDeanRyan",
-   "verified_type": "blue",
-   "text": "Late Nite🌙Update-News Brief-'Israeli Election Fallout' https://t.co/HGa2P03zPw",
-   "started_at": "2026-10-29T02:32:10.000Z",
-   "assumed_live_until": "2026-10-29T05:32:10Z"
-  },
-  {
    "post_id": "2115640239578607663",
    "post_url": "https://x.com/PPolBreakdown/status/2115640239578607663",
    "name": "Radell PPBD",
@@ -83,6 +73,16 @@
    "text": "Nicki Minaj & Trump: Supporter or Political Spectacle? https://t.co/uGtLGpHZyO",
    "started_at": "2026-10-29T03:19:43.000Z",
    "assumed_live_until": "2026-10-29T06:19:43Z"
+  },
+  {
+   "post_id": "2115634578400686484",
+   "post_url": "https://x.com/AJPArmy/status/2115634578400686484",
+   "name": "Average Joe Patriot 1776",
+   "username": "AJPArmy",
+   "verified_type": "blue",
+   "text": "LIVE NOW\nRapid Fire News #1237 ~WOODSHED WEDNESDAY~\nhttps://t.co/utKfb621Qc",
+   "started_at": "2026-10-29T02:39:24.000Z",
+   "assumed_live_until": "2026-10-29T05:39:24Z"
   }
  ]
 }
