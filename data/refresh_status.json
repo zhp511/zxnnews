@@ -2,21 +2,21 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-10-29T21:23:00Z",
+  "updated_at": "2026-10-29T21:31:00Z",
   "last_x_check": {
-    "at": "2026-10-29T21:23:00Z",
-    "new_posts": 0,
-    "xlive_refreshed": true,
+    "at": "2026-10-29T21:31:00Z",
+    "new_posts": 1,
+    "xlive_refreshed": false,
     "trending_refreshed": false,
-    "tv_refreshed": false,
+    "tv_refreshed": true,
     "following_refreshed": false,
     "skipped": {
       "trending": "under 60 minutes old",
-      "tv": "under 3 hours old",
+      "xlive": "under 15 minutes old",
       "following": "featured_accounts empty"
     },
     "published": true
   },
-  "last_publish": "X Live refresh",
-  "x_reads_left_today": "731 of 1000 (resets 2026-10-30T00:00Z)"
+  "last_publish": "1 new post, ZXN TV refresh",
+  "x_reads_left_today": "730 of 1000 (resets 2026-10-30T00:00Z)"
 }
