@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T07:11:00Z",
+ "fetched_at": "2026-10-29T07:50:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T04:11:00Z",
+  "start_time": "2026-10-29T04:50:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -12,58 +12,40 @@
  },
  "data": [
   {
-   "author_id": "1181435213651431424",
-   "created_at": "2026-10-29T04:39:50.000Z",
+   "author_id": "165947677",
+   "created_at": "2026-10-29T07:21:17.000Z",
    "edit_history_tweet_ids": [
-    "2115664887347319145"
+    "2115705516278296689"
    ],
-   "id": "2115664887347319145",
+   "id": "2115705516278296689",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 91,
+    "impression_count": 7,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Israel Election Deadlock: Can Netanyahu Survive? Trump, Iran &amp; Pakistan\u2019s Stakes https://t.co/qEdsAknoNJ",
-   "url": "https://x.com/KhawarLive/status/2115664887347319145"
+   "text": "Ladies Be Killin' Babies (Again) + Election News | Missed Info Live 10/28/26 https://t.co/BmUv6kAKRF",
+   "url": "https://x.com/Missedinfo/status/2115705516278296689"
   },
   {
-   "author_id": "1900375238548086788",
-   "created_at": "2026-10-29T04:30:50.000Z",
+   "author_id": "1260105217082875905",
+   "created_at": "2026-10-29T07:19:59.000Z",
    "edit_history_tweet_ids": [
-    "2115662618669265321"
+    "2115705190305161725"
    ],
-   "id": "2115662618669265321",
+   "id": "2115705190305161725",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 179,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 2
-   },
-   "text": "\ud83c\uddfa\ud83c\uddf8 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE] https://t.co/cY6Z8wZYpn",
-   "url": "https://x.com/magnonewslive/status/2115662618669265321"
-  },
-  {
-   "author_id": "42548887",
-   "created_at": "2026-10-29T04:41:20.000Z",
-   "edit_history_tweet_ids": [
-    "2115665264205561976"
-   ],
-   "id": "2115665264205561976",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 28,
+    "impression_count": 125,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "LIVE DEBATE: Rep. Ro Khanna vs. Ritesh Tandon, a discussion about California's 17th District https://t.co/9hi78fj0ys",
-   "url": "https://x.com/DiyaTV/status/2115665264205561976"
+   "text": "JMD NEWS LIVE | UP News | Breaking News | CM Yogi | Akhilesh Yadav | Uttar Pradesh https://t.co/4Xru3EgDEg",
+   "url": "https://x.com/jmdnewsflash/status/2115705190305161725"
   },
   {
    "author_id": "4624133423",
@@ -74,7 +56,7 @@
    "id": "2115694373384163678",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 38,
+    "impression_count": 67,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -84,22 +66,40 @@
    "url": "https://x.com/salaamedia/status/2115694373384163678"
   },
   {
-   "author_id": "943349784152289280",
-   "created_at": "2026-10-29T04:27:30.000Z",
+   "author_id": "1202831887984541697",
+   "created_at": "2026-10-29T07:48:51.000Z",
    "edit_history_tweet_ids": [
-    "2115661781465280542"
+    "2115712454470607244"
    ],
-   "id": "2115661781465280542",
+   "id": "2115712454470607244",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 335,
+    "impression_count": 37,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "10 KA DUM LIVE : \u0938\u0941\u092c\u0939 10 \u092c\u091c\u0947 \u0915\u0940 \u092c\u0921\u093c\u0940 \u0916\u092c\u0930\u0947\u0902 | Cyclone Arnab | UP MLC Election Results | CM Yogi | \nhttps://t.co/UQM20Lj2aw",
-   "url": "https://x.com/ZEEUPUK/status/2115661781465280542"
+   "text": "NEWS BULLETIN || LIVE || NEWS || NETWORK10 https://t.co/IDkxNjNJOm",
+   "url": "https://x.com/Network10Update/status/2115712454470607244"
+  },
+  {
+   "author_id": "2031681148796260352",
+   "created_at": "2026-10-29T07:30:46.000Z",
+   "edit_history_tweet_ids": [
+    "2115707904120737927"
+   ],
+   "id": "2115707904120737927",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Kubera  Update Live | Kubera Now | Business News In Gujarati | Share Market Live Update | Stock Market News | LIVE https://t.co/Lkyc26NXac",
+   "url": "https://x.com/KuberaNow17430/status/2115707904120737927"
   },
   {
    "author_id": "239486395",
@@ -110,14 +110,32 @@
    "id": "2115696247642132898",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 11,
+    "impression_count": 17,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "\ud83d\udd34Live | Al Jazeera News English https://t.co/rayeEP3Mp3",
+   "text": "🔴Live | Al Jazeera News English https://t.co/rayeEP3Mp3",
    "url": "https://x.com/ProtestMusica/status/2115696247642132898"
+  },
+  {
+   "author_id": "1999037304103723008",
+   "created_at": "2026-10-29T07:40:58.000Z",
+   "edit_history_tweet_ids": [
+    "2115710468589281733"
+   ],
+   "id": "2115710468589281733",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 14,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "GrowthNow News LIVE ! https://t.co/8yw3y3yrY6",
+   "url": "https://x.com/growthnownews/status/2115710468589281733"
   },
   {
    "author_id": "1339166129110065152",
@@ -128,8 +146,8 @@
    "id": "2115685050805260483",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3715,
-    "like_count": 7,
+    "impression_count": 4614,
+    "like_count": 8,
     "quote_count": 0,
     "reply_count": 3,
     "retweet_count": 2
@@ -138,22 +156,22 @@
    "url": "https://x.com/GBNEWS/status/2115685050805260483"
   },
   {
-   "author_id": "1825768108251877377",
-   "created_at": "2026-10-29T04:42:09.000Z",
+   "author_id": "34262462",
+   "created_at": "2026-10-29T06:10:57.000Z",
    "edit_history_tweet_ids": [
-    "2115665466555531484"
+    "2115687816571277602"
    ],
-   "id": "2115665466555531484",
+   "id": "2115687816571277602",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 8,
-    "like_count": 0,
+    "bookmark_count": 2,
+    "impression_count": 1387,
+    "like_count": 25,
     "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
+    "reply_count": 1,
+    "retweet_count": 2
    },
-   "text": "VOC Burmese News (October 29, 2026) #VoiceOfChinland #VOCBurmese #DailyNews https://t.co/Mu5R6rOTbd",
-   "url": "https://x.com/voiceofchinland/status/2115665466555531484"
+   "text": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit https://t.co/4yT52NzEyH",
+   "url": "https://x.com/SputnikInt/status/2115687816571277602"
   },
   {
    "author_id": "1501773476281352197",
@@ -164,7 +182,7 @@
    "id": "2115700300590039527",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3,
+    "impression_count": 7,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -172,6 +190,24 @@
    },
    "text": "LIVE Khalistan News Hour https://t.co/FpxRZ83W3f",
    "url": "https://x.com/JohlRavinder/status/2115700300590039527"
+  },
+  {
+   "author_id": "1646087345127690240",
+   "created_at": "2026-10-29T07:49:07.000Z",
+   "edit_history_tweet_ids": [
+    "2115712520082088393"
+   ],
+   "id": "2115712520082088393",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "News Bulletin Star Asia Tv Live 🔴 https://t.co/yEqygLGx4T",
+   "url": "https://x.com/StarAsiatvHD/status/2115712520082088393"
   },
   {
    "author_id": "1501773476281352197",
@@ -182,7 +218,7 @@
    "id": "2115700512297521581",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3,
+    "impression_count": 6,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -200,7 +236,7 @@
    "id": "2115700283724718357",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 478,
+    "impression_count": 613,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -208,24 +244,6 @@
    },
    "text": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 29th October 2026 https://t.co/HBp5s0JGgZ",
    "url": "https://x.com/Channel1TVGHA/status/2115700283724718357"
-  },
-  {
-   "author_id": "34262462",
-   "created_at": "2026-10-29T06:10:57.000Z",
-   "edit_history_tweet_ids": [
-    "2115687816571277602"
-   ],
-   "id": "2115687816571277602",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 1107,
-    "like_count": 21,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 2
-   },
-   "text": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia\u2013Africa Summit https://t.co/4yT52NzEyH",
-   "url": "https://x.com/SputnikInt/status/2115687816571277602"
   },
   {
    "author_id": "19897138",
@@ -236,7 +254,7 @@
    "id": "2115692666164048060",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1873,
+    "impression_count": 2068,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -255,7 +273,7 @@
    "id": "2115689746777207049",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 508,
+    "impression_count": 565,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -273,8 +291,8 @@
    "id": "2115696321898086692",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1426,
-    "like_count": 3,
+    "impression_count": 1561,
+    "like_count": 7,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 3
@@ -285,47 +303,32 @@
  ],
  "users": [
   {
-   "id": "1181435213651431424",
-   "name": "live with khawar yousaf",
+   "id": "165947677",
+   "name": "Missed Information",
    "public_metrics": {
-    "followers_count": 2378,
-    "following_count": 5471,
-    "like_count": 281,
-    "listed_count": 1,
-    "media_count": 816,
-    "tweet_count": 2400
+    "followers_count": 971,
+    "following_count": 1117,
+    "like_count": 6131,
+    "listed_count": 3,
+    "media_count": 915,
+    "tweet_count": 6175
    },
-   "username": "KhawarLive",
+   "username": "Missedinfo",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1900375238548086788",
-   "name": "MAGNO NEWS LIVE",
+   "id": "1260105217082875905",
+   "name": "JMD NEWS",
    "public_metrics": {
-    "followers_count": 2401,
-    "following_count": 276,
-    "like_count": 28,
-    "listed_count": 17,
-    "media_count": 46,
-    "tweet_count": 2146
+    "followers_count": 6871,
+    "following_count": 1,
+    "like_count": 11008,
+    "listed_count": 18,
+    "media_count": 122581,
+    "tweet_count": 134828
    },
-   "username": "magnonewslive",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "42548887",
-   "name": "Diya TV",
-   "public_metrics": {
-    "followers_count": 2565,
-    "following_count": 2025,
-    "like_count": 2745,
-    "listed_count": 79,
-    "media_count": 3539,
-    "tweet_count": 17866
-   },
-   "username": "DiyaTV",
+   "username": "jmdnewsflash",
    "verified": true,
    "verified_type": "blue"
   },
@@ -333,37 +336,52 @@
    "id": "4624133423",
    "name": "Salaamedia",
    "public_metrics": {
-    "followers_count": 9469,
+    "followers_count": 9470,
     "following_count": 1996,
     "like_count": 1967,
     "listed_count": 65,
-    "media_count": 10046,
-    "tweet_count": 35269
+    "media_count": 10047,
+    "tweet_count": 35273
    },
    "username": "salaamedia",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "943349784152289280",
-   "name": "Zee Uttar Pradesh Uttarakhand",
+   "id": "1202831887984541697",
+   "name": "Network10",
    "public_metrics": {
-    "followers_count": 116309,
-    "following_count": 35,
-    "like_count": 2449,
-    "listed_count": 149,
-    "media_count": 216382,
-    "tweet_count": 350654
+    "followers_count": 2536,
+    "following_count": 24,
+    "like_count": 3958,
+    "listed_count": 9,
+    "media_count": 64225,
+    "tweet_count": 72653
    },
-   "username": "ZEEUPUK",
+   "username": "Network10Update",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2031681148796260352",
+   "name": "KuberaNow",
+   "public_metrics": {
+    "followers_count": 46,
+    "following_count": 0,
+    "like_count": 8,
+    "listed_count": 0,
+    "media_count": 2054,
+    "tweet_count": 3347
+   },
+   "username": "KuberaNow17430",
    "verified": true,
    "verified_type": "blue"
   },
   {
    "id": "239486395",
-   "name": "Protest & Musica \ud83c\udfb6 \ud83c\udf0e\ud83d\udcfa \ud83d\udea8\ud83c\udf83",
+   "name": "Protest & Musica 🎶 🌎📺 🚨🎃",
    "public_metrics": {
-    "followers_count": 8310,
+    "followers_count": 8309,
     "following_count": 8901,
     "like_count": 21312,
     "listed_count": 143,
@@ -375,80 +393,45 @@
    "verified_type": "none"
   },
   {
+   "id": "1999037304103723008",
+   "name": "Growthnownews",
+   "public_metrics": {
+    "followers_count": 211,
+    "following_count": 12,
+    "like_count": 1048,
+    "listed_count": 2,
+    "media_count": 4648,
+    "tweet_count": 5982
+   },
+   "username": "growthnownews",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "1339166129110065152",
    "name": "GB News",
    "public_metrics": {
-    "followers_count": 991032,
+    "followers_count": 991035,
     "following_count": 50,
     "like_count": 0,
     "listed_count": 2723,
     "media_count": 170811,
-    "tweet_count": 330413
+    "tweet_count": 330416
    },
    "username": "GBNEWS",
    "verified": true,
    "verified_type": "business"
   },
   {
-   "id": "1825768108251877377",
-   "name": "VOC (The Voice of Chinland)",
-   "public_metrics": {
-    "followers_count": 60,
-    "following_count": 31,
-    "like_count": 25,
-    "listed_count": 0,
-    "media_count": 166,
-    "tweet_count": 1037
-   },
-   "username": "voiceofchinland",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1501773476281352197",
-   "name": "Ravinder Singh Johal",
-   "public_metrics": {
-    "followers_count": 1093,
-    "following_count": 236,
-    "like_count": 4603,
-    "listed_count": 1,
-    "media_count": 1155,
-    "tweet_count": 3552
-   },
-   "username": "JohlRavinder",
-   "verified": true,
-   "verified_type": "blue",
-   "withheld": {
-    "country_codes": [
-     "IN"
-    ]
-   }
-  },
-  {
-   "id": "974995792380473345",
-   "name": "ChannelOne TV",
-   "public_metrics": {
-    "followers_count": 438302,
-    "following_count": 70,
-    "like_count": 1797,
-    "listed_count": 211,
-    "media_count": 59189,
-    "tweet_count": 152994
-   },
-   "username": "Channel1TVGHA",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "34262462",
    "name": "Sputnik",
    "public_metrics": {
-    "followers_count": 502100,
+    "followers_count": 502107,
     "following_count": 162,
     "like_count": 1088,
     "listed_count": 7551,
-    "media_count": 85407,
-    "tweet_count": 279787
+    "media_count": 85408,
+    "tweet_count": 279788
    },
    "username": "SputnikInt",
    "verified": true,
@@ -487,15 +470,65 @@
    }
   },
   {
+   "id": "1501773476281352197",
+   "name": "Ravinder Singh Johal",
+   "public_metrics": {
+    "followers_count": 1093,
+    "following_count": 236,
+    "like_count": 4603,
+    "listed_count": 1,
+    "media_count": 1155,
+    "tweet_count": 3552
+   },
+   "username": "JohlRavinder",
+   "verified": true,
+   "verified_type": "blue",
+   "withheld": {
+    "country_codes": [
+     "IN"
+    ]
+   }
+  },
+  {
+   "id": "1646087345127690240",
+   "name": "Star Asia Tv",
+   "public_metrics": {
+    "followers_count": 163,
+    "following_count": 1,
+    "like_count": 35,
+    "listed_count": 1,
+    "media_count": 4665,
+    "tweet_count": 4765
+   },
+   "username": "StarAsiatvHD",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "974995792380473345",
+   "name": "ChannelOne TV",
+   "public_metrics": {
+    "followers_count": 438302,
+    "following_count": 70,
+    "like_count": 1797,
+    "listed_count": 211,
+    "media_count": 59189,
+    "tweet_count": 152994
+   },
+   "username": "Channel1TVGHA",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6274967,
+    "followers_count": 6274985,
     "following_count": 83,
     "like_count": 4431,
-    "listed_count": 7344,
-    "media_count": 581518,
-    "tweet_count": 1542455
+    "listed_count": 7343,
+    "media_count": 581529,
+    "tweet_count": 1542471
    },
    "username": "IndiaToday",
    "verified": true,
@@ -505,12 +538,12 @@
    "id": "246688646",
    "name": "Hitz 103.9 FM",
    "public_metrics": {
-    "followers_count": 835748,
+    "followers_count": 835749,
     "following_count": 302,
     "like_count": 5716,
     "listed_count": 222,
-    "media_count": 62320,
-    "tweet_count": 297009
+    "media_count": 62323,
+    "tweet_count": 297015
    },
    "username": "Hitz1039FM",
    "verified": true,
@@ -520,12 +553,12 @@
    "id": "256129678",
    "name": "YSR Congress Party",
    "public_metrics": {
-    "followers_count": 929265,
+    "followers_count": 929267,
     "following_count": 71,
     "like_count": 2990,
     "listed_count": 260,
     "media_count": 52033,
-    "tweet_count": 83510
+    "tweet_count": 83511
    },
    "username": "YSRCParty",
    "verified": true,
