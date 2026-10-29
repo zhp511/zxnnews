@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T15:42:30Z",
+ "fetched_at": "2026-10-29T16:43:20Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -271,6 +271,140 @@
    "url": "https://x.com/i/trending/2115603817639403603"
   },
   {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2115519817319108929"
+    },
+    {
+     "post_id": "2115781945607021013"
+    },
+    {
+     "post_id": "2115820074019741982"
+    },
+    {
+     "post_id": "2115764139129700788"
+    },
+    {
+     "post_id": "2115830946834616357"
+    },
+    {
+     "post_id": "2115781945607021013"
+    },
+    {
+     "post_id": "2115820074019741982"
+    },
+    {
+     "post_id": "2115771812474986582"
+    },
+    {
+     "post_id": "2115764139129700788"
+    },
+    {
+     "post_id": "2115830946834616357"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "early voting"
+     ],
+     "organizations": [
+      "Republican Party"
+     ],
+     "people": [],
+     "places": [
+      "Texas"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "One voter declared they voted Republican straight down the ballot, vowing 'no mercy' and 'taking this state back.' Replies quickly pointed out Republicans have controlled Texas government for decades.",
+   "id": "2115840057827311896",
+   "name": "Texas Voters Clash Over 'Taking the State Back' from Republicans",
+   "summary": "Ahead of the November 3 elections, some Texas conservatives shared enthusiastic posts about straight-ticket Republican voting, echoing calls to 'save Texas' and quoting former President Trump's claim that Democrats ruined it. Critics highlighted the GOP's long dominance, noting control of statewide offices since 1994, the Senate majority since 1997, the House since 2003, and a current trifecta under Governor Greg Abbott as of late 2026. They tied issues like the unupgraded power grid and Texas's drop to 41st in education rankings to that tenure, fueling a debate on accountability during early voting.",
+   "updated_at": "2026-10-29T16:25:03.000Z",
+   "url": "https://x.com/i/trending/2115840057827311896"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2115738573441802364"
+    },
+    {
+     "post_id": "2115761745994338470"
+    },
+    {
+     "post_id": "2115810530136891573"
+    },
+    {
+     "post_id": "2115829599460540761"
+    },
+    {
+     "post_id": "2115587307927724204"
+    },
+    {
+     "post_id": "2115738573441802364"
+    },
+    {
+     "post_id": "2115761745994338470"
+    },
+    {
+     "post_id": "2115810530136891573"
+    },
+    {
+     "post_id": "2115829599460540761"
+    },
+    {
+     "post_id": "2115827820169666640"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "SAVE America Act"
+     ],
+     "organizations": [
+      "Senate"
+     ],
+     "people": [
+      "John Thune"
+     ],
+     "places": [
+      "Senate"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Frustrated conservatives are flooding posts with calls to oust Senate Majority Leader John Thune, branding him a traitor for not passing a bill to secure federal elections.",
+   "id": "2115837484420440569",
+   "name": "Conservatives Slam Thune Over Stalled SAVE America Act",
+   "summary": "The SAVE America Act, which requires proof of U.S. citizenship to register for federal elections and photo ID to vote, passed the House but has repeatedly stalled in the Senate. Thune explains that Democrats voted against it five times, and without 60 votes to beat the filibuster, it can't advance. Critics argue he could have forced a talking filibuster or kept the Senate in session, while memes demand his immediate removal amid fears it dooms GOP midterm chances. Thune is campaigning hard for Republicans and open to passing it if possible, but no formal challenge has emerged within the party.",
+   "updated_at": "2026-10-29T16:12:22.000Z",
+   "url": "https://x.com/i/trending/2115837484420440569"
+  },
+  {
    "category": "Sports",
    "cluster_posts_results": [
     {
@@ -342,68 +476,6 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115587307927724204"
-    },
-    {
-     "post_id": "2115439440638194131"
-    },
-    {
-     "post_id": "2115738573441802364"
-    },
-    {
-     "post_id": "2115559082832879996"
-    },
-    {
-     "post_id": "2115582340013387830"
-    },
-    {
-     "post_id": "2115587307927724204"
-    },
-    {
-     "post_id": "2115738573441802364"
-    },
-    {
-     "post_id": "2115439440638194131"
-    },
-    {
-     "post_id": "2115484844775932307"
-    },
-    {
-     "post_id": "2115559082832879996"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [
-      "John Thune"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Frustrated voices are calling Senate Majority Leader John Thune the worst GOP leader in history, pinning the SAVE America Act's failure squarely on him.",
-   "id": "2115519157299204317",
-   "name": "Conservatives Blast Thune Over Stalled SAVE America Act",
-   "summary": "The SAVE America Act, which requires proof of U.S. citizenship to register for federal elections and photo ID to vote, passed the House earlier in 2026 but stalled in the Senate due to Democratic opposition and the 60-vote filibuster. Critics accuse Thune of not pushing hard enough despite 53 Republican seats, labeling him a traitor influenced by donors and demanding his removal. Thune responds that votes aren't there to beat the filibuster or end it, amid GOP fears it could cost them Senate control in the upcoming midterms.",
-   "updated_at": "2026-10-29T15:11:45.000Z",
-   "url": "https://x.com/i/trending/2115519157299204317"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
      "post_id": "2115102392408494375"
     },
     {
@@ -465,6 +537,73 @@
    "summary": "A recent Echelon Insights poll of 508 likely voters shows Democratic Sen. Jon Ossoff at 55% against Republican Mike Collins's 40% in Georgia's U.S. Senate race, matching other surveys with an 8-to-11-point edge. The governor's race between Democrat Keisha Lance Bottoms and Republican Rick Jackson remains tight at 49% to 48%, while Democrats hold narrow leads in other statewide offices. Over 1.9 million Georgians have voted early as of Oct. 27, with models projecting Ossoff in the low-to-mid 50s, though Election Day votes may favor Republicans.",
    "updated_at": "2026-10-28T22:31:49.000Z",
    "url": "https://x.com/i/trending/2115143792613576779"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2115738573441802364"
+    },
+    {
+     "post_id": "2115160351499268152"
+    },
+    {
+     "post_id": "2115165306348015996"
+    },
+    {
+     "post_id": "2115217803384914009"
+    },
+    {
+     "post_id": "2115820340697797114"
+    },
+    {
+     "post_id": "2115738573441802364"
+    },
+    {
+     "post_id": "2115820340697797114"
+    },
+    {
+     "post_id": "2115199122101928183"
+    },
+    {
+     "post_id": "2115217803384914009"
+    },
+    {
+     "post_id": "2115225690920701983"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [
+      "John Thune"
+     ],
+     "places": [
+      "Ohio",
+      "Maine",
+      "Iowa",
+      "Alaska"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Republican voters are venting real anger at Senate Majority Leader John Thune for not pushing through election security before the midterms. One called him the party's biggest disappointment for letting the SAVE America Act die.",
+   "id": "2115287585245343975",
+   "name": "GOP Voters Slam Thune Over Stalled SAVE America Act",
+   "summary": "The SAVE America Act would require proof of U.S. citizenship to register for federal elections and photo ID at polls, but it stalled in the Senate earlier this year without the 60 votes needed to beat a filibuster. President Trump pushed hard for it, making it a loyalty test, yet online critics blast Thune as a traitor who failed his one job despite 80% public support. While some note moderate GOP senators blocked a path forward, Thune eyes a Senate 'firewall' in states like Ohio and Iowa to hold the majority. Tensions simmer as midterms near, with billboards still urging passage.",
+   "updated_at": "2026-10-29T16:06:31.000Z",
+   "url": "https://x.com/i/trending/2115287585245343975"
   },
   {
    "category": "News",
@@ -534,130 +673,6 @@
    "summary": "The Oscar-winning actor told a British audience he is hoping for an overwhelming Democratic victory—a 'massacre' of Trump support—in the November 3 midterms, with shifts in Congress and possibly the Senate. Douglas, a longtime Democratic supporter, said Trump has exhausted his promises, especially in the Midwest, and praised Democrats' plans to first tackle affordability before addressing corruption around the president. His strong word choice drew quick online criticism from conservatives, who called it extreme and un-American.",
    "updated_at": "2026-10-28T20:59:18.000Z",
    "url": "https://x.com/i/trending/2115546890460619020"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115243308775789021"
-    },
-    {
-     "post_id": "2115433900465856961"
-    },
-    {
-     "post_id": "2115460644564500896"
-    },
-    {
-     "post_id": "2115395383962595672"
-    },
-    {
-     "post_id": "2115391388296556608"
-    },
-    {
-     "post_id": "2115433900465856961"
-    },
-    {
-     "post_id": "2115395383962595672"
-    },
-    {
-     "post_id": "2115460644564500896"
-    },
-    {
-     "post_id": "2115404664204112251"
-    },
-    {
-     "post_id": "2115499954039128477"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [
-      "Hakeem Jeffries"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "House Democratic Leader Hakeem Jeffries posted that 'Judgment Day is coming for the extremists' exactly one week before the midterms. Replies quickly called it a threat, with one user responding directly, 'Sounds like a threat, Hakeem.'",
-   "id": "2115460760755114466",
-   "name": "Hakeem Jeffries' 'Judgment Day' Post Draws Online Backlash Before Midterms",
-   "summary": "On Oct. 27, Jeffries shared the message timed to the Nov. 3 midterms, when all 435 House seats, 35 Senate seats, and 36 governorships are up for grabs amid Republicans' narrow congressional majorities. Online reactions labeled Democrats as the true extremists, mocked Jeffries as 'Temu Obama,' and predicted a 'red tsunami' or recalled Trump's 2024 landslide win. Meanwhile, progressive House candidates called 'The Bloc' are planning demands on Jeffries for committee spots and priorities like Medicare for All if Democrats gain control.",
-   "updated_at": "2026-10-28T18:30:21.000Z",
-   "url": "https://x.com/i/trending/2115460760755114466"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115543793931846064"
-    },
-    {
-     "post_id": "2115512581141983705"
-    },
-    {
-     "post_id": "2115522451161731520"
-    },
-    {
-     "post_id": "2115575504103444903"
-    },
-    {
-     "post_id": "2115575504103444903"
-    },
-    {
-     "post_id": "2115543793931846064"
-    },
-    {
-     "post_id": "2115522451161731520"
-    },
-    {
-     "post_id": "2115539725587263534"
-    },
-    {
-     "post_id": "2115551740200202397"
-    },
-    {
-     "post_id": "2115562949351981131"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "2026 Midterm Elections"
-     ],
-     "organizations": [],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Elections"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "With days ticking down to the November 3 midterms, voices on X are sounding the alarm: polls won't save the day—your vote will.",
-   "id": "2115584830452683100",
-   "name": "Democrats Ramp Up Urgent Calls to Vote Blue Before November 3 Midterms",
-   "summary": "Democrats are flooding X with pleas to vote blue up and down the ballot, stressing that a blue wave demands personal action like early voting, double-checking ballots, and rallying friends and family. The 2026 midterms will decide Congress control during President Trump's term, where Republicans hold slim majorities and Democrats need four net seats in each chamber to flip them. Key issues include soaring costs for food, housing, healthcare, and gas amid the Iran conflict, plus immigration, as early voting surges with over 5 million ballots in Texas alone.",
-   "updated_at": "2026-10-28T23:28:55.000Z",
-   "url": "https://x.com/i/trending/2115584830452683100"
   }
  ]
 }

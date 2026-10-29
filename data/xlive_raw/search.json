@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T16:34:45Z",
+ "fetched_at": "2026-10-29T16:50:13Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T13:34:40Z",
+  "start_time": "2026-10-29T13:50:13Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,33 +17,6 @@
    "edit_history_tweet_ids": [
     "2115819754363740186"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "DOJ Press Conference",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 44,
-      "expanded_url": "https://x.com/i/broadcasts/1yKAPwjREqyxb",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115818443551145984/vvIMEtqt?format=png&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115818443551145984/vvIMEtqt?format=png&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 21,
-      "status": 200,
-      "title": "Angry Conservative",
-      "unwound_url": "https://x.com/i/broadcasts/1yKAPwjREqyxb",
-      "url": "https://t.co/pTJW4LwS91"
-     }
-    ]
-   },
    "id": "2115819754363740186",
    "public_metrics": {
     "bookmark_count": 0,
@@ -62,37 +35,10 @@
    "edit_history_tweet_ids": [
     "2115819881153331410"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Badlands Coverage: Department of Justice Press Conference",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 81,
-      "expanded_url": "https://x.com/i/broadcasts/1PJqrNvjXemxb",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115819923582939136/XVag-vLz?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115819923582939136/XVag-vLz?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 58,
-      "status": 200,
-      "title": "Badlands Media",
-      "unwound_url": "https://x.com/i/broadcasts/1PJqrNvjXemxb",
-      "url": "https://t.co/LAcer0OU74"
-     }
-    ]
-   },
    "id": "2115819881153331410",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 649,
+    "impression_count": 674,
     "like_count": 10,
     "quote_count": 1,
     "reply_count": 0,
@@ -107,89 +53,17 @@
    "edit_history_tweet_ids": [
     "2115839889422098709"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Tune into the FCC's regularly scheduled press conference:",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 81,
-      "expanded_url": "https://x.com/i/broadcasts/1oKMvNPgPLzGQ",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115839931809730560/hI04dFL0?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115839931809730560/hI04dFL0?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 58,
-      "status": 200,
-      "title": "Brendan Carr",
-      "unwound_url": "https://x.com/i/broadcasts/1oKMvNPgPLzGQ",
-      "url": "https://t.co/NaixHiUXk8"
-     }
-    ]
-   },
    "id": "2115839889422098709",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1826,
-    "like_count": 18,
+    "impression_count": 2374,
+    "like_count": 22,
     "quote_count": 2,
     "reply_count": 1,
-    "retweet_count": 8
+    "retweet_count": 9
    },
    "text": "Tune into the FCC's regularly scheduled press conference: https://t.co/NaixHiUXk8",
    "url": "https://x.com/BrendanCarrFCC/status/2115839889422098709"
-  },
-  {
-   "author_id": "19383279",
-   "created_at": "2026-10-29T16:25:06.000Z",
-   "edit_history_tweet_ids": [
-    "2115842372927938757"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live Press Conference: 11:30 AM CT:\u00a0Titans GM Mike Borgonzi and HC Robert Saleh",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 103,
-      "expanded_url": "https://x.com/i/broadcasts/2VNmbANOVKmydk",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115842415558905856/fYgb1JaI?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115842415558905856/fYgb1JaI?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 80,
-      "status": 200,
-      "title": "Tennessee Titans",
-      "unwound_url": "https://x.com/i/broadcasts/2VNmbANOVKmydk",
-      "url": "https://t.co/n7kHXHHhUv"
-     }
-    ]
-   },
-   "id": "2115842372927938757",
-   "public_metrics": {
-    "bookmark_count": 7,
-    "impression_count": 4240,
-    "like_count": 19,
-    "quote_count": 1,
-    "reply_count": 7,
-    "retweet_count": 2
-   },
-   "text": "Live Press Conference: 11:30 AM CT:\u00a0Titans GM Mike Borgonzi and HC Robert Saleh https://t.co/n7kHXHHhUv",
-   "url": "https://x.com/Titans/status/2115842372927938757"
   },
   {
    "author_id": "256551011",
@@ -197,44 +71,53 @@
    "edit_history_tweet_ids": [
     "2115808986574344397"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE | Ren\u00e9e Slegers previews Aston Villa | WSL",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 104,
-      "expanded_url": "https://x.com/i/broadcasts/2XyrjLEmPmnWjJ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115809029356195840/huRHbnuO?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115809029356195840/huRHbnuO?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 81,
-      "status": 200,
-      "title": "Arsenal Women",
-      "unwound_url": "https://x.com/i/broadcasts/2XyrjLEmPmnWjJ",
-      "url": "https://t.co/oUvZit0sNj"
-     }
-    ]
-   },
    "id": "2115808986574344397",
    "public_metrics": {
     "bookmark_count": 5,
-    "impression_count": 12670,
-    "like_count": 233,
+    "impression_count": 12963,
+    "like_count": 236,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 22
+    "retweet_count": 23
    },
-   "text": "It's time for Ren\u00e9e Slegers' pre-Aston Villa press conference \ud83c\udf99\ufe0f \n\nTune in now \ud83d\udcfa https://t.co/oUvZit0sNj",
+   "text": "It's time for Renée Slegers' pre-Aston Villa press conference 🎙️ \n\nTune in now 📺 https://t.co/oUvZit0sNj",
    "url": "https://x.com/ArsenalWFC/status/2115808986574344397"
+  },
+  {
+   "author_id": "19383279",
+   "created_at": "2026-10-29T16:25:06.000Z",
+   "edit_history_tweet_ids": [
+    "2115842372927938757"
+   ],
+   "id": "2115842372927938757",
+   "public_metrics": {
+    "bookmark_count": 9,
+    "impression_count": 8279,
+    "like_count": 37,
+    "quote_count": 1,
+    "reply_count": 14,
+    "retweet_count": 3
+   },
+   "text": "Live Press Conference: 11:30 AM CT: Titans GM Mike Borgonzi and HC Robert Saleh https://t.co/n7kHXHHhUv",
+   "url": "https://x.com/Titans/status/2115842372927938757"
+  },
+  {
+   "author_id": "38021189",
+   "created_at": "2026-10-29T16:36:59.000Z",
+   "edit_history_tweet_ids": [
+    "2115845363471143050"
+   ],
+   "id": "2115845363471143050",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 363,
+    "like_count": 0,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Live Press Conference: 11:30 AM CT: Titans GM Mike Borgonzi and HC Robert Saleh https://t.co/W33d01Z1JZ",
+   "url": "https://x.com/TitansRadio/status/2115845363471143050"
   },
   {
    "author_id": "989231",
@@ -242,25 +125,10 @@
    "edit_history_tweet_ids": [
     "2115834695745458251"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Democrat Fraud in Alaska Senate Race. President Trump Speaks.",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 85,
-      "expanded_url": "https://x.com/i/broadcasts/1jxXgBWmrlVJZ",
-      "start": 62,
-      "status": 200,
-      "title": "Tony Katz",
-      "unwound_url": "https://x.com/i/broadcasts/1jxXgBWmrlVJZ",
-      "url": "https://t.co/ekQrp5gDIv"
-     }
-    ]
-   },
    "id": "2115834695745458251",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 431,
+    "impression_count": 504,
     "like_count": 2,
     "quote_count": 1,
     "reply_count": 0,
@@ -275,37 +143,10 @@
    "edit_history_tweet_ids": [
     "2115842799283089492"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: Trump Speaks at Midterm Rally in Rock Hill, South Carolina",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 153,
-      "expanded_url": "https://x.com/i/broadcasts/2ReXLOXBqAOleO",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115842843877027840/myUEy1sH?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115842843877027840/myUEy1sH?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 130,
-      "status": 200,
-      "title": "NTD News",
-      "unwound_url": "https://x.com/i/broadcasts/2ReXLOXBqAOleO",
-      "url": "https://t.co/RSxd02Owbe"
-     }
-    ]
-   },
    "id": "2115842799283089492",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 162,
+    "impression_count": 210,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -320,43 +161,16 @@
    "edit_history_tweet_ids": [
     "2115805962481369103"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "INDUSTRY THURSDAYS on D.A.M.N - 10.29.2026 | News \u2022 Culture \u2022 Politics \u2022 Roast \u2022 No B.S",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 111,
-      "expanded_url": "https://x.com/i/broadcasts/1NGarobEvElJj",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115806004839612417/SIV3WH8G?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115806004839612417/SIV3WH8G?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 88,
-      "status": 200,
-      "title": "Dave Anderson",
-      "unwound_url": "https://x.com/i/broadcasts/1NGarobEvElJj",
-      "url": "https://t.co/i1J3TMfJ8L"
-     }
-    ]
-   },
    "id": "2115805962481369103",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 29,
+    "impression_count": 30,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "INDUSTRY THURSDAYS on D.A.M.N - 10.29.2026 | News \u2022 Culture \u2022 Politics \u2022 Roast \u2022 No B.S https://t.co/i1J3TMfJ8L",
+   "text": "INDUSTRY THURSDAYS on D.A.M.N - 10.29.2026 | News • Culture • Politics • Roast • No B.S https://t.co/i1J3TMfJ8L",
    "url": "https://x.com/DaBusinessBully/status/2115805962481369103"
   },
   {
@@ -365,25 +179,10 @@
    "edit_history_tweet_ids": [
     "2115840856569860390"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Lula Steals the Election, Flavio rescued by America... What's Next? (Ep. 177)",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 101,
-      "expanded_url": "https://x.com/i/broadcasts/1qKDzWNaNLQJV",
-      "start": 78,
-      "status": 200,
-      "title": "Pat Stedman | Dating & Relationship Coach for Men",
-      "unwound_url": "https://x.com/i/broadcasts/1qKDzWNaNLQJV",
-      "url": "https://t.co/yd6UXssLFe"
-     }
-    ]
-   },
    "id": "2115840856569860390",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 414,
+    "impression_count": 536,
     "like_count": 0,
     "quote_count": 1,
     "reply_count": 0,
@@ -393,87 +192,15 @@
    "url": "https://x.com/Pat_Stedman/status/2115840856569860390"
   },
   {
-   "author_id": "1326462342679441409",
-   "created_at": "2026-10-29T15:03:10.000Z",
-   "edit_history_tweet_ids": [
-    "2115821751561232621"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Michael Hudson: BREAKING: Israel Election in Deadlock \u2014 Washington Left Disappointed",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 108,
-      "expanded_url": "https://x.com/i/broadcasts/1pKdRDqyEorJW",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115837837149192192/l9JVJU2a?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115837837149192192/l9JVJU2a?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 85,
-      "status": 200,
-      "title": "Dialogue works",
-      "unwound_url": "https://x.com/i/broadcasts/1pKdRDqyEorJW",
-      "url": "https://t.co/c98vafptCz"
-     }
-    ]
-   },
-   "id": "2115821751561232621",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 728,
-    "like_count": 29,
-    "quote_count": 2,
-    "reply_count": 2,
-    "retweet_count": 5
-   },
-   "text": "Michael Hudson: BREAKING: Israel Election in Deadlock \u2014 Washington Left Disappointed https://t.co/c98vafptCz",
-   "url": "https://x.com/Dialogue_NRA/status/2115821751561232621"
-  },
-  {
    "author_id": "20791372",
    "created_at": "2026-10-29T15:59:21.000Z",
    "edit_history_tweet_ids": [
     "2115835891763531886"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "BREAKING: Details Flood in as Alaska Election at Risk",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 77,
-      "expanded_url": "https://x.com/i/broadcasts/2KoBnaLeJqzQjo",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115835934553874432/PvOs9fww?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115835934553874432/PvOs9fww?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 54,
-      "status": 200,
-      "title": "ACLJ",
-      "unwound_url": "https://x.com/i/broadcasts/2KoBnaLeJqzQjo",
-      "url": "https://t.co/EF1gGENAVb"
-     }
-    ]
-   },
    "id": "2115835891763531886",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 223,
+    "impression_count": 277,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -483,56 +210,22 @@
    "url": "https://x.com/ACLJ/status/2115835891763531886"
   },
   {
-   "author_id": "104872280",
-   "created_at": "2026-10-29T14:03:55.000Z",
+   "author_id": "1326462342679441409",
+   "created_at": "2026-10-29T15:03:10.000Z",
    "edit_history_tweet_ids": [
-    "2115806839946580309"
+    "2115821751561232621"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 89,
-      "start": 76,
-      "tag": "CitiNewsroom"
-     }
-    ],
-    "urls": [
-     {
-      "description": "\ud83d\udea8 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 113,
-      "expanded_url": "https://x.com/i/broadcasts/1qJVmydnaMLGB",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115806843838824448/HeQMKARL?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115806843838824448/HeQMKARL?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 90,
-      "status": 200,
-      "title": "CITI FM 97.3",
-      "unwound_url": "https://x.com/i/broadcasts/1qJVmydnaMLGB",
-      "url": "https://t.co/NwK4kYUXRj"
-     }
-    ]
-   },
-   "id": "2115806839946580309",
+   "id": "2115821751561232621",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 587,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
+    "bookmark_count": 2,
+    "impression_count": 785,
+    "like_count": 31,
+    "quote_count": 2,
+    "reply_count": 2,
+    "retweet_count": 5
    },
-   "text": "\ud83d\udea8 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom https://t.co/NwK4kYUXRj",
-   "url": "https://x.com/Citi973/status/2115806839946580309"
+   "text": "Michael Hudson: BREAKING: Israel Election in Deadlock — Washington Left Disappointed https://t.co/c98vafptCz",
+   "url": "https://x.com/Dialogue_NRA/status/2115821751561232621"
   },
   {
    "author_id": "104872280",
@@ -540,51 +233,35 @@
    "edit_history_tweet_ids": [
     "2115814180234412332"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 89,
-      "start": 76,
-      "tag": "CitiNewsroom"
-     }
-    ],
-    "urls": [
-     {
-      "description": "\ud83d\udea8 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 113,
-      "expanded_url": "https://x.com/i/broadcasts/1jGXgBWmoeVKZ",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115814183212310529/1JOhlrvu?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115814183212310529/1JOhlrvu?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 90,
-      "status": 200,
-      "title": "CITI FM 97.3",
-      "unwound_url": "https://x.com/i/broadcasts/1jGXgBWmoeVKZ",
-      "url": "https://t.co/kwW7uXNOfn"
-     }
-    ]
-   },
    "id": "2115814180234412332",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1343,
+    "impression_count": 1381,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "\ud83d\udea8 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom https://t.co/kwW7uXNOfn",
+   "text": "🚨 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom https://t.co/kwW7uXNOfn",
    "url": "https://x.com/Citi973/status/2115814180234412332"
+  },
+  {
+   "author_id": "104872280",
+   "created_at": "2026-10-29T14:03:55.000Z",
+   "edit_history_tweet_ids": [
+    "2115806839946580309"
+   ],
+   "id": "2115806839946580309",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 600,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚨 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom https://t.co/NwK4kYUXRj",
+   "url": "https://x.com/Citi973/status/2115806839946580309"
   },
   {
    "author_id": "14505245",
@@ -592,41 +269,14 @@
    "edit_history_tweet_ids": [
     "2115836479691759845"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "ALEX JONES LIVE: US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 272,
-      "expanded_url": "https://x.com/i/broadcasts/2WXVkRAlzaZMZq",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115836522746294272/WdkG__1X?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115836522746294272/WdkG__1X?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 249,
-      "status": 200,
-      "title": "INFOWARS",
-      "unwound_url": "https://x.com/i/broadcasts/2WXVkRAlzaZMZq",
-      "url": "https://t.co/bYRT1h4pLI"
-     }
-    ]
-   },
    "id": "2115836479691759845",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 14887,
-    "like_count": 21,
-    "quote_count": 1,
-    "reply_count": 1,
-    "retweet_count": 10
+    "impression_count": 18381,
+    "like_count": 25,
+    "quote_count": 2,
+    "reply_count": 2,
+    "retweet_count": 12
    },
    "text": "ALEX JONES LIVE: US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH https://t.co/bYRT1h4pLI",
    "url": "https://x.com/infowars/status/2115836479691759845"
@@ -637,29 +287,14 @@
    "edit_history_tweet_ids": [
     "2115836228377403650"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 255,
-      "expanded_url": "https://x.com/i/broadcasts/2mdjJEbeVMdkZk",
-      "start": 232,
-      "status": 200,
-      "title": "Alex Jones Network",
-      "unwound_url": "https://x.com/i/broadcasts/2mdjJEbeVMdkZk",
-      "url": "https://t.co/Jmi2DGvjnX"
-     }
-    ]
-   },
    "id": "2115836228377403650",
    "public_metrics": {
-    "bookmark_count": 4,
-    "impression_count": 17041,
-    "like_count": 39,
-    "quote_count": 3,
+    "bookmark_count": 5,
+    "impression_count": 20938,
+    "like_count": 47,
+    "quote_count": 4,
     "reply_count": 2,
-    "retweet_count": 13
+    "retweet_count": 15
    },
    "text": "US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH https://t.co/Jmi2DGvjnX",
    "url": "https://x.com/AJNlive/status/2115836228377403650"
@@ -670,41 +305,14 @@
    "edit_history_tweet_ids": [
     "2115835935636013282"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Thursday LIVE: US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 270,
-      "expanded_url": "https://x.com/i/broadcasts/2ybrMOpXOnKAlP",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115835978317217792/vhvGGYwX?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115835978317217792/vhvGGYwX?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 247,
-      "status": 200,
-      "title": "Alex Jones",
-      "unwound_url": "https://x.com/i/broadcasts/2ybrMOpXOnKAlP",
-      "url": "https://t.co/OVEdI2ppYX"
-     }
-    ]
-   },
    "id": "2115835935636013282",
    "public_metrics": {
-    "bookmark_count": 13,
-    "impression_count": 29778,
-    "like_count": 131,
-    "quote_count": 4,
-    "reply_count": 17,
-    "retweet_count": 67
+    "bookmark_count": 19,
+    "impression_count": 53937,
+    "like_count": 164,
+    "quote_count": 6,
+    "reply_count": 18,
+    "retweet_count": 80
    },
    "text": "Thursday LIVE: US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH https://t.co/OVEdI2ppYX",
    "url": "https://x.com/RealAlexJones/status/2115835935636013282"
@@ -716,43 +324,16 @@
     "2115815790545145894",
     "2115817154461262233"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "The Gerry Callahan Show LIVE (10/29/2026) | NEWSMAX Podcasts",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 249,
-      "expanded_url": "https://x.com/i/broadcasts/1yxBePXmaBzJN",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115815832995733504/yCITrhnE?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115815832995733504/yCITrhnE?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 226,
-      "status": 200,
-      "title": "NEWSMAX",
-      "unwound_url": "https://x.com/i/broadcasts/1yxBePXmaBzJN",
-      "url": "https://t.co/hWYp5dow4R"
-     }
-    ]
-   },
    "id": "2115817154461262233",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 6492,
+    "impression_count": 6736,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 1,
     "retweet_count": 3
    },
-   "text": "GERRY IS LIVE! \ud83c\udf99\ufe0f\nToday on The Gerry Callahan Show...\n\ud83d\udfe5 Mary Peltola\u2019s alleged election fraud in Alaska.\n\ud83d\udfe5 Obama is still hitting the campaign trail.\n\ud83d\udfe5 CNN claims that Trump is the one who is going to steal the next election.\nhttps://t.co/hWYp5dow4R",
+   "text": "GERRY IS LIVE! 🎙️\nToday on The Gerry Callahan Show...\n🟥 Mary Peltola’s alleged election fraud in Alaska.\n🟥 Obama is still hitting the campaign trail.\n🟥 CNN claims that Trump is the one who is going to steal the next election.\nhttps://t.co/hWYp5dow4R",
    "url": "https://x.com/NEWSMAX/status/2115817154461262233"
   },
   {
@@ -761,38 +342,11 @@
    "edit_history_tweet_ids": [
     "2115836994786148724"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Trump: America Won't Be Bullied By FOREIGN Judge Reyes",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 78,
-      "expanded_url": "https://x.com/i/broadcasts/1OxwbndWXNmJB",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115837037635117056/evulkX8g?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115837037635117056/evulkX8g?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 55,
-      "status": 200,
-      "title": "Andrew Branca Show",
-      "unwound_url": "https://x.com/i/broadcasts/1OxwbndWXNmJB",
-      "url": "https://t.co/XdZeTUhu1W"
-     }
-    ]
-   },
    "id": "2115836994786148724",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 483,
-    "like_count": 10,
+    "impression_count": 595,
+    "like_count": 14,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
@@ -806,29 +360,14 @@
    "edit_history_tweet_ids": [
     "2115836184547275239"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE TRUMP RALLY IN SOUTH CAROLINA | Countdown To The Midterms! | And More News!",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 104,
-      "expanded_url": "https://x.com/i/broadcasts/1OxwbndWXBPJB",
-      "start": 81,
-      "status": 200,
-      "title": "Barry Cunningham",
-      "unwound_url": "https://x.com/i/broadcasts/1OxwbndWXBPJB",
-      "url": "https://t.co/d4WJ8ioXKT"
-     }
-    ]
-   },
    "id": "2115836184547275239",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 768,
-    "like_count": 26,
+    "bookmark_count": 1,
+    "impression_count": 897,
+    "like_count": 34,
     "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 10
+    "reply_count": 2,
+    "retweet_count": 13
    },
    "text": "LIVE TRUMP RALLY IN SOUTH CAROLINA | Countdown To The Midterms! | And More News! https://t.co/d4WJ8ioXKT",
    "url": "https://x.com/barrycunningham/status/2115836184547275239"
@@ -839,25 +378,10 @@
    "edit_history_tweet_ids": [
     "2115836509173756323"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Badlands Coverage: President Trump Delivers Remarks from Rock Hill, SC",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 94,
-      "expanded_url": "https://x.com/i/broadcasts/1rxmqpBDPAdxy",
-      "start": 71,
-      "status": 200,
-      "title": "Badlands Media",
-      "unwound_url": "https://x.com/i/broadcasts/1rxmqpBDPAdxy",
-      "url": "https://t.co/54gwouXpHx"
-     }
-    ]
-   },
    "id": "2115836509173756323",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 405,
+    "impression_count": 491,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 1,
@@ -867,124 +391,19 @@
    "url": "https://x.com/BadlandsMedia_/status/2115836509173756323"
   },
   {
-   "author_id": "1468039338558590976",
-   "created_at": "2026-10-29T16:14:26.000Z",
-   "edit_history_tweet_ids": [
-    "2115839689001415140"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 87,
-      "expanded_url": "https://x.com/i/broadcasts/1NGarobEbwdJj",
-      "start": 64,
-      "status": 200,
-      "title": "Loomer Fan Club",
-      "unwound_url": "https://x.com/i/broadcasts/1NGarobEbwdJj",
-      "url": "https://t.co/qPNZry2YmI"
-     }
-    ]
-   },
-   "id": "2115839689001415140",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 90,
-    "like_count": 2,
-    "quote_count": 1,
-    "reply_count": 2,
-    "retweet_count": 0
-   },
-   "text": "LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26 https://t.co/qPNZry2YmI",
-   "url": "https://x.com/LoomersFanClub/status/2115839689001415140"
-  },
-  {
-   "author_id": "1592394953346334720",
-   "created_at": "2026-10-29T16:01:07.000Z",
-   "edit_history_tweet_ids": [
-    "2115836337236725846"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "TRUMP MIDTERM RALLY IN ROCK HILL, SC",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 23,
-      "expanded_url": "https://x.com/i/broadcasts/1rxmqpBDkZVxy",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115825856765698048/vVC5iaHN?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115825856765698048/vVC5iaHN?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 0,
-      "status": 200,
-      "title": "Real America's Voice (RAV)",
-      "unwound_url": "https://x.com/i/broadcasts/1rxmqpBDkZVxy",
-      "url": "https://t.co/FZXOza5vWL"
-     }
-    ]
-   },
-   "id": "2115836337236725846",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 21,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 0
-   },
-   "text": "https://t.co/FZXOza5vWL \n\nPRESIDENT TRUMP MIDTERM RALLY IN ROCK HILL, SC!",
-   "url": "https://x.com/MyriamCarlyle/status/2115836337236725846"
-  },
-  {
    "author_id": "1683937299468263424",
    "created_at": "2026-10-29T15:03:30.000Z",
    "edit_history_tweet_ids": [
     "2115821837028598152"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "BREAKING: Trump Declares CEASEFIRE OVER with Iran",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 73,
-      "expanded_url": "https://x.com/i/broadcasts/1wGWjlemzrWKQ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115826978230288384/cnA08s2Q?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115826978230288384/cnA08s2Q?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 50,
-      "status": 200,
-      "title": "Matt Tardio",
-      "unwound_url": "https://x.com/i/broadcasts/1wGWjlemzrWKQ",
-      "url": "https://t.co/AGf2Aeh2a1"
-     }
-    ]
-   },
    "id": "2115821837028598152",
    "public_metrics": {
-    "bookmark_count": 5,
-    "impression_count": 5269,
-    "like_count": 44,
+    "bookmark_count": 6,
+    "impression_count": 6171,
+    "like_count": 49,
     "quote_count": 0,
     "reply_count": 3,
-    "retweet_count": 7
+    "retweet_count": 8
    },
    "text": "BREAKING: Trump Declares CEASEFIRE OVER with Iran https://t.co/AGf2Aeh2a1",
    "url": "https://x.com/angertab/status/2115821837028598152"
@@ -995,37 +414,10 @@
    "edit_history_tweet_ids": [
     "2115841760140402756"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "President Donald Trump Arrives in South Carolina for Midterm Rally",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 90,
-      "expanded_url": "https://x.com/i/broadcasts/1oJMvNPgPADxQ",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115841762380095488/ftb3ivB9?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115841762380095488/ftb3ivB9?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 67,
-      "status": 200,
-      "title": "MEAWW News",
-      "unwound_url": "https://x.com/i/broadcasts/1oJMvNPgPADxQ",
-      "url": "https://t.co/I2WjlSMb0x"
-     }
-    ]
-   },
    "id": "2115841760140402756",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 13,
+    "impression_count": 16,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -1035,49 +427,40 @@
    "url": "https://x.com/meawwcom/status/2115841760140402756"
   },
   {
-   "author_id": "11134252",
-   "created_at": "2026-10-29T15:08:43.000Z",
+   "author_id": "21538153",
+   "created_at": "2026-10-29T15:13:24.000Z",
    "edit_history_tweet_ids": [
-    "2115823150399103223"
+    "2115824327375348128"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Midterm Rally in Rock Hill, South Carolina featuring President Donald J. Trump",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 102,
-      "expanded_url": "https://x.com/i/broadcasts/2brnrYqjQjZzdp",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115823194825261056/wNFkpNkx?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115823194825261056/wNFkpNkx?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 79,
-      "status": 200,
-      "title": "Republicans",
-      "unwound_url": "https://x.com/i/broadcasts/2brnrYqjQjZzdp",
-      "url": "https://t.co/MPiEtrKTVl"
-     }
-    ]
-   },
-   "id": "2115823150399103223",
+   "id": "2115824327375348128",
    "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 6368,
-    "like_count": 59,
-    "quote_count": 1,
-    "reply_count": 12,
-    "retweet_count": 22
+    "bookmark_count": 0,
+    "impression_count": 27,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
    },
-   "text": "Midterm Rally in Rock Hill, South Carolina featuring President Donald J. Trump https://t.co/MPiEtrKTVl",
-   "url": "https://x.com/Republicans/status/2115823150399103223"
+   "text": "RNCResearch: RT @Republicans: Midterm Rally in Rock Hill, South Carolina featuring President Donald J. Trump https://t.co/Cj7CkDSY8D",
+   "url": "https://x.com/RWOMC/status/2115824327375348128"
+  },
+  {
+   "author_id": "1592394953346334720",
+   "created_at": "2026-10-29T16:01:07.000Z",
+   "edit_history_tweet_ids": [
+    "2115836337236725846"
+   ],
+   "id": "2115836337236725846",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 24,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "https://t.co/FZXOza5vWL \n\nPRESIDENT TRUMP MIDTERM RALLY IN ROCK HILL, SC!",
+   "url": "https://x.com/MyriamCarlyle/status/2115836337236725846"
   }
  ],
  "users": [
@@ -1090,7 +473,7 @@
     "like_count": 2278,
     "listed_count": 0,
     "media_count": 31,
-    "tweet_count": 1705
+    "tweet_count": 1706
    },
    "username": "AngryConservat",
    "verified": true,
@@ -1100,7 +483,7 @@
    "id": "1585667220591345674",
    "name": "Badlands Media",
    "public_metrics": {
-    "followers_count": 47076,
+    "followers_count": 47078,
     "following_count": 50,
     "like_count": 3115,
     "listed_count": 136,
@@ -1115,7 +498,7 @@
    "id": "2651190312",
    "name": "Brendan Carr",
    "public_metrics": {
-    "followers_count": 195170,
+    "followers_count": 195176,
     "following_count": 3560,
     "like_count": 21788,
     "listed_count": 1393,
@@ -1125,21 +508,6 @@
    "username": "BrendanCarrFCC",
    "verified": true,
    "verified_type": "government"
-  },
-  {
-   "id": "19383279",
-   "name": "Tennessee Titans",
-   "public_metrics": {
-    "followers_count": 1048147,
-    "following_count": 1875,
-    "like_count": 26585,
-    "listed_count": 6630,
-    "media_count": 30284,
-    "tweet_count": 68484
-   },
-   "username": "Titans",
-   "verified": true,
-   "verified_type": "business"
   },
   {
    "id": "256551011",
@@ -1155,6 +523,36 @@
    "username": "ArsenalWFC",
    "verified": true,
    "verified_type": "business"
+  },
+  {
+   "id": "19383279",
+   "name": "Tennessee Titans",
+   "public_metrics": {
+    "followers_count": 1048146,
+    "following_count": 1875,
+    "like_count": 26585,
+    "listed_count": 6630,
+    "media_count": 30284,
+    "tweet_count": 68484
+   },
+   "username": "Titans",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "38021189",
+   "name": "Titans Radio",
+   "public_metrics": {
+    "followers_count": 18158,
+    "following_count": 162,
+    "like_count": 14786,
+    "listed_count": 385,
+    "media_count": 3970,
+    "tweet_count": 18935
+   },
+   "username": "TitansRadio",
+   "verified": false,
+   "verified_type": "none"
   },
   {
    "id": "989231",
@@ -1205,7 +603,7 @@
    "id": "2508068568",
    "name": "Pat Stedman | Dating & Relationship Coach for Men",
    "public_metrics": {
-    "followers_count": 66924,
+    "followers_count": 66925,
     "following_count": 1116,
     "like_count": 152134,
     "listed_count": 482,
@@ -1213,21 +611,6 @@
     "tweet_count": 68678
    },
    "username": "Pat_Stedman",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1326462342679441409",
-   "name": "Dialogue works",
-   "public_metrics": {
-    "followers_count": 19259,
-    "following_count": 80,
-    "like_count": 1020,
-    "listed_count": 170,
-    "media_count": 3323,
-    "tweet_count": 6522
-   },
-   "username": "Dialogue_NRA",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1247,6 +630,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "1326462342679441409",
+   "name": "Dialogue works",
+   "public_metrics": {
+    "followers_count": 19260,
+    "following_count": 80,
+    "like_count": 1020,
+    "listed_count": 170,
+    "media_count": 3323,
+    "tweet_count": 6522
+   },
+   "username": "Dialogue_NRA",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "104872280",
    "name": "CITI FM 97.3",
    "public_metrics": {
@@ -1254,8 +652,8 @@
     "following_count": 528,
     "like_count": 2831,
     "listed_count": 716,
-    "media_count": 177750,
-    "tweet_count": 573810
+    "media_count": 177752,
+    "tweet_count": 573812
    },
    "username": "Citi973",
    "verified": true,
@@ -1265,12 +663,12 @@
    "id": "14505245",
    "name": "INFOWARS",
    "public_metrics": {
-    "followers_count": 703701,
+    "followers_count": 703697,
     "following_count": 1575,
     "like_count": 22102,
     "listed_count": 2808,
     "media_count": 12883,
-    "tweet_count": 77544
+    "tweet_count": 77545
    },
    "username": "infowars",
    "verified": true,
@@ -1284,8 +682,8 @@
     "following_count": 356,
     "like_count": 4833,
     "listed_count": 588,
-    "media_count": 2447,
-    "tweet_count": 7743
+    "media_count": 2448,
+    "tweet_count": 7744
    },
    "username": "AJNlive",
    "verified": true,
@@ -1295,12 +693,12 @@
    "id": "109065990",
    "name": "Alex Jones",
    "public_metrics": {
-    "followers_count": 4434835,
+    "followers_count": 4434842,
     "following_count": 1125,
     "like_count": 53709,
-    "listed_count": 12779,
-    "media_count": 25043,
-    "tweet_count": 96153
+    "listed_count": 12778,
+    "media_count": 25046,
+    "tweet_count": 96157
    },
    "username": "RealAlexJones",
    "verified": true,
@@ -1310,12 +708,12 @@
    "id": "20545835",
    "name": "NEWSMAX",
    "public_metrics": {
-    "followers_count": 3674328,
+    "followers_count": 3674340,
     "following_count": 851,
     "like_count": 8041,
-    "listed_count": 8656,
-    "media_count": 87846,
-    "tweet_count": 279570
+    "listed_count": 8653,
+    "media_count": 87847,
+    "tweet_count": 279571
    },
    "username": "NEWSMAX",
    "verified": true,
@@ -1325,7 +723,7 @@
    "id": "1249578344",
    "name": "Andrew Branca Show",
    "public_metrics": {
-    "followers_count": 211081,
+    "followers_count": 211085,
     "following_count": 2513,
     "like_count": 5853,
     "listed_count": 1146,
@@ -1357,40 +755,10 @@
    "verified_type": "blue"
   },
   {
-   "id": "1468039338558590976",
-   "name": "Loomer Fan Club",
-   "public_metrics": {
-    "followers_count": 9085,
-    "following_count": 2850,
-    "like_count": 16487,
-    "listed_count": 34,
-    "media_count": 8594,
-    "tweet_count": 115341
-   },
-   "username": "LoomersFanClub",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1592394953346334720",
-   "name": "Myriam Carlyle",
-   "public_metrics": {
-    "followers_count": 4768,
-    "following_count": 7499,
-    "like_count": 65873,
-    "listed_count": 2,
-    "media_count": 637,
-    "tweet_count": 61391
-   },
-   "username": "MyriamCarlyle",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1683937299468263424",
    "name": "Matt Tardio",
    "public_metrics": {
-    "followers_count": 116593,
+    "followers_count": 116594,
     "following_count": 802,
     "like_count": 11597,
     "listed_count": 252,
@@ -1417,17 +785,32 @@
    "verified_type": "blue"
   },
   {
-   "id": "11134252",
-   "name": "Republicans",
+   "id": "21538153",
+   "name": "Republican Women of Mercer County 💪🇺🇸",
    "public_metrics": {
-    "followers_count": 3454595,
-    "following_count": 995,
-    "like_count": 2825,
-    "listed_count": 13264,
-    "media_count": 22082,
-    "tweet_count": 78296
+    "followers_count": 2245,
+    "following_count": 2161,
+    "like_count": 21339,
+    "listed_count": 76,
+    "media_count": 33386,
+    "tweet_count": 137291
    },
-   "username": "Republicans",
+   "username": "RWOMC",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1592394953346334720",
+   "name": "Myriam Carlyle",
+   "public_metrics": {
+    "followers_count": 4768,
+    "following_count": 7499,
+    "like_count": 65873,
+    "listed_count": 2,
+    "media_count": 637,
+    "tweet_count": 61391
+   },
+   "username": "MyriamCarlyle",
    "verified": true,
    "verified_type": "blue"
   }

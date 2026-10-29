@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-29T16:34:42Z",
- "searched_at": "2026-10-29T16:34:45Z",
+ "built_at": "2026-10-29T16:50:23Z",
+ "searched_at": "2026-10-29T16:50:13Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-10-29T17:44:54Z"
   },
   {
-   "post_id": "2115823150399103223",
-   "post_url": "https://x.com/Republicans/status/2115823150399103223",
-   "name": "Republicans",
-   "username": "Republicans",
-   "verified_type": "blue",
-   "text": "Midterm Rally in Rock Hill, South Carolina featuring President Donald J. Trump https://t.co/MPiEtrKTVl",
-   "started_at": "2026-10-29T15:08:43.000Z",
-   "assumed_live_until": "2026-10-29T18:08:43Z"
-  },
-  {
    "post_id": "2115821837028598152",
    "post_url": "https://x.com/angertab/status/2115821837028598152",
    "name": "Matt Tardio",
@@ -83,6 +73,16 @@
    "text": "Michael Hudson: BREAKING: Israel Election in Deadlock — Washington Left Disappointed https://t.co/c98vafptCz",
    "started_at": "2026-10-29T15:03:10.000Z",
    "assumed_live_until": "2026-10-29T18:03:10Z"
+  },
+  {
+   "post_id": "2115836994786148724",
+   "post_url": "https://x.com/TheBrancaShow/status/2115836994786148724",
+   "name": "Andrew Branca Show",
+   "username": "TheBrancaShow",
+   "verified_type": "blue",
+   "text": "Trump: America Won't Be Bullied By FOREIGN Judge Reyes https://t.co/XdZeTUhu1W",
+   "started_at": "2026-10-29T16:03:44.000Z",
+   "assumed_live_until": "2026-10-29T19:03:44Z"
   }
  ]
 }
