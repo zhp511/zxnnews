@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:07:37Z",
+ "fetched_at": "2026-10-29T13:23:00Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,39 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-10-29T13:17:37.000Z",
+     "edit_history_tweet_ids": [
+      "2115795187998007737"
+     ],
+     "id": "2115795187998007737",
+     "in_reply_to_user_id": "2011476148178599939",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115700056737055104",
+       "type": "replied_to"
+      }
+     ],
+     "text": "This has been removed",
+     "url": "https://x.com/i/status/2115795187998007737"
+    }
+   ],
+   "meta": {
+    "newest_id": "2115795187998007737",
+    "oldest_id": "2115795187998007737",
+    "result_count": 1
+   }
+  },
   {
    "data": [
     {
