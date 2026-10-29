@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-29T21:59:26Z",
- "searched_at": "2026-10-29T21:59:30Z",
+ "built_at": "2026-10-29T22:16:58Z",
+ "searched_at": "2026-10-29T22:16:58Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2115914726358352340",
-   "post_url": "https://x.com/WhiteHouse/status/2115914726358352340",
-   "name": "The White House",
-   "username": "WhiteHouse",
-   "verified_type": "government",
-   "text": "President Trump and the First Lady Host Halloween at the White House https://t.co/N3iZE6psar",
-   "started_at": "2026-10-29T21:12:37.000Z",
-   "assumed_live_until": "2026-10-30T00:12:37Z"
-  },
   {
    "post_id": "2115897045097587198",
    "post_url": "https://x.com/RealAlexJones/status/2115897045097587198",
@@ -23,6 +13,16 @@
    "text": "✬✬✬✬✬ WAR ROOM LIVE: Hegseth Fires Pentagon’s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options – TUNE IN/SHARE! https://t.co/H9i1MX7FLp",
    "started_at": "2026-10-29T20:02:21.000Z",
    "assumed_live_until": "2026-10-29T23:02:21Z"
+  },
+  {
+   "post_id": "2115898236569563480",
+   "post_url": "https://x.com/OwenShroyer1776/status/2115898236569563480",
+   "name": "Owen Shroyer",
+   "username": "OwenShroyer1776",
+   "verified_type": "blue",
+   "text": "Obama Rallies Drawing More Than Trump Rallies As Control Of Congress Hangs In The Balance At Midterms https://t.co/4hsBOkCduk",
+   "started_at": "2026-10-29T20:07:05.000Z",
+   "assumed_live_until": "2026-10-29T23:07:05Z"
   },
   {
    "post_id": "2115918693683040613",

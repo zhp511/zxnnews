@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T21:59:30Z",
+ "fetched_at": "2026-10-29T22:16:58Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T18:59:00Z",
+  "start_time": "2026-10-29T19:17:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,33 +17,6 @@
    "edit_history_tweet_ids": [
     "2115918474132488687"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "President Donald Trump & Melania Trump Host White House Halloween",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 93,
-      "expanded_url": "https://x.com/i/broadcasts/1XGygwWQLRvxM",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115918476351356928/CHLbRqst?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115918476351356928/CHLbRqst?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 70,
-      "status": 200,
-      "title": "MEAWW News",
-      "unwound_url": "https://x.com/i/broadcasts/1XGygwWQLRvxM",
-      "url": "https://t.co/kRR3eXxTc4"
-     }
-    ]
-   },
    "id": "2115918474132488687",
    "public_metrics": {
     "bookmark_count": 0,
@@ -62,41 +35,14 @@
    "edit_history_tweet_ids": [
     "2115914726358352340"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "President Trump and the First Lady Host Halloween at the White House",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 92,
-      "expanded_url": "https://x.com/i/broadcasts/1nxnRBPOzNwxO",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115914728770097152/DYrKKLxc?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115914728770097152/DYrKKLxc?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 69,
-      "status": 200,
-      "title": "The White House",
-      "unwound_url": "https://x.com/i/broadcasts/1nxnRBPOzNwxO",
-      "url": "https://t.co/N3iZE6psar"
-     }
-    ]
-   },
    "id": "2115914726358352340",
    "public_metrics": {
-    "bookmark_count": 77,
-    "impression_count": 96326,
-    "like_count": 1507,
-    "quote_count": 46,
-    "reply_count": 181,
-    "retweet_count": 365
+    "bookmark_count": 113,
+    "impression_count": 124973,
+    "like_count": 2361,
+    "quote_count": 61,
+    "reply_count": 257,
+    "retweet_count": 517
    },
    "text": "President Trump and the First Lady Host Halloween at the White House https://t.co/N3iZE6psar",
    "url": "https://x.com/WhiteHouse/status/2115914726358352340"
@@ -107,25 +53,10 @@
    "edit_history_tweet_ids": [
     "2115917408217276756"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: President Trump and the First Lady Host Halloween at the White House",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 98,
-      "expanded_url": "https://x.com/i/broadcasts/1DGleVAMLqzJL",
-      "start": 75,
-      "status": 200,
-      "title": "Diya TV",
-      "unwound_url": "https://x.com/i/broadcasts/1DGleVAMLqzJL",
-      "url": "https://t.co/vjxnio8ODA"
-     }
-    ]
-   },
    "id": "2115917408217276756",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 18,
+    "impression_count": 21,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -140,41 +71,14 @@
    "edit_history_tweet_ids": [
     "2115911453152858476"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: President Trump & First Lady Melania Trump Host White House Halloween Celebration - 10/29/26",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 126,
-      "expanded_url": "https://x.com/i/broadcasts/1AKEmvEobQXKL",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115911455447150592/K14YTzOV?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115911455447150592/K14YTzOV?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 103,
-      "status": 200,
-      "title": "RSBN 🇺🇸",
-      "unwound_url": "https://x.com/i/broadcasts/1AKEmvEobQXKL",
-      "url": "https://t.co/tZ4ph0rSkb"
-     }
-    ]
-   },
    "id": "2115911453152858476",
    "public_metrics": {
     "bookmark_count": 5,
-    "impression_count": 4683,
-    "like_count": 103,
-    "quote_count": 2,
-    "reply_count": 5,
-    "retweet_count": 43
+    "impression_count": 5352,
+    "like_count": 149,
+    "quote_count": 3,
+    "reply_count": 6,
+    "retweet_count": 55
    },
    "text": "LIVE: President Trump &amp; First Lady Melania Trump Host White House Halloween Celebration - 10/29/26 https://t.co/tZ4ph0rSkb",
    "url": "https://x.com/RSBNetwork/status/2115911453152858476"
@@ -185,37 +89,10 @@
    "edit_history_tweet_ids": [
     "2115921290783842519"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "President Trump and the First Lady Host Halloween at the White House",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 99,
-      "expanded_url": "https://x.com/i/broadcasts/1nxnRBPOzNwxO",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115914728770097152/DYrKKLxc?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115914728770097152/DYrKKLxc?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 76,
-      "status": 200,
-      "title": "The White House",
-      "unwound_url": "https://x.com/i/broadcasts/1nxnRBPOzNwxO",
-      "url": "https://t.co/Oje8O0Pmlo"
-     }
-    ]
-   },
    "id": "2115921290783842519",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 12,
+    "impression_count": 14,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -225,83 +102,11 @@
    "url": "https://x.com/TTA_NewsNetwork/status/2115921290783842519"
   },
   {
-   "author_id": "796431922939494408",
-   "created_at": "2026-10-29T21:17:19.000Z",
-   "edit_history_tweet_ids": [
-    "2115915910158647463"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "President Trump and the First Lady Host Halloween at the White House",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 104,
-      "expanded_url": "https://x.com/i/broadcasts/1nxnRBPOzNwxO",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115914728770097152/DYrKKLxc?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115914728770097152/DYrKKLxc?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 81,
-      "status": 200,
-      "title": "The White House",
-      "unwound_url": "https://x.com/i/broadcasts/1nxnRBPOzNwxO",
-      "url": "https://t.co/hLJiqR4A1h"
-     }
-    ]
-   },
-   "id": "2115915910158647463",
-   "public_metrics": {
-    "bookmark_count": 8,
-    "impression_count": 3720,
-    "like_count": 202,
-    "quote_count": 2,
-    "reply_count": 5,
-    "retweet_count": 34
-   },
-   "text": "LIVE: President Trump and First Lady Melania Host Halloween at the White House 🎃 https://t.co/hLJiqR4A1h",
-   "url": "https://x.com/MELANIAJTRUMP/status/2115915910158647463"
-  },
-  {
    "author_id": "61011257",
    "created_at": "2026-10-29T21:35:14.000Z",
    "edit_history_tweet_ids": [
     "2115920418011844979"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: President Trump & First Lady Melania Trump Host White House Halloween Celebration - 10/29/26",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 127,
-      "expanded_url": "https://x.com/i/broadcasts/1AKEmvEobQXKL",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115911455447150592/K14YTzOV?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115911455447150592/K14YTzOV?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 104,
-      "status": 200,
-      "title": "RSBN 🇺🇸",
-      "unwound_url": "https://x.com/i/broadcasts/1AKEmvEobQXKL",
-      "url": "https://t.co/zyW00jzYJ9"
-     }
-    ]
-   },
    "id": "2115920418011844979",
    "public_metrics": {
     "bookmark_count": 0,
@@ -311,8 +116,44 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "🚨LIVE: President Trump &amp; First Lady Melania Trump Host White House Halloween Celebration - 10/29/26 https://t.co/zyW00jzYJ9",
+   "text": "\ud83d\udea8LIVE: President Trump &amp; First Lady Melania Trump Host White House Halloween Celebration - 10/29/26 https://t.co/zyW00jzYJ9",
    "url": "https://x.com/realjamesrossi/status/2115920418011844979"
+  },
+  {
+   "author_id": "796431922939494408",
+   "created_at": "2026-10-29T21:17:19.000Z",
+   "edit_history_tweet_ids": [
+    "2115915910158647463"
+   ],
+   "id": "2115915910158647463",
+   "public_metrics": {
+    "bookmark_count": 14,
+    "impression_count": 6278,
+    "like_count": 329,
+    "quote_count": 4,
+    "reply_count": 6,
+    "retweet_count": 52
+   },
+   "text": "LIVE: President Trump and First Lady Melania Host Halloween at the White House \ud83c\udf83 https://t.co/hLJiqR4A1h",
+   "url": "https://x.com/MELANIAJTRUMP/status/2115915910158647463"
+  },
+  {
+   "author_id": "2029725690371903488",
+   "created_at": "2026-10-29T22:10:05.000Z",
+   "edit_history_tweet_ids": [
+    "2115929189698420748"
+   ],
+   "id": "2115929189698420748",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 10,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 1
+   },
+   "text": "President Trump and the First Lady Host Halloween at the White House\n\ud83c\uddfa\ud83c\uddf8\ud83d\udc47\ud83d\udc40\nhttps://t.co/aSl7PllK4r",
+   "url": "https://x.com/asaonofriend/status/2115929189698420748"
   },
   {
    "author_id": "1900375238548086788",
@@ -320,43 +161,16 @@
    "edit_history_tweet_ids": [
     "2115916405858296278"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "🇺🇸 President Donald Trump and First Lady Melania Trump Welcome Halloween Trick-or-Treaters to the White House [LIVE]",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 140,
-      "expanded_url": "https://x.com/i/broadcasts/1dxYlaZbNWNJX",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115916408773296128/VGCsxLnm?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115916408773296128/VGCsxLnm?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 117,
-      "status": 200,
-      "title": "MAGNO NEWS LIVE",
-      "unwound_url": "https://x.com/i/broadcasts/1dxYlaZbNWNJX",
-      "url": "https://t.co/T6UMIkk2pK"
-     }
-    ]
-   },
    "id": "2115916405858296278",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 322,
-    "like_count": 6,
+    "bookmark_count": 2,
+    "impression_count": 520,
+    "like_count": 12,
     "quote_count": 0,
     "reply_count": 1,
-    "retweet_count": 2
+    "retweet_count": 3
    },
-   "text": "🇺🇸 President Donald Trump and First Lady Melania Trump Welcome Halloween Trick-or-Treaters to the White House [LIVE] https://t.co/T6UMIkk2pK",
+   "text": "\ud83c\uddfa\ud83c\uddf8 President Donald Trump and First Lady Melania Trump Welcome Halloween Trick-or-Treaters to the White House [LIVE] https://t.co/T6UMIkk2pK",
    "url": "https://x.com/magnonewslive/status/2115916405858296278"
   },
   {
@@ -366,43 +180,16 @@
     "2115917858148630576",
     "2115918159891038584"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "🇺🇸 President Trump and First Lady Melania Welcome 🎃 Halloween Trick-or-Treaters to the White House [LIVE]",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 129,
-      "expanded_url": "https://x.com/i/broadcasts/1jGXgBWyYQzKZ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115917861059465216/H7FZdP9B?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115917861059465216/H7FZdP9B?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 106,
-      "status": 200,
-      "title": "MAGNO NEWS LIVE",
-      "unwound_url": "https://x.com/i/broadcasts/1jGXgBWyYQzKZ",
-      "url": "https://t.co/hPdyrCv1zn"
-     }
-    ]
-   },
    "id": "2115917858148630576",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 36,
+    "impression_count": 39,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "🇺🇸 President Trump and First Lady Melania Welcome 🎃 Halloween Trick-or-Treaters to the White House [LIVE] https://t.co/hPdyrCv1zn",
+   "text": "\ud83c\uddfa\ud83c\uddf8 President Trump and First Lady Melania Welcome \ud83c\udf83 Halloween Trick-or-Treaters to the White House [LIVE] https://t.co/hPdyrCv1zn",
    "url": "https://x.com/magnonewslive/status/2115917858148630576"
   },
   {
@@ -412,70 +199,16 @@
     "2115917858148630576",
     "2115918159891038584"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 140,
-      "start": 130,
-      "tag": "Halloween"
-     },
-     {
-      "end": 153,
-      "start": 141,
-      "tag": "DonaldTrump"
-     },
-     {
-      "end": 167,
-      "start": 154,
-      "tag": "MelaniaTrump"
-     },
-     {
-      "end": 179,
-      "start": 168,
-      "tag": "WhiteHouse"
-     },
-     {
-      "end": 194,
-      "start": 180,
-      "tag": "Halloween2026"
-     }
-    ],
-    "urls": [
-     {
-      "description": "🇺🇸 President Trump and First Lady Melania Welcome 🎃 Halloween Trick-or-Treaters to the White House [LIVE]",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 129,
-      "expanded_url": "https://x.com/i/broadcasts/1jGXgBWyYQzKZ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115917861059465216/H7FZdP9B?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115917861059465216/H7FZdP9B?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 106,
-      "status": 200,
-      "title": "MAGNO NEWS LIVE",
-      "unwound_url": "https://x.com/i/broadcasts/1jGXgBWyYQzKZ",
-      "url": "https://t.co/hPdyrCv1zn"
-     }
-    ]
-   },
    "id": "2115918159891038584",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 113,
-    "like_count": 3,
+    "impression_count": 205,
+    "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 3
    },
-   "text": "🇺🇸 President Trump and First Lady Melania Welcome 🎃 Halloween Trick-or-Treaters to the White House [LIVE] https://t.co/hPdyrCv1zn #Halloween #DonaldTrump #MelaniaTrump #WhiteHouse #Halloween2026",
+   "text": "\ud83c\uddfa\ud83c\uddf8 President Trump and First Lady Melania Welcome \ud83c\udf83 Halloween Trick-or-Treaters to the White House [LIVE] https://t.co/hPdyrCv1zn #Halloween #DonaldTrump #MelaniaTrump #WhiteHouse #Halloween2026",
    "url": "https://x.com/magnonewslive/status/2115918159891038584"
   },
   {
@@ -484,25 +217,10 @@
    "edit_history_tweet_ids": [
     "2115920318984286275"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: Trump, First Lady Celebrate Halloween at White House",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 200,
-      "expanded_url": "https://x.com/i/broadcasts/2jPdbPYAKrXEqB",
-      "start": 177,
-      "status": 200,
-      "title": "NTD News",
-      "unwound_url": "https://x.com/i/broadcasts/2jPdbPYAKrXEqB",
-      "url": "https://t.co/q5ajwJuSH2"
-     }
-    ]
-   },
    "id": "2115920318984286275",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 206,
+    "impression_count": 236,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -517,110 +235,6 @@
    "edit_history_tweet_ids": [
     "2115919797292794075"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "President Trump and the First Lady Host Halloween at the White House",
-      "display_url": "rumble.com/v7hksvs-presid…",
-      "end": 161,
-      "expanded_url": "https://rumble.com/v7hksvs-president-trump-and-the-first-lady-host-halloween-at-the-white-house.html?e9s=src_v1_clr%2Csrc_v1_ucp_l",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115919802040823808/7VYxzOpl?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115919802040823808/7VYxzOpl?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 138,
-      "status": 200,
-      "title": "President Trump and the First Lady Host Halloween at the White House",
-      "unwound_url": "https://rumble.com/v7hksvs-president-trump-and-the-first-lady-host-halloween-at-the-white-house.html?e9s=src_v1_clr%2Csrc_v1_ucp_l",
-      "url": "https://t.co/xZ5UxXJZUF"
-     },
-     {
-      "description": "Join RSBN LIVE for complete coverage as President Trump & The First Lady host the 2026 Halloween at the White House. Tune in at 5 pm EDT on October 29, 2026. 10% Off Everything at All Family Pharmacy",
-      "display_url": "rumble.com/v7hioue-live-p…",
-      "end": 185,
-      "expanded_url": "https://rumble.com/v7hioue-live-president-trump-and-first-lady-melania-trump-host-white-house-hallowee.html?e9s=src_v1_cbl%2Csrc_v1_ucp_l",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115880869907103744/UTN-g9HQ?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115880869907103744/UTN-g9HQ?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 162,
-      "status": 200,
-      "title": "LIVE: President Trump & First Lady Melania Trump Host White House Halloween Celebration - 10/29/26",
-      "unwound_url": "https://rumble.com/v7hioue-live-president-trump-and-first-lady-melania-trump-host-white-house-hallowee.html?e9s=src_v1_cbl%2Csrc_v1_ucp_l",
-      "url": "https://t.co/Oumh57rPKr"
-     },
-     {
-      "description": "LIVE: President Trump & First Lady Melania Trump Host White House Halloween Celebration - 10/29/26",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 209,
-      "expanded_url": "https://x.com/i/broadcasts/1AKEmvEobQXKL",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115911455447150592/K14YTzOV?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115911455447150592/K14YTzOV?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 186,
-      "status": 200,
-      "title": "RSBN 🇺🇸",
-      "unwound_url": "https://x.com/i/broadcasts/1AKEmvEobQXKL",
-      "url": "https://t.co/MimbrjVFqj"
-     },
-     {
-      "description": "President Trump and the First Lady Host Halloween at the White House",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 233,
-      "expanded_url": "https://x.com/i/broadcasts/1nxnRBPOzNwxO",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115914728770097152/DYrKKLxc?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115914728770097152/DYrKKLxc?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 210,
-      "status": 200,
-      "title": "The White House",
-      "unwound_url": "https://x.com/i/broadcasts/1nxnRBPOzNwxO",
-      "url": "https://t.co/pq5DvBEXf0"
-     },
-     {
-      "display_url": "pic.x.com/fxUi8HY3U8",
-      "end": 257,
-      "expanded_url": "https://x.com/Scramblepad/status/2115919797292794075/photo/1",
-      "media_key": "3_2115919329116012544",
-      "start": 234,
-      "url": "https://t.co/fxUi8HY3U8"
-     }
-    ]
-   },
    "id": "2115919797292794075",
    "public_metrics": {
     "bookmark_count": 0,
@@ -639,87 +253,6 @@
    "edit_history_tweet_ids": [
     "2115920364157210848"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "President Trump and the First Lady Host Halloween at the White House",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 126,
-      "expanded_url": "https://x.com/i/broadcasts/1nxnRBPOzNwxO",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115914728770097152/DYrKKLxc?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115914728770097152/DYrKKLxc?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 103,
-      "status": 200,
-      "title": "The White House",
-      "unwound_url": "https://x.com/i/broadcasts/1nxnRBPOzNwxO",
-      "url": "https://t.co/pq5DvBEXf0"
-     },
-     {
-      "description": "The live stream could not be reached. The broadcast may be offline. White House Wire WH Wire Orange County Public Schools’ 8,000-student enrollment drop included 5,000 immigrants, data shows ◆ WATCH: President Trump Announces $8 Billion in Relief to Help Farmers with Diesel Costs ◆ Drill, baby drill! Americans want energy independence from foreign countries: poll ◆ 28 Charged In Noncitizen Voting Bust Hours After Leslie Stahl Says It’s Not An Issue ◆ Cleveland-Cliffs posts ‘strongest’ quarter in three",
-      "display_url": "whitehouse.gov/live/",
-      "end": 150,
-      "expanded_url": "https://www.whitehouse.gov/live/",
-      "images": [
-       {
-        "height": 628,
-        "url": "https://pbs.twimg.com/news_img/2114362176999677952/aes2RGbI?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2114362176999677952/aes2RGbI?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 127,
-      "status": 200,
-      "title": "Live News",
-      "unwound_url": "https://www.whitehouse.gov/live/",
-      "url": "https://t.co/Y2dwrC4QMM"
-     },
-     {
-      "description": "Join RSBN LIVE for complete coverage as President Trump & The First Lady host the 2026 Halloween at the White House. Tune in at 5 pm EDT on October 29, 2026. 10% Off Everything at All Family Pharmacy",
-      "display_url": "rumble.com/v7hioue-live-p…",
-      "end": 175,
-      "expanded_url": "https://rumble.com/v7hioue-live-president-trump-and-first-lady-melania-trump-host-white-house-hallowee.html",
-      "images": [
-       {
-        "height": 360,
-        "url": "https://pbs.twimg.com/news_img/2115496930872635392/XS6JbJ6t?format=jpg&name=orig",
-        "width": 640
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115496930872635392/XS6JbJ6t?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 152,
-      "status": 200,
-      "title": "LIVE: President Trump & First Lady Melania Trump Host White House Halloween Celebration - 10/29/26",
-      "unwound_url": "https://rumble.com/v7hioue-live-president-trump-and-first-lady-melania-trump-host-white-house-hallowee.html",
-      "url": "https://t.co/wg5hoSJAQ9"
-     },
-     {
-      "display_url": "pic.x.com/cpOiFYJtfC",
-      "end": 216,
-      "expanded_url": "https://x.com/Scramblepad/status/2115920364157210848/photo/1",
-      "media_key": "3_2115919886526316545",
-      "start": 193,
-      "url": "https://t.co/cpOiFYJtfC"
-     }
-    ]
-   },
    "id": "2115920364157210848",
    "public_metrics": {
     "bookmark_count": 0,
@@ -733,91 +266,19 @@
    "url": "https://x.com/Scramblepad/status/2115920364157210848"
   },
   {
-   "author_id": "23642374",
-   "created_at": "2026-10-29T19:11:29.000Z",
-   "edit_history_tweet_ids": [
-    "2115884244660801705"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Seahawks Press Conference - October 29, 2026",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 68,
-      "expanded_url": "https://x.com/i/broadcasts/1qKDzWNramAJV",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115884246984429568/SavD4K4U?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115884246984429568/SavD4K4U?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 45,
-      "status": 200,
-      "title": "Seattle Seahawks",
-      "unwound_url": "https://x.com/i/broadcasts/1qKDzWNramAJV",
-      "url": "https://t.co/NU13LfyVr1"
-     }
-    ]
-   },
-   "id": "2115884244660801705",
-   "public_metrics": {
-    "bookmark_count": 16,
-    "impression_count": 22039,
-    "like_count": 207,
-    "quote_count": 3,
-    "reply_count": 1,
-    "retweet_count": 11
-   },
-   "text": "Seahawks Press Conference - October 29, 2026 https://t.co/NU13LfyVr1",
-   "url": "https://x.com/Seahawks/status/2115884244660801705"
-  },
-  {
    "author_id": "15647676",
    "created_at": "2026-10-29T20:11:49.000Z",
    "edit_history_tweet_ids": [
     "2115899424983429505"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "WATCH: Secretary Mullin Holds Press Conference Highlighting the Success of Operation Lone Star Mission",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 126,
-      "expanded_url": "https://x.com/i/broadcasts/2brnAgWJXlVoJL",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115899714281295872/4b-KStJP?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115899714281295872/4b-KStJP?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 103,
-      "status": 200,
-      "title": "Homeland Security",
-      "unwound_url": "https://x.com/i/broadcasts/2brnAgWJXlVoJL",
-      "url": "https://t.co/svCvhAHVQv"
-     }
-    ]
-   },
    "id": "2115899424983429505",
    "public_metrics": {
     "bookmark_count": 9,
-    "impression_count": 14337,
-    "like_count": 193,
+    "impression_count": 14819,
+    "like_count": 202,
     "quote_count": 2,
-    "reply_count": 15,
-    "retweet_count": 52
+    "reply_count": 16,
+    "retweet_count": 55
    },
    "text": "WATCH: Secretary Mullin Holds Press Conference Highlighting the Success of Operation Lone Star Mission https://t.co/svCvhAHVQv",
    "url": "https://x.com/DHSgov/status/2115899424983429505"
@@ -828,37 +289,10 @@
    "edit_history_tweet_ids": [
     "2115921456731217995"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Trump, First Lady Celebrate Halloween at White House",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 76,
-      "expanded_url": "https://x.com/i/broadcasts/2brnAqolOmAEBX",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115921499873849344/4bmzyHGK?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115921499873849344/4bmzyHGK?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 53,
-      "status": 200,
-      "title": "NTD",
-      "unwound_url": "https://x.com/i/broadcasts/2brnAqolOmAEBX",
-      "url": "https://t.co/thw5zXD1C1"
-     }
-    ]
-   },
    "id": "2115921456731217995",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 36,
+    "impression_count": 58,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -873,37 +307,10 @@
    "edit_history_tweet_ids": [
     "2115916406760030256"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "WATCH LIVE: Trumps host Halloween celebration at the White House",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 88,
-      "expanded_url": "https://x.com/i/broadcasts/1oJMvNPOlEjxQ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115916409150767104/5p9Dkyzp?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115916409150767104/5p9Dkyzp?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 65,
-      "status": 200,
-      "title": "PBS News",
-      "unwound_url": "https://x.com/i/broadcasts/1oJMvNPOlEjxQ",
-      "url": "https://t.co/A8oMrrWBzC"
-     }
-    ]
-   },
    "id": "2115916406760030256",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2442,
+    "impression_count": 2893,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 6,
@@ -918,43 +325,16 @@
    "edit_history_tweet_ids": [
     "2115897045097587198"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 250,
-      "expanded_url": "https://x.com/i/broadcasts/2mdjJEbeVMdkZk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115848778934558720/Q2Si44fZ?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115848778934558720/Q2Si44fZ?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 227,
-      "status": 200,
-      "title": "Alex Jones Network",
-      "unwound_url": "https://x.com/i/broadcasts/2mdjJEbeVMdkZk",
-      "url": "https://t.co/H9i1MX7FLp"
-     }
-    ]
-   },
    "id": "2115897045097587198",
    "public_metrics": {
     "bookmark_count": 3,
-    "impression_count": 22026,
-    "like_count": 24,
+    "impression_count": 23052,
+    "like_count": 26,
     "quote_count": 0,
     "reply_count": 11,
-    "retweet_count": 8
+    "retweet_count": 10
    },
-   "text": "✬✬✬✬✬ WAR ROOM LIVE: Hegseth Fires Pentagon’s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options – TUNE IN/SHARE! https://t.co/H9i1MX7FLp",
+   "text": "\u272c\u272c\u272c\u272c\u272c WAR ROOM LIVE: Hegseth Fires Pentagon\u2019s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options \u2013 TUNE IN/SHARE! https://t.co/H9i1MX7FLp",
    "url": "https://x.com/RealAlexJones/status/2115897045097587198"
   },
   {
@@ -963,43 +343,16 @@
    "edit_history_tweet_ids": [
     "2115896881117384742"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 250,
-      "expanded_url": "https://x.com/i/broadcasts/2mdjJEbeVMdkZk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115848778934558720/Q2Si44fZ?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115848778934558720/Q2Si44fZ?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 227,
-      "status": 200,
-      "title": "Alex Jones Network",
-      "unwound_url": "https://x.com/i/broadcasts/2mdjJEbeVMdkZk",
-      "url": "https://t.co/Jmi2DGvRdv"
-     }
-    ]
-   },
    "id": "2115896881117384742",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 13489,
-    "like_count": 15,
+    "impression_count": 14082,
+    "like_count": 16,
     "quote_count": 0,
     "reply_count": 6,
     "retweet_count": 10
    },
-   "text": "✬✬✬✬✬ War Room LIVE: Hegseth Fires Pentagon’s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options – TUNE IN/SHARE! https://t.co/Jmi2DGvRdv",
+   "text": "\u272c\u272c\u272c\u272c\u272c War Room LIVE: Hegseth Fires Pentagon\u2019s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options \u2013 TUNE IN/SHARE! https://t.co/Jmi2DGvRdv",
    "url": "https://x.com/AJNlive/status/2115896881117384742"
   },
   {
@@ -1008,43 +361,16 @@
    "edit_history_tweet_ids": [
     "2115897237079457842"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 259,
-      "expanded_url": "https://x.com/i/broadcasts/2mdjJEbeVMdkZk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115848778934558720/Q2Si44fZ?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115848778934558720/Q2Si44fZ?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 236,
-      "status": 200,
-      "title": "Alex Jones Network",
-      "unwound_url": "https://x.com/i/broadcasts/2mdjJEbeVMdkZk",
-      "url": "https://t.co/U9vY15bMje"
-     }
-    ]
-   },
    "id": "2115897237079457842",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 518,
+    "impression_count": 538,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 3
    },
-   "text": "✬✬✬✬✬ Thursday War Room LIVE: Hegseth Fires Pentagon’s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options – TUNE IN/SHARE! https://t.co/U9vY15bMje",
+   "text": "\u272c\u272c\u272c\u272c\u272c Thursday War Room LIVE: Hegseth Fires Pentagon\u2019s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options \u2013 TUNE IN/SHARE! https://t.co/U9vY15bMje",
    "url": "https://x.com/WarRoomShow/status/2115897237079457842"
   },
   {
@@ -1053,43 +379,16 @@
    "edit_history_tweet_ids": [
     "2115896699436810527"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "ALEX JONES LIVE: US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 261,
-      "expanded_url": "https://x.com/i/broadcasts/2WXVkRAlzaZMZq",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115836522746294272/WdkG__1X?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115836522746294272/WdkG__1X?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 238,
-      "status": 200,
-      "title": "INFOWARS",
-      "unwound_url": "https://x.com/i/broadcasts/2WXVkRAlzaZMZq",
-      "url": "https://t.co/bYRT1h4XBg"
-     }
-    ]
-   },
    "id": "2115896699436810527",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 12970,
-    "like_count": 18,
-    "quote_count": 0,
+    "impression_count": 14185,
+    "like_count": 21,
+    "quote_count": 1,
     "reply_count": 2,
-    "retweet_count": 9
+    "retweet_count": 10
    },
-   "text": "✬✬✬✬✬ Thursday War Room LIVE: Hegseth Fires Pentagon’s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options – TUNE IN/SHARE! \n\nhttps://t.co/bYRT1h4XBg",
+   "text": "\u272c\u272c\u272c\u272c\u272c Thursday War Room LIVE: Hegseth Fires Pentagon\u2019s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options \u2013 TUNE IN/SHARE! \n\nhttps://t.co/bYRT1h4XBg",
    "url": "https://x.com/infowars/status/2115896699436810527"
   },
   {
@@ -1098,41 +397,14 @@
    "edit_history_tweet_ids": [
     "2115918693683040613"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: President Trump Holds Election Rally in South Carolina as Midterm Battle Heats Up | USA | America",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 127,
-      "expanded_url": "https://x.com/i/broadcasts/2YRYPoOqgMAzLp",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115918738071375872/1upStiIE?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115918738071375872/1upStiIE?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 104,
-      "status": 200,
-      "title": "ANI",
-      "unwound_url": "https://x.com/i/broadcasts/2YRYPoOqgMAzLp",
-      "url": "https://t.co/Ulh0ZZ4P0i"
-     }
-    ]
-   },
    "id": "2115918693683040613",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 7513,
-    "like_count": 4,
+    "bookmark_count": 1,
+    "impression_count": 7888,
+    "like_count": 6,
     "quote_count": 0,
     "reply_count": 1,
-    "retweet_count": 0
+    "retweet_count": 1
    },
    "text": "LIVE: President Trump Holds Election Rally in South Carolina as Midterm Battle Heats Up | USA | America https://t.co/Ulh0ZZ4P0i",
    "url": "https://x.com/ANI/status/2115918693683040613"
@@ -1143,110 +415,53 @@
    "edit_history_tweet_ids": [
     "2115907562562572548"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Trump Defends Ramaswamy as GOP Poll Shows Acton Up 8 — Cincinnati & Ohio News #ericdeterslocalnews#ohionews#cincinnati#patrickrosemond#cincinnatibrawl#walnuthills#hamiltoncounty#election",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 214,
-      "expanded_url": "https://x.com/i/broadcasts/1OxwbndQPdbJB",
-      "start": 191,
-      "status": 200,
-      "title": "Eric Deters",
-      "unwound_url": "https://x.com/i/broadcasts/1OxwbndQPdbJB",
-      "url": "https://t.co/lh7100XEUu"
-     }
-    ]
-   },
    "id": "2115907562562572548",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 257,
+    "impression_count": 284,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Trump Defends Ramaswamy as GOP Poll Shows Acton Up 8 — Cincinnati &amp; Ohio News #ericdeterslocalnews#ohionews#cincinnati#patrickrosemond#cincinnatibrawl#walnuthills#hamiltoncounty#election https://t.co/lh7100XEUu",
+   "text": "Trump Defends Ramaswamy as GOP Poll Shows Acton Up 8 \u2014 Cincinnati &amp; Ohio News #ericdeterslocalnews#ohionews#cincinnati#patrickrosemond#cincinnatibrawl#walnuthills#hamiltoncounty#election https://t.co/lh7100XEUu",
    "url": "https://x.com/bulllaw/status/2115907562562572548"
   },
   {
-   "author_id": "1334358077131276289",
-   "created_at": "2026-10-29T19:00:32.000Z",
+   "author_id": "22455409",
+   "created_at": "2026-10-29T19:26:21.000Z",
    "edit_history_tweet_ids": [
-    "2115881488168411271"
+    "2115887985598296182"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Man Pretending to be Female Caught on Video Stealing Campaign Signs - CA Politics - News - More",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 119,
-      "expanded_url": "https://x.com/i/broadcasts/2zkmEzLzWeKmYq",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115881530656800768/oUEDL2Mz?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115881530656800768/oUEDL2Mz?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 96,
-      "status": 200,
-      "title": "Oreo Express",
-      "unwound_url": "https://x.com/i/broadcasts/2zkmEzLzWeKmYq",
-      "url": "https://t.co/sqiW2z5ImA"
-     }
-    ]
-   },
-   "id": "2115881488168411271",
+   "id": "2115887985598296182",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 497,
-    "like_count": 11,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "Man Pretending to be Female Caught on Video Stealing Campaign Signs - CA Politics - News - More https://t.co/sqiW2z5ImA",
-   "url": "https://x.com/OreoExpress/status/2115881488168411271"
-  },
-  {
-   "author_id": "1832972046785228801",
-   "created_at": "2026-10-29T19:07:34.000Z",
-   "edit_history_tweet_ids": [
-    "2115883258399641640"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Debate Me - What's Your Beef with TRUMP?",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 64,
-      "expanded_url": "https://x.com/i/broadcasts/1DGleVAMMVNJL",
-      "start": 41,
-      "status": 200,
-      "title": "Rep America",
-      "unwound_url": "https://x.com/i/broadcasts/1DGleVAMMVNJL",
-      "url": "https://t.co/KJg1kg990i"
-     }
-    ]
-   },
-   "id": "2115883258399641640",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 11,
+    "impression_count": 206,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Debate Me - What's Your Beef with TRUMP? https://t.co/KJg1kg990i",
-   "url": "https://x.com/RepAmericaTV/status/2115883258399641640"
+   "text": "Economy Surges as Inflation Bites \u2014 China Purges Top Military Leaders | Eric Deters Show National #ericdetersshow#midtermelections#doj#alaskasenaterace#gdpgrowth#inflation#chinamilitaryleaders#trump#politics https://t.co/V6YRQjt46H",
+   "url": "https://x.com/bulllaw/status/2115887985598296182"
+  },
+  {
+   "author_id": "1702750026986921985",
+   "created_at": "2026-10-29T20:07:05.000Z",
+   "edit_history_tweet_ids": [
+    "2115898236569563480"
+   ],
+   "id": "2115898236569563480",
+   "public_metrics": {
+    "bookmark_count": 5,
+    "impression_count": 8749,
+    "like_count": 81,
+    "quote_count": 3,
+    "reply_count": 15,
+    "retweet_count": 26
+   },
+   "text": "Obama Rallies Drawing More Than Trump Rallies As Control Of Congress Hangs In The Balance At Midterms https://t.co/4hsBOkCduk",
+   "url": "https://x.com/OwenShroyer1776/status/2115898236569563480"
   }
  ],
  "users": [
@@ -1259,7 +474,7 @@
     "like_count": 13,
     "listed_count": 1,
     "media_count": 3776,
-    "tweet_count": 4102
+    "tweet_count": 4103
    },
    "username": "meawwcom",
    "verified": true,
@@ -1269,7 +484,7 @@
    "id": "1879644163769335808",
    "name": "The White House",
    "public_metrics": {
-    "followers_count": 5337265,
+    "followers_count": 5337301,
     "following_count": 5,
     "like_count": 269,
     "listed_count": 9435,
@@ -1297,14 +512,14 @@
   },
   {
    "id": "4041824789",
-   "name": "RSBN 🇺🇸",
+   "name": "RSBN \ud83c\uddfa\ud83c\uddf8",
    "public_metrics": {
-    "followers_count": 1163160,
+    "followers_count": 1163165,
     "following_count": 977,
     "like_count": 12299,
     "listed_count": 2986,
-    "media_count": 17017,
-    "tweet_count": 49782
+    "media_count": 17018,
+    "tweet_count": 49784
    },
    "username": "RSBNetwork",
    "verified": true,
@@ -1326,23 +541,8 @@
    "verified_type": "blue"
   },
   {
-   "id": "796431922939494408",
-   "name": "FLOTUS Report",
-   "public_metrics": {
-    "followers_count": 198228,
-    "following_count": 628,
-    "like_count": 34319,
-    "listed_count": 294,
-    "media_count": 5758,
-    "tweet_count": 16025
-   },
-   "username": "MELANIAJTRUMP",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "61011257",
-   "name": "James Rossi 🇺🇸",
+   "name": "James Rossi \ud83c\uddfa\ud83c\uddf8",
    "public_metrics": {
     "followers_count": 5893,
     "following_count": 7294,
@@ -1352,6 +552,36 @@
     "tweet_count": 294247
    },
    "username": "realjamesrossi",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "796431922939494408",
+   "name": "FLOTUS Report",
+   "public_metrics": {
+    "followers_count": 198233,
+    "following_count": 629,
+    "like_count": 34319,
+    "listed_count": 294,
+    "media_count": 5762,
+    "tweet_count": 16029
+   },
+   "username": "MELANIAJTRUMP",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2029725690371903488",
+   "name": "Asao_no_Friend\ud83c\uddef\ud83c\uddf5\ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7",
+   "public_metrics": {
+    "followers_count": 42,
+    "following_count": 361,
+    "like_count": 208,
+    "listed_count": 0,
+    "media_count": 543,
+    "tweet_count": 9104
+   },
+   "username": "asaonofriend",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1374,7 +604,7 @@
    "id": "1060573081935249409",
    "name": "NTD News",
    "public_metrics": {
-    "followers_count": 89299,
+    "followers_count": 89298,
     "following_count": 32,
     "like_count": 31560,
     "listed_count": 715,
@@ -1401,25 +631,10 @@
    "verified_type": "none"
   },
   {
-   "id": "23642374",
-   "name": "Seattle Seahawks",
-   "public_metrics": {
-    "followers_count": 2427002,
-    "following_count": 1021,
-    "like_count": 25201,
-    "listed_count": 10046,
-    "media_count": 35783,
-    "tweet_count": 104083
-   },
-   "username": "Seahawks",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
    "id": "15647676",
    "name": "Homeland Security",
    "public_metrics": {
-    "followers_count": 3018014,
+    "followers_count": 3018030,
     "following_count": 218,
     "like_count": 3168,
     "listed_count": 14358,
@@ -1449,12 +664,12 @@
    "id": "14437914",
    "name": "PBS News",
    "public_metrics": {
-    "followers_count": 1222738,
+    "followers_count": 1222737,
     "following_count": 79401,
     "like_count": 18578,
     "listed_count": 14137,
     "media_count": 37889,
-    "tweet_count": 283187
+    "tweet_count": 283188
    },
    "username": "NewsHour",
    "verified": true,
@@ -1464,12 +679,12 @@
    "id": "109065990",
    "name": "Alex Jones",
    "public_metrics": {
-    "followers_count": 4435071,
+    "followers_count": 4435075,
     "following_count": 1125,
     "like_count": 53766,
     "listed_count": 12777,
-    "media_count": 25078,
-    "tweet_count": 96199
+    "media_count": 25079,
+    "tweet_count": 96200
    },
    "username": "RealAlexJones",
    "verified": true,
@@ -1479,12 +694,12 @@
    "id": "1835652531826913280",
    "name": "Alex Jones Network",
    "public_metrics": {
-    "followers_count": 368917,
+    "followers_count": 368911,
     "following_count": 356,
     "like_count": 4839,
     "listed_count": 588,
-    "media_count": 2473,
-    "tweet_count": 7777
+    "media_count": 2475,
+    "tweet_count": 7779
    },
    "username": "AJNlive",
    "verified": true,
@@ -1498,8 +713,8 @@
     "following_count": 552,
     "like_count": 7107,
     "listed_count": 195,
-    "media_count": 2589,
-    "tweet_count": 12783
+    "media_count": 2590,
+    "tweet_count": 12784
    },
    "username": "WarRoomShow",
    "verified": false,
@@ -1509,12 +724,12 @@
    "id": "14505245",
    "name": "INFOWARS",
    "public_metrics": {
-    "followers_count": 703697,
+    "followers_count": 703691,
     "following_count": 1575,
-    "like_count": 22109,
+    "like_count": 22111,
     "listed_count": 2808,
-    "media_count": 12888,
-    "tweet_count": 77558
+    "media_count": 12889,
+    "tweet_count": 77559
    },
    "username": "infowars",
    "verified": true,
@@ -1524,12 +739,12 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9490934,
+    "followers_count": 9490935,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7875,
-    "media_count": 751390,
-    "tweet_count": 1182858
+    "media_count": 751391,
+    "tweet_count": 1182859
    },
    "username": "ANI",
    "verified": true,
@@ -1539,44 +754,29 @@
    "id": "22455409",
    "name": "Eric Deters",
    "public_metrics": {
-    "followers_count": 27403,
+    "followers_count": 27404,
     "following_count": 3794,
     "like_count": 7403,
     "listed_count": 55,
-    "media_count": 23399,
-    "tweet_count": 70553
+    "media_count": 23400,
+    "tweet_count": 70554
    },
    "username": "bulllaw",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1334358077131276289",
-   "name": "Oreo Express",
+   "id": "1702750026986921985",
+   "name": "Owen Shroyer",
    "public_metrics": {
-    "followers_count": 37377,
-    "following_count": 3810,
-    "like_count": 6897,
-    "listed_count": 234,
-    "media_count": 4992,
-    "tweet_count": 35656
+    "followers_count": 471781,
+    "following_count": 797,
+    "like_count": 30707,
+    "listed_count": 1373,
+    "media_count": 3463,
+    "tweet_count": 19379
    },
-   "username": "OreoExpress",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1832972046785228801",
-   "name": "Rep America",
-   "public_metrics": {
-    "followers_count": 179,
-    "following_count": 175,
-    "like_count": 351,
-    "listed_count": 1,
-    "media_count": 222,
-    "tweet_count": 467
-   },
-   "username": "RepAmericaTV",
+   "username": "OwenShroyer1776",
    "verified": true,
    "verified_type": "blue"
   }
