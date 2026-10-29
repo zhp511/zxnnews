@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-29T11:44:15Z",
- "searched_at": "2026-10-29T11:44:00Z",
+ "built_at": "2026-10-29T11:59:37Z",
+ "searched_at": "2026-10-29T11:59:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,6 +55,26 @@
    "assumed_live_until": "2026-10-29T13:32:39Z"
   },
   {
+   "post_id": "2115743600881344854",
+   "post_url": "https://x.com/anadoluagency/status/2115743600881344854",
+   "name": "Anadolu English",
+   "username": "anadoluagency",
+   "verified_type": "business",
+   "text": "🔴 LIVE: Turkish President Recep Tayyip Erdogan receives Republic Day congratulations at Presidential Complex in Ankara https://t.co/HTvIuT2NQK",
+   "started_at": "2026-10-29T09:52:37.000Z",
+   "assumed_live_until": "2026-10-29T12:52:37Z"
+  },
+  {
+   "post_id": "2115775411002962253",
+   "post_url": "https://x.com/stockplaymaker1/status/2115775411002962253",
+   "name": "Stock PlayMaker 🌐",
+   "username": "stockplaymaker1",
+   "verified_type": "blue",
+   "text": "JOIN THE PLAYMAKERS LIVE SHOW... NEWS/RECAPS/RUNNERS https://t.co/zEuX8mahWq",
+   "started_at": "2026-10-29T11:59:01.000Z",
+   "assumed_live_until": "2026-10-29T14:59:01Z"
+  },
+  {
    "post_id": "2115752590130729254",
    "post_url": "https://x.com/Channel1TVGHA/status/2115752590130729254",
    "name": "ChannelOne TV",
@@ -63,26 +83,6 @@
    "text": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 29th October 2026 https://t.co/P2IPU5QHn6",
    "started_at": "2026-10-29T10:28:20.000Z",
    "assumed_live_until": "2026-10-29T13:28:20Z"
-  },
-  {
-   "post_id": "2115746230513078541",
-   "post_url": "https://x.com/620wtmj/status/2115746230513078541",
-   "name": "620 WTMJ",
-   "username": "620wtmj",
-   "verified_type": "blue",
-   "text": "Your Milwaukee Brewers Are World Series Champions! Wisconsin's Morning News is on the air to 10a! Moment of Brew & The Best Sound from Celebrations | 10/29/26 https://t.co/mJqsm4vymN",
-   "started_at": "2026-10-29T10:03:04.000Z",
-   "assumed_live_until": "2026-10-29T13:03:04Z"
-  },
-  {
-   "post_id": "2115747808678498496",
-   "post_url": "https://x.com/trtafrika/status/2115747808678498496",
-   "name": "TRT Afrika",
-   "username": "trtafrika",
-   "verified_type": "business",
-   "text": "LIVE: Turkish President Recep Tayyip Erdogan receives Republic Day congratulations at the Presidential Complex in Ankara https://t.co/Yit4dfWcPJ",
-   "started_at": "2026-10-29T10:09:20.000Z",
-   "assumed_live_until": "2026-10-29T13:09:20Z"
   }
  ]
 }
