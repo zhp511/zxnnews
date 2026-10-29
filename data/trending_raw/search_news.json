@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T20:56:55Z",
+ "fetched_at": "2026-10-29T21:59:30Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -8,6 +8,131 @@
   "news.fields": "name,summary,hook,category,updated_at,contexts,cluster_posts_results"
  },
  "data": [
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2115870806337368125"
+    },
+    {
+     "post_id": "2115623563440894171"
+    },
+    {
+     "post_id": "2115837773123027059"
+    },
+    {
+     "post_id": "2115772425216331826"
+    },
+    {
+     "post_id": "2115870806337368125"
+    },
+    {
+     "post_id": "2115837773123027059"
+    },
+    {
+     "post_id": "2115802167324065895"
+    },
+    {
+     "post_id": "2115908103099072688"
+    },
+    {
+     "post_id": "2115870597960135025"
+    },
+    {
+     "post_id": "2115863040210169902"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Democratic Party",
+      "Republican Party"
+     ],
+     "people": [
+      "Terrence Williams"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "TifahCrump777 put it bluntly: voting Democrat as a Black person feels 'stupid asf' without real policies in return. Her post has people sharing frustrations built up over years of strong support.",
+   "id": "2115845800576065545",
+   "name": "Black Voters Question Automatic Democratic Loyalty Ahead of 2026 Midterms",
+   "summary": "Black users on X are debating whether to keep backing Democrats or demand policies that deliver on economic opportunity, housing, and safety. Critics like TifahCrump777 call out the party's outreach as embarrassing and push for choices based on results, not assumptions. Others highlight shortcomings in both parties and stress voting for concrete benefits, echoing real-world calls from New Jersey leaders for better access to contracts and resources. With midterms nearing, the talk focuses on accountability and what progress truly means for Black communities.",
+   "updated_at": "2026-10-29T19:53:08.000Z",
+   "url": "https://x.com/i/trending/2115845800576065545"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2115842296641978801"
+    },
+    {
+     "post_id": "2115746199076487207"
+    },
+    {
+     "post_id": "2115840010129641884"
+    },
+    {
+     "post_id": "2115865483790688256"
+    },
+    {
+     "post_id": "2115836308966801745"
+    },
+    {
+     "post_id": "2115842296641978801"
+    },
+    {
+     "post_id": "2115840010129641884"
+    },
+    {
+     "post_id": "2115842219974250614"
+    },
+    {
+     "post_id": "2115865483790688256"
+    },
+    {
+     "post_id": "2115835386572460199"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A simple graphic lists Democratic ideas like Medicare for All, free college, and affordable housing. It quickly turned into a battleground of memes and pointed questions about the party's vision.",
+   "id": "2115911595511455777",
+   "name": "Democrats' Policy List Divides Opinions on Medicare for All and Free College",
+   "summary": "The image outlines progressive proposals that House Democrats plan to vote on next year to build election momentum. Critics call out potential tax hikes and government overreach, with one user asking what Democrats offer beyond opposing Trump. Supporters counter that it's about expanding healthcare and education access, backed by polls showing two-thirds of Americans favor a national health plan—though support wanes with talk of taxes or delays. The exchange highlights partisan splits on government's role in everyday costs like housing and tuition.",
+   "updated_at": "2026-10-29T21:09:27.000Z",
+   "url": "https://x.com/i/trending/2115911595511455777"
+  },
   {
    "category": "News",
    "cluster_posts_results": [
@@ -71,6 +196,73 @@
    "summary": "On Kara Swisher's podcast, Clinton described a Democratic Congress using investigations to hold Trump accountable, amid tight midterm races for House and Senate control on November 3. Reactions split sharply: supporters see it as reversing economic harms from tariffs, inflation, and a costly war, while critics call it political retribution over real priorities like lowering costs and safety. The exchanges highlight partisan divides on oversight versus payback as early voting ramps up.",
    "updated_at": "2026-10-29T12:41:26.000Z",
    "url": "https://x.com/i/trending/2115784880550453285"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2115869008486629667"
+    },
+    {
+     "post_id": "2115872652946444786"
+    },
+    {
+     "post_id": "2115854009202315285"
+    },
+    {
+     "post_id": "2115851185513185689"
+    },
+    {
+     "post_id": "2115856009486811399"
+    },
+    {
+     "post_id": "2115869008486629667"
+    },
+    {
+     "post_id": "2115854009202315285"
+    },
+    {
+     "post_id": "2115872652946444786"
+    },
+    {
+     "post_id": "2115851185513185689"
+    },
+    {
+     "post_id": "2115856485721022669"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "U.S. Elections"
+     ],
+     "organizations": [
+      "Democrats",
+      "Republicans"
+     ],
+     "people": [
+      "Donald Trump"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Elections"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "With just five days until the November 3 midterms, supporters are sharing urgent posts under #BlueWaveIn5Days, showing crowds heading to polls and calling on everyone to vote early.",
+   "id": "2115914875134181471",
+   "name": "Democrats Rally Online for Blue Wave Five Days Before Midterms",
+   "summary": "Democratic backers highlight soaring costs for groceries, gas, housing, and prescriptions as key reasons to vote out Republicans, framing the election as a chance to address corruption and regain congressional control. Posts urge high turnout, with reminders of early voting already underway and millions of ballots cast amid national polls showing Democrats ahead by nine points. Videos of marching crowds and graphics of crashing waves toward the Capitol build momentum as both parties ramp up efforts in battleground states.",
+   "updated_at": "2026-10-29T21:20:19.000Z",
+   "url": "https://x.com/i/trending/2115914875134181471"
   },
   {
    "category": "News",
@@ -469,194 +661,6 @@
    "summary": "Online talks this week spotlight a shift where politics feels purely Schmittian—defined by existential friend-enemy distinctions without moral pretense. Users debate if past principles were ever real, with some welcoming the honesty as refreshingly Hobbesian, while others lament eroded faith in humanity and invoke Yeats' blood-dimmed tide. Amid eroding centrist support in Europe and the U.S., the exchanges question if this clarity sparks honest debate or deeper conflict.",
    "updated_at": "2026-10-29T15:30:36.000Z",
    "url": "https://x.com/i/trending/2115826678157156679"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115841057489371567"
-    },
-    {
-     "post_id": "2115810212716101813"
-    },
-    {
-     "post_id": "2115840771161227575"
-    },
-    {
-     "post_id": "2115855208005705794"
-    },
-    {
-     "post_id": "2115828675723538697"
-    },
-    {
-     "post_id": "2115841057489371567"
-    },
-    {
-     "post_id": "2115810212716101813"
-    },
-    {
-     "post_id": "2115840771161227575"
-    },
-    {
-     "post_id": "2115828675723538697"
-    },
-    {
-     "post_id": "2115842871362298037"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [
-      "Mike Johnson"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "On October 29, Speaker Mike Johnson went on Fox News to rally Republicans ahead of the 2026 midterms, emphasizing lower costs and tax cuts amid a flurry of online rebuttals.",
-   "id": "2115892615841272082",
-   "name": "Speaker Johnson Touts GOP Record on Fox as Critics Challenge Economic Claims",
-   "summary": "Johnson highlighted Republican achievements like tax relief for families, safer streets, and energy dominance, posting on X that voters should judge on record over rhetoric. Critics fired back quickly, pointing to gas prices up 34 percent to about $4.22 per gallon and calling the claims misinformation. With polls showing Democrats ahead by 8 to 12 points on the generic ballot and Johnson campaigning in over 40 districts, economic perceptions stand out as a key battleground just days before Election Day.",
-   "updated_at": "2026-10-29T19:53:21.000Z",
-   "url": "https://x.com/i/trending/2115892615841272082"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115102392408494375"
-    },
-    {
-     "post_id": "2115110557384659443"
-    },
-    {
-     "post_id": "2115514003153670180"
-    },
-    {
-     "post_id": "2115102392408494375"
-    },
-    {
-     "post_id": "2115108188760514967"
-    },
-    {
-     "post_id": "2115108571126087987"
-    },
-    {
-     "post_id": "2115106689619804473"
-    },
-    {
-     "post_id": "2115514003153670180"
-    },
-    {
-     "post_id": "2115111625489363447"
-    },
-    {
-     "post_id": "2115110069029543977"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Democratic Party"
-     ],
-     "people": [
-      "Jon Ossoff"
-     ],
-     "places": [
-      "Georgia"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Elections"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "With early ballots pouring in from metro Atlanta, Sen. Jon Ossoff rallies supporters at packed events, eyeing a strong finish just days from Election Day.",
-   "id": "2115143792613576779",
-   "name": "Ossoff Leads Collins by Double Digits in Georgia Senate Race",
-   "summary": "A recent Echelon Insights poll of 508 likely voters shows Democratic Sen. Jon Ossoff at 55% against Republican Mike Collins's 40% in Georgia's U.S. Senate race, matching other surveys with an 8-to-11-point edge. The governor's race between Democrat Keisha Lance Bottoms and Republican Rick Jackson remains tight at 49% to 48%, while Democrats hold narrow leads in other statewide offices. Over 1.9 million Georgians have voted early as of Oct. 27, with models projecting Ossoff in the low-to-mid 50s, though Election Day votes may favor Republicans.",
-   "updated_at": "2026-10-28T22:31:49.000Z",
-   "url": "https://x.com/i/trending/2115143792613576779"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115870806337368125"
-    },
-    {
-     "post_id": "2115623563440894171"
-    },
-    {
-     "post_id": "2115837773123027059"
-    },
-    {
-     "post_id": "2115772425216331826"
-    },
-    {
-     "post_id": "2115870806337368125"
-    },
-    {
-     "post_id": "2115837773123027059"
-    },
-    {
-     "post_id": "2115802167324065895"
-    },
-    {
-     "post_id": "2115870597960135025"
-    },
-    {
-     "post_id": "2115859868582310349"
-    },
-    {
-     "post_id": "2115873163984970026"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "TifahCrump777 put it bluntly: voting Democrat as a Black person feels 'stupid asf' without real policies in return. Her post has people sharing frustrations built up over years of strong support.",
-   "id": "2115845800576065545",
-   "name": "Black Voters Question Automatic Democratic Loyalty Ahead of 2026 Midterms",
-   "summary": "Black users on X are debating whether to keep backing Democrats or demand policies that deliver on economic opportunity, housing, and safety. Critics like TifahCrump777 call out the party's outreach as embarrassing and push for choices based on results, not assumptions. Others highlight shortcomings in both parties and stress voting for concrete benefits, echoing real-world calls from New Jersey leaders for better access to contracts and resources. With midterms nearing, the talk focuses on accountability and what progress truly means for Black communities.",
-   "updated_at": "2026-10-29T19:53:08.000Z",
-   "url": "https://x.com/i/trending/2115845800576065545"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-29T21:39:54Z",
- "searched_at": "2026-10-29T21:39:30Z",
+ "built_at": "2026-10-29T21:59:26Z",
+ "searched_at": "2026-10-29T21:59:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,16 +35,6 @@
    "assumed_live_until": "2026-10-30T00:28:23Z"
   },
   {
-   "post_id": "2115916406760030256",
-   "post_url": "https://x.com/NewsHour/status/2115916406760030256",
-   "name": "PBS News",
-   "username": "NewsHour",
-   "verified_type": "blue",
-   "text": "WATCH LIVE: Trumps host Halloween celebration at the White House https://t.co/A8oMrrWBzC",
-   "started_at": "2026-10-29T21:19:17.000Z",
-   "assumed_live_until": "2026-10-30T00:19:17Z"
-  },
-  {
    "post_id": "2115915910158647463",
    "post_url": "https://x.com/MELANIAJTRUMP/status/2115915910158647463",
    "name": "FLOTUS Report",
@@ -53,6 +43,16 @@
    "text": "LIVE: President Trump and First Lady Melania Host Halloween at the White House 🎃 https://t.co/hLJiqR4A1h",
    "started_at": "2026-10-29T21:17:19.000Z",
    "assumed_live_until": "2026-10-30T00:17:19Z"
+  },
+  {
+   "post_id": "2115916406760030256",
+   "post_url": "https://x.com/NewsHour/status/2115916406760030256",
+   "name": "PBS News",
+   "username": "NewsHour",
+   "verified_type": "blue",
+   "text": "WATCH LIVE: Trumps host Halloween celebration at the White House https://t.co/A8oMrrWBzC",
+   "started_at": "2026-10-29T21:19:17.000Z",
+   "assumed_live_until": "2026-10-30T00:19:17Z"
   },
   {
    "post_id": "2115897237079457842",

@@ -1,16 +1,26 @@
 {
- "built_at": "2026-10-29T20:56:55Z",
- "news_fetched_at": "2026-10-29T20:56:55Z",
- "trends_fetched_at": "2026-10-29T20:56:55Z",
+ "built_at": "2026-10-29T21:59:26Z",
+ "news_fetched_at": "2026-10-29T21:59:30Z",
+ "trends_fetched_at": "2026-10-29T21:59:30Z",
  "source": "X News (x.search_news) and US trends (x.get_trends_by_woeid 23424977). Story summaries are written by X/Grok from posts on X and may evolve.",
  "stories": [
   {
-   "id": "2115892615841272082",
-   "headline": "Speaker Johnson Touts GOP Record on Fox as Critics Challenge Economic Claims",
-   "hook": "On October 29, Speaker Mike Johnson went on Fox News to rally Republicans ahead of the 2026 midterms, emphasizing lower costs and tax cuts amid a flurry of online rebuttals.",
-   "summary": "Johnson highlighted Republican achievements like tax relief for families, safer streets, and energy dominance, posting on X that voters should judge on record over rhetoric. Critics fired back quickly, pointing to gas prices up 34 percent to about $4.22 per gallon and calling the claims misinformation. With polls showing Democrats ahead by 8 to 12 points on the generic ballot and Johnson campaigning in over 40 districts, economic perceptions stand out as a key battleground just days before Election Day.",
-   "updated_at": "2026-10-29T19:53:21.000Z",
-   "url": "https://x.com/i/trending/2115892615841272082",
+   "id": "2115914875134181471",
+   "headline": "Democrats Rally Online for Blue Wave Five Days Before Midterms",
+   "hook": "With just five days until the November 3 midterms, supporters are sharing urgent posts under #BlueWaveIn5Days, showing crowds heading to polls and calling on everyone to vote early.",
+   "summary": "Democratic backers highlight soaring costs for groceries, gas, housing, and prescriptions as key reasons to vote out Republicans, framing the election as a chance to address corruption and regain congressional control. Posts urge high turnout, with reminders of early voting already underway and millions of ballots cast amid national polls showing Democrats ahead by nine points. Videos of marching crowds and graphics of crashing waves toward the Capitol build momentum as both parties ramp up efforts in battleground states.",
+   "updated_at": "2026-10-29T21:20:19.000Z",
+   "url": "https://x.com/i/trending/2115914875134181471",
+   "topics": [],
+   "post_urls": []
+  },
+  {
+   "id": "2115911595511455777",
+   "headline": "Democrats' Policy List Divides Opinions on Medicare for All and Free College",
+   "hook": "A simple graphic lists Democratic ideas like Medicare for All, free college, and affordable housing. It quickly turned into a battleground of memes and pointed questions about the party's vision.",
+   "summary": "The image outlines progressive proposals that House Democrats plan to vote on next year to build election momentum. Critics call out potential tax hikes and government overreach, with one user asking what Democrats offer beyond opposing Trump. Supporters counter that it's about expanding healthcare and education access, backed by polls showing two-thirds of Americans favor a national health plan—though support wanes with talk of taxes or delays. The exchange highlights partisan splits on government's role in everyday costs like housing and tuition.",
+   "updated_at": "2026-10-29T21:09:27.000Z",
+   "url": "https://x.com/i/trending/2115911595511455777",
    "topics": [],
    "post_urls": []
   },
@@ -73,19 +83,13 @@
    "url": "https://x.com/i/trending/2115603817639403603",
    "topics": [],
    "post_urls": []
-  },
-  {
-   "id": "2115143792613576779",
-   "headline": "Ossoff Leads Collins by Double Digits in Georgia Senate Race",
-   "hook": "With early ballots pouring in from metro Atlanta, Sen. Jon Ossoff rallies supporters at packed events, eyeing a strong finish just days from Election Day.",
-   "summary": "A recent Echelon Insights poll of 508 likely voters shows Democratic Sen. Jon Ossoff at 55% against Republican Mike Collins's 40% in Georgia's U.S. Senate race, matching other surveys with an 8-to-11-point edge. The governor's race between Democrat Keisha Lance Bottoms and Republican Rick Jackson remains tight at 49% to 48%, while Democrats hold narrow leads in other statewide offices. Over 1.9 million Georgians have voted early as of Oct. 27, with models projecting Ossoff in the low-to-mid 50s, though Election Day votes may favor Republicans.",
-   "updated_at": "2026-10-28T22:31:49.000Z",
-   "url": "https://x.com/i/trending/2115143792613576779",
-   "topics": [],
-   "post_urls": []
   }
  ],
  "trends": [
+  {
+   "name": "Patrick Stewart",
+   "url": "https://x.com/search?q=Patrick%20Stewart"
+  },
   {
    "name": "Patrick Stewart",
    "url": "https://x.com/search?q=Patrick%20Stewart"
@@ -95,32 +99,44 @@
    "url": "https://x.com/search?q=Star%20Trek"
   },
   {
-   "name": "#VetClaimsAI",
-   "url": "https://x.com/search?q=%23VetClaimsAI"
+   "name": "Star Trek",
+   "url": "https://x.com/search?q=Star%20Trek"
   },
   {
-   "name": "Game 7",
-   "url": "https://x.com/search?q=Game%207"
+   "name": "Binance",
+   "url": "https://x.com/search?q=Binance"
   },
   {
    "name": "Doomsday",
    "url": "https://x.com/search?q=Doomsday"
   },
   {
-   "name": "American Dad",
-   "url": "https://x.com/search?q=American%20Dad"
+   "name": "#VetClaimsAI",
+   "url": "https://x.com/search?q=%23VetClaimsAI"
   },
   {
-   "name": "Simmons",
-   "url": "https://x.com/search?q=Simmons"
+   "name": "American Dad",
+   "url": "https://x.com/search?q=American%20Dad"
   },
   {
    "name": "Larkin",
    "url": "https://x.com/search?q=Larkin"
   },
   {
+   "name": "Game 7",
+   "url": "https://x.com/search?q=Game%207"
+  },
+  {
    "name": "Ian McKellen",
    "url": "https://x.com/search?q=Ian%20McKellen"
+  },
+  {
+   "name": "Simmons",
+   "url": "https://x.com/search?q=Simmons"
+  },
+  {
+   "name": "$INTC",
+   "url": "https://x.com/search?q=%24INTC"
   },
   {
    "name": "Avery Bullock",
@@ -129,22 +145,6 @@
   {
    "name": "$AMZN",
    "url": "https://x.com/search?q=%24AMZN"
-  },
-  {
-   "name": "$INTC",
-   "url": "https://x.com/search?q=%24INTC"
-  },
-  {
-   "name": "Bears",
-   "url": "https://x.com/search?q=Bears"
-  },
-  {
-   "name": "Alzheimer",
-   "url": "https://x.com/search?q=Alzheimer"
-  },
-  {
-   "name": "Earl Grey",
-   "url": "https://x.com/search?q=Earl%20Grey"
   }
  ]
 }
