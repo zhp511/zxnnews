@@ -2,22 +2,21 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-10-29T09:33:00Z",
+  "updated_at": "2026-10-29T10:32:25Z",
   "last_x_check": {
-    "at": "2026-10-29T09:33:00Z",
+    "at": "2026-10-29T10:32:25Z",
     "new_posts": 0,
     "xlive_refreshed": true,
-    "trending_refreshed": false,
+    "trending_refreshed": true,
     "tv_refreshed": false,
     "following_refreshed": false,
     "skipped": {
       "following": "featured_accounts empty",
-      "trending": "under 60 min old",
       "tv": "under 3 h old"
     },
     "published": true,
-    "note": "No new posts; X Live refreshed and published"
+    "note": "Trending and X Live refreshed; HomeSecConsult added to xlive_block_handles"
   },
-  "last_publish": "X Live",
-  "x_reads_left_today": "926 of 1000 (resets 2026-10-30T00:00Z)"
+  "last_publish": "Trending + X Live",
+  "x_reads_left_today": "910 of 1000 (resets 2026-10-30T00:00Z)"
 }
