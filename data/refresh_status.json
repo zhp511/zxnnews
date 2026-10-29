@@ -2,22 +2,22 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-10-29T12:22:39Z",
+  "updated_at": "2026-10-29T12:40:46Z",
   "last_x_check": {
-    "at": "2026-10-29T12:22:39Z",
+    "at": "2026-10-29T12:40:46Z",
     "new_posts": 0,
-    "xlive_refreshed": false,
+    "xlive_refreshed": true,
     "trending_refreshed": false,
-    "tv_refreshed": true,
+    "tv_refreshed": false,
     "following_refreshed": false,
     "skipped": {
-      "xlive": "under 15 min old",
       "trending": "under 60 min old",
+      "tv": "under 3 h old",
       "following": "featured_accounts empty"
     },
     "published": true,
-    "note": "TV channels refreshed"
+    "note": "X Live refreshed (8 broadcasts)"
   },
-  "last_publish": "ZXN TV channels refreshed",
-  "x_reads_left_today": "881 of 1000 (resets 2026-10-30T00:00Z)"
+  "last_publish": "X Live refreshed",
+  "x_reads_left_today": "875 of 1000 (resets 2026-10-30T00:00Z)"
 }

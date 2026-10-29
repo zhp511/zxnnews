@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-29T12:20:08Z",
- "searched_at": "2026-10-29T12:20:08Z",
+ "built_at": "2026-10-29T12:40:35Z",
+ "searched_at": "2026-10-29T12:40:35Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,16 +35,6 @@
    "assumed_live_until": "2026-10-29T14:21:37Z"
   },
   {
-   "post_id": "2115746734286774646",
-   "post_url": "https://x.com/971FMTalk/status/2115746734286774646",
-   "name": "97.1 FM Talk",
-   "username": "971FMTalk",
-   "verified_type": "blue",
-   "text": "Fed Responds to Inflation Pressure, Alaska Senate Scandal:  Good morning! @MarcCox971 and @StOnge_Kim welcome @JimTalent @Ackerman1120 @GriffJenkins @ShannonBream @FoxNews @Koenig4MO and more w/ @susan6768 and @Punkmc https://t.co/p6kuNpExJs",
-   "started_at": "2026-10-29T10:05:04.000Z",
-   "assumed_live_until": "2026-10-29T13:05:04Z"
-  },
-  {
    "post_id": "2115776807987446197",
    "post_url": "https://x.com/Mighty990KWAM/status/2115776807987446197",
    "name": "KWAM News Radio 990 AM Memphis",
@@ -53,6 +43,16 @@
    "text": "Daily Memphian’s Otis Sanford Says Brent Taylor ‘Unfit For Congress’ https://t.co/JdicYrx5jW",
    "started_at": "2026-10-29T12:04:34.000Z",
    "assumed_live_until": "2026-10-29T15:04:34Z"
+  },
+  {
+   "post_id": "2115746734286774646",
+   "post_url": "https://x.com/971FMTalk/status/2115746734286774646",
+   "name": "97.1 FM Talk",
+   "username": "971FMTalk",
+   "verified_type": "blue",
+   "text": "Fed Responds to Inflation Pressure, Alaska Senate Scandal:  Good morning! @MarcCox971 and @StOnge_Kim welcome @JimTalent @Ackerman1120 @GriffJenkins @ShannonBream @FoxNews @Koenig4MO and more w/ @susan6768 and @Punkmc https://t.co/p6kuNpExJs",
+   "started_at": "2026-10-29T10:05:04.000Z",
+   "assumed_live_until": "2026-10-29T13:05:04Z"
   },
   {
    "post_id": "2115753674362483169",
