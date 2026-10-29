@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T13:34:43Z",
+ "fetched_at": "2026-10-29T13:57:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T10:34:00Z",
+  "start_time": "2026-10-29T10:57:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -20,8 +20,8 @@
    "entities": {
     "urls": [
      {
-      "description": "La conf\u00e9rence de presse avant Le Havre - PSG \ud83d\udcac",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "description": "La conférence de presse avant Le Havre - PSG 💬",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 71,
       "expanded_url": "https://x.com/i/broadcasts/2kEOEnOoqnPYeE",
       "images": [
@@ -47,13 +47,13 @@
    "id": "2115777098002678223",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 6980,
-    "like_count": 18,
+    "impression_count": 7413,
+    "like_count": 19,
     "quote_count": 0,
     "reply_count": 2,
-    "retweet_count": 5
+    "retweet_count": 6
    },
-   "text": "The press conference before Le Havre - PSG \ud83d\udcac  \n\nhttps://t.co/tRWV6qcdWX",
+   "text": "The press conference before Le Havre - PSG 💬  \n\nhttps://t.co/tRWV6qcdWX",
    "url": "https://x.com/PSG_English/status/2115777098002678223"
   },
   {
@@ -66,7 +66,7 @@
     "urls": [
      {
       "description": "Metro Council Minority Caucus Press Conference 10-29-2026",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 81,
       "expanded_url": "https://x.com/i/broadcasts/1nxeLMNZEdQJX",
       "start": 58,
@@ -98,8 +98,8 @@
    "entities": {
     "urls": [
      {
-      "description": "LIVE - The White House Podcast \ud83c\udfdb\ufe0f \ud83d\udd34",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "description": "LIVE - The White House Podcast 🏛️ 🔴",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 60,
       "expanded_url": "https://x.com/i/broadcasts/1qJVmydnzYPGB",
       "images": [
@@ -125,13 +125,13 @@
    "id": "2115775596785750217",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 1097,
+    "impression_count": 1552,
     "like_count": 6,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "LIVE - The White House Podcast  \ud83c\udfdb\ufe0f \ud83d\udd34 https://t.co/9DC3IShUOj",
+   "text": "LIVE - The White House Podcast  🏛️ 🔴 https://t.co/9DC3IShUOj",
    "url": "https://x.com/FreePeopleRadio/status/2115775596785750217"
   },
   {
@@ -144,7 +144,7 @@
     "urls": [
      {
       "description": "Trump News, Democratic Politics & 2026 Election Updates | TMM S7E124",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 96,
       "expanded_url": "https://x.com/i/broadcasts/1nGnRBPbavwGO",
       "start": 73,
@@ -157,9 +157,9 @@
    },
    "id": "2115790211372491243",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 1267,
-    "like_count": 1,
+    "bookmark_count": 2,
+    "impression_count": 1804,
+    "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
@@ -177,7 +177,7 @@
     "urls": [
      {
       "description": "Trump News, Democratic Politics & 2026 Election Updates | TMM S7E124",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 96,
       "expanded_url": "https://x.com/i/broadcasts/1RJZzBavAmaJB",
       "start": 73,
@@ -191,7 +191,7 @@
    "id": "2115790212702126129",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 5,
+    "impression_count": 8,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -216,8 +216,8 @@
     ],
     "urls": [
      {
-      "description": "\ud83d\udea8 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "description": "🚨 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 113,
       "expanded_url": "https://x.com/i/broadcasts/1XxygwWnLkVGM",
       "images": [
@@ -243,13 +243,13 @@
    "id": "2115775896447807897",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1398,
+    "impression_count": 1460,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "\ud83d\udea8 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom https://t.co/Zyb1RrRKYb",
+   "text": "🚨 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom https://t.co/Zyb1RrRKYb",
    "url": "https://x.com/Citi973/status/2115775896447807897"
   },
   {
@@ -261,8 +261,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Breaking News\ud83d\udea8, Internet Drama\ud83d\ude21, & Trending Clips\ud83d\ude02 - Live\ud83d\udd34",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "description": "Breaking News🚨, Internet Drama😡, & Trending Clips😂 - Live🔴",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 86,
       "expanded_url": "https://x.com/i/broadcasts/1vJpPNMwklMJE",
       "images": [
@@ -294,7 +294,7 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Breaking News\ud83d\udea8, Internet Drama\ud83d\ude21, &amp; Trending Clips\ud83d\ude02 - Live\ud83d\udd34 https://t.co/CSxrP6rHqh",
+   "text": "Breaking News🚨, Internet Drama😡, &amp; Trending Clips😂 - Live🔴 https://t.co/CSxrP6rHqh",
    "url": "https://x.com/colludiumwolf/status/2115794285283193082"
   },
   {
@@ -307,7 +307,7 @@
     "urls": [
      {
       "description": "LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 87,
       "expanded_url": "https://x.com/i/broadcasts/1yxBePXmDzYJN",
       "images": [
@@ -324,7 +324,7 @@
       ],
       "start": 64,
       "status": 200,
-      "title": "RSBN \ud83c\uddfa\ud83c\uddf8",
+      "title": "RSBN 🇺🇸",
       "unwound_url": "https://x.com/i/broadcasts/1yxBePXmDzYJN",
       "url": "https://t.co/87Bc5yD1Bh"
      }
@@ -333,11 +333,11 @@
    "id": "2115776107085709656",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 5985,
-    "like_count": 70,
+    "impression_count": 6333,
+    "like_count": 77,
     "quote_count": 1,
     "reply_count": 4,
-    "retweet_count": 32
+    "retweet_count": 36
    },
    "text": "LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26 https://t.co/87Bc5yD1Bh",
    "url": "https://x.com/RSBNetwork/status/2115776107085709656"
@@ -352,7 +352,7 @@
     "urls": [
      {
       "description": "LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 88,
       "expanded_url": "https://x.com/i/broadcasts/1yxBePXmDzYJN",
       "images": [
@@ -369,7 +369,7 @@
       ],
       "start": 65,
       "status": 200,
-      "title": "RSBN \ud83c\uddfa\ud83c\uddf8",
+      "title": "RSBN 🇺🇸",
       "unwound_url": "https://x.com/i/broadcasts/1yxBePXmDzYJN",
       "url": "https://t.co/y4zdMExXVe"
      }
@@ -378,13 +378,13 @@
    "id": "2115778631616057370",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 47,
-    "like_count": 1,
+    "impression_count": 98,
+    "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "\ud83d\udea8LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26 https://t.co/y4zdMExXVe",
+   "text": "🚨LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26 https://t.co/y4zdMExXVe",
    "url": "https://x.com/realjamesrossi/status/2115778631616057370"
   },
   {
@@ -396,13 +396,13 @@
    "entities": {
     "urls": [
      {
-      "description": "\ud83d\udea8 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate \ud83e\udd69",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "description": "🚨 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate 🥩",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 119,
       "expanded_url": "https://x.com/i/broadcasts/1vJpPNMwQEgJE",
       "start": 96,
       "status": 200,
-      "title": "\ud83e\udeb6Native Patriot \ud83c\uddfa\ud83c\uddf8",
+      "title": "🪶Native Patriot 🇺🇸",
       "unwound_url": "https://x.com/i/broadcasts/1vJpPNMwQEgJE",
       "url": "https://t.co/0C0dizQ5jX"
      }
@@ -411,137 +411,14 @@
    "id": "2115790030166008260",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 927,
-    "like_count": 10,
+    "impression_count": 1038,
+    "like_count": 12,
     "quote_count": 0,
-    "reply_count": 0,
+    "reply_count": 1,
     "retweet_count": 2
    },
-   "text": "\ud83d\udea8 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate \ud83e\udd69 https://t.co/0C0dizQ5jX",
+   "text": "🚨 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate 🥩 https://t.co/0C0dizQ5jX",
    "url": "https://x.com/LaNativePatriot/status/2115790030166008260"
-  },
-  {
-   "author_id": "1387856976869150720",
-   "created_at": "2026-10-29T13:00:06.000Z",
-   "edit_history_tweet_ids": [
-    "2115790783559413975"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "\ud83d\udea8 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate \ud83e\udd69",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 119,
-      "expanded_url": "https://x.com/i/broadcasts/1mxPaZvjNAmKN",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115603259561824256/MO4nXCZG?format=png&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115603259561824256/MO4nXCZG?format=png&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 96,
-      "status": 200,
-      "title": "Tammy Cuthbert Garcia",
-      "unwound_url": "https://x.com/i/broadcasts/1mxPaZvjNAmKN",
-      "url": "https://t.co/hFMB4UIobS"
-     }
-    ]
-   },
-   "id": "2115790783559413975",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 16,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "\ud83d\udea8 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate \ud83e\udd69 https://t.co/hFMB4UIobS",
-   "url": "https://x.com/TammyCuthbertG/status/2115790783559413975"
-  },
-  {
-   "author_id": "904811819335688192",
-   "created_at": "2026-10-29T13:00:06.000Z",
-   "edit_history_tweet_ids": [
-    "2115790782817071278"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "\ud83d\udea8 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate \ud83e\udd69",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 119,
-      "expanded_url": "https://x.com/i/broadcasts/1OxwbndzVoVJB",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115603259641483264/B-N9rPkz?format=png&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115603259641483264/B-N9rPkz?format=png&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 96,
-      "status": 200,
-      "title": "Joshua Reid | Redpills.tv",
-      "unwound_url": "https://x.com/i/broadcasts/1OxwbndzVoVJB",
-      "url": "https://t.co/SsyxYeerP6"
-     }
-    ]
-   },
-   "id": "2115790782817071278",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 868,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "\ud83d\udea8 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate \ud83e\udd69 https://t.co/SsyxYeerP6",
-   "url": "https://x.com/realjoshuareid/status/2115790782817071278"
-  },
-  {
-   "author_id": "1610405213080522754",
-   "created_at": "2026-10-29T12:57:07.000Z",
-   "edit_history_tweet_ids": [
-    "2115790029402636493"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "\ud83d\udea8 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate \ud83e\udd69",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 119,
-      "expanded_url": "https://x.com/i/broadcasts/1yKAPwjRByzxb",
-      "start": 96,
-      "status": 200,
-      "title": "The Patriots Prayer Network",
-      "unwound_url": "https://x.com/i/broadcasts/1yKAPwjRByzxb",
-      "url": "https://t.co/35DuVzyJYH"
-     }
-    ]
-   },
-   "id": "2115790029402636493",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 105,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "\ud83d\udea8 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate \ud83e\udd69 https://t.co/35DuVzyJYH",
-   "url": "https://x.com/ThePatriotsPray/status/2115790029402636493"
   },
   {
    "author_id": "1842411061586120704",
@@ -552,8 +429,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Christians Should Keep Law \u2014 Prove Me Wrong (LIVE DEBATE)",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "description": "Christians Should Keep Law — Prove Me Wrong (LIVE DEBATE)",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 81,
       "expanded_url": "https://x.com/i/broadcasts/1XxygwWnZkRGM",
       "images": [
@@ -585,8 +462,131 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Christians Should Keep Law \u2014 Prove Me Wrong (LIVE DEBATE) https://t.co/UfTnj36c6t",
+   "text": "Christians Should Keep Law — Prove Me Wrong (LIVE DEBATE) https://t.co/UfTnj36c6t",
    "url": "https://x.com/NazareneRemnant/status/2115777362071835077"
+  },
+  {
+   "author_id": "904811819335688192",
+   "created_at": "2026-10-29T13:00:06.000Z",
+   "edit_history_tweet_ids": [
+    "2115790782817071278"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🚨 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate 🥩",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 119,
+      "expanded_url": "https://x.com/i/broadcasts/1OxwbndzVoVJB",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115603259641483264/B-N9rPkz?format=png&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115603259641483264/B-N9rPkz?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 96,
+      "status": 200,
+      "title": "Joshua Reid | Redpills.tv",
+      "unwound_url": "https://x.com/i/broadcasts/1OxwbndzVoVJB",
+      "url": "https://t.co/SsyxYeerP6"
+     }
+    ]
+   },
+   "id": "2115790782817071278",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1046,
+    "like_count": 7,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚨 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate 🥩 https://t.co/SsyxYeerP6",
+   "url": "https://x.com/realjoshuareid/status/2115790782817071278"
+  },
+  {
+   "author_id": "1610405213080522754",
+   "created_at": "2026-10-29T12:57:07.000Z",
+   "edit_history_tweet_ids": [
+    "2115790029402636493"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🚨 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate 🥩",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 119,
+      "expanded_url": "https://x.com/i/broadcasts/1yKAPwjRByzxb",
+      "start": 96,
+      "status": 200,
+      "title": "The Patriots Prayer Network",
+      "unwound_url": "https://x.com/i/broadcasts/1yKAPwjRByzxb",
+      "url": "https://t.co/35DuVzyJYH"
+     }
+    ]
+   },
+   "id": "2115790029402636493",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 129,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚨 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate 🥩 https://t.co/35DuVzyJYH",
+   "url": "https://x.com/ThePatriotsPray/status/2115790029402636493"
+  },
+  {
+   "author_id": "1387856976869150720",
+   "created_at": "2026-10-29T13:00:06.000Z",
+   "edit_history_tweet_ids": [
+    "2115790783559413975"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🚨 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate 🥩",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 119,
+      "expanded_url": "https://x.com/i/broadcasts/1mxPaZvjNAmKN",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115603259561824256/MO4nXCZG?format=png&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115603259561824256/MO4nXCZG?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 96,
+      "status": 200,
+      "title": "Tammy Cuthbert Garcia",
+      "unwound_url": "https://x.com/i/broadcasts/1mxPaZvjNAmKN",
+      "url": "https://t.co/hFMB4UIobS"
+     }
+    ]
+   },
+   "id": "2115790783559413975",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 21,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚨 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate 🥩 https://t.co/hFMB4UIobS",
+   "url": "https://x.com/TammyCuthbertG/status/2115790783559413975"
   },
   {
    "author_id": "1674079298091900929",
@@ -597,8 +597,8 @@
    "entities": {
     "urls": [
      {
-      "description": "\ud83d\udea8 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate \ud83e\udd69",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "description": "🚨 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate 🥩",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 119,
       "expanded_url": "https://x.com/i/broadcasts/1DGleVADWQqJL",
       "images": [
@@ -624,13 +624,13 @@
    "id": "2115790782842142851",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 6,
+    "impression_count": 7,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "\ud83d\udea8 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate \ud83e\udd69 https://t.co/0hXRJPoz9W",
+   "text": "🚨 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate 🥩 https://t.co/0hXRJPoz9W",
    "url": "https://x.com/NaturallyIRadio/status/2115790782842142851"
   },
   {
@@ -643,7 +643,7 @@
     "urls": [
      {
       "description": "Wicked Radio 10-29: Is This Senate Race Corrupt? The 2 Dan Sullivans Scam In Alaska!",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 109,
       "expanded_url": "https://x.com/i/broadcasts/1nJOLQMedPWxR",
       "images": [
@@ -669,7 +669,7 @@
    "id": "2115776445037637832",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 62,
+    "impression_count": 78,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -687,8 +687,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Daily Memphian\u2019s Otis Sanford Says Brent Taylor \u2018Unfit For Congress\u2019",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "description": "Daily Memphian’s Otis Sanford Says Brent Taylor ‘Unfit For Congress’",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 92,
       "expanded_url": "https://x.com/i/broadcasts/1dKrPrOnYgpJX",
       "images": [
@@ -714,13 +714,13 @@
    "id": "2115776807987446197",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 244,
+    "impression_count": 295,
     "like_count": 0,
     "quote_count": 0,
-    "reply_count": 3,
+    "reply_count": 4,
     "retweet_count": 0
    },
-   "text": "Daily Memphian\u2019s Otis Sanford Says Brent Taylor \u2018Unfit For Congress\u2019 https://t.co/JdicYrx5jW",
+   "text": "Daily Memphian’s Otis Sanford Says Brent Taylor ‘Unfit For Congress’ https://t.co/JdicYrx5jW",
    "url": "https://x.com/Mighty990KWAM/status/2115776807987446197"
   },
   {
@@ -750,7 +750,7 @@
     "urls": [
      {
       "description": "LIVE || Attack on Congress over 'Sadak Pe Faisla' JP Nadda on PM Modi's 'Health Revolution' #ITLivestream #IndiaTodayHealthWealthSummit #5Live",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 167,
       "expanded_url": "https://x.com/i/broadcasts/1yKAPwjRnEDxb",
       "images": [
@@ -776,7 +776,7 @@
    "id": "2115767519806136388",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2018,
+    "impression_count": 2047,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -857,7 +857,7 @@
     "urls": [
      {
       "description": "TODAY FROM CAPITOL HILL: Five Days Out, the Fight for Control of Congress and AI in Elections",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 278,
       "expanded_url": "https://x.com/i/broadcasts/2KoBogMnrbmgBz",
       "images": [
@@ -883,8 +883,8 @@
    "id": "2115793405636759706",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 312,
-    "like_count": 3,
+    "impression_count": 404,
+    "like_count": 4,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 2
@@ -902,7 +902,7 @@
     "urls": [
      {
       "description": "Israel Election Fight. Is Serbia's Student List A US Puppet?",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 84,
       "expanded_url": "https://x.com/i/broadcasts/1XxygwWnMynGM",
       "images": [
@@ -928,7 +928,7 @@
    "id": "2115765995755503719",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 213,
+    "impression_count": 218,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -947,7 +947,7 @@
     "urls": [
      {
       "description": "Democrat Cities Overrun with Demonic Energy | Secret America Live! - Episode 269",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 104,
       "expanded_url": "https://x.com/i/broadcasts/1yKAPwjzVzOxb",
       "images": [
@@ -973,7 +973,7 @@
    "id": "2115790783857176852",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 139,
+    "impression_count": 159,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -992,7 +992,7 @@
     "urls": [
      {
       "description": "Am I A YouTube Grifter?! Part 38 | Sam Wilson Is Captain America | Reaction",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 99,
       "expanded_url": "https://x.com/i/broadcasts/1pJkOXkaqYAJj",
       "images": [
@@ -1018,7 +1018,7 @@
    "id": "2115783863754756370",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 20,
+    "impression_count": 21,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -1037,7 +1037,7 @@
     "urls": [
      {
       "description": "LIVE: Link:NYC",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 221,
       "expanded_url": "https://x.com/i/broadcasts/2VNmnlZRYKLYyd",
       "images": [
@@ -1062,12 +1062,12 @@
    },
    "id": "2115787768081387602",
    "public_metrics": {
-    "bookmark_count": 9,
-    "impression_count": 16306,
-    "like_count": 223,
-    "quote_count": 9,
-    "reply_count": 11,
-    "retweet_count": 33
+    "bookmark_count": 13,
+    "impression_count": 19928,
+    "like_count": 285,
+    "quote_count": 11,
+    "reply_count": 14,
+    "retweet_count": 48
    },
    "text": "The day has come. \n\nToday, leaders from DTCC, Swift, ICE, Fidelity, BlackRock, Bank of America, and many more take center stage at Link:NYC to discuss how global finance moves onchain.\n\nWatch live: https://t.co/ipPu2hHI6p",
    "url": "https://x.com/chainlink/status/2115787768081387602"
@@ -1082,7 +1082,7 @@
     "urls": [
      {
       "description": "TOTTENHAM NEWS: THE DAILY LIVE! The Latest Spurs News, Rumours & Reports",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 100,
       "expanded_url": "https://x.com/i/broadcasts/1MJgNbRaPzwGL",
       "start": 77,
@@ -1096,7 +1096,7 @@
    "id": "2115791211365822562",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 889,
+    "impression_count": 1147,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -1115,7 +1115,7 @@
     "urls": [
      {
       "description": "GB News",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 31,
       "expanded_url": "https://x.com/i/broadcasts/1eaKbjPPYDBKX",
       "images": [
@@ -1141,7 +1141,7 @@
    "id": "2115775647792710103",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 4026,
+    "impression_count": 4272,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 4,
@@ -1156,7 +1156,7 @@
    "id": "3001704118",
    "name": "Paris Saint-Germain",
    "public_metrics": {
-    "followers_count": 5434174,
+    "followers_count": 5434182,
     "following_count": 325,
     "like_count": 921,
     "listed_count": 3313,
@@ -1235,8 +1235,8 @@
     "following_count": 528,
     "like_count": 2831,
     "listed_count": 716,
-    "media_count": 177733,
-    "tweet_count": 573773
+    "media_count": 177737,
+    "tweet_count": 573777
    },
    "username": "Citi973",
    "verified": true,
@@ -1259,14 +1259,14 @@
   },
   {
    "id": "4041824789",
-   "name": "RSBN \ud83c\uddfa\ud83c\uddf8",
+   "name": "RSBN 🇺🇸",
    "public_metrics": {
-    "followers_count": 1163037,
+    "followers_count": 1163042,
     "following_count": 977,
-    "like_count": 12279,
+    "like_count": 12283,
     "listed_count": 2986,
-    "media_count": 16984,
-    "tweet_count": 49718
+    "media_count": 16985,
+    "tweet_count": 49723
    },
    "username": "RSBNetwork",
    "verified": true,
@@ -1274,7 +1274,7 @@
   },
   {
    "id": "61011257",
-   "name": "James Rossi \ud83c\uddfa\ud83c\uddf8",
+   "name": "James Rossi 🇺🇸",
    "public_metrics": {
     "followers_count": 5895,
     "following_count": 7294,
@@ -1289,9 +1289,9 @@
   },
   {
    "id": "1519441963262484480",
-   "name": "\ud83e\udeb6Native Patriot \ud83c\uddfa\ud83c\uddf8",
+   "name": "🪶Native Patriot 🇺🇸",
    "public_metrics": {
-    "followers_count": 232577,
+    "followers_count": 232580,
     "following_count": 26333,
     "like_count": 334637,
     "listed_count": 277,
@@ -1303,17 +1303,17 @@
    "verified_type": "blue"
   },
   {
-   "id": "1387856976869150720",
-   "name": "Tammy Cuthbert Garcia",
+   "id": "1842411061586120704",
+   "name": "Nazarene Remnants",
    "public_metrics": {
-    "followers_count": 2386,
-    "following_count": 1447,
-    "like_count": 29653,
-    "listed_count": 9,
-    "media_count": 730,
-    "tweet_count": 6073
+    "followers_count": 41,
+    "following_count": 58,
+    "like_count": 150,
+    "listed_count": 0,
+    "media_count": 57,
+    "tweet_count": 391
    },
-   "username": "TammyCuthbertG",
+   "username": "NazareneRemnant",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1321,7 +1321,7 @@
    "id": "904811819335688192",
    "name": "Joshua Reid | Redpills.tv",
    "public_metrics": {
-    "followers_count": 69518,
+    "followers_count": 69520,
     "following_count": 5887,
     "like_count": 5181,
     "listed_count": 301,
@@ -1348,17 +1348,17 @@
    "verified_type": "blue"
   },
   {
-   "id": "1842411061586120704",
-   "name": "Nazarene Remnants",
+   "id": "1387856976869150720",
+   "name": "Tammy Cuthbert Garcia",
    "public_metrics": {
-    "followers_count": 41,
-    "following_count": 58,
-    "like_count": 150,
-    "listed_count": 0,
-    "media_count": 57,
-    "tweet_count": 391
+    "followers_count": 2386,
+    "following_count": 1447,
+    "like_count": 29653,
+    "listed_count": 9,
+    "media_count": 730,
+    "tweet_count": 6073
    },
-   "username": "NazareneRemnant",
+   "username": "TammyCuthbertG",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1411,12 +1411,12 @@
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6275054,
+    "followers_count": 6275060,
     "following_count": 83,
     "like_count": 4431,
     "listed_count": 7342,
-    "media_count": 581646,
-    "tweet_count": 1542635
+    "media_count": 581655,
+    "tweet_count": 1542646
    },
    "username": "IndiaToday",
    "verified": true,
@@ -1456,7 +1456,7 @@
    "id": "1519009150042206208",
    "name": "Talk Red",
    "public_metrics": {
-    "followers_count": 47217,
+    "followers_count": 47218,
     "following_count": 711,
     "like_count": 36957,
     "listed_count": 183,
@@ -1486,10 +1486,10 @@
    "id": "1530530365",
    "name": "Chainlink",
    "public_metrics": {
-    "followers_count": 1390471,
+    "followers_count": 1390474,
     "following_count": 25,
-    "like_count": 4309,
-    "listed_count": 7217,
+    "like_count": 4310,
+    "listed_count": 7216,
     "media_count": 4801,
     "tweet_count": 13281
    },
@@ -1501,7 +1501,7 @@
    "id": "48466183",
    "name": "Chris Cowlin",
    "public_metrics": {
-    "followers_count": 196190,
+    "followers_count": 196191,
     "following_count": 89,
     "like_count": 21047,
     "listed_count": 494,
@@ -1516,12 +1516,12 @@
    "id": "1339166129110065152",
    "name": "GB News",
    "public_metrics": {
-    "followers_count": 991041,
+    "followers_count": 991044,
     "following_count": 50,
     "like_count": 0,
     "listed_count": 2723,
-    "media_count": 170822,
-    "tweet_count": 330464
+    "media_count": 170823,
+    "tweet_count": 330469
    },
    "username": "GBNEWS",
    "verified": true,
