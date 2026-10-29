@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T11:28:00Z",
+ "fetched_at": "2026-10-29T11:44:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T08:27:00Z",
+  "start_time": "2026-10-29T08:44:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,10 +17,99 @@
    "edit_history_tweet_ids": [
     "2115746734286774646"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 85,
+      "id": "3146471857",
+      "start": 74,
+      "username": "MarcCox971"
+     },
+     {
+      "end": 101,
+      "id": "19519241",
+      "start": 90,
+      "username": "StOnge_Kim"
+     },
+     {
+      "end": 120,
+      "id": "29898014",
+      "start": 110,
+      "username": "JimTalent"
+     },
+     {
+      "end": 134,
+      "id": "19264279",
+      "start": 121,
+      "username": "Ackerman1120"
+     },
+     {
+      "end": 148,
+      "id": "346781925",
+      "start": 135,
+      "username": "GriffJenkins"
+     },
+     {
+      "end": 162,
+      "id": "18983793",
+      "start": 149,
+      "username": "ShannonBream"
+     },
+     {
+      "end": 171,
+      "id": "1367531",
+      "start": 163,
+      "username": "FoxNews"
+     },
+     {
+      "end": 182,
+      "id": "605754185",
+      "start": 172,
+      "username": "Koenig4MO"
+     },
+     {
+      "end": 205,
+      "id": "21300612",
+      "start": 195,
+      "username": "susan6768"
+     },
+     {
+      "end": 217,
+      "id": "278546390",
+      "start": 210,
+      "username": "punkmc"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Fed Responds to Inflation Pressure, Alaska Senate Scandal: Good morning! @MarcCox971 and @StOnge_Kim welcome @JimTalent @Ackerman1120 @GriffJenkins @ShannonBream @FoxNews @Koenig4MO and more w/ @susan6768 and @Punkmc",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 241,
+      "expanded_url": "https://x.com/i/broadcasts/1mGPaZvwjNYJN",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115746777358032896/mDfYdTXP?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115746777358032896/mDfYdTXP?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 218,
+      "status": 200,
+      "title": "97.1 FM Talk",
+      "unwound_url": "https://x.com/i/broadcasts/1mGPaZvwjNYJN",
+      "url": "https://t.co/p6kuNpExJs"
+     }
+    ]
+   },
    "id": "2115746734286774646",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 58,
+    "impression_count": 65,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -30,15 +119,92 @@
    "url": "https://x.com/971FMTalk/status/2115746734286774646"
   },
   {
+   "author_id": "19897138",
+   "created_at": "2026-10-29T11:27:40.000Z",
+   "edit_history_tweet_ids": [
+    "2115767519806136388"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 106,
+      "start": 93,
+      "tag": "ITLivestream"
+     },
+     {
+      "end": 136,
+      "start": 107,
+      "tag": "IndiaTodayHealthWealthSummit"
+     },
+     {
+      "end": 143,
+      "start": 137,
+      "tag": "5Live"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE || Attack on Congress over 'Sadak Pe Faisla' JP Nadda on PM Modi's 'Health Revolution' #ITLivestream #IndiaTodayHealthWealthSummit #5Live",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 167,
+      "expanded_url": "https://x.com/i/broadcasts/1yKAPwjRnEDxb",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115767522670907392/F-m1wk3N?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115767522670907392/F-m1wk3N?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 144,
+      "status": 200,
+      "title": "IndiaToday",
+      "unwound_url": "https://x.com/i/broadcasts/1yKAPwjRnEDxb",
+      "url": "https://t.co/ZDB7mQUVSY"
+     }
+    ]
+   },
+   "id": "2115767519806136388",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1545,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE || Attack on Congress over 'Sadak Pe Faisla' JP Nadda on PM Modi's 'Health Revolution'  #ITLivestream #IndiaTodayHealthWealthSummit #5Live https://t.co/ZDB7mQUVSY",
+   "url": "https://x.com/IndiaToday/status/2115767519806136388"
+  },
+  {
    "author_id": "593261108",
    "created_at": "2026-10-29T11:21:37.000Z",
    "edit_history_tweet_ids": [
     "2115765995755503719"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Israel Election Fight. Is Serbia's Student List A US Puppet?",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 84,
+      "expanded_url": "https://x.com/i/broadcasts/1XxygwWnMynGM",
+      "start": 61,
+      "status": 200,
+      "title": "Jamarl Thomas",
+      "unwound_url": "https://x.com/i/broadcasts/1XxygwWnMynGM",
+      "url": "https://t.co/4q7jb4yqAf"
+     }
+    ]
+   },
    "id": "2115765995755503719",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 83,
+    "impression_count": 134,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -48,47 +214,38 @@
    "url": "https://x.com/JamarlThomas/status/2115765995755503719"
   },
   {
-   "author_id": "832816328448831489",
-   "created_at": "2026-10-29T08:32:11.000Z",
-   "edit_history_tweet_ids": [
-    "2115723358436524214"
-   ],
-   "id": "2115723358436524214",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 15,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "🚨Michigan Elections: New Evidence of Election Thefts, Control🚨 https://t.co/FMa9L1PhzX",
-   "url": "https://x.com/HomeSecConsult/status/2115723358436524214"
-  },
-  {
-   "author_id": "1587574471627608064",
-   "created_at": "2026-10-29T09:54:57.000Z",
-   "edit_history_tweet_ids": [
-    "2115744186284859549"
-   ],
-   "id": "2115744186284859549",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 545,
-    "like_count": 23,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 3
-   },
-   "text": "We Can't Vote Anti-American &amp; Expect America To Survive https://t.co/GnG0YyeVqe",
-   "url": "https://x.com/CSalcedoShow/status/2115744186284859549"
-  },
-  {
    "author_id": "2544014684",
    "created_at": "2026-10-29T10:32:39.000Z",
    "edit_history_tweet_ids": [
     "2115753674362483169"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "AMERICA WANTS JUSTICE! SHOW UP AT THE POLLS ON NOV. 3RD AND LET YOUR VOICES BE HEARD!!",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 110,
+      "expanded_url": "https://x.com/i/broadcasts/1pJkOXkaaZNJj",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115753716804718592/c2RNTIPA?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115753716804718592/c2RNTIPA?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 87,
+      "status": 200,
+      "title": "KimsCoffeeTalk",
+      "unwound_url": "https://x.com/i/broadcasts/1pJkOXkaaZNJj",
+      "url": "https://t.co/Wx7M5l6m88"
+     }
+    ]
+   },
    "id": "2115753674362483169",
    "public_metrics": {
     "bookmark_count": 0,
@@ -102,15 +259,173 @@
    "url": "https://x.com/kimraesmith/status/2115753674362483169"
   },
   {
+   "author_id": "1587574471627608064",
+   "created_at": "2026-10-29T09:54:57.000Z",
+   "edit_history_tweet_ids": [
+    "2115744186284859549"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "We Can't Vote Anti-American & Expect America To Survive",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 83,
+      "expanded_url": "https://x.com/i/broadcasts/1qGoNYlbPPXKv",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115760369918697472/MPQnkJqC?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115760369918697472/MPQnkJqC?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 60,
+      "status": 200,
+      "title": "The Chris Salcedo Show",
+      "unwound_url": "https://x.com/i/broadcasts/1qGoNYlbPPXKv",
+      "url": "https://t.co/GnG0YyeVqe"
+     }
+    ]
+   },
+   "id": "2115744186284859549",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 601,
+    "like_count": 26,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 4
+   },
+   "text": "We Can't Vote Anti-American &amp; Expect America To Survive https://t.co/GnG0YyeVqe",
+   "url": "https://x.com/CSalcedoShow/status/2115744186284859549"
+  },
+  {
    "author_id": "1705649608964091904",
    "created_at": "2026-10-29T10:00:02.000Z",
    "edit_history_tweet_ids": [
     "2115745466533204231"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 226,
+      "id": "63899697",
+      "start": 213,
+      "username": "SpudMcKenzie"
+     },
+     {
+      "end": 237,
+      "id": "2008911765728550912",
+      "start": 227,
+      "username": "NYStrong_"
+     },
+     {
+      "end": 251,
+      "id": "30576650",
+      "start": 238,
+      "username": "only1showers"
+     },
+     {
+      "end": 267,
+      "id": "1568623080884273152",
+      "start": 252,
+      "username": "Unshakablewapr"
+     },
+     {
+      "end": 278,
+      "id": "1615386603295211524",
+      "start": 268,
+      "username": "RacerNYC2"
+     }
+    ],
+    "urls": [
+     {
+      "description": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 71,
+      "expanded_url": "https://x.com/i/broadcasts/1RJjpbwYvDvKw",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2115745469825781760/77TLcVyf?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115745469825781760/77TLcVyf?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 48,
+      "status": 200,
+      "title": "Founder Redemption Party",
+      "unwound_url": "https://x.com/i/broadcasts/1RJjpbwYvDvKw",
+      "url": "https://t.co/CQ4acXU4Mb"
+     },
+     {
+      "description": "Join us for another powerful episode of Mighty Men Thursday, where ...",
+      "display_url": "youtube.com/live/1p0TRuxbV…",
+      "end": 177,
+      "expanded_url": "https://www.youtube.com/live/1p0TRuxbVIk?si=_vtdJbjqOtJ_O_NV",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115745470178070528/FhgZpRnJ?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115745470178070528/FhgZpRnJ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 154,
+      "status": 200,
+      "title": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪",
+      "unwound_url": "https://www.youtube.com/live/1p0TRuxbVIk?si=_vtdJbjqOtJ_O_NV",
+      "url": "https://t.co/BVBSxai3f3"
+     },
+     {
+      "description": "Join us for another powerful episode of Mighty Men Thursday, where ...",
+      "display_url": "youtube.com/live/BM_EKMwG5…",
+      "end": 211,
+      "expanded_url": "https://www.youtube.com/live/BM_EKMwG5CI?si=OVNdP-xhAoaG41Ok",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115745470152921089/MQcClTyy?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115745470152921089/MQcClTyy?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 188,
+      "status": 200,
+      "title": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪 📱",
+      "unwound_url": "https://www.youtube.com/live/BM_EKMwG5CI?si=OVNdP-xhAoaG41Ok",
+      "url": "https://t.co/pSwygha11A"
+     },
+     {
+      "display_url": "pic.x.com/uV3EMEGecI",
+      "end": 302,
+      "expanded_url": "https://x.com/itsourturnrp/status/2115745466533204231/photo/1",
+      "media_key": "3_2113676953257463808",
+      "start": 279,
+      "url": "https://t.co/uV3EMEGecI"
+     }
+    ]
+   },
    "id": "2115745466533204231",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 43,
+    "impression_count": 48,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -120,33 +435,42 @@
    "url": "https://x.com/itsourturnrp/status/2115745466533204231"
   },
   {
-   "author_id": "85814753",
-   "created_at": "2026-10-29T10:51:23.000Z",
-   "edit_history_tweet_ids": [
-    "2115758389141622844"
-   ],
-   "id": "2115758389141622844",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 310,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Sandesh News https://t.co/JwFxGdaGHL",
-   "url": "https://x.com/sandeshnews/status/2115758389141622844"
-  },
-  {
    "author_id": "2067872109674557440",
    "created_at": "2026-10-29T10:01:17.000Z",
    "edit_history_tweet_ids": [
     "2115745782343299145"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Fleetwood AWAITS! Owners Cash INJECTION! NUFC Morning News!",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 83,
+      "expanded_url": "https://x.com/i/broadcasts/1dxYlaZLmgXJX",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115745825364299777/3fjx5Y9b?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115745825364299777/3fjx5Y9b?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 60,
+      "status": 200,
+      "title": "The Toon Review",
+      "unwound_url": "https://x.com/i/broadcasts/1dxYlaZLmgXJX",
+      "url": "https://t.co/1FnOX7gDih"
+     }
+    ]
+   },
    "id": "2115745782343299145",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 114,
+    "impression_count": 121,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -156,33 +480,30 @@
    "url": "https://x.com/thetoonreviewYT/status/2115745782343299145"
   },
   {
-   "author_id": "1948718721641381888",
-   "created_at": "2026-10-29T11:23:59.000Z",
-   "edit_history_tweet_ids": [
-    "2115766591665164572"
-   ],
-   "id": "2115766591665164572",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 0,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "News Catalysts &amp; Live Trade Breakdowns \nhttps://t.co/iPWO09jLkC",
-   "url": "https://x.com/CatalystScalp/status/2115766591665164572"
-  },
-  {
    "author_id": "1819442308678340609",
    "created_at": "2026-10-29T10:55:30.000Z",
    "edit_history_tweet_ids": [
     "2115759425088884740"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Wake N Bake B4 Work and Weed News LIVE!!!!!",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 69,
+      "expanded_url": "https://x.com/i/broadcasts/1RKZzBavyddKB",
+      "start": 46,
+      "status": 200,
+      "title": "Cannabis and Coffee Live",
+      "unwound_url": "https://x.com/i/broadcasts/1RKZzBavyddKB",
+      "url": "https://t.co/v4gm4H6NKm"
+     }
+    ]
+   },
    "id": "2115759425088884740",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 20,
+    "impression_count": 31,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -192,12 +513,117 @@
    "url": "https://x.com/CandC420/status/2115759425088884740"
   },
   {
-   "author_id": "1646087345127690240",
-   "created_at": "2026-10-29T10:51:01.000Z",
+   "author_id": "85814753",
+   "created_at": "2026-10-29T10:51:23.000Z",
    "edit_history_tweet_ids": [
-    "2115758297747788183"
+    "2115758389141622844"
    ],
-   "id": "2115758297747788183",
+   "entities": {
+    "urls": [
+     {
+      "description": "Sandesh News",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 36,
+      "expanded_url": "https://x.com/i/broadcasts/2aWOWjVdeZKJyr",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115758433093685248/EFmH6Uuq?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115758433093685248/EFmH6Uuq?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 13,
+      "status": 200,
+      "title": "Sandesh",
+      "unwound_url": "https://x.com/i/broadcasts/2aWOWjVdeZKJyr",
+      "url": "https://t.co/JwFxGdaGHL"
+     }
+    ]
+   },
+   "id": "2115758389141622844",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 321,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Sandesh News https://t.co/JwFxGdaGHL",
+   "url": "https://x.com/sandeshnews/status/2115758389141622844"
+  },
+  {
+   "author_id": "1705649608964091904",
+   "created_at": "2026-10-29T11:30:05.000Z",
+   "edit_history_tweet_ids": [
+    "2115768128466792746"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 71,
+      "expanded_url": "https://x.com/i/broadcasts/1qxoNYlbOlzJv",
+      "start": 48,
+      "status": 200,
+      "title": "Founder Redemption Party",
+      "unwound_url": "https://x.com/i/broadcasts/1qxoNYlbOlzJv",
+      "url": "https://t.co/8teYH8SqZd"
+     }
+    ]
+   },
+   "id": "2115768128466792746",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 24,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪 https://t.co/8teYH8SqZd",
+   "url": "https://x.com/itsourturnrp/status/2115768128466792746"
+  },
+  {
+   "author_id": "1646087345127690240",
+   "created_at": "2026-10-29T11:40:12.000Z",
+   "edit_history_tweet_ids": [
+    "2115770672525852683"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News Bulletin Star Asia Tv Live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 57,
+      "expanded_url": "https://x.com/i/broadcasts/2KoBoEAanXyKNE",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115770715001495553/S1G8GY7I?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115770715001495553/S1G8GY7I?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 34,
+      "status": 200,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2KoBoEAanXyKNE",
+      "url": "https://t.co/snqfTgoWeT"
+     }
+    ]
+   },
+   "id": "2115770672525852683",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 1,
@@ -206,8 +632,98 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News Bulletin Star Asia Tv live 🔴 https://t.co/jbrDcEIwGu",
-   "url": "https://x.com/StarAsiatvHD/status/2115758297747788183"
+   "text": "News Bulletin Star Asia Tv Live 🔴 https://t.co/snqfTgoWeT",
+   "url": "https://x.com/StarAsiatvHD/status/2115770672525852683"
+  },
+  {
+   "author_id": "1948718721641381888",
+   "created_at": "2026-10-29T11:23:59.000Z",
+   "edit_history_tweet_ids": [
+    "2115766591665164572"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Catalyst Scalpers",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 67,
+      "expanded_url": "https://x.com/i/broadcasts/2EmgmOYPKNKErK",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2115766594676596736/KXqmKYEq?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115766594676596736/KXqmKYEq?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 44,
+      "status": 200,
+      "title": "Catalyst Scalpers",
+      "unwound_url": "https://x.com/i/broadcasts/2EmgmOYPKNKErK",
+      "url": "https://t.co/iPWO09jLkC"
+     }
+    ]
+   },
+   "id": "2115766591665164572",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "News Catalysts &amp; Live Trade Breakdowns \nhttps://t.co/iPWO09jLkC",
+   "url": "https://x.com/CatalystScalp/status/2115766591665164572"
+  },
+  {
+   "author_id": "1705649608964091904",
+   "created_at": "2026-10-29T11:30:17.000Z",
+   "edit_history_tweet_ids": [
+    "2115768177661718840"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 71,
+      "expanded_url": "https://x.com/i/broadcasts/1RJjpbwYvDvKw",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2115745469825781760/77TLcVyf?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115745469825781760/77TLcVyf?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 48,
+      "status": 200,
+      "title": "Founder Redemption Party",
+      "unwound_url": "https://x.com/i/broadcasts/1RJjpbwYvDvKw",
+      "url": "https://t.co/CQ4acXU4Mb"
+     }
+    ]
+   },
+   "id": "2115768177661718840",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪 https://t.co/CQ4acXU4Mb",
+   "url": "https://x.com/itsourturnrp/status/2115768177661718840"
   },
   {
    "author_id": "1646087345127690240",
@@ -215,6 +731,21 @@
    "edit_history_tweet_ids": [
     "2115731871342415907"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News Bulletin Star Asia Tv live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 57,
+      "expanded_url": "https://x.com/i/broadcasts/2ybrgKjadKlYzE",
+      "start": 34,
+      "status": 200,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2ybrgKjadKlYzE",
+      "url": "https://t.co/agMDsrSjim"
+     }
+    ]
+   },
    "id": "2115731871342415907",
    "public_metrics": {
     "bookmark_count": 0,
@@ -229,10 +760,127 @@
   },
   {
    "author_id": "1646087345127690240",
+   "created_at": "2026-10-29T10:51:01.000Z",
+   "edit_history_tweet_ids": [
+    "2115758297747788183"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News Bulletin Star Asia Tv live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 57,
+      "expanded_url": "https://x.com/i/broadcasts/2mdjdryJXPBXvk",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115758341649489920/7lbCl-YC?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115758341649489920/7lbCl-YC?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 34,
+      "status": 200,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2mdjdryJXPBXvk",
+      "url": "https://t.co/jbrDcEIwGu"
+     }
+    ]
+   },
+   "id": "2115758297747788183",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "News Bulletin Star Asia Tv live 🔴 https://t.co/jbrDcEIwGu",
+   "url": "https://x.com/StarAsiatvHD/status/2115758297747788183"
+  },
+  {
+   "author_id": "1646087345127690240",
+   "created_at": "2026-10-29T11:31:00.000Z",
+   "edit_history_tweet_ids": [
+    "2115768360755441852"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News Bulletin Star Asia Tv Live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 57,
+      "expanded_url": "https://x.com/i/broadcasts/2BlOlJNYdXAPPo",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115768403315081217/5xhkVN7I?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115768403315081217/5xhkVN7I?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 34,
+      "status": 404,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2BlOlJNYdXAPPo",
+      "url": "https://t.co/bECzxlPGtT"
+     }
+    ]
+   },
+   "id": "2115768360755441852",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "News Bulletin Star Asia Tv Live 🔴 https://t.co/bECzxlPGtT",
+   "url": "https://x.com/StarAsiatvHD/status/2115768360755441852"
+  },
+  {
+   "author_id": "1646087345127690240",
    "created_at": "2026-10-29T10:08:24.000Z",
    "edit_history_tweet_ids": [
     "2115747572471976083"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News Bulletin Star Asia Tv live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 57,
+      "expanded_url": "https://x.com/i/broadcasts/2JQRQMEyZAMWZr",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115747615081988096/QkDLG_U5?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115747615081988096/QkDLG_U5?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 34,
+      "status": 200,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2JQRQMEyZAMWZr",
+      "url": "https://t.co/Ekt9c0NVmE"
+     }
+    ]
+   },
    "id": "2115747572471976083",
    "public_metrics": {
     "bookmark_count": 0,
@@ -246,33 +894,49 @@
    "url": "https://x.com/StarAsiatvHD/status/2115747572471976083"
   },
   {
-   "author_id": "1405250098594975747",
-   "created_at": "2026-10-29T08:28:35.000Z",
-   "edit_history_tweet_ids": [
-    "2115722453288935727"
-   ],
-   "id": "2115722453288935727",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 16,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "3 AM Chill Stream: Reacting to News, Come Hang! https://t.co/sGd4rcwkHc",
-   "url": "https://x.com/MattDank3eyes/status/2115722453288935727"
-  },
-  {
    "author_id": "1942927435378388992",
    "created_at": "2026-10-29T09:01:03.000Z",
    "edit_history_tweet_ids": [
     "2115730624678162553"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 89,
+      "start": 84,
+      "tag": "LUFC"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE ON Youtube! | Leeds' FIRST January Signing? | Leeds Announce Safe Standing! | #LUFC News",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 118,
+      "expanded_url": "https://x.com/i/broadcasts/1jGXgBWmbVVKZ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115730627622510592/tjmeiGVm?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115730627622510592/tjmeiGVm?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 95,
+      "status": 200,
+      "title": "TheLeedsLens",
+      "unwound_url": "https://x.com/i/broadcasts/1jGXgBWmbVVKZ",
+      "url": "https://t.co/XjC2L5Ev9b"
+     }
+    ]
+   },
    "id": "2115730624678162553",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 140,
+    "impression_count": 153,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -282,15 +946,75 @@
    "url": "https://x.com/TheLeedsLens/status/2115730624678162553"
   },
   {
+   "author_id": "191910024",
+   "created_at": "2026-10-29T11:42:04.000Z",
+   "edit_history_tweet_ids": [
+    "2115771141973549414"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "866b: Fox News - Gregg Jarrett: This is deeply TROUBLING for prosecutors",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 96,
+      "expanded_url": "https://x.com/i/broadcasts/1RJZzBavVQzJB",
+      "start": 73,
+      "status": 200,
+      "title": "John R. Murphy",
+      "unwound_url": "https://x.com/i/broadcasts/1RJZzBavVQzJB",
+      "url": "https://t.co/nUyPwAeGvM"
+     }
+    ]
+   },
+   "id": "2115771141973549414",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "866b: Fox News - Gregg Jarrett: This is deeply TROUBLING for prosecutors https://t.co/nUyPwAeGvM",
+   "url": "https://x.com/Mur_Tech/status/2115771141973549414"
+  },
+  {
    "author_id": "974995792380473345",
    "created_at": "2026-10-29T10:28:20.000Z",
    "edit_history_tweet_ids": [
     "2115752590130729254"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 29th October 2026",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 113,
+      "expanded_url": "https://x.com/i/broadcasts/1kKzDPZggNwJv",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115752592429223936/0ZG4nyr-?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115752592429223936/0ZG4nyr-?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "ChannelOne TV",
+      "unwound_url": "https://x.com/i/broadcasts/1kKzDPZggNwJv",
+      "url": "https://t.co/P2IPU5QHn6"
+     }
+    ]
+   },
    "id": "2115752590130729254",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 622,
+    "impression_count": 653,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -305,10 +1029,37 @@
    "edit_history_tweet_ids": [
     "2115746230513078541"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Your Milwaukee Brewers Are World Series Champions! Wisconsin's Morning News is on the air to 10a! Moment of Brew & The Best Sound from Celebrations | 10/29/26",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 186,
+      "expanded_url": "https://x.com/i/broadcasts/1AJEmvEjlMkJL",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115746232740327424/mPmNQXYj?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115746232740327424/mPmNQXYj?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 163,
+      "status": 200,
+      "title": "620 WTMJ",
+      "unwound_url": "https://x.com/i/broadcasts/1AJEmvEjlMkJL",
+      "url": "https://t.co/mJqsm4vymN"
+     }
+    ]
+   },
    "id": "2115746230513078541",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 394,
+    "impression_count": 450,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -323,10 +1074,37 @@
    "edit_history_tweet_ids": [
     "2115739342505140271"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🔴LIVE: BRS Working President KTR address the media at Telangana Bhavan",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 94,
+      "expanded_url": "https://x.com/i/broadcasts/2lgWMVQpebQqKp",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115739385027067904/aotIoxSG?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115739385027067904/aotIoxSG?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 71,
+      "status": 200,
+      "title": "DD News Telangana | తెలంగాణ న్యూస్",
+      "unwound_url": "https://x.com/i/broadcasts/2lgWMVQpebQqKp",
+      "url": "https://t.co/pdGjyA9RvI"
+     }
+    ]
+   },
    "id": "2115739342505140271",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 217,
+    "impression_count": 225,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -341,10 +1119,37 @@
    "edit_history_tweet_ids": [
     "2115747808678498496"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: Turkish President Recep Tayyip Erdogan receives Republic Day congratulations at the Presidential Complex in Ankara",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 144,
+      "expanded_url": "https://x.com/i/broadcasts/1qKDzWNaYNDJV",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115743316436508672/-H97Inu2?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115743316436508672/-H97Inu2?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 121,
+      "status": 200,
+      "title": "TRT World",
+      "unwound_url": "https://x.com/i/broadcasts/1qKDzWNaYNDJV",
+      "url": "https://t.co/Yit4dfWcPJ"
+     }
+    ]
+   },
    "id": "2115747808678498496",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 323,
+    "impression_count": 330,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -359,10 +1164,37 @@
    "edit_history_tweet_ids": [
     "2115743600881344854"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: Turkish President Recep Tayyip Erdogan receives Republic Day congratulations at the Presidential Complex in Ankara",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 142,
+      "expanded_url": "https://x.com/i/broadcasts/1qKDzWNaYNDJV",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115743316436508672/-H97Inu2?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115743316436508672/-H97Inu2?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 119,
+      "status": 200,
+      "title": "TRT World",
+      "unwound_url": "https://x.com/i/broadcasts/1qKDzWNaYNDJV",
+      "url": "https://t.co/HTvIuT2NQK"
+     }
+    ]
+   },
    "id": "2115743600881344854",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1195,
+    "impression_count": 1257,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -377,10 +1209,37 @@
    "edit_history_tweet_ids": [
     "2115743418240381005"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: Turkish President Recep Tayyip Erdogan receives Republic Day congratulations at the Presidential Complex in Ankara",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 144,
+      "expanded_url": "https://x.com/i/broadcasts/1qKDzWNaYNDJV",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115743316436508672/-H97Inu2?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115743316436508672/-H97Inu2?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 121,
+      "status": 200,
+      "title": "TRT World",
+      "unwound_url": "https://x.com/i/broadcasts/1qKDzWNaYNDJV",
+      "url": "https://t.co/aRmGNWcSMu"
+     }
+    ]
+   },
    "id": "2115743418240381005",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1265,
+    "impression_count": 1284,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -388,79 +1247,6 @@
    },
    "text": "LIVE: Turkish President Recep Tayyip Erdogan receives Republic Day congratulations at the Presidential Complex in Ankara\nhttps://t.co/aRmGNWcSMu",
    "url": "https://x.com/TRTWorldNow/status/2115743418240381005"
-  },
-  {
-   "author_id": "3091150576",
-   "created_at": "2026-10-29T09:51:29.000Z",
-   "edit_history_tweet_ids": [
-    "2115743313781567976"
-   ],
-   "id": "2115743313781567976",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 2963,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 2
-   },
-   "text": "LIVE: Turkish President Recep Tayyip Erdogan receives Republic Day congratulations at the Presidential Complex in Ankara https://t.co/STVF5aI1S0",
-   "url": "https://x.com/trtworld/status/2115743313781567976"
-  },
-  {
-   "author_id": "1536223580",
-   "created_at": "2026-10-29T10:28:28.000Z",
-   "edit_history_tweet_ids": [
-    "2115752623714316709"
-   ],
-   "id": "2115752623714316709",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 694,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 1
-   },
-   "text": "WATCH LIVE: President Cyril Ramaphosa officiates the launch of the Cornubia Integrated Human Settlements Project in eThekwini, KwaZulu-Natal. https://t.co/2o3M0EySYm",
-   "url": "https://x.com/GovernmentZA/status/2115752623714316709"
-  },
-  {
-   "author_id": "1688076781801148416",
-   "created_at": "2026-10-29T09:31:00.000Z",
-   "edit_history_tweet_ids": [
-    "2115724141454328023",
-    "2115738161254891556"
-   ],
-   "id": "2115738161254891556",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 163,
-    "like_count": 3,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Asia Rugby Sevens Trophy Preview \n\nJoined by Steve from @RugbyAsia247 we will be breaking down the upcoming Sevens Trophy being hosted for the first time in Jordan.\n\nhttps://t.co/7Yar10NRhM",
-   "url": "https://x.com/AllThingsRugbyX/status/2115738161254891556"
-  },
-  {
-   "author_id": "19897138",
-   "created_at": "2026-10-29T08:35:22.000Z",
-   "edit_history_tweet_ids": [
-    "2115724158143504687"
-   ],
-   "id": "2115724158143504687",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 2286,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "#LIVE | Spirituality, wellness and the path to inner peace | Catch Swami Chidanand Saraswati, President and Spiritual Head of Parmarth Niketan Ashram, at the #IndiaTodayHealthWealthSummit. #ITLivestream https://t.co/lQ0bWRffkk",
-   "url": "https://x.com/IndiaToday/status/2115724158143504687"
   }
  ],
  "users": [
@@ -480,6 +1266,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "19897138",
+   "name": "IndiaToday",
+   "public_metrics": {
+    "followers_count": 6275033,
+    "following_count": 83,
+    "like_count": 4431,
+    "listed_count": 7342,
+    "media_count": 581592,
+    "tweet_count": 1542571
+   },
+   "username": "IndiaToday",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "593261108",
    "name": "Jamarl Thomas",
    "public_metrics": {
@@ -491,36 +1292,6 @@
     "tweet_count": 59626
    },
    "username": "JamarlThomas",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "832816328448831489",
-   "name": "Patriot Man aka 🎶Shawn Starry🎸🎙️🇺🇸🔥",
-   "public_metrics": {
-    "followers_count": 6372,
-    "following_count": 6430,
-    "like_count": 79609,
-    "listed_count": 3,
-    "media_count": 12588,
-    "tweet_count": 85365
-   },
-   "username": "HomeSecConsult",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1587574471627608064",
-   "name": "The Chris Salcedo Show",
-   "public_metrics": {
-    "followers_count": 36501,
-    "following_count": 185,
-    "like_count": 4054,
-    "listed_count": 105,
-    "media_count": 2806,
-    "tweet_count": 33284
-   },
-   "username": "CSalcedoShow",
    "verified": true,
    "verified_type": "blue"
   },
@@ -540,6 +1311,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "1587574471627608064",
+   "name": "The Chris Salcedo Show",
+   "public_metrics": {
+    "followers_count": 36501,
+    "following_count": 185,
+    "like_count": 4054,
+    "listed_count": 105,
+    "media_count": 2806,
+    "tweet_count": 33284
+   },
+   "username": "CSalcedoShow",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "1705649608964091904",
    "name": "Founder Redemption Party",
    "public_metrics": {
@@ -548,24 +1334,9 @@
     "like_count": 6874,
     "listed_count": 5,
     "media_count": 1172,
-    "tweet_count": 13966
+    "tweet_count": 13968
    },
    "username": "itsourturnrp",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "85814753",
-   "name": "Sandesh",
-   "public_metrics": {
-    "followers_count": 520558,
-    "following_count": 2,
-    "like_count": 1746,
-    "listed_count": 379,
-    "media_count": 223363,
-    "tweet_count": 463390
-   },
-   "username": "sandeshnews",
    "verified": true,
    "verified_type": "blue"
   },
@@ -585,21 +1356,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "1948718721641381888",
-   "name": "Catalyst Scalpers",
-   "public_metrics": {
-    "followers_count": 58,
-    "following_count": 93,
-    "like_count": 209,
-    "listed_count": 0,
-    "media_count": 37,
-    "tweet_count": 335
-   },
-   "username": "CatalystScalp",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1819442308678340609",
    "name": "Cannabis and Coffee Live",
    "public_metrics": {
@@ -615,6 +1371,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "85814753",
+   "name": "Sandesh",
+   "public_metrics": {
+    "followers_count": 520558,
+    "following_count": 2,
+    "like_count": 1746,
+    "listed_count": 379,
+    "media_count": 223368,
+    "tweet_count": 463395
+   },
+   "username": "sandeshnews",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "1646087345127690240",
    "name": "Star Asia Tv",
    "public_metrics": {
@@ -622,25 +1393,25 @@
     "following_count": 1,
     "like_count": 35,
     "listed_count": 1,
-    "media_count": 4676,
-    "tweet_count": 4781
+    "media_count": 4677,
+    "tweet_count": 4784
    },
    "username": "StarAsiatvHD",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1405250098594975747",
-   "name": "MattDank3eyes",
+   "id": "1948718721641381888",
+   "name": "Catalyst Scalpers",
    "public_metrics": {
-    "followers_count": 472,
-    "following_count": 678,
-    "like_count": 23236,
-    "listed_count": 10,
-    "media_count": 553,
-    "tweet_count": 16793
+    "followers_count": 58,
+    "following_count": 93,
+    "like_count": 209,
+    "listed_count": 0,
+    "media_count": 37,
+    "tweet_count": 335
    },
-   "username": "MattDank3eyes",
+   "username": "CatalystScalp",
    "verified": true,
    "verified_type": "blue"
   },
@@ -660,6 +1431,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "191910024",
+   "name": "John R. Murphy",
+   "public_metrics": {
+    "followers_count": 196,
+    "following_count": 155,
+    "like_count": 3073,
+    "listed_count": 0,
+    "media_count": 773,
+    "tweet_count": 8715
+   },
+   "username": "Mur_Tech",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "974995792380473345",
    "name": "ChannelOne TV",
    "public_metrics": {
@@ -667,8 +1453,8 @@
     "following_count": 70,
     "like_count": 1797,
     "listed_count": 211,
-    "media_count": 59200,
-    "tweet_count": 153007
+    "media_count": 59202,
+    "tweet_count": 153009
    },
    "username": "Channel1TVGHA",
    "verified": true,
@@ -682,8 +1468,8 @@
     "following_count": 670,
     "like_count": 3091,
     "listed_count": 625,
-    "media_count": 38673,
-    "tweet_count": 146570
+    "media_count": 38674,
+    "tweet_count": 146571
    },
    "username": "620wtmj",
    "verified": true,
@@ -708,7 +1494,7 @@
    "id": "1557334810657521666",
    "name": "TRT Afrika",
    "public_metrics": {
-    "followers_count": 60409,
+    "followers_count": 60410,
     "following_count": 24,
     "like_count": 2,
     "listed_count": 98,
@@ -723,12 +1509,12 @@
    "id": "240265305",
    "name": "Anadolu English",
    "public_metrics": {
-    "followers_count": 318786,
+    "followers_count": 318787,
     "following_count": 21,
     "like_count": 2,
     "listed_count": 2983,
-    "media_count": 308279,
-    "tweet_count": 425113
+    "media_count": 308280,
+    "tweet_count": 425114
    },
    "username": "anadoluagency",
    "verified": true,
@@ -738,7 +1524,7 @@
    "id": "804605049859145728",
    "name": "TRT World Now",
    "public_metrics": {
-    "followers_count": 298087,
+    "followers_count": 298089,
     "following_count": 22,
     "like_count": 1,
     "listed_count": 1515,
@@ -748,66 +1534,12 @@
    "username": "TRTWorldNow",
    "verified": true,
    "verified_type": "business"
-  },
-  {
-   "id": "3091150576",
-   "name": "TRT World",
-   "public_metrics": {
-    "followers_count": 708069,
-    "following_count": 26,
-    "like_count": 0,
-    "listed_count": 3066,
-    "media_count": 150752,
-    "tweet_count": 287193
-   },
-   "username": "trtworld",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
-   "id": "1536223580",
-   "name": "South African Government",
-   "public_metrics": {
-    "followers_count": 874074,
-    "following_count": 811,
-    "like_count": 9230,
-    "listed_count": 1296,
-    "media_count": 51901,
-    "tweet_count": 117637
-   },
-   "username": "GovernmentZA",
-   "verified": true,
-   "verified_type": "government"
-  },
-  {
-   "id": "1688076781801148416",
-   "name": "All Things Rugby",
-   "public_metrics": {
-    "followers_count": 2729,
-    "following_count": 634,
-    "like_count": 5314,
-    "listed_count": 40,
-    "media_count": 8965,
-    "tweet_count": 15788
-   },
-   "username": "AllThingsRugbyX",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
-   "id": "19897138",
-   "name": "IndiaToday",
-   "public_metrics": {
-    "followers_count": 6275029,
-    "following_count": 83,
-    "like_count": 4431,
-    "listed_count": 7342,
-    "media_count": 581590,
-    "tweet_count": 1542567
-   },
-   "username": "IndiaToday",
-   "verified": true,
-   "verified_type": "blue"
   }
- ]
+ ],
+ "meta": {
+  "newest_id": "2115771141973549414",
+  "next_token": "b26v89c19zqg8o3juzlxo8rv388s2mx0vy30pcoj3nddp",
+  "oldest_id": "2115730624678162553",
+  "result_count": 25
+ }
 }

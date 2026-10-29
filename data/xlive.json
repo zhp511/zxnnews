@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-29T11:27:57Z",
- "searched_at": "2026-10-29T11:28:00Z",
+ "built_at": "2026-10-29T11:44:15Z",
+ "searched_at": "2026-10-29T11:44:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2115767519806136388",
+   "post_url": "https://x.com/IndiaToday/status/2115767519806136388",
+   "name": "IndiaToday",
+   "username": "IndiaToday",
+   "verified_type": "blue",
+   "text": "LIVE || Attack on Congress over 'Sadak Pe Faisla' JP Nadda on PM Modi's 'Health Revolution'  #ITLivestream #IndiaTodayHealthWealthSummit #5Live https://t.co/ZDB7mQUVSY",
+   "started_at": "2026-10-29T11:27:40.000Z",
+   "assumed_live_until": "2026-10-29T14:27:40Z"
+  },
   {
    "post_id": "2115744186284859549",
    "post_url": "https://x.com/CSalcedoShow/status/2115744186284859549",
@@ -45,26 +55,6 @@
    "assumed_live_until": "2026-10-29T13:32:39Z"
   },
   {
-   "post_id": "2115724158143504687",
-   "post_url": "https://x.com/IndiaToday/status/2115724158143504687",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
-   "verified_type": "blue",
-   "text": "#LIVE | Spirituality, wellness and the path to inner peace | Catch Swami Chidanand Saraswati, President and Spiritual Head of Parmarth Niketan Ashram, at the #IndiaTodayHealthWealthSummit. #ITLivestream https://t.co/lQ0bWRffkk",
-   "started_at": "2026-10-29T08:35:22.000Z",
-   "assumed_live_until": "2026-10-29T11:35:22Z"
-  },
-  {
-   "post_id": "2115752623714316709",
-   "post_url": "https://x.com/GovernmentZA/status/2115752623714316709",
-   "name": "South African Government",
-   "username": "GovernmentZA",
-   "verified_type": "government",
-   "text": "WATCH LIVE: President Cyril Ramaphosa officiates the launch of the Cornubia Integrated Human Settlements Project in eThekwini, KwaZulu-Natal. https://t.co/2o3M0EySYm",
-   "started_at": "2026-10-29T10:28:28.000Z",
-   "assumed_live_until": "2026-10-29T13:28:28Z"
-  },
-  {
    "post_id": "2115752590130729254",
    "post_url": "https://x.com/Channel1TVGHA/status/2115752590130729254",
    "name": "ChannelOne TV",
@@ -83,6 +73,16 @@
    "text": "Your Milwaukee Brewers Are World Series Champions! Wisconsin's Morning News is on the air to 10a! Moment of Brew & The Best Sound from Celebrations | 10/29/26 https://t.co/mJqsm4vymN",
    "started_at": "2026-10-29T10:03:04.000Z",
    "assumed_live_until": "2026-10-29T13:03:04Z"
+  },
+  {
+   "post_id": "2115747808678498496",
+   "post_url": "https://x.com/trtafrika/status/2115747808678498496",
+   "name": "TRT Afrika",
+   "username": "trtafrika",
+   "verified_type": "business",
+   "text": "LIVE: Turkish President Recep Tayyip Erdogan receives Republic Day congratulations at the Presidential Complex in Ankara https://t.co/Yit4dfWcPJ",
+   "started_at": "2026-10-29T10:09:20.000Z",
+   "assumed_live_until": "2026-10-29T13:09:20Z"
   }
  ]
 }
