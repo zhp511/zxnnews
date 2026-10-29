@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T21:30:00Z",
+ "fetched_at": "2026-10-29T22:26:00Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,65 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-10-29T22:21:15.000Z",
+     "edit_history_tweet_ids": [
+      "2115931997780533550"
+     ],
+     "id": "2115931997780533550",
+     "in_reply_to_user_id": "178556804",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "@menotsosilent happy birthday man",
+     "url": "https://x.com/i/status/2115931997780533550"
+    }
+   ],
+   "meta": {
+    "newest_id": "2115931997780533550",
+    "oldest_id": "2115931997780533550",
+    "result_count": 1
+   }
+  },
+  {
+   "data": [
+    {
+     "created_at": "2026-10-29T22:02:31.000Z",
+     "edit_history_tweet_ids": [
+      "2115927284817461496"
+     ],
+     "id": "2115927284817461496",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58779
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115891266131300517",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @SirPatStew: In lieu of flowers, memorial contributions may be made to:\nJohns Hopkins Alzheimer’s Disease Research Center Fund   \nhttps:…",
+     "url": "https://x.com/i/status/2115927284817461496"
+    }
+   ],
+   "meta": {
+    "newest_id": "2115927284817461496",
+    "oldest_id": "2115927284817461496",
+    "result_count": 1
+   }
+  },
   {
    "data": [
     {
