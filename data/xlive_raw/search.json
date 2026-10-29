@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T09:00:59Z",
+ "fetched_at": "2026-10-29T09:16:44Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T06:01:00Z",
+  "start_time": "2026-10-29T06:16:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -38,7 +38,7 @@
    "id": "2115705190305161725",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 141,
+    "impression_count": 144,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -56,7 +56,7 @@
    "id": "2115714236311875902",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 73,
+    "impression_count": 86,
     "like_count": 7,
     "quote_count": 0,
     "reply_count": 0,
@@ -92,7 +92,7 @@
    "id": "2115714536217133281",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 239,
+    "impression_count": 257,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -120,6 +120,24 @@
    "url": "https://x.com/HomeSecConsult/status/2115723358436524214"
   },
   {
+   "author_id": "1202831887984541697",
+   "created_at": "2026-10-29T07:48:51.000Z",
+   "edit_history_tweet_ids": [
+    "2115712454470607244"
+   ],
+   "id": "2115712454470607244",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 75,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "NEWS BULLETIN || LIVE || NEWS || NETWORK10 https://t.co/IDkxNjNJOm",
+   "url": "https://x.com/Network10Update/status/2115712454470607244"
+  },
+  {
    "author_id": "2031681148796260352",
    "created_at": "2026-10-29T07:30:46.000Z",
    "edit_history_tweet_ids": [
@@ -136,60 +154,6 @@
    },
    "text": "Kubera  Update Live | Kubera Now | Business News In Gujarati | Share Market Live Update | Stock Market News | LIVE https://t.co/Lkyc26NXac",
    "url": "https://x.com/KuberaNow17430/status/2115707904120737927"
-  },
-  {
-   "author_id": "1202831887984541697",
-   "created_at": "2026-10-29T07:48:51.000Z",
-   "edit_history_tweet_ids": [
-    "2115712454470607244"
-   ],
-   "id": "2115712454470607244",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 74,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "NEWS BULLETIN || LIVE || NEWS || NETWORK10 https://t.co/IDkxNjNJOm",
-   "url": "https://x.com/Network10Update/status/2115712454470607244"
-  },
-  {
-   "author_id": "1999037304103723008",
-   "created_at": "2026-10-29T07:40:58.000Z",
-   "edit_history_tweet_ids": [
-    "2115710468589281733"
-   ],
-   "id": "2115710468589281733",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 23,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "GrowthNow News LIVE ! https://t.co/8yw3y3yrY6",
-   "url": "https://x.com/growthnownews/status/2115710468589281733"
-  },
-  {
-   "author_id": "34262462",
-   "created_at": "2026-10-29T06:10:57.000Z",
-   "edit_history_tweet_ids": [
-    "2115687816571277602"
-   ],
-   "id": "2115687816571277602",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 1782,
-    "like_count": 34,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 3
-   },
-   "text": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit https://t.co/4yT52NzEyH",
-   "url": "https://x.com/SputnikInt/status/2115687816571277602"
   },
   {
    "author_id": "239486395",
@@ -210,6 +174,42 @@
    "url": "https://x.com/ProtestMusica/status/2115696247642132898"
   },
   {
+   "author_id": "1999037304103723008",
+   "created_at": "2026-10-29T07:40:58.000Z",
+   "edit_history_tweet_ids": [
+    "2115710468589281733"
+   ],
+   "id": "2115710468589281733",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 23,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "GrowthNow News LIVE ! https://t.co/8yw3y3yrY6",
+   "url": "https://x.com/growthnownews/status/2115710468589281733"
+  },
+  {
+   "author_id": "1942927435378388992",
+   "created_at": "2026-10-29T09:01:03.000Z",
+   "edit_history_tweet_ids": [
+    "2115730624678162553"
+   ],
+   "id": "2115730624678162553",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 25,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE ON Youtube! | Leeds' FIRST January Signing? | Leeds Announce Safe Standing! |  #LUFC News https://t.co/XjC2L5Ev9b",
+   "url": "https://x.com/TheLeedsLens/status/2115730624678162553"
+  },
+  {
    "author_id": "1501773476281352197",
    "created_at": "2026-10-29T07:01:24.000Z",
    "edit_history_tweet_ids": [
@@ -218,7 +218,7 @@
    "id": "2115700512297521581",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 54,
+    "impression_count": 58,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -226,6 +226,42 @@
    },
    "text": "LIVE Khalistan News Hour https://t.co/yIZxiwY2zr",
    "url": "https://x.com/JohlRavinder/status/2115700512297521581"
+  },
+  {
+   "author_id": "1405250098594975747",
+   "created_at": "2026-10-29T08:28:35.000Z",
+   "edit_history_tweet_ids": [
+    "2115722453288935727"
+   ],
+   "id": "2115722453288935727",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "3 AM Chill Stream: Reacting to News, Come Hang! https://t.co/sGd4rcwkHc",
+   "url": "https://x.com/MattDank3eyes/status/2115722453288935727"
+  },
+  {
+   "author_id": "1646087345127690240",
+   "created_at": "2026-10-29T09:06:01.000Z",
+   "edit_history_tweet_ids": [
+    "2115731871342415907"
+   ],
+   "id": "2115731871342415907",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "News Bulletin Star Asia Tv live 🔴 https://t.co/agMDsrSjim",
+   "url": "https://x.com/StarAsiatvHD/status/2115731871342415907"
   },
   {
    "author_id": "1646087345127690240",
@@ -246,24 +282,6 @@
    "url": "https://x.com/StarAsiatvHD/status/2115712520082088393"
   },
   {
-   "author_id": "1405250098594975747",
-   "created_at": "2026-10-29T08:28:35.000Z",
-   "edit_history_tweet_ids": [
-    "2115722453288935727"
-   ],
-   "id": "2115722453288935727",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 6,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "3 AM Chill Stream: Reacting to News, Come Hang! https://t.co/sGd4rcwkHc",
-   "url": "https://x.com/MattDank3eyes/status/2115722453288935727"
-  },
-  {
    "author_id": "19897138",
    "created_at": "2026-10-29T06:30:13.000Z",
    "edit_history_tweet_ids": [
@@ -272,7 +290,7 @@
    "id": "2115692666164048060",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2205,
+    "impression_count": 2222,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -290,7 +308,7 @@
    "id": "2115700283724718357",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 732,
+    "impression_count": 742,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -298,25 +316,6 @@
    },
    "text": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 29th October 2026 https://t.co/HBp5s0JGgZ",
    "url": "https://x.com/Channel1TVGHA/status/2115700283724718357"
-  },
-  {
-   "author_id": "355989081",
-   "created_at": "2026-10-29T08:02:57.000Z",
-   "edit_history_tweet_ids": [
-    "2115715737159344395",
-    "2115716001253999046"
-   ],
-   "id": "2115716001253999046",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 8734,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "LIVE: ASEAN Defence Ministers Meet I Philippine Defence Secy Gilbert Teodoro Holds News Conference \n\n#asean #defenceminister #Philippine #teodoro #live \n\nhttps://t.co/eYydnvjtDN",
-   "url": "https://x.com/ANI/status/2115716001253999046"
   },
   {
    "author_id": "355989081",
@@ -328,7 +327,7 @@
    "id": "2115715737159344395",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 11024,
+    "impression_count": 11201,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -336,6 +335,25 @@
    },
    "text": "LIVE: ASEAN Defence Ministers Meet I Philippine Defence Secy Gilbert Teodoro Holds News Conference \n\n#asean #defenceminister #Philippine #teodoro #live \n\nSOURCE: HOST BROADCASTER VIA REUTERS https://t.co/eYydnviVOf",
    "url": "https://x.com/ANI/status/2115715737159344395"
+  },
+  {
+   "author_id": "355989081",
+   "created_at": "2026-10-29T08:02:57.000Z",
+   "edit_history_tweet_ids": [
+    "2115715737159344395",
+    "2115716001253999046"
+   ],
+   "id": "2115716001253999046",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8961,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "LIVE: ASEAN Defence Ministers Meet I Philippine Defence Secy Gilbert Teodoro Holds News Conference \n\n#asean #defenceminister #Philippine #teodoro #live \n\nhttps://t.co/eYydnvjtDN",
+   "url": "https://x.com/ANI/status/2115716001253999046"
   },
   {
    "author_id": "246688646",
@@ -347,7 +365,7 @@
    "id": "2115689746777207049",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 643,
+    "impression_count": 652,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -365,7 +383,7 @@
    "id": "2115696321898086692",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1696,
+    "impression_count": 1718,
     "like_count": 8,
     "quote_count": 0,
     "reply_count": 0,
@@ -383,7 +401,7 @@
    "id": "2115720451141833206",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1089,
+    "impression_count": 1201,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -401,7 +419,7 @@
    "id": "2115723201334628681",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 370,
+    "impression_count": 432,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 1,
@@ -419,10 +437,10 @@
    "id": "2115717926330208657",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1579,
-    "like_count": 8,
+    "impression_count": 1828,
+    "like_count": 10,
     "quote_count": 0,
-    "reply_count": 0,
+    "reply_count": 1,
     "retweet_count": 1
    },
    "text": "LIVE: Turkish President Recep Tayyip Erdogan visits Anitkabir, the mausoleum of Türkiye’s founder Ataturk, as the country marks the 103rd anniversary of the Republic\nhttps://t.co/UlwWGQhM2l",
@@ -437,7 +455,7 @@
    "id": "2115717441007534253",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3398,
+    "impression_count": 3616,
     "like_count": 11,
     "quote_count": 0,
     "reply_count": 1,
@@ -445,24 +463,6 @@
    },
    "text": "LIVE: Turkish President Recep Tayyip Erdogan visits Anitkabir, the mausoleum of Türkiye’s founder Ataturk, as the country marks the 103rd anniversary of the Republic https://t.co/y4bChRPns6",
    "url": "https://x.com/trtworld/status/2115717441007534253"
-  },
-  {
-   "author_id": "19897138",
-   "created_at": "2026-10-29T08:35:22.000Z",
-   "edit_history_tweet_ids": [
-    "2115724158143504687"
-   ],
-   "id": "2115724158143504687",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1939,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "#LIVE | Spirituality, wellness and the path to inner peace | Catch Swami Chidanand Saraswati, President and Spiritual Head of Parmarth Niketan Ashram, at the #IndiaTodayHealthWealthSummit. #ITLivestream https://t.co/lQ0bWRffkk",
-   "url": "https://x.com/IndiaToday/status/2115724158143504687"
   }
  ],
  "users": [
@@ -489,8 +489,8 @@
     "following_count": 1,
     "like_count": 11008,
     "listed_count": 18,
-    "media_count": 122593,
-    "tweet_count": 134840
+    "media_count": 122595,
+    "tweet_count": 134842
    },
    "username": "jmdnewsflash",
    "verified": true,
@@ -524,8 +524,8 @@
     "following_count": 1996,
     "like_count": 1967,
     "listed_count": 65,
-    "media_count": 10048,
-    "tweet_count": 35274
+    "media_count": 10049,
+    "tweet_count": 35276
    },
    "username": "salaamedia",
    "verified": true,
@@ -540,7 +540,7 @@
     "like_count": 22,
     "listed_count": 2477,
     "media_count": 21706,
-    "tweet_count": 187269
+    "tweet_count": 187270
    },
    "username": "Thenationth",
    "verified": true,
@@ -562,6 +562,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "1202831887984541697",
+   "name": "Network10",
+   "public_metrics": {
+    "followers_count": 2536,
+    "following_count": 24,
+    "like_count": 3958,
+    "listed_count": 9,
+    "media_count": 64244,
+    "tweet_count": 72672
+   },
+   "username": "Network10Update",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "2031681148796260352",
    "name": "KuberaNow",
    "public_metrics": {
@@ -577,83 +592,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "1202831887984541697",
-   "name": "Network10",
-   "public_metrics": {
-    "followers_count": 2536,
-    "following_count": 24,
-    "like_count": 3958,
-    "listed_count": 9,
-    "media_count": 64240,
-    "tweet_count": 72668
-   },
-   "username": "Network10Update",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1999037304103723008",
-   "name": "Growthnownews",
-   "public_metrics": {
-    "followers_count": 211,
-    "following_count": 12,
-    "like_count": 1048,
-    "listed_count": 2,
-    "media_count": 4654,
-    "tweet_count": 5988
-   },
-   "username": "growthnownews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "34262462",
-   "name": "Sputnik",
-   "public_metrics": {
-    "followers_count": 502121,
-    "following_count": 162,
-    "like_count": 1088,
-    "listed_count": 7551,
-    "media_count": 85414,
-    "tweet_count": 279794
-   },
-   "username": "SputnikInt",
-   "verified": true,
-   "verified_type": "blue",
-   "withheld": {
-    "country_codes": [
-     "AT",
-     "BE",
-     "BG",
-     "CY",
-     "CZ",
-     "DE",
-     "DK",
-     "EE",
-     "ES",
-     "FI",
-     "FR",
-     "GB",
-     "GR",
-     "HR",
-     "HU",
-     "IE",
-     "IT",
-     "LT",
-     "LU",
-     "LV",
-     "MT",
-     "NL",
-     "PL",
-     "PT",
-     "RO",
-     "SE",
-     "SI",
-     "SK"
-    ]
-   }
-  },
-  {
    "id": "239486395",
    "name": "Protest & Musica 🎶 🌎📺 🚨🎃",
    "public_metrics": {
@@ -667,6 +605,36 @@
    "username": "ProtestMusica",
    "verified": false,
    "verified_type": "none"
+  },
+  {
+   "id": "1999037304103723008",
+   "name": "Growthnownews",
+   "public_metrics": {
+    "followers_count": 211,
+    "following_count": 12,
+    "like_count": 1048,
+    "listed_count": 2,
+    "media_count": 4656,
+    "tweet_count": 5990
+   },
+   "username": "growthnownews",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1942927435378388992",
+   "name": "TheLeedsLens",
+   "public_metrics": {
+    "followers_count": 515,
+    "following_count": 16,
+    "like_count": 38,
+    "listed_count": 1,
+    "media_count": 771,
+    "tweet_count": 1528
+   },
+   "username": "TheLeedsLens",
+   "verified": true,
+   "verified_type": "blue"
   },
   {
    "id": "1501773476281352197",
@@ -689,21 +657,6 @@
    }
   },
   {
-   "id": "1646087345127690240",
-   "name": "Star Asia Tv",
-   "public_metrics": {
-    "followers_count": 163,
-    "following_count": 1,
-    "like_count": 35,
-    "listed_count": 1,
-    "media_count": 4667,
-    "tweet_count": 4768
-   },
-   "username": "StarAsiatvHD",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1405250098594975747",
    "name": "MattDank3eyes",
    "public_metrics": {
@@ -719,15 +672,30 @@
    "verified_type": "blue"
   },
   {
+   "id": "1646087345127690240",
+   "name": "Star Asia Tv",
+   "public_metrics": {
+    "followers_count": 163,
+    "following_count": 1,
+    "like_count": 35,
+    "listed_count": 1,
+    "media_count": 4670,
+    "tweet_count": 4772
+   },
+   "username": "StarAsiatvHD",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6274991,
+    "followers_count": 6274994,
     "following_count": 83,
     "like_count": 4431,
     "listed_count": 7343,
     "media_count": 581546,
-    "tweet_count": 1542500
+    "tweet_count": 1542503
    },
    "username": "IndiaToday",
    "verified": true,
@@ -737,7 +705,7 @@
    "id": "974995792380473345",
    "name": "ChannelOne TV",
    "public_metrics": {
-    "followers_count": 438307,
+    "followers_count": 438308,
     "following_count": 70,
     "like_count": 1797,
     "listed_count": 211,
@@ -752,12 +720,12 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9490794,
+    "followers_count": 9490798,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7874,
-    "media_count": 751139,
-    "tweet_count": 1182531
+    "media_count": 751148,
+    "tweet_count": 1182540
    },
    "username": "ANI",
    "verified": true,
@@ -771,8 +739,8 @@
     "following_count": 302,
     "like_count": 5716,
     "listed_count": 222,
-    "media_count": 62324,
-    "tweet_count": 297016
+    "media_count": 62325,
+    "tweet_count": 297017
    },
    "username": "Hitz1039FM",
    "verified": true,
@@ -787,7 +755,7 @@
     "like_count": 2990,
     "listed_count": 260,
     "media_count": 52036,
-    "tweet_count": 83514
+    "tweet_count": 83515
    },
    "username": "YSRCParty",
    "verified": true,
@@ -797,12 +765,12 @@
    "id": "240265305",
    "name": "Anadolu English",
    "public_metrics": {
-    "followers_count": 318784,
+    "followers_count": 318785,
     "following_count": 21,
     "like_count": 2,
     "listed_count": 2982,
-    "media_count": 308269,
-    "tweet_count": 425102
+    "media_count": 308270,
+    "tweet_count": 425103
    },
    "username": "anadoluagency",
    "verified": true,
@@ -816,8 +784,8 @@
     "following_count": 24,
     "like_count": 2,
     "listed_count": 98,
-    "media_count": 19246,
-    "tweet_count": 27938
+    "media_count": 19247,
+    "tweet_count": 27939
    },
    "username": "trtafrika",
    "verified": true,
@@ -827,12 +795,12 @@
    "id": "804605049859145728",
    "name": "TRT World Now",
    "public_metrics": {
-    "followers_count": 298089,
+    "followers_count": 298086,
     "following_count": 22,
     "like_count": 1,
     "listed_count": 1514,
-    "media_count": 158689,
-    "tweet_count": 194132
+    "media_count": 158692,
+    "tweet_count": 194135
    },
    "username": "TRTWorldNow",
    "verified": true,
@@ -842,12 +810,12 @@
    "id": "3091150576",
    "name": "TRT World",
    "public_metrics": {
-    "followers_count": 708061,
+    "followers_count": 708062,
     "following_count": 26,
     "like_count": 0,
     "listed_count": 3066,
-    "media_count": 150747,
-    "tweet_count": 287183
+    "media_count": 150748,
+    "tweet_count": 287184
    },
    "username": "trtworld",
    "verified": true,

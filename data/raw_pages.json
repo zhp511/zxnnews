@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T06:56:00Z",
+ "fetched_at": "2026-10-29T09:16:44Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,217 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-10-29T08:24:03.000Z",
+     "edit_history_tweet_ids": [
+      "2115721309451882837"
+     ],
+     "id": "2115721309451882837",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115642675944702022",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @WhaleNewsDaily: 🚨 GOVERNMENTS ARE TELLING CITIZENS TO STOCK UP FOR EMERGENCY\n\n🇺🇸 USA: NATIONWIDE ALERT TEST, NOV 17\n\nAnd they are not a…",
+     "url": "https://x.com/i/status/2115721309451882837"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2115482743513423872"
+      ]
+     },
+     "created_at": "2026-10-29T08:20:03.000Z",
+     "edit_history_tweet_ids": [
+      "2115720303544537256"
+     ],
+     "id": "2115720303544537256",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 306
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115483342460125331",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @austin_fit76995: You will be on your own. https://t.co/V6sDbAvgTD",
+     "url": "https://x.com/i/status/2115720303544537256"
+    },
+    {
+     "created_at": "2026-10-29T08:09:41.000Z",
+     "edit_history_tweet_ids": [
+      "2115717695219896682"
+     ],
+     "id": "2115717695219896682",
+     "in_reply_to_user_id": "302961644",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 54,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115717431654035752",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@SarahisCensored Wow",
+     "url": "https://x.com/i/status/2115717695219896682"
+    },
+    {
+     "created_at": "2026-10-29T07:13:49.000Z",
+     "edit_history_tweet_ids": [
+      "2115703637955776983"
+     ],
+     "id": "2115703637955776983",
+     "in_reply_to_user_id": "887847250340315136",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115702988362911772",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@TheRealSantino Thank you, Man you can give me a follow please",
+     "url": "https://x.com/i/status/2115703637955776983"
+    },
+    {
+     "created_at": "2026-10-29T07:12:52.000Z",
+     "edit_history_tweet_ids": [
+      "2115703395847967184"
+     ],
+     "id": "2115703395847967184",
+     "in_reply_to_user_id": "887847250340315136",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115702630475583804",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@TheRealSantino Ok",
+     "url": "https://x.com/i/status/2115703395847967184"
+    },
+    {
+     "created_at": "2026-10-29T06:59:35.000Z",
+     "edit_history_tweet_ids": [
+      "2115700056737055104"
+     ],
+     "id": "2115700056737055104",
+     "in_reply_to_user_id": "887847250340315136",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 122,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115638113280335886",
+       "type": "quoted"
+      }
+     ],
+     "text": "@TheRealSantino can you check this out? https://t.co/BhgYvwyf4I",
+     "url": "https://x.com/i/status/2115700056737055104"
+    },
+    {
+     "created_at": "2026-10-29T06:51:54.000Z",
+     "edit_history_tweet_ids": [
+      "2115698120000471162"
+     ],
+     "id": "2115698120000471162",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 491
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115638113280335886",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @defense_civil25: 🚨Update: Russia and China are helping Iran prepare to launch a massive cyberattack against the United States power gri…",
+     "url": "https://x.com/i/status/2115698120000471162"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "height": 576,
+      "media_key": "13_2115482743513423872",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2115482743513423872/img/Q7TkFXTDarxjf_yq.jpg",
+      "type": "video",
+      "variants": [
+       {
+        "bit_rate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115482743513423872/vid/avc1/480x270/D05ySETMssMn44p4.mp4"
+       },
+       {
+        "bit_rate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115482743513423872/vid/avc1/640x360/lpNptNx1mWBKQeR6.mp4"
+       },
+       {
+        "bit_rate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2115482743513423872/vid/avc1/1024x576/wosG1x7ifwi6a85K.mp4"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2115482743513423872/pl/tFbiAhdNHe2bb52N.m3u8?v=560"
+       }
+      ],
+      "width": 1024
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2115721309451882837",
+    "oldest_id": "2115698120000471162",
+    "result_count": 7
+   }
+  },
   {
    "data": [
     {
