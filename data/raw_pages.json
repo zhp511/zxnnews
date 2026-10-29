@@ -23,6 +23,55 @@
   {
    "data": [
     {
+     "created_at": "2026-10-29T23:07:02.000Z",
+     "edit_history_tweet_ids": [
+      "2115943519697125569"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 9,
+        "id": "1587930057804234754",
+        "start": 0,
+        "username": "Drax2431"
+       },
+       {
+        "end": 26,
+        "id": "1461486282278944770",
+        "start": 10,
+        "username": "AramJustinOcean"
+       }
+      ]
+     },
+     "id": "2115943519697125569",
+     "in_reply_to_user_id": "1587930057804234754",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115940644262953177",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@Drax2431 @AramJustinOcean Yes",
+     "url": "https://x.com/i/status/2115943519697125569"
+    }
+   ],
+   "meta": {
+    "newest_id": "2115943519697125569",
+    "oldest_id": "2115943519697125569",
+    "result_count": 1
+   }
+  },
+  {
+   "data": [
+    {
      "created_at": "2026-10-29T22:21:15.000Z",
      "edit_history_tweet_ids": [
       "2115931997780533550"
