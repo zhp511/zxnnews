@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-29T18:02:48Z",
- "searched_at": "2026-10-29T18:02:30Z",
+ "built_at": "2026-10-29T18:20:25Z",
+ "searched_at": "2026-10-29T18:20:15Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-10-29T19:00:31Z"
   },
   {
-   "post_id": "2115821751561232621",
-   "post_url": "https://x.com/Dialogue_NRA/status/2115821751561232621",
-   "name": "Dialogue works",
-   "username": "Dialogue_NRA",
-   "verified_type": "blue",
-   "text": "Michael Hudson: BREAKING: Israel Election in Deadlock — Washington Left Disappointed https://t.co/c98vafptCz",
-   "started_at": "2026-10-29T15:03:10.000Z",
-   "assumed_live_until": "2026-10-29T18:03:10Z"
-  },
-  {
    "post_id": "2115836994786148724",
    "post_url": "https://x.com/TheBrancaShow/status/2115836994786148724",
    "name": "Andrew Branca Show",
@@ -83,6 +73,16 @@
    "text": "Lula Steals the Election, Flavio rescued by America... What's Next? (Ep. 177) https://t.co/yd6UXssLFe",
    "started_at": "2026-10-29T16:19:05.000Z",
    "assumed_live_until": "2026-10-29T19:19:05Z"
+  },
+  {
+   "post_id": "2115835891763531886",
+   "post_url": "https://x.com/ACLJ/status/2115835891763531886",
+   "name": "ACLJ",
+   "username": "ACLJ",
+   "verified_type": "blue",
+   "text": "BREAKING: Details Flood in as Alaska Election at Risk https://t.co/EF1gGENAVb",
+   "started_at": "2026-10-29T15:59:21.000Z",
+   "assumed_live_until": "2026-10-29T18:59:21Z"
   }
  ]
 }
