@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-29T15:04:19Z",
- "searched_at": "2026-10-29T15:04:00Z",
+ "built_at": "2026-10-29T15:20:53Z",
+ "searched_at": "2026-10-29T15:20:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2115807073552539717",
-   "post_url": "https://x.com/SenMcCormickPA/status/2115807073552539717",
-   "name": "Senator Dave McCormick",
-   "username": "SenMcCormickPA",
-   "verified_type": "government",
-   "text": "🔴LIVE NOW from Pittsburgh: I am hosting a Senate Special Committee on Aging field hearing examining how we can better combat loneliness and social isolation among Pennsylvania seniors. https://t.co/JXqfIxuz4d",
-   "started_at": "2026-10-29T14:04:50.000Z",
-   "assumed_live_until": "2026-10-29T17:04:50Z"
-  },
   {
    "post_id": "2115817154461262233",
    "post_url": "https://x.com/NEWSMAX/status/2115817154461262233",
@@ -23,6 +13,16 @@
    "text": "GERRY IS LIVE! 🎙️\nToday on The Gerry Callahan Show...\n🟥 Mary Peltola’s alleged election fraud in Alaska.\n🟥 Obama is still hitting the campaign trail.\n🟥 CNN claims that Trump is the one who is going to steal the next election.\nhttps://t.co/hWYp5dow4R",
    "started_at": "2026-10-29T14:44:54.000Z",
    "assumed_live_until": "2026-10-29T17:44:54Z"
+  },
+  {
+   "post_id": "2115823150399103223",
+   "post_url": "https://x.com/Republicans/status/2115823150399103223",
+   "name": "Republicans",
+   "username": "Republicans",
+   "verified_type": "blue",
+   "text": "Midterm Rally in Rock Hill, South Carolina featuring President Donald J. Trump https://t.co/MPiEtrKTVl",
+   "started_at": "2026-10-29T15:08:43.000Z",
+   "assumed_live_until": "2026-10-29T18:08:43Z"
   },
   {
    "post_id": "2115790211372491243",
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-10-29T18:03:30Z"
   },
   {
-   "post_id": "2115778631616057370",
-   "post_url": "https://x.com/realjamesrossi/status/2115778631616057370",
-   "name": "James Rossi 🇺🇸",
-   "username": "realjamesrossi",
-   "verified_type": "blue",
-   "text": "🚨LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26 https://t.co/y4zdMExXVe",
-   "started_at": "2026-10-29T12:11:49.000Z",
-   "assumed_live_until": "2026-10-29T15:11:49Z"
-  },
-  {
    "post_id": "2115821751561232621",
    "post_url": "https://x.com/Dialogue_NRA/status/2115821751561232621",
    "name": "Dialogue works",
@@ -63,6 +53,16 @@
    "text": "Michael Hudson: BREAKING: Israel Election in Deadlock — Washington Left Disappointed https://t.co/c98vafptCz",
    "started_at": "2026-10-29T15:03:10.000Z",
    "assumed_live_until": "2026-10-29T18:03:10Z"
+  },
+  {
+   "post_id": "2115820345546727800",
+   "post_url": "https://x.com/SenMcCormickPA/status/2115820345546727800",
+   "name": "Senator Dave McCormick",
+   "username": "SenMcCormickPA",
+   "verified_type": "government",
+   "text": "🔴LIVE NOW from Pittsburgh: I am hosting a Senate Special Committee on Aging field hearing examining how we can better combat loneliness and social isolation among Pennsylvania seniors. https://t.co/CgY6l2X0yO",
+   "started_at": "2026-10-29T14:57:35.000Z",
+   "assumed_live_until": "2026-10-29T17:57:35Z"
   },
   {
    "post_id": "2115820854663868851",
