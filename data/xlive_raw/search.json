@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T06:10:00Z",
+ "fetched_at": "2026-10-29T06:27:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T03:10:00Z",
+  "start_time": "2026-10-29T03:27:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -11,96 +11,6 @@
   "user.fields": "name,username,verified,verified_type,public_metrics"
  },
  "data": [
-  {
-   "author_id": "1697041691033632768",
-   "created_at": "2026-10-29T03:18:19.000Z",
-   "edit_history_tweet_ids": [
-    "2115644370166976940"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Did the Brazil Election Foreshadow Turmoil to Come | Is America Heading to a Downfall and Color Revolution with the 2026 Midterms | 8 Year-Old Girl Chokes to Death at Elementary and the Parents Demand Answers After Texas Ranger Investigation",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 265,
-      "expanded_url": "https://x.com/i/broadcasts/1MJgNbRWpMOGL",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115644412533555200/O0X-ZXeJ?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115644412533555200/O0X-ZXeJ?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 242,
-      "status": 200,
-      "title": "X America News",
-      "unwound_url": "https://x.com/i/broadcasts/1MJgNbRWpMOGL",
-      "url": "https://t.co/74siSqqnS7"
-     }
-    ]
-   },
-   "id": "2115644370166976940",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 586,
-    "like_count": 2,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Did the Brazil Election Foreshadow Turmoil to Come | Is America Heading to a Downfall and Color Revolution with the 2026 Midterms | 8 Year-Old Girl Chokes to Death at Elementary and the Parents Demand Answers After Texas Ranger Investigation https://t.co/74siSqqnS7",
-   "url": "https://x.com/XAmericaNews/status/2115644370166976940"
-  },
-  {
-   "author_id": "3959989991",
-   "created_at": "2026-10-29T03:18:19.000Z",
-   "edit_history_tweet_ids": [
-    "2115644372003979562"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Did the Brazil Election Foreshadow Turmoil to Come | Is America Heading to a Downfall and Color Revolution with the 2026 Midterms | 8 Year-Old Girl Chokes to Death at Elementary and the Parents Demand Answers After Texas Ranger Investigation",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 265,
-      "expanded_url": "https://x.com/i/broadcasts/1NGarobyWMvJj",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115644374675791872/2fOW0Qop?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115644374675791872/2fOW0Qop?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 242,
-      "status": 200,
-      "title": "Dustin Faulkner",
-      "unwound_url": "https://x.com/i/broadcasts/1NGarobyWMvJj",
-      "url": "https://t.co/j8o55JIx7R"
-     }
-    ]
-   },
-   "id": "2115644372003979562",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 104,
-    "like_count": 0,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Did the Brazil Election Foreshadow Turmoil to Come | Is America Heading to a Downfall and Color Revolution with the 2026 Midterms | 8 Year-Old Girl Chokes to Death at Elementary and the Parents Demand Answers After Texas Ranger Investigation https://t.co/j8o55JIx7R",
-   "url": "https://x.com/dloydfaulk/status/2115644372003979562"
-  },
   {
    "author_id": "1181435213651431424",
    "created_at": "2026-10-29T04:39:50.000Z",
@@ -110,8 +20,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Israel Election Deadlock: Can Netanyahu Survive? Trump, Iran & Pakistan\u2019s Stakes",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "description": "Israel Election Deadlock: Can Netanyahu Survive? Trump, Iran & Pakistan’s Stakes",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 108,
       "expanded_url": "https://x.com/i/broadcasts/1PJqrNvPBenxb",
       "images": [
@@ -143,7 +53,7 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Israel Election Deadlock: Can Netanyahu Survive? Trump, Iran &amp; Pakistan\u2019s Stakes https://t.co/qEdsAknoNJ",
+   "text": "Israel Election Deadlock: Can Netanyahu Survive? Trump, Iran &amp; Pakistan’s Stakes https://t.co/qEdsAknoNJ",
    "url": "https://x.com/KhawarLive/status/2115664887347319145"
   },
   {
@@ -155,8 +65,8 @@
    "entities": {
     "urls": [
      {
-      "description": "\ud83c\uddfa\ud83c\uddf8 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE]",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "description": "🇺🇸 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE]",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 108,
       "expanded_url": "https://x.com/i/broadcasts/1OGwbndzMYRKB",
       "images": [
@@ -182,13 +92,13 @@
    "id": "2115662618669265321",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 152,
+    "impression_count": 166,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 1,
     "retweet_count": 2
    },
-   "text": "\ud83c\uddfa\ud83c\uddf8 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE] https://t.co/cY6Z8wZYpn",
+   "text": "🇺🇸 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE] https://t.co/cY6Z8wZYpn",
    "url": "https://x.com/magnonewslive/status/2115662618669265321"
   },
   {
@@ -201,7 +111,7 @@
     "urls": [
      {
       "description": "LIVE DEBATE: Rep. Ro Khanna vs. Ritesh Tandon, a discussion about California's 17th District",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 116,
       "expanded_url": "https://x.com/i/broadcasts/1nJOLQMnaqkxR",
       "images": [
@@ -227,7 +137,7 @@
    "id": "2115665264205561976",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 23,
+    "impression_count": 27,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -245,8 +155,8 @@
    "entities": {
     "urls": [
      {
-      "description": "10 KA DUM LIVE : \u0938\u0941\u092c\u0939 10 \u092c\u091c\u0947 \u0915\u0940 \u092c\u0921\u093c\u0940 \u0916\u092c\u0930\u0947\u0902 | Cyclone Arnab | UP MLC Election Results | CM Yogi |",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "description": "10 KA DUM LIVE : सुबह 10 बजे की बड़ी खबरें | Cyclone Arnab | UP MLC Election Results | CM Yogi |",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 121,
       "expanded_url": "https://x.com/i/broadcasts/2OdKPOjZlkynlP",
       "images": [
@@ -272,13 +182,13 @@
    "id": "2115661781465280542",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 317,
+    "impression_count": 320,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "10 KA DUM LIVE : \u0938\u0941\u092c\u0939 10 \u092c\u091c\u0947 \u0915\u0940 \u092c\u0921\u093c\u0940 \u0916\u092c\u0930\u0947\u0902 | Cyclone Arnab | UP MLC Election Results | CM Yogi | \nhttps://t.co/UQM20Lj2aw",
+   "text": "10 KA DUM LIVE : सुबह 10 बजे की बड़ी खबरें | Cyclone Arnab | UP MLC Election Results | CM Yogi | \nhttps://t.co/UQM20Lj2aw",
    "url": "https://x.com/ZEEUPUK/status/2115661781465280542"
   },
   {
@@ -291,7 +201,7 @@
     "urls": [
      {
       "description": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 60,
       "expanded_url": "https://x.com/i/broadcasts/1OwGWeLAZbwxQ",
       "images": [
@@ -317,7 +227,7 @@
    "id": "2115654846141645122",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3743,
+    "impression_count": 3808,
     "like_count": 9,
     "quote_count": 0,
     "reply_count": 0,
@@ -336,7 +246,7 @@
     "urls": [
      {
       "description": "Episode #303 Prepare For Total Blackout In AMERICA, Pentagon Says Cyber Attacks Are Intermittent",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 120,
       "expanded_url": "https://x.com/i/broadcasts/1qxvverzojpxB",
       "images": [
@@ -362,7 +272,7 @@
    "id": "2115650065524212012",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 40,
+    "impression_count": 41,
     "like_count": 0,
     "quote_count": 1,
     "reply_count": 0,
@@ -381,7 +291,7 @@
     "urls": [
      {
       "description": "GB News",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 31,
       "expanded_url": "https://x.com/i/broadcasts/1rmxPvYWYeDGN",
       "images": [
@@ -407,11 +317,11 @@
    "id": "2115685050805260483",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1589,
-    "like_count": 2,
+    "impression_count": 2316,
+    "like_count": 4,
     "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 0
+    "reply_count": 3,
+    "retweet_count": 1
    },
    "text": "GB News https://t.co/qwzmw03Zvt",
    "url": "https://x.com/GBNEWS/status/2115685050805260483"
@@ -443,7 +353,7 @@
     "urls": [
      {
       "description": "VOC Burmese News (October 29, 2026) #VoiceOfChinland #VOCBurmese #DailyNews",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 99,
       "expanded_url": "https://x.com/i/broadcasts/1DGleVADaPDJL",
       "start": 76,
@@ -475,8 +385,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Chatri\u2019s Big Updates: ONE 174, Di Bella & Haggerty | ONE Championship News LIVE",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "description": "Chatri’s Big Updates: ONE 174, Di Bella & Haggerty | ONE Championship News LIVE",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 107,
       "expanded_url": "https://x.com/i/broadcasts/1qxoNYlPpMgJv",
       "images": [
@@ -502,164 +412,143 @@
    "id": "2115651274377154984",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 418,
-    "like_count": 6,
+    "impression_count": 431,
+    "like_count": 7,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Chatri\u2019s Big Updates: ONE 174, Di Bella &amp; Haggerty | ONE Championship News LIVE https://t.co/lWTTTFlO5W",
+   "text": "Chatri’s Big Updates: ONE 174, Di Bella &amp; Haggerty | ONE Championship News LIVE https://t.co/lWTTTFlO5W",
    "url": "https://x.com/nickatkinone/status/2115651274377154984"
   },
   {
-   "author_id": "2088906837844500480",
-   "created_at": "2026-10-29T03:10:34.000Z",
+   "author_id": "34262462",
+   "created_at": "2026-10-29T06:10:57.000Z",
    "edit_history_tweet_ids": [
-    "2115642422822683113"
-   ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 74,
-      "start": 70,
-      "tag": "EAM"
-     },
-     {
-      "end": 84,
-      "start": 75,
-      "tag": "MILITARY"
-     },
-     {
-      "end": 89,
-      "start": 85,
-      "tag": "WAR"
-     },
-     {
-      "end": 95,
-      "start": 90,
-      "tag": "NEWS"
-     },
-     {
-      "end": 100,
-      "start": 96,
-      "tag": "USA"
-     }
-    ],
-    "urls": [
-     {
-      "description": "THE WAR WATCHER",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 153,
-      "expanded_url": "https://x.com/i/broadcasts/2peOnRXMgLbojp",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115642465801662464/UXqb_mkh?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115642465801662464/UXqb_mkh?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 130,
-      "status": 200,
-      "title": "THE WAR WATCHER",
-      "unwound_url": "https://x.com/i/broadcasts/2peOnRXMgLbojp",
-      "url": "https://t.co/7sYuVxww33"
-     }
-    ]
-   },
-   "id": "2115642422822683113",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 32,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "LIVE STREAM MONITORING EMERGENCY ACTION MESSAGES. (EAMS) 11175/8992 \n\n#EAM #MILITARY #WAR #NEWS #USA \n\nSINCERLY, THE WAR WATCHER. https://t.co/7sYuVxww33",
-   "url": "https://x.com/THEWAR_WATCHER/status/2115642422822683113"
-  },
-  {
-   "author_id": "1583189662360866818",
-   "created_at": "2026-10-29T03:19:43.000Z",
-   "edit_history_tweet_ids": [
-    "2115644722186526759"
+    "2115687816571277602"
    ],
    "entities": {
     "urls": [
      {
-      "description": "Nicki Minaj & Trump: Supporter or Political Spectacle?",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 82,
-      "expanded_url": "https://x.com/i/broadcasts/1nJOLQMnBrQxR",
+      "description": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 134,
+      "expanded_url": "https://x.com/i/broadcasts/1OxwbndzrMoJB",
       "images": [
        {
         "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115644764548939776/-e-bNrae?format=jpg&name=orig",
+        "url": "https://pbs.twimg.com/news_img/2115687819012358144/1b8UgU_r?format=jpg&name=orig",
         "width": 1280
        },
        {
         "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115644764548939776/-e-bNrae?format=jpg&name=150x150",
+        "url": "https://pbs.twimg.com/news_img/2115687819012358144/1b8UgU_r?format=jpg&name=150x150",
         "width": 150
        }
       ],
-      "start": 59,
+      "start": 111,
       "status": 200,
-      "title": "DaBoxing Scholar",
-      "unwound_url": "https://x.com/i/broadcasts/1nJOLQMnBrQxR",
-      "url": "https://t.co/uGtLGpHZyO"
+      "title": "Sputnik",
+      "unwound_url": "https://x.com/i/broadcasts/1OxwbndzrMoJB",
+      "url": "https://t.co/4yT52NzEyH"
      }
     ]
    },
-   "id": "2115644722186526759",
+   "id": "2115687816571277602",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 13,
+    "impression_count": 452,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 1
+   },
+   "text": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit https://t.co/4yT52NzEyH",
+   "url": "https://x.com/SputnikInt/status/2115687816571277602"
+  },
+  {
+   "author_id": "246688646",
+   "created_at": "2026-10-29T06:18:37.000Z",
+   "edit_history_tweet_ids": [
+    "2115684996476211237",
+    "2115689746777207049"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 154,
+      "start": 145,
+      "tag": "MusikBox"
+     },
+     {
+      "end": 210,
+      "start": 197,
+      "tag": "DaybreakHitz"
+     },
+     {
+      "end": 222,
+      "start": 211,
+      "tag": "Hitz1039FM"
+     },
+     {
+      "end": 234,
+      "start": 223,
+      "tag": "JoyDigital"
+     },
+     {
+      "end": 254,
+      "start": 235,
+      "tag": "HitzJoyFmBeachRave"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 170,
+      "id": "1888887751271170048",
+      "start": 160,
+      "username": "DjBlackgh"
+     }
+    ],
+    "urls": [
+     {
+      "description": "DaybreakHitz with Kwame Dadzie and Doreen Avio || 29/10/2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 195,
+      "expanded_url": "https://x.com/i/broadcasts/2EmgJBQRKobQNa",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115685039467827200/rAFf8CIC?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115685039467827200/rAFf8CIC?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 172,
+      "status": 200,
+      "title": "Hitz 103.9 FM",
+      "unwound_url": "https://x.com/i/broadcasts/2EmgJBQRKobQNa",
+      "url": "https://t.co/1oTqm2cbyw"
+     }
+    ]
+   },
+   "id": "2115689746777207049",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 367,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Nicki Minaj &amp; Trump: Supporter or Political Spectacle? https://t.co/uGtLGpHZyO",
-   "url": "https://x.com/ScholarDaboxing/status/2115644722186526759"
+   "text": "Get the latest news from Ghana and around the world, lifestyle segment, Sports updates, Showbiz Review, Spotlight Series with Nii The Menace and #MusikBox with @DjBlackgh  https://t.co/1oTqm2cbyw\n\n#DaybreakHitz #Hitz1039FM #JoyDigital #HitzJoyFmBeachRave",
+   "url": "https://x.com/Hitz1039FM/status/2115689746777207049"
   }
  ],
  "users": [
-  {
-   "id": "1697041691033632768",
-   "name": "X America News",
-   "public_metrics": {
-    "followers_count": 132066,
-    "following_count": 38183,
-    "like_count": 12802,
-    "listed_count": 283,
-    "media_count": 2293,
-    "tweet_count": 9164
-   },
-   "username": "XAmericaNews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "3959989991",
-   "name": "Dustin Faulkner",
-   "public_metrics": {
-    "followers_count": 6064,
-    "following_count": 4392,
-    "like_count": 29167,
-    "listed_count": 31,
-    "media_count": 1887,
-    "tweet_count": 43561
-   },
-   "username": "dloydfaulk",
-   "verified": true,
-   "verified_type": "blue"
-  },
   {
    "id": "1181435213651431424",
    "name": "live with khawar yousaf",
@@ -713,8 +602,8 @@
     "following_count": 35,
     "like_count": 2449,
     "listed_count": 149,
-    "media_count": 216378,
-    "tweet_count": 350650
+    "media_count": 216379,
+    "tweet_count": 350651
    },
    "username": "ZEEUPUK",
    "verified": true,
@@ -724,7 +613,7 @@
    "id": "935942321756966912",
    "name": "Real America's Voice (RAV)",
    "public_metrics": {
-    "followers_count": 572121,
+    "followers_count": 572122,
     "following_count": 1918,
     "like_count": 11932,
     "listed_count": 1587,
@@ -754,12 +643,12 @@
    "id": "1339166129110065152",
    "name": "GB News",
    "public_metrics": {
-    "followers_count": 991033,
+    "followers_count": 991032,
     "following_count": 50,
     "like_count": 0,
     "listed_count": 2724,
-    "media_count": 170804,
-    "tweet_count": 330405
+    "media_count": 170806,
+    "tweet_count": 330408
    },
    "username": "GBNEWS",
    "verified": true,
@@ -796,32 +685,64 @@
    "verified_type": "blue"
   },
   {
-   "id": "2088906837844500480",
-   "name": "THE WAR WATCHER",
+   "id": "34262462",
+   "name": "Sputnik",
    "public_metrics": {
-    "followers_count": 16,
-    "following_count": 195,
-    "like_count": 0,
-    "listed_count": 0,
-    "media_count": 9,
-    "tweet_count": 47
+    "followers_count": 502096,
+    "following_count": 162,
+    "like_count": 1088,
+    "listed_count": 7551,
+    "media_count": 85406,
+    "tweet_count": 279786
    },
-   "username": "THEWAR_WATCHER",
+   "username": "SputnikInt",
    "verified": true,
-   "verified_type": "blue"
+   "verified_type": "blue",
+   "withheld": {
+    "country_codes": [
+     "AT",
+     "BE",
+     "BG",
+     "CY",
+     "CZ",
+     "DE",
+     "DK",
+     "EE",
+     "ES",
+     "FI",
+     "FR",
+     "GB",
+     "GR",
+     "HR",
+     "HU",
+     "IE",
+     "IT",
+     "LT",
+     "LU",
+     "LV",
+     "MT",
+     "NL",
+     "PL",
+     "PT",
+     "RO",
+     "SE",
+     "SI",
+     "SK"
+    ]
+   }
   },
   {
-   "id": "1583189662360866818",
-   "name": "DaBoxing Scholar",
+   "id": "246688646",
+   "name": "Hitz 103.9 FM",
    "public_metrics": {
-    "followers_count": 106,
-    "following_count": 1053,
-    "like_count": 443,
-    "listed_count": 0,
-    "media_count": 44,
-    "tweet_count": 1639
+    "followers_count": 835751,
+    "following_count": 302,
+    "like_count": 5716,
+    "listed_count": 222,
+    "media_count": 62319,
+    "tweet_count": 297008
    },
-   "username": "ScholarDaboxing",
+   "username": "Hitz1039FM",
    "verified": true,
    "verified_type": "blue"
   }
