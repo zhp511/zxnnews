@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-29T10:32:25Z",
- "searched_at": "2026-10-29T10:32:07Z",
+ "built_at": "2026-10-29T10:50:53Z",
+ "searched_at": "2026-10-29T10:50:45Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2115714536217133281",
-   "post_url": "https://x.com/Thenationth/status/2115714536217133281",
-   "name": "Thenationthailand",
-   "username": "Thenationth",
-   "verified_type": "blue",
-   "text": "US Midterm Election & Criminal Hubs around Thailand https://t.co/AEq0AeEmC6",
-   "started_at": "2026-10-29T07:57:08.000Z",
-   "assumed_live_until": "2026-10-29T10:57:08Z"
-  },
   {
    "post_id": "2115744186284859549",
    "post_url": "https://x.com/CSalcedoShow/status/2115744186284859549",
@@ -23,6 +13,16 @@
    "text": "We Can't Vote Anti-American & Expect America To Survive https://t.co/GnG0YyeVqe",
    "started_at": "2026-10-29T09:54:57.000Z",
    "assumed_live_until": "2026-10-29T12:54:57Z"
+  },
+  {
+   "post_id": "2115714536217133281",
+   "post_url": "https://x.com/Thenationth/status/2115714536217133281",
+   "name": "Thenationthailand",
+   "username": "Thenationth",
+   "verified_type": "blue",
+   "text": "US Midterm Election & Criminal Hubs around Thailand https://t.co/AEq0AeEmC6",
+   "started_at": "2026-10-29T07:57:08.000Z",
+   "assumed_live_until": "2026-10-29T10:57:08Z"
   },
   {
    "post_id": "2115714236311875902",
@@ -45,6 +45,16 @@
    "assumed_live_until": "2026-10-29T13:05:04Z"
   },
   {
+   "post_id": "2115753674362483169",
+   "post_url": "https://x.com/kimraesmith/status/2115753674362483169",
+   "name": "KimsCoffeeTalk",
+   "username": "kimraesmith",
+   "verified_type": "blue",
+   "text": "AMERICA WANTS JUSTICE! SHOW UP AT THE POLLS ON NOV. 3RD AND LET YOUR VOICES BE HEARD!! https://t.co/Wx7M5l6m88",
+   "started_at": "2026-10-29T10:32:39.000Z",
+   "assumed_live_until": "2026-10-29T13:32:39Z"
+  },
+  {
    "post_id": "2115716001253999046",
    "post_url": "https://x.com/ANI/status/2115716001253999046",
    "name": "ANI",
@@ -55,6 +65,16 @@
    "assumed_live_until": "2026-10-29T11:02:57Z"
   },
   {
+   "post_id": "2115720451141833206",
+   "post_url": "https://x.com/anadoluagency/status/2115720451141833206",
+   "name": "Anadolu English",
+   "username": "anadoluagency",
+   "verified_type": "business",
+   "text": "🔴 LIVE: Turkish President Recep Tayyip Erdogan visits Anitkabir, mausoleum of Türkiye’s founder Mustafa Kemal Ataturk, as country marks 103rd anniversary of Republic https://t.co/KgeScTHrbo",
+   "started_at": "2026-10-29T08:20:38.000Z",
+   "assumed_live_until": "2026-10-29T11:20:38Z"
+  },
+  {
    "post_id": "2115752623714316709",
    "post_url": "https://x.com/GovernmentZA/status/2115752623714316709",
    "name": "South African Government",
@@ -63,26 +83,6 @@
    "text": "WATCH LIVE: President Cyril Ramaphosa officiates the launch of the Cornubia Integrated Human Settlements Project in eThekwini, KwaZulu-Natal. https://t.co/2o3M0EySYm",
    "started_at": "2026-10-29T10:28:28.000Z",
    "assumed_live_until": "2026-10-29T13:28:28Z"
-  },
-  {
-   "post_id": "2115752590130729254",
-   "post_url": "https://x.com/Channel1TVGHA/status/2115752590130729254",
-   "name": "ChannelOne TV",
-   "username": "Channel1TVGHA",
-   "verified_type": "blue",
-   "text": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 29th October 2026 https://t.co/P2IPU5QHn6",
-   "started_at": "2026-10-29T10:28:20.000Z",
-   "assumed_live_until": "2026-10-29T13:28:20Z"
-  },
-  {
-   "post_id": "2115747808678498496",
-   "post_url": "https://x.com/trtafrika/status/2115747808678498496",
-   "name": "TRT Afrika",
-   "username": "trtafrika",
-   "verified_type": "business",
-   "text": "LIVE: Turkish President Recep Tayyip Erdogan receives Republic Day congratulations at the Presidential Complex in Ankara https://t.co/Yit4dfWcPJ",
-   "started_at": "2026-10-29T10:09:20.000Z",
-   "assumed_live_until": "2026-10-29T13:09:20Z"
   }
  ]
 }
