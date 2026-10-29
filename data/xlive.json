@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-29T21:06:00Z",
- "searched_at": "2026-10-29T21:05:59Z",
+ "built_at": "2026-10-29T21:22:18Z",
+ "searched_at": "2026-10-29T21:22:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2115914726358352340",
+   "post_url": "https://x.com/WhiteHouse/status/2115914726358352340",
+   "name": "The White House",
+   "username": "WhiteHouse",
+   "verified_type": "government",
+   "text": "President Trump and the First Lady Host Halloween at the White House https://t.co/N3iZE6psar",
+   "started_at": "2026-10-29T21:12:37.000Z",
+   "assumed_live_until": "2026-10-30T00:12:37Z"
+  },
   {
    "post_id": "2115897045097587198",
    "post_url": "https://x.com/RealAlexJones/status/2115897045097587198",
@@ -23,16 +33,6 @@
    "text": "Obama Rallies Drawing More Than Trump Rallies As Control Of Congress Hangs In The Balance At Midterms https://t.co/4hsBOkCduk",
    "started_at": "2026-10-29T20:07:05.000Z",
    "assumed_live_until": "2026-10-29T23:07:05Z"
-  },
-  {
-   "post_id": "2115881709359309205",
-   "post_url": "https://x.com/thevivafrei/status/2115881709359309205",
-   "name": "Viva Frei",
-   "username": "thevivafrei",
-   "verified_type": "blue",
-   "text": "James O'Keefe Charged with \"Unlawful Voting\"? Alaska Election Fraud? Madness in Canada & MORE! https://t.co/qp8pULfZV5",
-   "started_at": "2026-10-29T19:01:25.000Z",
-   "assumed_live_until": "2026-10-29T22:01:25Z"
   },
   {
    "post_id": "2115911453152858476",
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-10-29T23:00:04Z"
   },
   {
-   "post_id": "2115876653746491446",
-   "post_url": "https://x.com/TheRalphRetort/status/2115876653746491446",
-   "name": "Ethan Ralph",
-   "username": "TheRalphRetort",
-   "verified_type": "blue",
-   "text": "KILLSTREAM: Election Run, Big Karl Tweaks About Alex Jones, + Mersh Gay? https://t.co/utAkZzfCAU",
-   "started_at": "2026-10-29T18:41:19.000Z",
-   "assumed_live_until": "2026-10-29T21:41:19Z"
-  },
-  {
    "post_id": "2115911231680725399",
    "post_url": "https://x.com/2waytvapp/status/2115911231680725399",
    "name": "2WAY",
@@ -75,14 +65,24 @@
    "assumed_live_until": "2026-10-29T23:58:44Z"
   },
   {
-   "post_id": "2115897237079457842",
-   "post_url": "https://x.com/WarRoomShow/status/2115897237079457842",
-   "name": "War Room Live",
-   "username": "WarRoomShow",
-   "verified_type": "none",
-   "text": "✬✬✬✬✬ Thursday War Room LIVE: Hegseth Fires Pentagon’s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options – TUNE IN/SHARE! https://t.co/U9vY15bMje",
-   "started_at": "2026-10-29T20:03:07.000Z",
-   "assumed_live_until": "2026-10-29T23:03:07Z"
+   "post_id": "2115916406760030256",
+   "post_url": "https://x.com/NewsHour/status/2115916406760030256",
+   "name": "PBS News",
+   "username": "NewsHour",
+   "verified_type": "blue",
+   "text": "WATCH LIVE: Trumps host Halloween celebration at the White House https://t.co/A8oMrrWBzC",
+   "started_at": "2026-10-29T21:19:17.000Z",
+   "assumed_live_until": "2026-10-30T00:19:17Z"
+  },
+  {
+   "post_id": "2115876653746491446",
+   "post_url": "https://x.com/TheRalphRetort/status/2115876653746491446",
+   "name": "Ethan Ralph",
+   "username": "TheRalphRetort",
+   "verified_type": "blue",
+   "text": "KILLSTREAM: Election Run, Big Karl Tweaks About Alex Jones, + Mersh Gay? https://t.co/utAkZzfCAU",
+   "started_at": "2026-10-29T18:41:19.000Z",
+   "assumed_live_until": "2026-10-29T21:41:19Z"
   }
  ]
 }
