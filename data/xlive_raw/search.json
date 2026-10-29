@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-26T01:01:30Z",
+ "fetched_at": "2026-10-29T05:16:39Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-25T22:01:00Z",
+  "start_time": "2026-10-29T02:16:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -12,228 +12,84 @@
  },
  "data": [
   {
-   "author_id": "1155558575563051008",
-   "created_at": "2026-10-25T22:31:13.000Z",
+   "author_id": "1410055968",
+   "created_at": "2026-10-29T02:59:48.000Z",
    "edit_history_tweet_ids": [
-    "2114484958496686222"
+    "2115639709817008242"
    ],
-   "id": "2114484958496686222",
-   "public_metrics": {
-    "bookmark_count": 15,
-    "impression_count": 36211,
-    "like_count": 128,
-    "quote_count": 3,
-    "reply_count": 2,
-    "retweet_count": 13
+   "entities": {
+    "urls": [
+     {
+      "description": "Nashville SC 0-0 Philadelphia Union - Press Conference",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 78,
+      "expanded_url": "https://x.com/i/broadcasts/1NxarobyBXjKj",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115639752204677120/DkGW3evz?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115639752204677120/DkGW3evz?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 55,
+      "status": 200,
+      "title": "Nashville SC",
+      "unwound_url": "https://x.com/i/broadcasts/1NxarobyBXjKj",
+      "url": "https://t.co/GRE03eAX28"
+     }
+    ]
    },
-   "text": "\ud83d\udea8 BREAKING NEWS | Carrick\u2019s Future, Bruno Fallout &amp; PL Reaction | \ud83c\udf99\ufe0f THE TUNNEL - EP1 https://t.co/OETbXTjpXd",
-   "url": "https://x.com/SamC_reports/status/2114484958496686222"
-  },
-  {
-   "author_id": "1189608528950054913",
-   "created_at": "2026-10-26T00:59:56.000Z",
-   "edit_history_tweet_ids": [
-    "2114522382237122687"
-   ],
-   "id": "2114522382237122687",
+   "id": "2115639709817008242",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 71,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "SOMETHING BIG IS COMING?! | Breaking News, World Events &amp; Viral Reactions https://t.co/6zoFOT293l",
-   "url": "https://x.com/BekLoverNYC/status/2114522382237122687"
-  },
-  {
-   "author_id": "472596884",
-   "created_at": "2026-10-26T00:00:01.000Z",
-   "edit_history_tweet_ids": [
-    "2114507303005368389"
-   ],
-   "id": "2114507303005368389",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 6,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Why Do Systems Fail Us? Marine Veteran Keith Barton on Congress &amp; Family Courts https://t.co/KUlbX98lRO",
-   "url": "https://x.com/RichLaMonica/status/2114507303005368389"
-  },
-  {
-   "author_id": "1830023860621611012",
-   "created_at": "2026-10-26T00:03:24.000Z",
-   "edit_history_tweet_ids": [
-    "2114508153601794355"
-   ],
-   "id": "2114508153601794355",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 32,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "PINE ISLAND LIVE |  @AustinLeeSpeaks joins Cole Dodson to discuss the future of Tennessee politics, why the Tennessee GOP doesn't like talking about white people being replaced by the third world, and much more on this LIVE TRANSMISSION! https://t.co/IZYjAm4SAC",
-   "url": "https://x.com/pineislandhd/status/2114508153601794355"
-  },
-  {
-   "author_id": "1418034820207321098",
-   "created_at": "2026-10-25T22:56:51.000Z",
-   "edit_history_tweet_ids": [
-    "2114491407792759092"
-   ],
-   "id": "2114491407792759092",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 7,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "A look at Texas politics with George Rodriguez from South Texas https://t.co/4NqlMwu5B4",
-   "url": "https://x.com/silvio_canto/status/2114491407792759092"
-  },
-  {
-   "author_id": "1270896095548366849",
-   "created_at": "2026-10-25T22:30:51.000Z",
-   "edit_history_tweet_ids": [
-    "2114484863059595619"
-   ],
-   "id": "2114484863059595619",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 5,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Virtual Debate - Indiana State House District 4 https://t.co/2ke6E10wjz",
-   "url": "https://x.com/DionsDailyDose/status/2114484863059595619"
-  },
-  {
-   "author_id": "1392582685890068481",
-   "created_at": "2026-10-25T22:17:56.000Z",
-   "edit_history_tweet_ids": [
-    "2114481613249880139"
-   ],
-   "id": "2114481613249880139",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 10,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "9 Days till Election Day Will the Populist Movement Show Up! https://t.co/20Imrj6431",
-   "url": "https://x.com/realStevenCarr/status/2114481613249880139"
-  },
-  {
-   "author_id": "113137765",
-   "created_at": "2026-10-25T22:11:53.000Z",
-   "edit_history_tweet_ids": [
-    "2114480089488646417"
-   ],
-   "id": "2114480089488646417",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 647,
-    "like_count": 11,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "KILLSTREAM: Ethan Klein - Space Age Pimpin', James Lindsay Exposed, + Election Run https://t.co/2QATxjalP0",
-   "url": "https://x.com/TheRalphRetort/status/2114480089488646417"
-  },
-  {
-   "author_id": "1805823520376594432",
-   "created_at": "2026-10-25T23:00:27.000Z",
-   "edit_history_tweet_ids": [
-    "2114492312172769306"
-   ],
-   "id": "2114492312172769306",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 26,
-    "like_count": 0,
+    "bookmark_count": 4,
+    "impression_count": 1913,
+    "like_count": 10,
     "quote_count": 1,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 2
    },
-   "text": "Meet the Candidate Forum featuring Houston Co. Commissioner Election https://t.co/J3tNjDaZmc",
-   "url": "https://x.com/Gwinnett_NAACP/status/2114492312172769306"
+   "text": "Nashville SC 0-0 Philadelphia Union - Press Conference https://t.co/GRE03eAX28",
+   "url": "https://x.com/NashvilleSC/status/2115639709817008242"
   },
   {
-   "author_id": "387472346",
-   "created_at": "2026-10-25T22:09:50.000Z",
+   "author_id": "1534262297547481094",
+   "created_at": "2026-10-29T03:01:54.000Z",
    "edit_history_tweet_ids": [
-    "2114479576072278290"
+    "2115640239578607663"
    ],
-   "id": "2114479576072278290",
-   "public_metrics": {
-    "bookmark_count": 16,
-    "impression_count": 10266,
-    "like_count": 78,
-    "quote_count": 1,
-    "reply_count": 2,
-    "retweet_count": 14
+   "entities": {
+    "urls": [
+     {
+      "description": "Election Day in 6 Days! Let's Go Over the Michigan Senate Race! Abdul El Sayed vs Mike Rodgers!",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 119,
+      "expanded_url": "https://x.com/i/broadcasts/1XGygwWzApZxM",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115640282230464512/HuLs9MDB?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115640282230464512/HuLs9MDB?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 96,
+      "status": 200,
+      "title": "Radell PPBD",
+      "unwound_url": "https://x.com/i/broadcasts/1XGygwWzApZxM",
+      "url": "https://t.co/EvFnhtOG6Y"
+     }
+    ]
    },
-   "text": "Brazil Election LIVE https://t.co/WRh961vtAt",
-   "url": "https://x.com/DanielDiMartino/status/2114479576072278290"
-  },
-  {
-   "author_id": "1044108354",
-   "created_at": "2026-10-25T22:01:11.000Z",
-   "edit_history_tweet_ids": [
-    "2114477398381195705"
-   ],
-   "id": "2114477398381195705",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 17,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Grown Men Emotional Over An Election https://t.co/EXV46KvCDt",
-   "url": "https://x.com/PharaohSaidThat/status/2114477398381195705"
-  },
-  {
-   "author_id": "1731447196455989248",
-   "created_at": "2026-10-25T22:58:28.000Z",
-   "edit_history_tweet_ids": [
-    "2114491812287262836"
-   ],
-   "id": "2114491812287262836",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 5123,
-    "like_count": 5,
-    "quote_count": 1,
-    "reply_count": 1,
-    "retweet_count": 0
-   },
-   "text": "Join @MarkHalperin, @LarryOConnor, &amp; @KevinPWalling for the latest midterm reporting and analysis in the final leadup to election day.\n\nPresented by 2WAY, @thehill, &amp; @NewsNation https://t.co/ExDBtJYq4a",
-   "url": "https://x.com/2waytvapp/status/2114491812287262836"
-  },
-  {
-   "author_id": "1694304501048434688",
-   "created_at": "2026-10-25T23:30:09.000Z",
-   "edit_history_tweet_ids": [
-    "2114499786053419137"
-   ],
-   "id": "2114499786053419137",
+   "id": "2115640239578607663",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 14,
@@ -242,608 +98,1243 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Sunday Sound-Bites; FORTRESS AMERICA: The Pentagon Stays Lit. America Gets a Flashlight. https://t.co/JvcqKEajnR",
-   "url": "https://x.com/WeAreRiseFree/status/2114499786053419137"
+   "text": "Election Day in 6 Days! Let's Go Over the Michigan Senate Race! Abdul El Sayed vs Mike Rodgers! https://t.co/EvFnhtOG6Y",
+   "url": "https://x.com/PPolBreakdown/status/2115640239578607663"
   },
   {
-   "author_id": "1867405036969394176",
-   "created_at": "2026-10-26T00:34:17.000Z",
+   "author_id": "1832972046785228801",
+   "created_at": "2026-10-29T02:32:29.000Z",
    "edit_history_tweet_ids": [
-    "2114515926070833235"
+    "2115632836577526169"
    ],
-   "id": "2114515926070833235",
+   "entities": {
+    "urls": [
+     {
+      "description": "Debate Me - What's Your BEEF with TRUMP?",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 64,
+      "expanded_url": "https://x.com/i/broadcasts/1jxXgBWzQPzJZ",
+      "images": [
+       {
+        "height": 1440,
+        "url": "https://pbs.twimg.com/news_img/2115632879577583616/pOjmOv2b?format=jpg&name=orig",
+        "width": 2560
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115632879577583616/pOjmOv2b?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 41,
+      "status": 200,
+      "title": "Rep America",
+      "unwound_url": "https://x.com/i/broadcasts/1jxXgBWzQPzJZ",
+      "url": "https://t.co/1NkYFuxrrX"
+     }
+    ]
+   },
+   "id": "2115632836577526169",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3,
+    "impression_count": 13,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "VTUBER NEWS HOUR: Talking News I missed over the weekend. Did we ever find out what happened with Starlink in Ukraine. https://t.co/ek4brptjFj",
-   "url": "https://x.com/G_ShugiSha/status/2114515926070833235"
+   "text": "Debate Me - What's Your BEEF with TRUMP? https://t.co/1NkYFuxrrX",
+   "url": "https://x.com/RepAmericaTV/status/2115632836577526169"
   },
   {
-   "author_id": "1256260317732057090",
-   "created_at": "2026-10-26T00:00:01.000Z",
+   "author_id": "478324893",
+   "created_at": "2026-10-29T02:32:10.000Z",
    "edit_history_tweet_ids": [
-    "2114507303957536922"
+    "2115632759008010310"
    ],
-   "id": "2114507303957536922",
+   "entities": {
+    "urls": [
+     {
+      "description": "Late Nite🌙Update-News Brief-'Israeli Election Fallout'",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 78,
+      "expanded_url": "https://x.com/i/broadcasts/1oKMvNPnaAoGQ",
+      "start": 55,
+      "status": 200,
+      "title": "Dean Ryan",
+      "unwound_url": "https://x.com/i/broadcasts/1oKMvNPnaAoGQ",
+      "url": "https://t.co/HGa2P03zPw"
+     }
+    ]
+   },
+   "id": "2115632759008010310",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 305,
-    "like_count": 7,
-    "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 1
-   },
-   "text": "VeVe Affiliates execute guerrilla marketing! $OMI $DEFX $DACAT news! AMA! https://t.co/x0dUJ0Tcm3",
-   "url": "https://x.com/RealRandyChavez/status/2114507303957536922"
-  },
-  {
-   "author_id": "1270489357208649728",
-   "created_at": "2026-10-25T22:11:28.000Z",
-   "edit_history_tweet_ids": [
-    "2114479986346504410",
-    "2114490425541026237"
-   ],
-   "id": "2114479986346504410",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 191,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Democrats want to wreck America with third-world immigration + Trump's trying to make houses cheaper for Americans + much more https://t.co/ayYgusBJiN",
-   "url": "https://x.com/JosephFordCotto/status/2114479986346504410"
-  },
-  {
-   "author_id": "1635014717394624514",
-   "created_at": "2026-10-25T23:50:56.000Z",
-   "edit_history_tweet_ids": [
-    "2114505019672441087"
-   ],
-   "id": "2114505019672441087",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 45,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Oblock A Roy killer Munna Mond Takes 6 Years  | Trenches News https://t.co/hWHqv0tXUm",
-   "url": "https://x.com/swipper3837/status/2114505019672441087"
-  },
-  {
-   "author_id": "1765087767888007168",
-   "created_at": "2026-10-25T22:52:12.000Z",
-   "edit_history_tweet_ids": [
-    "2114490238722879774"
-   ],
-   "id": "2114490238722879774",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 290,
-    "like_count": 10,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 7
-   },
-   "text": "Divina Lex 13, 0036 [October 25, 2026] | QRTRV World News Daily @ 5:00 P.M. CST https://t.co/6uOlf5tXU0",
-   "url": "https://x.com/HRMQR/status/2114490238722879774"
-  },
-  {
-   "author_id": "1462911175658668032",
-   "created_at": "2026-10-25T22:52:12.000Z",
-   "edit_history_tweet_ids": [
-    "2114490237649027352"
-   ],
-   "id": "2114490237649027352",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 283,
-    "like_count": 9,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 5
-   },
-   "text": "Divina Lex 13, 0036 [October 25, 2026] | QRTRV World News Daily @ 5:00 P.M. CST https://t.co/hMJHmiM8dY",
-   "url": "https://x.com/Forsaken111CJM/status/2114490237649027352"
-  },
-  {
-   "author_id": "819967215218749440",
-   "created_at": "2026-10-25T22:07:34.000Z",
-   "edit_history_tweet_ids": [
-    "2114479005705646498"
-   ],
-   "id": "2114479005705646498",
-   "public_metrics": {
-    "bookmark_count": 16,
-    "impression_count": 7280,
-    "like_count": 41,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 12
-   },
-   "text": "BREAKING | NUCLEAR ATTACK WARNING | Iran Threatens Nuclear Breakout! https://t.co/b9bNPvBbgP",
-   "url": "https://x.com/SteveRamNews/status/2114479005705646498"
-  },
-  {
-   "author_id": "884085573484511236",
-   "created_at": "2026-10-26T00:54:17.000Z",
-   "edit_history_tweet_ids": [
-    "2114520960510652682"
-   ],
-   "id": "2114520960510652682",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 47,
+    "impression_count": 28,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Criminal Network Harassing New Age Plug? Breaking Down The False Copyright Claims https://t.co/d6aAJMYJKQ",
-   "url": "https://x.com/WhiteboyRadio/status/2114520960510652682"
+   "text": "Late Nite🌙Update-News Brief-'Israeli Election Fallout' https://t.co/HGa2P03zPw",
+   "url": "https://x.com/TheRealDeanRyan/status/2115632759008010310"
   },
   {
-   "author_id": "19207275",
-   "created_at": "2026-10-25T22:14:55.000Z",
+   "author_id": "1697041691033632768",
+   "created_at": "2026-10-29T03:18:19.000Z",
    "edit_history_tweet_ids": [
-    "2114480466002907506",
-    "2114480855343415741"
+    "2115644370166976940"
    ],
-   "id": "2114480855343415741",
+   "entities": {
+    "urls": [
+     {
+      "description": "Did the Brazil Election Foreshadow Turmoil to Come | Is America Heading to a Downfall and Color Revolution with the 2026 Midterms | 8 Year-Old Girl Chokes to Death at Elementary and the Parents Demand Answers After Texas Ranger Investigation",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 265,
+      "expanded_url": "https://x.com/i/broadcasts/1MJgNbRWpMOGL",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115644412533555200/O0X-ZXeJ?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115644412533555200/O0X-ZXeJ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 242,
+      "status": 200,
+      "title": "X America News",
+      "unwound_url": "https://x.com/i/broadcasts/1MJgNbRWpMOGL",
+      "url": "https://t.co/74siSqqnS7"
+     }
+    ]
+   },
+   "id": "2115644370166976940",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 17,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "TRUMP RELOADS, MOHAMMAD MARANDI JOINS, BILL MAHER FAIL, OBAMA ENDORSES, TEXAS ALARM, DEVINE JOINS https://t.co/W7h72DJRGs",
-   "url": "https://x.com/goldeinmind/status/2114480855343415741"
-  },
-  {
-   "author_id": "4248868933",
-   "created_at": "2026-10-26T00:27:12.000Z",
-   "edit_history_tweet_ids": [
-    "2114514143344763348"
-   ],
-   "id": "2114514143344763348",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 168,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "How the Beatles and 1960s Rock Music Changed America https://t.co/WTPhILSyxJ",
-   "url": "https://x.com/crrow777/status/2114514143344763348"
-  },
-  {
-   "author_id": "414056410",
-   "created_at": "2026-10-26T00:01:04.000Z",
-   "edit_history_tweet_ids": [
-    "2114507566126633338"
-   ],
-   "id": "2114507566126633338",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 166,
-    "like_count": 1,
+    "impression_count": 545,
+    "like_count": 2,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Halloween, Health &amp; the 2026 Midterms: What's Really Scaring America? | Do Good Work Podcast https://t.co/rDXCzytWjG",
-   "url": "https://x.com/tlstrayhorn/status/2114507566126633338"
+   "text": "Did the Brazil Election Foreshadow Turmoil to Come | Is America Heading to a Downfall and Color Revolution with the 2026 Midterms | 8 Year-Old Girl Chokes to Death at Elementary and the Parents Demand Answers After Texas Ranger Investigation https://t.co/74siSqqnS7",
+   "url": "https://x.com/XAmericaNews/status/2115644370166976940"
   },
   {
-   "author_id": "1291128494",
-   "created_at": "2026-10-26T00:59:09.000Z",
+   "author_id": "3959989991",
+   "created_at": "2026-10-29T03:18:19.000Z",
    "edit_history_tweet_ids": [
-    "2114522186929381765"
+    "2115644372003979562"
    ],
-   "id": "2114522186929381765",
+   "entities": {
+    "urls": [
+     {
+      "description": "Did the Brazil Election Foreshadow Turmoil to Come | Is America Heading to a Downfall and Color Revolution with the 2026 Midterms | 8 Year-Old Girl Chokes to Death at Elementary and the Parents Demand Answers After Texas Ranger Investigation",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 265,
+      "expanded_url": "https://x.com/i/broadcasts/1NGarobyWMvJj",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115644374675791872/2fOW0Qop?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115644374675791872/2fOW0Qop?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 242,
+      "status": 200,
+      "title": "Dustin Faulkner",
+      "unwound_url": "https://x.com/i/broadcasts/1NGarobyWMvJj",
+      "url": "https://t.co/j8o55JIx7R"
+     }
+    ]
+   },
+   "id": "2115644372003979562",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 502,
-    "like_count": 22,
+    "impression_count": 94,
+    "like_count": 0,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Did the Brazil Election Foreshadow Turmoil to Come | Is America Heading to a Downfall and Color Revolution with the 2026 Midterms | 8 Year-Old Girl Chokes to Death at Elementary and the Parents Demand Answers After Texas Ranger Investigation https://t.co/j8o55JIx7R",
+   "url": "https://x.com/dloydfaulk/status/2115644372003979562"
+  },
+  {
+   "author_id": "1982030845138608128",
+   "created_at": "2026-10-29T02:19:45.000Z",
+   "edit_history_tweet_ids": [
+    "2115629631164539146"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 68,
+      "start": 57,
+      "tag": "NewsLeader"
+     },
+     {
+      "end": 113,
+      "start": 100,
+      "tag": "AbBaariAapki"
+     }
+    ],
+    "urls": [
+     {
+      "description": "News Leader LIVE: देश-दुनिया की हर खबर | Breaking News UP MLC Elections 2026 Voting Updates | BJP | SP | #NewsLeader",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 139,
+      "expanded_url": "https://x.com/i/broadcasts/2EmglKjJmKbNzk",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115629288506482688/zQWt9PVS?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115629288506482688/zQWt9PVS?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 116,
+      "status": 200,
+      "title": "News Leader",
+      "unwound_url": "https://x.com/i/broadcasts/2EmglKjJmKbNzk",
+      "url": "https://t.co/45u7irxHDp"
+     }
+    ]
+   },
+   "id": "2115629631164539146",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 106,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 5
+    "retweet_count": 1
    },
-   "text": "NETANYAHU WANTS TO BOMB IRAN, IDF CHEIF REFUSES, LULA WINS BRAZIL ELECTION w/ CIA Larry Johnson https://t.co/UKn22DImyc",
-   "url": "https://x.com/ShaykhSulaiman/status/2114522186929381765"
+   "text": "News Leader LIVE: देश-दुनिया की हर खबर | Breaking News \n\n#NewsLeader | Hindi News | Hindi Updates | #AbBaariAapki \n\nhttps://t.co/45u7irxHDp",
+   "url": "https://x.com/NewsLeaderLive/status/2115629631164539146"
+  },
+  {
+   "author_id": "1982030845138608128",
+   "created_at": "2026-10-29T02:18:13.000Z",
+   "edit_history_tweet_ids": [
+    "2115629245636526257"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 117,
+      "start": 106,
+      "tag": "NewsLeader"
+     }
+    ],
+    "urls": [
+     {
+      "description": "News Leader LIVE: देश-दुनिया की हर खबर | Breaking News UP MLC Elections 2026 Voting Updates | BJP | SP | #NewsLeader",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 141,
+      "expanded_url": "https://x.com/i/broadcasts/2EmglKjJmKbNzk",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115629288506482688/zQWt9PVS?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115629288506482688/zQWt9PVS?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 118,
+      "status": 200,
+      "title": "News Leader",
+      "unwound_url": "https://x.com/i/broadcasts/2EmglKjJmKbNzk",
+      "url": "https://t.co/45u7irx9NR"
+     }
+    ]
+   },
+   "id": "2115629245636526257",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 126,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "News Leader LIVE: देश-दुनिया की हर खबर | Breaking News  UP MLC Elections 2026 Voting Updates | BJP | SP | #NewsLeader https://t.co/45u7irx9NR",
+   "url": "https://x.com/NewsLeaderLive/status/2115629245636526257"
+  },
+  {
+   "author_id": "1181435213651431424",
+   "created_at": "2026-10-29T04:39:50.000Z",
+   "edit_history_tweet_ids": [
+    "2115664887347319145"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Israel Election Deadlock: Can Netanyahu Survive? Trump, Iran & Pakistan’s Stakes",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 108,
+      "expanded_url": "https://x.com/i/broadcasts/1PJqrNvPBenxb",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115664929906970624/0238YryH?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115664929906970624/0238YryH?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 85,
+      "status": 200,
+      "title": "live with khawar yousaf",
+      "unwound_url": "https://x.com/i/broadcasts/1PJqrNvPBenxb",
+      "url": "https://t.co/qEdsAknoNJ"
+     }
+    ]
+   },
+   "id": "2115664887347319145",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 86,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Israel Election Deadlock: Can Netanyahu Survive? Trump, Iran &amp; Pakistan’s Stakes https://t.co/qEdsAknoNJ",
+   "url": "https://x.com/KhawarLive/status/2115664887347319145"
+  },
+  {
+   "author_id": "1900375238548086788",
+   "created_at": "2026-10-29T04:30:50.000Z",
+   "edit_history_tweet_ids": [
+    "2115662618669265321"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🇺🇸 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE]",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 108,
+      "expanded_url": "https://x.com/i/broadcasts/1OGwbndzMYRKB",
+      "start": 85,
+      "status": 200,
+      "title": "MAGNO NEWS LIVE",
+      "unwound_url": "https://x.com/i/broadcasts/1OGwbndzMYRKB",
+      "url": "https://t.co/cY6Z8wZYpn"
+     }
+    ]
+   },
+   "id": "2115662618669265321",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 105,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🇺🇸 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE] https://t.co/cY6Z8wZYpn",
+   "url": "https://x.com/magnonewslive/status/2115662618669265321"
+  },
+  {
+   "author_id": "1900375238548086788",
+   "created_at": "2026-10-29T02:40:05.000Z",
+   "edit_history_tweet_ids": [
+    "2115634749251469453"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🇺🇸 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE]",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 108,
+      "expanded_url": "https://x.com/i/broadcasts/1pKdRDqWwRjJW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115634751759699968/m-m5Zhe-?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115634751759699968/m-m5Zhe-?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 85,
+      "status": 200,
+      "title": "MAGNO NEWS LIVE",
+      "unwound_url": "https://x.com/i/broadcasts/1pKdRDqWwRjJW",
+      "url": "https://t.co/CJg2DktGH0"
+     }
+    ]
+   },
+   "id": "2115634749251469453",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 267,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "🇺🇸 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE] https://t.co/CJg2DktGH0",
+   "url": "https://x.com/magnonewslive/status/2115634749251469453"
+  },
+  {
+   "author_id": "42548887",
+   "created_at": "2026-10-29T04:41:20.000Z",
+   "edit_history_tweet_ids": [
+    "2115665264205561976"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE DEBATE: Rep. Ro Khanna vs. Ritesh Tandon, a discussion about California's 17th District",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 116,
+      "expanded_url": "https://x.com/i/broadcasts/1nJOLQMnaqkxR",
+      "start": 93,
+      "status": 200,
+      "title": "Diya TV",
+      "unwound_url": "https://x.com/i/broadcasts/1nJOLQMnaqkxR",
+      "url": "https://t.co/9hi78fj0ys"
+     }
+    ]
+   },
+   "id": "2115665264205561976",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 18,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE DEBATE: Rep. Ro Khanna vs. Ritesh Tandon, a discussion about California's 17th District https://t.co/9hi78fj0ys",
+   "url": "https://x.com/DiyaTV/status/2115665264205561976"
+  },
+  {
+   "author_id": "943349784152289280",
+   "created_at": "2026-10-29T04:27:30.000Z",
+   "edit_history_tweet_ids": [
+    "2115661781465280542"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "10 KA DUM LIVE : सुबह 10 बजे की बड़ी खबरें | Cyclone Arnab | UP MLC Election Results | CM Yogi |",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 121,
+      "expanded_url": "https://x.com/i/broadcasts/2OdKPOjZlkynlP",
+      "start": 98,
+      "status": 200,
+      "title": "Zee Uttar Pradesh Uttarakhand",
+      "unwound_url": "https://x.com/i/broadcasts/2OdKPOjZlkynlP",
+      "url": "https://t.co/UQM20Lj2aw"
+     }
+    ]
+   },
+   "id": "2115661781465280542",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 298,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "10 KA DUM LIVE : सुबह 10 बजे की बड़ी खबरें | Cyclone Arnab | UP MLC Election Results | CM Yogi | \nhttps://t.co/UQM20Lj2aw",
+   "url": "https://x.com/ZEEUPUK/status/2115661781465280542"
+  },
+  {
+   "author_id": "935942321756966912",
+   "created_at": "2026-10-29T03:59:56.000Z",
+   "edit_history_tweet_ids": [
+    "2115654846141645122"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 60,
+      "expanded_url": "https://x.com/i/broadcasts/1OwGWeLAZbwxQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115654848725266433/DQxKUpyf?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115654848725266433/DQxKUpyf?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 37,
+      "status": 200,
+      "title": "Real America's Voice (RAV)",
+      "unwound_url": "https://x.com/i/broadcasts/1OwGWeLAZbwxQ",
+      "url": "https://t.co/gtZ2m3R0xr"
+     }
+    ]
+   },
+   "id": "2115654846141645122",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3339,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 3
+   },
+   "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/gtZ2m3R0xr",
+   "url": "https://x.com/RealAmVoice/status/2115654846141645122"
+  },
+  {
+   "author_id": "1601546786140717059",
+   "created_at": "2026-10-29T03:40:57.000Z",
+   "edit_history_tweet_ids": [
+    "2115650065524212012"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Episode #303 Prepare For Total Blackout In AMERICA, Pentagon Says Cyber Attacks Are Intermittent",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 120,
+      "expanded_url": "https://x.com/i/broadcasts/1qxvverzojpxB",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115650108306149378/hTVqpxXd?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115650108306149378/hTVqpxXd?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 97,
+      "status": 200,
+      "title": "InspectorWebb",
+      "unwound_url": "https://x.com/i/broadcasts/1qxvverzojpxB",
+      "url": "https://t.co/yn58IlHXsa"
+     }
+    ]
+   },
+   "id": "2115650065524212012",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 38,
+    "like_count": 0,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Episode #303 Prepare For Total Blackout In AMERICA, Pentagon Says Cyber Attacks Are Intermittent https://t.co/yn58IlHXsa",
+   "url": "https://x.com/inspectorwebb/status/2115650065524212012"
+  },
+  {
+   "author_id": "1438604288025153542",
+   "created_at": "2026-10-29T02:39:24.000Z",
+   "edit_history_tweet_ids": [
+    "2115634578400686484"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Rapid Fire News #1237 ~WOODSHED WEDNESDAY~",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 75,
+      "expanded_url": "https://x.com/i/broadcasts/2kEOPvRPvjVvAW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115634777126539264/ZV7kkm4f?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115634777126539264/ZV7kkm4f?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 52,
+      "status": 200,
+      "title": "Average Joe Patriot 1776",
+      "unwound_url": "https://x.com/i/broadcasts/2kEOPvRPvjVvAW",
+      "url": "https://t.co/utKfb621Qc"
+     }
+    ]
+   },
+   "id": "2115634578400686484",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 391,
+    "like_count": 10,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 7
+   },
+   "text": "LIVE NOW\nRapid Fire News #1237 ~WOODSHED WEDNESDAY~\nhttps://t.co/utKfb621Qc",
+   "url": "https://x.com/AJPArmy/status/2115634578400686484"
+  },
+  {
+   "author_id": "1438604288025153542",
+   "created_at": "2026-10-29T02:38:52.000Z",
+   "edit_history_tweet_ids": [
+    "2115634442840445431"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Rapid Fire News #1237 ~WOODSHED WEDNESDAY~",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 66,
+      "expanded_url": "https://x.com/i/broadcasts/2kEOPvRPvjVvAW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115634777126539264/ZV7kkm4f?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115634777126539264/ZV7kkm4f?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 43,
+      "status": 200,
+      "title": "Average Joe Patriot 1776",
+      "unwound_url": "https://x.com/i/broadcasts/2kEOPvRPvjVvAW",
+      "url": "https://t.co/utKfb61u0E"
+     }
+    ]
+   },
+   "id": "2115634442840445431",
+   "public_metrics": {
+    "bookmark_count": 4,
+    "impression_count": 528,
+    "like_count": 20,
+    "quote_count": 2,
+    "reply_count": 0,
+    "retweet_count": 12
+   },
+   "text": "Rapid Fire News #1237 ~WOODSHED WEDNESDAY~ https://t.co/utKfb61u0E",
+   "url": "https://x.com/AJPArmy/status/2115634442840445431"
+  },
+  {
+   "author_id": "1438604288025153542",
+   "created_at": "2026-10-29T02:33:19.000Z",
+   "edit_history_tweet_ids": [
+    "2115633047596847289"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Rapid Fire News #1237 ~WOODSHED WEDNESDAY~",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 66,
+      "expanded_url": "https://x.com/i/broadcasts/2brnWkdOrBOQaz",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115633090244509696/ChDYTUHU?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115633090244509696/ChDYTUHU?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 43,
+      "status": 200,
+      "title": "Average Joe Patriot 1776",
+      "unwound_url": "https://x.com/i/broadcasts/2brnWkdOrBOQaz",
+      "url": "https://t.co/YTR0PyiUGC"
+     }
+    ]
+   },
+   "id": "2115633047596847289",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 389,
+    "like_count": 10,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 7
+   },
+   "text": "Rapid Fire News #1237 ~WOODSHED WEDNESDAY~ https://t.co/YTR0PyiUGC",
+   "url": "https://x.com/AJPArmy/status/2115633047596847289"
+  },
+  {
+   "author_id": "850207526586957824",
+   "created_at": "2026-10-29T03:45:45.000Z",
+   "edit_history_tweet_ids": [
+    "2115651274377154984"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Chatri’s Big Updates: ONE 174, Di Bella & Haggerty | ONE Championship News LIVE",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 107,
+      "expanded_url": "https://x.com/i/broadcasts/1qxoNYlPpMgJv",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115651316831924224/n4XvgaKz?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115651316831924224/n4XvgaKz?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 84,
+      "status": 200,
+      "title": "Nick Atkin",
+      "unwound_url": "https://x.com/i/broadcasts/1qxoNYlPpMgJv",
+      "url": "https://t.co/lWTTTFlO5W"
+     }
+    ]
+   },
+   "id": "2115651274377154984",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 327,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Chatri’s Big Updates: ONE 174, Di Bella &amp; Haggerty | ONE Championship News LIVE https://t.co/lWTTTFlO5W",
+   "url": "https://x.com/nickatkinone/status/2115651274377154984"
+  },
+  {
+   "author_id": "1825768108251877377",
+   "created_at": "2026-10-29T04:42:09.000Z",
+   "edit_history_tweet_ids": [
+    "2115665466555531484"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 52,
+      "start": 36,
+      "tag": "VoiceOfChinland"
+     },
+     {
+      "end": 64,
+      "start": 53,
+      "tag": "VOCBurmese"
+     },
+     {
+      "end": 75,
+      "start": 65,
+      "tag": "DailyNews"
+     }
+    ],
+    "urls": [
+     {
+      "description": "VOC Burmese News (October 29, 2026) #VoiceOfChinland #VOCBurmese #DailyNews",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 99,
+      "expanded_url": "https://x.com/i/broadcasts/1DGleVADaPDJL",
+      "start": 76,
+      "status": 200,
+      "title": "VOC (The Voice of Chinland)",
+      "unwound_url": "https://x.com/i/broadcasts/1DGleVADaPDJL",
+      "url": "https://t.co/Mu5R6rOTbd"
+     }
+    ]
+   },
+   "id": "2115665466555531484",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "VOC Burmese News (October 29, 2026) #VoiceOfChinland #VOCBurmese #DailyNews https://t.co/Mu5R6rOTbd",
+   "url": "https://x.com/voiceofchinland/status/2115665466555531484"
+  },
+  {
+   "author_id": "2088906837844500480",
+   "created_at": "2026-10-29T03:10:34.000Z",
+   "edit_history_tweet_ids": [
+    "2115642422822683113"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 74,
+      "start": 70,
+      "tag": "EAM"
+     },
+     {
+      "end": 84,
+      "start": 75,
+      "tag": "MILITARY"
+     },
+     {
+      "end": 89,
+      "start": 85,
+      "tag": "WAR"
+     },
+     {
+      "end": 95,
+      "start": 90,
+      "tag": "NEWS"
+     },
+     {
+      "end": 100,
+      "start": 96,
+      "tag": "USA"
+     }
+    ],
+    "urls": [
+     {
+      "description": "THE WAR WATCHER",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 153,
+      "expanded_url": "https://x.com/i/broadcasts/2peOnRXMgLbojp",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115642465801662464/UXqb_mkh?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115642465801662464/UXqb_mkh?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 130,
+      "status": 200,
+      "title": "THE WAR WATCHER",
+      "unwound_url": "https://x.com/i/broadcasts/2peOnRXMgLbojp",
+      "url": "https://t.co/7sYuVxww33"
+     }
+    ]
+   },
+   "id": "2115642422822683113",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 30,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE STREAM MONITORING EMERGENCY ACTION MESSAGES. (EAMS) 11175/8992 \n\n#EAM #MILITARY #WAR #NEWS #USA \n\nSINCERLY, THE WAR WATCHER. https://t.co/7sYuVxww33",
+   "url": "https://x.com/THEWAR_WATCHER/status/2115642422822683113"
+  },
+  {
+   "author_id": "36875020",
+   "created_at": "2026-10-29T03:00:06.000Z",
+   "edit_history_tweet_ids": [
+    "2115639785830416659"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE at 5: Latest on Halloweekend forecast Former President Bill Clinton Stopping in Tupelo Friday",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 122,
+      "expanded_url": "https://x.com/i/broadcasts/1jGXgBWzonOKZ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115639788250574849/gG4eKOu-?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115639788250574849/gG4eKOu-?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 99,
+      "status": 200,
+      "title": "Matt Laubhan, CBM",
+      "unwound_url": "https://x.com/i/broadcasts/1jGXgBWzonOKZ",
+      "url": "https://t.co/hX2yCSQqKC"
+     }
+    ]
+   },
+   "id": "2115639785830416659",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 205,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE at 5: Latest on Halloweekend forecast Former President Bill Clinton Stopping in Tupelo Friday https://t.co/hX2yCSQqKC",
+   "url": "https://x.com/matt_laubhan/status/2115639785830416659"
+  },
+  {
+   "author_id": "1583189662360866818",
+   "created_at": "2026-10-29T03:19:43.000Z",
+   "edit_history_tweet_ids": [
+    "2115644722186526759"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Nicki Minaj & Trump: Supporter or Political Spectacle?",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 82,
+      "expanded_url": "https://x.com/i/broadcasts/1nJOLQMnBrQxR",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115644764548939776/-e-bNrae?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115644764548939776/-e-bNrae?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 59,
+      "status": 200,
+      "title": "DaBoxing Scholar",
+      "unwound_url": "https://x.com/i/broadcasts/1nJOLQMnBrQxR",
+      "url": "https://t.co/uGtLGpHZyO"
+     }
+    ]
+   },
+   "id": "2115644722186526759",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 13,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Nicki Minaj &amp; Trump: Supporter or Political Spectacle? https://t.co/uGtLGpHZyO",
+   "url": "https://x.com/ScholarDaboxing/status/2115644722186526759"
   }
  ],
  "users": [
   {
-   "id": "1155558575563051008",
-   "name": "Sam C",
+   "id": "1410055968",
+   "name": "Nashville SC",
    "public_metrics": {
-    "followers_count": 179609,
-    "following_count": 5282,
-    "like_count": 28197,
-    "listed_count": 1027,
-    "media_count": 3071,
-    "tweet_count": 33821
+    "followers_count": 91515,
+    "following_count": 342,
+    "like_count": 18378,
+    "listed_count": 953,
+    "media_count": 22805,
+    "tweet_count": 44578
    },
-   "username": "SamC_reports",
+   "username": "NashvilleSC",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1189608528950054913",
-   "name": "Bek Lover",
+   "id": "1534262297547481094",
+   "name": "Radell PPBD",
    "public_metrics": {
-    "followers_count": 20884,
-    "following_count": 613,
-    "like_count": 2163,
-    "listed_count": 48,
-    "media_count": 1548,
-    "tweet_count": 6552
-   },
-   "username": "BekLoverNYC",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "472596884",
-   "name": "The MisFitNation",
-   "public_metrics": {
-    "followers_count": 625,
-    "following_count": 1068,
-    "like_count": 1437,
-    "listed_count": 8,
-    "media_count": 1535,
-    "tweet_count": 4644
-   },
-   "username": "RichLaMonica",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1830023860621611012",
-   "name": "Pine Island Media",
-   "public_metrics": {
-    "followers_count": 98,
-    "following_count": 98,
-    "like_count": 105,
-    "listed_count": 0,
-    "media_count": 154,
-    "tweet_count": 385
-   },
-   "username": "pineislandhd",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1418034820207321098",
-   "name": "Silvio Canto. Jr.",
-   "public_metrics": {
-    "followers_count": 271,
-    "following_count": 396,
-    "like_count": 845,
-    "listed_count": 1,
-    "media_count": 36,
-    "tweet_count": 3493
-   },
-   "username": "silvio_canto",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1270896095548366849",
-   "name": "Dion's Daily Dose",
-   "public_metrics": {
-    "followers_count": 346,
-    "following_count": 364,
-    "like_count": 9879,
-    "listed_count": 1,
-    "media_count": 605,
-    "tweet_count": 1870
-   },
-   "username": "DionsDailyDose",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1392582685890068481",
-   "name": "Steven Carr",
-   "public_metrics": {
-    "followers_count": 471,
-    "following_count": 814,
-    "like_count": 247,
-    "listed_count": 1,
-    "media_count": 491,
-    "tweet_count": 5393
-   },
-   "username": "realStevenCarr",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "113137765",
-   "name": "Ethan Ralph",
-   "public_metrics": {
-    "followers_count": 110017,
-    "following_count": 1991,
-    "like_count": 196539,
-    "listed_count": 374,
-    "media_count": 3424,
-    "tweet_count": 45186
-   },
-   "username": "TheRalphRetort",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1805823520376594432",
-   "name": "NAACP Gwinnett County Branch",
-   "public_metrics": {
-    "followers_count": 156,
-    "following_count": 391,
-    "like_count": 4933,
-    "listed_count": 2,
-    "media_count": 375,
-    "tweet_count": 3907
-   },
-   "username": "Gwinnett_NAACP",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "387472346",
-   "name": "Daniel Di Martino",
-   "public_metrics": {
-    "followers_count": 89303,
-    "following_count": 6504,
-    "like_count": 243035,
-    "listed_count": 563,
-    "media_count": 8400,
-    "tweet_count": 91617
-   },
-   "username": "DanielDiMartino",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1044108354",
-   "name": "Pharaoh R. El-Aton",
-   "public_metrics": {
-    "followers_count": 1162,
-    "following_count": 429,
-    "like_count": 41,
-    "listed_count": 51,
-    "media_count": 10948,
-    "tweet_count": 20210
-   },
-   "username": "PharaohSaidThat",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1731447196455989248",
-   "name": "2WAY",
-   "public_metrics": {
-    "followers_count": 59793,
-    "following_count": 776,
-    "like_count": 1470,
-    "listed_count": 304,
-    "media_count": 2460,
-    "tweet_count": 4997
-   },
-   "username": "2waytvapp",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1694304501048434688",
-   "name": "Brett C Collins",
-   "public_metrics": {
-    "followers_count": 227,
-    "following_count": 100,
-    "like_count": 1302,
-    "listed_count": 0,
-    "media_count": 203,
-    "tweet_count": 4429
-   },
-   "username": "WeAreRiseFree",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1867405036969394176",
-   "name": "Genjitsu Shugi-Sha",
-   "public_metrics": {
-    "followers_count": 256,
-    "following_count": 3199,
-    "like_count": 200241,
-    "listed_count": 1,
-    "media_count": 1113,
-    "tweet_count": 8817
-   },
-   "username": "G_ShugiSha",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1256260317732057090",
-   "name": "Randy Chavez \u2b55",
-   "public_metrics": {
-    "followers_count": 25400,
-    "following_count": 492,
-    "like_count": 144825,
-    "listed_count": 66,
-    "media_count": 4841,
-    "tweet_count": 67742
-   },
-   "username": "RealRandyChavez",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1270489357208649728",
-   "name": "Dr. Joseph Ford Cotto",
-   "public_metrics": {
-    "followers_count": 126302,
-    "following_count": 88805,
-    "like_count": 121561,
-    "listed_count": 515,
-    "media_count": 5194,
-    "tweet_count": 517584
-   },
-   "username": "JosephFordCotto",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1635014717394624514",
-   "name": "Trenches News",
-   "public_metrics": {
-    "followers_count": 2038,
-    "following_count": 4,
-    "like_count": 3574,
+    "followers_count": 758,
+    "following_count": 831,
+    "like_count": 2265,
     "listed_count": 3,
-    "media_count": 2288,
-    "tweet_count": 3934
+    "media_count": 1730,
+    "tweet_count": 7066
    },
-   "username": "swipper3837",
+   "username": "PPolBreakdown",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1765087767888007168",
-   "name": "HRM Queen Romana Didulo",
+   "id": "1832972046785228801",
+   "name": "Rep America",
    "public_metrics": {
-    "followers_count": 2280,
-    "following_count": 2,
-    "like_count": 3,
-    "listed_count": 14,
-    "media_count": 5,
-    "tweet_count": 1459
-   },
-   "username": "HRMQR",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1462911175658668032",
-   "name": "H.E. Right Hon 2nd PM Christopher J Maffenbeier",
-   "public_metrics": {
-    "followers_count": 153,
-    "following_count": 59,
-    "like_count": 71,
+    "followers_count": 178,
+    "following_count": 174,
+    "like_count": 351,
     "listed_count": 1,
-    "media_count": 31,
-    "tweet_count": 273
+    "media_count": 222,
+    "tweet_count": 465
    },
-   "username": "Forsaken111CJM",
+   "username": "RepAmericaTV",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "819967215218749440",
-   "name": "Steve Ram",
+   "id": "478324893",
+   "name": "Dean Ryan",
    "public_metrics": {
-    "followers_count": 6797,
-    "following_count": 25,
+    "followers_count": 2284,
+    "following_count": 16,
+    "like_count": 4121,
+    "listed_count": 11,
+    "media_count": 1129,
+    "tweet_count": 3732
+   },
+   "username": "TheRealDeanRyan",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1697041691033632768",
+   "name": "X America News",
+   "public_metrics": {
+    "followers_count": 132066,
+    "following_count": 38183,
+    "like_count": 12802,
+    "listed_count": 283,
+    "media_count": 2293,
+    "tweet_count": 9164
+   },
+   "username": "XAmericaNews",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "3959989991",
+   "name": "Dustin Faulkner",
+   "public_metrics": {
+    "followers_count": 6064,
+    "following_count": 4392,
+    "like_count": 29167,
+    "listed_count": 31,
+    "media_count": 1887,
+    "tweet_count": 43561
+   },
+   "username": "dloydfaulk",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1982030845138608128",
+   "name": "News Leader",
+   "public_metrics": {
+    "followers_count": 2989,
+    "following_count": 1,
     "like_count": 3,
-    "listed_count": 5,
-    "media_count": 1016,
-    "tweet_count": 1390
+    "listed_count": 2,
+    "media_count": 28741,
+    "tweet_count": 29294
    },
-   "username": "SteveRamNews",
+   "username": "NewsLeaderLive",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "884085573484511236",
-   "name": "WHITEBOY LOCK DOWN RADIO \u2122",
+   "id": "1181435213651431424",
+   "name": "live with khawar yousaf",
    "public_metrics": {
-    "followers_count": 2844,
-    "following_count": 1462,
-    "like_count": 18411,
-    "listed_count": 7,
-    "media_count": 2960,
-    "tweet_count": 15954
+    "followers_count": 2378,
+    "following_count": 5471,
+    "like_count": 281,
+    "listed_count": 1,
+    "media_count": 816,
+    "tweet_count": 2400
    },
-   "username": "WhiteboyRadio",
+   "username": "KhawarLive",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "19207275",
-   "name": "Nazim Abdul-Latif",
+   "id": "1900375238548086788",
+   "name": "MAGNO NEWS LIVE",
    "public_metrics": {
-    "followers_count": 1040,
-    "following_count": 3229,
-    "like_count": 78850,
-    "listed_count": 8,
-    "media_count": 38371,
-    "tweet_count": 155643
+    "followers_count": 2401,
+    "following_count": 276,
+    "like_count": 28,
+    "listed_count": 17,
+    "media_count": 46,
+    "tweet_count": 2146
    },
-   "username": "goldeinmind",
+   "username": "magnonewslive",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "4248868933",
-   "name": "Crow",
+   "id": "42548887",
+   "name": "Diya TV",
    "public_metrics": {
-    "followers_count": 19944,
-    "following_count": 0,
-    "like_count": 995,
-    "listed_count": 54,
-    "media_count": 2491,
-    "tweet_count": 5707
+    "followers_count": 2565,
+    "following_count": 2025,
+    "like_count": 2745,
+    "listed_count": 79,
+    "media_count": 3539,
+    "tweet_count": 17866
    },
-   "username": "crrow777",
+   "username": "DiyaTV",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "414056410",
-   "name": "Terrell L. Strayhorn, PhD",
+   "id": "943349784152289280",
+   "name": "Zee Uttar Pradesh Uttarakhand",
    "public_metrics": {
-    "followers_count": 8287,
-    "following_count": 4937,
-    "like_count": 9646,
-    "listed_count": 87,
-    "media_count": 2030,
-    "tweet_count": 7196
+    "followers_count": 116308,
+    "following_count": 35,
+    "like_count": 2449,
+    "listed_count": 149,
+    "media_count": 216376,
+    "tweet_count": 350646
    },
-   "username": "tlstrayhorn",
+   "username": "ZEEUPUK",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1291128494",
-   "name": "Sulaiman Ahmed",
+   "id": "935942321756966912",
+   "name": "Real America's Voice (RAV)",
    "public_metrics": {
-    "followers_count": 848840,
-    "following_count": 917,
-    "like_count": 74180,
-    "listed_count": 3438,
-    "media_count": 69693,
-    "tweet_count": 104059
+    "followers_count": 572119,
+    "following_count": 1918,
+    "like_count": 11932,
+    "listed_count": 1587,
+    "media_count": 86817,
+    "tweet_count": 138586
    },
-   "username": "ShaykhSulaiman",
+   "username": "RealAmVoice",
    "verified": true,
-   "verified_type": "blue",
-   "withheld": {
-    "country_codes": [
-     "AE"
-    ]
-   }
+   "verified_type": "business"
+  },
+  {
+   "id": "1601546786140717059",
+   "name": "InspectorWebb",
+   "public_metrics": {
+    "followers_count": 4533,
+    "following_count": 6608,
+    "like_count": 2942,
+    "listed_count": 1,
+    "media_count": 1056,
+    "tweet_count": 6687
+   },
+   "username": "inspectorwebb",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1438604288025153542",
+   "name": "Average Joe Patriot 1776",
+   "public_metrics": {
+    "followers_count": 11222,
+    "following_count": 4741,
+    "like_count": 97898,
+    "listed_count": 11,
+    "media_count": 4710,
+    "tweet_count": 58018
+   },
+   "username": "AJPArmy",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "850207526586957824",
+   "name": "Nick Atkin",
+   "public_metrics": {
+    "followers_count": 17973,
+    "following_count": 2054,
+    "like_count": 15259,
+    "listed_count": 38,
+    "media_count": 5818,
+    "tweet_count": 11155
+   },
+   "username": "nickatkinone",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1825768108251877377",
+   "name": "VOC (The Voice of Chinland)",
+   "public_metrics": {
+    "followers_count": 60,
+    "following_count": 31,
+    "like_count": 25,
+    "listed_count": 0,
+    "media_count": 166,
+    "tweet_count": 1037
+   },
+   "username": "voiceofchinland",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2088906837844500480",
+   "name": "THE WAR WATCHER",
+   "public_metrics": {
+    "followers_count": 15,
+    "following_count": 195,
+    "like_count": 0,
+    "listed_count": 0,
+    "media_count": 9,
+    "tweet_count": 47
+   },
+   "username": "THEWAR_WATCHER",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "36875020",
+   "name": "Matt Laubhan, CBM",
+   "public_metrics": {
+    "followers_count": 26870,
+    "following_count": 515,
+    "like_count": 619,
+    "listed_count": 199,
+    "media_count": 9327,
+    "tweet_count": 63140
+   },
+   "username": "matt_laubhan",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1583189662360866818",
+   "name": "DaBoxing Scholar",
+   "public_metrics": {
+    "followers_count": 106,
+    "following_count": 1053,
+    "like_count": 443,
+    "listed_count": 0,
+    "media_count": 44,
+    "tweet_count": 1639
+   },
+   "username": "ScholarDaboxing",
+   "verified": true,
+   "verified_type": "blue"
   }
  ]
 }
