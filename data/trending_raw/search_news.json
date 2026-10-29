@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T17:46:41Z",
+ "fetched_at": "2026-10-29T18:50:30Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -8,6 +8,73 @@
   "news.fields": "name,summary,hook,category,updated_at,contexts,cluster_posts_results"
  },
  "data": [
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2115508619454149045"
+    },
+    {
+     "post_id": "2115527848677323000"
+    },
+    {
+     "post_id": "2115540413142769975"
+    },
+    {
+     "post_id": "2115643362543907249"
+    },
+    {
+     "post_id": "2115798140422901796"
+    },
+    {
+     "post_id": "2115527848677323000"
+    },
+    {
+     "post_id": "2115540413142769975"
+    },
+    {
+     "post_id": "2115473038359638213"
+    },
+    {
+     "post_id": "2115766229814202711"
+    },
+    {
+     "post_id": "2115798140422901796"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "National Review"
+     ],
+     "people": [
+      "John Puri",
+      "Bill Kristol",
+      "Adam Kinzinger",
+      "George Conway"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A young writer's list of 25 'terrifying' Democratic moves linked back to actions by the current administration and Republicans, flipping the script on power abuse warnings.",
+   "id": "2115550077909717314",
+   "name": "Satirical National Review Piece Exposes Conservative Hypocrisy Debate",
+   "summary": "John R. Puri's National Review article warns conservatives about potential Democratic actions like debt explosions, filibuster threats, and partisan prosecutions if they win the November 3, 2026 midterms\u2014but each links to examples from President Trump's administration or GOP efforts. Reactions divide sharply: some conservatives slam it as Never-Trump revival, while supporters call out selective outrage on tactics like executive orders. Puri defends the satire, stressing opposition to abuses should stand regardless of party, amid tensions shaping the final years of Trump's term.",
+   "updated_at": "2026-10-29T16:46:52.000Z",
+   "url": "https://x.com/i/trending/2115550077909717314"
+  },
   {
    "category": "News",
    "cluster_posts_results": [
@@ -208,45 +275,44 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115797513705836938"
+     "post_id": "2115704995509334109"
     },
     {
-     "post_id": "2115809396857188667"
+     "post_id": "2115735372072411548"
     },
     {
-     "post_id": "2115798551401996457"
+     "post_id": "2115798308144980154"
     },
     {
-     "post_id": "2115798971532615998"
+     "post_id": "2115781945607021013"
     },
     {
-     "post_id": "2115797513705836938"
+     "post_id": "2115783789662388346"
     },
     {
-     "post_id": "2115810710957719850"
+     "post_id": "2115704995509334109"
     },
     {
-     "post_id": "2115809396857188667"
+     "post_id": "2115767839454019767"
     },
     {
-     "post_id": "2115798971532615998"
+     "post_id": "2115783789662388346"
     },
     {
-     "post_id": "2115833996936696122"
+     "post_id": "2115781945607021013"
     },
     {
-     "post_id": "2115798551401996457"
+     "post_id": "2115735372072411548"
     }
    ],
    "contexts": {
     "entities": {
-     "events": [],
-     "organizations": [
-      "House Oversight Committee"
+     "events": [
+      "2026 U.S. midterm elections"
      ],
+     "organizations": [],
      "people": [
-      "James Comer",
-      "Aaron Rupar"
+      "Mike Lee"
      ],
      "places": [],
      "products": []
@@ -258,17 +324,85 @@
      "teams": []
     },
     "topics": [
-     "News",
-     "Politics"
+     "Elections"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "With five days until Election Day, Rep. James Comer spotlighted a worrying trend: Democrats surging in early voting while Republicans trail behind.",
-   "id": "2115857465145254228",
-   "name": "Rep. Comer Warns of GOP Turnout Lag in 2026 Midterms",
-   "summary": "In a Newsmax interview, Kentucky Rep. James Comer, House Oversight Committee chairman, highlighted unusually high Democratic early and absentee ballot numbers in key states, urging Republicans to ramp up participation or risk accurate polls and a Democratic House majority focused on Trump investigations. Early voting data from battleground states backs the pattern, showing Democrats taking a larger share of mail ballots than in past cycles, amid national polls favoring them on the generic ballot. Online responses pushed back, blaming a 'Trump problem,' affordability issues, or preempting rigging claims, as both parties hustle in the final days for House control.",
-   "updated_at": "2026-10-29T17:33:35.000Z",
-   "url": "https://x.com/i/trending/2115857465145254228"
+   "hook": "With early voting wrapping up Friday, Texas Republicans are rallying supporters to head to the polls and keep the state red before November 3.",
+   "id": "2115777965917114378",
+   "name": "Texas Republicans Urge Red Wave in Final Midterm Push",
+   "summary": "Supporters across Texas emphasize high stakes in the midterms, framing the choice as preventing a shift left and preserving freedom over chaos. Lt. Gov. Dan Patrick and others remind voters not to wait, with early in-person voting open until October 30 and Election Day polls from 7 a.m. to 7 p.m. on November 3. Many shared stories of casting early Republican ballots, mixing determination with frustration over unaccomplished goals, while graphics boost candidates like Ken Paxton and Greg Abbott in key races.",
+   "updated_at": "2026-10-29T16:58:14.000Z",
+   "url": "https://x.com/i/trending/2115777965917114378"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2115647892023394657"
+    },
+    {
+     "post_id": "2115418061486362632"
+    },
+    {
+     "post_id": "2115832338147852798"
+    },
+    {
+     "post_id": "2115418061486362632"
+    },
+    {
+     "post_id": "2115647892023394657"
+    },
+    {
+     "post_id": "2115770682927698385"
+    },
+    {
+     "post_id": "2115832338147852798"
+    },
+    {
+     "post_id": "2115657090970878431"
+    },
+    {
+     "post_id": "2115405238345802221"
+    },
+    {
+     "post_id": "2115648396530979162"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "2026 US Senate Election",
+      "2026 US House Election"
+     ],
+     "organizations": [
+      "Democratic Party"
+     ],
+     "people": [
+      "Nate Silver"
+     ],
+     "places": [
+      "United States"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Elections"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "With November 3 midterms looming, Republicans face tough odds holding Congress, as polls and models tilt toward Democrats in both chambers.",
+   "id": "2115470861226463358",
+   "name": "Forecasts Point to Democratic Gains in House and Senate Midterms",
+   "summary": "Fox News power rankings and independent models project Democrats securing around 230 House seats, exceeding the 218 needed for majority, with an 84% chance in one forecast. The Senate race remains tighter, but recent polls show Democrats gaining ground, including in Texas, with prediction markets giving them 63-68% odds of control. Former Rep. Marjorie Taylor Greene noted even a strong GOP showing of 223 seats would leave Democrats in charge, blaming party policies on tariffs and costs. Early voting is underway, and final turnout will decide if these projections hold, shaping the last two years of the term.",
+   "updated_at": "2026-10-29T17:09:36.000Z",
+   "url": "https://x.com/i/trending/2115470861226463358"
   },
   {
    "category": "News",
@@ -400,72 +534,6 @@
    "url": "https://x.com/i/trending/2115603817639403603"
   },
   {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115519817319108929"
-    },
-    {
-     "post_id": "2115781945607021013"
-    },
-    {
-     "post_id": "2115820074019741982"
-    },
-    {
-     "post_id": "2115764139129700788"
-    },
-    {
-     "post_id": "2115830946834616357"
-    },
-    {
-     "post_id": "2115781945607021013"
-    },
-    {
-     "post_id": "2115820074019741982"
-    },
-    {
-     "post_id": "2115771812474986582"
-    },
-    {
-     "post_id": "2115764139129700788"
-    },
-    {
-     "post_id": "2115830946834616357"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "early voting"
-     ],
-     "organizations": [
-      "Republican Party"
-     ],
-     "people": [],
-     "places": [
-      "Texas"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "One voter declared they voted Republican straight down the ballot, vowing 'no mercy' and 'taking this state back.' Replies quickly pointed out Republicans have controlled Texas government for decades.",
-   "id": "2115840057827311896",
-   "name": "Texas Voters Clash Over 'Taking the State Back' from Republicans",
-   "summary": "Ahead of the November 3 elections, some Texas conservatives shared enthusiastic posts about straight-ticket Republican voting, echoing calls to 'save Texas' and quoting former President Trump's claim that Democrats ruined it. Critics highlighted the GOP's long dominance, noting control of statewide offices since 1994, the Senate majority since 1997, the House since 2003, and a current trifecta under Governor Greg Abbott as of late 2026. They tied issues like the unupgraded power grid and Texas's drop to 41st in education rankings to that tenure, fueling a debate on accountability during early voting.",
-   "updated_at": "2026-10-29T16:25:03.000Z",
-   "url": "https://x.com/i/trending/2115840057827311896"
-  },
-  {
    "category": "Other",
    "cluster_posts_results": [
     {
@@ -592,75 +660,6 @@
    "summary": "A recent Echelon Insights poll of 508 likely voters shows Democratic Sen. Jon Ossoff at 55% against Republican Mike Collins's 40% in Georgia's U.S. Senate race, matching other surveys with an 8-to-11-point edge. The governor's race between Democrat Keisha Lance Bottoms and Republican Rick Jackson remains tight at 49% to 48%, while Democrats hold narrow leads in other statewide offices. Over 1.9 million Georgians have voted early as of Oct. 27, with models projecting Ossoff in the low-to-mid 50s, though Election Day votes may favor Republicans.",
    "updated_at": "2026-10-28T22:31:49.000Z",
    "url": "https://x.com/i/trending/2115143792613576779"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115504229926224087"
-    },
-    {
-     "post_id": "2115477661103366597"
-    },
-    {
-     "post_id": "2115523221785080127"
-    },
-    {
-     "post_id": "2115504229926224087"
-    },
-    {
-     "post_id": "2115477661103366597"
-    },
-    {
-     "post_id": "2115512673534460208"
-    },
-    {
-     "post_id": "2115549262335348857"
-    },
-    {
-     "post_id": "2115523221785080127"
-    },
-    {
-     "post_id": "2115509522986865026"
-    },
-    {
-     "post_id": "2115510182700613888"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "U.S. midterms"
-     ],
-     "organizations": [
-      "BBC"
-     ],
-     "people": [
-      "Michael Douglas",
-      "Donald Trump"
-     ],
-     "places": [
-      "United States"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "During a BBC interview promoting his autobiography, Michael Douglas didn't hold back on his midterm predictions.",
-   "id": "2115546890460619020",
-   "name": "Michael Douglas Hopes for Democratic Massacre in Midterms",
-   "summary": "The Oscar-winning actor told a British audience he is hoping for an overwhelming Democratic victory\u2014a 'massacre' of Trump support\u2014in the November 3 midterms, with shifts in Congress and possibly the Senate. Douglas, a longtime Democratic supporter, said Trump has exhausted his promises, especially in the Midwest, and praised Democrats' plans to first tackle affordability before addressing corruption around the president. His strong word choice drew quick online criticism from conservatives, who called it extreme and un-American.",
-   "updated_at": "2026-10-28T20:59:18.000Z",
-   "url": "https://x.com/i/trending/2115546890460619020"
   }
  ]
 }
