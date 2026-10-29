@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T06:56:00Z",
+ "fetched_at": "2026-10-29T07:11:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T03:56:00Z",
+  "start_time": "2026-10-29T04:11:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,33 +17,6 @@
    "edit_history_tweet_ids": [
     "2115664887347319145"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Israel Election Deadlock: Can Netanyahu Survive? Trump, Iran & Pakistan’s Stakes",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 108,
-      "expanded_url": "https://x.com/i/broadcasts/1PJqrNvPBenxb",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115664929906970624/0238YryH?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115664929906970624/0238YryH?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 85,
-      "status": 200,
-      "title": "live with khawar yousaf",
-      "unwound_url": "https://x.com/i/broadcasts/1PJqrNvPBenxb",
-      "url": "https://t.co/qEdsAknoNJ"
-     }
-    ]
-   },
    "id": "2115664887347319145",
    "public_metrics": {
     "bookmark_count": 0,
@@ -53,7 +26,7 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Israel Election Deadlock: Can Netanyahu Survive? Trump, Iran &amp; Pakistan’s Stakes https://t.co/qEdsAknoNJ",
+   "text": "Israel Election Deadlock: Can Netanyahu Survive? Trump, Iran &amp; Pakistan\u2019s Stakes https://t.co/qEdsAknoNJ",
    "url": "https://x.com/KhawarLive/status/2115664887347319145"
   },
   {
@@ -62,43 +35,16 @@
    "edit_history_tweet_ids": [
     "2115662618669265321"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "🇺🇸 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE]",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 108,
-      "expanded_url": "https://x.com/i/broadcasts/1OGwbndzMYRKB",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115662661157617664/F0g9n5IW?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115662661157617664/F0g9n5IW?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 85,
-      "status": 200,
-      "title": "MAGNO NEWS LIVE",
-      "unwound_url": "https://x.com/i/broadcasts/1OGwbndzMYRKB",
-      "url": "https://t.co/cY6Z8wZYpn"
-     }
-    ]
-   },
    "id": "2115662618669265321",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 175,
+    "impression_count": 179,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 1,
     "retweet_count": 2
    },
-   "text": "🇺🇸 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE] https://t.co/cY6Z8wZYpn",
+   "text": "\ud83c\uddfa\ud83c\uddf8 President Donald Trump Returns to Washington, DC after Campaigning in Ohio [LIVE] https://t.co/cY6Z8wZYpn",
    "url": "https://x.com/magnonewslive/status/2115662618669265321"
   },
   {
@@ -107,37 +53,10 @@
    "edit_history_tweet_ids": [
     "2115665264205561976"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE DEBATE: Rep. Ro Khanna vs. Ritesh Tandon, a discussion about California's 17th District",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 116,
-      "expanded_url": "https://x.com/i/broadcasts/1nJOLQMnaqkxR",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115665306702282752/oKqf6v2X?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115665306702282752/oKqf6v2X?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 93,
-      "status": 200,
-      "title": "Diya TV",
-      "unwound_url": "https://x.com/i/broadcasts/1nJOLQMnaqkxR",
-      "url": "https://t.co/9hi78fj0ys"
-     }
-    ]
-   },
    "id": "2115665264205561976",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 27,
+    "impression_count": 28,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -152,48 +71,11 @@
    "edit_history_tweet_ids": [
     "2115694373384163678"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 159,
-      "start": 146,
-      "tag": "NewsAndViews"
-     },
-     {
-      "end": 183,
-      "start": 160,
-      "tag": "HumanitarianJournalism"
-     },
-     {
-      "end": 191,
-      "start": 184,
-      "tag": "Halaal"
-     },
-     {
-      "end": 198,
-      "start": 192,
-      "tag": "viral"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Truth behind the viral debate: Are South Africans being forced to eat halaal? CEO of the MJC Halaal Trust, Moulana Zakariya Philander weighs in. #NewsAndViews #HumanitarianJournalism #Halaal #viral",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 222,
-      "expanded_url": "https://x.com/i/broadcasts/1qKVmydgdvDxB",
-      "start": 199,
-      "status": 200,
-      "title": "Salaamedia",
-      "unwound_url": "https://x.com/i/broadcasts/1qKVmydgdvDxB",
-      "url": "https://t.co/kAIjMnegfO"
-     }
-    ]
-   },
    "id": "2115694373384163678",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 24,
-    "like_count": 1,
+    "impression_count": 38,
+    "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
@@ -207,179 +89,17 @@
    "edit_history_tweet_ids": [
     "2115661781465280542"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "10 KA DUM LIVE : सुबह 10 बजे की बड़ी खबरें | Cyclone Arnab | UP MLC Election Results | CM Yogi |",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 121,
-      "expanded_url": "https://x.com/i/broadcasts/2OdKPOjZlkynlP",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115661783637827584/afmrj6E9?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115661783637827584/afmrj6E9?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 98,
-      "status": 200,
-      "title": "Zee Uttar Pradesh Uttarakhand",
-      "unwound_url": "https://x.com/i/broadcasts/2OdKPOjZlkynlP",
-      "url": "https://t.co/UQM20Lj2aw"
-     }
-    ]
-   },
    "id": "2115661781465280542",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 330,
+    "impression_count": 335,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "10 KA DUM LIVE : सुबह 10 बजे की बड़ी खबरें | Cyclone Arnab | UP MLC Election Results | CM Yogi | \nhttps://t.co/UQM20Lj2aw",
+   "text": "10 KA DUM LIVE : \u0938\u0941\u092c\u0939 10 \u092c\u091c\u0947 \u0915\u0940 \u092c\u0921\u093c\u0940 \u0916\u092c\u0930\u0947\u0902 | Cyclone Arnab | UP MLC Election Results | CM Yogi | \nhttps://t.co/UQM20Lj2aw",
    "url": "https://x.com/ZEEUPUK/status/2115661781465280542"
-  },
-  {
-   "author_id": "935942321756966912",
-   "created_at": "2026-10-29T03:59:56.000Z",
-   "edit_history_tweet_ids": [
-    "2115654846141645122"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 60,
-      "expanded_url": "https://x.com/i/broadcasts/1OwGWeLAZbwxQ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115654848725266433/DQxKUpyf?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115654848725266433/DQxKUpyf?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 37,
-      "status": 200,
-      "title": "Real America's Voice (RAV)",
-      "unwound_url": "https://x.com/i/broadcasts/1OwGWeLAZbwxQ",
-      "url": "https://t.co/gtZ2m3R0xr"
-     }
-    ]
-   },
-   "id": "2115654846141645122",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 3931,
-    "like_count": 9,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 3
-   },
-   "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/gtZ2m3R0xr",
-   "url": "https://x.com/RealAmVoice/status/2115654846141645122"
-  },
-  {
-   "author_id": "1339166129110065152",
-   "created_at": "2026-10-29T05:59:58.000Z",
-   "edit_history_tweet_ids": [
-    "2115685050805260483"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "GB News",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 31,
-      "expanded_url": "https://x.com/i/broadcasts/1rmxPvYWYeDGN",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115685053372190720/5k882X2R?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115685053372190720/5k882X2R?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 8,
-      "status": 200,
-      "title": "GB News",
-      "unwound_url": "https://x.com/i/broadcasts/1rmxPvYWYeDGN",
-      "url": "https://t.co/qwzmw03Zvt"
-     }
-    ]
-   },
-   "id": "2115685050805260483",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 3298,
-    "like_count": 6,
-    "quote_count": 0,
-    "reply_count": 3,
-    "retweet_count": 1
-   },
-   "text": "GB News https://t.co/qwzmw03Zvt",
-   "url": "https://x.com/GBNEWS/status/2115685050805260483"
-  },
-  {
-   "author_id": "34262462",
-   "created_at": "2026-10-29T06:10:57.000Z",
-   "edit_history_tweet_ids": [
-    "2115687816571277602"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 134,
-      "expanded_url": "https://x.com/i/broadcasts/1OxwbndzrMoJB",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115687819012358144/1b8UgU_r?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115687819012358144/1b8UgU_r?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 111,
-      "status": 200,
-      "title": "Sputnik",
-      "unwound_url": "https://x.com/i/broadcasts/1OxwbndzrMoJB",
-      "url": "https://t.co/4yT52NzEyH"
-     }
-    ]
-   },
-   "id": "2115687816571277602",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 976,
-    "like_count": 19,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 2
-   },
-   "text": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit https://t.co/4yT52NzEyH",
-   "url": "https://x.com/SputnikInt/status/2115687816571277602"
   },
   {
    "author_id": "239486395",
@@ -387,44 +107,35 @@
    "edit_history_tweet_ids": [
     "2115696247642132898"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: AL JAZEERA ENGLISH",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 55,
-      "expanded_url": "https://x.com/i/broadcasts/1pKkOXBVVOAKj",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2114680328665395200/N_SsLc9O?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2114680328665395200/N_SsLc9O?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 32,
-      "status": 200,
-      "title": "Al Jazeera English",
-      "unwound_url": "https://x.com/i/broadcasts/1pKkOXBVVOAKj",
-      "url": "https://t.co/rayeEP3Mp3"
-     }
-    ]
-   },
    "id": "2115696247642132898",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 8,
+    "impression_count": 11,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "🔴Live | Al Jazeera News English https://t.co/rayeEP3Mp3",
+   "text": "\ud83d\udd34Live | Al Jazeera News English https://t.co/rayeEP3Mp3",
    "url": "https://x.com/ProtestMusica/status/2115696247642132898"
+  },
+  {
+   "author_id": "1339166129110065152",
+   "created_at": "2026-10-29T05:59:58.000Z",
+   "edit_history_tweet_ids": [
+    "2115685050805260483"
+   ],
+   "id": "2115685050805260483",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3715,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 2
+   },
+   "text": "GB News https://t.co/qwzmw03Zvt",
+   "url": "https://x.com/GBNEWS/status/2115685050805260483"
   },
   {
    "author_id": "1825768108251877377",
@@ -432,38 +143,6 @@
    "edit_history_tweet_ids": [
     "2115665466555531484"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 52,
-      "start": 36,
-      "tag": "VoiceOfChinland"
-     },
-     {
-      "end": 64,
-      "start": 53,
-      "tag": "VOCBurmese"
-     },
-     {
-      "end": 75,
-      "start": 65,
-      "tag": "DailyNews"
-     }
-    ],
-    "urls": [
-     {
-      "description": "VOC Burmese News (October 29, 2026) #VoiceOfChinland #VOCBurmese #DailyNews",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 99,
-      "expanded_url": "https://x.com/i/broadcasts/1DGleVADaPDJL",
-      "start": 76,
-      "status": 200,
-      "title": "VOC (The Voice of Chinland)",
-      "unwound_url": "https://x.com/i/broadcasts/1DGleVADaPDJL",
-      "url": "https://t.co/Mu5R6rOTbd"
-     }
-    ]
-   },
    "id": "2115665466555531484",
    "public_metrics": {
     "bookmark_count": 0,
@@ -477,49 +156,87 @@
    "url": "https://x.com/voiceofchinland/status/2115665466555531484"
   },
   {
+   "author_id": "1501773476281352197",
+   "created_at": "2026-10-29T07:00:34.000Z",
+   "edit_history_tweet_ids": [
+    "2115700300590039527"
+   ],
+   "id": "2115700300590039527",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE Khalistan News Hour https://t.co/FpxRZ83W3f",
+   "url": "https://x.com/JohlRavinder/status/2115700300590039527"
+  },
+  {
+   "author_id": "1501773476281352197",
+   "created_at": "2026-10-29T07:01:24.000Z",
+   "edit_history_tweet_ids": [
+    "2115700512297521581"
+   ],
+   "id": "2115700512297521581",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE Khalistan News Hour https://t.co/yIZxiwY2zr",
+   "url": "https://x.com/JohlRavinder/status/2115700512297521581"
+  },
+  {
+   "author_id": "974995792380473345",
+   "created_at": "2026-10-29T07:00:30.000Z",
+   "edit_history_tweet_ids": [
+    "2115700283724718357"
+   ],
+   "id": "2115700283724718357",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 478,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 29th October 2026 https://t.co/HBp5s0JGgZ",
+   "url": "https://x.com/Channel1TVGHA/status/2115700283724718357"
+  },
+  {
+   "author_id": "34262462",
+   "created_at": "2026-10-29T06:10:57.000Z",
+   "edit_history_tweet_ids": [
+    "2115687816571277602"
+   ],
+   "id": "2115687816571277602",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 1107,
+    "like_count": 21,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 2
+   },
+   "text": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia\u2013Africa Summit https://t.co/4yT52NzEyH",
+   "url": "https://x.com/SputnikInt/status/2115687816571277602"
+  },
+  {
    "author_id": "19897138",
    "created_at": "2026-10-29T06:30:13.000Z",
    "edit_history_tweet_ids": [
     "2115692666164048060"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 5,
-      "start": 0,
-      "tag": "LIVE"
-     }
-    ],
-    "urls": [
-     {
-      "description": "#LIVE || Take a look at the top news headlines",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 70,
-      "expanded_url": "https://x.com/i/broadcasts/1RKZzBapYEQKB",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115692669146103808/x0CZR8jr?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115692669146103808/x0CZR8jr?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 47,
-      "status": 200,
-      "title": "IndiaToday",
-      "unwound_url": "https://x.com/i/broadcasts/1RKZzBapYEQKB",
-      "url": "https://t.co/Q1TeWfBy5W"
-     }
-    ]
-   },
    "id": "2115692666164048060",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1712,
+    "impression_count": 1873,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -535,72 +252,10 @@
     "2115684996476211237",
     "2115689746777207049"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 154,
-      "start": 145,
-      "tag": "MusikBox"
-     },
-     {
-      "end": 210,
-      "start": 197,
-      "tag": "DaybreakHitz"
-     },
-     {
-      "end": 222,
-      "start": 211,
-      "tag": "Hitz1039FM"
-     },
-     {
-      "end": 234,
-      "start": 223,
-      "tag": "JoyDigital"
-     },
-     {
-      "end": 254,
-      "start": 235,
-      "tag": "HitzJoyFmBeachRave"
-     }
-    ],
-    "mentions": [
-     {
-      "end": 170,
-      "id": "1888887751271170048",
-      "start": 160,
-      "username": "DjBlackgh"
-     }
-    ],
-    "urls": [
-     {
-      "description": "DaybreakHitz with Kwame Dadzie and Doreen Avio || 29/10/2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 195,
-      "expanded_url": "https://x.com/i/broadcasts/2EmgJBQRKobQNa",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115685039467827200/rAFf8CIC?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115685039467827200/rAFf8CIC?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 172,
-      "status": 200,
-      "title": "Hitz 103.9 FM",
-      "unwound_url": "https://x.com/i/broadcasts/2EmgJBQRKobQNa",
-      "url": "https://t.co/1oTqm2cbyw"
-     }
-    ]
-   },
    "id": "2115689746777207049",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 478,
+    "impression_count": 508,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -615,29 +270,14 @@
    "edit_history_tweet_ids": [
     "2115696321898086692"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: YSRCP Employees & Pensioners Wing State President Sri Nalamaru Chandra Sekhar Reddy Press Meet",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 128,
-      "expanded_url": "https://x.com/i/broadcasts/2KoBbOykEaRWMz",
-      "start": 105,
-      "status": 200,
-      "title": "YSR Congress Party",
-      "unwound_url": "https://x.com/i/broadcasts/2KoBbOykEaRWMz",
-      "url": "https://t.co/v65xMi8bqQ"
-     }
-    ]
-   },
    "id": "2115696321898086692",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1317,
-    "like_count": 2,
+    "impression_count": 1426,
+    "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 2
+    "retweet_count": 3
    },
    "text": "LIVE: YSRCP Employees &amp; Pensioners Wing State President Sri Nalamaru Chandra Sekhar Reddy Press Meet https://t.co/v65xMi8bqQ",
    "url": "https://x.com/YSRCParty/status/2115696321898086692"
@@ -712,48 +352,98 @@
     "following_count": 35,
     "like_count": 2449,
     "listed_count": 149,
-    "media_count": 216381,
-    "tweet_count": 350653
+    "media_count": 216382,
+    "tweet_count": 350654
    },
    "username": "ZEEUPUK",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "935942321756966912",
-   "name": "Real America's Voice (RAV)",
+   "id": "239486395",
+   "name": "Protest & Musica \ud83c\udfb6 \ud83c\udf0e\ud83d\udcfa \ud83d\udea8\ud83c\udf83",
    "public_metrics": {
-    "followers_count": 572119,
-    "following_count": 1918,
-    "like_count": 11932,
-    "listed_count": 1587,
-    "media_count": 86817,
-    "tweet_count": 138586
+    "followers_count": 8310,
+    "following_count": 8901,
+    "like_count": 21312,
+    "listed_count": 143,
+    "media_count": 11125,
+    "tweet_count": 2055747
    },
-   "username": "RealAmVoice",
-   "verified": true,
-   "verified_type": "business"
+   "username": "ProtestMusica",
+   "verified": false,
+   "verified_type": "none"
   },
   {
    "id": "1339166129110065152",
    "name": "GB News",
    "public_metrics": {
-    "followers_count": 991031,
+    "followers_count": 991032,
     "following_count": 50,
     "like_count": 0,
     "listed_count": 2723,
-    "media_count": 170809,
-    "tweet_count": 330412
+    "media_count": 170811,
+    "tweet_count": 330413
    },
    "username": "GBNEWS",
    "verified": true,
    "verified_type": "business"
   },
   {
+   "id": "1825768108251877377",
+   "name": "VOC (The Voice of Chinland)",
+   "public_metrics": {
+    "followers_count": 60,
+    "following_count": 31,
+    "like_count": 25,
+    "listed_count": 0,
+    "media_count": 166,
+    "tweet_count": 1037
+   },
+   "username": "voiceofchinland",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1501773476281352197",
+   "name": "Ravinder Singh Johal",
+   "public_metrics": {
+    "followers_count": 1093,
+    "following_count": 236,
+    "like_count": 4603,
+    "listed_count": 1,
+    "media_count": 1155,
+    "tweet_count": 3552
+   },
+   "username": "JohlRavinder",
+   "verified": true,
+   "verified_type": "blue",
+   "withheld": {
+    "country_codes": [
+     "IN"
+    ]
+   }
+  },
+  {
+   "id": "974995792380473345",
+   "name": "ChannelOne TV",
+   "public_metrics": {
+    "followers_count": 438302,
+    "following_count": 70,
+    "like_count": 1797,
+    "listed_count": 211,
+    "media_count": 59189,
+    "tweet_count": 152994
+   },
+   "username": "Channel1TVGHA",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "34262462",
    "name": "Sputnik",
    "public_metrics": {
-    "followers_count": 502102,
+    "followers_count": 502100,
     "following_count": 162,
     "like_count": 1088,
     "listed_count": 7551,
@@ -797,45 +487,15 @@
    }
   },
   {
-   "id": "239486395",
-   "name": "Protest & Musica 🎶 🌎📺 🚨🎃",
-   "public_metrics": {
-    "followers_count": 8310,
-    "following_count": 8901,
-    "like_count": 21312,
-    "listed_count": 143,
-    "media_count": 11125,
-    "tweet_count": 2055747
-   },
-   "username": "ProtestMusica",
-   "verified": false,
-   "verified_type": "none"
-  },
-  {
-   "id": "1825768108251877377",
-   "name": "VOC (The Voice of Chinland)",
-   "public_metrics": {
-    "followers_count": 60,
-    "following_count": 31,
-    "like_count": 25,
-    "listed_count": 0,
-    "media_count": 166,
-    "tweet_count": 1037
-   },
-   "username": "voiceofchinland",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6274987,
+    "followers_count": 6274967,
     "following_count": 83,
     "like_count": 4431,
     "listed_count": 7344,
-    "media_count": 581516,
-    "tweet_count": 1542452
+    "media_count": 581518,
+    "tweet_count": 1542455
    },
    "username": "IndiaToday",
    "verified": true,
@@ -849,8 +509,8 @@
     "following_count": 302,
     "like_count": 5716,
     "listed_count": 222,
-    "media_count": 62319,
-    "tweet_count": 297008
+    "media_count": 62320,
+    "tweet_count": 297009
    },
    "username": "Hitz1039FM",
    "verified": true,
@@ -860,7 +520,7 @@
    "id": "256129678",
    "name": "YSR Congress Party",
    "public_metrics": {
-    "followers_count": 929264,
+    "followers_count": 929265,
     "following_count": 71,
     "like_count": 2990,
     "listed_count": 260,

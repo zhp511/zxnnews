@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-29T06:57:49Z",
- "searched_at": "2026-10-29T06:56:00Z",
+ "built_at": "2026-10-29T07:11:20Z",
+ "searched_at": "2026-10-29T07:11:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2115654846141645122",
-   "post_url": "https://x.com/RealAmVoice/status/2115654846141645122",
-   "name": "Real America's Voice (RAV)",
-   "username": "RealAmVoice",
-   "verified_type": "business",
-   "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/gtZ2m3R0xr",
-   "started_at": "2026-10-29T03:59:56.000Z",
-   "assumed_live_until": "2026-10-29T06:59:56Z"
-  },
   {
    "post_id": "2115662618669265321",
    "post_url": "https://x.com/magnonewslive/status/2115662618669265321",
@@ -83,6 +73,16 @@
    "text": "Get the latest news from Ghana and around the world, lifestyle segment, Sports updates, Showbiz Review, Spotlight Series with Nii The Menace and #MusikBox with @DjBlackgh  https://t.co/1oTqm2cbyw\n\n#DaybreakHitz #Hitz1039FM #JoyDigital #HitzJoyFmBeachRave",
    "started_at": "2026-10-29T06:18:37.000Z",
    "assumed_live_until": "2026-10-29T09:18:37Z"
+  },
+  {
+   "post_id": "2115700283724718357",
+   "post_url": "https://x.com/Channel1TVGHA/status/2115700283724718357",
+   "name": "ChannelOne TV",
+   "username": "Channel1TVGHA",
+   "verified_type": "blue",
+   "text": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 29th October 2026 https://t.co/HBp5s0JGgZ",
+   "started_at": "2026-10-29T07:00:30.000Z",
+   "assumed_live_until": "2026-10-29T10:00:30Z"
   }
  ]
 }
