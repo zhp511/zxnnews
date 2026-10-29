@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T13:23:00Z",
+ "fetched_at": "2026-10-29T15:01:00Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,43 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-10-29T14:57:07.000Z",
+     "edit_history_tweet_ids": [
+      "2115820231549657152"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 7,
+        "id": "24634177",
+        "start": 0,
+        "username": "AODxLA"
+       }
+      ]
+     },
+     "id": "2115820231549657152",
+     "in_reply_to_user_id": "24634177",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "text": "@AODxLA u rock",
+     "url": "https://x.com/i/status/2115820231549657152"
+    }
+   ],
+   "meta": {
+    "newest_id": "2115820231549657152",
+    "oldest_id": "2115820231549657152",
+    "result_count": 1
+   }
+  },
   {
    "data": [
     {
