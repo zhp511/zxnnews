@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T21:22:30Z",
+ "fetched_at": "2026-10-29T21:39:30Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T18:22:00Z",
+  "start_time": "2026-10-29T18:39:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -12,6 +12,24 @@
  },
  "data": [
   {
+   "author_id": "1053941908722991105",
+   "created_at": "2026-10-29T21:27:30.000Z",
+   "edit_history_tweet_ids": [
+    "2115918474132488687"
+   ],
+   "id": "2115918474132488687",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 11,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "President Donald Trump &amp; Melania Trump Host White House Halloween https://t.co/kRR3eXxTc4",
+   "url": "https://x.com/meawwcom/status/2115918474132488687"
+  },
+  {
    "author_id": "1879644163769335808",
    "created_at": "2026-10-29T21:12:37.000Z",
    "edit_history_tweet_ids": [
@@ -19,33 +37,51 @@
    ],
    "id": "2115914726358352340",
    "public_metrics": {
-    "bookmark_count": 19,
-    "impression_count": 33751,
-    "like_count": 327,
-    "quote_count": 6,
-    "reply_count": 45,
-    "retweet_count": 87
+    "bookmark_count": 47,
+    "impression_count": 62562,
+    "like_count": 891,
+    "quote_count": 18,
+    "reply_count": 125,
+    "retweet_count": 218
    },
    "text": "President Trump and the First Lady Host Halloween at the White House https://t.co/N3iZE6psar",
    "url": "https://x.com/WhiteHouse/status/2115914726358352340"
   },
   {
-   "author_id": "796431922939494408",
-   "created_at": "2026-10-29T21:17:19.000Z",
+   "author_id": "42548887",
+   "created_at": "2026-10-29T21:23:16.000Z",
    "edit_history_tweet_ids": [
-    "2115915910158647463"
+    "2115917408217276756"
    ],
-   "id": "2115915910158647463",
+   "id": "2115917408217276756",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 611,
-    "like_count": 16,
+    "impression_count": 14,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1
+    "retweet_count": 0
    },
-   "text": "LIVE: President Trump and First Lady Melania Host Halloween at the White House \ud83c\udf83 https://t.co/hLJiqR4A1h",
-   "url": "https://x.com/MELANIAJTRUMP/status/2115915910158647463"
+   "text": "LIVE: President Trump and the First Lady Host Halloween at the White House https://t.co/vjxnio8ODA",
+   "url": "https://x.com/DiyaTV/status/2115917408217276756"
+  },
+  {
+   "author_id": "1168863686351609856",
+   "created_at": "2026-10-29T21:38:42.000Z",
+   "edit_history_tweet_ids": [
+    "2115921290783842519"
+   ],
+   "id": "2115921290783842519",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE: President Trump and the First Lady Host Halloween at the White House\n\nhttps://t.co/Oje8O0Pmlo",
+   "url": "https://x.com/TTA_NewsNetwork/status/2115921290783842519"
   },
   {
    "author_id": "4041824789",
@@ -55,15 +91,51 @@
    ],
    "id": "2115911453152858476",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 3264,
-    "like_count": 29,
+    "bookmark_count": 2,
+    "impression_count": 4017,
+    "like_count": 55,
     "quote_count": 2,
-    "reply_count": 1,
-    "retweet_count": 13
+    "reply_count": 3,
+    "retweet_count": 25
    },
    "text": "LIVE: President Trump &amp; First Lady Melania Trump Host White House Halloween Celebration - 10/29/26 https://t.co/tZ4ph0rSkb",
    "url": "https://x.com/RSBNetwork/status/2115911453152858476"
+  },
+  {
+   "author_id": "61011257",
+   "created_at": "2026-10-29T21:35:14.000Z",
+   "edit_history_tweet_ids": [
+    "2115920418011844979"
+   ],
+   "id": "2115920418011844979",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83d\udea8LIVE: President Trump &amp; First Lady Melania Trump Host White House Halloween Celebration - 10/29/26 https://t.co/zyW00jzYJ9",
+   "url": "https://x.com/realjamesrossi/status/2115920418011844979"
+  },
+  {
+   "author_id": "796431922939494408",
+   "created_at": "2026-10-29T21:17:19.000Z",
+   "edit_history_tweet_ids": [
+    "2115915910158647463"
+   ],
+   "id": "2115915910158647463",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 1577,
+    "like_count": 74,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 18
+   },
+   "text": "LIVE: President Trump and First Lady Melania Host Halloween at the White House \ud83c\udf83 https://t.co/hLJiqR4A1h",
+   "url": "https://x.com/MELANIAJTRUMP/status/2115915910158647463"
   },
   {
    "author_id": "1900375238548086788",
@@ -74,14 +146,106 @@
    "id": "2115916405858296278",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 22,
+    "impression_count": 146,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "\ud83c\uddfa\ud83c\uddf8 President Donald Trump and First Lady Melania Trump Welcome Halloween Trick-or-Treaters to the White House [LIVE] https://t.co/T6UMIkk2pK",
+   "url": "https://x.com/magnonewslive/status/2115916405858296278"
+  },
+  {
+   "author_id": "1900375238548086788",
+   "created_at": "2026-10-29T21:25:03.000Z",
+   "edit_history_tweet_ids": [
+    "2115917858148630576",
+    "2115918159891038584"
+   ],
+   "id": "2115917858148630576",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 26,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "\ud83c\uddfa\ud83c\uddf8 President Donald Trump and First Lady Melania Trump Welcome Halloween Trick-or-Treaters to the White House [LIVE] https://t.co/T6UMIkk2pK",
-   "url": "https://x.com/magnonewslive/status/2115916405858296278"
+   "text": "\ud83c\uddfa\ud83c\uddf8 President Trump and First Lady Melania Welcome \ud83c\udf83 Halloween Trick-or-Treaters to the White House [LIVE] https://t.co/hPdyrCv1zn",
+   "url": "https://x.com/magnonewslive/status/2115917858148630576"
+  },
+  {
+   "author_id": "1900375238548086788",
+   "created_at": "2026-10-29T21:26:15.000Z",
+   "edit_history_tweet_ids": [
+    "2115917858148630576",
+    "2115918159891038584"
+   ],
+   "id": "2115918159891038584",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 47,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "\ud83c\uddfa\ud83c\uddf8 President Trump and First Lady Melania Welcome \ud83c\udf83 Halloween Trick-or-Treaters to the White House [LIVE] https://t.co/hPdyrCv1zn #Halloween #DonaldTrump #MelaniaTrump #WhiteHouse #Halloween2026",
+   "url": "https://x.com/magnonewslive/status/2115918159891038584"
+  },
+  {
+   "author_id": "1884415074489503744",
+   "created_at": "2026-10-29T21:35:01.000Z",
+   "edit_history_tweet_ids": [
+    "2115920364157210848"
+   ],
+   "id": "2115920364157210848",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE: President Trump &amp; First Lady Melania Trump Host White House Halloween Celebration - 10/29/26\nhttps://t.co/pq5DvBEXf0\nhttps://t.co/Y2dwrC4QMM\n\nhttps://t.co/wg5hoSJAQ9?\n5:34 PM EASTERN https://t.co/cpOiFYJtfC",
+   "url": "https://x.com/Scramblepad/status/2115920364157210848"
+  },
+  {
+   "author_id": "1060573081935249409",
+   "created_at": "2026-10-29T21:34:50.000Z",
+   "edit_history_tweet_ids": [
+    "2115920318984286275"
+   ],
+   "id": "2115920318984286275",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 136,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "President Donald Trump and First Lady Melania Trump are opening the White House South Lawn to trick-or-treaters for the annual Halloween celebration at 5:30 p.m. ET on Oct. 29. https://t.co/q5ajwJuSH2",
+   "url": "https://x.com/NTDNews/status/2115920318984286275"
+  },
+  {
+   "author_id": "1884415074489503744",
+   "created_at": "2026-10-29T21:32:46.000Z",
+   "edit_history_tweet_ids": [
+    "2115919797292794075"
+   ],
+   "id": "2115919797292794075",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE AND REPLAY : \n President Trump &amp; First Lady Melania Trump \n  Host White House Halloween Celebration -   \nTHURSDAY  10/29 2026   \nhttps://t.co/xZ5UxXJZUF\nhttps://t.co/Oumh57rPKr\nhttps://t.co/MimbrjVFqj\nhttps://t.co/pq5DvBEXf0 https://t.co/fxUi8HY3U8",
+   "url": "https://x.com/Scramblepad/status/2115919797292794075"
   },
   {
    "author_id": "23642374",
@@ -92,8 +256,8 @@
    "id": "2115884244660801705",
    "public_metrics": {
     "bookmark_count": 16,
-    "impression_count": 20910,
-    "like_count": 201,
+    "impression_count": 21474,
+    "like_count": 203,
     "quote_count": 3,
     "reply_count": 1,
     "retweet_count": 10
@@ -110,14 +274,32 @@
    "id": "2115899424983429505",
    "public_metrics": {
     "bookmark_count": 8,
-    "impression_count": 13013,
-    "like_count": 178,
+    "impression_count": 13759,
+    "like_count": 185,
     "quote_count": 2,
-    "reply_count": 14,
-    "retweet_count": 51
+    "reply_count": 15,
+    "retweet_count": 52
    },
    "text": "WATCH: Secretary Mullin Holds Press Conference Highlighting the Success of Operation Lone Star Mission https://t.co/svCvhAHVQv",
    "url": "https://x.com/DHSgov/status/2115899424983429505"
+  },
+  {
+   "author_id": "1536845687878520833",
+   "created_at": "2026-10-29T21:39:21.000Z",
+   "edit_history_tweet_ids": [
+    "2115921456731217995"
+   ],
+   "id": "2115921456731217995",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Trump, First Lady Celebrate Halloween at White House https://t.co/thw5zXD1C1",
+   "url": "https://x.com/NTD_Live/status/2115921456731217995"
   },
   {
    "author_id": "14437914",
@@ -128,14 +310,32 @@
    "id": "2115916406760030256",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 707,
+    "impression_count": 1819,
     "like_count": 1,
     "quote_count": 0,
-    "reply_count": 1,
+    "reply_count": 5,
     "retweet_count": 0
    },
    "text": "WATCH LIVE: Trumps host Halloween celebration at the White House https://t.co/A8oMrrWBzC",
    "url": "https://x.com/NewsHour/status/2115916406760030256"
+  },
+  {
+   "author_id": "1835652531826913280",
+   "created_at": "2026-10-29T20:01:42.000Z",
+   "edit_history_tweet_ids": [
+    "2115896881117384742"
+   ],
+   "id": "2115896881117384742",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 12675,
+    "like_count": 14,
+    "quote_count": 0,
+    "reply_count": 6,
+    "retweet_count": 10
+   },
+   "text": "\u272c\u272c\u272c\u272c\u272c War Room LIVE: Hegseth Fires Pentagon\u2019s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options \u2013 TUNE IN/SHARE! https://t.co/Jmi2DGvRdv",
+   "url": "https://x.com/AJNlive/status/2115896881117384742"
   },
   {
    "author_id": "109065990",
@@ -146,11 +346,11 @@
    "id": "2115897045097587198",
    "public_metrics": {
     "bookmark_count": 3,
-    "impression_count": 19901,
-    "like_count": 18,
+    "impression_count": 21015,
+    "like_count": 20,
     "quote_count": 0,
     "reply_count": 11,
-    "retweet_count": 7
+    "retweet_count": 8
    },
    "text": "\u272c\u272c\u272c\u272c\u272c WAR ROOM LIVE: Hegseth Fires Pentagon\u2019s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options \u2013 TUNE IN/SHARE! https://t.co/H9i1MX7FLp",
    "url": "https://x.com/RealAlexJones/status/2115897045097587198"
@@ -164,32 +364,14 @@
    "id": "2115897237079457842",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 468,
-    "like_count": 3,
+    "impression_count": 492,
+    "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 3
    },
    "text": "\u272c\u272c\u272c\u272c\u272c Thursday War Room LIVE: Hegseth Fires Pentagon\u2019s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options \u2013 TUNE IN/SHARE! https://t.co/U9vY15bMje",
    "url": "https://x.com/WarRoomShow/status/2115897237079457842"
-  },
-  {
-   "author_id": "1835652531826913280",
-   "created_at": "2026-10-29T20:01:42.000Z",
-   "edit_history_tweet_ids": [
-    "2115896881117384742"
-   ],
-   "id": "2115896881117384742",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 11853,
-    "like_count": 13,
-    "quote_count": 0,
-    "reply_count": 6,
-    "retweet_count": 9
-   },
-   "text": "\u272c\u272c\u272c\u272c\u272c War Room LIVE: Hegseth Fires Pentagon\u2019s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options \u2013 TUNE IN/SHARE! https://t.co/Jmi2DGvRdv",
-   "url": "https://x.com/AJNlive/status/2115896881117384742"
   },
   {
    "author_id": "14505245",
@@ -200,14 +382,32 @@
    "id": "2115896699436810527",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 11519,
-    "like_count": 16,
+    "impression_count": 12287,
+    "like_count": 17,
     "quote_count": 0,
     "reply_count": 2,
-    "retweet_count": 6
+    "retweet_count": 7
    },
    "text": "\u272c\u272c\u272c\u272c\u272c Thursday War Room LIVE: Hegseth Fires Pentagon\u2019s Top Military Planner Over Iran, Ukraine War Leaks... PLUS, Reports Claim Panic At White House Over Nightmare Midterms, As Top Admiral Briefs On Iran Attack Options \u2013 TUNE IN/SHARE! \n\nhttps://t.co/bYRT1h4XBg",
    "url": "https://x.com/infowars/status/2115896699436810527"
+  },
+  {
+   "author_id": "355989081",
+   "created_at": "2026-10-29T21:28:23.000Z",
+   "edit_history_tweet_ids": [
+    "2115918693683040613"
+   ],
+   "id": "2115918693683040613",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6985,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE: President Trump Holds Election Rally in South Carolina as Midterm Battle Heats Up | USA | America https://t.co/Ulh0ZZ4P0i",
+   "url": "https://x.com/ANI/status/2115918693683040613"
   },
   {
    "author_id": "22455409",
@@ -218,7 +418,7 @@
    "id": "2115907562562572548",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 178,
+    "impression_count": 225,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -236,7 +436,7 @@
    "id": "2115881488168411271",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 481,
+    "impression_count": 488,
     "like_count": 11,
     "quote_count": 0,
     "reply_count": 0,
@@ -262,236 +462,66 @@
    },
    "text": "Debate Me - What's Your Beef with TRUMP? https://t.co/KJg1kg990i",
    "url": "https://x.com/RepAmericaTV/status/2115883258399641640"
-  },
-  {
-   "author_id": "22455409",
-   "created_at": "2026-10-29T19:26:21.000Z",
-   "edit_history_tweet_ids": [
-    "2115887985598296182"
-   ],
-   "id": "2115887985598296182",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 193,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Economy Surges as Inflation Bites \u2014 China Purges Top Military Leaders | Eric Deters Show National #ericdetersshow#midtermelections#doj#alaskasenaterace#gdpgrowth#inflation#chinamilitaryleaders#trump#politics https://t.co/V6YRQjt46H",
-   "url": "https://x.com/bulllaw/status/2115887985598296182"
-  },
-  {
-   "author_id": "34001374",
-   "created_at": "2026-10-29T19:00:41.000Z",
-   "edit_history_tweet_ids": [
-    "2115881525355151417"
-   ],
-   "id": "2115881525355151417",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 362,
-    "like_count": 15,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 8
-   },
-   "text": "Israeli President Drops Bombshell: SHIN BET Closes In On Massive Election Sabotage https://t.co/uP4bVrTvkF",
-   "url": "https://x.com/ArminNavabi/status/2115881525355151417"
-  },
-  {
-   "author_id": "1702750026986921985",
-   "created_at": "2026-10-29T20:07:05.000Z",
-   "edit_history_tweet_ids": [
-    "2115898236569563480"
-   ],
-   "id": "2115898236569563480",
-   "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 6832,
-    "like_count": 58,
-    "quote_count": 3,
-    "reply_count": 13,
-    "retweet_count": 16
-   },
-   "text": "Obama Rallies Drawing More Than Trump Rallies As Control Of Congress Hangs In The Balance At Midterms https://t.co/4hsBOkCduk",
-   "url": "https://x.com/OwenShroyer1776/status/2115898236569563480"
-  },
-  {
-   "author_id": "16232940",
-   "created_at": "2026-10-29T19:03:56.000Z",
-   "edit_history_tweet_ids": [
-    "2115882241142493374",
-    "2115882342384550154"
-   ],
-   "id": "2115882342384550154",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 252,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Tune in now to The Michael Patrick Leahy Show - your AMERICA FIRST news talk!\n- Watch LIVE here on X \n- Listen on Spotify \n- Listen on WENO AM760 in Nashville \n- Read more at @TheTNStar\nhttps://t.co/oE1j3xVZ5Q",
-   "url": "https://x.com/michaelpleahy/status/2115882342384550154"
-  },
-  {
-   "author_id": "312431760",
-   "created_at": "2026-10-29T18:27:35.000Z",
-   "edit_history_tweet_ids": [
-    "2115873194511151591"
-   ],
-   "id": "2115873194511151591",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 74,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "\ud83d\udea8 BREAKING NEWS LIVE: World on Edge! Protests, Conflict &amp; Today\u2019s Top Headlines | Havoc Report https://t.co/gKFK9a2uvS",
-   "url": "https://x.com/wolf_neve/status/2115873194511151591"
-  },
-  {
-   "author_id": "968889962354696192",
-   "created_at": "2026-10-29T20:00:04.000Z",
-   "edit_history_tweet_ids": [
-    "2115896469253505343"
-   ],
-   "id": "2115896469253505343",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 947,
-    "like_count": 15,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "\ud83d\udea8LIVE TRUMP MIDTERM ELECTION INTERFERENCE Officially a 5 Alarm Fire https://t.co/zTtD2ml1mV",
-   "url": "https://x.com/StatusCoup/status/2115896469253505343"
-  },
-  {
-   "author_id": "1731447196455989248",
-   "created_at": "2026-10-29T20:58:44.000Z",
-   "edit_history_tweet_ids": [
-    "2115911231680725399"
-   ],
-   "id": "2115911231680725399",
-   "in_reply_to_user_id": "184136149",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 937,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "@MarkHalperin on Trump Administration, the Latest Political News and Democrats Update #2Way #Trump #Democrats #Midterms https://t.co/UDLThy540C",
-   "url": "https://x.com/2waytvapp/status/2115911231680725399"
-  },
-  {
-   "author_id": "1592394953346334720",
-   "created_at": "2026-10-29T18:41:27.000Z",
-   "edit_history_tweet_ids": [
-    "2115876686407651655"
-   ],
-   "id": "2115876686407651655",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 28,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "https://t.co/FZXOza5vWL \n\nPRESIDENT TRUMP MIDTERM RALLY IN ROCK HILL, SC!!",
-   "url": "https://x.com/MyriamCarlyle/status/2115876686407651655"
-  },
-  {
-   "author_id": "1900375238548086788",
-   "created_at": "2026-10-29T20:33:44.000Z",
-   "edit_history_tweet_ids": [
-    "2115904943446253868"
-   ],
-   "id": "2115904943446253868",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 271,
-    "like_count": 12,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 6
-   },
-   "text": "\ud83c\uddfa\ud83c\uddf8 President Donald Trump Returns to Washington, DC after Campaigning in South Carolina [LIVE] https://t.co/uTUtg5wSKb",
-   "url": "https://x.com/magnonewslive/status/2115904943446253868"
-  },
-  {
-   "author_id": "758418108373671937",
-   "created_at": "2026-10-29T21:01:32.000Z",
-   "edit_history_tweet_ids": [
-    "2115911937892712660"
-   ],
-   "id": "2115911937892712660",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 167,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "\ud835\udde0\ud835\uddd4\ud835\uddd7\ud835\udde6 \ud835\uddfc\ud835\uddff \ud835\uddd4\ud835\udde5\ud835\uddd8\ud835\udde2\ud835\udddf\ud835\uddd4? | \ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\udde0\ud835\uddee\ud835\ude00\ud835\ude00 \ud835\uddd7\ud835\uddf2\ud835\uddef\ud835\uddee\ud835\ude01\ud835\uddf2 - \ud835\uddda\ud835\uddf6\ud835\uddf3\ud835\ude01 \ud835\uddfc\ud835\uddf3 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddda\ud835\uddee\ud835\uddef https://t.co/Y8rYCsHIAU",
-   "url": "https://x.com/westhamnetwork/status/2115911937892712660"
-  },
-  {
-   "author_id": "113137765",
-   "created_at": "2026-10-29T18:41:19.000Z",
-   "edit_history_tweet_ids": [
-    "2115876653746491446"
-   ],
-   "id": "2115876653746491446",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 695,
-    "like_count": 14,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 3
-   },
-   "text": "KILLSTREAM: Election Run, Big Karl Tweaks About Alex Jones, + Mersh Gay? https://t.co/utAkZzfCAU",
-   "url": "https://x.com/TheRalphRetort/status/2115876653746491446"
   }
  ],
  "users": [
   {
+   "id": "1053941908722991105",
+   "name": "MEAWW News",
+   "public_metrics": {
+    "followers_count": 232,
+    "following_count": 38,
+    "like_count": 13,
+    "listed_count": 1,
+    "media_count": 3776,
+    "tweet_count": 4102
+   },
+   "username": "meawwcom",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "1879644163769335808",
    "name": "The White House",
    "public_metrics": {
-    "followers_count": 5337278,
+    "followers_count": 5337322,
     "following_count": 5,
     "like_count": 269,
     "listed_count": 9433,
     "media_count": 7289,
-    "tweet_count": 20104
+    "tweet_count": 20105
    },
    "username": "WhiteHouse",
    "verified": true,
    "verified_type": "government"
   },
   {
-   "id": "796431922939494408",
-   "name": "FLOTUS Report",
+   "id": "42548887",
+   "name": "Diya TV",
    "public_metrics": {
-    "followers_count": 198221,
-    "following_count": 628,
-    "like_count": 34316,
-    "listed_count": 293,
-    "media_count": 5751,
-    "tweet_count": 16017
+    "followers_count": 2564,
+    "following_count": 2025,
+    "like_count": 2745,
+    "listed_count": 79,
+    "media_count": 3539,
+    "tweet_count": 17872
    },
-   "username": "MELANIAJTRUMP",
+   "username": "DiyaTV",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1168863686351609856",
+   "name": "The Truthful American",
+   "public_metrics": {
+    "followers_count": 2482,
+    "following_count": 4773,
+    "like_count": 44020,
+    "listed_count": 15,
+    "media_count": 3363,
+    "tweet_count": 21947
+   },
+   "username": "TTA_NewsNetwork",
    "verified": true,
    "verified_type": "blue"
   },
@@ -499,16 +529,46 @@
    "id": "4041824789",
    "name": "RSBN \ud83c\uddfa\ud83c\uddf8",
    "public_metrics": {
-    "followers_count": 1163164,
+    "followers_count": 1163152,
     "following_count": 977,
     "like_count": 12299,
     "listed_count": 2986,
-    "media_count": 17014,
-    "tweet_count": 49779
+    "media_count": 17016,
+    "tweet_count": 49781
    },
    "username": "RSBNetwork",
    "verified": true,
    "verified_type": "business"
+  },
+  {
+   "id": "61011257",
+   "name": "James Rossi \ud83c\uddfa\ud83c\uddf8",
+   "public_metrics": {
+    "followers_count": 5893,
+    "following_count": 7294,
+    "like_count": 223303,
+    "listed_count": 11,
+    "media_count": 8970,
+    "tweet_count": 294239
+   },
+   "username": "realjamesrossi",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "796431922939494408",
+   "name": "FLOTUS Report",
+   "public_metrics": {
+    "followers_count": 198229,
+    "following_count": 628,
+    "like_count": 34317,
+    "listed_count": 293,
+    "media_count": 5756,
+    "tweet_count": 16022
+   },
+   "username": "MELANIAJTRUMP",
+   "verified": true,
+   "verified_type": "blue"
   },
   {
    "id": "1900375238548086788",
@@ -519,17 +579,47 @@
     "like_count": 28,
     "listed_count": 17,
     "media_count": 46,
-    "tweet_count": 2153
+    "tweet_count": 2155
    },
    "username": "magnonewslive",
    "verified": true,
    "verified_type": "blue"
   },
   {
+   "id": "1884415074489503744",
+   "name": "\" SCRAMBLEPAD \"",
+   "public_metrics": {
+    "followers_count": 4,
+    "following_count": 77,
+    "like_count": 863,
+    "listed_count": 0,
+    "media_count": 416,
+    "tweet_count": 801
+   },
+   "username": "Scramblepad",
+   "verified": false,
+   "verified_type": "none"
+  },
+  {
+   "id": "1060573081935249409",
+   "name": "NTD News",
+   "public_metrics": {
+    "followers_count": 89300,
+    "following_count": 32,
+    "like_count": 31560,
+    "listed_count": 715,
+    "media_count": 26974,
+    "tweet_count": 164289
+   },
+   "username": "NTDNews",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
    "id": "23642374",
    "name": "Seattle Seahawks",
    "public_metrics": {
-    "followers_count": 2427015,
+    "followers_count": 2426998,
     "following_count": 1021,
     "like_count": 25201,
     "listed_count": 10046,
@@ -544,7 +634,7 @@
    "id": "15647676",
    "name": "Homeland Security",
    "public_metrics": {
-    "followers_count": 3018009,
+    "followers_count": 3018016,
     "following_count": 218,
     "like_count": 3168,
     "listed_count": 14357,
@@ -556,17 +646,47 @@
    "verified_type": "government"
   },
   {
+   "id": "1536845687878520833",
+   "name": "NTD",
+   "public_metrics": {
+    "followers_count": 3995,
+    "following_count": 26,
+    "like_count": 18945,
+    "listed_count": 29,
+    "media_count": 8452,
+    "tweet_count": 23660
+   },
+   "username": "NTD_Live",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "14437914",
    "name": "PBS News",
    "public_metrics": {
-    "followers_count": 1222737,
+    "followers_count": 1222738,
     "following_count": 79401,
     "like_count": 18578,
     "listed_count": 14137,
     "media_count": 37889,
-    "tweet_count": 283186
+    "tweet_count": 283187
    },
    "username": "NewsHour",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1835652531826913280",
+   "name": "Alex Jones Network",
+   "public_metrics": {
+    "followers_count": 368913,
+    "following_count": 356,
+    "like_count": 4839,
+    "listed_count": 588,
+    "media_count": 2469,
+    "tweet_count": 7773
+   },
+   "username": "AJNlive",
    "verified": true,
    "verified_type": "blue"
   },
@@ -574,12 +694,12 @@
    "id": "109065990",
    "name": "Alex Jones",
    "public_metrics": {
-    "followers_count": 4435048,
+    "followers_count": 4435058,
     "following_count": 1125,
     "like_count": 53766,
     "listed_count": 12776,
-    "media_count": 25075,
-    "tweet_count": 96194
+    "media_count": 25077,
+    "tweet_count": 96197
    },
    "username": "RealAlexJones",
    "verified": true,
@@ -593,33 +713,18 @@
     "following_count": 552,
     "like_count": 7107,
     "listed_count": 195,
-    "media_count": 2586,
-    "tweet_count": 12780
+    "media_count": 2587,
+    "tweet_count": 12781
    },
    "username": "WarRoomShow",
    "verified": false,
    "verified_type": "none"
   },
   {
-   "id": "1835652531826913280",
-   "name": "Alex Jones Network",
-   "public_metrics": {
-    "followers_count": 368912,
-    "following_count": 356,
-    "like_count": 4839,
-    "listed_count": 588,
-    "media_count": 2468,
-    "tweet_count": 7771
-   },
-   "username": "AJNlive",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "14505245",
    "name": "INFOWARS",
    "public_metrics": {
-    "followers_count": 703693,
+    "followers_count": 703695,
     "following_count": 1575,
     "like_count": 22109,
     "listed_count": 2808,
@@ -629,6 +734,21 @@
    "username": "infowars",
    "verified": true,
    "verified_type": "blue"
+  },
+  {
+   "id": "355989081",
+   "name": "ANI",
+   "public_metrics": {
+    "followers_count": 9490934,
+    "following_count": 0,
+    "like_count": 72,
+    "listed_count": 7875,
+    "media_count": 751390,
+    "tweet_count": 1182857
+   },
+   "username": "ANI",
+   "verified": true,
+   "verified_type": "business"
   },
   {
    "id": "22455409",
@@ -672,146 +792,6 @@
     "tweet_count": 467
    },
    "username": "RepAmericaTV",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "34001374",
-   "name": "Armin Navabi",
-   "public_metrics": {
-    "followers_count": 73981,
-    "following_count": 12192,
-    "like_count": 22263,
-    "listed_count": 391,
-    "media_count": 2943,
-    "tweet_count": 14835
-   },
-   "username": "ArminNavabi",
-   "verified": true,
-   "verified_type": "blue",
-   "withheld": {
-    "country_codes": [
-     "IN"
-    ]
-   }
-  },
-  {
-   "id": "1702750026986921985",
-   "name": "Owen Shroyer",
-   "public_metrics": {
-    "followers_count": 471782,
-    "following_count": 797,
-    "like_count": 30707,
-    "listed_count": 1372,
-    "media_count": 3463,
-    "tweet_count": 19379
-   },
-   "username": "OwenShroyer1776",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "16232940",
-   "name": "Michael Patrick Leahy",
-   "public_metrics": {
-    "followers_count": 36750,
-    "following_count": 13734,
-    "like_count": 52,
-    "listed_count": 465,
-    "media_count": 206,
-    "tweet_count": 14411
-   },
-   "username": "michaelpleahy",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "312431760",
-   "name": "Wolf Neve \ud83d\udc3a \ud83d\udca5 Politics and News VTuber!",
-   "public_metrics": {
-    "followers_count": 1464,
-    "following_count": 162,
-    "like_count": 18981,
-    "listed_count": 13,
-    "media_count": 781,
-    "tweet_count": 19596
-   },
-   "username": "wolf_neve",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "968889962354696192",
-   "name": "Status Coup News",
-   "public_metrics": {
-    "followers_count": 103778,
-    "following_count": 2193,
-    "like_count": 3251,
-    "listed_count": 695,
-    "media_count": 7851,
-    "tweet_count": 19223
-   },
-   "username": "StatusCoup",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1731447196455989248",
-   "name": "2WAY",
-   "public_metrics": {
-    "followers_count": 59931,
-    "following_count": 778,
-    "like_count": 1482,
-    "listed_count": 306,
-    "media_count": 2471,
-    "tweet_count": 5036
-   },
-   "username": "2waytvapp",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1592394953346334720",
-   "name": "Myriam Carlyle",
-   "public_metrics": {
-    "followers_count": 4767,
-    "following_count": 7498,
-    "like_count": 65885,
-    "listed_count": 2,
-    "media_count": 637,
-    "tweet_count": 61406
-   },
-   "username": "MyriamCarlyle",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "758418108373671937",
-   "name": "West Ham Network",
-   "public_metrics": {
-    "followers_count": 11410,
-    "following_count": 641,
-    "like_count": 8407,
-    "listed_count": 82,
-    "media_count": 16843,
-    "tweet_count": 26411
-   },
-   "username": "westhamnetwork",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "113137765",
-   "name": "Ethan Ralph",
-   "public_metrics": {
-    "followers_count": 110017,
-    "following_count": 1991,
-    "like_count": 196660,
-    "listed_count": 374,
-    "media_count": 3432,
-    "tweet_count": 45242
-   },
-   "username": "TheRalphRetort",
    "verified": true,
    "verified_type": "blue"
   }
