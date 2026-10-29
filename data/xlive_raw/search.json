@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T15:20:00Z",
+ "fetched_at": "2026-10-29T15:36:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T12:20:00Z",
+  "start_time": "2026-10-29T12:36:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -20,7 +20,7 @@
    "id": "2115819754363740186",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 4,
+    "impression_count": 5,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -38,9 +38,9 @@
    "id": "2115819881153331410",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 345,
-    "like_count": 3,
-    "quote_count": 0,
+    "impression_count": 419,
+    "like_count": 7,
+    "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 2
    },
@@ -74,11 +74,11 @@
    "id": "2115808986574344397",
    "public_metrics": {
     "bookmark_count": 4,
-    "impression_count": 10199,
-    "like_count": 185,
+    "impression_count": 10880,
+    "like_count": 197,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 14
+    "retweet_count": 15
    },
    "text": "It's time for Ren\u00e9e Slegers' pre-Aston Villa press conference \ud83c\udf99\ufe0f \n\nTune in now \ud83d\udcfa https://t.co/oUvZit0sNj",
    "url": "https://x.com/ArsenalWFC/status/2115808986574344397"
@@ -91,9 +91,9 @@
    ],
    "id": "2115790211372491243",
    "public_metrics": {
-    "bookmark_count": 4,
-    "impression_count": 2533,
-    "like_count": 9,
+    "bookmark_count": 5,
+    "impression_count": 2605,
+    "like_count": 10,
     "quote_count": 0,
     "reply_count": 1,
     "retweet_count": 1
@@ -146,32 +146,14 @@
    "id": "2115821751561232621",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 366,
-    "like_count": 9,
+    "impression_count": 501,
+    "like_count": 14,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 1
    },
    "text": "Michael Hudson: BREAKING: Israel Election in Deadlock \u2014 Washington Left Disappointed https://t.co/c98vafptCz",
    "url": "https://x.com/Dialogue_NRA/status/2115821751561232621"
-  },
-  {
-   "author_id": "104872280",
-   "created_at": "2026-10-29T14:03:55.000Z",
-   "edit_history_tweet_ids": [
-    "2115806839946580309"
-   ],
-   "id": "2115806839946580309",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 474,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "\ud83d\udea8 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom https://t.co/NwK4kYUXRj",
-   "url": "https://x.com/Citi973/status/2115806839946580309"
   },
   {
    "author_id": "104872280",
@@ -182,7 +164,7 @@
    "id": "2115814180234412332",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1073,
+    "impression_count": 1142,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -190,6 +172,24 @@
    },
    "text": "\ud83d\udea8 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom https://t.co/kwW7uXNOfn",
    "url": "https://x.com/Citi973/status/2115814180234412332"
+  },
+  {
+   "author_id": "104872280",
+   "created_at": "2026-10-29T14:03:55.000Z",
+   "edit_history_tweet_ids": [
+    "2115806839946580309"
+   ],
+   "id": "2115806839946580309",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 489,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83d\udea8 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom https://t.co/NwK4kYUXRj",
+   "url": "https://x.com/Citi973/status/2115806839946580309"
   },
   {
    "author_id": "1572199491503022080",
@@ -219,7 +219,7 @@
    "id": "2115817154461262233",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 4244,
+    "impression_count": 5047,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 1,
@@ -237,7 +237,7 @@
    "id": "2115820854663868851",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 53,
+    "impression_count": 83,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -247,6 +247,24 @@
    "url": "https://x.com/magnonewslive/status/2115820854663868851"
   },
   {
+   "author_id": "1900375238548086788",
+   "created_at": "2026-10-29T15:28:09.000Z",
+   "edit_history_tweet_ids": [
+    "2115828040676904970"
+   ],
+   "id": "2115828040676904970",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 33,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83c\uddfa\ud83c\uddf8 President Trump in South Carolina | MAGA Majority Force Rally in Rock Hill [LIVE] https://t.co/hhp3f0oDOI",
+   "url": "https://x.com/magnonewslive/status/2115828040676904970"
+  },
+  {
    "author_id": "1683937299468263424",
    "created_at": "2026-10-29T15:03:30.000Z",
    "edit_history_tweet_ids": [
@@ -254,33 +272,15 @@
    ],
    "id": "2115821837028598152",
    "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 1166,
-    "like_count": 15,
+    "bookmark_count": 3,
+    "impression_count": 1749,
+    "like_count": 25,
     "quote_count": 0,
     "reply_count": 1,
-    "retweet_count": 1
+    "retweet_count": 2
    },
    "text": "BREAKING: Trump Declares CEASEFIRE OVER with Iran https://t.co/AGf2Aeh2a1",
    "url": "https://x.com/angertab/status/2115821837028598152"
-  },
-  {
-   "author_id": "11134252",
-   "created_at": "2026-10-29T15:08:43.000Z",
-   "edit_history_tweet_ids": [
-    "2115823150399103223"
-   ],
-   "id": "2115823150399103223",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 3035,
-    "like_count": 22,
-    "quote_count": 0,
-    "reply_count": 4,
-    "retweet_count": 7
-   },
-   "text": "Midterm Rally in Rock Hill, South Carolina featuring President Donald J. Trump https://t.co/MPiEtrKTVl",
-   "url": "https://x.com/Republicans/status/2115823150399103223"
   },
   {
    "author_id": "21538153",
@@ -291,7 +291,7 @@
    "id": "2115824327375348128",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 9,
+    "impression_count": 13,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -299,6 +299,24 @@
    },
    "text": "RNCResearch: RT @Republicans: Midterm Rally in Rock Hill, South Carolina featuring President Donald J. Trump https://t.co/Cj7CkDSY8D",
    "url": "https://x.com/RWOMC/status/2115824327375348128"
+  },
+  {
+   "author_id": "11134252",
+   "created_at": "2026-10-29T15:08:43.000Z",
+   "edit_history_tweet_ids": [
+    "2115823150399103223"
+   ],
+   "id": "2115823150399103223",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 4307,
+    "like_count": 37,
+    "quote_count": 0,
+    "reply_count": 9,
+    "retweet_count": 13
+   },
+   "text": "Midterm Rally in Rock Hill, South Carolina featuring President Donald J. Trump https://t.co/MPiEtrKTVl",
+   "url": "https://x.com/Republicans/status/2115823150399103223"
   },
   {
    "author_id": "993896381139116036",
@@ -309,7 +327,7 @@
    "id": "2115805691713872013",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 5,
+    "impression_count": 7,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -327,11 +345,11 @@
    "id": "2115810789328376051",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 375,
-    "like_count": 14,
+    "impression_count": 402,
+    "like_count": 17,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1
+    "retweet_count": 2
    },
    "text": "Richard Heart Live Streams \ud83d\udcfa Bitcoin Debate, Ethereum, PulseChain, HEX, Longevity https://t.co/6IDw1L7IpY",
    "url": "https://x.com/rhmaximalist/status/2115810789328376051"
@@ -345,7 +363,7 @@
    "id": "2115790030166008260",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1276,
+    "impression_count": 1329,
     "like_count": 16,
     "quote_count": 0,
     "reply_count": 0,
@@ -363,7 +381,7 @@
    "id": "2115790782817071278",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 1375,
+    "impression_count": 1416,
     "like_count": 11,
     "quote_count": 1,
     "reply_count": 0,
@@ -381,7 +399,7 @@
    "id": "2115790029402636493",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 179,
+    "impression_count": 183,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -417,7 +435,7 @@
    "id": "2115790782842142851",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 16,
+    "impression_count": 17,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -435,32 +453,14 @@
    "id": "2115807073552539717",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3995,
-    "like_count": 44,
+    "impression_count": 4192,
+    "like_count": 47,
     "quote_count": 1,
     "reply_count": 3,
     "retweet_count": 7
    },
    "text": "\ud83d\udd34LIVE NOW from Pittsburgh: I am hosting a Senate Special Committee on Aging field hearing examining how we can better combat loneliness and social isolation among Pennsylvania seniors. https://t.co/JXqfIxuz4d",
    "url": "https://x.com/SenMcCormickPA/status/2115807073552539717"
-  },
-  {
-   "author_id": "1875267238309351424",
-   "created_at": "2026-10-29T14:57:35.000Z",
-   "edit_history_tweet_ids": [
-    "2115820345546727800"
-   ],
-   "id": "2115820345546727800",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 280,
-    "like_count": 7,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 0
-   },
-   "text": "\ud83d\udd34LIVE NOW from Pittsburgh: I am hosting a Senate Special Committee on Aging field hearing examining how we can better combat loneliness and social isolation among Pennsylvania seniors. https://t.co/CgY6l2X0yO",
-   "url": "https://x.com/SenMcCormickPA/status/2115820345546727800"
   }
  ],
  "users": [
@@ -488,7 +488,7 @@
     "like_count": 3115,
     "listed_count": 136,
     "media_count": 3561,
-    "tweet_count": 30359
+    "tweet_count": 30360
    },
    "username": "BadlandsMedia_",
    "verified": true,
@@ -528,12 +528,12 @@
    "id": "1731447196455989248",
    "name": "2WAY",
    "public_metrics": {
-    "followers_count": 59906,
+    "followers_count": 59907,
     "following_count": 778,
     "like_count": 1482,
     "listed_count": 306,
-    "media_count": 2470,
-    "tweet_count": 5034
+    "media_count": 2471,
+    "tweet_count": 5035
    },
    "username": "2waytvapp",
    "verified": true,
@@ -588,12 +588,12 @@
    "id": "104872280",
    "name": "CITI FM 97.3",
    "public_metrics": {
-    "followers_count": 1732985,
+    "followers_count": 1732982,
     "following_count": 528,
     "like_count": 2831,
     "listed_count": 716,
-    "media_count": 177744,
-    "tweet_count": 573797
+    "media_count": 177746,
+    "tweet_count": 573800
    },
    "username": "Citi973",
    "verified": true,
@@ -618,12 +618,12 @@
    "id": "20545835",
    "name": "NEWSMAX",
    "public_metrics": {
-    "followers_count": 3674305,
+    "followers_count": 3674308,
     "following_count": 851,
     "like_count": 8041,
-    "listed_count": 8654,
-    "media_count": 87839,
-    "tweet_count": 279559
+    "listed_count": 8655,
+    "media_count": 87842,
+    "tweet_count": 279563
    },
    "username": "NEWSMAX",
    "verified": true,
@@ -638,7 +638,7 @@
     "like_count": 28,
     "listed_count": 17,
     "media_count": 46,
-    "tweet_count": 2148
+    "tweet_count": 2149
    },
    "username": "magnonewslive",
    "verified": true,
@@ -648,7 +648,7 @@
    "id": "1683937299468263424",
    "name": "Matt Tardio",
    "public_metrics": {
-    "followers_count": 116593,
+    "followers_count": 116594,
     "following_count": 802,
     "like_count": 11596,
     "listed_count": 252,
@@ -660,21 +660,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "11134252",
-   "name": "Republicans",
-   "public_metrics": {
-    "followers_count": 3454549,
-    "following_count": 995,
-    "like_count": 2823,
-    "listed_count": 13266,
-    "media_count": 22067,
-    "tweet_count": 78277
-   },
-   "username": "Republicans",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "21538153",
    "name": "Republican Women of Mercer County \ud83d\udcaa\ud83c\uddfa\ud83c\uddf8",
    "public_metrics": {
@@ -682,10 +667,25 @@
     "following_count": 2161,
     "like_count": 21339,
     "listed_count": 76,
-    "media_count": 33374,
-    "tweet_count": 137270
+    "media_count": 33375,
+    "tweet_count": 137271
    },
    "username": "RWOMC",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "11134252",
+   "name": "Republicans",
+   "public_metrics": {
+    "followers_count": 3454555,
+    "following_count": 995,
+    "like_count": 2823,
+    "listed_count": 13266,
+    "media_count": 22068,
+    "tweet_count": 78278
+   },
+   "username": "Republicans",
    "verified": true,
    "verified_type": "blue"
   },
@@ -723,7 +723,7 @@
    "id": "1519441963262484480",
    "name": "\ud83e\udeb6Native Patriot \ud83c\uddfa\ud83c\uddf8",
    "public_metrics": {
-    "followers_count": 232587,
+    "followers_count": 232589,
     "following_count": 26332,
     "like_count": 334637,
     "listed_count": 277,
@@ -743,7 +743,7 @@
     "like_count": 5182,
     "listed_count": 301,
     "media_count": 6435,
-    "tweet_count": 47800
+    "tweet_count": 47801
    },
    "username": "realjoshuareid",
    "verified": true,
@@ -801,7 +801,7 @@
     "followers_count": 38347,
     "following_count": 543,
     "like_count": 724,
-    "listed_count": 303,
+    "listed_count": 304,
     "media_count": 1485,
     "tweet_count": 2662
    },
@@ -809,5 +809,11 @@
    "verified": true,
    "verified_type": "government"
   }
- ]
+ ],
+ "meta": {
+  "newest_id": "2115828040676904970",
+  "next_token": "b26v89c19zqg8o3juzlxo8tntr7nqwrhx2bp9c0p75b3x",
+  "oldest_id": "2115790029402636493",
+  "result_count": 25
+ }
 }
