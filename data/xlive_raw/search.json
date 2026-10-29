@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T07:50:00Z",
+ "fetched_at": "2026-10-29T08:05:30Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T04:50:00Z",
+  "start_time": "2026-10-29T05:05:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,6 +17,21 @@
    "edit_history_tweet_ids": [
     "2115705516278296689"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Ladies Be Killin' Babies (Again) + Election News | Missed Info Live 10/28/26",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 100,
+      "expanded_url": "https://x.com/i/broadcasts/1yxBePXmMBnJN",
+      "start": 77,
+      "status": 200,
+      "title": "Missed Information",
+      "unwound_url": "https://x.com/i/broadcasts/1yxBePXmMBnJN",
+      "url": "https://t.co/BmUv6kAKRF"
+     }
+    ]
+   },
    "id": "2115705516278296689",
    "public_metrics": {
     "bookmark_count": 0,
@@ -35,10 +50,37 @@
    "edit_history_tweet_ids": [
     "2115705190305161725"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "JMD NEWS LIVE | UP News | Breaking News | CM Yogi | Akhilesh Yadav | Uttar Pradesh",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 106,
+      "expanded_url": "https://x.com/i/broadcasts/2YRYoeLNRAeVpv",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115705232856416256/Sa92yo1F?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115705232856416256/Sa92yo1F?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 83,
+      "status": 200,
+      "title": "JMD NEWS",
+      "unwound_url": "https://x.com/i/broadcasts/2YRYoeLNRAeVpv",
+      "url": "https://t.co/4Xru3EgDEg"
+     }
+    ]
+   },
    "id": "2115705190305161725",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 125,
+    "impression_count": 129,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -48,22 +90,149 @@
    "url": "https://x.com/jmdnewsflash/status/2115705190305161725"
   },
   {
+   "author_id": "1457704420171468803",
+   "created_at": "2026-10-29T07:55:56.000Z",
+   "edit_history_tweet_ids": [
+    "2115714236311875902"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE : 29-10-26 | Politics Punjab Special With Jeeta Singh & Kuljit Singh",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 101,
+      "expanded_url": "https://x.com/i/broadcasts/1pKkOXkaOVyKj",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115714239491133440/ymiuvAPr?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115714239491133440/ymiuvAPr?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 78,
+      "status": 200,
+      "title": "Politics Punjab TV",
+      "unwound_url": "https://x.com/i/broadcasts/1pKkOXkaOVyKj",
+      "url": "https://t.co/uKqjj1CwSB"
+     }
+    ]
+   },
+   "id": "2115714236311875902",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "LIVE : 29-10-26 | Politics Punjab Special With Jeeta Singh &amp; Kuljit Singh https://t.co/uKqjj1CwSB",
+   "url": "https://x.com/PoliticsPunj767/status/2115714236311875902"
+  },
+  {
    "author_id": "4624133423",
    "created_at": "2026-10-29T06:37:00.000Z",
    "edit_history_tweet_ids": [
     "2115694373384163678"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 159,
+      "start": 146,
+      "tag": "NewsAndViews"
+     },
+     {
+      "end": 183,
+      "start": 160,
+      "tag": "HumanitarianJournalism"
+     },
+     {
+      "end": 191,
+      "start": 184,
+      "tag": "Halaal"
+     },
+     {
+      "end": 198,
+      "start": 192,
+      "tag": "viral"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Truth behind the viral debate: Are South Africans being forced to eat halaal? CEO of the MJC Halaal Trust, Moulana Zakariya Philander weighs in. #NewsAndViews #HumanitarianJournalism #Halaal #viral",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 222,
+      "expanded_url": "https://x.com/i/broadcasts/1qKVmydgdvDxB",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115694415817928704/3YFBnA1n?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115694415817928704/3YFBnA1n?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 199,
+      "status": 200,
+      "title": "Salaamedia",
+      "unwound_url": "https://x.com/i/broadcasts/1qKVmydgdvDxB",
+      "url": "https://t.co/kAIjMnegfO"
+     }
+    ]
+   },
    "id": "2115694373384163678",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 67,
-    "like_count": 2,
+    "impression_count": 73,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Truth behind the viral debate: Are South Africans being forced to eat halaal?  CEO of the MJC Halaal Trust, Moulana Zakariya Philander weighs in. #NewsAndViews #HumanitarianJournalism #Halaal #viral https://t.co/kAIjMnegfO",
+   "url": "https://x.com/salaamedia/status/2115694373384163678"
+  },
+  {
+   "author_id": "18921618",
+   "created_at": "2026-10-29T07:57:08.000Z",
+   "edit_history_tweet_ids": [
+    "2115714536217133281"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "US Midterm Election & Criminal Hubs around Thailand",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 79,
+      "expanded_url": "https://x.com/i/broadcasts/1DGleVAbevDJL",
+      "start": 56,
+      "status": 200,
+      "title": "Thenationthailand",
+      "unwound_url": "https://x.com/i/broadcasts/1DGleVAbevDJL",
+      "url": "https://t.co/AEq0AeEmC6"
+     }
+    ]
+   },
+   "id": "2115714536217133281",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 99,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Truth behind the viral debate: Are South Africans being forced to eat halaal?  CEO of the MJC Halaal Trust, Moulana Zakariya Philander weighs in. #NewsAndViews #HumanitarianJournalism #Halaal #viral https://t.co/kAIjMnegfO",
-   "url": "https://x.com/salaamedia/status/2115694373384163678"
+   "text": "US Midterm Election &amp; Criminal Hubs around Thailand https://t.co/AEq0AeEmC6",
+   "url": "https://x.com/Thenationth/status/2115714536217133281"
   },
   {
    "author_id": "1202831887984541697",
@@ -71,10 +240,25 @@
    "edit_history_tweet_ids": [
     "2115712454470607244"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "NEWS BULLETIN || LIVE || NEWS || NETWORK10",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 66,
+      "expanded_url": "https://x.com/i/broadcasts/2nQPWoYaneenXL",
+      "start": 43,
+      "status": 200,
+      "title": "Network10",
+      "unwound_url": "https://x.com/i/broadcasts/2nQPWoYaneenXL",
+      "url": "https://t.co/IDkxNjNJOm"
+     }
+    ]
+   },
    "id": "2115712454470607244",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 37,
+    "impression_count": 61,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -89,6 +273,33 @@
    "edit_history_tweet_ids": [
     "2115707904120737927"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Kubera Update Live | Kubera Now | Business News In Gujarati | Share Market Live Update | Stock Market News | LIVE",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 138,
+      "expanded_url": "https://x.com/i/broadcasts/1oKMvNPgRAWGQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115707946521055232/loM0f_IO?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115707946521055232/loM0f_IO?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 115,
+      "status": 200,
+      "title": "KuberaNow",
+      "unwound_url": "https://x.com/i/broadcasts/1oKMvNPgRAWGQ",
+      "url": "https://t.co/Lkyc26NXac"
+     }
+    ]
+   },
    "id": "2115707904120737927",
    "public_metrics": {
     "bookmark_count": 0,
@@ -102,15 +313,87 @@
    "url": "https://x.com/KuberaNow17430/status/2115707904120737927"
   },
   {
+   "author_id": "1339166129110065152",
+   "created_at": "2026-10-29T05:59:58.000Z",
+   "edit_history_tweet_ids": [
+    "2115685050805260483"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "GB News",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 31,
+      "expanded_url": "https://x.com/i/broadcasts/1rmxPvYWYeDGN",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115685053372190720/5k882X2R?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115685053372190720/5k882X2R?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 8,
+      "status": 200,
+      "title": "GB News",
+      "unwound_url": "https://x.com/i/broadcasts/1rmxPvYWYeDGN",
+      "url": "https://t.co/qwzmw03Zvt"
+     }
+    ]
+   },
+   "id": "2115685050805260483",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4879,
+    "like_count": 10,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 2
+   },
+   "text": "GB News https://t.co/qwzmw03Zvt",
+   "url": "https://x.com/GBNEWS/status/2115685050805260483"
+  },
+  {
    "author_id": "239486395",
    "created_at": "2026-10-29T06:44:27.000Z",
    "edit_history_tweet_ids": [
     "2115696247642132898"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: AL JAZEERA ENGLISH",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 55,
+      "expanded_url": "https://x.com/i/broadcasts/1pKkOXBVVOAKj",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2114680328665395200/N_SsLc9O?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2114680328665395200/N_SsLc9O?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 32,
+      "status": 200,
+      "title": "Al Jazeera English",
+      "unwound_url": "https://x.com/i/broadcasts/1pKkOXBVVOAKj",
+      "url": "https://t.co/rayeEP3Mp3"
+     }
+    ]
+   },
    "id": "2115696247642132898",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 17,
+    "impression_count": 19,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -120,15 +403,75 @@
    "url": "https://x.com/ProtestMusica/status/2115696247642132898"
   },
   {
+   "author_id": "1501773476281352197",
+   "created_at": "2026-10-29T07:01:24.000Z",
+   "edit_history_tweet_ids": [
+    "2115700512297521581"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE Khalistan News Hour",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 48,
+      "expanded_url": "https://x.com/i/broadcasts/1RKjpbgOgPeJw",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115700515116085248/kTV9_QR-?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115700515116085248/kTV9_QR-?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 25,
+      "status": 200,
+      "title": "Ravinder Singh Johal",
+      "unwound_url": "https://x.com/i/broadcasts/1RKjpbgOgPeJw",
+      "url": "https://t.co/yIZxiwY2zr"
+     }
+    ]
+   },
+   "id": "2115700512297521581",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 7,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "LIVE Khalistan News Hour https://t.co/yIZxiwY2zr",
+   "url": "https://x.com/JohlRavinder/status/2115700512297521581"
+  },
+  {
    "author_id": "1999037304103723008",
    "created_at": "2026-10-29T07:40:58.000Z",
    "edit_history_tweet_ids": [
     "2115710468589281733"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "GrowthNow News LIVE !",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 45,
+      "expanded_url": "https://x.com/i/broadcasts/2qVWKMpYLboRWM",
+      "start": 22,
+      "status": 200,
+      "title": "Growthnownews",
+      "unwound_url": "https://x.com/i/broadcasts/2qVWKMpYLboRWM",
+      "url": "https://t.co/8yw3y3yrY6"
+     }
+    ]
+   },
    "id": "2115710468589281733",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 14,
+    "impression_count": 20,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -138,47 +481,38 @@
    "url": "https://x.com/growthnownews/status/2115710468589281733"
   },
   {
-   "author_id": "1339166129110065152",
-   "created_at": "2026-10-29T05:59:58.000Z",
-   "edit_history_tweet_ids": [
-    "2115685050805260483"
-   ],
-   "id": "2115685050805260483",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 4614,
-    "like_count": 8,
-    "quote_count": 0,
-    "reply_count": 3,
-    "retweet_count": 2
-   },
-   "text": "GB News https://t.co/qwzmw03Zvt",
-   "url": "https://x.com/GBNEWS/status/2115685050805260483"
-  },
-  {
-   "author_id": "34262462",
-   "created_at": "2026-10-29T06:10:57.000Z",
-   "edit_history_tweet_ids": [
-    "2115687816571277602"
-   ],
-   "id": "2115687816571277602",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 1387,
-    "like_count": 25,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 2
-   },
-   "text": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit https://t.co/4yT52NzEyH",
-   "url": "https://x.com/SputnikInt/status/2115687816571277602"
-  },
-  {
    "author_id": "1501773476281352197",
    "created_at": "2026-10-29T07:00:34.000Z",
    "edit_history_tweet_ids": [
     "2115700300590039527"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE Khalistan News Hour",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 48,
+      "expanded_url": "https://x.com/i/broadcasts/1XxygwWzWvVGM",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115700303337234432/AIHku7Ir?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115700303337234432/AIHku7Ir?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 25,
+      "status": 200,
+      "title": "Ravinder Singh Johal",
+      "unwound_url": "https://x.com/i/broadcasts/1XxygwWzWvVGM",
+      "url": "https://t.co/FpxRZ83W3f"
+     }
+    ]
+   },
    "id": "2115700300590039527",
    "public_metrics": {
     "bookmark_count": 0,
@@ -197,10 +531,25 @@
    "edit_history_tweet_ids": [
     "2115712520082088393"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News Bulletin Star Asia Tv Live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 57,
+      "expanded_url": "https://x.com/i/broadcasts/2ReXrQMnYQRqnr",
+      "start": 34,
+      "status": 200,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2ReXrQMnYQRqnr",
+      "url": "https://t.co/yEqygLGx4T"
+     }
+    ]
+   },
    "id": "2115712520082088393",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3,
+    "impression_count": 6,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -210,33 +559,42 @@
    "url": "https://x.com/StarAsiatvHD/status/2115712520082088393"
   },
   {
-   "author_id": "1501773476281352197",
-   "created_at": "2026-10-29T07:01:24.000Z",
-   "edit_history_tweet_ids": [
-    "2115700512297521581"
-   ],
-   "id": "2115700512297521581",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 6,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "LIVE Khalistan News Hour https://t.co/yIZxiwY2zr",
-   "url": "https://x.com/JohlRavinder/status/2115700512297521581"
-  },
-  {
    "author_id": "974995792380473345",
    "created_at": "2026-10-29T07:00:30.000Z",
    "edit_history_tweet_ids": [
     "2115700283724718357"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 29th October 2026",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 113,
+      "expanded_url": "https://x.com/i/broadcasts/1yxBePXzXqkJN",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115700286207709185/lC1JCAd_?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115700286207709185/lC1JCAd_?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "ChannelOne TV",
+      "unwound_url": "https://x.com/i/broadcasts/1yxBePXzXqkJN",
+      "url": "https://t.co/HBp5s0JGgZ"
+     }
+    ]
+   },
    "id": "2115700283724718357",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 613,
+    "impression_count": 649,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -246,15 +604,94 @@
    "url": "https://x.com/Channel1TVGHA/status/2115700283724718357"
   },
   {
+   "author_id": "34262462",
+   "created_at": "2026-10-29T06:10:57.000Z",
+   "edit_history_tweet_ids": [
+    "2115687816571277602"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 134,
+      "expanded_url": "https://x.com/i/broadcasts/1OxwbndzrMoJB",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115687819012358144/1b8UgU_r?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115687819012358144/1b8UgU_r?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 111,
+      "status": 200,
+      "title": "Sputnik",
+      "unwound_url": "https://x.com/i/broadcasts/1OxwbndzrMoJB",
+      "url": "https://t.co/4yT52NzEyH"
+     }
+    ]
+   },
+   "id": "2115687816571277602",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 1470,
+    "like_count": 26,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 2
+   },
+   "text": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit https://t.co/4yT52NzEyH",
+   "url": "https://x.com/SputnikInt/status/2115687816571277602"
+  },
+  {
    "author_id": "19897138",
    "created_at": "2026-10-29T06:30:13.000Z",
    "edit_history_tweet_ids": [
     "2115692666164048060"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 5,
+      "start": 0,
+      "tag": "LIVE"
+     }
+    ],
+    "urls": [
+     {
+      "description": "#LIVE || Take a look at the top news headlines",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 70,
+      "expanded_url": "https://x.com/i/broadcasts/1RKZzBapYEQKB",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115692669146103808/x0CZR8jr?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115692669146103808/x0CZR8jr?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 47,
+      "status": 200,
+      "title": "IndiaToday",
+      "unwound_url": "https://x.com/i/broadcasts/1RKZzBapYEQKB",
+      "url": "https://t.co/Q1TeWfBy5W"
+     }
+    ]
+   },
    "id": "2115692666164048060",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2068,
+    "impression_count": 2102,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -264,16 +701,224 @@
    "url": "https://x.com/IndiaToday/status/2115692666164048060"
   },
   {
+   "author_id": "355989081",
+   "created_at": "2026-10-29T08:01:54.000Z",
+   "edit_history_tweet_ids": [
+    "2115715737159344395",
+    "2115716001253999046"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 107,
+      "start": 101,
+      "tag": "asean"
+     },
+     {
+      "end": 124,
+      "start": 108,
+      "tag": "defenceminister"
+     },
+     {
+      "end": 136,
+      "start": 125,
+      "tag": "Philippine"
+     },
+     {
+      "end": 145,
+      "start": 137,
+      "tag": "teodoro"
+     },
+     {
+      "end": 151,
+      "start": 146,
+      "tag": "live"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE: ASEAN Defence Ministers Meet I Philippine Defence Secy Gilbert Teodoro Holds News Conference",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 214,
+      "expanded_url": "https://x.com/i/broadcasts/2jPdjEpkqqVWay",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115715779731603457/pGBTJaBW?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115715779731603457/pGBTJaBW?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 191,
+      "status": 200,
+      "title": "ANI",
+      "unwound_url": "https://x.com/i/broadcasts/2jPdjEpkqqVWay",
+      "url": "https://t.co/eYydnviVOf"
+     }
+    ]
+   },
+   "id": "2115715737159344395",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8945,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE: ASEAN Defence Ministers Meet I Philippine Defence Secy Gilbert Teodoro Holds News Conference \n\n#asean #defenceminister #Philippine #teodoro #live \n\nSOURCE: HOST BROADCASTER VIA REUTERS https://t.co/eYydnviVOf",
+   "url": "https://x.com/ANI/status/2115715737159344395"
+  },
+  {
+   "author_id": "355989081",
+   "created_at": "2026-10-29T08:02:57.000Z",
+   "edit_history_tweet_ids": [
+    "2115715737159344395",
+    "2115716001253999046"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 107,
+      "start": 101,
+      "tag": "asean"
+     },
+     {
+      "end": 124,
+      "start": 108,
+      "tag": "defenceminister"
+     },
+     {
+      "end": 136,
+      "start": 125,
+      "tag": "Philippine"
+     },
+     {
+      "end": 145,
+      "start": 137,
+      "tag": "teodoro"
+     },
+     {
+      "end": 151,
+      "start": 146,
+      "tag": "live"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE: ASEAN Defence Ministers Meet I Philippine Defence Secy Gilbert Teodoro Holds News Conference",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 177,
+      "expanded_url": "https://x.com/i/broadcasts/2jPdjEpkqqVWay",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115715779731603457/pGBTJaBW?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115715779731603457/pGBTJaBW?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 154,
+      "status": 200,
+      "title": "ANI",
+      "unwound_url": "https://x.com/i/broadcasts/2jPdjEpkqqVWay",
+      "url": "https://t.co/eYydnvjtDN"
+     }
+    ]
+   },
+   "id": "2115716001253999046",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6014,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "LIVE: ASEAN Defence Ministers Meet I Philippine Defence Secy Gilbert Teodoro Holds News Conference \n\n#asean #defenceminister #Philippine #teodoro #live \n\nhttps://t.co/eYydnvjtDN",
+   "url": "https://x.com/ANI/status/2115716001253999046"
+  },
+  {
    "author_id": "246688646",
    "created_at": "2026-10-29T06:18:37.000Z",
    "edit_history_tweet_ids": [
     "2115684996476211237",
     "2115689746777207049"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 154,
+      "start": 145,
+      "tag": "MusikBox"
+     },
+     {
+      "end": 210,
+      "start": 197,
+      "tag": "DaybreakHitz"
+     },
+     {
+      "end": 222,
+      "start": 211,
+      "tag": "Hitz1039FM"
+     },
+     {
+      "end": 234,
+      "start": 223,
+      "tag": "JoyDigital"
+     },
+     {
+      "end": 254,
+      "start": 235,
+      "tag": "HitzJoyFmBeachRave"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 170,
+      "id": "1888887751271170048",
+      "start": 160,
+      "username": "DjBlackgh"
+     }
+    ],
+    "urls": [
+     {
+      "description": "DaybreakHitz with Kwame Dadzie and Doreen Avio || 29/10/2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 195,
+      "expanded_url": "https://x.com/i/broadcasts/2EmgJBQRKobQNa",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2115685039467827200/rAFf8CIC?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115685039467827200/rAFf8CIC?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 172,
+      "status": 200,
+      "title": "Hitz 103.9 FM",
+      "unwound_url": "https://x.com/i/broadcasts/2EmgJBQRKobQNa",
+      "url": "https://t.co/1oTqm2cbyw"
+     }
+    ]
+   },
    "id": "2115689746777207049",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 565,
+    "impression_count": 583,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -288,14 +933,41 @@
    "edit_history_tweet_ids": [
     "2115696321898086692"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: YSRCP Employees & Pensioners Wing State President Sri Nalamaru Chandra Sekhar Reddy Press Meet",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 128,
+      "expanded_url": "https://x.com/i/broadcasts/2KoBbOykEaRWMz",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115697935048654848/0M3Wg2pb?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115697935048654848/0M3Wg2pb?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 105,
+      "status": 200,
+      "title": "YSR Congress Party",
+      "unwound_url": "https://x.com/i/broadcasts/2KoBbOykEaRWMz",
+      "url": "https://t.co/v65xMi8bqQ"
+     }
+    ]
+   },
    "id": "2115696321898086692",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1561,
-    "like_count": 7,
+    "impression_count": 1597,
+    "like_count": 8,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 3
+    "retweet_count": 4
    },
    "text": "LIVE: YSRCP Employees &amp; Pensioners Wing State President Sri Nalamaru Chandra Sekhar Reddy Press Meet https://t.co/v65xMi8bqQ",
    "url": "https://x.com/YSRCParty/status/2115696321898086692"
@@ -325,18 +997,38 @@
     "following_count": 1,
     "like_count": 11008,
     "listed_count": 18,
-    "media_count": 122581,
-    "tweet_count": 134828
+    "media_count": 122583,
+    "tweet_count": 134830
    },
    "username": "jmdnewsflash",
    "verified": true,
    "verified_type": "blue"
   },
   {
+   "id": "1457704420171468803",
+   "name": "Politics Punjab TV",
+   "public_metrics": {
+    "followers_count": 2164,
+    "following_count": 128,
+    "like_count": 904,
+    "listed_count": 3,
+    "media_count": 5373,
+    "tweet_count": 9153
+   },
+   "username": "PoliticsPunj767",
+   "verified": true,
+   "verified_type": "blue",
+   "withheld": {
+    "country_codes": [
+     "IN"
+    ]
+   }
+  },
+  {
    "id": "4624133423",
    "name": "Salaamedia",
    "public_metrics": {
-    "followers_count": 9470,
+    "followers_count": 9471,
     "following_count": 1996,
     "like_count": 1967,
     "listed_count": 65,
@@ -344,6 +1036,21 @@
     "tweet_count": 35273
    },
    "username": "salaamedia",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "18921618",
+   "name": "Thenationthailand",
+   "public_metrics": {
+    "followers_count": 455088,
+    "following_count": 109,
+    "like_count": 22,
+    "listed_count": 2477,
+    "media_count": 21706,
+    "tweet_count": 187268
+   },
+   "username": "Thenationth",
    "verified": true,
    "verified_type": "blue"
   },
@@ -378,6 +1085,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "1339166129110065152",
+   "name": "GB News",
+   "public_metrics": {
+    "followers_count": 991035,
+    "following_count": 50,
+    "like_count": 0,
+    "listed_count": 2723,
+    "media_count": 170811,
+    "tweet_count": 330417
+   },
+   "username": "GBNEWS",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
    "id": "239486395",
    "name": "Protest & Musica 🎶 🌎📺 🚨🎃",
    "public_metrics": {
@@ -391,6 +1113,26 @@
    "username": "ProtestMusica",
    "verified": false,
    "verified_type": "none"
+  },
+  {
+   "id": "1501773476281352197",
+   "name": "Ravinder Singh Johal",
+   "public_metrics": {
+    "followers_count": 1093,
+    "following_count": 236,
+    "like_count": 4603,
+    "listed_count": 1,
+    "media_count": 1155,
+    "tweet_count": 3552
+   },
+   "username": "JohlRavinder",
+   "verified": true,
+   "verified_type": "blue",
+   "withheld": {
+    "country_codes": [
+     "IN"
+    ]
+   }
   },
   {
    "id": "1999037304103723008",
@@ -408,25 +1150,40 @@
    "verified_type": "blue"
   },
   {
-   "id": "1339166129110065152",
-   "name": "GB News",
+   "id": "1646087345127690240",
+   "name": "Star Asia Tv",
    "public_metrics": {
-    "followers_count": 991035,
-    "following_count": 50,
-    "like_count": 0,
-    "listed_count": 2723,
-    "media_count": 170811,
-    "tweet_count": 330416
+    "followers_count": 163,
+    "following_count": 1,
+    "like_count": 35,
+    "listed_count": 1,
+    "media_count": 4667,
+    "tweet_count": 4767
    },
-   "username": "GBNEWS",
+   "username": "StarAsiatvHD",
    "verified": true,
-   "verified_type": "business"
+   "verified_type": "blue"
+  },
+  {
+   "id": "974995792380473345",
+   "name": "ChannelOne TV",
+   "public_metrics": {
+    "followers_count": 438303,
+    "following_count": 70,
+    "like_count": 1797,
+    "listed_count": 211,
+    "media_count": 59189,
+    "tweet_count": 152994
+   },
+   "username": "Channel1TVGHA",
+   "verified": true,
+   "verified_type": "blue"
   },
   {
    "id": "34262462",
    "name": "Sputnik",
    "public_metrics": {
-    "followers_count": 502107,
+    "followers_count": 502109,
     "following_count": 162,
     "like_count": 1088,
     "listed_count": 7551,
@@ -470,69 +1227,34 @@
    }
   },
   {
-   "id": "1501773476281352197",
-   "name": "Ravinder Singh Johal",
-   "public_metrics": {
-    "followers_count": 1093,
-    "following_count": 236,
-    "like_count": 4603,
-    "listed_count": 1,
-    "media_count": 1155,
-    "tweet_count": 3552
-   },
-   "username": "JohlRavinder",
-   "verified": true,
-   "verified_type": "blue",
-   "withheld": {
-    "country_codes": [
-     "IN"
-    ]
-   }
-  },
-  {
-   "id": "1646087345127690240",
-   "name": "Star Asia Tv",
-   "public_metrics": {
-    "followers_count": 163,
-    "following_count": 1,
-    "like_count": 35,
-    "listed_count": 1,
-    "media_count": 4665,
-    "tweet_count": 4765
-   },
-   "username": "StarAsiatvHD",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "974995792380473345",
-   "name": "ChannelOne TV",
-   "public_metrics": {
-    "followers_count": 438302,
-    "following_count": 70,
-    "like_count": 1797,
-    "listed_count": 211,
-    "media_count": 59189,
-    "tweet_count": 152994
-   },
-   "username": "Channel1TVGHA",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6274985,
+    "followers_count": 6274989,
     "following_count": 83,
     "like_count": 4431,
     "listed_count": 7343,
-    "media_count": 581529,
-    "tweet_count": 1542471
+    "media_count": 581533,
+    "tweet_count": 1542478
    },
    "username": "IndiaToday",
    "verified": true,
    "verified_type": "blue"
+  },
+  {
+   "id": "355989081",
+   "name": "ANI",
+   "public_metrics": {
+    "followers_count": 9490757,
+    "following_count": 0,
+    "like_count": 72,
+    "listed_count": 7874,
+    "media_count": 751109,
+    "tweet_count": 1182500
+   },
+   "username": "ANI",
+   "verified": true,
+   "verified_type": "business"
   },
   {
    "id": "246688646",
@@ -553,7 +1275,7 @@
    "id": "256129678",
    "name": "YSR Congress Party",
    "public_metrics": {
-    "followers_count": 929267,
+    "followers_count": 929268,
     "following_count": 71,
     "like_count": 2990,
     "listed_count": 260,

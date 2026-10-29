@@ -1,9 +1,29 @@
 {
- "built_at": "2026-10-29T07:50:39Z",
- "searched_at": "2026-10-29T07:50:00Z",
+ "built_at": "2026-10-29T08:05:50Z",
+ "searched_at": "2026-10-29T08:05:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2115714536217133281",
+   "post_url": "https://x.com/Thenationth/status/2115714536217133281",
+   "name": "Thenationthailand",
+   "username": "Thenationth",
+   "verified_type": "blue",
+   "text": "US Midterm Election & Criminal Hubs around Thailand https://t.co/AEq0AeEmC6",
+   "started_at": "2026-10-29T07:57:08.000Z",
+   "assumed_live_until": "2026-10-29T10:57:08Z"
+  },
+  {
+   "post_id": "2115714236311875902",
+   "post_url": "https://x.com/PoliticsPunj767/status/2115714236311875902",
+   "name": "Politics Punjab TV",
+   "username": "PoliticsPunj767",
+   "verified_type": "blue",
+   "text": "LIVE : 29-10-26 | Politics Punjab Special With Jeeta Singh & Kuljit Singh https://t.co/uKqjj1CwSB",
+   "started_at": "2026-10-29T07:55:56.000Z",
+   "assumed_live_until": "2026-10-29T10:55:56Z"
+  },
   {
    "post_id": "2115705516278296689",
    "post_url": "https://x.com/Missedinfo/status/2115705516278296689",
@@ -13,6 +33,16 @@
    "text": "Ladies Be Killin' Babies (Again) + Election News | Missed Info Live 10/28/26 https://t.co/BmUv6kAKRF",
    "started_at": "2026-10-29T07:21:17.000Z",
    "assumed_live_until": "2026-10-29T10:21:17Z"
+  },
+  {
+   "post_id": "2115716001253999046",
+   "post_url": "https://x.com/ANI/status/2115716001253999046",
+   "name": "ANI",
+   "username": "ANI",
+   "verified_type": "business",
+   "text": "LIVE: ASEAN Defence Ministers Meet I Philippine Defence Secy Gilbert Teodoro Holds News Conference \n\n#asean #defenceminister #Philippine #teodoro #live \n\nhttps://t.co/eYydnvjtDN",
+   "started_at": "2026-10-29T08:02:57.000Z",
+   "assumed_live_until": "2026-10-29T11:02:57Z"
   },
   {
    "post_id": "2115685050805260483",
@@ -53,36 +83,6 @@
    "text": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit https://t.co/4yT52NzEyH",
    "started_at": "2026-10-29T06:10:57.000Z",
    "assumed_live_until": "2026-10-29T09:10:57Z"
-  },
-  {
-   "post_id": "2115700283724718357",
-   "post_url": "https://x.com/Channel1TVGHA/status/2115700283724718357",
-   "name": "ChannelOne TV",
-   "username": "Channel1TVGHA",
-   "verified_type": "blue",
-   "text": "Channel One TV LIVE! Breakfast Daily | Latest News updates from Ghana | 29th October 2026 https://t.co/HBp5s0JGgZ",
-   "started_at": "2026-10-29T07:00:30.000Z",
-   "assumed_live_until": "2026-10-29T10:00:30Z"
-  },
-  {
-   "post_id": "2115689746777207049",
-   "post_url": "https://x.com/Hitz1039FM/status/2115689746777207049",
-   "name": "Hitz 103.9 FM",
-   "username": "Hitz1039FM",
-   "verified_type": "blue",
-   "text": "Get the latest news from Ghana and around the world, lifestyle segment, Sports updates, Showbiz Review, Spotlight Series with Nii The Menace and #MusikBox with @DjBlackgh  https://t.co/1oTqm2cbyw\n\n#DaybreakHitz #Hitz1039FM #JoyDigital #HitzJoyFmBeachRave",
-   "started_at": "2026-10-29T06:18:37.000Z",
-   "assumed_live_until": "2026-10-29T09:18:37Z"
-  },
-  {
-   "post_id": "2115705190305161725",
-   "post_url": "https://x.com/jmdnewsflash/status/2115705190305161725",
-   "name": "JMD NEWS",
-   "username": "jmdnewsflash",
-   "verified_type": "blue",
-   "text": "JMD NEWS LIVE | UP News | Breaking News | CM Yogi | Akhilesh Yadav | Uttar Pradesh https://t.co/4Xru3EgDEg",
-   "started_at": "2026-10-29T07:19:59.000Z",
-   "assumed_live_until": "2026-10-29T10:19:59Z"
   }
  ]
 }
