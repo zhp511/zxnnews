@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-29T16:15:08Z",
- "searched_at": "2026-10-29T16:15:00Z",
+ "built_at": "2026-10-29T16:34:42Z",
+ "searched_at": "2026-10-29T16:34:45Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -65,16 +65,6 @@
    "assumed_live_until": "2026-10-29T18:03:30Z"
   },
   {
-   "post_id": "2115821751561232621",
-   "post_url": "https://x.com/Dialogue_NRA/status/2115821751561232621",
-   "name": "Dialogue works",
-   "username": "Dialogue_NRA",
-   "verified_type": "blue",
-   "text": "Michael Hudson: BREAKING: Israel Election in Deadlock — Washington Left Disappointed https://t.co/c98vafptCz",
-   "started_at": "2026-10-29T15:03:10.000Z",
-   "assumed_live_until": "2026-10-29T18:03:10Z"
-  },
-  {
    "post_id": "2115836184547275239",
    "post_url": "https://x.com/barrycunningham/status/2115836184547275239",
    "name": "Barry Cunningham",
@@ -83,6 +73,16 @@
    "text": "LIVE TRUMP RALLY IN SOUTH CAROLINA | Countdown To The Midterms! | And More News! https://t.co/d4WJ8ioXKT",
    "started_at": "2026-10-29T16:00:31.000Z",
    "assumed_live_until": "2026-10-29T19:00:31Z"
+  },
+  {
+   "post_id": "2115821751561232621",
+   "post_url": "https://x.com/Dialogue_NRA/status/2115821751561232621",
+   "name": "Dialogue works",
+   "username": "Dialogue_NRA",
+   "verified_type": "blue",
+   "text": "Michael Hudson: BREAKING: Israel Election in Deadlock — Washington Left Disappointed https://t.co/c98vafptCz",
+   "started_at": "2026-10-29T15:03:10.000Z",
+   "assumed_live_until": "2026-10-29T18:03:10Z"
   }
  ]
 }
