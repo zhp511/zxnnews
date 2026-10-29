@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T09:16:44Z",
+ "fetched_at": "2026-10-29T12:20:08Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,74 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-10-29T12:18:15.000Z",
+     "edit_history_tweet_ids": [
+      "2115780250319696356"
+     ],
+     "id": "2115780250319696356",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "I’m going to @apinionsvary’s upcoming Space. Will you join too? https://t.co/rApQ8y3LEj",
+     "url": "https://x.com/i/status/2115780250319696356"
+    }
+   ],
+   "meta": {
+    "newest_id": "2115780250319696356",
+    "oldest_id": "2115780250319696356",
+    "result_count": 1
+   }
+  },
+  {
+   "data": [
+    {
+     "created_at": "2026-10-29T11:44:51.000Z",
+     "edit_history_tweet_ids": [
+      "2115771845311877245"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 13,
+        "id": "1975370231381172224",
+        "start": 0,
+        "username": "EmmyReloaded"
+       }
+      ]
+     },
+     "id": "2115771845311877245",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115755063994110293",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@EmmyReloaded U r welcome",
+     "url": "https://x.com/i/status/2115771845311877245"
+    }
+   ],
+   "meta": {
+    "newest_id": "2115771845311877245",
+    "oldest_id": "2115771845311877245",
+    "result_count": 1
+   }
+  },
   {
    "data": [
     {

@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json + data/raw_archive.json",
- "fetched_at": "2026-10-29T12:13:00Z",
+ "fetched_at": "2026-10-29T12:20:08Z",
  "pinned_top": "2114513144307442008",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -23,6 +23,29 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2115780250319696356",
+   "url": "https://x.com/zxnbluehandus/status/2115780250319696356",
+   "created_at": "2026-10-29T12:18:15.000Z",
+   "headline": "I’m going to @apinionsvary’s upcoming Space. Will you join too?",
+   "headline_source": "post",
+   "text": "I’m going to @apinionsvary’s upcoming Space. Will you join too?",
+   "original_text": "I’m going to @apinionsvary’s upcoming Space. Will you join too? https://t.co/rApQ8y3LEj",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
   {
    "id": "2115771845311877245",
    "url": "https://x.com/zxnbluehandus/status/2115771845311877245",
@@ -4158,8 +4181,8 @@
    "image_source": null,
    "link": null,
    "has_video": false,
-   "hidden": false,
-   "hidden_reason": null
+   "hidden": true,
+   "hidden_reason": "duplicate"
   },
   {
    "id": "2110600950889025580",
