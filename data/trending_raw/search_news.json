@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T18:50:30Z",
+ "fetched_at": "2026-10-29T19:53:51Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -8,73 +8,6 @@
   "news.fields": "name,summary,hook,category,updated_at,contexts,cluster_posts_results"
  },
  "data": [
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115508619454149045"
-    },
-    {
-     "post_id": "2115527848677323000"
-    },
-    {
-     "post_id": "2115540413142769975"
-    },
-    {
-     "post_id": "2115643362543907249"
-    },
-    {
-     "post_id": "2115798140422901796"
-    },
-    {
-     "post_id": "2115527848677323000"
-    },
-    {
-     "post_id": "2115540413142769975"
-    },
-    {
-     "post_id": "2115473038359638213"
-    },
-    {
-     "post_id": "2115766229814202711"
-    },
-    {
-     "post_id": "2115798140422901796"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "National Review"
-     ],
-     "people": [
-      "John Puri",
-      "Bill Kristol",
-      "Adam Kinzinger",
-      "George Conway"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A young writer's list of 25 'terrifying' Democratic moves linked back to actions by the current administration and Republicans, flipping the script on power abuse warnings.",
-   "id": "2115550077909717314",
-   "name": "Satirical National Review Piece Exposes Conservative Hypocrisy Debate",
-   "summary": "John R. Puri's National Review article warns conservatives about potential Democratic actions like debt explosions, filibuster threats, and partisan prosecutions if they win the November 3, 2026 midterms\u2014but each links to examples from President Trump's administration or GOP efforts. Reactions divide sharply: some conservatives slam it as Never-Trump revival, while supporters call out selective outrage on tactics like executive orders. Puri defends the satire, stressing opposition to abuses should stand regardless of party, amid tensions shaping the final years of Trump's term.",
-   "updated_at": "2026-10-29T16:46:52.000Z",
-   "url": "https://x.com/i/trending/2115550077909717314"
-  },
   {
    "category": "News",
    "cluster_posts_results": [
@@ -143,13 +76,22 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115802167324065895"
-    },
-    {
-     "post_id": "2115436472899875068"
+     "post_id": "2115870806337368125"
     },
     {
      "post_id": "2115623563440894171"
+    },
+    {
+     "post_id": "2115837773123027059"
+    },
+    {
+     "post_id": "2115772425216331826"
+    },
+    {
+     "post_id": "2115870806337368125"
+    },
+    {
+     "post_id": "2115837773123027059"
     },
     {
      "post_id": "2115802167324065895"
@@ -158,19 +100,10 @@
      "post_id": "2115812101596004596"
     },
     {
-     "post_id": "2115837773123027059"
-    },
-    {
      "post_id": "2115788468643393564"
     },
     {
      "post_id": "2115832833638105561"
-    },
-    {
-     "post_id": "2115772425216331826"
-    },
-    {
-     "post_id": "2115842706861674858"
     }
    ],
    "contexts": {
@@ -178,7 +111,7 @@
      "events": [],
      "organizations": [
       "Democratic Party",
-      "Republican"
+      "Republican Party"
      ],
      "people": [],
      "places": [],
@@ -195,11 +128,11 @@
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Black Americans are questioning why their votes should default to Democrats after decades of strong support. Leaders in places like New Jersey say they want real progress on jobs, education, and equity\u2014no more crumbs.",
+   "hook": "TifahCrump777 put it bluntly: voting Democrat as a Black person feels 'stupid asf' without real policies in return. Her post has people sharing frustrations built up over years of strong support.",
    "id": "2115845800576065545",
-   "name": "Black Voters Demand Accountability Beyond Party Loyalty",
-   "summary": "For years, 80 to 90 percent of Black voters backed Democrats in national elections, but recent polls show softening to around 70 percent for 2026 midterms. Online discussions highlight frustration with assumed loyalty, urging focus on tangible results like economic opportunity and criminal justice rather than party branding. Some note neither party delivers fully, calling for judging candidates on specific benefits amid rising demands for accountability.",
-   "updated_at": "2026-10-29T16:46:47.000Z",
+   "name": "Black Voters Question Automatic Democratic Loyalty Ahead of 2026 Midterms",
+   "summary": "Black users on X are debating whether to keep backing Democrats or demand policies that deliver on economic opportunity, housing, and safety. Critics like TifahCrump777 call out the party's outreach as embarrassing and push for choices based on results, not assumptions. Others highlight shortcomings in both parties and stress voting for concrete benefits, echoing real-world calls from New Jersey leaders for better access to contracts and resources. With midterms nearing, the talk focuses on accountability and what progress truly means for Black communities.",
+   "updated_at": "2026-10-29T19:53:08.000Z",
    "url": "https://x.com/i/trending/2115845800576065545"
   },
   {
@@ -272,47 +205,50 @@
    "url": "https://x.com/i/trending/2115404569890971686"
   },
   {
-   "category": "News",
+   "category": "Sports",
    "cluster_posts_results": [
     {
-     "post_id": "2115704995509334109"
+     "post_id": "2115541624675508713"
     },
     {
-     "post_id": "2115735372072411548"
+     "post_id": "2115474224445812789"
     },
     {
-     "post_id": "2115798308144980154"
+     "post_id": "2115461931343720944"
     },
     {
-     "post_id": "2115781945607021013"
+     "post_id": "2115475405196898535"
     },
     {
-     "post_id": "2115783789662388346"
+     "post_id": "2115629425303630192"
     },
     {
-     "post_id": "2115704995509334109"
+     "post_id": "2115541624675508713"
     },
     {
-     "post_id": "2115767839454019767"
+     "post_id": "2115474224445812789"
     },
     {
-     "post_id": "2115783789662388346"
+     "post_id": "2115461931343720944"
     },
     {
-     "post_id": "2115781945607021013"
+     "post_id": "2115551402286285174"
     },
     {
-     "post_id": "2115735372072411548"
+     "post_id": "2115565491443892342"
     }
    ],
    "contexts": {
     "entities": {
      "events": [
-      "2026 U.S. midterm elections"
+      "GOP fundraiser"
      ],
-     "organizations": [],
+     "organizations": [
+      "ESPN",
+      "Republican Party"
+     ],
      "people": [
-      "Mike Lee"
+      "Kirk Herbstreit"
      ],
      "places": [],
      "products": []
@@ -324,16 +260,16 @@
      "teams": []
     },
     "topics": [
-     "Elections"
+     "American Football"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "With early voting wrapping up Friday, Texas Republicans are rallying supporters to head to the polls and keep the state red before November 3.",
-   "id": "2115777965917114378",
-   "name": "Texas Republicans Urge Red Wave in Final Midterm Push",
-   "summary": "Supporters across Texas emphasize high stakes in the midterms, framing the choice as preventing a shift left and preserving freedom over chaos. Lt. Gov. Dan Patrick and others remind voters not to wait, with early in-person voting open until October 30 and Election Day polls from 7 a.m. to 7 p.m. on November 3. Many shared stories of casting early Republican ballots, mixing determination with frustration over unaccomplished goals, while graphics boost candidates like Ken Paxton and Greg Abbott in key races.",
-   "updated_at": "2026-10-29T16:58:14.000Z",
-   "url": "https://x.com/i/trending/2115777965917114378"
+   "hook": "Kirk Herbstreit stepped up as keynote speaker at a major Alabama fundraiser, just hours before calling a primetime NFL game. It came weeks after he described himself as apolitical and right down the middle.",
+   "id": "2115482520712004011",
+   "name": "Herbstreit Headlines Alabama GOP PAC Fundraiser After Claiming Political Neutrality",
+   "summary": "ESPN analyst Kirk Herbstreit keynoted the Business Council of Alabama's October 21 dinner supporting its Progress PAC, which has donated $2.6 million to Republicans since 2024\u2014far outpacing its $260,000 to Democrats. This drew backlash for clashing with his mid-September statement that he doesn't get into politics or pick sides, especially after Sen. Ted Cruz's College GameDay appearance. The PAC sent $155,000 to Sen. Tommy Tuberville's gubernatorial campaign the next day, sparking divided reactions from hypocrisy claims to defenses of his conservative leanings.",
+   "updated_at": "2026-10-29T17:20:30.000Z",
+   "url": "https://x.com/i/trending/2115482520712004011"
   },
   {
    "category": "News",
@@ -446,7 +382,9 @@
       "Democratic Party"
      ],
      "people": [
-      "Mark Cuban"
+      "Mark Cuban",
+      "Marjorie Taylor Greene",
+      "Trump family"
      ],
      "places": [],
      "products": []
@@ -594,6 +532,76 @@
    "summary": "Online talks this week spotlight a shift where politics feels purely Schmittian\u2014defined by existential friend-enemy distinctions without moral pretense. Users debate if past principles were ever real, with some welcoming the honesty as refreshingly Hobbesian, while others lament eroded faith in humanity and invoke Yeats' blood-dimmed tide. Amid eroding centrist support in Europe and the U.S., the exchanges question if this clarity sparks honest debate or deeper conflict.",
    "updated_at": "2026-10-29T15:30:36.000Z",
    "url": "https://x.com/i/trending/2115826678157156679"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2115785495737155839"
+    },
+    {
+     "post_id": "2115785357950152754"
+    },
+    {
+     "post_id": "2115841057489371567"
+    },
+    {
+     "post_id": "2115810212716101813"
+    },
+    {
+     "post_id": "2115841057489371567"
+    },
+    {
+     "post_id": "2115785495737155839"
+    },
+    {
+     "post_id": "2115787688783872025"
+    },
+    {
+     "post_id": "2115810212716101813"
+    },
+    {
+     "post_id": "2115785357950152754"
+    },
+    {
+     "post_id": "2115799314828001750"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Republican Party"
+     ],
+     "people": [
+      "Mike Johnson"
+     ],
+     "places": [
+      "New York",
+      "California",
+      "Alaska",
+      "South Florida"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "From the Fox & Friends set, Speaker Mike Johnson shared his travels across 40 districts in 22 states, pointing to packed crowds as proof of Republican excitement.",
+   "id": "2115798601578271009",
+   "name": "Speaker Johnson Predicts GOP House Hold Despite Democratic Polls",
+   "summary": "Johnson told Fox News viewers that Republicans will keep the House majority next week, calling polls showing a Democratic lead 'historically wrong.' He highlighted GOP achievements like lower costs, major tax cuts, safer streets, and energy dominance, contrasting them with Democratic opposition. While recent surveys like Reuters/Ipsos give Democrats a 47-36 edge and high odds of flipping the House, Johnson argued polls miss strong Republican turnout in battleground districts.",
+   "updated_at": "2026-10-29T18:26:35.000Z",
+   "url": "https://x.com/i/trending/2115798601578271009"
   },
   {
    "category": "News",
