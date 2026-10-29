@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T06:22:00Z",
+ "fetched_at": "2026-10-29T07:24:00Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -12,45 +12,51 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115473038359638213"
+     "post_id": "2115371797579231428"
     },
     {
-     "post_id": "2115527848677323000"
+     "post_id": "2115403260827668639"
     },
     {
-     "post_id": "2115209256903589940"
+     "post_id": "2115410312149217660"
     },
     {
-     "post_id": "2115483157801918611"
+     "post_id": "2115449910447247814"
     },
     {
-     "post_id": "2115496719886471487"
+     "post_id": "2115435811441201411"
     },
     {
-     "post_id": "2115527848677323000"
+     "post_id": "2115435811441201411"
     },
     {
-     "post_id": "2115473038359638213"
+     "post_id": "2115371797579231428"
     },
     {
-     "post_id": "2115540413142769975"
+     "post_id": "2115574633730564451"
     },
     {
-     "post_id": "2115543630010310904"
+     "post_id": "2115403260827668639"
     },
     {
-     "post_id": "2115483157801918611"
+     "post_id": "2115410312149217660"
     }
    ],
    "contexts": {
     "entities": {
-     "events": [],
-     "organizations": [],
+     "events": [
+      "midterm elections"
+     ],
+     "organizations": [
+      "Republican Party"
+     ],
      "people": [
-      "Jason Smith",
+      "Pete Hoekstra",
       "Donald Trump"
      ],
-     "places": [],
+     "places": [
+      "Canada"
+     ],
      "products": []
     },
     "finance": {
@@ -60,17 +66,16 @@
      "teams": []
     },
     "topics": [
-     "News",
      "Politics"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "With midterm elections days away, Rep. Jason Smith took to X to caution that a Democratic win would mean targeting Trump and his family instead of helping everyday families.",
-   "id": "2115550077909717314",
-   "name": "Rep. Jason Smith Warns of Democratic Retribution if They Win Midterms",
-   "summary": "Missouri Rep. Jason Smith, running for re-election in the 8th District, posted that Democrats' agenda under a midterm victory on Nov. 3, 2026, would focus on 'political retribution' against President Trump, his family, and administration rather than lowering costs, fighting fraud, or securing communities. Conservatives like Fox News' Emily Compagno backed the view, calling Democrats' plans vague and fixated on opposing Trump. Critics fired back, accusing Smith of fear-mongering, highlighting his own record on costs, and pointing to past Republican scrutiny of figures like Hunter Biden, while memes added satirical jabs to the mix.",
-   "updated_at": "2026-10-28T21:11:49.000Z",
-   "url": "https://x.com/i/trending/2115550077909717314"
+   "hook": "In a private Ottawa lunch, U.S. Ambassador Pete Hoekstra told business leaders that Canada might get fingered if Republicans stumble in key races. Canadians fired back with defiance and sharp wit.",
+   "id": "2115404569890971686",
+   "name": "U.S. Ambassador Warns Canada Could Face Blame for GOP Midterm Losses",
+   "summary": "Hoekstra reportedly cautioned that Democratic wins in states like Michigan and Maine could lead President Trump to blame Canada, worsening already tense trade relations marked by tariffs and retaliation. The U.S. Embassy called the remarks taken out of context, insisting Americans alone decide their elections. Canadians responded with humor, from open letters offering to take the blame to jokes ranking it above historic achievements, underscoring frayed ties ahead of the November 3 midterms.",
+   "updated_at": "2026-10-29T04:51:41.000Z",
+   "url": "https://x.com/i/trending/2115404569890971686"
   },
   {
    "category": "News",
@@ -202,53 +207,52 @@
    "url": "https://x.com/i/trending/2115603817639403603"
   },
   {
-   "category": "News",
+   "category": "Sports",
    "cluster_posts_results": [
     {
-     "post_id": "2115371797579231428"
+     "post_id": "2115474224445812789"
     },
     {
-     "post_id": "2115403260827668639"
+     "post_id": "2115541624675508713"
     },
     {
-     "post_id": "2115410312149217660"
+     "post_id": "2115461931343720944"
     },
     {
-     "post_id": "2115449910447247814"
+     "post_id": "2115529307942449624"
     },
     {
-     "post_id": "2115435811441201411"
+     "post_id": "2115565491443892342"
     },
     {
-     "post_id": "2115371797579231428"
+     "post_id": "2115474224445812789"
     },
     {
-     "post_id": "2115435811441201411"
+     "post_id": "2115541624675508713"
     },
     {
-     "post_id": "2115488513756119076"
+     "post_id": "2115461931343720944"
     },
     {
-     "post_id": "2115574633730564451"
+     "post_id": "2115551402286285174"
     },
     {
-     "post_id": "2115403260827668639"
+     "post_id": "2115475405196898535"
     }
    ],
    "contexts": {
     "entities": {
      "events": [
-      "midterm elections"
+      "Alabama political fundraiser"
      ],
      "organizations": [
-      "X"
+      "Pro Football Talk"
      ],
      "people": [
-      "Pete Hoekstra",
-      "Donald Trump"
+      "Kirk Herbstreit"
      ],
      "places": [
-      "Montreal"
+      "Alabama"
      ],
      "products": []
     },
@@ -263,12 +267,12 @@
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "In a private Ottawa lunch, U.S. Ambassador Pete Hoekstra told business leaders that Canada might get fingered if Republicans stumble in key races. Canadians fired back with defiance and sharp wit.",
-   "id": "2115404569890971686",
-   "name": "U.S. Ambassador Warns Canada Could Face Blame for GOP Midterm Losses",
-   "summary": "Hoekstra reportedly cautioned that Democratic wins in states like Michigan and Maine could lead President Trump to blame Canada, worsening already tense trade relations marked by tariffs and retaliation. The U.S. Embassy called the remarks taken out of context, insisting Americans alone decide their elections. Canadians responded with humor, from open letters offering to take the blame to jokes ranking it above historic achievements, underscoring frayed ties ahead of the November 3 midterms.",
-   "updated_at": "2026-10-29T04:51:41.000Z",
-   "url": "https://x.com/i/trending/2115404569890971686"
+   "hook": "Kirk Herbstreit took the stage as keynote speaker at a Republican PAC dinner in Alabama, just weeks after insisting he stays out of politics and right down the middle.",
+   "id": "2115482520712004011",
+   "name": "Kirk Herbstreit Headlines Republican Fundraiser After Claiming Political Neutrality",
+   "summary": "On October 21, ESPN analyst Kirk Herbstreit headlined a fundraiser for the Business Council of Alabama\u2019s Progress PAC, which supports pro-business candidates and donated $155,000 to Sen. Tommy Tuberville\u2019s gubernatorial campaign the next day. This came after Herbstreit told Mississippi Today in September that he doesn\u2019t get into politics, calling himself an independent 'for America' who doesn\u2019t pick sides. The appearance, detailed first in David Covucci\u2019s FOIAball newsletter, drew divided reactions\u2014some labeled it hypocritical, while others saw it as typical for his leanings and questioned uneven scrutiny of sports figures\u2019 personal activities.",
+   "updated_at": "2026-10-29T06:00:23.000Z",
+   "url": "https://x.com/i/trending/2115482520712004011"
   },
   {
    "category": "News",
