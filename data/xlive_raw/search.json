@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T18:41:30Z",
+ "fetched_at": "2026-10-29T19:13:44Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T15:41:00Z",
+  "start_time": "2026-10-29T16:13:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -20,14 +20,32 @@
    "id": "2115853315452109033",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 275,
-    "like_count": 4,
+    "impression_count": 336,
+    "like_count": 5,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 2
    },
    "text": "Putin, Burundian President &amp; AU Chairman Ndayishimiye Hold Press Conference Following Russia-Africa Summit Plenary https://t.co/JoAv7yrkjJ",
    "url": "https://x.com/sputnik_africa/status/2115853315452109033"
+  },
+  {
+   "author_id": "23642374",
+   "created_at": "2026-10-29T19:11:29.000Z",
+   "edit_history_tweet_ids": [
+    "2115884244660801705"
+   ],
+   "id": "2115884244660801705",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 1733,
+    "like_count": 21,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Seahawks Press Conference - October 29, 2026 https://t.co/NU13LfyVr1",
+   "url": "https://x.com/Seahawks/status/2115884244660801705"
   },
   {
    "author_id": "2651190312",
@@ -38,32 +56,32 @@
    "id": "2115839889422098709",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3558,
-    "like_count": 43,
+    "impression_count": 3712,
+    "like_count": 44,
     "quote_count": 3,
     "reply_count": 3,
-    "retweet_count": 17
+    "retweet_count": 18
    },
    "text": "Tune into the FCC's regularly scheduled press conference: https://t.co/NaixHiUXk8",
    "url": "https://x.com/BrendanCarrFCC/status/2115839889422098709"
   },
   {
-   "author_id": "19834403",
-   "created_at": "2026-10-29T16:52:00.000Z",
+   "author_id": "454122399",
+   "created_at": "2026-10-29T17:57:00.000Z",
    "edit_history_tweet_ids": [
-    "2115849141515379135"
+    "2115865499695538293"
    ],
-   "id": "2115849141515379135",
+   "id": "2115865499695538293",
    "public_metrics": {
-    "bookmark_count": 8,
-    "impression_count": 20647,
-    "like_count": 305,
-    "quote_count": 2,
-    "reply_count": 65,
-    "retweet_count": 41
+    "bookmark_count": 5,
+    "impression_count": 3007,
+    "like_count": 29,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
    },
-   "text": "Mayor Mamdani Holds Press Conference to Make Sanitation Announcement https://t.co/PnFejWxEiz",
-   "url": "https://x.com/NYCMayor/status/2115849141515379135"
+   "text": "Matt Painter Press Conference vs. Gonzaga | Purdue Men's Basketball https://t.co/GBah3ij7NW",
+   "url": "https://x.com/BoilerBall/status/2115865499695538293"
   },
   {
    "author_id": "42548887",
@@ -74,7 +92,7 @@
    "id": "2115860174217040036",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 14,
+    "impression_count": 16,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -84,22 +102,22 @@
    "url": "https://x.com/DiyaTV/status/2115860174217040036"
   },
   {
-   "author_id": "454122399",
-   "created_at": "2026-10-29T17:57:00.000Z",
+   "author_id": "19834403",
+   "created_at": "2026-10-29T16:52:00.000Z",
    "edit_history_tweet_ids": [
-    "2115865499695538293"
+    "2115849141515379135"
    ],
-   "id": "2115865499695538293",
+   "id": "2115849141515379135",
    "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 2156,
-    "like_count": 23,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
+    "bookmark_count": 10,
+    "impression_count": 22215,
+    "like_count": 318,
+    "quote_count": 2,
+    "reply_count": 72,
+    "retweet_count": 43
    },
-   "text": "Matt Painter Press Conference vs. Gonzaga | Purdue Men's Basketball https://t.co/GBah3ij7NW",
-   "url": "https://x.com/BoilerBall/status/2115865499695538293"
+   "text": "Mayor Mamdani Holds Press Conference to Make Sanitation Announcement https://t.co/PnFejWxEiz",
+   "url": "https://x.com/NYCMayor/status/2115849141515379135"
   },
   {
    "author_id": "19383279",
@@ -110,10 +128,10 @@
    "id": "2115842372927938757",
    "public_metrics": {
     "bookmark_count": 17,
-    "impression_count": 20057,
-    "like_count": 79,
+    "impression_count": 20622,
+    "like_count": 82,
     "quote_count": 2,
-    "reply_count": 28,
+    "reply_count": 29,
     "retweet_count": 7
    },
    "text": "Live Press Conference: 11:30 AM CT: Titans GM Mike Borgonzi and HC Robert Saleh https://t.co/n7kHXHHhUv",
@@ -128,7 +146,7 @@
    "id": "2115845363471143050",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1029,
+    "impression_count": 1069,
     "like_count": 0,
     "quote_count": 1,
     "reply_count": 0,
@@ -146,32 +164,14 @@
    "id": "2115854964572422329",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 13526,
-    "like_count": 7,
+    "impression_count": 13914,
+    "like_count": 8,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
    "text": "LIVE: President Trump Holds Election Rally in South Carolina as Midterm Battle Heats Up | USA | America https://t.co/EqXREdNZfA",
    "url": "https://x.com/ANI/status/2115854964572422329"
-  },
-  {
-   "author_id": "989231",
-   "created_at": "2026-10-29T15:54:36.000Z",
-   "edit_history_tweet_ids": [
-    "2115834695745458251"
-   ],
-   "id": "2115834695745458251",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 698,
-    "like_count": 2,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 3
-   },
-   "text": "Democrat Fraud in Alaska Senate Race. President Trump Speaks. https://t.co/ekQrp5gDIv",
-   "url": "https://x.com/tonykatz/status/2115834695745458251"
   },
   {
    "author_id": "15080288",
@@ -182,7 +182,7 @@
    "id": "2115854143621575047",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 155,
+    "impression_count": 170,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -200,7 +200,7 @@
    "id": "2115842799283089492",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 359,
+    "impression_count": 375,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -208,6 +208,42 @@
    },
    "text": "President Donald Trump delivers remarks during a midterm election rally at 12:30 p.m. ET on Oct. 29 in Rock Hill, South Carolina. https://t.co/RSxd02Owbe",
    "url": "https://x.com/NTDNews/status/2115842799283089492"
+  },
+  {
+   "author_id": "1334358077131276289",
+   "created_at": "2026-10-29T19:00:32.000Z",
+   "edit_history_tweet_ids": [
+    "2115881488168411271"
+   ],
+   "id": "2115881488168411271",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 179,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Man Pretending to be Female Caught on Video Stealing Campaign Signs - CA Politics - News - More https://t.co/sqiW2z5ImA",
+   "url": "https://x.com/OreoExpress/status/2115881488168411271"
+  },
+  {
+   "author_id": "1832972046785228801",
+   "created_at": "2026-10-29T19:07:34.000Z",
+   "edit_history_tweet_ids": [
+    "2115883258399641640"
+   ],
+   "id": "2115883258399641640",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Debate Me - What's Your Beef with TRUMP? https://t.co/KJg1kg990i",
+   "url": "https://x.com/RepAmericaTV/status/2115883258399641640"
   },
   {
    "author_id": "2508068568",
@@ -218,7 +254,7 @@
    "id": "2115840856569860390",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 932,
+    "impression_count": 986,
     "like_count": 1,
     "quote_count": 1,
     "reply_count": 0,
@@ -236,7 +272,7 @@
    "id": "2115851582243815520",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 130,
+    "impression_count": 152,
     "like_count": 6,
     "quote_count": 2,
     "reply_count": 0,
@@ -254,7 +290,7 @@
    "id": "2115856516301623579",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 150,
+    "impression_count": 173,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -264,22 +300,41 @@
    "url": "https://x.com/SiriusXMPatriot/status/2115856516301623579"
   },
   {
-   "author_id": "20791372",
-   "created_at": "2026-10-29T15:59:21.000Z",
+   "author_id": "34001374",
+   "created_at": "2026-10-29T19:00:41.000Z",
    "edit_history_tweet_ids": [
-    "2115835891763531886"
+    "2115881525355151417"
    ],
-   "id": "2115835891763531886",
+   "id": "2115881525355151417",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 743,
+    "impression_count": 87,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1
+    "retweet_count": 3
    },
-   "text": "BREAKING: Details Flood in as Alaska Election at Risk https://t.co/EF1gGENAVb",
-   "url": "https://x.com/ACLJ/status/2115835891763531886"
+   "text": "Israeli President Drops Bombshell: SHIN BET Closes In On Massive Election Sabotage https://t.co/uP4bVrTvkF",
+   "url": "https://x.com/ArminNavabi/status/2115881525355151417"
+  },
+  {
+   "author_id": "16232940",
+   "created_at": "2026-10-29T19:03:56.000Z",
+   "edit_history_tweet_ids": [
+    "2115882241142493374",
+    "2115882342384550154"
+   ],
+   "id": "2115882342384550154",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 111,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Tune in now to The Michael Patrick Leahy Show - your AMERICA FIRST news talk!\n- Watch LIVE here on X \n- Listen on Spotify \n- Listen on WENO AM760 in Nashville \n- Read more at @TheTNStar\nhttps://t.co/oE1j3xVZ5Q",
+   "url": "https://x.com/michaelpleahy/status/2115882342384550154"
   },
   {
    "author_id": "1942927435378388992",
@@ -290,7 +345,7 @@
    "id": "2115867731081966015",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 68,
+    "impression_count": 83,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -308,7 +363,7 @@
    "id": "2115873194511151591",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 31,
+    "impression_count": 37,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -316,78 +371,6 @@
    },
    "text": "🚨 BREAKING NEWS LIVE: World on Edge! Protests, Conflict &amp; Today’s Top Headlines | Havoc Report https://t.co/gKFK9a2uvS",
    "url": "https://x.com/wolf_neve/status/2115873194511151591"
-  },
-  {
-   "author_id": "14505245",
-   "created_at": "2026-10-29T16:01:41.000Z",
-   "edit_history_tweet_ids": [
-    "2115836479691759845"
-   ],
-   "id": "2115836479691759845",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 31386,
-    "like_count": 43,
-    "quote_count": 4,
-    "reply_count": 17,
-    "retweet_count": 18
-   },
-   "text": "ALEX JONES LIVE: US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH https://t.co/bYRT1h4pLI",
-   "url": "https://x.com/infowars/status/2115836479691759845"
-  },
-  {
-   "author_id": "1835652531826913280",
-   "created_at": "2026-10-29T16:00:41.000Z",
-   "edit_history_tweet_ids": [
-    "2115836228377403650"
-   ],
-   "id": "2115836228377403650",
-   "public_metrics": {
-    "bookmark_count": 10,
-    "impression_count": 33670,
-    "like_count": 88,
-    "quote_count": 6,
-    "reply_count": 5,
-    "retweet_count": 28
-   },
-   "text": "US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH https://t.co/Jmi2DGvjnX",
-   "url": "https://x.com/AJNlive/status/2115836228377403650"
-  },
-  {
-   "author_id": "109065990",
-   "created_at": "2026-10-29T15:59:32.000Z",
-   "edit_history_tweet_ids": [
-    "2115835935636013282"
-   ],
-   "id": "2115835935636013282",
-   "public_metrics": {
-    "bookmark_count": 60,
-    "impression_count": 198498,
-    "like_count": 397,
-    "quote_count": 11,
-    "reply_count": 43,
-    "retweet_count": 149
-   },
-   "text": "Thursday LIVE: US And Israel To Launch Joint Strikes On Iran After US Midterms! Trump Declarers Election Emergency! National Guard To Oversee US Election With Cyber Command! Plus, Doomsday Planes Transmit Nuclear War Preparation Codes! MUST-WATCH https://t.co/OVEdI2ppYX",
-   "url": "https://x.com/RealAlexJones/status/2115835935636013282"
-  },
-  {
-   "author_id": "1249578344",
-   "created_at": "2026-10-29T16:03:44.000Z",
-   "edit_history_tweet_ids": [
-    "2115836994786148724"
-   ],
-   "id": "2115836994786148724",
-   "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 1077,
-    "like_count": 25,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "Trump: America Won't Be Bullied By FOREIGN Judge Reyes https://t.co/XdZeTUhu1W",
-   "url": "https://x.com/TheBrancaShow/status/2115836994786148724"
   },
   {
    "author_id": "1843425617993445377",
@@ -398,7 +381,7 @@
    "id": "2115854295145046357",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 10,
+    "impression_count": 11,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -406,24 +389,6 @@
    },
    "text": "Video playing meaning President Trump is about to come on stage. Trump Rally #TrumpRally SC https://t.co/JfYyLuLSdx",
    "url": "https://x.com/KarenDoe50/status/2115854295145046357"
-  },
-  {
-   "author_id": "14336645",
-   "created_at": "2026-10-29T16:00:31.000Z",
-   "edit_history_tweet_ids": [
-    "2115836184547275239"
-   ],
-   "id": "2115836184547275239",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 1364,
-    "like_count": 64,
-    "quote_count": 0,
-    "reply_count": 3,
-    "retweet_count": 22
-   },
-   "text": "LIVE TRUMP RALLY IN SOUTH CAROLINA | Countdown To The Midterms! | And More News! https://t.co/d4WJ8ioXKT",
-   "url": "https://x.com/barrycunningham/status/2115836184547275239"
   },
   {
    "author_id": "1053941908722991105",
@@ -434,7 +399,7 @@
    "id": "2115854098885161272",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 21,
+    "impression_count": 22,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -445,21 +410,57 @@
   },
   {
    "author_id": "1592394953346334720",
-   "created_at": "2026-10-29T16:01:07.000Z",
+   "created_at": "2026-10-29T18:41:27.000Z",
    "edit_history_tweet_ids": [
-    "2115836337236725846"
+    "2115876686407651655"
    ],
-   "id": "2115836337236725846",
+   "id": "2115876686407651655",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 31,
+    "impression_count": 18,
     "like_count": 0,
     "quote_count": 0,
-    "reply_count": 1,
+    "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "https://t.co/FZXOza5vWL \n\nPRESIDENT TRUMP MIDTERM RALLY IN ROCK HILL, SC!",
-   "url": "https://x.com/MyriamCarlyle/status/2115836337236725846"
+   "text": "https://t.co/FZXOza5vWL \n\nPRESIDENT TRUMP MIDTERM RALLY IN ROCK HILL, SC!!",
+   "url": "https://x.com/MyriamCarlyle/status/2115876686407651655"
+  },
+  {
+   "author_id": "1577338277857841152",
+   "created_at": "2026-10-29T17:05:03.000Z",
+   "edit_history_tweet_ids": [
+    "2115852424380563513"
+   ],
+   "id": "2115852424380563513",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 476,
+    "like_count": 15,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 5
+   },
+   "text": "LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26\n\nhttps://t.co/5YfSWaRaYA",
+   "url": "https://x.com/realBruceSnyder/status/2115852424380563513"
+  },
+  {
+   "author_id": "1053941908722991105",
+   "created_at": "2026-10-29T16:22:40.000Z",
+   "edit_history_tweet_ids": [
+    "2115841760140402756"
+   ],
+   "id": "2115841760140402756",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 27,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "President Donald Trump Arrives in South Carolina for Midterm Rally https://t.co/I2WjlSMb0x",
+   "url": "https://x.com/meawwcom/status/2115841760140402756"
   }
  ],
  "users": [
@@ -467,12 +468,12 @@
    "id": "1656622080996024324",
    "name": "Sputnik Africa",
    "public_metrics": {
-    "followers_count": 12910,
+    "followers_count": 12920,
     "following_count": 36,
     "like_count": 117,
     "listed_count": 91,
-    "media_count": 30239,
-    "tweet_count": 36744
+    "media_count": 30240,
+    "tweet_count": 36745
    },
    "username": "sputnik_africa",
    "verified": true,
@@ -484,12 +485,27 @@
    }
   },
   {
+   "id": "23642374",
+   "name": "Seattle Seahawks",
+   "public_metrics": {
+    "followers_count": 2427308,
+    "following_count": 1021,
+    "like_count": 25197,
+    "listed_count": 10046,
+    "media_count": 35779,
+    "tweet_count": 104078
+   },
+   "username": "Seahawks",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
    "id": "2651190312",
    "name": "Brendan Carr",
    "public_metrics": {
-    "followers_count": 195191,
+    "followers_count": 195195,
     "following_count": 3560,
-    "like_count": 21789,
+    "like_count": 21790,
     "listed_count": 1393,
     "media_count": 3509,
     "tweet_count": 10656
@@ -497,36 +513,6 @@
    "username": "BrendanCarrFCC",
    "verified": true,
    "verified_type": "government"
-  },
-  {
-   "id": "19834403",
-   "name": "Mayor Zohran Kwame Mamdani",
-   "public_metrics": {
-    "followers_count": 2660379,
-    "following_count": 108,
-    "like_count": 1381,
-    "listed_count": 6603,
-    "media_count": 11942,
-    "tweet_count": 41323
-   },
-   "username": "NYCMayor",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "42548887",
-   "name": "Diya TV",
-   "public_metrics": {
-    "followers_count": 2564,
-    "following_count": 2025,
-    "like_count": 2745,
-    "listed_count": 79,
-    "media_count": 3539,
-    "tweet_count": 17868
-   },
-   "username": "DiyaTV",
-   "verified": true,
-   "verified_type": "blue"
   },
   {
    "id": "454122399",
@@ -544,10 +530,40 @@
    "verified_type": "blue"
   },
   {
+   "id": "42548887",
+   "name": "Diya TV",
+   "public_metrics": {
+    "followers_count": 2564,
+    "following_count": 2025,
+    "like_count": 2745,
+    "listed_count": 79,
+    "media_count": 3539,
+    "tweet_count": 17869
+   },
+   "username": "DiyaTV",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "19834403",
+   "name": "Mayor Zohran Kwame Mamdani",
+   "public_metrics": {
+    "followers_count": 2660434,
+    "following_count": 108,
+    "like_count": 1381,
+    "listed_count": 6603,
+    "media_count": 11942,
+    "tweet_count": 41323
+   },
+   "username": "NYCMayor",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "19383279",
    "name": "Tennessee Titans",
    "public_metrics": {
-    "followers_count": 1048152,
+    "followers_count": 1048135,
     "following_count": 1875,
     "like_count": 26585,
     "listed_count": 6630,
@@ -564,7 +580,7 @@
    "public_metrics": {
     "followers_count": 18158,
     "following_count": 162,
-    "like_count": 14786,
+    "like_count": 14787,
     "listed_count": 385,
     "media_count": 3970,
     "tweet_count": 18935
@@ -577,42 +593,27 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9491018,
+    "followers_count": 9491020,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7875,
-    "media_count": 751384,
-    "tweet_count": 1182842
+    "media_count": 751385,
+    "tweet_count": 1182844
    },
    "username": "ANI",
    "verified": true,
    "verified_type": "business"
   },
   {
-   "id": "989231",
-   "name": "Tony Katz",
-   "public_metrics": {
-    "followers_count": 43778,
-    "following_count": 2135,
-    "like_count": 25,
-    "listed_count": 531,
-    "media_count": 3944,
-    "tweet_count": 101976
-   },
-   "username": "tonykatz",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "15080288",
    "name": "WCCB Charlotte",
    "public_metrics": {
-    "followers_count": 81907,
+    "followers_count": 81906,
     "following_count": 1521,
     "like_count": 4531,
     "listed_count": 1045,
     "media_count": 23864,
-    "tweet_count": 244438
+    "tweet_count": 244439
    },
    "username": "WCCBCharlotte",
    "verified": true,
@@ -634,15 +635,45 @@
    "verified_type": "business"
   },
   {
+   "id": "1334358077131276289",
+   "name": "Oreo Express",
+   "public_metrics": {
+    "followers_count": 37378,
+    "following_count": 3810,
+    "like_count": 6897,
+    "listed_count": 234,
+    "media_count": 4992,
+    "tweet_count": 35653
+   },
+   "username": "OreoExpress",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1832972046785228801",
+   "name": "Rep America",
+   "public_metrics": {
+    "followers_count": 178,
+    "following_count": 175,
+    "like_count": 351,
+    "listed_count": 1,
+    "media_count": 222,
+    "tweet_count": 467
+   },
+   "username": "RepAmericaTV",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "2508068568",
    "name": "Pat Stedman | Dating & Relationship Coach for Men",
    "public_metrics": {
     "followers_count": 66927,
     "following_count": 1116,
-    "like_count": 152135,
+    "like_count": 152139,
     "listed_count": 481,
     "media_count": 1850,
-    "tweet_count": 68678
+    "tweet_count": 68681
    },
    "username": "Pat_Stedman",
    "verified": true,
@@ -672,24 +703,44 @@
     "like_count": 12530,
     "listed_count": 179,
     "media_count": 4011,
-    "tweet_count": 21184
+    "tweet_count": 21185
    },
    "username": "SiriusXMPatriot",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "20791372",
-   "name": "ACLJ",
+   "id": "34001374",
+   "name": "Armin Navabi",
    "public_metrics": {
-    "followers_count": 187301,
-    "following_count": 138,
-    "like_count": 194,
-    "listed_count": 1141,
-    "media_count": 2533,
-    "tweet_count": 18944
+    "followers_count": 73980,
+    "following_count": 12192,
+    "like_count": 22263,
+    "listed_count": 391,
+    "media_count": 2943,
+    "tweet_count": 14835
    },
-   "username": "ACLJ",
+   "username": "ArminNavabi",
+   "verified": true,
+   "verified_type": "blue",
+   "withheld": {
+    "country_codes": [
+     "IN"
+    ]
+   }
+  },
+  {
+   "id": "16232940",
+   "name": "Michael Patrick Leahy",
+   "public_metrics": {
+    "followers_count": 36749,
+    "following_count": 13734,
+    "like_count": 52,
+    "listed_count": 465,
+    "media_count": 206,
+    "tweet_count": 14410
+   },
+   "username": "michaelpleahy",
    "verified": true,
    "verified_type": "blue"
   },
@@ -714,86 +765,21 @@
    "public_metrics": {
     "followers_count": 1464,
     "following_count": 162,
-    "like_count": 18977,
+    "like_count": 18980,
     "listed_count": 13,
     "media_count": 781,
-    "tweet_count": 19593
+    "tweet_count": 19595
    },
    "username": "wolf_neve",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "14505245",
-   "name": "INFOWARS",
-   "public_metrics": {
-    "followers_count": 703693,
-    "following_count": 1575,
-    "like_count": 22108,
-    "listed_count": 2808,
-    "media_count": 12886,
-    "tweet_count": 77553
-   },
-   "username": "infowars",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1835652531826913280",
-   "name": "Alex Jones Network",
-   "public_metrics": {
-    "followers_count": 368908,
-    "following_count": 356,
-    "like_count": 4837,
-    "listed_count": 588,
-    "media_count": 2461,
-    "tweet_count": 7761
-   },
-   "username": "AJNlive",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "109065990",
-   "name": "Alex Jones",
-   "public_metrics": {
-    "followers_count": 4434900,
-    "following_count": 1125,
-    "like_count": 53715,
-    "listed_count": 12777,
-    "media_count": 25063,
-    "tweet_count": 96176
-   },
-   "username": "RealAlexJones",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1249578344",
-   "name": "Andrew Branca Show",
-   "public_metrics": {
-    "followers_count": 211122,
-    "following_count": 2513,
-    "like_count": 5853,
-    "listed_count": 1146,
-    "media_count": 2997,
-    "tweet_count": 16328
-   },
-   "username": "TheBrancaShow",
-   "verified": true,
-   "verified_type": "blue",
-   "withheld": {
-    "country_codes": [
-     "IN"
-    ]
-   }
-  },
-  {
    "id": "1843425617993445377",
    "name": "Karen Doe",
    "public_metrics": {
     "followers_count": 9439,
-    "following_count": 10360,
+    "following_count": 10361,
     "like_count": 146163,
     "listed_count": 0,
     "media_count": 1129,
@@ -804,21 +790,6 @@
    "verified_type": "none"
   },
   {
-   "id": "14336645",
-   "name": "Barry Cunningham",
-   "public_metrics": {
-    "followers_count": 75663,
-    "following_count": 15280,
-    "like_count": 195086,
-    "listed_count": 755,
-    "media_count": 20343,
-    "tweet_count": 89238
-   },
-   "username": "barrycunningham",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1053941908722991105",
    "name": "MEAWW News",
    "public_metrics": {
@@ -826,8 +797,8 @@
     "following_count": 38,
     "like_count": 13,
     "listed_count": 1,
-    "media_count": 3766,
-    "tweet_count": 4087
+    "media_count": 3768,
+    "tweet_count": 4089
    },
    "username": "meawwcom",
    "verified": true,
@@ -842,9 +813,24 @@
     "like_count": 65871,
     "listed_count": 2,
     "media_count": 637,
-    "tweet_count": 61391
+    "tweet_count": 61393
    },
    "username": "MyriamCarlyle",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1577338277857841152",
+   "name": "Bruce Snyder",
+   "public_metrics": {
+    "followers_count": 11027,
+    "following_count": 2544,
+    "like_count": 6523,
+    "listed_count": 35,
+    "media_count": 22268,
+    "tweet_count": 38519
+   },
+   "username": "realBruceSnyder",
    "verified": true,
    "verified_type": "blue"
   }
