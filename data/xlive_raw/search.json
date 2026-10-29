@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-29T12:40:35Z",
+ "fetched_at": "2026-10-29T13:00:10Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-29T09:40:00Z",
+  "start_time": "2026-10-29T10:00:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -47,14 +47,47 @@
    "id": "2115777098002678223",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 5355,
-    "like_count": 8,
+    "impression_count": 6087,
+    "like_count": 16,
     "quote_count": 0,
     "reply_count": 2,
     "retweet_count": 5
    },
    "text": "The press conference before Le Havre - PSG 💬  \n\nhttps://t.co/tRWV6qcdWX",
    "url": "https://x.com/PSG_English/status/2115777098002678223"
+  },
+  {
+   "author_id": "1473339053575708682",
+   "created_at": "2026-10-29T12:59:20.000Z",
+   "edit_history_tweet_ids": [
+    "2115790587307893186"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Metro Council Minority Caucus Press Conference 10-29-2026",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 81,
+      "expanded_url": "https://x.com/i/broadcasts/1nxeLMNZEdQJX",
+      "start": 58,
+      "status": 200,
+      "title": "Louisville MetroTV",
+      "unwound_url": "https://x.com/i/broadcasts/1nxeLMNZEdQJX",
+      "url": "https://t.co/glcPvwDPdV"
+     }
+    ]
+   },
+   "id": "2115790587307893186",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Metro Council Minority Caucus Press Conference 10-29-2026 https://t.co/glcPvwDPdV",
+   "url": "https://x.com/LouMetroTV/status/2115790587307893186"
   },
   {
    "author_id": "1609327575200923654",
@@ -69,6 +102,18 @@
       "display_url": "x.com/i/broadcasts/1…",
       "end": 60,
       "expanded_url": "https://x.com/i/broadcasts/1qJVmydnzYPGB",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115775639479562240/KLiNVFZE?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115775639479562240/KLiNVFZE?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
       "start": 37,
       "status": 200,
       "title": "Free People Radio",
@@ -80,14 +125,80 @@
    "id": "2115775596785750217",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 25,
-    "like_count": 0,
+    "impression_count": 32,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
    "text": "LIVE - The White House Podcast  🏛️ 🔴 https://t.co/9DC3IShUOj",
    "url": "https://x.com/FreePeopleRadio/status/2115775596785750217"
+  },
+  {
+   "author_id": "1731447196455989248",
+   "created_at": "2026-10-29T12:57:50.000Z",
+   "edit_history_tweet_ids": [
+    "2115790211372491243"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Trump News, Democratic Politics & 2026 Election Updates | TMM S7E124",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 96,
+      "expanded_url": "https://x.com/i/broadcasts/1nGnRBPbavwGO",
+      "start": 73,
+      "status": 200,
+      "title": "2WAY",
+      "unwound_url": "https://x.com/i/broadcasts/1nGnRBPbavwGO",
+      "url": "https://t.co/e9Yqmz9e7e"
+     }
+    ]
+   },
+   "id": "2115790211372491243",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 225,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Trump News, Democratic Politics &amp; 2026 Election Updates | TMM S7E124 https://t.co/e9Yqmz9e7e",
+   "url": "https://x.com/2waytvapp/status/2115790211372491243"
+  },
+  {
+   "author_id": "1215781540073918465",
+   "created_at": "2026-10-29T12:57:50.000Z",
+   "edit_history_tweet_ids": [
+    "2115790212702126129"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Trump News, Democratic Politics & 2026 Election Updates | TMM S7E124",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 96,
+      "expanded_url": "https://x.com/i/broadcasts/1RJZzBavAmaJB",
+      "start": 73,
+      "status": 200,
+      "title": "Walking Duck",
+      "unwound_url": "https://x.com/i/broadcasts/1RJZzBavAmaJB",
+      "url": "https://t.co/jAycQD5YAV"
+     }
+    ]
+   },
+   "id": "2115790212702126129",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Trump News, Democratic Politics &amp; 2026 Election Updates | TMM S7E124 https://t.co/jAycQD5YAV",
+   "url": "https://x.com/Walkingduckprod/status/2115790212702126129"
   },
   {
    "author_id": "104872280",
@@ -132,7 +243,7 @@
    "id": "2115775896447807897",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1131,
+    "impression_count": 1239,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -140,51 +251,6 @@
    },
    "text": "🚨 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 28-10-26 | #CitiNewsroom https://t.co/Zyb1RrRKYb",
    "url": "https://x.com/Citi973/status/2115775896447807897"
-  },
-  {
-   "author_id": "61011257",
-   "created_at": "2026-10-29T12:11:49.000Z",
-   "edit_history_tweet_ids": [
-    "2115778631616057370"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 88,
-      "expanded_url": "https://x.com/i/broadcasts/1yxBePXmDzYJN",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115776109371588608/91Na2j-L?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115776109371588608/91Na2j-L?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 65,
-      "status": 200,
-      "title": "RSBN 🇺🇸",
-      "unwound_url": "https://x.com/i/broadcasts/1yxBePXmDzYJN",
-      "url": "https://t.co/y4zdMExXVe"
-     }
-    ]
-   },
-   "id": "2115778631616057370",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 8,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🚨LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26 https://t.co/y4zdMExXVe",
-   "url": "https://x.com/realjamesrossi/status/2115778631616057370"
   },
   {
    "author_id": "4041824789",
@@ -222,14 +288,92 @@
    "id": "2115776107085709656",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 4490,
-    "like_count": 39,
+    "impression_count": 5233,
+    "like_count": 60,
     "quote_count": 1,
     "reply_count": 4,
-    "retweet_count": 19
+    "retweet_count": 29
    },
    "text": "LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26 https://t.co/87Bc5yD1Bh",
    "url": "https://x.com/RSBNetwork/status/2115776107085709656"
+  },
+  {
+   "author_id": "61011257",
+   "created_at": "2026-10-29T12:11:49.000Z",
+   "edit_history_tweet_ids": [
+    "2115778631616057370"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 88,
+      "expanded_url": "https://x.com/i/broadcasts/1yxBePXmDzYJN",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115776109371588608/91Na2j-L?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115776109371588608/91Na2j-L?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 65,
+      "status": 200,
+      "title": "RSBN 🇺🇸",
+      "unwound_url": "https://x.com/i/broadcasts/1yxBePXmDzYJN",
+      "url": "https://t.co/y4zdMExXVe"
+     }
+    ]
+   },
+   "id": "2115778631616057370",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚨LIVE: President Trump Holds a Rally in Rock Hill, SC - 10/29/26 https://t.co/y4zdMExXVe",
+   "url": "https://x.com/realjamesrossi/status/2115778631616057370"
+  },
+  {
+   "author_id": "1519441963262484480",
+   "created_at": "2026-10-29T12:57:07.000Z",
+   "edit_history_tweet_ids": [
+    "2115790030166008260"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🚨 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate 🥩",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 119,
+      "expanded_url": "https://x.com/i/broadcasts/1vJpPNMwQEgJE",
+      "start": 96,
+      "status": 200,
+      "title": "🪶Native Patriot 🇺🇸",
+      "unwound_url": "https://x.com/i/broadcasts/1vJpPNMwQEgJE",
+      "url": "https://t.co/0C0dizQ5jX"
+     }
+    ]
+   },
+   "id": "2115790030166008260",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 410,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚨 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate 🥩 https://t.co/0C0dizQ5jX",
+   "url": "https://x.com/LaNativePatriot/status/2115790030166008260"
   },
   {
    "author_id": "1842411061586120704",
@@ -267,7 +411,7 @@
    "id": "2115777362071835077",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3,
+    "impression_count": 5,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -275,6 +419,39 @@
    },
    "text": "Christians Should Keep Law — Prove Me Wrong (LIVE DEBATE) https://t.co/UfTnj36c6t",
    "url": "https://x.com/NazareneRemnant/status/2115777362071835077"
+  },
+  {
+   "author_id": "1610405213080522754",
+   "created_at": "2026-10-29T12:57:07.000Z",
+   "edit_history_tweet_ids": [
+    "2115790029402636493"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🚨 RFK Jr. & FDA: Preparedness Fears, Cancer Immunotherapy Hope & Saturated Fat Debate 🥩",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 119,
+      "expanded_url": "https://x.com/i/broadcasts/1yKAPwjRByzxb",
+      "start": 96,
+      "status": 200,
+      "title": "The Patriots Prayer Network",
+      "unwound_url": "https://x.com/i/broadcasts/1yKAPwjRByzxb",
+      "url": "https://t.co/35DuVzyJYH"
+     }
+    ]
+   },
+   "id": "2115790029402636493",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 47,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚨 RFK Jr. &amp; FDA: Preparedness Fears, Cancer Immunotherapy Hope &amp; Saturated Fat Debate 🥩 https://t.co/35DuVzyJYH",
+   "url": "https://x.com/ThePatriotsPray/status/2115790029402636493"
   },
   {
    "author_id": "244141894",
@@ -300,7 +477,7 @@
    "id": "2115776445037637832",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 14,
+    "impression_count": 36,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -407,7 +584,7 @@
    "id": "2115746734286774646",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 84,
+    "impression_count": 93,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -452,10 +629,10 @@
    "id": "2115776807987446197",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 102,
+    "impression_count": 155,
     "like_count": 0,
     "quote_count": 0,
-    "reply_count": 0,
+    "reply_count": 1,
     "retweet_count": 0
    },
    "text": "Daily Memphian’s Otis Sanford Says Brent Taylor ‘Unfit For Congress’ https://t.co/JdicYrx5jW",
@@ -514,7 +691,7 @@
    "id": "2115767519806136388",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1912,
+    "impression_count": 1962,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -559,7 +736,7 @@
    "id": "2115765995755503719",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 177,
+    "impression_count": 195,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -567,6 +744,39 @@
    },
    "text": "Israel Election Fight. Is Serbia's Student List A US Puppet? https://t.co/4q7jb4yqAf",
    "url": "https://x.com/JamarlThomas/status/2115765995755503719"
+  },
+  {
+   "author_id": "85890439",
+   "created_at": "2026-10-29T12:32:37.000Z",
+   "edit_history_tweet_ids": [
+    "2115783863754756370"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Am I A YouTube Grifter?! Part 38 | Sam Wilson Is Captain America | Reaction",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 99,
+      "expanded_url": "https://x.com/i/broadcasts/1pJkOXkaqYAJj",
+      "start": 76,
+      "status": 200,
+      "title": "Dre Mac",
+      "unwound_url": "https://x.com/i/broadcasts/1pJkOXkaqYAJj",
+      "url": "https://t.co/UcnUkueTD4"
+     }
+    ]
+   },
+   "id": "2115783863754756370",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 15,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "Am I A YouTube Grifter?! Part 38 | Sam Wilson Is Captain America | Reaction https://t.co/UcnUkueTD4",
+   "url": "https://x.com/TheDreMacShow/status/2115783863754756370"
   },
   {
    "author_id": "2544014684",
@@ -604,7 +814,7 @@
    "id": "2115753674362483169",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 35,
+    "impression_count": 37,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -614,82 +824,49 @@
    "url": "https://x.com/kimraesmith/status/2115753674362483169"
   },
   {
-   "author_id": "1587574471627608064",
-   "created_at": "2026-10-29T09:54:57.000Z",
+   "author_id": "1530530365",
+   "created_at": "2026-10-29T12:48:08.000Z",
    "edit_history_tweet_ids": [
-    "2115744186284859549"
+    "2115787768081387602"
    ],
    "entities": {
     "urls": [
      {
-      "description": "We Can't Vote Anti-American & Expect America To Survive",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 83,
-      "expanded_url": "https://x.com/i/broadcasts/1qGoNYlbPPXKv",
+      "description": "LIVE: Link:NYC",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 221,
+      "expanded_url": "https://x.com/i/broadcasts/2VNmnlZRYKLYyd",
       "images": [
        {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115760369918697472/MPQnkJqC?format=jpg&name=orig",
-        "width": 1280
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2115787080110419969/Lmsp_0BX?format=jpg&name=orig",
+        "width": 1920
        },
        {
         "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115760369918697472/MPQnkJqC?format=jpg&name=150x150",
+        "url": "https://pbs.twimg.com/news_img/2115787080110419969/Lmsp_0BX?format=jpg&name=150x150",
         "width": 150
        }
       ],
-      "start": 60,
+      "start": 198,
       "status": 200,
-      "title": "The Chris Salcedo Show",
-      "unwound_url": "https://x.com/i/broadcasts/1qGoNYlbPPXKv",
-      "url": "https://t.co/GnG0YyeVqe"
+      "title": "Chainlink",
+      "unwound_url": "https://x.com/i/broadcasts/2VNmnlZRYKLYyd",
+      "url": "https://t.co/ipPu2hHI6p"
      }
     ]
    },
-   "id": "2115744186284859549",
+   "id": "2115787768081387602",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 778,
-    "like_count": 36,
-    "quote_count": 0,
-    "reply_count": 1,
+    "bookmark_count": 5,
+    "impression_count": 9598,
+    "like_count": 81,
+    "quote_count": 2,
+    "reply_count": 8,
     "retweet_count": 7
    },
-   "text": "We Can't Vote Anti-American &amp; Expect America To Survive https://t.co/GnG0YyeVqe",
-   "url": "https://x.com/CSalcedoShow/status/2115744186284859549"
-  },
-  {
-   "author_id": "85890439",
-   "created_at": "2026-10-29T12:32:37.000Z",
-   "edit_history_tweet_ids": [
-    "2115783863754756370"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Am I A YouTube Grifter?! Part 38 | Sam Wilson Is Captain America | Reaction",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 99,
-      "expanded_url": "https://x.com/i/broadcasts/1pJkOXkaqYAJj",
-      "start": 76,
-      "status": 200,
-      "title": "Dre Mac",
-      "unwound_url": "https://x.com/i/broadcasts/1pJkOXkaqYAJj",
-      "url": "https://t.co/UcnUkueTD4"
-     }
-    ]
-   },
-   "id": "2115783863754756370",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 10,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Am I A YouTube Grifter?! Part 38 | Sam Wilson Is Captain America | Reaction https://t.co/UcnUkueTD4",
-   "url": "https://x.com/TheDreMacShow/status/2115783863754756370"
+   "text": "The day has come. \n\nToday, leaders from DTCC, Swift, ICE, Fidelity, BlackRock, Bank of America, and many more take center stage at Link:NYC to discuss how global finance moves onchain.\n\nWatch live: https://t.co/ipPu2hHI6p",
+   "url": "https://x.com/chainlink/status/2115787768081387602"
   },
   {
    "author_id": "1705649608964091904",
@@ -813,7 +990,7 @@
    "id": "2115745466533204231",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 62,
+    "impression_count": 65,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -858,7 +1035,7 @@
    "id": "2115758389141622844",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 344,
+    "impression_count": 347,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -866,84 +1043,6 @@
    },
    "text": "Sandesh News https://t.co/JwFxGdaGHL",
    "url": "https://x.com/sandeshnews/status/2115758389141622844"
-  },
-  {
-   "author_id": "2067872109674557440",
-   "created_at": "2026-10-29T10:01:17.000Z",
-   "edit_history_tweet_ids": [
-    "2115745782343299145"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Fleetwood AWAITS! Owners Cash INJECTION! NUFC Morning News!",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 83,
-      "expanded_url": "https://x.com/i/broadcasts/1dxYlaZLmgXJX",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115745825364299777/3fjx5Y9b?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115745825364299777/3fjx5Y9b?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 60,
-      "status": 200,
-      "title": "The Toon Review",
-      "unwound_url": "https://x.com/i/broadcasts/1dxYlaZLmgXJX",
-      "url": "https://t.co/1FnOX7gDih"
-     }
-    ]
-   },
-   "id": "2115745782343299145",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 159,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Fleetwood AWAITS! Owners Cash INJECTION! NUFC Morning News! https://t.co/1FnOX7gDih",
-   "url": "https://x.com/thetoonreviewYT/status/2115745782343299145"
-  },
-  {
-   "author_id": "1819442308678340609",
-   "created_at": "2026-10-29T10:55:30.000Z",
-   "edit_history_tweet_ids": [
-    "2115759425088884740"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Wake N Bake B4 Work and Weed News LIVE!!!!!",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 69,
-      "expanded_url": "https://x.com/i/broadcasts/1RKZzBavyddKB",
-      "start": 46,
-      "status": 200,
-      "title": "Cannabis and Coffee Live",
-      "unwound_url": "https://x.com/i/broadcasts/1RKZzBavyddKB",
-      "url": "https://t.co/v4gm4H6NKm"
-     }
-    ]
-   },
-   "id": "2115759425088884740",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 49,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Wake  N Bake  B4 Work and Weed News LIVE!!!!! https://t.co/v4gm4H6NKm",
-   "url": "https://x.com/CandC420/status/2115759425088884740"
   },
   {
    "author_id": "1339166129110065152",
@@ -981,92 +1080,14 @@
    "id": "2115775647792710103",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2980,
-    "like_count": 4,
+    "impression_count": 3518,
+    "like_count": 6,
     "quote_count": 0,
-    "reply_count": 1,
+    "reply_count": 4,
     "retweet_count": 3
    },
    "text": "GB News https://t.co/j8Lt40FMwA",
    "url": "https://x.com/GBNEWS/status/2115775647792710103"
-  },
-  {
-   "author_id": "2530363285",
-   "created_at": "2026-10-29T12:02:48.000Z",
-   "edit_history_tweet_ids": [
-    "2115776360488800293"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: News Central || 29-10-2026",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 56,
-      "expanded_url": "https://x.com/i/broadcasts/1yJAPwjRvnaGb",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115776363424821248/y4mfTYaA?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115776363424821248/y4mfTYaA?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 33,
-      "status": 200,
-      "title": "#TV3GH",
-      "unwound_url": "https://x.com/i/broadcasts/1yJAPwjRvnaGb",
-      "url": "https://t.co/XGLUJew2fl"
-     }
-    ]
-   },
-   "id": "2115776360488800293",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 2315,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "LIVE: News Central || 29-10-2026 https://t.co/XGLUJew2fl",
-   "url": "https://x.com/tv3_ghana/status/2115776360488800293"
-  },
-  {
-   "author_id": "15555396",
-   "created_at": "2026-10-29T12:01:47.000Z",
-   "edit_history_tweet_ids": [
-    "2115776106364055724"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "The Valley's Morning News 10/29/26",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 58,
-      "expanded_url": "https://x.com/i/broadcasts/2lgWgANPLbLWWW",
-      "start": 35,
-      "status": 200,
-      "title": "710 KURV",
-      "unwound_url": "https://x.com/i/broadcasts/2lgWgANPLbLWWW",
-      "url": "https://t.co/ywfQ6Y7qiu"
-     }
-    ]
-   },
-   "id": "2115776106364055724",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 18,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "The Valley's Morning News 10/29/26 https://t.co/ywfQ6Y7qiu",
-   "url": "https://x.com/710KURV/status/2115776106364055724"
   },
   {
    "author_id": "1646087345127690240",
@@ -1114,139 +1135,94 @@
    "url": "https://x.com/StarAsiatvHD/status/2115770672525852683"
   },
   {
-   "author_id": "1646087345127690240",
-   "created_at": "2026-10-29T12:38:51.000Z",
+   "author_id": "1948718721641381888",
+   "created_at": "2026-10-29T11:23:59.000Z",
    "edit_history_tweet_ids": [
-    "2115785432109637882"
+    "2115766591665164572"
    ],
    "entities": {
     "urls": [
      {
-      "description": "News Bulletin Star Asia Tv Live 🔴",
+      "description": "Catalyst Scalpers",
       "display_url": "x.com/i/broadcasts/2…",
-      "end": 57,
-      "expanded_url": "https://x.com/i/broadcasts/2OdKdBkqQVyXby",
+      "end": 67,
+      "expanded_url": "https://x.com/i/broadcasts/2EmgmOYPKNKErK",
       "images": [
        {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115785474631499776/J3MyMljj?format=jpg&name=orig",
-        "width": 1280
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2115766594676596736/KXqmKYEq?format=jpg&name=orig",
+        "width": 1200
        },
        {
         "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115785474631499776/J3MyMljj?format=jpg&name=150x150",
+        "url": "https://pbs.twimg.com/news_img/2115766594676596736/KXqmKYEq?format=jpg&name=150x150",
         "width": 150
        }
       ],
-      "start": 34,
+      "start": 44,
       "status": 200,
-      "title": "Star Asia Tv",
-      "unwound_url": "https://x.com/i/broadcasts/2OdKdBkqQVyXby",
-      "url": "https://t.co/fT7RXm8d3V"
+      "title": "Catalyst Scalpers",
+      "unwound_url": "https://x.com/i/broadcasts/2EmgmOYPKNKErK",
+      "url": "https://t.co/iPWO09jLkC"
      }
     ]
    },
-   "id": "2115785432109637882",
+   "id": "2115766591665164572",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1,
+    "impression_count": 4,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News Bulletin Star Asia Tv Live 🔴 https://t.co/fT7RXm8d3V",
-   "url": "https://x.com/StarAsiatvHD/status/2115785432109637882"
+   "text": "News Catalysts &amp; Live Trade Breakdowns \nhttps://t.co/iPWO09jLkC",
+   "url": "https://x.com/CatalystScalp/status/2115766591665164572"
   },
   {
-   "author_id": "1705649608964091904",
-   "created_at": "2026-10-29T11:30:05.000Z",
+   "author_id": "2530363285",
+   "created_at": "2026-10-29T12:02:48.000Z",
    "edit_history_tweet_ids": [
-    "2115768128466792746"
+    "2115776360488800293"
    ],
    "entities": {
     "urls": [
      {
-      "description": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪",
+      "description": "LIVE: News Central || 29-10-2026",
       "display_url": "x.com/i/broadcasts/1…",
-      "end": 71,
-      "expanded_url": "https://x.com/i/broadcasts/1qxoNYlbOlzJv",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2115768170929889280/zT6maFpa?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115768170929889280/zT6maFpa?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 48,
-      "status": 200,
-      "title": "Founder Redemption Party",
-      "unwound_url": "https://x.com/i/broadcasts/1qxoNYlbOlzJv",
-      "url": "https://t.co/8teYH8SqZd"
-     }
-    ]
-   },
-   "id": "2115768128466792746",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 35,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪 https://t.co/8teYH8SqZd",
-   "url": "https://x.com/itsourturnrp/status/2115768128466792746"
-  },
-  {
-   "author_id": "714377713",
-   "created_at": "2026-10-29T12:01:04.000Z",
-   "edit_history_tweet_ids": [
-    "2115775927397634281"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "MIDDAY NEWS 29/10/26",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 44,
-      "expanded_url": "https://x.com/i/broadcasts/1rxmqpBDWXLxy",
+      "end": 56,
+      "expanded_url": "https://x.com/i/broadcasts/1yJAPwjRvnaGb",
       "images": [
        {
         "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2115775930501312512/QsgueQqE?format=jpg&name=orig",
+        "url": "https://pbs.twimg.com/news_img/2115776363424821248/y4mfTYaA?format=jpg&name=orig",
         "width": 1280
        },
        {
         "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115775930501312512/QsgueQqE?format=jpg&name=150x150",
+        "url": "https://pbs.twimg.com/news_img/2115776363424821248/y4mfTYaA?format=jpg&name=150x150",
         "width": 150
        }
       ],
-      "start": 21,
+      "start": 33,
       "status": 200,
-      "title": "UTV Ghana",
-      "unwound_url": "https://x.com/i/broadcasts/1rxmqpBDWXLxy",
-      "url": "https://t.co/tnmzZZJT2U"
+      "title": "#TV3GH",
+      "unwound_url": "https://x.com/i/broadcasts/1yJAPwjRvnaGb",
+      "url": "https://t.co/XGLUJew2fl"
      }
     ]
    },
-   "id": "2115775927397634281",
+   "id": "2115776360488800293",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 955,
-    "like_count": 0,
+    "bookmark_count": 1,
+    "impression_count": 2585,
+    "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "MIDDAY NEWS 29/10/26 https://t.co/tnmzZZJT2U",
-   "url": "https://x.com/utvghana/status/2115775927397634281"
+   "text": "LIVE: News Central || 29-10-2026 https://t.co/XGLUJew2fl",
+   "url": "https://x.com/tv3_ghana/status/2115776360488800293"
   }
  ],
  "users": [
@@ -1254,7 +1230,7 @@
    "id": "3001704118",
    "name": "Paris Saint-Germain",
    "public_metrics": {
-    "followers_count": 5434191,
+    "followers_count": 5434193,
     "following_count": 325,
     "like_count": 921,
     "listed_count": 3313,
@@ -1264,6 +1240,21 @@
    "username": "PSG_English",
    "verified": true,
    "verified_type": "business"
+  },
+  {
+   "id": "1473339053575708682",
+   "name": "Louisville MetroTV",
+   "public_metrics": {
+    "followers_count": 427,
+    "following_count": 513,
+    "like_count": 611,
+    "listed_count": 10,
+    "media_count": 2534,
+    "tweet_count": 3072
+   },
+   "username": "LouMetroTV",
+   "verified": true,
+   "verified_type": "blue"
   },
   {
    "id": "1609327575200923654",
@@ -1281,19 +1272,64 @@
    "verified_type": "blue"
   },
   {
+   "id": "1731447196455989248",
+   "name": "2WAY",
+   "public_metrics": {
+    "followers_count": 59899,
+    "following_count": 778,
+    "like_count": 1482,
+    "listed_count": 306,
+    "media_count": 2469,
+    "tweet_count": 5033
+   },
+   "username": "2waytvapp",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1215781540073918465",
+   "name": "Walking Duck",
+   "public_metrics": {
+    "followers_count": 510,
+    "following_count": 1657,
+    "like_count": 451,
+    "listed_count": 5,
+    "media_count": 633,
+    "tweet_count": 2014
+   },
+   "username": "Walkingduckprod",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "104872280",
    "name": "CITI FM 97.3",
    "public_metrics": {
-    "followers_count": 1732981,
+    "followers_count": 1732982,
     "following_count": 528,
     "like_count": 2831,
     "listed_count": 716,
-    "media_count": 177720,
-    "tweet_count": 573755
+    "media_count": 177727,
+    "tweet_count": 573762
    },
    "username": "Citi973",
    "verified": true,
    "verified_type": "blue"
+  },
+  {
+   "id": "4041824789",
+   "name": "RSBN 🇺🇸",
+   "public_metrics": {
+    "followers_count": 1163027,
+    "following_count": 977,
+    "like_count": 12279,
+    "listed_count": 2986,
+    "media_count": 16983,
+    "tweet_count": 49717
+   },
+   "username": "RSBNetwork",
+   "verified": true,
+   "verified_type": "business"
   },
   {
    "id": "61011257",
@@ -1311,19 +1347,19 @@
    "verified_type": "blue"
   },
   {
-   "id": "4041824789",
-   "name": "RSBN 🇺🇸",
+   "id": "1519441963262484480",
+   "name": "🪶Native Patriot 🇺🇸",
    "public_metrics": {
-    "followers_count": 1163022,
-    "following_count": 977,
-    "like_count": 12279,
-    "listed_count": 2986,
-    "media_count": 16982,
-    "tweet_count": 49715
+    "followers_count": 232579,
+    "following_count": 26334,
+    "like_count": 334637,
+    "listed_count": 277,
+    "media_count": 15028,
+    "tweet_count": 80332
    },
-   "username": "RSBNetwork",
+   "username": "LaNativePatriot",
    "verified": true,
-   "verified_type": "business"
+   "verified_type": "blue"
   },
   {
    "id": "1842411061586120704",
@@ -1341,12 +1377,27 @@
    "verified_type": "blue"
   },
   {
+   "id": "1610405213080522754",
+   "name": "The Patriots Prayer Network",
+   "public_metrics": {
+    "followers_count": 39511,
+    "following_count": 23107,
+    "like_count": 14625,
+    "listed_count": 43,
+    "media_count": 4038,
+    "tweet_count": 20477
+   },
+   "username": "ThePatriotsPray",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "244141894",
    "name": "Bill Adams - Wicked Radio Podcast",
    "public_metrics": {
     "followers_count": 2165,
     "following_count": 2756,
-    "like_count": 133780,
+    "like_count": 133782,
     "listed_count": 16,
     "media_count": 1040,
     "tweet_count": 8817
@@ -1389,12 +1440,12 @@
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6275053,
+    "followers_count": 6275039,
     "following_count": 83,
     "like_count": 4431,
     "listed_count": 7342,
-    "media_count": 581625,
-    "tweet_count": 1542607
+    "media_count": 581633,
+    "tweet_count": 1542618
    },
    "username": "IndiaToday",
    "verified": true,
@@ -1416,36 +1467,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "2544014684",
-   "name": "KimsCoffeeTalk",
-   "public_metrics": {
-    "followers_count": 175,
-    "following_count": 170,
-    "like_count": 1565,
-    "listed_count": 0,
-    "media_count": 362,
-    "tweet_count": 1416
-   },
-   "username": "kimraesmith",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1587574471627608064",
-   "name": "The Chris Salcedo Show",
-   "public_metrics": {
-    "followers_count": 36501,
-    "following_count": 185,
-    "like_count": 4054,
-    "listed_count": 105,
-    "media_count": 2806,
-    "tweet_count": 33285
-   },
-   "username": "CSalcedoShow",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "85890439",
    "name": "Dre Mac",
    "public_metrics": {
@@ -1459,6 +1480,36 @@
    "username": "TheDreMacShow",
    "verified": true,
    "verified_type": "blue"
+  },
+  {
+   "id": "2544014684",
+   "name": "KimsCoffeeTalk",
+   "public_metrics": {
+    "followers_count": 175,
+    "following_count": 170,
+    "like_count": 1574,
+    "listed_count": 0,
+    "media_count": 362,
+    "tweet_count": 1417
+   },
+   "username": "kimraesmith",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1530530365",
+   "name": "Chainlink",
+   "public_metrics": {
+    "followers_count": 1390464,
+    "following_count": 25,
+    "like_count": 4309,
+    "listed_count": 7217,
+    "media_count": 4800,
+    "tweet_count": 13279
+   },
+   "username": "chainlink",
+   "verified": true,
+   "verified_type": "business"
   },
   {
    "id": "1705649608964091904",
@@ -1479,44 +1530,14 @@
    "id": "85814753",
    "name": "Sandesh",
    "public_metrics": {
-    "followers_count": 520559,
+    "followers_count": 520561,
     "following_count": 2,
     "like_count": 1746,
     "listed_count": 379,
-    "media_count": 223389,
-    "tweet_count": 463416
+    "media_count": 223400,
+    "tweet_count": 463427
    },
    "username": "sandeshnews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2067872109674557440",
-   "name": "The Toon Review",
-   "public_metrics": {
-    "followers_count": 556,
-    "following_count": 361,
-    "like_count": 913,
-    "listed_count": 2,
-    "media_count": 111,
-    "tweet_count": 672
-   },
-   "username": "thetoonreviewYT",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1819442308678340609",
-   "name": "Cannabis and Coffee Live",
-   "public_metrics": {
-    "followers_count": 1277,
-    "following_count": 713,
-    "like_count": 3477,
-    "listed_count": 1,
-    "media_count": 407,
-    "tweet_count": 2877
-   },
-   "username": "CandC420",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1524,46 +1545,16 @@
    "id": "1339166129110065152",
    "name": "GB News",
    "public_metrics": {
-    "followers_count": 991033,
+    "followers_count": 991036,
     "following_count": 50,
     "like_count": 0,
     "listed_count": 2723,
     "media_count": 170821,
-    "tweet_count": 330455
+    "tweet_count": 330460
    },
    "username": "GBNEWS",
    "verified": true,
    "verified_type": "business"
-  },
-  {
-   "id": "2530363285",
-   "name": "#TV3GH",
-   "public_metrics": {
-    "followers_count": 2935781,
-    "following_count": 120,
-    "like_count": 15586,
-    "listed_count": 653,
-    "media_count": 134289,
-    "tweet_count": 326339
-   },
-   "username": "tv3_ghana",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "15555396",
-   "name": "710 KURV",
-   "public_metrics": {
-    "followers_count": 5331,
-    "following_count": 151,
-    "like_count": 104,
-    "listed_count": 105,
-    "media_count": 21206,
-    "tweet_count": 66830
-   },
-   "username": "710KURV",
-   "verified": true,
-   "verified_type": "blue"
   },
   {
    "id": "1646087345127690240",
@@ -1573,25 +1564,40 @@
     "following_count": 1,
     "like_count": 35,
     "listed_count": 1,
-    "media_count": 4682,
-    "tweet_count": 4790
+    "media_count": 4683,
+    "tweet_count": 4791
    },
    "username": "StarAsiatvHD",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "714377713",
-   "name": "UTV Ghana",
+   "id": "1948718721641381888",
+   "name": "Catalyst Scalpers",
    "public_metrics": {
-    "followers_count": 1493166,
-    "following_count": 205,
-    "like_count": 270,
-    "listed_count": 424,
-    "media_count": 60007,
-    "tweet_count": 92459
+    "followers_count": 58,
+    "following_count": 93,
+    "like_count": 209,
+    "listed_count": 0,
+    "media_count": 37,
+    "tweet_count": 336
    },
-   "username": "utvghana",
+   "username": "CatalystScalp",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2530363285",
+   "name": "#TV3GH",
+   "public_metrics": {
+    "followers_count": 2935781,
+    "following_count": 120,
+    "like_count": 15586,
+    "listed_count": 653,
+    "media_count": 134293,
+    "tweet_count": 326343
+   },
+   "username": "tv3_ghana",
    "verified": true,
    "verified_type": "blue"
   }
