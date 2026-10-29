@@ -2,22 +2,22 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-10-29T09:29:55Z",
+  "updated_at": "2026-10-29T09:33:00Z",
   "last_x_check": {
-    "at": "2026-10-29T09:29:55Z",
+    "at": "2026-10-29T09:33:00Z",
     "new_posts": 0,
-    "xlive_refreshed": false,
-    "trending_refreshed": true,
+    "xlive_refreshed": true,
+    "trending_refreshed": false,
     "tv_refreshed": false,
     "following_refreshed": false,
     "skipped": {
       "following": "featured_accounts empty",
-      "xlive": "under 15 min old",
+      "trending": "under 60 min old",
       "tv": "under 3 h old"
     },
     "published": true,
-    "note": "No new posts; trending refreshed and published"
+    "note": "No new posts; X Live refreshed and published"
   },
-  "last_publish": "Trending on X",
-  "x_reads_left_today": "928 of 1000 (resets 2026-10-30T00:00Z)"
+  "last_publish": "X Live",
+  "x_reads_left_today": "926 of 1000 (resets 2026-10-30T00:00Z)"
 }
