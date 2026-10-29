@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-29T08:24:46Z",
- "searched_at": "2026-10-29T08:24:30Z",
+ "built_at": "2026-10-29T08:40:26Z",
+ "searched_at": "2026-10-29T08:40:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,6 +35,16 @@
    "assumed_live_until": "2026-10-29T10:21:17Z"
   },
   {
+   "post_id": "2115723358436524214",
+   "post_url": "https://x.com/HomeSecConsult/status/2115723358436524214",
+   "name": "Patriot Man aka 🎶Shawn Starry🎸🎙️🇺🇸🔥",
+   "username": "HomeSecConsult",
+   "verified_type": "blue",
+   "text": "🚨Michigan Elections: New Evidence of Election Thefts, Control🚨 https://t.co/FMa9L1PhzX",
+   "started_at": "2026-10-29T08:32:11.000Z",
+   "assumed_live_until": "2026-10-29T11:32:11Z"
+  },
+  {
    "post_id": "2115716001253999046",
    "post_url": "https://x.com/ANI/status/2115716001253999046",
    "name": "ANI",
@@ -55,14 +65,14 @@
    "assumed_live_until": "2026-10-29T08:59:58Z"
   },
   {
-   "post_id": "2115692666164048060",
-   "post_url": "https://x.com/IndiaToday/status/2115692666164048060",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
+   "post_id": "2115687816571277602",
+   "post_url": "https://x.com/SputnikInt/status/2115687816571277602",
+   "name": "Sputnik",
+   "username": "SputnikInt",
    "verified_type": "blue",
-   "text": "#LIVE || Take a look at the top news headlines https://t.co/Q1TeWfBy5W",
-   "started_at": "2026-10-29T06:30:13.000Z",
-   "assumed_live_until": "2026-10-29T09:30:13Z"
+   "text": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit https://t.co/4yT52NzEyH",
+   "started_at": "2026-10-29T06:10:57.000Z",
+   "assumed_live_until": "2026-10-29T09:10:57Z"
   },
   {
    "post_id": "2115696321898086692",
@@ -73,16 +83,6 @@
    "text": "LIVE: YSRCP Employees & Pensioners Wing State President Sri Nalamaru Chandra Sekhar Reddy Press Meet https://t.co/v65xMi8bqQ",
    "started_at": "2026-10-29T06:44:45.000Z",
    "assumed_live_until": "2026-10-29T09:44:45Z"
-  },
-  {
-   "post_id": "2115687816571277602",
-   "post_url": "https://x.com/SputnikInt/status/2115687816571277602",
-   "name": "Sputnik",
-   "username": "SputnikInt",
-   "verified_type": "blue",
-   "text": "LIVE NOW: President Putin and Burundi's president take part in the plenary session of the Russia–Africa Summit https://t.co/4yT52NzEyH",
-   "started_at": "2026-10-29T06:10:57.000Z",
-   "assumed_live_until": "2026-10-29T09:10:57Z"
   }
  ]
 }
