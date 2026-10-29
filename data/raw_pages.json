@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T15:04:00Z",
+ "fetched_at": "2026-10-29T15:08:00Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,67 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-10-29T15:06:47.000Z",
+     "edit_history_tweet_ids": [
+      "2115822661200957773"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 29,
+        "id": "1520385351281348608",
+        "start": 13,
+        "username": "CHELLESHOCKEDTM"
+       }
+      ],
+      "urls": [
+       {
+        "description": "🇺🇸Chelle🇺🇸's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1nxeL…",
+        "end": 90,
+        "expanded_url": "https://x.com/i/spaces/1nxeLMNZvDbJX",
+        "images": [
+         {
+          "height": 630,
+          "url": "https://pbs.twimg.com/news_img/2115806469006225408/cr-ypyrV?format=jpg&name=orig",
+          "width": 1200
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2115806469006225408/cr-ypyrV?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 67,
+        "status": 200,
+        "title": "Scheduled: Show Up, Mississippi: Pastor Dan Carr on the Midterm Elections in Miss / X",
+        "unwound_url": "https://x.com/i/spaces/1nxeLMNZvDbJX",
+        "url": "https://t.co/rCfiBYINn8"
+       }
+      ]
+     },
+     "id": "2115822661200957773",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/rCfiBYINn8",
+     "url": "https://x.com/i/status/2115822661200957773"
+    }
+   ],
+   "meta": {
+    "newest_id": "2115822661200957773",
+    "oldest_id": "2115822661200957773",
+    "result_count": 1
+   }
+  },
   {
    "data": [
     {
