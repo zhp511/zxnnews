@@ -2,20 +2,22 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-10-29T05:17:01Z",
+  "updated_at": "2026-10-29T05:53:00Z",
   "last_x_check": {
-    "at": "2026-10-29T05:17:01Z",
-    "new_posts": 20,
+    "at": "2026-10-29T05:53:00Z",
+    "new_posts": 0,
     "xlive_refreshed": true,
-    "trending_refreshed": true,
-    "tv_refreshed": true,
+    "trending_refreshed": false,
+    "tv_refreshed": false,
     "following_refreshed": false,
     "skipped": {
-      "following": "featured_accounts empty"
+      "following": "featured_accounts empty",
+      "trending": "under 60 min old",
+      "tv": "under 3 h old"
     },
     "published": true,
-    "note": "20 new posts merged"
+    "note": "X Live refreshed"
   },
-  "last_publish": "Add 20 new posts; refresh trending, TV, X Live",
-  "x_reads_left_today": "996 of 1000 (resets 2026-10-30T00:00Z)"
+  "last_publish": "Refresh X Live",
+  "x_reads_left_today": "988 of 1000 (resets 2026-10-30T00:00Z)"
 }
