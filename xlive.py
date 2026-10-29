@@ -39,6 +39,8 @@ BLOCK = re.compile(r"\b(nfl|mlb|nba|nhl|postgame|pregame|bye week|dodgers|seahaw
                    r"onlyfans|of live|nsfw|18\+|porn|sex|wordle|theme park|crypto|\$[A-Z]{2,6}|exhibition results|"
                    r"giveaway|casino|betting)\b", re.I)
 # Vulgar/obscene posts are never shown on the site (added 2026-10-17 by the refresh routine).
+# Cashtags like $XRP mark crypto/stock promos; the "\$[A-Z]" term inside BLOCK never matched because of its leading \b (fixed 2026-10-18 by the refresh routine).
+CASHTAG = re.compile(r"(?<![\w$])\$[A-Z]{2,6}\b|(?i:\b(xrp|bitcoin|btc|ethereum|solana|dogecoin|memecoin|altcoin)\b)")
 PROFANE = re.compile(r"(f+u+c+k|sh[i1]t\b|bitch|cunt|whore|slut|motherf|\bdick\b|\bcock\b|\bpussy\b|\bfag)", re.I)
 US = re.compile(r"\b(trump|election\w*|ballot|vote|congress|senate|white house|america\w*|maga|charlie kirk|"
                 r"hurricane|isaias|supreme court|governor|politics)\b", re.I)
@@ -61,7 +63,7 @@ def main():
             continue
         text = html.unescape(t.get("text") or "").strip()
         bare = re.sub(r"https?://\S+", "", text)
-        if re.search(r"[\u0900-\u097F]", bare) or BLOCK.search(bare) or PROFANE.search(bare) or not NEWS.search(bare):
+        if re.search(r"[\u0900-\u097F]", bare) or BLOCK.search(bare) or CASHTAG.search(bare) or PROFANE.search(bare) or not NEWS.search(bare):
             continue
         key = re.sub(r"\W+", " ", bare.lower()).strip()[:80]
         if key in seen_text:
