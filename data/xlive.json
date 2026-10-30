@@ -1,29 +1,9 @@
 {
- "built_at": "2026-10-30T22:29:03Z",
- "searched_at": "2026-10-30T22:29:00Z",
+ "built_at": "2026-10-30T22:48:27Z",
+ "searched_at": "2026-10-30T22:48:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2116258151159001098",
-   "post_url": "https://x.com/WhiteHouse/status/2116258151159001098",
-   "name": "The White House",
-   "username": "WhiteHouse",
-   "verified_type": "government",
-   "text": "President Trump Participates in a Pool Spray, October 30, 2026 https://t.co/EPagjlZLXA",
-   "started_at": "2026-10-30T19:57:16.000Z",
-   "assumed_live_until": "2026-10-30T22:57:16Z"
-  },
-  {
-   "post_id": "2116280527506354596",
-   "post_url": "https://x.com/Republicans/status/2116280527506354596",
-   "name": "Republicans",
-   "username": "Republicans",
-   "verified_type": "blue",
-   "text": "Midterm Rally in Daytona, Florida featuring President Donald J. Trump https://t.co/aka78inP1Z",
-   "started_at": "2026-10-30T21:26:11.000Z",
-   "assumed_live_until": "2026-10-31T00:26:11Z"
-  },
   {
    "post_id": "2116279058120237418",
    "post_url": "https://x.com/AgendaFreeTV/status/2116279058120237418",
@@ -75,14 +55,34 @@
    "assumed_live_until": "2026-10-30T23:55:17Z"
   },
   {
-   "post_id": "2116288914327736808",
-   "post_url": "https://x.com/barrycunningham/status/2116288914327736808",
-   "name": "Barry Cunningham",
-   "username": "barrycunningham",
+   "post_id": "2116259438826860922",
+   "post_url": "https://x.com/WarRoomShow/status/2116259438826860922",
+   "name": "War Room Live",
+   "username": "WarRoomShow",
+   "verified_type": "none",
+   "text": "✰✰✰✰✰ War Room LIVE: Blue Wave Incoming? GOP Preps for Potential Midterm Bloodbath, As Dems Lay Out Lawfare Plans If They Win Majority... PLUS, Trump & Melania Welcome Trick-Or-Treaters Amid White House Halloween Celebration – TUNE IN! https://t.co/lKxqa6EePD",
+   "started_at": "2026-10-30T20:02:23.000Z",
+   "assumed_live_until": "2026-10-30T23:02:23Z"
+  },
+  {
+   "post_id": "2116277634208551144",
+   "post_url": "https://x.com/TheRalphRetort/status/2116277634208551144",
+   "name": "Ethan Ralph",
+   "username": "TheRalphRetort",
    "verified_type": "blue",
-   "text": "LIVE TRUMP RALLY TONIGHT IN DAYTONA BEACH!  | And More News! https://t.co/BgYssKrPpW",
-   "started_at": "2026-10-30T21:59:30.000Z",
-   "assumed_live_until": "2026-10-31T00:59:30Z"
+   "text": "KILLSTREAM: James Edwards Live on Trump & The Election + The Weekender https://t.co/6yVsf2uTHD",
+   "started_at": "2026-10-30T21:14:41.000Z",
+   "assumed_live_until": "2026-10-31T00:14:41Z"
+  },
+  {
+   "post_id": "2116282485130879386",
+   "post_url": "https://x.com/magnonewslive/status/2116282485130879386",
+   "name": "MAGNO NEWS LIVE",
+   "username": "magnonewslive",
+   "verified_type": "blue",
+   "text": "🇺🇸 President Trump in Florida | MAGA Majority Force Rally in Daytona Beach [LIVE] https://t.co/tG7hWu9NWn",
+   "started_at": "2026-10-30T21:33:57.000Z",
+   "assumed_live_until": "2026-10-31T00:33:57Z"
   }
  ]
 }
