@@ -2,20 +2,21 @@
  "x_failures": 0,
  "push_failures": 0,
  "last_error": null,
- "updated_at": "2026-10-30T22:30:00Z",
+ "updated_at": "2026-10-30T22:34:00Z",
  "last_x_check": {
-  "at": "2026-10-30T22:29:00Z",
-  "new_posts": 0,
+  "at": "2026-10-30T22:32:30Z",
+  "new_posts": 2,
   "published": true,
   "refreshed": [
-   "xlive"
+   "posts"
   ],
   "skipped": {
    "trending": "<60 min old",
    "following": "featured_accounts empty",
-   "tv": "<3h old"
+   "tv": "<3h old",
+   "xlive": "<15 min old"
   }
  },
- "last_publish": "X Live refresh 2026-10-30T22:29Z",
- "x_reads_left_today": "847 of 1000 (resets 2026-10-31T00:00Z)"
+ "last_publish": "New posts 2026-10-30T22:34Z",
+ "x_reads_left_today": "846 of 1000 (resets 2026-10-31T00:00Z)"
 }
