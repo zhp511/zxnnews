@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T15:52:00Z",
+ "fetched_at": "2026-10-30T16:56:00Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -30,6 +30,9 @@
      "post_id": "2116148225124286662"
     },
     {
+     "post_id": "2116139151430914545"
+    },
+    {
      "post_id": "2116148228840145108"
     },
     {
@@ -37,24 +40,18 @@
     },
     {
      "post_id": "2115930062654500947"
-    },
-    {
-     "post_id": "2116113137841647649"
     }
    ],
    "contexts": {
     "entities": {
-     "events": [],
-     "organizations": [
-      "Republican Party"
+     "events": [
+      "Midterm Elections"
      ],
+     "organizations": [],
      "people": [
-      "John Thune",
-      "Donald Trump"
+      "James Lindsay"
      ],
-     "places": [
-      "United States Senate"
-     ],
+     "places": [],
      "products": []
     },
     "finance": {
@@ -64,7 +61,8 @@
      "teams": []
     },
     "topics": [
-     "Politics"
+     "News",
+     "Elections"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
@@ -79,46 +77,45 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115899510710792257"
+     "post_id": "2115588174927806627"
     },
     {
-     "post_id": "2116004859715699034"
+     "post_id": "2115937164345094524"
     },
     {
-     "post_id": "2116152499237470439"
+     "post_id": "2115909052370665680"
     },
     {
-     "post_id": "2115962939647877165"
+     "post_id": "2115623563440894171"
     },
     {
-     "post_id": "2116135274908393887"
+     "post_id": "2115937164345094524"
     },
     {
-     "post_id": "2115976320488505426"
+     "post_id": "2115909052370665680"
     },
     {
-     "post_id": "2115884848661565644"
+     "post_id": "2116170271694729331"
     },
     {
-     "post_id": "2116160852256579933"
+     "post_id": "2115945374322176149"
     },
     {
-     "post_id": "2116002087410483665"
+     "post_id": "2115944561583489471"
     },
     {
-     "post_id": "2115953659578065291"
+     "post_id": "2116134874981474321"
     }
    ],
    "contexts": {
     "entities": {
-     "events": [
-      "U.S. elections"
+     "events": [],
+     "organizations": [
+      "Democrats",
+      "Republicans"
      ],
-     "organizations": [],
      "people": [],
-     "places": [
-      "United States"
-     ],
+     "places": [],
      "products": []
     },
     "finance": {
@@ -128,16 +125,17 @@
      "teams": []
     },
     "topics": [
+     "News",
      "Elections"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Pastor Josh Howerton reminded followers that until Jesus returns, voters face imperfect choices between fallen and evil candidates. His words opened a flood of heartfelt responses from believers wrestling with their civic duty.",
-   "id": "2116013265008365990",
-   "name": "Christians Debate Voting for the Lesser of Two Evils",
-   "summary": "Howerton argued godly people must sometimes pick the lesser evil to prevent greater harm, drawing thousands of replies that split along biblical lines. Critics like Lizzie Marbach cited Exodus 18:21 for higher standards of able, God-fearing leaders, while Derek Ayala referenced Romans 3:8 against endorsing any evil. Others, including Kurt Schlichter's satirical take, urged pragmatic votes on real stakes like life and liberty, with some finding room for conscience-driven abstention amid analyses calling for faithful engagement over withdrawal.",
-   "updated_at": "2026-10-30T15:50:23.000Z",
-   "url": "https://x.com/i/trending/2116013265008365990"
+   "hook": "Comedian Terrence K. Williams declared his vote for Republicans in Texas, firing back at critics with a simple mantra: 'My Black vote. My choice. My right. Get over it!'",
+   "id": "2116002833426485665",
+   "name": "Black Voters Assert Choice in Backing Republicans This Election",
+   "summary": "Williams explained his straight Republican ballot, including support for Attorney General Ken Paxton, after receiving Democratic mailers, stressing that his vote is his alone. Others voiced frustration with longstanding Democratic loyalty despite unkept promises and highlighted studies showing White women as top beneficiaries of DEI programs. A resurfaced 1989 Trump clip claimed well-educated Black people hold job market advantages, fueling talks on accountability and personal agency ahead of the 2026 midterms, even as surveys show most Black voters still lean Democratic.",
+   "updated_at": "2026-10-30T16:04:34.000Z",
+   "url": "https://x.com/i/trending/2116002833426485665"
   },
   {
    "category": "News",
@@ -400,6 +398,72 @@
    "url": "https://x.com/i/trending/2115482520712004011"
   },
   {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2115541740392174043"
+    },
+    {
+     "post_id": "2115585534072324438"
+    },
+    {
+     "post_id": "2115605152686129276"
+    },
+    {
+     "post_id": "2115988467524260335"
+    },
+    {
+     "post_id": "2115956436354429197"
+    },
+    {
+     "post_id": "2115541740392174043"
+    },
+    {
+     "post_id": "2115585534072324438"
+    },
+    {
+     "post_id": "2115988467524260335"
+    },
+    {
+     "post_id": "2115956436354429197"
+    },
+    {
+     "post_id": "2116018089510793342"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "midterms"
+     ],
+     "organizations": [
+      "Steady State",
+      "CIA",
+      "FBI"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In a two-minute clip, over 450 ex-CIA, FBI, and military leaders speak from their homes, urging voters to stand firm and plan ahead for the November 3 midterms.",
+   "id": "2115662605562106164",
+   "name": "Former Security Officials' Video Urges Voting Amid Backlash",
+   "summary": "The Steady State group, describing itself as nonpartisan defenders of constitutional institutions, released the video calling Americans to vote for democracy and freedom just days before the elections. Supporters praised it as a civic call from seasoned pros, with one former ambassador expressing pride in joining. Critics like journalists Miranda Devine, Walter Kirn, and Lara Logan slammed it harshly, labeling the rhetoric alarming, scripted, and a sign of deep state meddling while questioning the focus on 'democracy' over republic. The split reactions highlight ongoing debates about ex-officials' role in election messaging.",
+   "updated_at": "2026-10-30T14:02:03.000Z",
+   "url": "https://x.com/i/trending/2115662605562106164"
+  },
+  {
    "category": "Other",
    "cluster_posts_results": [
     {
@@ -465,55 +529,49 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115378018235597063"
+     "post_id": "2116129572554998099"
     },
     {
-     "post_id": "2115793001444249884"
+     "post_id": "2116147387584676149"
     },
     {
-     "post_id": "2115438843599950153"
+     "post_id": "2116173393733259630"
     },
     {
-     "post_id": "2115579209481695396"
+     "post_id": "2116132250299355156"
     },
     {
-     "post_id": "2115794304375595453"
+     "post_id": "2116147387584676149"
     },
     {
-     "post_id": "2115600236265750638"
+     "post_id": "2116173393733259630"
     },
     {
-     "post_id": "2115848484934844919"
+     "post_id": "2116176789819257338"
     },
     {
-     "post_id": "2115793001444249884"
+     "post_id": "2116193917339046018"
     },
     {
-     "post_id": "2115378018235597063"
+     "post_id": "2116184687433416915"
     },
     {
-     "post_id": "2115795355476299822"
+     "post_id": "2116183294815637658"
     }
    ],
    "contexts": {
     "entities": {
      "events": [],
      "organizations": [
-      "Inside Elections"
+      "Cook Political Report"
      ],
      "people": [],
      "places": [
-      "Texas",
-      "Ohio",
-      "Iowa",
-      "Kansas",
-      "South Carolina",
-      "Nebraska",
-      "Mississippi",
-      "Louisiana",
-      "Alaska",
-      "Georgia",
-      "Wisconsin"
+      "Colorado's 5th",
+      "Pennsylvania's 1st",
+      "South Carolina's 1st",
+      "Florida's 7th",
+      "Florida's 9th"
      ],
      "products": []
     },
@@ -524,61 +582,59 @@
      "teams": []
     },
     "topics": [
-     "Elections"
+     "News",
+     "Politics"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Just days before the election, a New York Times/Siena poll shows Democrat Annie Andrews tied with Republican Sen. Darline Graham at 48% each in deep-red South Carolina.",
-   "id": "2115473675046826021",
-   "name": "South Carolina Senate Race Becomes Dead Heat Between Andrews and Graham",
-   "summary": "Fox News shifted the race to toss-up status after the poll, a big change in a state Trump won by 18 points in 2024 and where no Democrat has taken a Senate seat since 1998. Andrews, a Charleston pediatrician, stresses lower costs for families and leads independents 57-37%, while Graham, appointed after her brother Lindsey's death, relies on Trump's rally support in Rock Hill. Both push hard as early voting continues, with turnout key to flipping this long-safe Republican seat.",
-   "updated_at": "2026-10-29T23:43:55.000Z",
-   "url": "https://x.com/i/trending/2115473675046826021"
+   "hook": "Four days from the November 3 midterms, a key forecaster expanded the battleground map, now seeing Democrats on track to flip up to 25 seats and reclaim the House.",
+   "id": "2116179724112429274",
+   "name": "Cook Report Shifts 12 House Races Toward Democrats Before Midterms",
+   "summary": "The nonpartisan Cook Political Report updated its ratings, moving a dozen U.S. House races toward Democrats, including three districts from Lean Republican to Toss Up in Colorado’s 5th, Pennsylvania’s 1st, and South Carolina’s 1st. It now projects Democrats flipping 12 to 25 seats for a potential 240-seat majority—their largest since 2009 if they sweep favored races and Toss Ups. Analysts note heavy Republican spending hasn't moved the needle much, with President Trump’s approval underwater even in deep red areas, and other forecasters like Inside Elections and Sabato’s Crystal Ball showing similar Democratic gains in a tilting national environment.",
+   "updated_at": "2026-10-30T14:52:03.000Z",
+   "url": "https://x.com/i/trending/2116179724112429274"
   },
   {
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115785357950152754"
+     "post_id": "2116093119707947125"
     },
     {
-     "post_id": "2115785495737155839"
+     "post_id": "2116165090772652136"
     },
     {
-     "post_id": "2115841057489371567"
+     "post_id": "2116187518865412316"
     },
     {
-     "post_id": "2115894966484422724"
+     "post_id": "2116188033103884670"
     },
     {
-     "post_id": "2115799314828001750"
+     "post_id": "2116193408804958571"
     },
     {
-     "post_id": "2115841057489371567"
+     "post_id": "2116093119707947125"
     },
     {
-     "post_id": "2115787688783872025"
+     "post_id": "2116187518865412316"
     },
     {
-     "post_id": "2115894966484422724"
+     "post_id": "2116165090772652136"
     },
     {
-     "post_id": "2115785495737155839"
+     "post_id": "2116150004217995362"
     },
     {
-     "post_id": "2115810212716101813"
+     "post_id": "2116188033103884670"
     }
    ],
    "contexts": {
     "entities": {
      "events": [],
      "organizations": [
-      "Republican Party",
-      "GOP"
+      "POLITICO"
      ],
-     "people": [
-      "Mike Johnson"
-     ],
+     "people": [],
      "places": [],
      "products": []
     },
@@ -593,77 +649,12 @@
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "With Election Day five days away, House Speaker Mike Johnson told Fox News crowds at Republican events feel like 2024 all over again, full of energy across dozens of districts.",
-   "id": "2115798601578271009",
-   "name": "House Speaker Johnson Confident Republicans Hold House Majority Despite Polls",
-   "summary": "Johnson dismissed polls showing Democrats ahead by eight or nine points, predicting they will prove 'historically wrong' due to Republican distrust of surveys and undersampling of GOP voters. He touted the party's achievements like tax cuts, safer streets, and energy dominance, framing the midterms as a choice between common sense and an 'insurgent left' agenda. Supporters at events nodded along to his optimism, while critics online called it out of touch with national surveys. The race stays tight in key districts as both sides push hard before November 3.",
-   "updated_at": "2026-10-30T03:10:20.000Z",
-   "url": "https://x.com/i/trending/2115798601578271009"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115767456803311793"
-    },
-    {
-     "post_id": "2115638668031574517"
-    },
-    {
-     "post_id": "2115833258063851761"
-    },
-    {
-     "post_id": "2115862778120446105"
-    },
-    {
-     "post_id": "2115868143985754439"
-    },
-    {
-     "post_id": "2115767456803311793"
-    },
-    {
-     "post_id": "2115833258063851761"
-    },
-    {
-     "post_id": "2115828993920561446"
-    },
-    {
-     "post_id": "2115829512638550433"
-    },
-    {
-     "post_id": "2115868143985754439"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Democratic Party",
-      "The Bulwark"
-     ],
-     "people": [
-      "Sarah Longwell"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Sarah Longwell announced her outlet's plan to back Democrats as the last check on President Trump's power, sparking sharp conservative criticism.",
-   "id": "2115867041026728110",
-   "name": "The Bulwark Faces Backlash Over Push to Elect Democrats",
-   "summary": "The Bulwark, founded in 2019 by Longwell, Bill Kristol, and others to offer honest analysis against Trump-era Republicanism, drew fire after Longwell cited a compliant Congress and captured institutions as reasons to support Democrats. Conservatives replied that it has become what it once opposed, mocking its writers for claiming intellectual honesty while aligning with progressive views, like endorsements of candidates such as Abdul El-Sayed and favorable coverage of Maine's Graham Platner despite his controversial tattoo. Supporters see it as pragmatic defense of democracy; critics call it proof of hidden partisanship from the start.",
-   "updated_at": "2026-10-29T21:08:26.000Z",
-   "url": "https://x.com/i/trending/2115867041026728110"
+   "hook": "In a twist straight out of election irony, a new survey shows just one in four Americans think polls get it right on voting results.",
+   "id": "2116193876302344250",
+   "name": "Poll Reveals Americans' Deep Distrust of Election Surveys",
+   "summary": "A POLITICO poll from October 24-27 asked 2,088 U.S. adults about polling accuracy: 25% said polls correctly estimate votes, 41% believe they underestimate Democrats or Republicans, and 34% were unsure. Conducted amid the tight 2026 midterm races, the findings highlight skepticism fueled by past misses on Republican voters and sampling issues like rural folks skipping surveys. Reactions blended humor over the poll-on-polls irony with calls for better methods, even as many admit polls still shape their voting.",
+   "updated_at": "2026-10-30T15:50:23.000Z",
+   "url": "https://x.com/i/trending/2116193876302344250"
   }
  ]
 }
