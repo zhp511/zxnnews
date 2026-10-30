@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-30T17:23:07Z",
- "searched_at": "2026-10-30T17:22:00Z",
+ "built_at": "2026-10-30T17:41:44Z",
+ "searched_at": "2026-10-30T17:42:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2116212765790740852",
-   "post_url": "https://x.com/RSBNetwork/status/2116212765790740852",
-   "name": "RSBN 🇺🇸",
-   "username": "RSBNetwork",
-   "verified_type": "business",
-   "text": "LIVE: President Trump Holds a Rally in Daytona Beach, FL - 10/30/26 https://t.co/1trIKvpxSo",
-   "started_at": "2026-10-30T16:56:55.000Z",
-   "assumed_live_until": "2026-10-30T19:56:55Z"
-  },
   {
    "post_id": "2116199632737075525",
    "post_url": "https://x.com/intheMatrixxx/status/2116199632737075525",
@@ -83,6 +73,16 @@
    "text": "LIVE | Press conference with Prime Minister Carney and President Costa https://t.co/bBO5ELFqrj",
    "started_at": "2026-10-30T16:41:20.000Z",
    "assumed_live_until": "2026-10-30T19:41:20Z"
+  },
+  {
+   "post_id": "2116213434983629213",
+   "post_url": "https://x.com/Citi973/status/2116213434983629213",
+   "name": "CITI FM 97.3",
+   "username": "Citi973",
+   "verified_type": "blue",
+   "text": "🚨 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 30-10-26 | #CitiNewsroom https://t.co/lSL0KJkGio",
+   "started_at": "2026-10-30T16:59:34.000Z",
+   "assumed_live_until": "2026-10-30T19:59:34Z"
   }
  ]
 }
