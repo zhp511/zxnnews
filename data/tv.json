@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-30T19:11:54Z",
+ "checked_at": "2026-10-30T22:12:04Z",
  "channels": [
   {
    "key": "foxweather",
@@ -42,8 +42,8 @@
    "handle": "ABCNews",
    "watch_url": "https://www.youtube.com/@ABCNews/live",
    "video_id": "5GIjlwoCblo",
-   "ok": true,
-   "title": "LIVE: ABC News Live - Friday, October 30"
+   "ok": false,
+   "why": "check failed: HTTP Error 429: Too Many Requests"
   },
   {
    "key": "nbc",
@@ -52,7 +52,7 @@
    "channel_id": "UCeY0bbntWzzVIaj2z3QigXg",
    "handle": "NBCNews",
    "watch_url": "https://www.youtube.com/@NBCNews/live",
-   "video_id": "6h-FyZDQ9kU",
+   "video_id": "GkQTef2ZDzk",
    "ok": true,
    "title": "LIVE: NBC News NOW - Oct. 30"
   },
@@ -74,9 +74,9 @@
    "channel_id": "UCoMdktPbSTixAyNGwb-UYkQ",
    "handle": "SkyNews",
    "watch_url": "https://www.youtube.com/@SkyNews/live",
-   "video_id": "umLWFz4izTM",
+   "video_id": "MvG8xLpfgtU",
    "ok": true,
-   "title": "Watch Sky News live"
+   "title": "The Wrap | Friday 30 October"
   },
   {
    "key": "directv",
