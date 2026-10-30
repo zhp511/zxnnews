@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-30T20:02:56Z",
- "searched_at": "2026-10-30T20:02:40Z",
+ "built_at": "2026-10-30T20:24:24Z",
+ "searched_at": "2026-10-30T20:24:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2116258151159001098",
+   "post_url": "https://x.com/WhiteHouse/status/2116258151159001098",
+   "name": "The White House",
+   "username": "WhiteHouse",
+   "verified_type": "government",
+   "text": "President Trump Participates in a Pool Spray, October 30, 2026 https://t.co/EPagjlZLXA",
+   "started_at": "2026-10-30T19:57:16.000Z",
+   "assumed_live_until": "2026-10-30T22:57:16Z"
+  },
   {
    "post_id": "2116243985765388675",
    "post_url": "https://x.com/FLVoiceNews/status/2116243985765388675",
@@ -25,24 +35,14 @@
    "assumed_live_until": "2026-10-30T23:00:49Z"
   },
   {
-   "post_id": "2116214339627581686",
-   "post_url": "https://x.com/_ARMedia/status/2116214339627581686",
-   "name": "America Rising Media",
-   "username": "_ARMedia",
+   "post_id": "2116244071945777249",
+   "post_url": "https://x.com/Dialogue_NRA/status/2116244071945777249",
+   "name": "Dialogue works",
+   "username": "Dialogue_NRA",
    "verified_type": "blue",
-   "text": "America Rising News https://t.co/bKa3kERY7w",
-   "started_at": "2026-10-30T17:03:10.000Z",
-   "assumed_live_until": "2026-10-30T20:03:10Z"
-  },
-  {
-   "post_id": "2116244639334412336",
-   "post_url": "https://x.com/michaelpleahy/status/2116244639334412336",
-   "name": "Michael Patrick Leahy",
-   "username": "michaelpleahy",
-   "verified_type": "blue",
-   "text": "Tune in now to The Michael Patrick Leahy Show - your AMERICA FIRST news talk!\n- Watch LIVE here on X \n- Listen on Spotify \n- Listen on WENO AM760 in Nashville \n- Read more at @TheTNStar  https://t.co/sTSgZlA3OS",
-   "started_at": "2026-10-30T19:03:34.000Z",
-   "assumed_live_until": "2026-10-30T22:03:34Z"
+   "text": "Amb. Chas Freeman: BREAKING: Israel Fears Trump May End Iran War Too Soon https://t.co/D10zbW2T4m",
+   "started_at": "2026-10-30T19:01:19.000Z",
+   "assumed_live_until": "2026-10-30T22:01:19Z"
   },
   {
    "post_id": "2116259438826860922",
@@ -55,6 +55,26 @@
    "assumed_live_until": "2026-10-30T23:02:23Z"
   },
   {
+   "post_id": "2116244639334412336",
+   "post_url": "https://x.com/michaelpleahy/status/2116244639334412336",
+   "name": "Michael Patrick Leahy",
+   "username": "michaelpleahy",
+   "verified_type": "blue",
+   "text": "Tune in now to The Michael Patrick Leahy Show - your AMERICA FIRST news talk!\n- Watch LIVE here on X \n- Listen on Spotify \n- Listen on WENO AM760 in Nashville \n- Read more at @TheTNStar  https://t.co/sTSgZlA3OS",
+   "started_at": "2026-10-30T19:03:34.000Z",
+   "assumed_live_until": "2026-10-30T22:03:34Z"
+  },
+  {
+   "post_id": "2116262478925680957",
+   "post_url": "https://x.com/magnonewslive/status/2116262478925680957",
+   "name": "MAGNO NEWS LIVE",
+   "username": "magnonewslive",
+   "verified_type": "blue",
+   "text": "🇺🇸 President Trump Welcomes Russian Prisoner Stephen Hubbard at The White House [LIVE] https://t.co/QVp206vPhR",
+   "started_at": "2026-10-30T20:14:27.000Z",
+   "assumed_live_until": "2026-10-30T23:14:27Z"
+  },
+  {
    "post_id": "2116233699486228940",
    "post_url": "https://x.com/TheInformantUSA/status/2116233699486228940",
    "name": "THE INFORMANT",
@@ -63,26 +83,6 @@
    "text": "🔴 LIVE: PRESIDENT TRUMP PARTICIPATES IN A ROUNDTABLE https://t.co/d7oH1fJwUK",
    "started_at": "2026-10-30T18:20:06.000Z",
    "assumed_live_until": "2026-10-30T21:20:06Z"
-  },
-  {
-   "post_id": "2116259032025747832",
-   "post_url": "https://x.com/magnonewslive/status/2116259032025747832",
-   "name": "MAGNO NEWS LIVE",
-   "username": "magnonewslive",
-   "verified_type": "blue",
-   "text": "🇺🇸 President Trump Welcomes Russian Prisoner Stephen Hubbard at The White House [LIVE] https://t.co/R5j8LBznlK",
-   "started_at": "2026-10-30T20:00:46.000Z",
-   "assumed_live_until": "2026-10-30T23:00:46Z"
-  },
-  {
-   "post_id": "2116248869683994834",
-   "post_url": "https://x.com/deborah_s1963/status/2116248869683994834",
-   "name": "Deborah",
-   "username": "deborah_s1963",
-   "verified_type": "none",
-   "text": "Daytona Beach is GOING CRAZY! Massive crowd for Trump—he's the ONLY President fighting for the PEOPLE! Florida is TRUMP COUNTRY! Trump 2028! 🇺🇸🔥\n #MAGA #TrumpWon\nhttps://t.co/K5MbA0aTSA",
-   "started_at": "2026-10-30T19:20:23.000Z",
-   "assumed_live_until": "2026-10-30T22:20:23Z"
   }
  ]
 }
