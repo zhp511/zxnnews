@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-30T16:29:00Z",
+ "fetched_at": "2026-10-30T16:48:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-30T13:29:00Z",
+  "start_time": "2026-10-30T13:48:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -12,19 +12,189 @@
  },
  "data": [
   {
+   "author_id": "1146329871418843136",
+   "created_at": "2026-10-30T16:41:20.000Z",
+   "edit_history_tweet_ids": [
+    "2116208844569542707"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE | Press conference with Prime Minister Carney and President Costa",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 94,
+      "expanded_url": "https://x.com/i/broadcasts/1AJEmvEoZMvJL",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116208847434199040/AHb3cra1?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116208847434199040/AHb3cra1?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 71,
+      "status": 200,
+      "title": "Ursula von der Leyen",
+      "unwound_url": "https://x.com/i/broadcasts/1AJEmvEoZMvJL",
+      "url": "https://t.co/bBO5ELFqrj"
+     }
+    ]
+   },
+   "id": "2116208844569542707",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 4065,
+    "like_count": 28,
+    "quote_count": 1,
+    "reply_count": 5,
+    "retweet_count": 11
+   },
+   "text": "LIVE | Press conference with Prime Minister Carney and President Costa https://t.co/bBO5ELFqrj",
+   "url": "https://x.com/vonderleyen/status/2116208844569542707"
+  },
+  {
+   "author_id": "1652541",
+   "created_at": "2026-10-30T16:41:18.000Z",
+   "edit_history_tweet_ids": [
+    "2116208834717061480"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Press conference following EU-Canada summit in Montreal",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 79,
+      "expanded_url": "https://x.com/i/broadcasts/1PKqrNvWemdGb",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116208837665665024/_QbOdyHX?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116208837665665024/_QbOdyHX?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 56,
+      "status": 200,
+      "title": "Reuters",
+      "unwound_url": "https://x.com/i/broadcasts/1PKqrNvWemdGb",
+      "url": "https://t.co/vdfpjsuICn"
+     }
+    ]
+   },
+   "id": "2116208834717061480",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 15417,
+    "like_count": 7,
+    "quote_count": 1,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "text": "Press conference following EU-Canada summit in Montreal https://t.co/vdfpjsuICn",
+   "url": "https://x.com/Reuters/status/2116208834717061480"
+  },
+  {
+   "author_id": "196994616",
+   "created_at": "2026-10-30T16:40:57.000Z",
+   "edit_history_tweet_ids": [
+    "2116208748058566727"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE | Joint press conference following the EU-Canada Summit",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 84,
+      "expanded_url": "https://x.com/i/broadcasts/1qJDzWNrBYLKV",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116208750747103239/ezguOWtT?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116208750747103239/ezguOWtT?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 61,
+      "status": 200,
+      "title": "António Costa",
+      "unwound_url": "https://x.com/i/broadcasts/1qJDzWNrBYLKV",
+      "url": "https://t.co/GfyRcnrK45"
+     }
+    ]
+   },
+   "id": "2116208748058566727",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 1446,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "LIVE | Joint press conference following the EU-Canada Summit https://t.co/GfyRcnrK45",
+   "url": "https://x.com/eucopresident/status/2116208748058566727"
+  },
+  {
    "author_id": "2295041216",
    "created_at": "2026-10-30T15:58:55.000Z",
    "edit_history_tweet_ids": [
     "2116198168815608094"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 65,
+      "id": "282689051",
+      "start": 53,
+      "username": "NeilHuffman"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Head Coach Pat Kelsey press conference, Presented by @NeilHuffman 10-30-26",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 98,
+      "expanded_url": "https://x.com/i/broadcasts/2lgkvoWlBnaqPX",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116198244657012736/K5jSiTqc?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116198244657012736/K5jSiTqc?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 75,
+      "status": 200,
+      "title": "Louisville Men's Basketball",
+      "unwound_url": "https://x.com/i/broadcasts/2lgkvoWlBnaqPX",
+      "url": "https://t.co/MFw64S34Op"
+     }
+    ]
+   },
    "id": "2116198168815608094",
    "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 1567,
-    "like_count": 14,
+    "bookmark_count": 4,
+    "impression_count": 2029,
+    "like_count": 21,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 4
+    "retweet_count": 5
    },
    "text": "Head Coach Pat Kelsey press conference, Presented by @NeilHuffman 10-30-26 https://t.co/MFw64S34Op",
    "url": "https://x.com/LouisvilleMBB/status/2116198168815608094"
@@ -35,17 +205,142 @@
    "edit_history_tweet_ids": [
     "2116188849298874856"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "CFR LIVE: Jessica Jackson Press Conference Featuring Bob Fioretti | Chicago Flips Red",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 109,
+      "expanded_url": "https://x.com/i/broadcasts/1DGleVAMNVgJL",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116188892269568000/B5vyNAos?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116188892269568000/B5vyNAos?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 86,
+      "status": 200,
+      "title": "Chicago Flips Red",
+      "unwound_url": "https://x.com/i/broadcasts/1DGleVAMNVgJL",
+      "url": "https://t.co/xWlv6unp3S"
+     }
+    ]
+   },
    "id": "2116188849298874856",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 507,
-    "like_count": 20,
+    "bookmark_count": 2,
+    "impression_count": 545,
+    "like_count": 24,
     "quote_count": 1,
     "reply_count": 0,
-    "retweet_count": 8
+    "retweet_count": 11
    },
    "text": "CFR LIVE: Jessica Jackson Press Conference Featuring Bob Fioretti | Chicago Flips Red https://t.co/xWlv6unp3S",
    "url": "https://x.com/FlipChicagoRed/status/2116188849298874856"
+  },
+  {
+   "author_id": "34613288",
+   "created_at": "2026-10-30T13:57:07.000Z",
+   "edit_history_tweet_ids": [
+    "2116167519757054197"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "PRESS CONFERENCE | Mikel previews Liverpool | Premier League | EPL",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 105,
+      "expanded_url": "https://x.com/i/broadcasts/2kEbJkzbJOzXjE",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116167594990325760/duKtTBZ9?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116167594990325760/duKtTBZ9?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 82,
+      "status": 200,
+      "title": "Arsenal",
+      "unwound_url": "https://x.com/i/broadcasts/2kEbJkzbJOzXjE",
+      "url": "https://t.co/qoGtXtyztj"
+     }
+    ]
+   },
+   "id": "2116167519757054197",
+   "public_metrics": {
+    "bookmark_count": 11,
+    "impression_count": 104710,
+    "like_count": 908,
+    "quote_count": 3,
+    "reply_count": 18,
+    "retweet_count": 107
+   },
+   "text": "Mikel previews Liverpool, LIVE 📺\n\nWatch today's Premier League press conference 👇 https://t.co/qoGtXtyztj",
+   "url": "https://x.com/Arsenal/status/2116167519757054197"
+  },
+  {
+   "author_id": "199331680",
+   "created_at": "2026-10-30T16:31:57.000Z",
+   "edit_history_tweet_ids": [
+    "2116206481741684737"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 64,
+      "id": "282689051",
+      "start": 52,
+      "username": "NeilHuffman"
+     }
+    ],
+    "urls": [
+     {
+      "description": "🎥Head Coach Jeff Walz press conference, Presented by @NeilHuffman 10-30-26",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 97,
+      "expanded_url": "https://x.com/i/broadcasts/2brkLZNANLJvLX",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116206524649308160/G7RecMpA?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116206524649308160/G7RecMpA?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 74,
+      "status": 200,
+      "title": "Louisville Women’s Basketball",
+      "unwound_url": "https://x.com/i/broadcasts/2brkLZNANLJvLX",
+      "url": "https://t.co/eXFL8QjAsv"
+     }
+    ]
+   },
+   "id": "2116206481741684737",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 225,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Head Coach Jeff Walz press conference, Presented by @NeilHuffman 10-30-26 https://t.co/eXFL8QjAsv",
+   "url": "https://x.com/LouisvilleWBB/status/2116206481741684737"
   },
   {
    "author_id": "725677732919689216",
@@ -53,11 +348,38 @@
    "edit_history_tweet_ids": [
     "2116188847797391393"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "CFR LIVE: Jessica Jackson Press Conference Featuring Bob Fioretti | Chicago Flips Red",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 109,
+      "expanded_url": "https://x.com/i/broadcasts/1OxwbndQanEJB",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116188890612834304/b-akncI2?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116188890612834304/b-akncI2?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 86,
+      "status": 200,
+      "title": "Zoe Leigh 🇺🇸🌹",
+      "unwound_url": "https://x.com/i/broadcasts/1OxwbndQanEJB",
+      "url": "https://t.co/SPVZtU4WKP"
+     }
+    ]
+   },
    "id": "2116188847797391393",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 233,
-    "like_count": 10,
+    "bookmark_count": 1,
+    "impression_count": 271,
+    "like_count": 13,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 2
@@ -66,22 +388,49 @@
    "url": "https://x.com/mrstealyourwig1/status/2116188847797391393"
   },
   {
-   "author_id": "34613288",
-   "created_at": "2026-10-30T13:57:07.000Z",
+   "author_id": "1879652428490149888",
+   "created_at": "2026-10-30T16:35:30.000Z",
    "edit_history_tweet_ids": [
-    "2116167519757054197"
+    "2116207377351618970"
    ],
-   "id": "2116167519757054197",
-   "public_metrics": {
-    "bookmark_count": 11,
-    "impression_count": 102276,
-    "like_count": 878,
-    "quote_count": 3,
-    "reply_count": 18,
-    "retweet_count": 102
+   "entities": {
+    "urls": [
+     {
+      "description": "Secretary of the Treasury Scott Bessent Holds a Fraud Task Force Press Conference in St. Cloud, Minnesota",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 129,
+      "expanded_url": "https://x.com/i/broadcasts/1aKbdEjyAvqJX",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116207380132442116/2P3U7k-a?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116207380132442116/2P3U7k-a?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 106,
+      "status": 200,
+      "title": "Vice President JD Vance",
+      "unwound_url": "https://x.com/i/broadcasts/1aKbdEjyAvqJX",
+      "url": "https://t.co/17BahhNtm6"
+     }
+    ]
    },
-   "text": "Mikel previews Liverpool, LIVE 📺\n\nWatch today's Premier League press conference 👇 https://t.co/qoGtXtyztj",
-   "url": "https://x.com/Arsenal/status/2116167519757054197"
+   "id": "2116207377351618970",
+   "public_metrics": {
+    "bookmark_count": 4,
+    "impression_count": 8001,
+    "like_count": 125,
+    "quote_count": 1,
+    "reply_count": 27,
+    "retweet_count": 45
+   },
+   "text": "Secretary of the Treasury Scott Bessent Holds a Fraud Task Force Press Conference in St. Cloud, Minnesota https://t.co/17BahhNtm6",
+   "url": "https://x.com/VP/status/2116207377351618970"
   },
   {
    "author_id": "19383279",
@@ -89,11 +438,38 @@
    "edit_history_tweet_ids": [
     "2116189654064251070"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Live Press Conference: 10:30 AM CT:Titans HC Robert Saleh, OC Brian Daboll, DC Gus Bradley, Asst. HC/STC John Fassel",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 140,
+      "expanded_url": "https://x.com/i/broadcasts/1nGeLMNevYRKX",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116189656169758720/-aY4O-7e?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116189656169758720/-aY4O-7e?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 117,
+      "status": 200,
+      "title": "Tennessee Titans",
+      "unwound_url": "https://x.com/i/broadcasts/1nGeLMNevYRKX",
+      "url": "https://t.co/gxdFNiXi8a"
+     }
+    ]
+   },
    "id": "2116189654064251070",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 5306,
-    "like_count": 18,
+    "impression_count": 5708,
+    "like_count": 19,
     "quote_count": 0,
     "reply_count": 5,
     "retweet_count": 6
@@ -107,14 +483,55 @@
    "edit_history_tweet_ids": [
     "2116203254866686131"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 51,
+      "id": "162949754",
+      "start": 39,
+      "username": "IvanRaiklin"
+     },
+     {
+      "end": 73,
+      "id": "1449909279264280576",
+      "start": 57,
+      "username": "feds4freedomusa"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Press Conference: Adirim’s Memo Under the Microscope",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 216,
+      "expanded_url": "https://x.com/i/broadcasts/2lgWjqPPLEKEEW",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2115982194795585536/B_diGIud?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115982194795585536/B_diGIud?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 193,
+      "status": 200,
+      "title": "Feds For Freedom",
+      "unwound_url": "https://x.com/i/broadcasts/2lgWjqPPLEKEEW",
+      "url": "https://t.co/7Ti5bjkjb0"
+     }
+    ]
+   },
    "id": "2116203254866686131",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 4328,
-    "like_count": 16,
+    "bookmark_count": 1,
+    "impression_count": 6143,
+    "like_count": 34,
     "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
+    "reply_count": 2,
+    "retweet_count": 4
    },
    "text": "Today's Press Conference in support of @IvanRaiklin  and @feds4freedomusa : Adirim's Memo under the microscope - Those responsible for illegal DoD COVID vax mandates must be held accountable!  https://t.co/7Ti5bjkjb0",
    "url": "https://x.com/RWMaloneMD/status/2116203254866686131"
@@ -125,6 +542,33 @@
    "edit_history_tweet_ids": [
     "2116166345889100263"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "TETHER TEARS AND FAKE APOLOGIES | WHITE HOUSE POST ABOUT ABORIGINAL AMERICAN HISTORY",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 108,
+      "expanded_url": "https://x.com/i/broadcasts/1NGarobMvEDJj",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116166388717174784/Zss-Ws0C?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116166388717174784/Zss-Ws0C?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 85,
+      "status": 200,
+      "title": "Aboriginal Power",
+      "unwound_url": "https://x.com/i/broadcasts/1NGarobMvEDJj",
+      "url": "https://t.co/LYdXUW2yBj"
+     }
+    ]
+   },
    "id": "2116166345889100263",
    "public_metrics": {
     "bookmark_count": 0,
@@ -143,14 +587,29 @@
    "edit_history_tweet_ids": [
     "2116199632737075525"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Crossfire Hurricane Receipts; Trump Virtual Rallies; Part 39 Follow the Bloodlines",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 106,
+      "expanded_url": "https://x.com/i/broadcasts/1dxYlaZbevEJX",
+      "start": 83,
+      "status": 200,
+      "title": "Jeffrey Pedersen",
+      "unwound_url": "https://x.com/i/broadcasts/1dxYlaZbevEJX",
+      "url": "https://t.co/19IYxuDvi0"
+     }
+    ]
+   },
    "id": "2116199632737075525",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 642,
-    "like_count": 10,
+    "impression_count": 779,
+    "like_count": 12,
     "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 9
+    "reply_count": 4,
+    "retweet_count": 11
    },
    "text": "Crossfire Hurricane Receipts; Trump Virtual Rallies; Part 39 Follow the Bloodlines https://t.co/19IYxuDvi0",
    "url": "https://x.com/intheMatrixxx/status/2116199632737075525"
@@ -161,6 +620,33 @@
    "edit_history_tweet_ids": [
     "2116169402966307265"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Dave Anderson Morning News (D.A.M.N) 10.30.2026 | News • Culture • Politics • Roast • No B.S",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 116,
+      "expanded_url": "https://x.com/i/broadcasts/1YGNrblQdEPGw",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116169445752360960/IUp8tX3C?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116169445752360960/IUp8tX3C?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 93,
+      "status": 200,
+      "title": "Dave Anderson",
+      "unwound_url": "https://x.com/i/broadcasts/1YGNrblQdEPGw",
+      "url": "https://t.co/Hknps0ozvs"
+     }
+    ]
+   },
    "id": "2116169402966307265",
    "public_metrics": {
     "bookmark_count": 0,
@@ -179,11 +665,38 @@
    "edit_history_tweet_ids": [
     "2116202963714580693"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "SBC President Willy Rice on Midterms & Christian Voting: Not Right vs Left, but Right vs Wrong",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 282,
+      "expanded_url": "https://x.com/i/broadcasts/1vKpPNMBRzkKE",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116192512142397440/Kwvh-8XH?format=png&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116192512142397440/Kwvh-8XH?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 259,
+      "status": 200,
+      "title": "Center for Baptist Leadership",
+      "unwound_url": "https://x.com/i/broadcasts/1vKpPNMBRzkKE",
+      "url": "https://t.co/MX94ARcDI7"
+     }
+    ]
+   },
    "id": "2116202963714580693",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 146,
-    "like_count": 2,
+    "impression_count": 222,
+    "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
@@ -197,10 +710,37 @@
    "edit_history_tweet_ids": [
     "2116187814689927446"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "2026-10-30- Coffee & Politics Greenville Edition. Join Us every Friday, 11AM- 1PM. Today's agenda: Another week, another Trump Rally, more GOTV push and why VOTE NO on the $1.1 BILLION Penny Tax",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 223,
+      "expanded_url": "https://x.com/i/broadcasts/1yxBePXYLeaJN",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116187857551597568/rZGCI673?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116187857551597568/rZGCI673?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 200,
+      "status": 200,
+      "title": "Jeff Davis",
+      "unwound_url": "https://x.com/i/broadcasts/1yxBePXYLeaJN",
+      "url": "https://t.co/EfTqgHfxff"
+     }
+    ]
+   },
    "id": "2116187814689927446",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 50,
+    "impression_count": 58,
     "like_count": 6,
     "quote_count": 1,
     "reply_count": 0,
@@ -215,6 +755,33 @@
    "edit_history_tweet_ids": [
     "2116168273561858375"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Your News Talk America October 30, 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 63,
+      "expanded_url": "https://x.com/i/broadcasts/2OdmvYAlozrRnb",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116168316368936960/LZBlR5zm?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116168316368936960/LZBlR5zm?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 40,
+      "status": 200,
+      "title": "Real News Talk",
+      "unwound_url": "https://x.com/i/broadcasts/2OdmvYAlozrRnb",
+      "url": "https://t.co/ptwwrHG4R9"
+     }
+    ]
+   },
    "id": "2116168273561858375",
    "public_metrics": {
     "bookmark_count": 0,
@@ -228,15 +795,75 @@
    "url": "https://x.com/realnewstalkcom/status/2116168273561858375"
   },
   {
+   "author_id": "11435642",
+   "created_at": "2026-10-30T15:10:43.000Z",
+   "edit_history_tweet_ids": [
+    "2116186038314082755"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Breaking the News Live",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 46,
+      "expanded_url": "https://x.com/i/broadcasts/1qKDzWNrBNzJV",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116186081129578496/WCWgjBpp?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116186081129578496/WCWgjBpp?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 23,
+      "status": 200,
+      "title": "Jeff (Hot Type) Jarvis",
+      "unwound_url": "https://x.com/i/broadcasts/1qKDzWNrBNzJV",
+      "url": "https://t.co/9nte5W8xwK"
+     }
+    ]
+   },
+   "id": "2116186038314082755",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 311,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Breaking the News Live https://t.co/9nte5W8xwK",
+   "url": "https://x.com/jeffjarvis/status/2116186038314082755"
+  },
+  {
    "author_id": "903316311517921280",
    "created_at": "2026-10-30T16:10:45.000Z",
    "edit_history_tweet_ids": [
     "2116201146616533318"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Breaking News Now Featuring Special Guest Max Garland with Supply Chain Dive",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 100,
+      "expanded_url": "https://x.com/i/broadcasts/1nJOLQMXwAOxR",
+      "start": 77,
+      "status": 200,
+      "title": "Supply Chain Now",
+      "unwound_url": "https://x.com/i/broadcasts/1nJOLQMXwAOxR",
+      "url": "https://t.co/JFcxLEl7Ch"
+     }
+    ]
+   },
    "id": "2116201146616533318",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 19,
+    "impression_count": 30,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -246,33 +873,30 @@
    "url": "https://x.com/_supplychainnow/status/2116201146616533318"
   },
   {
-   "author_id": "11435642",
-   "created_at": "2026-10-30T15:10:43.000Z",
-   "edit_history_tweet_ids": [
-    "2116186038314082755"
-   ],
-   "id": "2116186038314082755",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 284,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Breaking the News Live https://t.co/9nte5W8xwK",
-   "url": "https://x.com/jeffjarvis/status/2116186038314082755"
-  },
-  {
    "author_id": "898762021",
    "created_at": "2026-10-30T16:10:45.000Z",
    "edit_history_tweet_ids": [
     "2116201146931114455"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Breaking News Now Featuring Special Guest Max Garland with Supply Chain Dive",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 100,
+      "expanded_url": "https://x.com/i/broadcasts/1aKbdEjyApVJX",
+      "start": 77,
+      "status": 200,
+      "title": "Scott W. Luton",
+      "unwound_url": "https://x.com/i/broadcasts/1aKbdEjyApVJX",
+      "url": "https://t.co/J7Lcqu6Ajw"
+     }
+    ]
+   },
    "id": "2116201146931114455",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 34,
+    "impression_count": 64,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -282,33 +906,42 @@
    "url": "https://x.com/ScottWLuton/status/2116201146931114455"
   },
   {
-   "author_id": "17409452",
-   "created_at": "2026-10-30T15:01:31.000Z",
-   "edit_history_tweet_ids": [
-    "2116183725725893097"
-   ],
-   "id": "2116183725725893097",
-   "public_metrics": {
-    "bookmark_count": 6,
-    "impression_count": 12686,
-    "like_count": 62,
-    "quote_count": 1,
-    "reply_count": 13,
-    "retweet_count": 23
-   },
-   "text": "BREAKING NEWS: Sowore Abducted By Armed Thugs In Ado Ekiti, Whereabouts Unknown https://t.co/gIymiGKoBu",
-   "url": "https://x.com/SaharaReporters/status/2116183725725893097"
-  },
-  {
    "author_id": "86627118",
    "created_at": "2026-10-30T15:58:26.000Z",
    "edit_history_tweet_ids": [
     "2116198048489730497"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🚨 BREAKING NEWS: PANTHERS FIRE EJIRO EVERO! | THE TRAIN STOP LIVE",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 89,
+      "expanded_url": "https://x.com/i/broadcasts/1qKDzWNrnVEJV",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116198091053568001/K2J7goih?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116198091053568001/K2J7goih?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 66,
+      "status": 200,
+      "title": "Pat Coletrain",
+      "unwound_url": "https://x.com/i/broadcasts/1qKDzWNrnVEJV",
+      "url": "https://t.co/TKAMPAhAI3"
+     }
+    ]
+   },
    "id": "2116198048489730497",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 182,
+    "impression_count": 243,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
@@ -318,15 +951,87 @@
    "url": "https://x.com/PatColetrain/status/2116198048489730497"
   },
   {
+   "author_id": "17409452",
+   "created_at": "2026-10-30T15:01:31.000Z",
+   "edit_history_tweet_ids": [
+    "2116183725725893097"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "BREAKING NEWS: Sowore Abducted By Armed Thugs In Ado Ekiti, Whereabouts Unknown",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 103,
+      "expanded_url": "https://x.com/i/broadcasts/1oJMvNPOEZNxQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116183728477319168/x8YJ8aiK?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116183728477319168/x8YJ8aiK?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 80,
+      "status": 200,
+      "title": "Sahara Reporters",
+      "unwound_url": "https://x.com/i/broadcasts/1oJMvNPOEZNxQ",
+      "url": "https://t.co/gIymiGKoBu"
+     }
+    ]
+   },
+   "id": "2116183725725893097",
+   "public_metrics": {
+    "bookmark_count": 6,
+    "impression_count": 13119,
+    "like_count": 63,
+    "quote_count": 1,
+    "reply_count": 13,
+    "retweet_count": 24
+   },
+   "text": "BREAKING NEWS: Sowore Abducted By Armed Thugs In Ado Ekiti, Whereabouts Unknown https://t.co/gIymiGKoBu",
+   "url": "https://x.com/SaharaReporters/status/2116183725725893097"
+  },
+  {
    "author_id": "1343539367520907265",
    "created_at": "2026-10-30T15:07:02.000Z",
    "edit_history_tweet_ids": [
     "2116185112257994763"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "BREAKING NEWS - Panthers Fire Ejiro Evero | Mint St Mondays SPECIAL",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 91,
+      "expanded_url": "https://x.com/i/broadcasts/1kJzDPZQrRXKv",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116185154737856512/l6F6r9we?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116185154737856512/l6F6r9we?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 68,
+      "status": 200,
+      "title": "One Carolina",
+      "unwound_url": "https://x.com/i/broadcasts/1kJzDPZQrRXKv",
+      "url": "https://t.co/nZwNEagWM7"
+     }
+    ]
+   },
    "id": "2116185112257994763",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 546,
+    "impression_count": 580,
     "like_count": 9,
     "quote_count": 0,
     "reply_count": 0,
@@ -341,10 +1046,37 @@
    "edit_history_tweet_ids": [
     "2116184107797647817"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Kevin Kietzman Uncanceled: Recap of President Donald J. Trump on KCMO Talk Radio | 10-29-26",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 115,
+      "expanded_url": "https://x.com/i/broadcasts/1DGleVAMvlEJL",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116184150738960384/cDdrKJOg?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116184150738960384/cDdrKJOg?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 92,
+      "status": 200,
+      "title": "KCMO Talk Radio",
+      "unwound_url": "https://x.com/i/broadcasts/1DGleVAMvlEJL",
+      "url": "https://t.co/JDbgrBe3W5"
+     }
+    ]
+   },
    "id": "2116184107797647817",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 145,
+    "impression_count": 157,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -359,115 +1091,97 @@
    "edit_history_tweet_ids": [
     "2116185356148310389"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "BREAKING: 3 Ships Attacked In Strait of Hormuz | Trump Weighing Strikes",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 95,
+      "expanded_url": "https://x.com/i/broadcasts/1nKOLQMXRlvGR",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116185398716350465/iZ9J8e70?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116185398716350465/iZ9J8e70?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 72,
+      "status": 200,
+      "title": "Matt Tardio",
+      "unwound_url": "https://x.com/i/broadcasts/1nKOLQMXRlvGR",
+      "url": "https://t.co/PDl6IRwnSD"
+     }
+    ]
+   },
    "id": "2116185356148310389",
    "public_metrics": {
     "bookmark_count": 4,
-    "impression_count": 1821,
-    "like_count": 22,
+    "impression_count": 1902,
+    "like_count": 23,
     "quote_count": 0,
     "reply_count": 1,
     "retweet_count": 8
    },
    "text": "BREAKING: 3 Ships Attacked In Strait of Hormuz | Trump Weighing Strikes https://t.co/PDl6IRwnSD",
    "url": "https://x.com/angertab/status/2116185356148310389"
-  },
-  {
-   "author_id": "993896381139116036",
-   "created_at": "2026-10-30T13:59:22.000Z",
-   "edit_history_tweet_ids": [
-    "2116168083929014293"
-   ],
-   "id": "2116168083929014293",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 4,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Cowboy State Politics Live Oct 30 https://t.co/lDVfPGZg1g",
-   "url": "https://x.com/DavidDomIverson/status/2116168083929014293"
-  },
-  {
-   "author_id": "4203447569",
-   "created_at": "2026-10-30T15:27:27.000Z",
-   "edit_history_tweet_ids": [
-    "2116190253400936483"
-   ],
-   "id": "2116190253400936483",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 187,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Scotland squad debate - surprise omissions and new face https://t.co/476HFyezO8",
-   "url": "https://x.com/ScotRugbyNews/status/2116190253400936483"
-  },
-  {
-   "author_id": "1057050372185997312",
-   "created_at": "2026-10-30T16:02:11.000Z",
-   "edit_history_tweet_ids": [
-    "2116198990601752897"
-   ],
-   "id": "2116198990601752897",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 19,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 3
-   },
-   "text": "It's time to watch The Dilley Show - LIVE on X!\nGet the latest insights from the most powerful man in politics!\nhttps://t.co/S0LM7HXdAr",
-   "url": "https://x.com/kphoto2020/status/2116198990601752897"
-  },
-  {
-   "author_id": "1685338886086459392",
-   "created_at": "2026-10-30T14:52:47.000Z",
-   "edit_history_tweet_ids": [
-    "2116181525851144309"
-   ],
-   "id": "2116181525851144309",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 15,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Ken Paxton Vs. James Talarico: Faith, Politics &amp; The Future of Texas| Abraham Enriquez https://t.co/Md59i6dNty",
-   "url": "https://x.com/Zach_Hinojos/status/2116181525851144309"
-  },
-  {
-   "author_id": "728325788433563649",
-   "created_at": "2026-10-30T14:02:50.000Z",
-   "edit_history_tweet_ids": [
-    "2116168955987632193"
-   ],
-   "id": "2116168955987632193",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 79,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Who Owns Social? The Farcaster Debate https://t.co/h62FatYMAB",
-   "url": "https://x.com/boldhorizonspod/status/2116168955987632193"
   }
  ],
  "users": [
   {
+   "id": "1146329871418843136",
+   "name": "Ursula von der Leyen",
+   "public_metrics": {
+    "followers_count": 1728218,
+    "following_count": 281,
+    "like_count": 591,
+    "listed_count": 9296,
+    "media_count": 3718,
+    "tweet_count": 6875
+   },
+   "username": "vonderleyen",
+   "verified": true,
+   "verified_type": "government"
+  },
+  {
+   "id": "1652541",
+   "name": "Reuters",
+   "public_metrics": {
+    "followers_count": 26439920,
+    "following_count": 1196,
+    "like_count": 669,
+    "listed_count": 138010,
+    "media_count": 1016143,
+    "tweet_count": 1405910
+   },
+   "username": "Reuters",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "196994616",
+   "name": "António Costa",
+   "public_metrics": {
+    "followers_count": 1218831,
+    "following_count": 460,
+    "like_count": 248,
+    "listed_count": 9048,
+    "media_count": 3693,
+    "tweet_count": 9833
+   },
+   "username": "eucopresident",
+   "verified": true,
+   "verified_type": "government"
+  },
+  {
    "id": "2295041216",
    "name": "Louisville Men's Basketball",
    "public_metrics": {
-    "followers_count": 108945,
+    "followers_count": 108946,
     "following_count": 165,
     "like_count": 1605,
     "listed_count": 442,
@@ -486,10 +1200,40 @@
     "following_count": 158,
     "like_count": 2678,
     "listed_count": 60,
-    "media_count": 3406,
-    "tweet_count": 9154
+    "media_count": 3407,
+    "tweet_count": 9155
    },
    "username": "FlipChicagoRed",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "34613288",
+   "name": "Arsenal",
+   "public_metrics": {
+    "followers_count": 21679272,
+    "following_count": 69113,
+    "like_count": 7781,
+    "listed_count": 33261,
+    "media_count": 53519,
+    "tweet_count": 125192
+   },
+   "username": "Arsenal",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "199331680",
+   "name": "Louisville Women’s Basketball",
+   "public_metrics": {
+    "followers_count": 54208,
+    "following_count": 369,
+    "like_count": 3716,
+    "listed_count": 332,
+    "media_count": 11933,
+    "tweet_count": 19294
+   },
+   "username": "LouisvilleWBB",
    "verified": true,
    "verified_type": "blue"
   },
@@ -497,7 +1241,7 @@
    "id": "725677732919689216",
    "name": "Zoe Leigh 🇺🇸🌹",
    "public_metrics": {
-    "followers_count": 12176,
+    "followers_count": 12177,
     "following_count": 620,
     "like_count": 7911,
     "listed_count": 36,
@@ -509,19 +1253,19 @@
    "verified_type": "blue"
   },
   {
-   "id": "34613288",
-   "name": "Arsenal",
+   "id": "1879652428490149888",
+   "name": "Vice President JD Vance",
    "public_metrics": {
-    "followers_count": 21679257,
-    "following_count": 69113,
-    "like_count": 7781,
-    "listed_count": 33261,
-    "media_count": 53518,
-    "tweet_count": 125191
+    "followers_count": 1317434,
+    "following_count": 28,
+    "like_count": 165,
+    "listed_count": 3339,
+    "media_count": 588,
+    "tweet_count": 3218
    },
-   "username": "Arsenal",
+   "username": "VP",
    "verified": true,
-   "verified_type": "business"
+   "verified_type": "government"
   },
   {
    "id": "19383279",
@@ -531,8 +1275,8 @@
     "following_count": 1874,
     "like_count": 26584,
     "listed_count": 6629,
-    "media_count": 30288,
-    "tweet_count": 68489
+    "media_count": 30292,
+    "tweet_count": 68493
    },
    "username": "Titans",
    "verified": true,
@@ -542,7 +1286,7 @@
    "id": "39844876",
    "name": "Robert W Malone, MD",
    "public_metrics": {
-    "followers_count": 1323620,
+    "followers_count": 1323624,
     "following_count": 1828,
     "like_count": 28046,
     "listed_count": 4723,
@@ -602,12 +1346,12 @@
    "id": "1766118208170496000",
    "name": "Center for Baptist Leadership",
    "public_metrics": {
-    "followers_count": 13872,
+    "followers_count": 13873,
     "following_count": 947,
-    "like_count": 10782,
+    "like_count": 10788,
     "listed_count": 100,
     "media_count": 781,
-    "tweet_count": 8861
+    "tweet_count": 8866
    },
    "username": "BaptistLeaders",
    "verified": true,
@@ -644,6 +1388,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "11435642",
+   "name": "Jeff (Hot Type) Jarvis",
+   "public_metrics": {
+    "followers_count": 165921,
+    "following_count": 5068,
+    "like_count": 40287,
+    "listed_count": 10031,
+    "media_count": 7583,
+    "tweet_count": 208387
+   },
+   "username": "jeffjarvis",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "903316311517921280",
    "name": "Supply Chain Now",
    "public_metrics": {
@@ -657,21 +1416,6 @@
    "username": "_supplychainnow",
    "verified": true,
    "verified_type": "business"
-  },
-  {
-   "id": "11435642",
-   "name": "Jeff (Hot Type) Jarvis",
-   "public_metrics": {
-    "followers_count": 165920,
-    "following_count": 5068,
-    "like_count": 40287,
-    "listed_count": 10031,
-    "media_count": 7583,
-    "tweet_count": 208387
-   },
-   "username": "jeffjarvis",
-   "verified": true,
-   "verified_type": "blue"
   },
   {
    "id": "898762021",
@@ -689,21 +1433,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "17409452",
-   "name": "Sahara Reporters",
-   "public_metrics": {
-    "followers_count": 5541002,
-    "following_count": 608,
-    "like_count": 144,
-    "listed_count": 3362,
-    "media_count": 140735,
-    "tweet_count": 223582
-   },
-   "username": "SaharaReporters",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "86627118",
    "name": "Pat Coletrain",
    "public_metrics": {
@@ -715,6 +1444,21 @@
     "tweet_count": 27680
    },
    "username": "PatColetrain",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "17409452",
+   "name": "Sahara Reporters",
+   "public_metrics": {
+    "followers_count": 5541008,
+    "following_count": 608,
+    "like_count": 144,
+    "listed_count": 3362,
+    "media_count": 140735,
+    "tweet_count": 223582
+   },
+   "username": "SaharaReporters",
    "verified": true,
    "verified_type": "blue"
   },
@@ -742,7 +1486,7 @@
     "like_count": 1066,
     "listed_count": 98,
     "media_count": 1811,
-    "tweet_count": 16849
+    "tweet_count": 16850
    },
    "username": "kcmotalkradio",
    "verified": true,
@@ -752,89 +1496,14 @@
    "id": "1683937299468263424",
    "name": "Matt Tardio",
    "public_metrics": {
-    "followers_count": 116636,
+    "followers_count": 116638,
     "following_count": 800,
-    "like_count": 11611,
+    "like_count": 11612,
     "listed_count": 252,
     "media_count": 2399,
     "tweet_count": 17352
    },
    "username": "angertab",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "993896381139116036",
-   "name": "David Iverson",
-   "public_metrics": {
-    "followers_count": 988,
-    "following_count": 175,
-    "like_count": 712,
-    "listed_count": 11,
-    "media_count": 147,
-    "tweet_count": 6835
-   },
-   "username": "DavidDomIverson",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "4203447569",
-   "name": "Scotland Rugby News",
-   "public_metrics": {
-    "followers_count": 5740,
-    "following_count": 931,
-    "like_count": 3769,
-    "listed_count": 30,
-    "media_count": 3436,
-    "tweet_count": 8541
-   },
-   "username": "ScotRugbyNews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1057050372185997312",
-   "name": "realKPhoto2020",
-   "public_metrics": {
-    "followers_count": 1553,
-    "following_count": 2394,
-    "like_count": 77705,
-    "listed_count": 2,
-    "media_count": 2012,
-    "tweet_count": 56396
-   },
-   "username": "kphoto2020",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1685338886086459392",
-   "name": "Zach",
-   "public_metrics": {
-    "followers_count": 75,
-    "following_count": 59,
-    "like_count": 168,
-    "listed_count": 0,
-    "media_count": 216,
-    "tweet_count": 251
-   },
-   "username": "Zach_Hinojos",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "728325788433563649",
-   "name": "Bold Horizons",
-   "public_metrics": {
-    "followers_count": 159,
-    "following_count": 92,
-    "like_count": 661,
-    "listed_count": 5,
-    "media_count": 48,
-    "tweet_count": 337
-   },
-   "username": "boldhorizonspod",
    "verified": true,
    "verified_type": "blue"
   }
