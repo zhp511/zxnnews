@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T19:01:00Z",
+ "fetched_at": "2026-10-30T20:02:40Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -397,6 +397,72 @@
    "category": "News",
    "cluster_posts_results": [
     {
+     "post_id": "2116016526931394957"
+    },
+    {
+     "post_id": "2116142316905713767"
+    },
+    {
+     "post_id": "2116171782403027361"
+    },
+    {
+     "post_id": "2115948102540529972"
+    },
+    {
+     "post_id": "2116142316905713767"
+    },
+    {
+     "post_id": "2116196852408225950"
+    },
+    {
+     "post_id": "2116185925612867614"
+    },
+    {
+     "post_id": "2116171782403027361"
+    },
+    {
+     "post_id": "2116185394270409136"
+    },
+    {
+     "post_id": "2116197187969319380"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "US Midterms"
+     ],
+     "organizations": [
+      "US Army"
+     ],
+     "people": [],
+     "places": [
+      "North Carolina"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A video warning of a 24- to 48-hour nationwide blackout has spread quickly, linking it to U.S.-Iran tensions and possible government plans.",
+   "id": "2116176674362655119",
+   "name": "Online Rumors Claim Imminent U.S. Power Grid Shutdown",
+   "summary": "Christopher Greene of AMTV posted the video, suggesting the government might intentionally cut power to protect against Iranian cyber retaliation during potential strikes. It ties into broader talks on emergency readiness, like former FBI officials urging families to stock food, cash, and escape bags, while the Pentagon advances self-sufficient bases via its FORTRESS initiative. Reactions split between those seeing logic in the idea and skeptics dismissing it as unverified fearmongering, with no confirmations from officials or grid operators.",
+   "updated_at": "2026-10-30T17:22:53.000Z",
+   "url": "https://x.com/i/trending/2116176674362655119"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
      "post_id": "2115541740392174043"
     },
     {
@@ -463,68 +529,6 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2116193408804958571"
-    },
-    {
-     "post_id": "2116219267779543437"
-    },
-    {
-     "post_id": "2116193657636155463"
-    },
-    {
-     "post_id": "2116193408804958571"
-    },
-    {
-     "post_id": "2116219267779543437"
-    },
-    {
-     "post_id": "2116093119707947125"
-    },
-    {
-     "post_id": "2116187518865412316"
-    },
-    {
-     "post_id": "2116165090772652136"
-    },
-    {
-     "post_id": "2116213486707519857"
-    },
-    {
-     "post_id": "2116150004217995362"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "POLITICO"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A fresh survey asked Americans if they trust polls\u2014and just one in four said yes. The irony hit home right away for many.",
-   "id": "2116193876302344250",
-   "name": "Poll Reveals Most Americans Distrust Political Surveys",
-   "summary": "POLITICO's poll, conducted October 24-27 among over 2,000 U.S. adults, found only 25% believe political surveys accurately predict votes, with 41% saying they often underestimate one party or the other. Distrust cuts across party lines but runs high among some Republicans, amid tight 2026 midterm races where many expect surprises. People shared stories like never being polled themselves at age 52, or rural voters skipping surveys while others respond repeatedly, fueling doubts about skewed samples and past misses like 2016 and 2020.",
-   "updated_at": "2026-10-30T18:26:13.000Z",
-   "url": "https://x.com/i/trending/2116193876302344250"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
      "post_id": "2116161196479189294"
     },
     {
@@ -585,55 +589,45 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115378018235597063"
+     "post_id": "2116184132979929505"
     },
     {
-     "post_id": "2115793001444249884"
+     "post_id": "2116212622915690933"
     },
     {
-     "post_id": "2115438843599950153"
+     "post_id": "2116210856149073946"
     },
     {
-     "post_id": "2115579209481695396"
+     "post_id": "2116199204808990921"
     },
     {
-     "post_id": "2115794304375595453"
+     "post_id": "2116174031036825898"
     },
     {
-     "post_id": "2115600236265750638"
+     "post_id": "2116184132979929505"
     },
     {
-     "post_id": "2115848484934844919"
+     "post_id": "2116223151533396433"
     },
     {
-     "post_id": "2115793001444249884"
+     "post_id": "2116210856149073946"
     },
     {
-     "post_id": "2115378018235597063"
+     "post_id": "2116174031036825898"
     },
     {
-     "post_id": "2115795355476299822"
+     "post_id": "2116190123226181889"
     }
    ],
    "contexts": {
     "entities": {
      "events": [],
-     "organizations": [
-      "Inside Elections"
+     "organizations": [],
+     "people": [
+      "Ted Cruz"
      ],
-     "people": [],
      "places": [
-      "Texas",
-      "Ohio",
-      "Iowa",
-      "Kansas",
-      "South Carolina",
-      "Nebraska",
-      "Mississippi",
-      "Louisiana",
-      "Alaska",
-      "Georgia",
-      "Wisconsin"
+      "Texas"
      ],
      "products": []
     },
@@ -644,16 +638,16 @@
      "teams": []
     },
     "topics": [
-     "Elections"
+     "Politics"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Just days before the election, a New York Times/Siena poll shows Democrat Annie Andrews tied with Republican Sen. Darline Graham at 48% each in deep-red South Carolina.",
-   "id": "2115473675046826021",
-   "name": "South Carolina Senate Race Becomes Dead Heat Between Andrews and Graham",
-   "summary": "Fox News shifted the race to toss-up status after the poll, a big change in a state Trump won by 18 points in 2024 and where no Democrat has taken a Senate seat since 1998. Andrews, a Charleston pediatrician, stresses lower costs for families and leads independents 57-37%, while Graham, appointed after her brother Lindsey's death, relies on Trump's rally support in Rock Hill. Both push hard as early voting continues, with turnout key to flipping this long-safe Republican seat.",
-   "updated_at": "2026-10-29T23:43:55.000Z",
-   "url": "https://x.com/i/trending/2115473675046826021"
+   "hook": "Just days before the November 3 midterms, Sen. Ted Cruz grabbed the mic on his podcast and laid it out plain: Texas Republicans could drop every statewide contest.",
+   "id": "2116206748159946846",
+   "name": "Ted Cruz Warns Republicans Could Lose Every Texas Statewide Race",
+   "summary": "On 'The Verdict with Ted Cruz,' the senator stressed how tight the races are, saying, 'We could lose Texas... every single statewide race.' Recent polls like Texas Southern University's October 29 survey show Democrat James Talarico edging Republican Ken Paxton 49% to 47% in the Senate race, while Gov. Greg Abbott leads Gina Hinojosa 50% to 47%. Cruz pointed to strong Democratic early voting turnout and called on Republicans to mobilize, as margins stay within the margin of error and Election Day looms.",
+   "updated_at": "2026-10-30T19:06:51.000Z",
+   "url": "https://x.com/i/trending/2116206748159946846"
   }
  ],
  "meta": {

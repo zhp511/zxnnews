@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-30T19:47:30Z",
+ "fetched_at": "2026-10-30T20:02:40Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-30T16:47:00Z",
+  "start_time": "2026-10-30T17:02:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -12,42 +12,33 @@
  },
  "data": [
   {
+   "author_id": "1900375238548086788",
+   "created_at": "2026-10-30T20:00:46.000Z",
+   "edit_history_tweet_ids": [
+    "2116259032025747832"
+   ],
+   "id": "2116259032025747832",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 18,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83c\uddfa\ud83c\uddf8 President Trump Welcomes Russian Prisoner Stephen Hubbard at The White House [LIVE] https://t.co/R5j8LBznlK",
+   "url": "https://x.com/magnonewslive/status/2116259032025747832"
+  },
+  {
    "author_id": "1981168481367158784",
    "created_at": "2026-10-30T18:10:10.000Z",
    "edit_history_tweet_ids": [
     "2116231200557896186"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "DOJ Press Conference",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 44,
-      "expanded_url": "https://x.com/i/broadcasts/1aKbdEjyQpjJX",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116230212249640960/XXyp5d6C?format=png&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116230212249640960/XXyp5d6C?format=png&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 21,
-      "status": 200,
-      "title": "Angry Conservative",
-      "unwound_url": "https://x.com/i/broadcasts/1aKbdEjyQpjJX",
-      "url": "https://t.co/larzCrkViS"
-     }
-    ]
-   },
    "id": "2116231200557896186",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1,
+    "impression_count": 2,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -62,41 +53,14 @@
    "edit_history_tweet_ids": [
     "2116242540743831635"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Dave Canales Live Press Conference",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 58,
-      "expanded_url": "https://x.com/i/broadcasts/1YxNrblQkoZxw",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116242543675572224/pjc5buVv?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116242543675572224/pjc5buVv?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 35,
-      "status": 200,
-      "title": "Carolina Panthers",
-      "unwound_url": "https://x.com/i/broadcasts/1YxNrblQkoZxw",
-      "url": "https://t.co/fPaul7rnx4"
-     }
-    ]
-   },
    "id": "2116242540743831635",
    "public_metrics": {
-    "bookmark_count": 11,
-    "impression_count": 12077,
-    "like_count": 136,
+    "bookmark_count": 12,
+    "impression_count": 13193,
+    "like_count": 144,
     "quote_count": 2,
-    "reply_count": 18,
-    "retweet_count": 17
+    "reply_count": 19,
+    "retweet_count": 18
    },
    "text": "Dave Canales Live Press Conference https://t.co/fPaul7rnx4",
    "url": "https://x.com/Panthers/status/2116242540743831635"
@@ -107,41 +71,14 @@
    "edit_history_tweet_ids": [
     "2116245424252305423"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Seahawks Press Conference - October 30, 2026",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 68,
-      "expanded_url": "https://x.com/i/broadcasts/1kKzDPZQLjyJv",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116245426865393665/TmkvCGNX?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116245426865393665/TmkvCGNX?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 45,
-      "status": 200,
-      "title": "Seattle Seahawks",
-      "unwound_url": "https://x.com/i/broadcasts/1kKzDPZQLjyJv",
-      "url": "https://t.co/NSHv7UoRGV"
-     }
-    ]
-   },
    "id": "2116245424252305423",
    "public_metrics": {
     "bookmark_count": 5,
-    "impression_count": 8128,
-    "like_count": 84,
-    "quote_count": 0,
+    "impression_count": 9322,
+    "like_count": 91,
+    "quote_count": 1,
     "reply_count": 0,
-    "retweet_count": 8
+    "retweet_count": 9
    },
    "text": "Seahawks Press Conference - October 30, 2026 https://t.co/NSHv7UoRGV",
    "url": "https://x.com/Seahawks/status/2116245424252305423"
@@ -152,38 +89,11 @@
    "edit_history_tweet_ids": [
     "2116216048542519806"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: Mike Vrabel Press Conference 10/30",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 64,
-      "expanded_url": "https://x.com/i/broadcasts/1wGWjlegyYjKQ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116216051025494016/ceqSvpNM?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116216051025494016/ceqSvpNM?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 41,
-      "status": 200,
-      "title": "New England Patriots",
-      "unwound_url": "https://x.com/i/broadcasts/1wGWjlegyYjKQ",
-      "url": "https://t.co/kt3VdKhvwL"
-     }
-    ]
-   },
    "id": "2116216048542519806",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 21352,
-    "like_count": 84,
+    "bookmark_count": 2,
+    "impression_count": 21978,
+    "like_count": 86,
     "quote_count": 1,
     "reply_count": 1,
     "retweet_count": 10
@@ -197,33 +107,6 @@
    "edit_history_tweet_ids": [
     "2116219861798166997"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Secretary of the Treasury Scott Bessent Holds a Fraud Task Force Press Conference",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 105,
-      "expanded_url": "https://x.com/i/broadcasts/1mxPaZvVABLKN",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116219904332632064/n5GVD4Rm?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116219904332632064/n5GVD4Rm?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 82,
-      "status": 200,
-      "title": "Diya TV",
-      "unwound_url": "https://x.com/i/broadcasts/1mxPaZvVABLKN",
-      "url": "https://t.co/qCTFlwP0xo"
-     }
-    ]
-   },
    "id": "2116219861798166997",
    "public_metrics": {
     "bookmark_count": 0,
@@ -242,115 +125,17 @@
    "edit_history_tweet_ids": [
     "2116233926503268584"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Secretary of the Treasury Scott Bessent Holds a Fraud Task Force Press Conference in St. Cloud, Minnesota",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 129,
-      "expanded_url": "https://x.com/i/broadcasts/1aKbdEjyAvqJX",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116207380132442116/2P3U7k-a?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116207380132442116/2P3U7k-a?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 106,
-      "status": 200,
-      "title": "Vice President JD Vance",
-      "unwound_url": "https://x.com/i/broadcasts/1aKbdEjyAvqJX",
-      "url": "https://t.co/L5hMIbzNIF"
-     }
-    ]
-   },
    "id": "2116233926503268584",
    "public_metrics": {
-    "bookmark_count": 8,
-    "impression_count": 12257,
-    "like_count": 296,
+    "bookmark_count": 9,
+    "impression_count": 12697,
+    "like_count": 303,
     "quote_count": 2,
     "reply_count": 15,
-    "retweet_count": 68
+    "retweet_count": 69
    },
    "text": "Secretary of the Treasury Scott Bessent Holds a Fraud Task Force Press Conference in St. Cloud, Minnesota\nhttps://t.co/L5hMIbzNIF",
    "url": "https://x.com/WHFraudTF/status/2116233926503268584"
-  },
-  {
-   "author_id": "1879946117544128512",
-   "created_at": "2026-10-30T18:24:48.000Z",
-   "edit_history_tweet_ids": [
-    "2116234881986339149"
-   ],
-   "entities": {
-    "mentions": [
-     {
-      "end": 49,
-      "id": "120176950",
-      "start": 38,
-      "username": "USTreasury"
-     },
-     {
-      "end": 68,
-      "id": "1889019333960998912",
-      "start": 52,
-      "username": "SecScottBessent"
-     },
-     {
-      "end": 89,
-      "id": "1807820819776917510",
-      "start": 76,
-      "username": "AFergusonFTC"
-     },
-     {
-      "end": 105,
-      "id": "2051754537367588872",
-      "start": 95,
-      "username": "WHFraudTF"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Secretary of the Treasury Scott Bessent Holds a Fraud Task Force Press Conference in St. Cloud, Minnesota",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 191,
-      "expanded_url": "https://x.com/i/broadcasts/1aKbdEjyAvqJX",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116207380132442116/2P3U7k-a?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116207380132442116/2P3U7k-a?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 168,
-      "status": 200,
-      "title": "Vice President JD Vance",
-      "unwound_url": "https://x.com/i/broadcasts/1aKbdEjyAvqJX",
-      "url": "https://t.co/h55f28inar"
-     }
-    ]
-   },
-   "id": "2116234881986339149",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 2839,
-    "like_count": 59,
-    "quote_count": 2,
-    "reply_count": 7,
-    "retweet_count": 30
-   },
-   "text": "WATCH: CMS Administrator Dr. Oz joins @USTreasury's @SecScottBessent, FTC's @AFergusonFTC, and @WHFraudTF members in St. Cloud, MN for a War on Fraud press conference.\nhttps://t.co/h55f28inar",
-   "url": "https://x.com/DrOzCMS/status/2116234881986339149"
   },
   {
    "author_id": "38425596",
@@ -358,33 +143,6 @@
    "edit_history_tweet_ids": [
     "2116231469689692414"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Secretary of the Treasury Scott Bessent Holds a Fraud Task Force Press Conference in St. Cloud, Minnesota",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 150,
-      "expanded_url": "https://x.com/i/broadcasts/1aKbdEjyAvqJX",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116207380132442116/2P3U7k-a?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116207380132442116/2P3U7k-a?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 127,
-      "status": 200,
-      "title": "Vice President JD Vance",
-      "unwound_url": "https://x.com/i/broadcasts/1aKbdEjyAvqJX",
-      "url": "https://t.co/UPcy3BgpwS"
-     }
-    ]
-   },
    "id": "2116231469689692414",
    "public_metrics": {
     "bookmark_count": 0,
@@ -394,61 +152,26 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "LIVE: Treasury Secretary Scott Bessent is holding a Fraud Task Force press conference in St. Cloud, Minnesota, at 2pm ET. 🇺🇸 \n\nhttps://t.co/UPcy3BgpwS",
+   "text": "LIVE: Treasury Secretary Scott Bessent is holding a Fraud Task Force press conference in St. Cloud, Minnesota, at 2pm ET. \ud83c\uddfa\ud83c\uddf8 \n\nhttps://t.co/UPcy3BgpwS",
    "url": "https://x.com/AsenjoX/status/2116231469689692414"
   },
   {
-   "author_id": "8824902",
-   "created_at": "2026-10-30T16:49:01.000Z",
+   "author_id": "1879946117544128512",
+   "created_at": "2026-10-30T18:24:48.000Z",
    "edit_history_tweet_ids": [
-    "2116210776692379863"
+    "2116234881986339149"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 116,
-      "start": 108,
-      "tag": "AZvsDAL"
-     },
-     {
-      "end": 145,
-      "start": 131,
-      "tag": "DallasCowboys"
-     }
-    ],
-    "mentions": [
-     {
-      "end": 154,
-      "id": "18139619",
-      "start": 148,
-      "username": "pepsi"
-     }
-    ],
-    "urls": [
-     {
-      "description": "LIVE: Brian Schottenheimer Press Conference | 10-30-26",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 180,
-      "expanded_url": "https://x.com/i/broadcasts/2NglXRmPAAkzaE",
-      "start": 157,
-      "status": 200,
-      "title": "Dallas Cowboys",
-      "unwound_url": "https://x.com/i/broadcasts/2NglXRmPAAkzaE",
-      "url": "https://t.co/ytl4wR4ChI"
-     }
-    ]
-   },
-   "id": "2116210776692379863",
+   "id": "2116234881986339149",
    "public_metrics": {
-    "bookmark_count": 5,
-    "impression_count": 13935,
-    "like_count": 38,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 7
+    "bookmark_count": 1,
+    "impression_count": 2947,
+    "like_count": 62,
+    "quote_count": 2,
+    "reply_count": 7,
+    "retweet_count": 31
    },
-   "text": "Join HC Brian Schottenheimer from The Star in Frisco for a press conference presented by Pepsi\n \nUp Next 📺: #AZvsDAL 11/1 on FOX\n \n#DallasCowboys | @pepsi \n\nhttps://t.co/ytl4wR4ChI",
-   "url": "https://x.com/dallascowboys/status/2116210776692379863"
+   "text": "WATCH: CMS Administrator Dr. Oz joins @USTreasury's @SecScottBessent, FTC's @AFergusonFTC, and @WHFraudTF members in St. Cloud, MN for a War on Fraud press conference.\nhttps://t.co/h55f28inar",
+   "url": "https://x.com/DrOzCMS/status/2116234881986339149"
   },
   {
    "author_id": "1334358077131276289",
@@ -456,44 +179,89 @@
    "edit_history_tweet_ids": [
     "2116243776939393235"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Finally Friday - More Illegals Arrested for Voting - Halloween at the White House - Today's News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 120,
-      "expanded_url": "https://x.com/i/broadcasts/2ybVrrgWAQdQge",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2116243781376933888/PjIn5wjr?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116243781376933888/PjIn5wjr?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 97,
-      "status": 200,
-      "title": "Oreo Express",
-      "unwound_url": "https://x.com/i/broadcasts/2ybVrrgWAQdQge",
-      "url": "https://t.co/MZ4AZKMKhU"
-     }
-    ]
-   },
    "id": "2116243776939393235",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 321,
-    "like_count": 6,
+    "impression_count": 364,
+    "like_count": 8,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "Finally Friday - More Illegals Arrested for Voting - Halloween at the White House - Today's News https://t.co/MZ4AZKMKhU",
+   "url": "https://x.com/OreoExpress/status/2116243776939393235"
+  },
+  {
+   "author_id": "14505245",
+   "created_at": "2026-10-30T20:00:49.000Z",
+   "edit_history_tweet_ids": [
+    "2116259046084735327"
+   ],
+   "id": "2116259046084735327",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1034,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "Finally Friday - More Illegals Arrested for Voting - Halloween at the White House - Today's News https://t.co/MZ4AZKMKhU",
-   "url": "https://x.com/OreoExpress/status/2116243776939393235"
+   "text": "\u2730\u2730\u2730\u2730\u2730 Friday War Room LIVE: Blue Wave Incoming? GOP Preps for Potential Midterm Bloodbath, As Dems Lay Out Lawfare Plans If They Win Majority... PLUS, Trump &amp; Melania Welcome Trick-Or-Treaters Amid White House Halloween Celebration \u2013 TUNE IN! https://t.co/sbTFipDg98",
+   "url": "https://x.com/infowars/status/2116259046084735327"
+  },
+  {
+   "author_id": "1835652531826913280",
+   "created_at": "2026-10-30T20:01:28.000Z",
+   "edit_history_tweet_ids": [
+    "2116259209226375424"
+   ],
+   "id": "2116259209226375424",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1345,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "\u2730\u2730\u2730\u2730\u2730 War Room LIVE: Blue Wave Incoming? GOP Preps for Potential Midterm Bloodbath, As Dems Lay Out Lawfare Plans If They Win Majority... PLUS, Trump &amp; Melania Welcome Trick-Or-Treaters Amid White House Halloween Celebration \u2013 TUNE IN! https://t.co/l4IgytfRzd",
+   "url": "https://x.com/AJNlive/status/2116259209226375424"
+  },
+  {
+   "author_id": "890980517855866881",
+   "created_at": "2026-10-30T20:02:23.000Z",
+   "edit_history_tweet_ids": [
+    "2116259438826860922"
+   ],
+   "id": "2116259438826860922",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 90,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\u2730\u2730\u2730\u2730\u2730 War Room LIVE: Blue Wave Incoming? GOP Preps for Potential Midterm Bloodbath, As Dems Lay Out Lawfare Plans If They Win Majority... PLUS, Trump &amp; Melania Welcome Trick-Or-Treaters Amid White House Halloween Celebration \u2013 TUNE IN! https://t.co/lKxqa6EePD",
+   "url": "https://x.com/WarRoomShow/status/2116259438826860922"
+  },
+  {
+   "author_id": "109065990",
+   "created_at": "2026-10-30T20:02:00.000Z",
+   "edit_history_tweet_ids": [
+    "2116259345771954302"
+   ],
+   "id": "2116259345771954302",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4610,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\u2730\u2730\u2730\u2730\u2730 WAR ROOM LIVE: Blue Wave Incoming? GOP Preps for Potential Midterm Bloodbath, As Dems Lay Out Lawfare Plans If They Win Majority... PLUS, Trump &amp; Melania Welcome Trick-Or-Treaters Amid White House Halloween Celebration \u2013 TUNE IN! https://t.co/asQkvjhtj0",
+   "url": "https://x.com/RealAlexJones/status/2116259345771954302"
   },
   {
    "author_id": "1900375238548086788",
@@ -501,44 +269,35 @@
    "edit_history_tweet_ids": [
     "2116229571066663377"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "🚨 White House Anti-Fraud Task Force Operations Update From St. Cloud, Minnesota [LIVE]",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 110,
-      "expanded_url": "https://x.com/i/broadcasts/1kJzDPZQLdLKv",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116229573902000128/R9hvLqmp?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116229573902000128/R9hvLqmp?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 87,
-      "status": 200,
-      "title": "MAGNO NEWS LIVE",
-      "unwound_url": "https://x.com/i/broadcasts/1kJzDPZQLdLKv",
-      "url": "https://t.co/uQ46KwjCR6"
-     }
-    ]
-   },
    "id": "2116229571066663377",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 559,
+    "impression_count": 584,
     "like_count": 11,
     "quote_count": 1,
     "reply_count": 1,
     "retweet_count": 8
    },
-   "text": "🚨 White House Anti-Fraud Task Force Operations Update From St. Cloud, Minnesota [LIVE] https://t.co/uQ46KwjCR6",
+   "text": "\ud83d\udea8 White House Anti-Fraud Task Force Operations Update From St. Cloud, Minnesota [LIVE] https://t.co/uQ46KwjCR6",
    "url": "https://x.com/magnonewslive/status/2116229571066663377"
+  },
+  {
+   "author_id": "14574380",
+   "created_at": "2026-10-30T20:00:16.000Z",
+   "edit_history_tweet_ids": [
+    "2116258907815563587"
+   ],
+   "id": "2116258907815563587",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "A conversation between Patrick Lovell and Politics Done Right's Egberto about the Texas Election. https://t.co/cknzx38wvE",
+   "url": "https://x.com/EgbertoWillies/status/2116258907815563587"
   },
   {
    "author_id": "1893075518418747392",
@@ -546,37 +305,10 @@
    "edit_history_tweet_ids": [
     "2116243054156013672"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Friday Stream - ChainsFR REACTION, MAGATARD MISTAKES BAND T SHIRT, Michigan Senate Election",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 115,
-      "expanded_url": "https://x.com/i/broadcasts/1pJkOXkMQloJj",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116243056915845120/haE699iv?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116243056915845120/haE699iv?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 92,
-      "status": 200,
-      "title": "CrispyDrumsTV",
-      "unwound_url": "https://x.com/i/broadcasts/1pJkOXkMQloJj",
-      "url": "https://t.co/47GMN0DAm0"
-     }
-    ]
-   },
    "id": "2116243054156013672",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 70,
+    "impression_count": 85,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -591,37 +323,10 @@
    "edit_history_tweet_ids": [
     "2116214339627581686"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "America Rising News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 43,
-      "expanded_url": "https://x.com/i/broadcasts/2EmWKArkNzANmP",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116214382329798657/JIxhIZN1?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116214382329798657/JIxhIZN1?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 20,
-      "status": 200,
-      "title": "America Rising Media",
-      "unwound_url": "https://x.com/i/broadcasts/2EmWKArkNzANmP",
-      "url": "https://t.co/bKa3kERY7w"
-     }
-    ]
-   },
    "id": "2116214339627581686",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 381,
+    "impression_count": 386,
     "like_count": 10,
     "quote_count": 2,
     "reply_count": 0,
@@ -637,33 +342,10 @@
     "2116244514004402297",
     "2116244639334412336"
    ],
-   "entities": {
-    "mentions": [
-     {
-      "end": 185,
-      "id": "821095705724866560",
-      "start": 175,
-      "username": "TheTNStar"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Live October 30",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 210,
-      "expanded_url": "https://x.com/i/broadcasts/1jGXgBWyogoKZ",
-      "start": 187,
-      "status": 200,
-      "title": "Michael Patrick Leahy",
-      "unwound_url": "https://x.com/i/broadcasts/1jGXgBWyogoKZ",
-      "url": "https://t.co/sTSgZlA3OS"
-     }
-    ]
-   },
    "id": "2116244639334412336",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 224,
+    "impression_count": 246,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -678,103 +360,17 @@
    "edit_history_tweet_ids": [
     "2116244188471984571"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 89,
-      "start": 76,
-      "tag": "CitiNewsroom"
-     }
-    ],
-    "urls": [
-     {
-      "description": "🚨 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 30-10-26 | #CitiNewsroom",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 113,
-      "expanded_url": "https://x.com/i/broadcasts/1YxNrblQVZwxw",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116244191156342784/Fv2KTj0x?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116244191156342784/Fv2KTj0x?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 90,
-      "status": 200,
-      "title": "CITI FM 97.3",
-      "unwound_url": "https://x.com/i/broadcasts/1YxNrblQVZwxw",
-      "url": "https://t.co/KyU7uLuKgC"
-     }
-    ]
-   },
    "id": "2116244188471984571",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 299,
+    "impression_count": 345,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "🚨 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 30-10-26 | #CitiNewsroom https://t.co/KyU7uLuKgC",
+   "text": "\ud83d\udea8 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 30-10-26 | #CitiNewsroom https://t.co/KyU7uLuKgC",
    "url": "https://x.com/Citi973/status/2116244188471984571"
-  },
-  {
-   "author_id": "104872280",
-   "created_at": "2026-10-30T16:59:34.000Z",
-   "edit_history_tweet_ids": [
-    "2116213434983629213"
-   ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 89,
-      "start": 76,
-      "tag": "CitiNewsroom"
-     }
-    ],
-    "urls": [
-     {
-      "description": "🚨 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 30-10-26 | #CitiNewsroom",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 113,
-      "expanded_url": "https://x.com/i/broadcasts/1mxPaZvVALjKN",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116213437529464832/QO2asQK2?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116213437529464832/QO2asQK2?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 90,
-      "status": 200,
-      "title": "CITI FM 97.3",
-      "unwound_url": "https://x.com/i/broadcasts/1mxPaZvVALjKN",
-      "url": "https://t.co/lSL0KJkGio"
-     }
-    ]
-   },
-   "id": "2116213434983629213",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1936,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "🚨 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 30-10-26 | #CitiNewsroom https://t.co/lSL0KJkGio",
-   "url": "https://x.com/Citi973/status/2116213434983629213"
   },
   {
    "author_id": "1398376668192985091",
@@ -782,41 +378,14 @@
    "edit_history_tweet_ids": [
     "2116243985765388675"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Trump rallies MASSIVE CROWDS of FL Republicans with election day FAST approaching! | FLV Radio",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 118,
-      "expanded_url": "https://x.com/i/broadcasts/1XGygwWQeDNxM",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116243988017729536/4cgd8PVP?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116243988017729536/4cgd8PVP?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 95,
-      "status": 200,
-      "title": "Florida’s Voice",
-      "unwound_url": "https://x.com/i/broadcasts/1XGygwWQeDNxM",
-      "url": "https://t.co/o1GC5wJF8Q"
-     }
-    ]
-   },
    "id": "2116243985765388675",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 4986,
-    "like_count": 44,
+    "impression_count": 5657,
+    "like_count": 48,
     "quote_count": 2,
     "reply_count": 5,
-    "retweet_count": 14
+    "retweet_count": 15
    },
    "text": "Trump rallies MASSIVE CROWDS of FL Republicans with election day FAST approaching! | FLV Radio https://t.co/o1GC5wJF8Q",
    "url": "https://x.com/FLVoiceNews/status/2116243985765388675"
@@ -827,31 +396,16 @@
    "edit_history_tweet_ids": [
     "2116248926714224768"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "🚨 POLAND IN CHAOS?! Coup Fears, Political Turmoil & Breaking News | Havoc Report LIVE",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 113,
-      "expanded_url": "https://x.com/i/broadcasts/1MKgNbRMXWjxL",
-      "start": 90,
-      "status": 200,
-      "title": "Wolf Neve 🐺 💥 Politics and News VTuber!",
-      "unwound_url": "https://x.com/i/broadcasts/1MKgNbRMXWjxL",
-      "url": "https://t.co/XjvDb4yaUo"
-     }
-    ]
-   },
    "id": "2116248926714224768",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 88,
+    "impression_count": 110,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "🚨 POLAND IN CHAOS?! Coup Fears, Political Turmoil &amp; Breaking News | Havoc Report LIVE https://t.co/XjvDb4yaUo",
+   "text": "\ud83d\udea8 POLAND IN CHAOS?! Coup Fears, Political Turmoil &amp; Breaking News | Havoc Report LIVE https://t.co/XjvDb4yaUo",
    "url": "https://x.com/wolf_neve/status/2116248926714224768"
   },
   {
@@ -860,59 +414,10 @@
    "edit_history_tweet_ids": [
     "2116214596994568631"
    ],
-   "entities": {
-    "cashtags": [
-     {
-      "end": 23,
-      "start": 18,
-      "tag": "INTL"
-     },
-     {
-      "end": 31,
-      "start": 26,
-      "tag": "GOOG"
-     },
-     {
-      "end": 40,
-      "start": 35,
-      "tag": "MSFT"
-     },
-     {
-      "end": 73,
-      "start": 68,
-      "tag": "NBIS"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Trump Trade Over? $INTL | $GOOG vs $MSFT | Bank of America says buy $NBIS",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 97,
-      "expanded_url": "https://x.com/i/broadcasts/1qGoNYlnQqXKv",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116214639705112576/7S70Viek?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116214639705112576/7S70Viek?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 74,
-      "status": 200,
-      "title": "cbspears ◉",
-      "unwound_url": "https://x.com/i/broadcasts/1qGoNYlnQqXKv",
-      "url": "https://t.co/LiSIa2WT0S"
-     }
-    ]
-   },
    "id": "2116214596994568631",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 330,
+    "impression_count": 335,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -927,45 +432,6 @@
    "edit_history_tweet_ids": [
     "2116248869683994834"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 151,
-      "start": 146,
-      "tag": "MAGA"
-     },
-     {
-      "end": 161,
-      "start": 152,
-      "tag": "TrumpWon"
-     }
-    ],
-    "urls": [
-     {
-      "description": "LIVE: President Trump Holds a Rally in Daytona Beach, FL - 10/30/26",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 185,
-      "expanded_url": "https://x.com/i/broadcasts/1MKgNbRMwkkxL",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116212768709947392/qz_6f2IR?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116212768709947392/qz_6f2IR?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 162,
-      "status": 200,
-      "title": "RSBN 🇺🇸",
-      "unwound_url": "https://x.com/i/broadcasts/1MKgNbRMwkkxL",
-      "url": "https://t.co/K5MbA0aTSA"
-     }
-    ]
-   },
    "id": "2116248869683994834",
    "public_metrics": {
     "bookmark_count": 0,
@@ -975,53 +441,8 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Daytona Beach is GOING CRAZY! Massive crowd for Trump—he's the ONLY President fighting for the PEOPLE! Florida is TRUMP COUNTRY! Trump 2028! 🇺🇸🔥\n #MAGA #TrumpWon\nhttps://t.co/K5MbA0aTSA",
+   "text": "Daytona Beach is GOING CRAZY! Massive crowd for Trump\u2014he's the ONLY President fighting for the PEOPLE! Florida is TRUMP COUNTRY! Trump 2028! \ud83c\uddfa\ud83c\uddf8\ud83d\udd25\n #MAGA #TrumpWon\nhttps://t.co/K5MbA0aTSA",
    "url": "https://x.com/deborah_s1963/status/2116248869683994834"
-  },
-  {
-   "author_id": "28429310",
-   "created_at": "2026-10-30T19:01:06.000Z",
-   "edit_history_tweet_ids": [
-    "2116244019399590346"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: President Trump Holds a Rally in Daytona Beach, FL - 10/30/26",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 279,
-      "expanded_url": "https://x.com/i/broadcasts/1MKgNbRMwkkxL",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116212768709947392/qz_6f2IR?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116212768709947392/qz_6f2IR?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 256,
-      "status": 200,
-      "title": "RSBN 🇺🇸",
-      "unwound_url": "https://x.com/i/broadcasts/1MKgNbRMwkkxL",
-      "url": "https://t.co/IbJJKWlSLW"
-     }
-    ]
-   },
-   "id": "2116244019399590346",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 6,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Washington State is in Daytona Beach!\nThank You RSBN for covering the crowds that converge at each President Trump Rally.  Vote as if POTUS is on the BALLOT!\nInterviews outside of the venue before\nMidterms 2026 is Important Coverage\n\nThank You Team Trump\n\nhttps://t.co/IbJJKWlSLW",
-   "url": "https://x.com/wsuchris/status/2116244019399590346"
   },
   {
    "author_id": "1837539630130122758",
@@ -1029,170 +450,35 @@
    "edit_history_tweet_ids": [
     "2116233699486228940"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "🔴 LIVE: PRESIDENT TRUMP PARTICIPATES IN A ROUNDTABLE",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 76,
-      "expanded_url": "https://x.com/i/broadcasts/2OdmKvgmRXAzRk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116233742259830784/EeIzyqs3?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116233742259830784/EeIzyqs3?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 53,
-      "status": 200,
-      "title": "THE INFORMANT",
-      "unwound_url": "https://x.com/i/broadcasts/2OdmKvgmRXAzRk",
-      "url": "https://t.co/d7oH1fJwUK"
-     }
-    ]
-   },
    "id": "2116233699486228940",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 19,
+    "impression_count": 22,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "🔴 LIVE: PRESIDENT TRUMP PARTICIPATES IN A ROUNDTABLE https://t.co/d7oH1fJwUK",
+   "text": "\ud83d\udd34 LIVE: PRESIDENT TRUMP PARTICIPATES IN A ROUNDTABLE https://t.co/d7oH1fJwUK",
    "url": "https://x.com/TheInformantUSA/status/2116233699486228940"
-  },
-  {
-   "author_id": "4041824789",
-   "created_at": "2026-10-30T16:56:55.000Z",
-   "edit_history_tweet_ids": [
-    "2116212765790740852"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: President Trump Holds a Rally in Daytona Beach, FL - 10/30/26",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 91,
-      "expanded_url": "https://x.com/i/broadcasts/1MKgNbRMwkkxL",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116212768709947392/qz_6f2IR?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116212768709947392/qz_6f2IR?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 68,
-      "status": 200,
-      "title": "RSBN 🇺🇸",
-      "unwound_url": "https://x.com/i/broadcasts/1MKgNbRMwkkxL",
-      "url": "https://t.co/1trIKvpxSo"
-     }
-    ]
-   },
-   "id": "2116212765790740852",
-   "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 8121,
-    "like_count": 314,
-    "quote_count": 3,
-    "reply_count": 15,
-    "retweet_count": 112
-   },
-   "text": "LIVE: President Trump Holds a Rally in Daytona Beach, FL - 10/30/26 https://t.co/1trIKvpxSo",
-   "url": "https://x.com/RSBNetwork/status/2116212765790740852"
-  },
-  {
-   "author_id": "1326462342679441409",
-   "created_at": "2026-10-30T19:01:19.000Z",
-   "edit_history_tweet_ids": [
-    "2116244071945777249"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Amb. Chas Freeman: BREAKING: Israel Fears Trump May End Iran War Too Soon",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 97,
-      "expanded_url": "https://x.com/i/broadcasts/1DxleVAMrEmKL",
-      "start": 74,
-      "status": 200,
-      "title": "Dialogue works",
-      "unwound_url": "https://x.com/i/broadcasts/1DxleVAMrEmKL",
-      "url": "https://t.co/D10zbW2T4m"
-     }
-    ]
-   },
-   "id": "2116244071945777249",
-   "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 863,
-    "like_count": 27,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 6
-   },
-   "text": "Amb. Chas Freeman: BREAKING: Israel Fears Trump May End Iran War Too Soon https://t.co/D10zbW2T4m",
-   "url": "https://x.com/Dialogue_NRA/status/2116244071945777249"
-  },
-  {
-   "author_id": "125346858",
-   "created_at": "2026-10-30T17:59:43.000Z",
-   "edit_history_tweet_ids": [
-    "2116228569370337781"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Politics Today",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 38,
-      "expanded_url": "https://x.com/i/broadcasts/1AKEmvEodMbKL",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116228572167962625/cWyzDuoc?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116228572167962625/cWyzDuoc?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 15,
-      "status": 200,
-      "title": "Channels Television",
-      "unwound_url": "https://x.com/i/broadcasts/1AKEmvEodMbKL",
-      "url": "https://t.co/VuLvHx2Guf"
-     }
-    ]
-   },
-   "id": "2116228569370337781",
-   "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 15875,
-    "like_count": 18,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Politics Today https://t.co/VuLvHx2Guf",
-   "url": "https://x.com/channelstv/status/2116228569370337781"
   }
  ],
  "users": [
+  {
+   "id": "1900375238548086788",
+   "name": "MAGNO NEWS LIVE",
+   "public_metrics": {
+    "followers_count": 2405,
+    "following_count": 276,
+    "like_count": 28,
+    "listed_count": 17,
+    "media_count": 46,
+    "tweet_count": 2158
+   },
+   "username": "magnonewslive",
+   "verified": true,
+   "verified_type": "blue"
+  },
   {
    "id": "1981168481367158784",
    "name": "Angry Conservative",
@@ -1202,7 +488,7 @@
     "like_count": 2282,
     "listed_count": 0,
     "media_count": 31,
-    "tweet_count": 1711
+    "tweet_count": 1712
    },
    "username": "AngryConservat",
    "verified": true,
@@ -1212,7 +498,7 @@
    "id": "56443153",
    "name": "Carolina Panthers",
    "public_metrics": {
-    "followers_count": 2809362,
+    "followers_count": 2809366,
     "following_count": 6930,
     "like_count": 102044,
     "listed_count": 7249,
@@ -1242,12 +528,12 @@
    "id": "31126587",
    "name": "New England Patriots",
    "public_metrics": {
-    "followers_count": 4406825,
+    "followers_count": 4406829,
     "following_count": 404,
     "like_count": 13835,
     "listed_count": 13447,
-    "media_count": 38977,
-    "tweet_count": 70961
+    "media_count": 38978,
+    "tweet_count": 70962
    },
    "username": "Patriots",
    "verified": true,
@@ -1262,7 +548,7 @@
     "like_count": 2745,
     "listed_count": 79,
     "media_count": 3539,
-    "tweet_count": 17879
+    "tweet_count": 17880
    },
    "username": "DiyaTV",
    "verified": true,
@@ -1272,7 +558,7 @@
    "id": "2051754537367588872",
    "name": "White House Task Force to Eliminate Fraud",
    "public_metrics": {
-    "followers_count": 225580,
+    "followers_count": 225584,
     "following_count": 47,
     "like_count": 1,
     "listed_count": 376,
@@ -1284,10 +570,25 @@
    "verified_type": "government"
   },
   {
+   "id": "38425596",
+   "name": "Jose Asenjo",
+   "public_metrics": {
+    "followers_count": 1225,
+    "following_count": 860,
+    "like_count": 132605,
+    "listed_count": 7,
+    "media_count": 4308,
+    "tweet_count": 37536
+   },
+   "username": "AsenjoX",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "1879946117544128512",
    "name": "Dr. Oz CMS",
    "public_metrics": {
-    "followers_count": 103232,
+    "followers_count": 103235,
     "following_count": 125,
     "like_count": 523,
     "listed_count": 381,
@@ -1297,36 +598,6 @@
    "username": "DrOzCMS",
    "verified": true,
    "verified_type": "government"
-  },
-  {
-   "id": "38425596",
-   "name": "Jose Asenjo",
-   "public_metrics": {
-    "followers_count": 1225,
-    "following_count": 860,
-    "like_count": 132602,
-    "listed_count": 7,
-    "media_count": 4308,
-    "tweet_count": 37535
-   },
-   "username": "AsenjoX",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "8824902",
-   "name": "Dallas Cowboys",
-   "public_metrics": {
-    "followers_count": 4156343,
-    "following_count": 280,
-    "like_count": 2625,
-    "listed_count": 12035,
-    "media_count": 40130,
-    "tweet_count": 90193
-   },
-   "username": "dallascowboys",
-   "verified": true,
-   "verified_type": "business"
   },
   {
    "id": "1334358077131276289",
@@ -1344,17 +615,77 @@
    "verified_type": "blue"
   },
   {
-   "id": "1900375238548086788",
-   "name": "MAGNO NEWS LIVE",
+   "id": "14505245",
+   "name": "INFOWARS",
    "public_metrics": {
-    "followers_count": 2405,
-    "following_count": 276,
-    "like_count": 28,
-    "listed_count": 17,
-    "media_count": 46,
-    "tweet_count": 2157
+    "followers_count": 703624,
+    "following_count": 1575,
+    "like_count": 22117,
+    "listed_count": 2807,
+    "media_count": 12894,
+    "tweet_count": 77571
    },
-   "username": "magnonewslive",
+   "username": "infowars",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1835652531826913280",
+   "name": "Alex Jones Network",
+   "public_metrics": {
+    "followers_count": 368913,
+    "following_count": 357,
+    "like_count": 4848,
+    "listed_count": 587,
+    "media_count": 2498,
+    "tweet_count": 7810
+   },
+   "username": "AJNlive",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "890980517855866881",
+   "name": "War Room Live",
+   "public_metrics": {
+    "followers_count": 54322,
+    "following_count": 552,
+    "like_count": 7123,
+    "listed_count": 195,
+    "media_count": 2596,
+    "tweet_count": 12801
+   },
+   "username": "WarRoomShow",
+   "verified": false,
+   "verified_type": "none"
+  },
+  {
+   "id": "109065990",
+   "name": "Alex Jones",
+   "public_metrics": {
+    "followers_count": 4435423,
+    "following_count": 1126,
+    "like_count": 53785,
+    "listed_count": 12777,
+    "media_count": 25115,
+    "tweet_count": 96250
+   },
+   "username": "RealAlexJones",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "14574380",
+   "name": "Egberto Willies, Politics Done Right host \ud83c\uddfa\ud83c\uddf2\ud83c\uddf5\ud83c\udde6",
+   "public_metrics": {
+    "followers_count": 9046,
+    "following_count": 2244,
+    "like_count": 1737,
+    "listed_count": 279,
+    "media_count": 14643,
+    "tweet_count": 73255
+   },
+   "username": "EgbertoWillies",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1407,12 +738,12 @@
    "id": "104872280",
    "name": "CITI FM 97.3",
    "public_metrics": {
-    "followers_count": 1732966,
+    "followers_count": 1732970,
     "following_count": 528,
     "like_count": 2831,
     "listed_count": 716,
-    "media_count": 177855,
-    "tweet_count": 573972
+    "media_count": 177856,
+    "tweet_count": 573973
    },
    "username": "Citi973",
    "verified": true,
@@ -1420,14 +751,14 @@
   },
   {
    "id": "1398376668192985091",
-   "name": "Florida’s Voice",
+   "name": "Florida\u2019s Voice",
    "public_metrics": {
-    "followers_count": 144095,
+    "followers_count": 144097,
     "following_count": 136,
     "like_count": 2058,
     "listed_count": 477,
-    "media_count": 13248,
-    "tweet_count": 53065
+    "media_count": 13250,
+    "tweet_count": 53067
    },
    "username": "FLVoiceNews",
    "verified": true,
@@ -1435,14 +766,14 @@
   },
   {
    "id": "312431760",
-   "name": "Wolf Neve 🐺 💥 Politics and News VTuber!",
+   "name": "Wolf Neve \ud83d\udc3a \ud83d\udca5 Politics and News VTuber!",
    "public_metrics": {
     "followers_count": 1464,
     "following_count": 162,
     "like_count": 18994,
     "listed_count": 13,
-    "media_count": 783,
-    "tweet_count": 19607
+    "media_count": 784,
+    "tweet_count": 19610
    },
    "username": "wolf_neve",
    "verified": true,
@@ -1450,7 +781,7 @@
   },
   {
    "id": "14482845",
-   "name": "cbspears ◉",
+   "name": "cbspears \u25c9",
    "public_metrics": {
     "followers_count": 19157,
     "following_count": 793,
@@ -1479,21 +810,6 @@
    "verified_type": "none"
   },
   {
-   "id": "28429310",
-   "name": "Christopher Joseph Hanrahan 🇺🇸",
-   "public_metrics": {
-    "followers_count": 725,
-    "following_count": 2741,
-    "like_count": 53523,
-    "listed_count": 6,
-    "media_count": 858,
-    "tweet_count": 51844
-   },
-   "username": "wsuchris",
-   "verified": false,
-   "verified_type": "none"
-  },
-  {
    "id": "1837539630130122758",
    "name": "THE INFORMANT",
    "public_metrics": {
@@ -1507,51 +823,6 @@
    "username": "TheInformantUSA",
    "verified": true,
    "verified_type": "business"
-  },
-  {
-   "id": "4041824789",
-   "name": "RSBN 🇺🇸",
-   "public_metrics": {
-    "followers_count": 1163212,
-    "following_count": 977,
-    "like_count": 12325,
-    "listed_count": 2986,
-    "media_count": 17029,
-    "tweet_count": 49830
-   },
-   "username": "RSBNetwork",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
-   "id": "1326462342679441409",
-   "name": "Dialogue works",
-   "public_metrics": {
-    "followers_count": 19280,
-    "following_count": 81,
-    "like_count": 1020,
-    "listed_count": 170,
-    "media_count": 3323,
-    "tweet_count": 6530
-   },
-   "username": "Dialogue_NRA",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "125346858",
-   "name": "Channels Television",
-   "public_metrics": {
-    "followers_count": 7415644,
-    "following_count": 178,
-    "like_count": 4803,
-    "listed_count": 3899,
-    "media_count": 167471,
-    "tweet_count": 252490
-   },
-   "username": "channelstv",
-   "verified": true,
-   "verified_type": "blue"
   }
  ]
 }
