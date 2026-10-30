@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-30T18:16:40Z",
- "searched_at": "2026-10-30T18:16:00Z",
+ "built_at": "2026-10-30T18:31:46Z",
+ "searched_at": "2026-10-30T18:31:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-10-30T20:00:35Z"
   },
   {
-   "post_id": "2116187814689927446",
-   "post_url": "https://x.com/JeffDavisTRUTH/status/2116187814689927446",
-   "name": "Jeff Davis",
-   "username": "JeffDavisTRUTH",
-   "verified_type": "blue",
-   "text": "2026-10-30- Coffee & Politics Greenville Edition. Join Us every Friday, 11AM- 1PM. Today's agenda: Another week, another  Trump Rally, more GOTV push and why VOTE NO on the $1.1 BILLION Penny Tax https://t.co/EfTqgHfxff",
-   "started_at": "2026-10-30T15:17:46.000Z",
-   "assumed_live_until": "2026-10-30T18:17:46Z"
-  },
-  {
    "post_id": "2116208844569542707",
    "post_url": "https://x.com/vonderleyen/status/2116208844569542707",
    "name": "Ursula von der Leyen",
@@ -83,6 +73,16 @@
    "text": "🚨 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 30-10-26 | #CitiNewsroom https://t.co/lSL0KJkGio",
    "started_at": "2026-10-30T16:59:34.000Z",
    "assumed_live_until": "2026-10-30T19:59:34Z"
+  },
+  {
+   "post_id": "2116198048489730497",
+   "post_url": "https://x.com/PatColetrain/status/2116198048489730497",
+   "name": "Pat Coletrain",
+   "username": "PatColetrain",
+   "verified_type": "blue",
+   "text": "🚨 BREAKING NEWS: PANTHERS FIRE EJIRO EVERO! | THE TRAIN STOP LIVE https://t.co/TKAMPAhAI3",
+   "started_at": "2026-10-30T15:58:26.000Z",
+   "assumed_live_until": "2026-10-30T18:58:26Z"
   }
  ]
 }

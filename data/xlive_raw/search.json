@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-30T18:16:00Z",
+ "fetched_at": "2026-10-30T18:31:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-30T15:16:00Z",
+  "start_time": "2026-10-30T15:31:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -22,7 +22,7 @@
    "id": "2116208844569542707",
    "public_metrics": {
     "bookmark_count": 3,
-    "impression_count": 8593,
+    "impression_count": 8724,
     "like_count": 79,
     "quote_count": 5,
     "reply_count": 21,
@@ -50,24 +50,6 @@
    "url": "https://x.com/AngryConservat/status/2116231200557896186"
   },
   {
-   "author_id": "31126587",
-   "created_at": "2026-10-30T17:09:58.000Z",
-   "edit_history_tweet_ids": [
-    "2116216048542519806"
-   ],
-   "id": "2116216048542519806",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 17070,
-    "like_count": 69,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 5
-   },
-   "text": "LIVE: Mike Vrabel Press Conference 10/30 https://t.co/kt3VdKhvwL",
-   "url": "https://x.com/Patriots/status/2116216048542519806"
-  },
-  {
    "author_id": "1652541",
    "created_at": "2026-10-30T16:41:18.000Z",
    "edit_history_tweet_ids": [
@@ -76,7 +58,7 @@
    "id": "2116208834717061480",
    "public_metrics": {
     "bookmark_count": 3,
-    "impression_count": 30932,
+    "impression_count": 31731,
     "like_count": 25,
     "quote_count": 2,
     "reply_count": 4,
@@ -84,6 +66,24 @@
    },
    "text": "Press conference following EU-Canada summit in Montreal https://t.co/vdfpjsuICn",
    "url": "https://x.com/Reuters/status/2116208834717061480"
+  },
+  {
+   "author_id": "31126587",
+   "created_at": "2026-10-30T17:09:58.000Z",
+   "edit_history_tweet_ids": [
+    "2116216048542519806"
+   ],
+   "id": "2116216048542519806",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 18074,
+    "like_count": 73,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 6
+   },
+   "text": "LIVE: Mike Vrabel Press Conference 10/30 https://t.co/kt3VdKhvwL",
+   "url": "https://x.com/Patriots/status/2116216048542519806"
   },
   {
    "author_id": "2295041216",
@@ -94,7 +94,7 @@
    "id": "2116198168815608094",
    "public_metrics": {
     "bookmark_count": 5,
-    "impression_count": 2869,
+    "impression_count": 2935,
     "like_count": 31,
     "quote_count": 0,
     "reply_count": 0,
@@ -102,78 +102,6 @@
    },
    "text": "Head Coach Pat Kelsey press conference, Presented by @NeilHuffman 10-30-26 https://t.co/MFw64S34Op",
    "url": "https://x.com/LouisvilleMBB/status/2116198168815608094"
-  },
-  {
-   "author_id": "1861460408072065024",
-   "created_at": "2026-10-30T15:21:53.000Z",
-   "edit_history_tweet_ids": [
-    "2116188849298874856"
-   ],
-   "id": "2116188849298874856",
-   "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 825,
-    "like_count": 35,
-    "quote_count": 2,
-    "reply_count": 1,
-    "retweet_count": 15
-   },
-   "text": "CFR LIVE: Jessica Jackson Press Conference Featuring Bob Fioretti | Chicago Flips Red https://t.co/xWlv6unp3S",
-   "url": "https://x.com/FlipChicagoRed/status/2116188849298874856"
-  },
-  {
-   "author_id": "725677732919689216",
-   "created_at": "2026-10-30T15:21:52.000Z",
-   "edit_history_tweet_ids": [
-    "2116188847797391393"
-   ],
-   "id": "2116188847797391393",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 329,
-    "like_count": 15,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "CFR LIVE: Jessica Jackson Press Conference Featuring Bob Fioretti | Chicago Flips Red https://t.co/SPVZtU4WKP",
-   "url": "https://x.com/mrstealyourwig1/status/2116188847797391393"
-  },
-  {
-   "author_id": "199331680",
-   "created_at": "2026-10-30T16:31:57.000Z",
-   "edit_history_tweet_ids": [
-    "2116206481741684737"
-   ],
-   "id": "2116206481741684737",
-   "public_metrics": {
-    "bookmark_count": 4,
-    "impression_count": 604,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Head Coach Jeff Walz press conference, Presented by @NeilHuffman 10-30-26 https://t.co/eXFL8QjAsv",
-   "url": "https://x.com/LouisvilleWBB/status/2116206481741684737"
-  },
-  {
-   "author_id": "1879652428490149888",
-   "created_at": "2026-10-30T16:35:30.000Z",
-   "edit_history_tweet_ids": [
-    "2116207377351618970"
-   ],
-   "id": "2116207377351618970",
-   "public_metrics": {
-    "bookmark_count": 114,
-    "impression_count": 79820,
-    "like_count": 1444,
-    "quote_count": 24,
-    "reply_count": 106,
-    "retweet_count": 435
-   },
-   "text": "Secretary of the Treasury Scott Bessent Holds a Fraud Task Force Press Conference in St. Cloud, Minnesota https://t.co/17BahhNtm6",
-   "url": "https://x.com/VP/status/2116207377351618970"
   },
   {
    "author_id": "42548887",
@@ -184,7 +112,7 @@
    "id": "2116219861798166997",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 19,
+    "impression_count": 22,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -194,22 +122,76 @@
    "url": "https://x.com/DiyaTV/status/2116219861798166997"
   },
   {
-   "author_id": "19383279",
-   "created_at": "2026-10-30T15:25:05.000Z",
+   "author_id": "199331680",
+   "created_at": "2026-10-30T16:31:57.000Z",
    "edit_history_tweet_ids": [
-    "2116189654064251070"
+    "2116206481741684737"
    ],
-   "id": "2116189654064251070",
+   "id": "2116206481741684737",
+   "public_metrics": {
+    "bookmark_count": 4,
+    "impression_count": 637,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Head Coach Jeff Walz press conference, Presented by @NeilHuffman 10-30-26 https://t.co/eXFL8QjAsv",
+   "url": "https://x.com/LouisvilleWBB/status/2116206481741684737"
+  },
+  {
+   "author_id": "2051754537367588872",
+   "created_at": "2026-10-30T18:21:00.000Z",
+   "edit_history_tweet_ids": [
+    "2116233926503268584"
+   ],
+   "id": "2116233926503268584",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 3359,
+    "like_count": 96,
+    "quote_count": 1,
+    "reply_count": 9,
+    "retweet_count": 32
+   },
+   "text": "Secretary of the Treasury Scott Bessent Holds a Fraud Task Force Press Conference in St. Cloud, Minnesota\nhttps://t.co/L5hMIbzNIF",
+   "url": "https://x.com/WHFraudTF/status/2116233926503268584"
+  },
+  {
+   "author_id": "1879652428490149888",
+   "created_at": "2026-10-30T16:35:30.000Z",
+   "edit_history_tweet_ids": [
+    "2116207377351618970"
+   ],
+   "id": "2116207377351618970",
+   "public_metrics": {
+    "bookmark_count": 146,
+    "impression_count": 108099,
+    "like_count": 1795,
+    "quote_count": 32,
+    "reply_count": 122,
+    "retweet_count": 555
+   },
+   "text": "Secretary of the Treasury Scott Bessent Holds a Fraud Task Force Press Conference in St. Cloud, Minnesota https://t.co/17BahhNtm6",
+   "url": "https://x.com/VP/status/2116207377351618970"
+  },
+  {
+   "author_id": "1879946117544128512",
+   "created_at": "2026-10-30T18:24:48.000Z",
+   "edit_history_tweet_ids": [
+    "2116234881986339149"
+   ],
+   "id": "2116234881986339149",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 6760,
-    "like_count": 19,
-    "quote_count": 0,
-    "reply_count": 6,
-    "retweet_count": 7
+    "impression_count": 806,
+    "like_count": 12,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 8
    },
-   "text": "Live Press Conference: 10:30 AM CT:Titans HC Robert Saleh, OC Brian Daboll, DC Gus Bradley, Asst. HC/STC John Fassel https://t.co/gxdFNiXi8a",
-   "url": "https://x.com/Titans/status/2116189654064251070"
+   "text": "WATCH: CMS Administrator Dr. Oz joins @USTreasury's @SecScottBessent, FTC's @AFergusonFTC, and @WHFraudTF members in St. Cloud, MN for a War on Fraud press conference.\nhttps://t.co/h55f28inar",
+   "url": "https://x.com/DrOzCMS/status/2116234881986339149"
   },
   {
    "author_id": "38425596",
@@ -220,7 +202,7 @@
    "id": "2116231469689692414",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 16,
+    "impression_count": 40,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -228,24 +210,6 @@
    },
    "text": "LIVE: Treasury Secretary Scott Bessent is holding a Fraud Task Force press conference in St. Cloud, Minnesota, at 2pm ET. \ud83c\uddfa\ud83c\uddf8 \n\nhttps://t.co/UPcy3BgpwS",
    "url": "https://x.com/AsenjoX/status/2116231469689692414"
-  },
-  {
-   "author_id": "8824902",
-   "created_at": "2026-10-30T16:49:01.000Z",
-   "edit_history_tweet_ids": [
-    "2116210776692379863"
-   ],
-   "id": "2116210776692379863",
-   "public_metrics": {
-    "bookmark_count": 6,
-    "impression_count": 11311,
-    "like_count": 35,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 7
-   },
-   "text": "Join HC Brian Schottenheimer from The Star in Frisco for a press conference presented by Pepsi\n \nUp Next \ud83d\udcfa: #AZvsDAL 11/1 on FOX\n \n#DallasCowboys | @pepsi \n\nhttps://t.co/ytl4wR4ChI",
-   "url": "https://x.com/dallascowboys/status/2116210776692379863"
   },
   {
    "author_id": "39844876",
@@ -256,14 +220,68 @@
    "id": "2116203254866686131",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 8784,
-    "like_count": 51,
+    "impression_count": 9034,
+    "like_count": 52,
     "quote_count": 0,
     "reply_count": 3,
-    "retweet_count": 7
+    "retweet_count": 8
    },
    "text": "Today's Press Conference in support of @IvanRaiklin  and @feds4freedomusa : Adirim's Memo under the microscope - Those responsible for illegal DoD COVID vax mandates must be held accountable!  https://t.co/7Ti5bjkjb0",
    "url": "https://x.com/RWMaloneMD/status/2116203254866686131"
+  },
+  {
+   "author_id": "8824902",
+   "created_at": "2026-10-30T16:49:01.000Z",
+   "edit_history_tweet_ids": [
+    "2116210776692379863"
+   ],
+   "id": "2116210776692379863",
+   "public_metrics": {
+    "bookmark_count": 6,
+    "impression_count": 11881,
+    "like_count": 36,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 7
+   },
+   "text": "Join HC Brian Schottenheimer from The Star in Frisco for a press conference presented by Pepsi\n \nUp Next \ud83d\udcfa: #AZvsDAL 11/1 on FOX\n \n#DallasCowboys | @pepsi \n\nhttps://t.co/ytl4wR4ChI",
+   "url": "https://x.com/dallascowboys/status/2116210776692379863"
+  },
+  {
+   "author_id": "1884415074489503744",
+   "created_at": "2026-10-30T18:27:48.000Z",
+   "edit_history_tweet_ids": [
+    "2116235636835565787"
+   ],
+   "id": "2116235636835565787",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Secretary of the Treasury Scott Bessent Holds \n\na Fraud Task Force Press Conference in St. Cloud, MN \n\nhttps://t.co/F1pHLFsLur \n\nhttps://t.co/yQhqreLb8P\n\n LIVE    2:27 PM EASTERN    FRIDAY https://t.co/dR7Dljsjko",
+   "url": "https://x.com/Scramblepad/status/2116235636835565787"
+  },
+  {
+   "author_id": "1884415074489503744",
+   "created_at": "2026-10-30T18:21:19.000Z",
+   "edit_history_tweet_ids": [
+    "2116234006723522589"
+   ],
+   "id": "2116234006723522589",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Secretary of the Treasury Scott Bessent Holds a Fraud Task Force Press Conference in St. Cloud, MN\nhttps://t.co/RKAVUen7A0\n\nhttps://t.co/yQhqreLb8P\n\nLIVE    2:21 PM EASTERN    FRIDAY https://t.co/8KnTIViQzX",
+   "url": "https://x.com/Scramblepad/status/2116234006723522589"
   },
   {
    "author_id": "1900375238548086788",
@@ -274,11 +292,11 @@
    "id": "2116229571066663377",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 80,
-    "like_count": 5,
-    "quote_count": 0,
+    "impression_count": 167,
+    "like_count": 7,
+    "quote_count": 1,
     "reply_count": 0,
-    "retweet_count": 3
+    "retweet_count": 5
    },
    "text": "\ud83d\udea8 White House Anti-Fraud Task Force Operations Update From St. Cloud, Minnesota [LIVE] https://t.co/uQ46KwjCR6",
    "url": "https://x.com/magnonewslive/status/2116229571066663377"
@@ -292,11 +310,11 @@
    "id": "2116199632737075525",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 1113,
-    "like_count": 22,
+    "impression_count": 1152,
+    "like_count": 23,
     "quote_count": 0,
     "reply_count": 4,
-    "retweet_count": 19
+    "retweet_count": 21
    },
    "text": "Crossfire Hurricane Receipts; Trump Virtual Rallies; Part 39 Follow the Bloodlines https://t.co/19IYxuDvi0",
    "url": "https://x.com/intheMatrixxx/status/2116199632737075525"
@@ -310,8 +328,8 @@
    "id": "2116213687212183893",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 73,
-    "like_count": 2,
+    "impression_count": 117,
+    "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
@@ -328,7 +346,7 @@
    "id": "2116202963714580693",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 318,
+    "impression_count": 325,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
@@ -336,24 +354,6 @@
    },
    "text": "\"Just the sheer size of the SBC makes it one of the most important parts of that bulwark. We do have a responsibility because so much of what is attacking our culture is at its core spiritual and theological\" \n\nPresident Willy Rice on the SBC  &amp; politics\nhttps://t.co/MX94ARcDI7",
    "url": "https://x.com/BaptistLeaders/status/2116202963714580693"
-  },
-  {
-   "author_id": "164381844",
-   "created_at": "2026-10-30T15:17:46.000Z",
-   "edit_history_tweet_ids": [
-    "2116187814689927446"
-   ],
-   "id": "2116187814689927446",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 71,
-    "like_count": 6,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 5
-   },
-   "text": "2026-10-30- Coffee &amp; Politics Greenville Edition. Join Us every Friday, 11AM- 1PM. Today's agenda: Another week, another  Trump Rally, more GOTV push and why VOTE NO on the $1.1 BILLION Penny Tax https://t.co/EfTqgHfxff",
-   "url": "https://x.com/JeffDavisTRUTH/status/2116187814689927446"
   },
   {
    "author_id": "1761697828655480832",
@@ -364,11 +364,11 @@
    "id": "2116214339627581686",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 150,
-    "like_count": 8,
+    "impression_count": 201,
+    "like_count": 9,
     "quote_count": 2,
     "reply_count": 0,
-    "retweet_count": 4
+    "retweet_count": 5
    },
    "text": "America Rising News https://t.co/bKa3kERY7w",
    "url": "https://x.com/_ARMedia/status/2116214339627581686"
@@ -382,7 +382,7 @@
    "id": "2116213434983629213",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1681,
+    "impression_count": 1739,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -390,42 +390,6 @@
    },
    "text": "\ud83d\udea8 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 30-10-26 | #CitiNewsroom https://t.co/lSL0KJkGio",
    "url": "https://x.com/Citi973/status/2116213434983629213"
-  },
-  {
-   "author_id": "903316311517921280",
-   "created_at": "2026-10-30T16:10:45.000Z",
-   "edit_history_tweet_ids": [
-    "2116201146616533318"
-   ],
-   "id": "2116201146616533318",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 59,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Breaking News Now Featuring Special Guest Max Garland with Supply Chain Dive https://t.co/JFcxLEl7Ch",
-   "url": "https://x.com/_supplychainnow/status/2116201146616533318"
-  },
-  {
-   "author_id": "86627118",
-   "created_at": "2026-10-30T15:58:26.000Z",
-   "edit_history_tweet_ids": [
-    "2116198048489730497"
-   ],
-   "id": "2116198048489730497",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 340,
-    "like_count": 7,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "\ud83d\udea8 BREAKING NEWS: PANTHERS FIRE EJIRO EVERO! | THE TRAIN STOP LIVE https://t.co/TKAMPAhAI3",
-   "url": "https://x.com/PatColetrain/status/2116198048489730497"
   },
   {
    "author_id": "898762021",
@@ -436,7 +400,7 @@
    "id": "2116201146931114455",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 174,
+    "impression_count": 180,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -444,6 +408,42 @@
    },
    "text": "Breaking News Now Featuring Special Guest Max Garland with Supply Chain Dive https://t.co/J7Lcqu6Ajw",
    "url": "https://x.com/ScottWLuton/status/2116201146931114455"
+  },
+  {
+   "author_id": "86627118",
+   "created_at": "2026-10-30T15:58:26.000Z",
+   "edit_history_tweet_ids": [
+    "2116198048489730497"
+   ],
+   "id": "2116198048489730497",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 345,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "\ud83d\udea8 BREAKING NEWS: PANTHERS FIRE EJIRO EVERO! | THE TRAIN STOP LIVE https://t.co/TKAMPAhAI3",
+   "url": "https://x.com/PatColetrain/status/2116198048489730497"
+  },
+  {
+   "author_id": "903316311517921280",
+   "created_at": "2026-10-30T16:10:45.000Z",
+   "edit_history_tweet_ids": [
+    "2116201146616533318"
+   ],
+   "id": "2116201146616533318",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 62,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Breaking News Now Featuring Special Guest Max Garland with Supply Chain Dive https://t.co/JFcxLEl7Ch",
+   "url": "https://x.com/_supplychainnow/status/2116201146616533318"
   },
   {
    "author_id": "14482845",
@@ -454,7 +454,7 @@
    "id": "2116214596994568631",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 281,
+    "impression_count": 291,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -469,7 +469,7 @@
    "id": "1146329871418843136",
    "name": "Ursula von der Leyen",
    "public_metrics": {
-    "followers_count": 1728240,
+    "followers_count": 1728247,
     "following_count": 281,
     "like_count": 591,
     "listed_count": 9296,
@@ -496,6 +496,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "1652541",
+   "name": "Reuters",
+   "public_metrics": {
+    "followers_count": 26440166,
+    "following_count": 1196,
+    "like_count": 669,
+    "listed_count": 138012,
+    "media_count": 1016146,
+    "tweet_count": 1405928
+   },
+   "username": "Reuters",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
    "id": "31126587",
    "name": "New England Patriots",
    "public_metrics": {
@@ -507,21 +522,6 @@
     "tweet_count": 70960
    },
    "username": "Patriots",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
-   "id": "1652541",
-   "name": "Reuters",
-   "public_metrics": {
-    "followers_count": 26440119,
-    "following_count": 1196,
-    "like_count": 669,
-    "listed_count": 138011,
-    "media_count": 1016146,
-    "tweet_count": 1405925
-   },
-   "username": "Reuters",
    "verified": true,
    "verified_type": "business"
   },
@@ -541,32 +541,17 @@
    "verified_type": "blue"
   },
   {
-   "id": "1861460408072065024",
-   "name": "Chicago Flips Red",
+   "id": "42548887",
+   "name": "Diya TV",
    "public_metrics": {
-    "followers_count": 35824,
-    "following_count": 158,
-    "like_count": 2678,
-    "listed_count": 60,
-    "media_count": 3410,
-    "tweet_count": 9159
+    "followers_count": 2565,
+    "following_count": 2027,
+    "like_count": 2745,
+    "listed_count": 79,
+    "media_count": 3539,
+    "tweet_count": 17879
    },
-   "username": "FlipChicagoRed",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "725677732919689216",
-   "name": "Zoe Leigh \ud83c\uddfa\ud83c\uddf8\ud83c\udf39",
-   "public_metrics": {
-    "followers_count": 12177,
-    "following_count": 620,
-    "like_count": 7911,
-    "listed_count": 36,
-    "media_count": 9336,
-    "tweet_count": 124163
-   },
-   "username": "mrstealyourwig1",
+   "username": "DiyaTV",
    "verified": true,
    "verified_type": "blue"
   },
@@ -586,49 +571,49 @@
    "verified_type": "blue"
   },
   {
+   "id": "2051754537367588872",
+   "name": "White House Task Force to Eliminate Fraud",
+   "public_metrics": {
+    "followers_count": 225562,
+    "following_count": 47,
+    "like_count": 1,
+    "listed_count": 376,
+    "media_count": 51,
+    "tweet_count": 2286
+   },
+   "username": "WHFraudTF",
+   "verified": true,
+   "verified_type": "government"
+  },
+  {
    "id": "1879652428490149888",
    "name": "Vice President JD Vance",
    "public_metrics": {
-    "followers_count": 1317609,
+    "followers_count": 1317662,
     "following_count": 28,
     "like_count": 165,
     "listed_count": 3338,
-    "media_count": 588,
-    "tweet_count": 3220
+    "media_count": 589,
+    "tweet_count": 3221
    },
    "username": "VP",
    "verified": true,
    "verified_type": "government"
   },
   {
-   "id": "42548887",
-   "name": "Diya TV",
+   "id": "1879946117544128512",
+   "name": "Dr. Oz CMS",
    "public_metrics": {
-    "followers_count": 2565,
-    "following_count": 2027,
-    "like_count": 2745,
-    "listed_count": 79,
-    "media_count": 3539,
-    "tweet_count": 17879
+    "followers_count": 103219,
+    "following_count": 125,
+    "like_count": 522,
+    "listed_count": 381,
+    "media_count": 651,
+    "tweet_count": 1655
    },
-   "username": "DiyaTV",
+   "username": "DrOzCMS",
    "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "19383279",
-   "name": "Tennessee Titans",
-   "public_metrics": {
-    "followers_count": 1048042,
-    "following_count": 1874,
-    "like_count": 26584,
-    "listed_count": 6629,
-    "media_count": 30294,
-    "tweet_count": 68495
-   },
-   "username": "Titans",
-   "verified": true,
-   "verified_type": "business"
+   "verified_type": "government"
   },
   {
    "id": "38425596",
@@ -636,12 +621,27 @@
    "public_metrics": {
     "followers_count": 1225,
     "following_count": 860,
-    "like_count": 132588,
+    "like_count": 132596,
     "listed_count": 7,
     "media_count": 4308,
-    "tweet_count": 37534
+    "tweet_count": 37535
    },
    "username": "AsenjoX",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "39844876",
+   "name": "Robert W Malone, MD",
+   "public_metrics": {
+    "followers_count": 1323629,
+    "following_count": 1828,
+    "like_count": 28054,
+    "listed_count": 4723,
+    "media_count": 3150,
+    "tweet_count": 30520
+   },
+   "username": "RWMaloneMD",
    "verified": true,
    "verified_type": "blue"
   },
@@ -649,7 +649,7 @@
    "id": "8824902",
    "name": "Dallas Cowboys",
    "public_metrics": {
-    "followers_count": 4156377,
+    "followers_count": 4156380,
     "following_count": 280,
     "like_count": 2625,
     "listed_count": 12035,
@@ -661,19 +661,19 @@
    "verified_type": "business"
   },
   {
-   "id": "39844876",
-   "name": "Robert W Malone, MD",
+   "id": "1884415074489503744",
+   "name": "\" SCRAMBLEPAD \"",
    "public_metrics": {
-    "followers_count": 1323627,
-    "following_count": 1828,
-    "like_count": 28054,
-    "listed_count": 4723,
-    "media_count": 3150,
-    "tweet_count": 30520
+    "followers_count": 4,
+    "following_count": 77,
+    "like_count": 864,
+    "listed_count": 0,
+    "media_count": 393,
+    "tweet_count": 774
    },
-   "username": "RWMaloneMD",
-   "verified": true,
-   "verified_type": "blue"
+   "username": "Scramblepad",
+   "verified": false,
+   "verified_type": "none"
   },
   {
    "id": "1900375238548086788",
@@ -696,7 +696,7 @@
    "public_metrics": {
     "followers_count": 182691,
     "following_count": 42614,
-    "like_count": 338437,
+    "like_count": 338441,
     "listed_count": 777,
     "media_count": 52057,
     "tweet_count": 146353
@@ -726,27 +726,12 @@
    "public_metrics": {
     "followers_count": 13872,
     "following_count": 947,
-    "like_count": 10790,
+    "like_count": 10791,
     "listed_count": 100,
     "media_count": 782,
     "tweet_count": 8869
    },
    "username": "BaptistLeaders",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "164381844",
-   "name": "Jeff Davis",
-   "public_metrics": {
-    "followers_count": 554,
-    "following_count": 859,
-    "like_count": 6075,
-    "listed_count": 6,
-    "media_count": 149,
-    "tweet_count": 837
-   },
-   "username": "JeffDavisTRUTH",
    "verified": true,
    "verified_type": "blue"
   },
@@ -769,31 +754,31 @@
    "id": "104872280",
    "name": "CITI FM 97.3",
    "public_metrics": {
-    "followers_count": 1732960,
+    "followers_count": 1732959,
     "following_count": 528,
     "like_count": 2831,
     "listed_count": 716,
     "media_count": 177854,
-    "tweet_count": 573968
+    "tweet_count": 573969
    },
    "username": "Citi973",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "903316311517921280",
-   "name": "Supply Chain Now",
+   "id": "898762021",
+   "name": "Scott W. Luton",
    "public_metrics": {
-    "followers_count": 24249,
-    "following_count": 10990,
-    "like_count": 8159,
-    "listed_count": 204,
-    "media_count": 11467,
-    "tweet_count": 31223
+    "followers_count": 40984,
+    "following_count": 22488,
+    "like_count": 67686,
+    "listed_count": 388,
+    "media_count": 7117,
+    "tweet_count": 76340
    },
-   "username": "_supplychainnow",
+   "username": "ScottWLuton",
    "verified": true,
-   "verified_type": "business"
+   "verified_type": "blue"
   },
   {
    "id": "86627118",
@@ -811,19 +796,19 @@
    "verified_type": "blue"
   },
   {
-   "id": "898762021",
-   "name": "Scott W. Luton",
+   "id": "903316311517921280",
+   "name": "Supply Chain Now",
    "public_metrics": {
-    "followers_count": 40983,
-    "following_count": 22488,
-    "like_count": 67686,
-    "listed_count": 388,
-    "media_count": 7117,
-    "tweet_count": 76340
+    "followers_count": 24249,
+    "following_count": 10990,
+    "like_count": 8159,
+    "listed_count": 204,
+    "media_count": 11467,
+    "tweet_count": 31223
    },
-   "username": "ScottWLuton",
+   "username": "_supplychainnow",
    "verified": true,
-   "verified_type": "blue"
+   "verified_type": "business"
   },
   {
    "id": "14482845",
