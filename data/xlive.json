@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-30T21:38:10Z",
- "searched_at": "2026-10-30T21:37:50Z",
+ "built_at": "2026-10-30T21:55:16Z",
+ "searched_at": "2026-10-30T21:55:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,16 +15,6 @@
    "assumed_live_until": "2026-10-30T22:00:58Z"
   },
   {
-   "post_id": "2116259046084735327",
-   "post_url": "https://x.com/infowars/status/2116259046084735327",
-   "name": "INFOWARS",
-   "username": "infowars",
-   "verified_type": "blue",
-   "text": "✰✰✰✰✰ Friday War Room LIVE: Blue Wave Incoming? GOP Preps for Potential Midterm Bloodbath, As Dems Lay Out Lawfare Plans If They Win Majority... PLUS, Trump & Melania Welcome Trick-Or-Treaters Amid White House Halloween Celebration – TUNE IN! https://t.co/sbTFipDg98",
-   "started_at": "2026-10-30T20:00:49.000Z",
-   "assumed_live_until": "2026-10-30T23:00:49Z"
-  },
-  {
    "post_id": "2116279058120237418",
    "post_url": "https://x.com/AgendaFreeTV/status/2116279058120237418",
    "name": "Agenda-Free TV",
@@ -35,14 +25,24 @@
    "assumed_live_until": "2026-10-31T00:20:20Z"
   },
   {
-   "post_id": "2116280527506354596",
-   "post_url": "https://x.com/Republicans/status/2116280527506354596",
-   "name": "Republicans",
-   "username": "Republicans",
+   "post_id": "2116259046084735327",
+   "post_url": "https://x.com/infowars/status/2116259046084735327",
+   "name": "INFOWARS",
+   "username": "infowars",
    "verified_type": "blue",
-   "text": "Midterm Rally in Daytona, Florida featuring President Donald J. Trump https://t.co/aka78inP1Z",
-   "started_at": "2026-10-30T21:26:11.000Z",
-   "assumed_live_until": "2026-10-31T00:26:11Z"
+   "text": "✰✰✰✰✰ Friday War Room LIVE: Blue Wave Incoming? GOP Preps for Potential Midterm Bloodbath, As Dems Lay Out Lawfare Plans If They Win Majority... PLUS, Trump & Melania Welcome Trick-Or-Treaters Amid White House Halloween Celebration – TUNE IN! https://t.co/sbTFipDg98",
+   "started_at": "2026-10-30T20:00:49.000Z",
+   "assumed_live_until": "2026-10-30T23:00:49Z"
+  },
+  {
+   "post_id": "2116283074048876686",
+   "post_url": "https://x.com/NewsHour/status/2116283074048876686",
+   "name": "PBS News",
+   "username": "NewsHour",
+   "verified_type": "blue",
+   "text": "WATCH LIVE: Trump speaks at Florida midterm rally as Election Day nears https://t.co/H5rhW8M9mA",
+   "started_at": "2026-10-30T21:36:18.000Z",
+   "assumed_live_until": "2026-10-31T00:36:18Z"
   },
   {
    "post_id": "2116273600168701953",
@@ -65,16 +65,6 @@
    "assumed_live_until": "2026-10-30T23:55:17Z"
   },
   {
-   "post_id": "2116283074048876686",
-   "post_url": "https://x.com/NewsHour/status/2116283074048876686",
-   "name": "PBS News",
-   "username": "NewsHour",
-   "verified_type": "blue",
-   "text": "WATCH LIVE: Trump speaks at Florida midterm rally as Election Day nears https://t.co/H5rhW8M9mA",
-   "started_at": "2026-10-30T21:36:18.000Z",
-   "assumed_live_until": "2026-10-31T00:36:18Z"
-  },
-  {
    "post_id": "2116259438826860922",
    "post_url": "https://x.com/WarRoomShow/status/2116259438826860922",
    "name": "War Room Live",
@@ -83,6 +73,16 @@
    "text": "✰✰✰✰✰ War Room LIVE: Blue Wave Incoming? GOP Preps for Potential Midterm Bloodbath, As Dems Lay Out Lawfare Plans If They Win Majority... PLUS, Trump & Melania Welcome Trick-Or-Treaters Amid White House Halloween Celebration – TUNE IN! https://t.co/lKxqa6EePD",
    "started_at": "2026-10-30T20:02:23.000Z",
    "assumed_live_until": "2026-10-30T23:02:23Z"
+  },
+  {
+   "post_id": "2116277634208551144",
+   "post_url": "https://x.com/TheRalphRetort/status/2116277634208551144",
+   "name": "Ethan Ralph",
+   "username": "TheRalphRetort",
+   "verified_type": "blue",
+   "text": "KILLSTREAM: James Edwards Live on Trump & The Election + The Weekender https://t.co/6yVsf2uTHD",
+   "started_at": "2026-10-30T21:14:41.000Z",
+   "assumed_live_until": "2026-10-31T00:14:41Z"
   }
  ]
 }
