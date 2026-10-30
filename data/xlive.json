@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-30T23:04:31Z",
- "searched_at": "2026-10-30T23:04:00Z",
+ "built_at": "2026-10-30T23:20:44Z",
+ "searched_at": "2026-10-30T23:20:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-10-30T23:58:39Z"
   },
   {
-   "post_id": "2116272755129888982",
-   "post_url": "https://x.com/RedPill78/status/2116272755129888982",
-   "name": "Zak Paine",
-   "username": "RedPill78",
-   "verified_type": "blue",
-   "text": "DOJ Starts Issuing Subpoena’s To CA Election Workers on Red Pill News Live https://t.co/ciB9UQ82TD",
-   "started_at": "2026-10-30T20:55:17.000Z",
-   "assumed_live_until": "2026-10-30T23:55:17Z"
-  },
-  {
    "post_id": "2116288914327736808",
    "post_url": "https://x.com/barrycunningham/status/2116288914327736808",
    "name": "Barry Cunningham",
@@ -63,6 +53,16 @@
    "text": "LIVE TRUMP RALLY TONIGHT IN DAYTONA BEACH!  | And More News! https://t.co/BgYssKrPpW",
    "started_at": "2026-10-30T21:59:30.000Z",
    "assumed_live_until": "2026-10-31T00:59:30Z"
+  },
+  {
+   "post_id": "2116272755129888982",
+   "post_url": "https://x.com/RedPill78/status/2116272755129888982",
+   "name": "Zak Paine",
+   "username": "RedPill78",
+   "verified_type": "blue",
+   "text": "DOJ Starts Issuing Subpoena’s To CA Election Workers on Red Pill News Live https://t.co/ciB9UQ82TD",
+   "started_at": "2026-10-30T20:55:17.000Z",
+   "assumed_live_until": "2026-10-30T23:55:17Z"
   },
   {
    "post_id": "2116282485130879386",
