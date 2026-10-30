@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T16:56:00Z",
+ "fetched_at": "2026-10-30T17:59:00Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -77,43 +77,42 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115588174927806627"
-    },
-    {
-     "post_id": "2115937164345094524"
-    },
-    {
-     "post_id": "2115909052370665680"
-    },
-    {
      "post_id": "2115623563440894171"
     },
     {
+     "post_id": "2116193273731490024"
+    },
+    {
      "post_id": "2115937164345094524"
     },
     {
-     "post_id": "2115909052370665680"
+     "post_id": "2116161927894483421"
     },
     {
-     "post_id": "2116170271694729331"
+     "post_id": "2116161927894483421"
     },
     {
-     "post_id": "2115945374322176149"
+     "post_id": "2116193273731490024"
     },
     {
-     "post_id": "2115944561583489471"
+     "post_id": "2116149718740840475"
     },
     {
-     "post_id": "2116134874981474321"
+     "post_id": "2116167430057906407"
+    },
+    {
+     "post_id": "2116149936144445818"
+    },
+    {
+     "post_id": "2116168746763157614"
     }
    ],
    "contexts": {
     "entities": {
-     "events": [],
-     "organizations": [
-      "Democrats",
-      "Republicans"
+     "events": [
+      "Election"
      ],
+     "organizations": [],
      "people": [],
      "places": [],
      "products": []
@@ -125,17 +124,81 @@
      "teams": []
     },
     "topics": [
-     "News",
      "Elections"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Comedian Terrence K. Williams declared his vote for Republicans in Texas, firing back at critics with a simple mantra: 'My Black vote. My choice. My right. Get over it!'",
-   "id": "2116002833426485665",
-   "name": "Black Voters Assert Choice in Backing Republicans This Election",
-   "summary": "Williams explained his straight Republican ballot, including support for Attorney General Ken Paxton, after receiving Democratic mailers, stressing that his vote is his alone. Others voiced frustration with longstanding Democratic loyalty despite unkept promises and highlighted studies showing White women as top beneficiaries of DEI programs. A resurfaced 1989 Trump clip claimed well-educated Black people hold job market advantages, fueling talks on accountability and personal agency ahead of the 2026 midterms, even as surveys show most Black voters still lean Democratic.",
-   "updated_at": "2026-10-30T16:04:34.000Z",
-   "url": "https://x.com/i/trending/2116002833426485665"
+   "hook": "As early ballots pile up, Black Americans share raw frustrations online about where their votes truly deliver results. Personal stories like Terrence K. Williams proudly casting his for Republicans highlight the growing push for independent choices.",
+   "id": "2116222748728996196",
+   "name": "Black Voters Debate Party Loyalty Ahead of Midterms",
+   "summary": "Discussions heat up with users like TifahCrump777 calling out blind Democratic loyalty, arguing for policies that actually help Black communities, while others warn against Republican policies worsening conditions. Conservative voice Terrence K. Williams declared his Republican vote amid backlash, insisting it's his right. With Republicans holding narrow congressional majorities under President Trump and Black unemployment ticking up to 7.0 percent, debates mix economic data, historical records, and calls for strategic voting in this pivotal bloc ahead of November 3.",
+   "updated_at": "2026-10-30T17:48:24.000Z",
+   "url": "https://x.com/i/trending/2116222748728996196"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2116200706650821076"
+    },
+    {
+     "post_id": "2116184420147208397"
+    },
+    {
+     "post_id": "2116159953496920180"
+    },
+    {
+     "post_id": "2116200706650821076"
+    },
+    {
+     "post_id": "2116184420147208397"
+    },
+    {
+     "post_id": "2116159953496920180"
+    },
+    {
+     "post_id": "2116150538517487914"
+    },
+    {
+     "post_id": "2116174981155422393"
+    },
+    {
+     "post_id": "2116194665666093066"
+    },
+    {
+     "post_id": "2116144364405575768"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Texas",
+      "California",
+      "Washington",
+      "Lubbock"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "As early voting wrapped up on October 30, posts flooded in from locals worried that newcomers from California and Washington are bringing the policies they fled right to Texas.",
+   "id": "2116219632336195929",
+   "name": "Texas Voters Urged to Vote Red Amid Warnings of Blue-State Migrants",
+   "summary": "Gunther Eagleman and others highlighted Californians moving to Texas for low taxes and jobs, but now planning Democratic votes, urging residents to check their counties and vote red before Election Day on November 3. Examples include a Washington transplant casting two blue votes in Lubbock County and a California arrival in McKinney backing public transit policies, drawing backlash from those who see it as recreating high-cost problems. With nearly 94,000 Californians relocating in 2023 alone, conservatives stress preserving Texas's red foundation in tight races like attorney general and governor, while a 'Vote Red' graphic rallies support.",
+   "updated_at": "2026-10-30T17:31:48.000Z",
+   "url": "https://x.com/i/trending/2116219632336195929"
   },
   {
    "category": "News",
@@ -197,9 +260,78 @@
    "hook": "With midterms just days away, Speaker Mike Johnson took to Fox News to remind voters of Republican gains on costs, taxes, and safety amid fierce partisan clashes.",
    "id": "2115980214362886340",
    "name": "Mike Johnson Highlights GOP Wins and Warns of Left-Wing Democratic Shift",
-   "summary": "Johnson touted Republican successes like lowering costs, cutting taxes for families, safer streets, and restoring American strength, while cautioning that Democrats would undo them if they regain power. He warned of a progressive 'left-wing bloc'—including figures like Melat Kiros and Darializa Avila—poised to influence Hakeem Jeffries with demands to end borders, defund police, and more. Critics countered with claims of Democratic deficits, inflation, and unkept promises, as a graphic accused Republicans of lacking a clear voter plan. The exchanges highlight the tight races set for November 3.",
+   "summary": "Johnson touted Republican successes like lowering costs, cutting taxes for families, safer streets, and restoring American strength, while cautioning that Democrats would undo them if they regain power. He warned of a progressive 'left-wing bloc'\u2014including figures like Melat Kiros and Darializa Avila\u2014poised to influence Hakeem Jeffries with demands to end borders, defund police, and more. Critics countered with claims of Democratic deficits, inflation, and unkept promises, as a graphic accused Republicans of lacking a clear voter plan. The exchanges highlight the tight races set for November 3.",
    "updated_at": "2026-10-30T01:38:11.000Z",
    "url": "https://x.com/i/trending/2115980214362886340"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2116147387584676149"
+    },
+    {
+     "post_id": "2116176789819257338"
+    },
+    {
+     "post_id": "2116183294815637658"
+    },
+    {
+     "post_id": "2116193917339046018"
+    },
+    {
+     "post_id": "2116179586211807446"
+    },
+    {
+     "post_id": "2116147387584676149"
+    },
+    {
+     "post_id": "2116173393733259630"
+    },
+    {
+     "post_id": "2116193917339046018"
+    },
+    {
+     "post_id": "2116176789819257338"
+    },
+    {
+     "post_id": "2116184687433416915"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Cook Political Report"
+     ],
+     "people": [],
+     "places": [
+      "Colorado's 5th",
+      "Pennsylvania's 1st",
+      "South Carolina's 1st",
+      "Florida's 7th",
+      "Florida's 9th"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Four days from the 2026 midterms, a key nonpartisan forecast just tilted the House battleground map blue in a big way.",
+   "id": "2116179724112429274",
+   "name": "Cook Report Shifts 12 House Races Toward Democrats Before Midterms",
+   "summary": "The Cook Political Report moved a dozen races in Democrats' favor, projecting they could flip 12 to 25 seats for a majority as large as 240\u2014their biggest since 2009. Solid, likely, or lean Democratic seats now total 222, with shifts in states like Colorado, Pennsylvania, South Carolina, Florida, and others turning GOP-held districts into toss-ups or Democratic leans. Other forecasters like Decision Desk HQ give Democrats an 82% chance of 239 seats, while Sabato\u2019s Crystal Ball predicts a 239-196 House edge and 53-47 Senate majority, though analysts caution that turnout and final voter choices on November 3 will decide it all.",
+   "updated_at": "2026-10-30T17:21:10.000Z",
+   "url": "https://x.com/i/trending/2116179724112429274"
   },
   {
    "category": "News",
@@ -393,7 +525,7 @@
    "hook": "Kirk Herbstreit stepped up as keynote speaker at a major Alabama fundraiser, just hours before calling a primetime NFL game. It came weeks after he described himself as apolitical and right down the middle.",
    "id": "2115482520712004011",
    "name": "Herbstreit Headlines Alabama GOP PAC Fundraiser After Claiming Political Neutrality",
-   "summary": "ESPN analyst Kirk Herbstreit keynoted the Business Council of Alabama's October 21 dinner supporting its Progress PAC, which has donated $2.6 million to Republicans since 2024—far outpacing its $260,000 to Democrats. This drew backlash for clashing with his mid-September statement that he doesn't get into politics or pick sides, especially after Sen. Ted Cruz's College GameDay appearance. The PAC sent $155,000 to Sen. Tommy Tuberville's gubernatorial campaign the next day, sparking divided reactions from hypocrisy claims to defenses of his conservative leanings.",
+   "summary": "ESPN analyst Kirk Herbstreit keynoted the Business Council of Alabama's October 21 dinner supporting its Progress PAC, which has donated $2.6 million to Republicans since 2024\u2014far outpacing its $260,000 to Democrats. This drew backlash for clashing with his mid-September statement that he doesn't get into politics or pick sides, especially after Sen. Ted Cruz's College GameDay appearance. The PAC sent $155,000 to Sen. Tommy Tuberville's gubernatorial campaign the next day, sparking divided reactions from hypocrisy claims to defenses of his conservative leanings.",
    "updated_at": "2026-10-29T17:20:30.000Z",
    "url": "https://x.com/i/trending/2115482520712004011"
   },
@@ -464,114 +596,58 @@
    "url": "https://x.com/i/trending/2115662605562106164"
   },
   {
-   "category": "Other",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115764037338157112"
-    },
-    {
-     "post_id": "2115765879723950320"
-    },
-    {
-     "post_id": "2115767641478508785"
-    },
-    {
-     "post_id": "2115788772579115340"
-    },
-    {
-     "post_id": "2115768795432472625"
-    },
-    {
-     "post_id": "2115764037338157112"
-    },
-    {
-     "post_id": "2115765879723950320"
-    },
-    {
-     "post_id": "2115831790552432981"
-    },
-    {
-     "post_id": "2115804552448585924"
-    },
-    {
-     "post_id": "2115796275165634895"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [
-      "Eigenrobot"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A blunt post cut through the noise: people no longer pretend to believe in things, just openly divide into friends and enemies. It echoed widely, pulling in reflections on lost trust and raw divides.",
-   "id": "2115826678157156679",
-   "name": "Politics Now Runs on Friend-Enemy Lines",
-   "summary": "Online talks this week spotlight a shift where politics feels purely Schmittian—defined by existential friend-enemy distinctions without moral pretense. Users debate if past principles were ever real, with some welcoming the honesty as refreshingly Hobbesian, while others lament eroded faith in humanity and invoke Yeats' blood-dimmed tide. Amid eroding centrist support in Europe and the U.S., the exchanges question if this clarity sparks honest debate or deeper conflict.",
-   "updated_at": "2026-10-29T15:30:36.000Z",
-   "url": "https://x.com/i/trending/2115826678157156679"
-  },
-  {
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2116129572554998099"
+     "post_id": "2115378018235597063"
     },
     {
-     "post_id": "2116147387584676149"
+     "post_id": "2115793001444249884"
     },
     {
-     "post_id": "2116173393733259630"
+     "post_id": "2115438843599950153"
     },
     {
-     "post_id": "2116132250299355156"
+     "post_id": "2115579209481695396"
     },
     {
-     "post_id": "2116147387584676149"
+     "post_id": "2115794304375595453"
     },
     {
-     "post_id": "2116173393733259630"
+     "post_id": "2115600236265750638"
     },
     {
-     "post_id": "2116176789819257338"
+     "post_id": "2115848484934844919"
     },
     {
-     "post_id": "2116193917339046018"
+     "post_id": "2115793001444249884"
     },
     {
-     "post_id": "2116184687433416915"
+     "post_id": "2115378018235597063"
     },
     {
-     "post_id": "2116183294815637658"
+     "post_id": "2115795355476299822"
     }
    ],
    "contexts": {
     "entities": {
      "events": [],
      "organizations": [
-      "Cook Political Report"
+      "Inside Elections"
      ],
      "people": [],
      "places": [
-      "Colorado's 5th",
-      "Pennsylvania's 1st",
-      "South Carolina's 1st",
-      "Florida's 7th",
-      "Florida's 9th"
+      "Texas",
+      "Ohio",
+      "Iowa",
+      "Kansas",
+      "South Carolina",
+      "Nebraska",
+      "Mississippi",
+      "Louisiana",
+      "Alaska",
+      "Georgia",
+      "Wisconsin"
      ],
      "products": []
     },
@@ -582,79 +658,16 @@
      "teams": []
     },
     "topics": [
-     "News",
-     "Politics"
+     "Elections"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Four days from the November 3 midterms, a key forecaster expanded the battleground map, now seeing Democrats on track to flip up to 25 seats and reclaim the House.",
-   "id": "2116179724112429274",
-   "name": "Cook Report Shifts 12 House Races Toward Democrats Before Midterms",
-   "summary": "The nonpartisan Cook Political Report updated its ratings, moving a dozen U.S. House races toward Democrats, including three districts from Lean Republican to Toss Up in Colorado’s 5th, Pennsylvania’s 1st, and South Carolina’s 1st. It now projects Democrats flipping 12 to 25 seats for a potential 240-seat majority—their largest since 2009 if they sweep favored races and Toss Ups. Analysts note heavy Republican spending hasn't moved the needle much, with President Trump’s approval underwater even in deep red areas, and other forecasters like Inside Elections and Sabato’s Crystal Ball showing similar Democratic gains in a tilting national environment.",
-   "updated_at": "2026-10-30T14:52:03.000Z",
-   "url": "https://x.com/i/trending/2116179724112429274"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2116093119707947125"
-    },
-    {
-     "post_id": "2116165090772652136"
-    },
-    {
-     "post_id": "2116187518865412316"
-    },
-    {
-     "post_id": "2116188033103884670"
-    },
-    {
-     "post_id": "2116193408804958571"
-    },
-    {
-     "post_id": "2116093119707947125"
-    },
-    {
-     "post_id": "2116187518865412316"
-    },
-    {
-     "post_id": "2116165090772652136"
-    },
-    {
-     "post_id": "2116150004217995362"
-    },
-    {
-     "post_id": "2116188033103884670"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "POLITICO"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "In a twist straight out of election irony, a new survey shows just one in four Americans think polls get it right on voting results.",
-   "id": "2116193876302344250",
-   "name": "Poll Reveals Americans' Deep Distrust of Election Surveys",
-   "summary": "A POLITICO poll from October 24-27 asked 2,088 U.S. adults about polling accuracy: 25% said polls correctly estimate votes, 41% believe they underestimate Democrats or Republicans, and 34% were unsure. Conducted amid the tight 2026 midterm races, the findings highlight skepticism fueled by past misses on Republican voters and sampling issues like rural folks skipping surveys. Reactions blended humor over the poll-on-polls irony with calls for better methods, even as many admit polls still shape their voting.",
-   "updated_at": "2026-10-30T15:50:23.000Z",
-   "url": "https://x.com/i/trending/2116193876302344250"
+   "hook": "Just days before the election, a New York Times/Siena poll shows Democrat Annie Andrews tied with Republican Sen. Darline Graham at 48% each in deep-red South Carolina.",
+   "id": "2115473675046826021",
+   "name": "South Carolina Senate Race Becomes Dead Heat Between Andrews and Graham",
+   "summary": "Fox News shifted the race to toss-up status after the poll, a big change in a state Trump won by 18 points in 2024 and where no Democrat has taken a Senate seat since 1998. Andrews, a Charleston pediatrician, stresses lower costs for families and leads independents 57-37%, while Graham, appointed after her brother Lindsey's death, relies on Trump's rally support in Rock Hill. Both push hard as early voting continues, with turnout key to flipping this long-safe Republican seat.",
+   "updated_at": "2026-10-29T23:43:55.000Z",
+   "url": "https://x.com/i/trending/2115473675046826021"
   }
  ]
 }
