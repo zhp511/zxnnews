@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T21:03:40Z",
+ "fetched_at": "2026-10-30T22:04:04Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -12,42 +12,114 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115616361909240272"
+     "post_id": "2115833585513205944"
     },
     {
-     "post_id": "2116005256996024599"
+     "post_id": "2115490012728905841"
     },
     {
-     "post_id": "2115960910783324274"
+     "post_id": "2115909823493742852"
     },
     {
-     "post_id": "2115879573007016076"
+     "post_id": "2115902027012481182"
     },
     {
-     "post_id": "2115984264923890064"
+     "post_id": "2115917879438872740"
     },
     {
-     "post_id": "2116005256996024599"
+     "post_id": "2115833585513205944"
     },
     {
-     "post_id": "2115960910783324274"
+     "post_id": "2115892186445500889"
     },
     {
-     "post_id": "2115892397410484305"
+     "post_id": "2115909823493742852"
     },
     {
-     "post_id": "2116018751816847807"
+     "post_id": "2115858676313444662"
     },
     {
-     "post_id": "2115879573007016076"
+     "post_id": "2115877985610011015"
     }
    ],
    "contexts": {
     "entities": {
-     "events": [],
+     "events": [
+      "United States Election"
+     ],
      "organizations": [],
      "people": [
-      "Barack Obama"
+      "Andy Biggs"
+     ],
+     "places": [
+      "Texas",
+      "New York City"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Elections"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Voters across America are sharing proud 'I voted' selfies from polling sites, stickers gleaming beside flags, as more than 43 million cast early ballots by late October.",
+   "id": "2115660856767762515",
+   "name": "Record Early Voting Surges Ahead of 2026 Midterms",
+   "summary": "With Republicans holding slim majorities in Congress, the November 3 midterms hinge on control of both chambers amid a tough map for the GOP. Early voting has shattered records, fueled by issues like cost of living, immigration, and the economy. Supporters from both parties post updates online—Republicans like Renatta Oxendine cheering 'Voted red all the way' and Lara Trump urging 'GO VOTE,' alongside a first-time Tennessee voter's marked Republican ballot and a Democratic fan in party gear.",
+   "updated_at": "2026-10-30T21:22:51.000Z",
+   "url": "https://x.com/i/trending/2115660856767762515"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2116193408804958571"
+    },
+    {
+     "post_id": "2116093119707947125"
+    },
+    {
+     "post_id": "2116243746891399357"
+    },
+    {
+     "post_id": "2116219267779543437"
+    },
+    {
+     "post_id": "2116213486707519857"
+    },
+    {
+     "post_id": "2116193408804958571"
+    },
+    {
+     "post_id": "2116243746891399357"
+    },
+    {
+     "post_id": "2116219267779543437"
+    },
+    {
+     "post_id": "2116093119707947125"
+    },
+    {
+     "post_id": "2116187518865412316"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "2016 election",
+      "2024 election"
+     ],
+     "organizations": [
+      "Politico"
+     ],
+     "people": [
+      "Donald Trump"
      ],
      "places": [],
      "products": []
@@ -59,16 +131,16 @@
      "teams": []
     },
     "topics": [
-     "Politics"
+     "Elections"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Standing before a packed arena in Morrow, Barack Obama urged the crowd to choose friendship and joy over anger and division while campaigning for Democrats.",
-   "id": "2115972943142330729",
-   "name": "Obama Calls for Unity at Georgia Rally Amid Criticism",
-   "summary": "On Oct. 28, former President Obama rallied for Sen. Jon Ossoff, Keisha Lance Bottoms, and other Democrats ahead of the Nov. 3 election, calling for neighborliness and generosity. Critics like Rep. Brandon Gill and Rep. Randy Fine quickly pointed to past Obama remarks—such as 'bitter clingers' and urging supporters to 'get in Republicans’ faces'—as evidence of division, with VP JD Vance labeling such tactics as un-American. Supporters shared video montages highlighting his enduring crowd appeal, underscoring ongoing splits in views of his presidency and today's politics.",
-   "updated_at": "2026-10-30T18:01:14.000Z",
-   "url": "https://x.com/i/trending/2115972943142330729"
+   "hook": "Just one in four Americans trusts polls to accurately predict election results, a striking finding from a new survey on public skepticism.",
+   "id": "2116193876302344250",
+   "name": "Poll Reveals Widespread Doubt in Election Surveys",
+   "summary": "A POLITICO poll of over 2,000 U.S. adults from October 24-27 found 25% believe surveys correctly estimate Democratic or Republican votes, while 41% think they underestimate one side and 34% are unsure. This doubt stems from past misses, like polls underestimating Republican support by 2.7 points on average in 2024, echoing 2016 and 2020 patterns despite pollster adjustments. Many voters, especially Republicans, say discouraging poll numbers would motivate them to vote, with 55% overall reporting they'd definitely turn out if their side trailed ahead of the November 3 midterms.",
+   "updated_at": "2026-10-30T21:12:08.000Z",
+   "url": "https://x.com/i/trending/2116193876302344250"
   },
   {
    "category": "News",
@@ -330,73 +402,6 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115869008486629667"
-    },
-    {
-     "post_id": "2115872652946444786"
-    },
-    {
-     "post_id": "2115854009202315285"
-    },
-    {
-     "post_id": "2115851185513185689"
-    },
-    {
-     "post_id": "2115856009486811399"
-    },
-    {
-     "post_id": "2115869008486629667"
-    },
-    {
-     "post_id": "2115854009202315285"
-    },
-    {
-     "post_id": "2115872652946444786"
-    },
-    {
-     "post_id": "2115851185513185689"
-    },
-    {
-     "post_id": "2115856485721022669"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "U.S. Elections"
-     ],
-     "organizations": [
-      "Democrats",
-      "Republicans"
-     ],
-     "people": [
-      "Donald Trump"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Elections"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "With just five days until the November 3 midterms, supporters are sharing urgent posts under #BlueWaveIn5Days, showing crowds heading to polls and calling on everyone to vote early.",
-   "id": "2115914875134181471",
-   "name": "Democrats Rally Online for Blue Wave Five Days Before Midterms",
-   "summary": "Democratic backers highlight soaring costs for groceries, gas, housing, and prescriptions as key reasons to vote out Republicans, framing the election as a chance to address corruption and regain congressional control. Posts urge high turnout, with reminders of early voting already underway and millions of ballots cast amid national polls showing Democrats ahead by nine points. Videos of marching crowds and graphics of crashing waves toward the Capitol build momentum as both parties ramp up efforts in battleground states.",
-   "updated_at": "2026-10-29T21:20:19.000Z",
-   "url": "https://x.com/i/trending/2115914875134181471"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
      "post_id": "2115842296641978801"
     },
     {
@@ -454,75 +459,6 @@
    "summary": "The graphic highlights policies such as Medicare for All to address rising healthcare costs and a 32-hour workweek for better balance, prompting some to question why anyone would vote for them while others mock the critics with lines like 'Oh no!! The horror!!' Memes capture the split, from dogs ignoring flames to snowmen calling the ideas terrible and hotdogs deeming them the coolest. As midterms approach, battleground Democrats revive these pushes amid analyses warning of trillions in new federal spending over a decade, with users urging research into the actual platform.",
    "updated_at": "2026-10-30T02:07:27.000Z",
    "url": "https://x.com/i/trending/2115911595511455777"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2116201429430108448"
-    },
-    {
-     "post_id": "2116205959924330538"
-    },
-    {
-     "post_id": "2116215239775768987"
-    },
-    {
-     "post_id": "2116224909362037172"
-    },
-    {
-     "post_id": "2116201429430108448"
-    },
-    {
-     "post_id": "2116252077437686269"
-    },
-    {
-     "post_id": "2116185876749517254"
-    },
-    {
-     "post_id": "2116171664992116813"
-    },
-    {
-     "post_id": "2116224909362037172"
-    },
-    {
-     "post_id": "2116215239775768987"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "SAVE America Act"
-     ],
-     "organizations": [
-      "Republican Party"
-     ],
-     "people": [
-      "John Thune",
-      "Chuck Schumer"
-     ],
-     "places": [
-      "United States Senate"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "John Thune took to the campaign trail, touting his hands-on approach while critics fired back over a key stalled bill.",
-   "id": "2116236499008336219",
-   "name": "Thune Contrasts Leadership Style with Schumer Amid SAVE Act Backlash",
-   "summary": "Senate Majority Leader John Thune posted about his 'business model' of traveling the nation, campaigning for Republicans, securing resources, and promoting a positive message—setting it apart from Chuck Schumer's style. The remarks drew quick criticism for the stalled SAVE America Act, which requires voter ID, proof of citizenship for registration, and other election protections, with users noting 84% Republican support and accusing Thune of blocking it despite lacking votes. As Thune campaigns in battleground states ahead of midterms, the exchange highlights GOP tensions between fundraising efforts and pushing legislation like the bill urged by President Trump.",
-   "updated_at": "2026-10-30T18:39:02.000Z",
-   "url": "https://x.com/i/trending/2116236499008336219"
   },
   {
    "category": "News",
@@ -649,6 +585,72 @@
    "summary": "The graphic ranks California, Hawaii, Massachusetts, New Jersey, New York, and Washington as the least affordable, matching recent data on overall living costs. Critics like Congressman Brandon Gill and columnist Marc Thiessen blame Democratic policies on migration, taxes, healthcare, and fossil fuels for driving up prices, including national gas at $4.20 per gallon. Defenders cite global inflation post-pandemic and past Republican contributions to economic woes, as voters vent frustration ahead of November elections over housing, energy, and taxes.",
    "updated_at": "2026-10-30T18:00:42.000Z",
    "url": "https://x.com/i/trending/2116226607350231517"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2116147387584676149"
+    },
+    {
+     "post_id": "2116173393733259630"
+    },
+    {
+     "post_id": "2116176789819257338"
+    },
+    {
+     "post_id": "2116193917339046018"
+    },
+    {
+     "post_id": "2116224452623024275"
+    },
+    {
+     "post_id": "2116147387584676149"
+    },
+    {
+     "post_id": "2116193917339046018"
+    },
+    {
+     "post_id": "2116173393733259630"
+    },
+    {
+     "post_id": "2116176789819257338"
+    },
+    {
+     "post_id": "2116184687433416915"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Cook Political Report"
+     ],
+     "people": [],
+     "places": [
+      "Colorado's 5th",
+      "Pennsylvania's 1st",
+      "South Carolina's 1st"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Just four days from the 2026 midterms, forecasters see clear momentum building for Democrats in the House battle.",
+   "id": "2116179724112429274",
+   "name": "Cook Report Shifts 12 House Races to Democrats Ahead of Midterms",
+   "summary": "The Cook Political Report now rates Democrats favored in 218 seats needed for a House majority, projecting gains of 12 to 25 seats for a likely total between 227 and 240. Recent shifts turned three GOP-held districts into toss-ups in Colorado’s 5th, Pennsylvania’s 1st, and South Carolina’s 1st, while Solid, Likely, and Lean Democratic seats total 222 against 195 for Republicans and 18 toss-ups. Other trackers like Decision Desk HQ give Democrats an 82% House win chance at 239 seats, with Senate forecasts showing potential pickups of 2 to 6 seats amid seven competitive races.",
+   "updated_at": "2026-10-30T19:21:27.000Z",
+   "url": "https://x.com/i/trending/2116179724112429274"
   }
  ],
  "meta": {
