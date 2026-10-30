@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-29T22:26:00Z",
+ "fetched_at": "2026-10-30T13:40:00Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,447 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-10-30T13:39:38.000Z",
+     "edit_history_tweet_ids": [
+      "2116163116983619889"
+     ],
+     "id": "2116163116983619889",
+     "in_reply_to_user_id": "1674119395520532488",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115896228173238503",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@KSJ_Kreative Good morning",
+     "url": "https://x.com/i/status/2116163116983619889"
+    },
+    {
+     "created_at": "2026-10-30T13:33:31.000Z",
+     "edit_history_tweet_ids": [
+      "2116161577053253782"
+     ],
+     "id": "2116161577053253782",
+     "in_reply_to_user_id": "1520385351281348608",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116128121233793341",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@CHELLESHOCKEDTM @grok @bot Cool",
+     "url": "https://x.com/i/status/2116161577053253782"
+    },
+    {
+     "created_at": "2026-10-30T13:29:19.000Z",
+     "edit_history_tweet_ids": [
+      "2116160522186060208"
+     ],
+     "id": "2116160522186060208",
+     "in_reply_to_user_id": "1621581965580173313",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 13,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116150822707065300",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@PunchbowlTm Good morning all",
+     "url": "https://x.com/i/status/2116160522186060208"
+    },
+    {
+     "created_at": "2026-10-30T12:50:53.000Z",
+     "edit_history_tweet_ids": [
+      "2116150851534459169"
+     ],
+     "id": "2116150851534459169",
+     "in_reply_to_user_id": "813162343",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116133747137339465",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@pwilsondtf Good morning I love you  my friend",
+     "url": "https://x.com/i/status/2116150851534459169"
+    },
+    {
+     "created_at": "2026-10-30T06:07:21.000Z",
+     "edit_history_tweet_ids": [
+      "2116049295518335435"
+     ],
+     "id": "2116049295518335435",
+     "in_reply_to_user_id": "887847250340315136",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116029932732375321",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@TheRealSantino Wow",
+     "url": "https://x.com/i/status/2116049295518335435"
+    },
+    {
+     "created_at": "2026-10-30T05:20:52.000Z",
+     "edit_history_tweet_ids": [
+      "2116037599186071970"
+     ],
+     "id": "2116037599186071970",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 33,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "Check out this song I made! https://t.co/qkYRQP8cNP",
+     "url": "https://x.com/i/status/2116037599186071970"
+    },
+    {
+     "created_at": "2026-10-30T05:19:20.000Z",
+     "edit_history_tweet_ids": [
+      "2116037212043120683"
+     ],
+     "id": "2116037212043120683",
+     "in_reply_to_user_id": "24634177",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116036906509389925",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@AODxLA Writing the lyrics",
+     "url": "https://x.com/i/status/2116037212043120683"
+    },
+    {
+     "created_at": "2026-10-30T05:08:40.000Z",
+     "edit_history_tweet_ids": [
+      "2116034529597284530"
+     ],
+     "id": "2116034529597284530",
+     "in_reply_to_user_id": "24634177",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116034425595256998",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@AODxLA Ok",
+     "url": "https://x.com/i/status/2116034529597284530"
+    },
+    {
+     "created_at": "2026-10-30T05:00:16.000Z",
+     "edit_history_tweet_ids": [
+      "2116032414912741515"
+     ],
+     "id": "2116032414912741515",
+     "in_reply_to_user_id": "2038288992740016128",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2115880848197353523",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@BodhiAnneCole Cool",
+     "url": "https://x.com/i/status/2116032414912741515"
+    },
+    {
+     "created_at": "2026-10-30T04:53:36.000Z",
+     "edit_history_tweet_ids": [
+      "2116030738567233753"
+     ],
+     "id": "2116030738567233753",
+     "in_reply_to_user_id": "24634177",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 36,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "text": "@AODxLA https://t.co/e1ePNf0z6S wow",
+     "url": "https://x.com/i/status/2116030738567233753"
+    },
+    {
+     "created_at": "2026-10-30T04:47:18.000Z",
+     "edit_history_tweet_ids": [
+      "2116029152604430441"
+     ],
+     "id": "2116029152604430441",
+     "in_reply_to_user_id": "24634177",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116029035990155601",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@AODxLA I got one or two I need help doing mine",
+     "url": "https://x.com/i/status/2116029152604430441"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2116028830431277056"
+      ]
+     },
+     "created_at": "2026-10-30T04:46:04.000Z",
+     "edit_history_tweet_ids": [
+      "2116028842540425236"
+     ],
+     "id": "2116028842540425236",
+     "in_reply_to_user_id": "24634177",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 15,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116028640978931860",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@AODxLA I think I found you https://t.co/oiK56ltsJF",
+     "url": "https://x.com/i/status/2116028842540425236"
+    },
+    {
+     "created_at": "2026-10-30T04:44:42.000Z",
+     "edit_history_tweet_ids": [
+      "2116028498880205208"
+     ],
+     "id": "2116028498880205208",
+     "in_reply_to_user_id": "24634177",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 49,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "text": "@AODxLA do you got Suno",
+     "url": "https://x.com/i/status/2116028498880205208"
+    },
+    {
+     "created_at": "2026-10-30T04:30:17.000Z",
+     "edit_history_tweet_ids": [
+      "2116024869116928042"
+     ],
+     "id": "2116024869116928042",
+     "in_reply_to_user_id": "24634177",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 17,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116024553088696681",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@AODxLA When I clicking the video",
+     "url": "https://x.com/i/status/2116024869116928042"
+    },
+    {
+     "created_at": "2026-10-30T04:29:55.000Z",
+     "edit_history_tweet_ids": [
+      "2116024776980578584"
+     ],
+     "id": "2116024776980578584",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116024553088696681",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @AODxLA: 🩷. @zxnbluehandus",
+     "url": "https://x.com/i/status/2116024776980578584"
+    },
+    {
+     "created_at": "2026-10-30T04:29:40.000Z",
+     "edit_history_tweet_ids": [
+      "2116024714472870230"
+     ],
+     "id": "2116024714472870230",
+     "in_reply_to_user_id": "24634177",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 13,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116024553088696681",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@AODxLA Yeah, I hit the wrong button I love u",
+     "url": "https://x.com/i/status/2116024714472870230"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2113325947294552064"
+      ]
+     },
+     "created_at": "2026-10-30T04:26:51.000Z",
+     "edit_history_tweet_ids": [
+      "2116024004779950442"
+     ],
+     "id": "2116024004779950442",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+     },
+     "referenced_tweets": [
+      {
+       "id": "2113326123191046444",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @AODxLA: AOD:// KEEP IT TO YOURSELF:/ \nlyrics in first comment :) https://t.co/OML6zH6xu1",
+     "url": "https://x.com/i/status/2116024004779950442"
+    },
+    {
+     "created_at": "2026-10-30T01:18:00.000Z",
+     "edit_history_tweet_ids": [
+      "2115976481230774287"
+     ],
+     "id": "2115976481230774287",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 464,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+     },
+     "text": "Starlink Mobile Just Won! The Big 3 Are Done https://t.co/nOa2hEHf70 via @YouTube",
+     "url": "https://x.com/i/status/2115976481230774287"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "height": 4096,
+      "media_key": "3_2116028830431277056",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HV2lApRXcAAkAia.jpg",
+      "width": 2304
+     },
+     {
+      "height": 1152,
+      "media_key": "13_2113325947294552064",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2113325947294552064/img/uEje2gmMfITUOxom.jpg",
+      "type": "video",
+      "width": 1712
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2116163116983619889",
+    "oldest_id": "2115976481230774287",
+    "result_count": 18
+   }
+  },
   {
    "data": [
     {
