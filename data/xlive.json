@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-30T14:43:15Z",
- "searched_at": "2026-10-30T14:43:00Z",
+ "built_at": "2026-10-30T15:00:06Z",
+ "searched_at": "2026-10-30T14:59:49Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2116137993568469135",
-   "post_url": "https://x.com/FreePeopleRadio/status/2116137993568469135",
-   "name": "Free People Radio",
-   "username": "FreePeopleRadio",
-   "verified_type": "blue",
-   "text": "LIVE - The White House Podcast  🏛️ 🔴 https://t.co/crCfv7lsKn",
-   "started_at": "2026-10-30T11:59:48.000Z",
-   "assumed_live_until": "2026-10-30T14:59:48Z"
-  },
   {
    "post_id": "2116138101760491569",
    "post_url": "https://x.com/JovanHPulitzer/status/2116138101760491569",
@@ -43,6 +33,16 @@
    "text": "Inside The Hottest Election Prediction Markets: Market Signal LIVE https://t.co/ATrzYBoymG",
    "started_at": "2026-10-30T14:10:33.000Z",
    "assumed_live_until": "2026-10-30T17:10:33Z"
+  },
+  {
+   "post_id": "2116183069598404933",
+   "post_url": "https://x.com/WalshFreedom/status/2116183069598404933",
+   "name": "Joe Walsh",
+   "username": "WalshFreedom",
+   "verified_type": "blue",
+   "text": "The Midterms. The Senate. What’s Gonna Happen? https://t.co/MumOAanfCc",
+   "started_at": "2026-10-30T14:58:55.000Z",
+   "assumed_live_until": "2026-10-30T17:58:55Z"
   },
   {
    "post_id": "2116166345889100263",
