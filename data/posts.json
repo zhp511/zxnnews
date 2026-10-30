@@ -1,6 +1,6 @@
 {
  "generated_from": "data/raw_pages.json + data/raw_archive.json",
- "fetched_at": "2026-10-30T22:32:41Z",
+ "fetched_at": "2026-10-30T23:40:10Z",
  "pinned_top": "2114513144307442008",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -23,6 +23,29 @@
   "banner_local": "images/banner.jpg"
  },
  "posts": [
+  {
+   "id": "2116314095624597571",
+   "url": "https://x.com/zxnbluehandus/status/2116314095624597571",
+   "created_at": "2026-10-30T23:39:34.000Z",
+   "headline": "#ZXN #xlive #wearethepeople #bluehand #PON #tellmeyourstory #smackdown #WWERAW",
+   "headline_source": "post",
+   "text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory   #smackdown #WWERAW",
+   "original_text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory   #smackdown #WWERAW https://t.co/7J5Fe9peE3",
+   "metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "images": [],
+   "image_source": null,
+   "link": null,
+   "has_video": false,
+   "hidden": false,
+   "hidden_reason": null
+  },
   {
    "id": "2116296712331628584",
    "url": "https://x.com/zxnbluehandus/status/2116296712331628584",
@@ -1842,8 +1865,8 @@
    "image_source": null,
    "link": null,
    "has_video": false,
-   "hidden": false,
-   "hidden_reason": null
+   "hidden": true,
+   "hidden_reason": "duplicate"
   },
   {
    "id": "2114772271839494220",
