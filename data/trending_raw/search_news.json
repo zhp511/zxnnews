@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T20:02:40Z",
+ "fetched_at": "2026-10-30T21:03:40Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -12,44 +12,42 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2116148225124286662"
+     "post_id": "2115616361909240272"
     },
     {
-     "post_id": "2115873824251998547"
+     "post_id": "2116005256996024599"
     },
     {
-     "post_id": "2115587307927724204"
+     "post_id": "2115960910783324274"
     },
     {
-     "post_id": "2115930062654500947"
+     "post_id": "2115879573007016076"
     },
     {
-     "post_id": "2115889695305654728"
+     "post_id": "2115984264923890064"
     },
     {
-     "post_id": "2116148225124286662"
+     "post_id": "2116005256996024599"
     },
     {
-     "post_id": "2116139151430914545"
+     "post_id": "2115960910783324274"
     },
     {
-     "post_id": "2116148228840145108"
+     "post_id": "2115892397410484305"
     },
     {
-     "post_id": "2115873824251998547"
+     "post_id": "2116018751816847807"
     },
     {
-     "post_id": "2115930062654500947"
+     "post_id": "2115879573007016076"
     }
    ],
    "contexts": {
     "entities": {
-     "events": [
-      "Midterm Elections"
-     ],
+     "events": [],
      "organizations": [],
      "people": [
-      "James Lindsay"
+      "Barack Obama"
      ],
      "places": [],
      "products": []
@@ -61,17 +59,16 @@
      "teams": []
     },
     "topics": [
-     "News",
-     "Elections"
+     "Politics"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "As the November 3 midterms near, Trump supporters on X are calling out Senate Majority Leader John Thune for not pushing key bills like the SAVE America Act on voter security.",
-   "id": "2115936400314974671",
-   "name": "Republican Voters Voice Frustration with Senate Leader John Thune Ahead of Midterms",
-   "summary": "Many blame Thune for stalling legislation such as the House-passed SAVE America Act, which requires proof of citizenship for voter registration but lacks the 60 Senate votes to beat a filibuster. Critics like Jeffrey A. Tucker argue that reforms on insurance, spending, and avoiding wars could have strengthened Republicans' position, while others accuse Thune of not campaigning hard enough. Despite his efforts in battleground states like Georgia and Ohio, forecasts show Democrats with a shot at flipping the 53-47 majority amid issues like gas prices and the Iran war. Thune acknowledges the criticism but points to Senate limits and his fundraising work.",
-   "updated_at": "2026-10-30T15:13:55.000Z",
-   "url": "https://x.com/i/trending/2115936400314974671"
+   "hook": "Standing before a packed arena in Morrow, Barack Obama urged the crowd to choose friendship and joy over anger and division while campaigning for Democrats.",
+   "id": "2115972943142330729",
+   "name": "Obama Calls for Unity at Georgia Rally Amid Criticism",
+   "summary": "On Oct. 28, former President Obama rallied for Sen. Jon Ossoff, Keisha Lance Bottoms, and other Democrats ahead of the Nov. 3 election, calling for neighborliness and generosity. Critics like Rep. Brandon Gill and Rep. Randy Fine quickly pointed to past Obama remarks—such as 'bitter clingers' and urging supporters to 'get in Republicans’ faces'—as evidence of division, with VP JD Vance labeling such tactics as un-American. Supporters shared video montages highlighting his enduring crowd appeal, underscoring ongoing splits in views of his presidency and today's politics.",
+   "updated_at": "2026-10-30T18:01:14.000Z",
+   "url": "https://x.com/i/trending/2115972943142330729"
   },
   {
    "category": "News",
@@ -204,6 +201,71 @@
    "category": "News",
    "cluster_posts_results": [
     {
+     "post_id": "2116198213346529624"
+    },
+    {
+     "post_id": "2116148225124286662"
+    },
+    {
+     "post_id": "2116139151430914545"
+    },
+    {
+     "post_id": "2116200464769511929"
+    },
+    {
+     "post_id": "2116181580591063221"
+    },
+    {
+     "post_id": "2116148225124286662"
+    },
+    {
+     "post_id": "2116198213346529624"
+    },
+    {
+     "post_id": "2116139151430914545"
+    },
+    {
+     "post_id": "2116200464769511929"
+    },
+    {
+     "post_id": "2116181580591063221"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "war in Iran",
+      "midterms"
+     ],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Iran"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A stark photo from a California Chevron station shows gas hitting $6.49 a gallon, with families feeling the pinch as the Iran conflict drags on.",
+   "id": "2115936400314974671",
+   "name": "Gas Prices and Iran War Dominate Voter Concerns Before Midterms",
+   "summary": "High gas prices, fueled by the war in Iran that started with U.S. and Israeli strikes in February, top conservatives' worries as voters head to the polls Tuesday. Everyday people focus on pocketbook issues like $5.93 average regular gas in California—far above the national $4.22 to $4.31—rather than online debates over podcasters. While some blame influencers for Republicans' polling struggles, others like Megan Basham and Auron MacIntyre stress that face-to-face talks reveal inflation, fuel costs, and the war as the real voter priorities ahead of deciding Congress control.",
+   "updated_at": "2026-10-30T20:22:11.000Z",
+   "url": "https://x.com/i/trending/2115936400314974671"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
      "post_id": "2115841057489371567"
     },
     {
@@ -260,7 +322,7 @@
    "hook": "With midterms just days away, Speaker Mike Johnson took to Fox News to remind voters of Republican gains on costs, taxes, and safety amid fierce partisan clashes.",
    "id": "2115980214362886340",
    "name": "Mike Johnson Highlights GOP Wins and Warns of Left-Wing Democratic Shift",
-   "summary": "Johnson touted Republican successes like lowering costs, cutting taxes for families, safer streets, and restoring American strength, while cautioning that Democrats would undo them if they regain power. He warned of a progressive 'left-wing bloc'\u2014including figures like Melat Kiros and Darializa Avila\u2014poised to influence Hakeem Jeffries with demands to end borders, defund police, and more. Critics countered with claims of Democratic deficits, inflation, and unkept promises, as a graphic accused Republicans of lacking a clear voter plan. The exchanges highlight the tight races set for November 3.",
+   "summary": "Johnson touted Republican successes like lowering costs, cutting taxes for families, safer streets, and restoring American strength, while cautioning that Democrats would undo them if they regain power. He warned of a progressive 'left-wing bloc'—including figures like Melat Kiros and Darializa Avila—poised to influence Hakeem Jeffries with demands to end borders, defund police, and more. Critics countered with claims of Democratic deficits, inflation, and unkept promises, as a graphic accused Republicans of lacking a clear voter plan. The exchanges highlight the tight races set for November 3.",
    "updated_at": "2026-10-30T01:38:11.000Z",
    "url": "https://x.com/i/trending/2115980214362886340"
   },
@@ -397,47 +459,50 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2116016526931394957"
+     "post_id": "2116201429430108448"
     },
     {
-     "post_id": "2116142316905713767"
+     "post_id": "2116205959924330538"
     },
     {
-     "post_id": "2116171782403027361"
+     "post_id": "2116215239775768987"
     },
     {
-     "post_id": "2115948102540529972"
+     "post_id": "2116224909362037172"
     },
     {
-     "post_id": "2116142316905713767"
+     "post_id": "2116201429430108448"
     },
     {
-     "post_id": "2116196852408225950"
+     "post_id": "2116252077437686269"
     },
     {
-     "post_id": "2116185925612867614"
+     "post_id": "2116185876749517254"
     },
     {
-     "post_id": "2116171782403027361"
+     "post_id": "2116171664992116813"
     },
     {
-     "post_id": "2116185394270409136"
+     "post_id": "2116224909362037172"
     },
     {
-     "post_id": "2116197187969319380"
+     "post_id": "2116215239775768987"
     }
    ],
    "contexts": {
     "entities": {
      "events": [
-      "US Midterms"
+      "SAVE America Act"
      ],
      "organizations": [
-      "US Army"
+      "Republican Party"
      ],
-     "people": [],
+     "people": [
+      "John Thune",
+      "Chuck Schumer"
+     ],
      "places": [
-      "North Carolina"
+      "United States Senate"
      ],
      "products": []
     },
@@ -452,12 +517,12 @@
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A video warning of a 24- to 48-hour nationwide blackout has spread quickly, linking it to U.S.-Iran tensions and possible government plans.",
-   "id": "2116176674362655119",
-   "name": "Online Rumors Claim Imminent U.S. Power Grid Shutdown",
-   "summary": "Christopher Greene of AMTV posted the video, suggesting the government might intentionally cut power to protect against Iranian cyber retaliation during potential strikes. It ties into broader talks on emergency readiness, like former FBI officials urging families to stock food, cash, and escape bags, while the Pentagon advances self-sufficient bases via its FORTRESS initiative. Reactions split between those seeing logic in the idea and skeptics dismissing it as unverified fearmongering, with no confirmations from officials or grid operators.",
-   "updated_at": "2026-10-30T17:22:53.000Z",
-   "url": "https://x.com/i/trending/2116176674362655119"
+   "hook": "John Thune took to the campaign trail, touting his hands-on approach while critics fired back over a key stalled bill.",
+   "id": "2116236499008336219",
+   "name": "Thune Contrasts Leadership Style with Schumer Amid SAVE Act Backlash",
+   "summary": "Senate Majority Leader John Thune posted about his 'business model' of traveling the nation, campaigning for Republicans, securing resources, and promoting a positive message—setting it apart from Chuck Schumer's style. The remarks drew quick criticism for the stalled SAVE America Act, which requires voter ID, proof of citizenship for registration, and other election protections, with users noting 84% Republican support and accusing Thune of blocking it despite lacking votes. As Thune campaigns in battleground states ahead of midterms, the exchange highlights GOP tensions between fundraising efforts and pushing legislation like the bill urged by President Trump.",
+   "updated_at": "2026-10-30T18:39:02.000Z",
+   "url": "https://x.com/i/trending/2116236499008336219"
   },
   {
    "category": "News",
@@ -578,76 +643,12 @@
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A simple list of six high-cost states\u2014all under full Democratic control\u2014has people pointing fingers over who's to blame for squeezed wallets.",
+   "hook": "A simple list of six high-cost states—all under full Democratic control—has people pointing fingers over who's to blame for squeezed wallets.",
    "id": "2116226607350231517",
    "name": "Graphic Highlights Democratic States as Least Affordable",
    "summary": "The graphic ranks California, Hawaii, Massachusetts, New Jersey, New York, and Washington as the least affordable, matching recent data on overall living costs. Critics like Congressman Brandon Gill and columnist Marc Thiessen blame Democratic policies on migration, taxes, healthcare, and fossil fuels for driving up prices, including national gas at $4.20 per gallon. Defenders cite global inflation post-pandemic and past Republican contributions to economic woes, as voters vent frustration ahead of November elections over housing, energy, and taxes.",
    "updated_at": "2026-10-30T18:00:42.000Z",
    "url": "https://x.com/i/trending/2116226607350231517"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2116184132979929505"
-    },
-    {
-     "post_id": "2116212622915690933"
-    },
-    {
-     "post_id": "2116210856149073946"
-    },
-    {
-     "post_id": "2116199204808990921"
-    },
-    {
-     "post_id": "2116174031036825898"
-    },
-    {
-     "post_id": "2116184132979929505"
-    },
-    {
-     "post_id": "2116223151533396433"
-    },
-    {
-     "post_id": "2116210856149073946"
-    },
-    {
-     "post_id": "2116174031036825898"
-    },
-    {
-     "post_id": "2116190123226181889"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [
-      "Ted Cruz"
-     ],
-     "places": [
-      "Texas"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Just days before the November 3 midterms, Sen. Ted Cruz grabbed the mic on his podcast and laid it out plain: Texas Republicans could drop every statewide contest.",
-   "id": "2116206748159946846",
-   "name": "Ted Cruz Warns Republicans Could Lose Every Texas Statewide Race",
-   "summary": "On 'The Verdict with Ted Cruz,' the senator stressed how tight the races are, saying, 'We could lose Texas... every single statewide race.' Recent polls like Texas Southern University's October 29 survey show Democrat James Talarico edging Republican Ken Paxton 49% to 47% in the Senate race, while Gov. Greg Abbott leads Gina Hinojosa 50% to 47%. Cruz pointed to strong Democratic early voting turnout and called on Republicans to mobilize, as margins stay within the margin of error and Election Day looms.",
-   "updated_at": "2026-10-30T19:06:51.000Z",
-   "url": "https://x.com/i/trending/2116206748159946846"
   }
  ],
  "meta": {

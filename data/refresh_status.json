@@ -2,21 +2,20 @@
  "x_failures": 0,
  "push_failures": 0,
  "last_error": null,
- "updated_at": "2026-10-30T20:03:00Z",
+ "updated_at": "2026-10-30T21:04:30Z",
  "last_x_check": {
-  "at": "2026-10-30T20:03:00Z",
+  "at": "2026-10-30T21:03:40Z",
   "new_posts": 0,
   "published": true,
-  "commit": null,
   "refreshed": [
    "trending",
    "xlive"
   ],
   "skipped": {
-   "following": "featured_accounts empty",
-   "tv": "<3 h old"
+   "tv": "<3 h old",
+   "following": "featured_accounts empty"
   }
  },
- "last_publish": "X Live refresh (commit 3e66ede) 2026-10-30T19:47Z",
- "x_reads_left_today": "885 of 1000 (resets 2026-10-31T00:00Z)"
+ "last_publish": "Trending + X Live refresh 2026-10-30T21:04Z",
+ "x_reads_left_today": "870 of 1000 (resets 2026-10-31T00:00Z)"
 }
