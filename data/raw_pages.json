@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T14:41:08Z",
+ "fetched_at": "2026-10-31T14:52:00Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,48 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2116543187485388800"
+      ]
+     },
+     "created_at": "2026-10-31T14:49:55.000Z",
+     "edit_history_tweet_ids": [
+      "2116543193986572464"
+     ],
+     "id": "2116543193986572464",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "text": "#Halloween https://t.co/wZpgYNClfw",
+     "url": "https://x.com/i/status/2116543193986572464"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "height": 1254,
+      "media_key": "3_2116543187485388800",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HV940KnW8AAwUnu.jpg",
+      "width": 1254
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2116543193986572464",
+    "oldest_id": "2116543193986572464",
+    "result_count": 1
+   }
+  },
   {
    "data": [
     {
