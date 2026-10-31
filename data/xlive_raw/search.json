@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T03:29:00Z",
+ "fetched_at": "2026-10-31T03:47:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T00:29:00Z",
+  "start_time": "2026-10-31T00:47:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,17 +17,107 @@
    "edit_history_tweet_ids": [
     "2116337736294806015"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 172,
+      "start": 166,
+      "tag": "Trump"
+     },
+     {
+      "end": 186,
+      "start": 173,
+      "tag": "Midterms2026"
+     },
+     {
+      "end": 195,
+      "start": 187,
+      "tag": "Florida"
+     },
+     {
+      "end": 209,
+      "start": 196,
+      "tag": "Election2026"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 164,
+      "id": "11134252",
+      "start": 152,
+      "username": "Republicans"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Midterm Rally in Daytona, Florida featuring President Donald J. Trump",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 234,
+      "expanded_url": "https://x.com/i/broadcasts/2POJKPlpQelLLP",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116281484730421248/X_-XCm0Z?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116281484730421248/X_-XCm0Z?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 211,
+      "status": 200,
+      "title": "Republicans",
+      "unwound_url": "https://x.com/i/broadcasts/2POJKPlpQelLLP",
+      "url": "https://t.co/kIGNNAlf0V"
+     }
+    ]
+   },
    "id": "2116337736294806015",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 193,
+    "impression_count": 195,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "President Donald J. Trump headlines a midterm election rally in Daytona, Florida, as Election Day 2026 approaches.\n\n\ud83d\udcfa Watch the rally LIVE!\n\nStream via @Republicans\n\n#Trump #Midterms2026 #Florida #Election2026 \nhttps://t.co/kIGNNAlf0V",
+   "text": "President Donald J. Trump headlines a midterm election rally in Daytona, Florida, as Election Day 2026 approaches.\n\n📺 Watch the rally LIVE!\n\nStream via @Republicans\n\n#Trump #Midterms2026 #Florida #Election2026 \nhttps://t.co/kIGNNAlf0V",
    "url": "https://x.com/SiriusXMPatriot/status/2116337736294806015"
+  },
+  {
+   "author_id": "1534262297547481094",
+   "created_at": "2026-10-31T03:37:05.000Z",
+   "edit_history_tweet_ids": [
+    "2116373867845611681"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Election Day in 6 Days! Let's Go Over the Texas Senate Race! James Talarico vs Ken Paxton!",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 114,
+      "expanded_url": "https://x.com/i/broadcasts/1XxygwWQvpgGM",
+      "start": 91,
+      "status": 200,
+      "title": "Radell PPBD",
+      "unwound_url": "https://x.com/i/broadcasts/1XxygwWQvpgGM",
+      "url": "https://t.co/l2j8LRdJl5"
+     }
+    ]
+   },
+   "id": "2116373867845611681",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 21,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "Election Day in 6 Days! Let's Go Over the Texas Senate Race! James Talarico vs Ken Paxton! https://t.co/l2j8LRdJl5",
+   "url": "https://x.com/PPolBreakdown/status/2116373867845611681"
   },
   {
    "author_id": "1982030845138608128",
@@ -35,16 +125,55 @@
    "edit_history_tweet_ids": [
     "2116347099042455740"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 72,
+      "start": 61,
+      "tag": "NewsLeader"
+     },
+     {
+      "end": 117,
+      "start": 104,
+      "tag": "AbBaariAapki"
+     }
+    ],
+    "urls": [
+     {
+      "description": "News Leader LIVE: देश-दुनिया की हर खबर | Breaking News UP MLC Elections 2026 Voting Updates | BJP | SP | #NewsLeader",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 142,
+      "expanded_url": "https://x.com/i/broadcasts/2vyppkmoaYJkdE",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116346966640648192/dvVoo_eg?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116346966640648192/dvVoo_eg?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 119,
+      "status": 200,
+      "title": "News Leader",
+      "unwound_url": "https://x.com/i/broadcasts/2vyppkmoaYJkdE",
+      "url": "https://t.co/s59NFLviBi"
+     }
+    ]
+   },
    "id": "2116347099042455740",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 125,
+    "impression_count": 156,
     "like_count": 2,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News Leader LIVE: \u0926\u0947\u0936-\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0939\u0930 \u0916\u092c\u0930 | Breaking News     \n\n#NewsLeader | Hindi News | Hindi Updates | #AbBaariAapki\n\nhttps://t.co/s59NFLviBi",
+   "text": "News Leader LIVE: देश-दुनिया की हर खबर | Breaking News     \n\n#NewsLeader | Hindi News | Hindi Updates | #AbBaariAapki\n\nhttps://t.co/s59NFLviBi",
    "url": "https://x.com/NewsLeaderLive/status/2116347099042455740"
   },
   {
@@ -53,16 +182,50 @@
    "edit_history_tweet_ids": [
     "2116346923841904812"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 117,
+      "start": 106,
+      "tag": "NewsLeader"
+     }
+    ],
+    "urls": [
+     {
+      "description": "News Leader LIVE: देश-दुनिया की हर खबर | Breaking News UP MLC Elections 2026 Voting Updates | BJP | SP | #NewsLeader",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 141,
+      "expanded_url": "https://x.com/i/broadcasts/2vyppkmoaYJkdE",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116346966640648192/dvVoo_eg?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116346966640648192/dvVoo_eg?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 118,
+      "status": 200,
+      "title": "News Leader",
+      "unwound_url": "https://x.com/i/broadcasts/2vyppkmoaYJkdE",
+      "url": "https://t.co/s59NFLuKLK"
+     }
+    ]
+   },
    "id": "2116346923841904812",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 133,
+    "impression_count": 151,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "News Leader LIVE: \u0926\u0947\u0936-\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0939\u0930 \u0916\u092c\u0930 | Breaking News  UP MLC Elections 2026 Voting Updates | BJP | SP | #NewsLeader https://t.co/s59NFLuKLK",
+   "text": "News Leader LIVE: देश-दुनिया की हर खबर | Breaking News  UP MLC Elections 2026 Voting Updates | BJP | SP | #NewsLeader https://t.co/s59NFLuKLK",
    "url": "https://x.com/NewsLeaderLive/status/2116346923841904812"
   },
   {
@@ -71,6 +234,50 @@
    "edit_history_tweet_ids": [
     "2116334553493356883"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 9,
+      "start": 0,
+      "tag": "Breaking"
+     },
+     {
+      "end": 15,
+      "start": 10,
+      "tag": "News"
+     },
+     {
+      "end": 28,
+      "start": 23,
+      "tag": "Live"
+     }
+    ],
+    "urls": [
+     {
+      "description": "The War Room Ep.104",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 85,
+      "expanded_url": "https://x.com/i/broadcasts/1rGmqpBjawgGy",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116334597470584832/55M3Xu5W?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116334597470584832/55M3Xu5W?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 62,
+      "status": 200,
+      "title": "The Men's Room!",
+      "unwound_url": "https://x.com/i/broadcasts/1rGmqpBjawgGy",
+      "url": "https://t.co/1RFvP5Ss7V"
+     }
+    ]
+   },
    "id": "2116334553493356883",
    "public_metrics": {
     "bookmark_count": 0,
@@ -84,15 +291,87 @@
    "url": "https://x.com/TheMensRoom13/status/2116334553493356883"
   },
   {
+   "author_id": "1900375238548086788",
+   "created_at": "2026-10-31T02:59:05.000Z",
+   "edit_history_tweet_ids": [
+    "2116364306027823411"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🇺🇸 President Trump arrives in Palm Beach after MAGA Rally in Daytona Beach, Florida [LIVE]",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 114,
+      "expanded_url": "https://x.com/i/broadcasts/1AGRnZQYANyGl",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116364308498247680/WZm054KQ?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116364308498247680/WZm054KQ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 91,
+      "status": 200,
+      "title": "MAGNO NEWS LIVE",
+      "unwound_url": "https://x.com/i/broadcasts/1AGRnZQYANyGl",
+      "url": "https://t.co/fbJCIO1G60"
+     }
+    ]
+   },
+   "id": "2116364306027823411",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 188,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "🇺🇸 President Trump arrives in Palm Beach after MAGA Rally in Daytona Beach, Florida [LIVE] https://t.co/fbJCIO1G60",
+   "url": "https://x.com/magnonewslive/status/2116364306027823411"
+  },
+  {
    "author_id": "20751449",
    "created_at": "2026-10-31T02:00:49.000Z",
    "edit_history_tweet_ids": [
     "2116349642191614007"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "U.S. President Donald Trump holds midterm rally in Rock Hill, South Carolina",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 100,
+      "expanded_url": "https://x.com/i/broadcasts/1oJMvNPOZgDxQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116349684600246272/lqEgkUOI?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116349684600246272/lqEgkUOI?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 77,
+      "status": 200,
+      "title": "The Hindu",
+      "unwound_url": "https://x.com/i/broadcasts/1oJMvNPOZgDxQ",
+      "url": "https://t.co/kRVPPqPZaH"
+     }
+    ]
+   },
    "id": "2116349642191614007",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 6881,
+    "impression_count": 7010,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -102,53 +381,43 @@
    "url": "https://x.com/the_hindu/status/2116349642191614007"
   },
   {
-   "author_id": "1900375238548086788",
-   "created_at": "2026-10-31T02:59:05.000Z",
-   "edit_history_tweet_ids": [
-    "2116364306027823411"
-   ],
-   "id": "2116364306027823411",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 103,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "\ud83c\uddfa\ud83c\uddf8 President Trump arrives in Palm Beach after MAGA Rally in Daytona Beach, Florida [LIVE] https://t.co/fbJCIO1G60",
-   "url": "https://x.com/magnonewslive/status/2116364306027823411"
-  },
-  {
-   "author_id": "1900375238548086788",
-   "created_at": "2026-10-31T00:45:37.000Z",
-   "edit_history_tweet_ids": [
-    "2116320506723054067",
-    "2116330717617795492"
-   ],
-   "id": "2116330717617795492",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 620,
-    "like_count": 9,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 7
-   },
-   "text": "\ud83c\uddfa\ud83c\uddf8 [LIVE CAM 2] MAGA Majority Force Rally with President Donald J. Trump in Daytona Beach, Florida https://t.co/wfykf0uNmI",
-   "url": "https://x.com/magnonewslive/status/2116330717617795492"
-  },
-  {
    "author_id": "1691221342476283906",
    "created_at": "2026-10-31T02:01:18.000Z",
    "edit_history_tweet_ids": [
     "2116349763860009318"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Jubilee Debate: Feminists vs Manosphere Reaction - THE SARTAIN REPORT",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 94,
+      "expanded_url": "https://x.com/i/broadcasts/1aJbdEjyrZYKX",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116349806943805440/foioz70t?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116349806943805440/foioz70t?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 71,
+      "status": 200,
+      "title": "Michael Sartain, Capt USAF Ret.",
+      "unwound_url": "https://x.com/i/broadcasts/1aJbdEjyrZYKX",
+      "url": "https://t.co/91mTCF1FAP"
+     }
+    ]
+   },
    "id": "2116349763860009318",
    "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 343,
-    "like_count": 9,
+    "bookmark_count": 4,
+    "impression_count": 379,
+    "like_count": 11,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
@@ -162,10 +431,37 @@
    "edit_history_tweet_ids": [
     "2116349457507954916"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Debate On Existance Of God Awais Iqbal & Saeed Wattoo",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 81,
+      "expanded_url": "https://x.com/i/broadcasts/1aKbdEjyrDYJX",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116349500499615744/Zmovx7Yt?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116349500499615744/Zmovx7Yt?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 58,
+      "status": 200,
+      "title": "Ex Muslim Sameer",
+      "unwound_url": "https://x.com/i/broadcasts/1aKbdEjyrDYJX",
+      "url": "https://t.co/HqVmQaXtsW"
+     }
+    ]
+   },
    "id": "2116349457507954916",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 105,
+    "impression_count": 112,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -180,6 +476,21 @@
    "edit_history_tweet_ids": [
     "2116361885888962978"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Politics and Games Pt. 2 | AF vs MAGA",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 61,
+      "expanded_url": "https://x.com/i/broadcasts/2aWbLbqnnvbzyQ",
+      "start": 38,
+      "status": 200,
+      "title": "Maricco N. Allen",
+      "unwound_url": "https://x.com/i/broadcasts/2aWbLbqnnvbzyQ",
+      "url": "https://t.co/ov5kpfnF1M"
+     }
+    ]
+   },
    "id": "2116361885888962978",
    "public_metrics": {
     "bookmark_count": 0,
@@ -198,14 +509,41 @@
    "edit_history_tweet_ids": [
     "2116357014431670645"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 113,
+      "expanded_url": "https://x.com/i/broadcasts/1qxoNYlnAXkJv",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116357016998572032/3Q8jrMOG?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116357016998572032/3Q8jrMOG?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "rolandsmartin",
+      "unwound_url": "https://x.com/i/broadcasts/1qxoNYlnAXkJv",
+      "url": "https://t.co/LMrw4rdvGg"
+     }
+    ]
+   },
    "id": "2116357014431670645",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1008,
-    "like_count": 3,
+    "impression_count": 1111,
+    "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 4
+    "retweet_count": 5
    },
    "text": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push https://t.co/LMrw4rdvGg",
    "url": "https://x.com/rolandsmartin/status/2116357014431670645"
@@ -216,11 +554,38 @@
    "edit_history_tweet_ids": [
     "2116349458984452375"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "PSP Ep 111: Pray, America Live Prayercast 10/30/26",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 74,
+      "expanded_url": "https://x.com/i/broadcasts/1lJQRWOqpnXxE",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116349501418184704/aNmoyxg-?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116349501418184704/aNmoyxg-?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 51,
+      "status": 200,
+      "title": "PatriotDadEV2.0",
+      "unwound_url": "https://x.com/i/broadcasts/1lJQRWOqpnXxE",
+      "url": "https://t.co/y5unKHOM8e"
+     }
+    ]
+   },
    "id": "2116349458984452375",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1350,
-    "like_count": 26,
+    "impression_count": 1401,
+    "like_count": 27,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 16
@@ -234,11 +599,38 @@
    "edit_history_tweet_ids": [
     "2116363894625030243"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "America First Chess Arena 5|5",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 53,
+      "expanded_url": "https://x.com/i/broadcasts/2gqWvvglzjeOZy",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116363937310461953/Bjj7b3he?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116363937310461953/Bjj7b3he?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 30,
+      "status": 200,
+      "title": "Alexander",
+      "unwound_url": "https://x.com/i/broadcasts/2gqWvvglzjeOZy",
+      "url": "https://t.co/Y6GKrOIXoC"
+     }
+    ]
+   },
    "id": "2116363894625030243",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 37,
-    "like_count": 4,
+    "impression_count": 77,
+    "like_count": 8,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
@@ -247,33 +639,42 @@
    "url": "https://x.com/AlexanderLotus/status/2116363894625030243"
   },
   {
-   "author_id": "3356172761",
-   "created_at": "2026-10-31T00:35:59.000Z",
-   "edit_history_tweet_ids": [
-    "2116328293863666167"
-   ],
-   "id": "2116328293863666167",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 90,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "The news is on\nhttps://t.co/GOjNYjNQ6I",
-   "url": "https://x.com/NTechlibre/status/2116328293863666167"
-  },
-  {
    "author_id": "1854373842480779270",
    "created_at": "2026-10-31T02:58:40.000Z",
    "edit_history_tweet_ids": [
     "2116364202507981231"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "America First Chess Arena 5|5",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 77,
+      "expanded_url": "https://x.com/i/broadcasts/2gqWvvglzjeOZy",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116363937310461953/Bjj7b3he?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116363937310461953/Bjj7b3he?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 54,
+      "status": 200,
+      "title": "Alexander",
+      "unwound_url": "https://x.com/i/broadcasts/2gqWvvglzjeOZy",
+      "url": "https://t.co/Y6GKrOIXoC"
+     }
+    ]
+   },
    "id": "2116364202507981231",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 114,
+    "impression_count": 184,
     "like_count": 7,
     "quote_count": 0,
     "reply_count": 2,
@@ -288,10 +689,37 @@
    "edit_history_tweet_ids": [
     "2116349459793903937"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "PSP Ep 111: Pray, America Live Prayercast 10/30/26",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 74,
+      "expanded_url": "https://x.com/i/broadcasts/1qGoNYlnAPgKv",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116349502328352768/1Y83qZK0?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116349502328352768/1Y83qZK0?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 51,
+      "status": 200,
+      "title": "Patriot Source Network",
+      "unwound_url": "https://x.com/i/broadcasts/1qGoNYlnAPgKv",
+      "url": "https://t.co/Kfkoqkylk0"
+     }
+    ]
+   },
    "id": "2116349459793903937",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 421,
+    "impression_count": 438,
     "like_count": 12,
     "quote_count": 0,
     "reply_count": 0,
@@ -306,35 +734,89 @@
    "edit_history_tweet_ids": [
     "2116348395426058338"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🔴LIVE : The Break Fast Show : | Latest News | Zee MPCG",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 79,
+      "expanded_url": "https://x.com/i/broadcasts/2kEbbkqazlBqgE",
+      "images": [
+       {
+        "height": 576,
+        "url": "https://pbs.twimg.com/news_img/2116348439248175104/OMGm1oy2?format=jpg&name=orig",
+        "width": 720
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116348439248175104/OMGm1oy2?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 56,
+      "status": 200,
+      "title": "Zee MP-Chhattisgarh",
+      "unwound_url": "https://x.com/i/broadcasts/2kEbbkqazlBqgE",
+      "url": "https://t.co/GiW3ajLots"
+     }
+    ]
+   },
    "id": "2116348395426058338",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 338,
+    "impression_count": 342,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "\ud83d\udd34LIVE : The Break Fast Show :  | Latest News | Zee MPCG https://t.co/GiW3ajLots",
+   "text": "🔴LIVE : The Break Fast Show :  | Latest News | Zee MPCG https://t.co/GiW3ajLots",
    "url": "https://x.com/ZeeMPCG/status/2116348395426058338"
   },
   {
-   "author_id": "1307797792736325639",
-   "created_at": "2026-10-31T02:00:26.000Z",
+   "author_id": "85814753",
+   "created_at": "2026-10-31T01:01:57.000Z",
    "edit_history_tweet_ids": [
-    "2116349544900554962"
+    "2116334830187073780"
    ],
-   "id": "2116349544900554962",
+   "entities": {
+    "urls": [
+     {
+      "description": "Sandesh News",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 36,
+      "expanded_url": "https://x.com/i/broadcasts/2BlMMzXkZprRgL",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116334875762393088/WYY22soi?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116334875762393088/WYY22soi?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 13,
+      "status": 200,
+      "title": "Sandesh",
+      "unwound_url": "https://x.com/i/broadcasts/2BlMMzXkZprRgL",
+      "url": "https://t.co/EcjWTnHA3Z"
+     }
+    ]
+   },
+   "id": "2116334830187073780",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 174,
+    "impression_count": 380,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "24/7 Poliscoop Live news https://t.co/5jx0ijB0PY",
-   "url": "https://x.com/poliscoopmedia/status/2116349544900554962"
+   "text": "Sandesh News https://t.co/EcjWTnHA3Z",
+   "url": "https://x.com/sandeshnews/status/2116334830187073780"
   },
   {
    "author_id": "1761697828655480832",
@@ -342,10 +824,37 @@
    "edit_history_tweet_ids": [
     "2116359484260143268"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 74,
+      "expanded_url": "https://x.com/i/broadcasts/2POJMXqLVLMgbK",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2116359487741403137/4QoFX59I?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116359487741403137/4QoFX59I?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 51,
+      "status": 200,
+      "title": "America Rising Media",
+      "unwound_url": "https://x.com/i/broadcasts/2POJMXqLVLMgbK",
+      "url": "https://t.co/JlH02kunz7"
+     }
+    ]
+   },
    "id": "2116359484260143268",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 80,
+    "bookmark_count": 2,
+    "impression_count": 113,
     "like_count": 2,
     "quote_count": 1,
     "reply_count": 0,
@@ -355,47 +864,26 @@
    "url": "https://x.com/_ARMedia/status/2116359484260143268"
   },
   {
-   "author_id": "29535572",
-   "created_at": "2026-10-31T01:00:42.000Z",
-   "edit_history_tweet_ids": [
-    "2116334514339565701"
-   ],
-   "id": "2116334514339565701",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 18,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 23,
-    "retweet_count": 0
-   },
-   "text": "Night Owl News Archives - 10/30/2026 https://t.co/RwvExyaYgB",
-   "url": "https://x.com/DeeStevensvoice/status/2116334514339565701"
-  },
-  {
-   "author_id": "882380500098105344",
-   "created_at": "2026-10-31T01:00:42.000Z",
-   "edit_history_tweet_ids": [
-    "2116334513550922158"
-   ],
-   "id": "2116334513550922158",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 16,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Night Owl News Archives - 10/30/2026 https://t.co/P8NFRTi97i",
-   "url": "https://x.com/tiresumcash/status/2116334513550922158"
-  },
-  {
    "author_id": "1518719055590395905",
    "created_at": "2026-10-31T02:00:22.000Z",
    "edit_history_tweet_ids": [
     "2116349530509840892"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Radio Baloney Live! News Review Hangout Stream",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 70,
+      "expanded_url": "https://x.com/i/broadcasts/1nGeLMNeRDAKX",
+      "start": 47,
+      "status": 200,
+      "title": "RADIO BALONEY",
+      "unwound_url": "https://x.com/i/broadcasts/1nGeLMNeRDAKX",
+      "url": "https://t.co/dSmuxgDxfr"
+     }
+    ]
+   },
    "id": "2116349530509840892",
    "public_metrics": {
     "bookmark_count": 0,
@@ -409,11 +897,71 @@
    "url": "https://x.com/RadioBaloney/status/2116349530509840892"
   },
   {
+   "author_id": "1999037304103723008",
+   "created_at": "2026-10-31T03:22:14.000Z",
+   "edit_history_tweet_ids": [
+    "2116370133195108533"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "GrowthNow News LIVE !",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 45,
+      "expanded_url": "https://x.com/i/broadcasts/2XyJEMWlRbJgqj",
+      "start": 22,
+      "status": 200,
+      "title": "Growthnownews",
+      "unwound_url": "https://x.com/i/broadcasts/2XyJEMWlRbJgqj",
+      "url": "https://t.co/zqwIM3XZ7r"
+     }
+    ]
+   },
+   "id": "2116370133195108533",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 18,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "GrowthNow News LIVE ! https://t.co/zqwIM3XZ7r",
+   "url": "https://x.com/growthnownews/status/2116370133195108533"
+  },
+  {
    "author_id": "102473203",
    "created_at": "2026-10-31T01:36:37.000Z",
    "edit_history_tweet_ids": [
     "2116343552624234784"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "NEWS AND GAMES! LIVE ON KICK, TWITCH, AND YOUTUBE!",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 74,
+      "expanded_url": "https://x.com/i/broadcasts/1nKOLQMXaLOGR",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116343595041189888/6y3DkkvA?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116343595041189888/6y3DkkvA?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 51,
+      "status": 200,
+      "title": "Stan Price",
+      "unwound_url": "https://x.com/i/broadcasts/1nKOLQMXaLOGR",
+      "url": "https://t.co/1tlXtr0YGn"
+     }
+    ]
+   },
    "id": "2116343552624234784",
    "public_metrics": {
     "bookmark_count": 0,
@@ -427,40 +975,191 @@
    "url": "https://x.com/stanprice/status/2116343552624234784"
   },
   {
-   "author_id": "1630413538639626242",
-   "created_at": "2026-10-31T01:21:19.000Z",
+   "author_id": "19897138",
+   "created_at": "2026-10-31T02:27:22.000Z",
    "edit_history_tweet_ids": [
-    "2116339701607248298"
+    "2116356323826909543"
    ],
-   "id": "2116339701607248298",
+   "entities": {
+    "hashtags": [
+     {
+      "end": 5,
+      "start": 0,
+      "tag": "LIVE"
+     }
+    ],
+    "urls": [
+     {
+      "description": "#LIVE || Take a look at the top news headlines",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 70,
+      "expanded_url": "https://x.com/i/broadcasts/1lJQRWOqpzZxE",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116356326628737024/-doN9GKD?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116356326628737024/-doN9GKD?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 47,
+      "status": 200,
+      "title": "IndiaToday",
+      "unwound_url": "https://x.com/i/broadcasts/1lJQRWOqpzZxE",
+      "url": "https://t.co/GVCYcRMF6p"
+     }
+    ]
+   },
+   "id": "2116356323826909543",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 22,
+    "impression_count": 2594,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "#LIVE || Take a look at the top news headlines https://t.co/GVCYcRMF6p",
+   "url": "https://x.com/IndiaToday/status/2116356323826909543"
+  },
+  {
+   "author_id": "882380500098105344",
+   "created_at": "2026-10-31T01:00:42.000Z",
+   "edit_history_tweet_ids": [
+    "2116334513550922158"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Night Owl News Archives - 10/30/2026",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 60,
+      "expanded_url": "https://x.com/i/broadcasts/1dGYlaZbwYZKX",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116334555938664448/yT5DhoOC?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116334555938664448/yT5DhoOC?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 37,
+      "status": 200,
+      "title": "Orlando Munguia",
+      "unwound_url": "https://x.com/i/broadcasts/1dGYlaZbwYZKX",
+      "url": "https://t.co/P8NFRTi97i"
+     }
+    ]
+   },
+   "id": "2116334513550922158",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 16,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Week 8 LIVE Rankings for QBs RBs WRs and TEs (Q&amp;A) + Fantasy News | Fantasy Football 2026 https://t.co/O9qlSPPKkw",
-   "url": "https://x.com/TFFballinShow/status/2116339701607248298"
+   "text": "Night Owl News Archives - 10/30/2026 https://t.co/P8NFRTi97i",
+   "url": "https://x.com/tiresumcash/status/2116334513550922158"
   },
   {
-   "author_id": "1438604288025153542",
-   "created_at": "2026-10-31T03:00:41.000Z",
+   "author_id": "1307797792736325639",
+   "created_at": "2026-10-31T02:00:26.000Z",
    "edit_history_tweet_ids": [
-    "2116364707552510291"
+    "2116349544900554962"
    ],
-   "id": "2116364707552510291",
+   "entities": {
+    "urls": [
+     {
+      "description": "24/7 Poliscoop Live news",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 48,
+      "expanded_url": "https://x.com/i/broadcasts/1DGLdZBwnbzGm",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116349547882627072/9KWAZjpE?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116349547882627072/9KWAZjpE?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 25,
+      "status": 200,
+      "title": "Poliscoop Media",
+      "unwound_url": "https://x.com/i/broadcasts/1DGLdZBwnbzGm",
+      "url": "https://t.co/5jx0ijB0PY"
+     }
+    ]
+   },
+   "id": "2116349544900554962",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 260,
-    "like_count": 9,
-    "quote_count": 1,
+    "impression_count": 189,
+    "like_count": 1,
+    "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 5
+    "retweet_count": 0
    },
-   "text": "LIVE NOW \n\nRapid Fire News #1238 ~FAFO FRIDAY~\nhttps://t.co/xKt5z0YnU3",
-   "url": "https://x.com/AJPArmy/status/2116364707552510291"
+   "text": "24/7 Poliscoop Live news https://t.co/5jx0ijB0PY",
+   "url": "https://x.com/poliscoopmedia/status/2116349544900554962"
+  },
+  {
+   "author_id": "1302508792698015749",
+   "created_at": "2026-10-31T02:44:25.000Z",
+   "edit_history_tweet_ids": [
+    "2116360613756538912"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "HALLOWEEN JAMS!!! | PROTESTS LIVE | FUKITOL FRIDAY | NEWS | MUSIC | CHAT",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 96,
+      "expanded_url": "https://x.com/i/broadcasts/2lgkykvojzgMQz",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116360656488185856/bOaSIP_V?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116360656488185856/bOaSIP_V?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 73,
+      "status": 200,
+      "title": "Nubbin St. Nubbins",
+      "unwound_url": "https://x.com/i/broadcasts/2lgkykvojzgMQz",
+      "url": "https://t.co/ys1mbsSaXH"
+     }
+    ]
+   },
+   "id": "2116360613756538912",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 81,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "HALLOWEEN JAMS!!! | PROTESTS LIVE | FUKITOL FRIDAY | NEWS | MUSIC | CHAT https://t.co/ys1mbsSaXH",
+   "url": "https://x.com/NubbinSaint/status/2116360613756538912"
   }
  ],
  "users": [
@@ -469,13 +1168,28 @@
    "name": "SiriusXM Patriot",
    "public_metrics": {
     "followers_count": 34412,
-    "following_count": 1105,
-    "like_count": 12549,
+    "following_count": 1106,
+    "like_count": 12553,
     "listed_count": 179,
     "media_count": 4015,
     "tweet_count": 21201
    },
    "username": "SiriusXMPatriot",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1534262297547481094",
+   "name": "Radell PPBD",
+   "public_metrics": {
+    "followers_count": 757,
+    "following_count": 830,
+    "like_count": 2269,
+    "listed_count": 3,
+    "media_count": 1734,
+    "tweet_count": 7082
+   },
+   "username": "PPolBreakdown",
    "verified": true,
    "verified_type": "blue"
   },
@@ -487,8 +1201,8 @@
     "following_count": 1,
     "like_count": 3,
     "listed_count": 2,
-    "media_count": 29027,
-    "tweet_count": 29584
+    "media_count": 29032,
+    "tweet_count": 29589
    },
    "username": "NewsLeaderLive",
    "verified": true,
@@ -510,25 +1224,10 @@
    "verified_type": "blue"
   },
   {
-   "id": "20751449",
-   "name": "The Hindu",
-   "public_metrics": {
-    "followers_count": 8426548,
-    "following_count": 185,
-    "like_count": 259,
-    "listed_count": 8567,
-    "media_count": 67655,
-    "tweet_count": 739863
-   },
-   "username": "the_hindu",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1900375238548086788",
    "name": "MAGNO NEWS LIVE",
    "public_metrics": {
-    "followers_count": 2407,
+    "followers_count": 2408,
     "following_count": 276,
     "like_count": 28,
     "listed_count": 17,
@@ -540,10 +1239,25 @@
    "verified_type": "blue"
   },
   {
+   "id": "20751449",
+   "name": "The Hindu",
+   "public_metrics": {
+    "followers_count": 8426549,
+    "following_count": 185,
+    "like_count": 259,
+    "listed_count": 8567,
+    "media_count": 67655,
+    "tweet_count": 739867
+   },
+   "username": "the_hindu",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "1691221342476283906",
    "name": "Michael Sartain, Capt USAF Ret.",
    "public_metrics": {
-    "followers_count": 11331,
+    "followers_count": 11332,
     "following_count": 386,
     "like_count": 4625,
     "listed_count": 35,
@@ -588,12 +1302,12 @@
    "id": "16116288",
    "name": "rolandsmartin",
    "public_metrics": {
-    "followers_count": 709207,
+    "followers_count": 709226,
     "following_count": 4202,
-    "like_count": 95334,
+    "like_count": 95338,
     "listed_count": 4654,
     "media_count": 34351,
-    "tweet_count": 700889
+    "tweet_count": 700892
    },
    "username": "rolandsmartin",
    "verified": true,
@@ -603,7 +1317,7 @@
    "id": "68146122",
    "name": "PatriotDadEV2.0",
    "public_metrics": {
-    "followers_count": 114753,
+    "followers_count": 114754,
     "following_count": 2446,
     "like_count": 9369,
     "listed_count": 93,
@@ -630,21 +1344,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "3356172761",
-   "name": "TechLibre",
-   "public_metrics": {
-    "followers_count": 5878,
-    "following_count": 3606,
-    "like_count": 260460,
-    "listed_count": 142,
-    "media_count": 16990,
-    "tweet_count": 82779
-   },
-   "username": "NTechlibre",
-   "verified": false,
-   "verified_type": "none"
-  },
-  {
    "id": "1976296987482808321",
    "name": "Patriot Source Network",
    "public_metrics": {
@@ -667,25 +1366,25 @@
     "following_count": 45,
     "like_count": 15,
     "listed_count": 191,
-    "media_count": 190281,
-    "tweet_count": 343330
+    "media_count": 190283,
+    "tweet_count": 343332
    },
    "username": "ZeeMPCG",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1307797792736325639",
-   "name": "Poliscoop Media",
+   "id": "85814753",
+   "name": "Sandesh",
    "public_metrics": {
-    "followers_count": 10993,
-    "following_count": 102,
-    "like_count": 1387,
-    "listed_count": 8,
-    "media_count": 2088,
-    "tweet_count": 4538
+    "followers_count": 520554,
+    "following_count": 2,
+    "like_count": 1746,
+    "listed_count": 379,
+    "media_count": 223621,
+    "tweet_count": 463660
    },
-   "username": "poliscoopmedia",
+   "username": "sandeshnews",
    "verified": true,
    "verified_type": "blue"
   },
@@ -695,42 +1394,12 @@
    "public_metrics": {
     "followers_count": 1742,
     "following_count": 229,
-    "like_count": 6057,
+    "like_count": 6058,
     "listed_count": 4,
     "media_count": 1364,
-    "tweet_count": 8079
+    "tweet_count": 8080
    },
    "username": "_ARMedia",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "29535572",
-   "name": "N\ud835\udc08\u011e\ud835\udd59\u4e05 \ud835\udcf8\ud835\udce6\uff4c \u24dd\u20ac\ud835\udd4e\u015f Archives \ud83d\udc38",
-   "public_metrics": {
-    "followers_count": 1680,
-    "following_count": 4251,
-    "like_count": 31133,
-    "listed_count": 3,
-    "media_count": 6405,
-    "tweet_count": 23974
-   },
-   "username": "DeeStevensvoice",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "882380500098105344",
-   "name": "Orlando Munguia",
-   "public_metrics": {
-    "followers_count": 1554,
-    "following_count": 1485,
-    "like_count": 12521,
-    "listed_count": 1,
-    "media_count": 1847,
-    "tweet_count": 23955
-   },
-   "username": "tiresumcash",
    "verified": true,
    "verified_type": "blue"
   },
@@ -750,6 +1419,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "1999037304103723008",
+   "name": "Growthnownews",
+   "public_metrics": {
+    "followers_count": 211,
+    "following_count": 12,
+    "like_count": 1058,
+    "listed_count": 2,
+    "media_count": 4708,
+    "tweet_count": 6047
+   },
+   "username": "growthnownews",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "102473203",
    "name": "Stan Price",
    "public_metrics": {
@@ -758,39 +1442,69 @@
     "like_count": 7150,
     "listed_count": 29,
     "media_count": 5216,
-    "tweet_count": 16734
+    "tweet_count": 16736
    },
    "username": "stanprice",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1630413538639626242",
-   "name": "TheFantasyRedzone",
+   "id": "19897138",
+   "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 34,
-    "following_count": 197,
-    "like_count": 194,
-    "listed_count": 3,
-    "media_count": 49,
-    "tweet_count": 128
+    "followers_count": 6275460,
+    "following_count": 83,
+    "like_count": 4431,
+    "listed_count": 7342,
+    "media_count": 582070,
+    "tweet_count": 1543165
    },
-   "username": "TFFballinShow",
+   "username": "IndiaToday",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1438604288025153542",
-   "name": "Average Joe Patriot 1776",
+   "id": "882380500098105344",
+   "name": "Orlando Munguia",
    "public_metrics": {
-    "followers_count": 11218,
-    "following_count": 4739,
-    "like_count": 98107,
-    "listed_count": 11,
-    "media_count": 4712,
-    "tweet_count": 58123
+    "followers_count": 1554,
+    "following_count": 1485,
+    "like_count": 12521,
+    "listed_count": 1,
+    "media_count": 1847,
+    "tweet_count": 23955
    },
-   "username": "AJPArmy",
+   "username": "tiresumcash",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1307797792736325639",
+   "name": "Poliscoop Media",
+   "public_metrics": {
+    "followers_count": 10993,
+    "following_count": 102,
+    "like_count": 1387,
+    "listed_count": 8,
+    "media_count": 2088,
+    "tweet_count": 4538
+   },
+   "username": "poliscoopmedia",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1302508792698015749",
+   "name": "Nubbin St. Nubbins",
+   "public_metrics": {
+    "followers_count": 2153,
+    "following_count": 2468,
+    "like_count": 15550,
+    "listed_count": 4,
+    "media_count": 532,
+    "tweet_count": 12123
+   },
+   "username": "NubbinSaint",
    "verified": true,
    "verified_type": "blue"
   }
