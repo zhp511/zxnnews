@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-10-31T05:18:51Z",
+ "fetched_at": "2026-10-31T13:04:13Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
   "description": "we are Bluehand ZXN #pon im MAGA im Face of this one man my cosing late Dwight D. Eisenhower\n34th U.S. President my Name is Zachary H Parsley",
   "id": "2011476148178599939",
-  "location": "God\u2019s country, US TN",
-  "name": "ZXN \u201c we are bluehand \u201d AND patriot one network",
+  "location": "God’s country, US TN",
+  "name": "ZXN “ we are bluehand ” AND patriot one network",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011476148178599939/1787723275",
   "profile_image_url": "https://pbs.twimg.com/profile_images/2103957352059691008/9ULEZI9q_400x400.jpg",
   "public_metrics": {
@@ -20,6 +20,38 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-10-31T13:03:17.000Z",
+     "edit_history_tweet_ids": [
+      "2116516357273522467"
+     ],
+     "id": "2116516357273522467",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116476394964193569",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@stockmom Ok",
+     "url": "https://x.com/i/status/2116516357273522467"
+    }
+   ],
+   "meta": {
+    "newest_id": "2116516357273522467",
+    "oldest_id": "2116516357273522467",
+    "result_count": 1
+   }
+  },
   {
    "data": [
     {
@@ -383,7 +415,7 @@
        "type": "replied_to"
       }
      ],
-     "text": "@Drax2431 Good evening guys I\u2019ll be in there in a few I\u2019m gonna put this right here https://t.co/w2PIPUrTRu",
+     "text": "@Drax2431 Good evening guys I’ll be in there in a few I’m gonna put this right here https://t.co/w2PIPUrTRu",
      "url": "https://x.com/i/status/2116336726553788635"
     },
     {
@@ -427,7 +459,7 @@
       "urls": [
        {
         "description": "#ZXN #xlive #wearethepeople #bluehand #PON #tellmeyourstory #smackdown #WWERAW",
-        "display_url": "x.com/i/broadcasts/1\u2026",
+        "display_url": "x.com/i/broadcasts/1…",
         "end": 124,
         "expanded_url": "https://x.com/i/broadcasts/1qGvverWlDwGB",
         "images": [
@@ -444,7 +476,7 @@
         ],
         "start": 101,
         "status": 200,
-        "title": "ZXN \u201c we are bluehand \u201d AND patriot one network",
+        "title": "ZXN “ we are bluehand ” AND patriot one network",
         "unwound_url": "https://x.com/i/broadcasts/1qGvverWlDwGB",
         "url": "https://t.co/7J5Fe9peE3"
        }
@@ -476,7 +508,7 @@
      "entities": {
       "urls": [
        {
-        "display_url": "x.com/zxnbluehandus/\u2026",
+        "display_url": "x.com/zxnbluehandus/…",
         "end": 36,
         "expanded_url": "https://x.com/zxnbluehandus/status/2116314095624597571?a=1RgPPq-XVF0yS1nr6CM&s=46",
         "start": 13,
@@ -594,7 +626,7 @@
        "type": "retweeted"
       }
      ],
-     "text": "RT @Jessica55127532: \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83d\udc47 COME ON Y'ALL #LFG https://t.co/Lr7hMjGfur",
+     "text": "RT @Jessica55127532: 🇺🇸🇺🇸🇺🇸👇 COME ON Y'ALL #LFG https://t.co/Lr7hMjGfur",
      "url": "https://x.com/i/status/2116296695205994501"
     }
    ],
@@ -1245,7 +1277,7 @@
        "type": "retweeted"
       }
      ],
-     "text": "RT @AODxLA: \ud83e\ude77. @zxnbluehandus",
+     "text": "RT @AODxLA: 🩷. @zxnbluehandus",
      "url": "https://x.com/i/status/2116024776980578584"
     },
     {
@@ -1440,7 +1472,7 @@
        "type": "retweeted"
       }
      ],
-     "text": "RT @SirPatStew: In lieu of flowers, memorial contributions may be made to:\nJohns Hopkins Alzheimer\u2019s Disease Research Center Fund   \nhttps:\u2026",
+     "text": "RT @SirPatStew: In lieu of flowers, memorial contributions may be made to:\nJohns Hopkins Alzheimer’s Disease Research Center Fund   \nhttps:…",
      "url": "https://x.com/i/status/2115927284817461496"
     }
    ],
@@ -1468,8 +1500,8 @@
       ],
       "urls": [
        {
-        "description": "Jay Gatling's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1AKEm\u2026",
+        "description": "Jay Gatling's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1AKEm…",
         "end": 41,
         "expanded_url": "https://x.com/i/spaces/1AKEmvEjkBgKL",
         "images": [
@@ -1486,7 +1518,7 @@
         ],
         "start": 18,
         "status": 200,
-        "title": "Scheduled: MAIN ST MEETS WALL ST: Latest News | Latest Economic & Market Data \ud83d\udcc8\ud83d\udcc9 / X",
+        "title": "Scheduled: MAIN ST MEETS WALL ST: Latest News | Latest Economic & Market Data 📈📉 / X",
         "unwound_url": "https://x.com/i/spaces/1AKEmvEjkBgKL",
         "url": "https://t.co/THqrxNFZGg"
        }
@@ -1539,7 +1571,7 @@
        "type": "retweeted"
       }
      ],
-     "text": "RT @CSalcedoShow: Patrick Stewart, \u2018Star Trek\u2019 Captain and \u2018X-Men\u2019 Superhero, Dies at 86\nHe\u2019s forever known for playing Jean-Luc Picard and\u2026",
+     "text": "RT @CSalcedoShow: Patrick Stewart, ‘Star Trek’ Captain and ‘X-Men’ Superhero, Dies at 86\nHe’s forever known for playing Jean-Luc Picard and…",
      "url": "https://x.com/i/status/2115910724065083722"
     },
     {
@@ -1562,7 +1594,7 @@
        "type": "retweeted"
       }
      ],
-     "text": "RT @FoxNews: BREAKING: Legendary actor Sir Patrick Stewart has died at age 86.\n\nStewart fought a brief battle with Alzheimer's disease and\u2026",
+     "text": "RT @FoxNews: BREAKING: Legendary actor Sir Patrick Stewart has died at age 86.\n\nStewart fought a brief battle with Alzheimer's disease and…",
      "url": "https://x.com/i/status/2115910269591277979"
     }
    ],
@@ -1624,7 +1656,7 @@
       ],
       "urls": [
        {
-        "display_url": "x.com/robmaness/stat\u2026",
+        "display_url": "x.com/robmaness/stat…",
         "end": 40,
         "expanded_url": "https://x.com/robmaness/status/2115880941684195672?a=N4pp5GPCYbcjvnhuhLk&s=46",
         "start": 17,
@@ -1671,7 +1703,7 @@
       ],
       "urls": [
        {
-        "display_url": "x.com/zxnbluehandus/\u2026",
+        "display_url": "x.com/zxnbluehandus/…",
         "end": 40,
         "expanded_url": "https://x.com/zxnbluehandus/status/2115697377394794731?a=UOOC_Cu_Fuy6b0TY9Bs&s=46",
         "start": 17,
@@ -1733,7 +1765,7 @@
        "type": "replied_to"
       }
      ],
-     "text": "@CHELLESHOCKEDTM Come on in people please and thank u \ud83d\ude4f",
+     "text": "@CHELLESHOCKEDTM Come on in people please and thank u 🙏",
      "url": "https://x.com/i/status/2115874664769593758"
     },
     {
@@ -1829,8 +1861,8 @@
       ],
       "urls": [
        {
-        "description": "\ud83c\uddfa\ud83c\uddf8Chelle\ud83c\uddfa\ud83c\uddf8's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1nxeL\u2026",
+        "description": "🇺🇸Chelle🇺🇸's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1nxeL…",
         "end": 90,
         "expanded_url": "https://x.com/i/spaces/1nxeLMNZvDbJX",
         "images": [
@@ -1862,7 +1894,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "I\u2019m going to @CHELLESHOCKEDTM\u2019s upcoming Space. Will you join too? https://t.co/rCfiBYINn8",
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/rCfiBYINn8",
      "url": "https://x.com/i/status/2115822661200957773"
     }
    ],
@@ -2071,7 +2103,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "I\u2019m going to @apinionsvary\u2019s upcoming Space. Will you join too? https://t.co/rApQ8y3LEj",
+     "text": "I’m going to @apinionsvary’s upcoming Space. Will you join too? https://t.co/rApQ8y3LEj",
      "url": "https://x.com/i/status/2115780250319696356"
     }
    ],
@@ -2145,7 +2177,7 @@
        "type": "retweeted"
       }
      ],
-     "text": "RT @WhaleNewsDaily: \ud83d\udea8 GOVERNMENTS ARE TELLING CITIZENS TO STOCK UP FOR EMERGENCY\n\n\ud83c\uddfa\ud83c\uddf8 USA: NATIONWIDE ALERT TEST, NOV 17\n\nAnd they are not a\u2026",
+     "text": "RT @WhaleNewsDaily: 🚨 GOVERNMENTS ARE TELLING CITIZENS TO STOCK UP FOR EMERGENCY\n\n🇺🇸 USA: NATIONWIDE ALERT TEST, NOV 17\n\nAnd they are not a…",
      "url": "https://x.com/i/status/2115721309451882837"
     },
     {
@@ -2292,7 +2324,7 @@
        "type": "retweeted"
       }
      ],
-     "text": "RT @defense_civil25: \ud83d\udea8Update: Russia and China are helping Iran prepare to launch a massive cyberattack against the United States power gri\u2026",
+     "text": "RT @defense_civil25: 🚨Update: Russia and China are helping Iran prepare to launch a massive cyberattack against the United States power gri…",
      "url": "https://x.com/i/status/2115698120000471162"
     }
    ],
@@ -2368,7 +2400,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "October 29 2026 Today we tell the truth on  @RobManess @WorldviewTube @CHELLESHOCKEDTM @KatTheHammer1 @averageJohn911 @ali_hopper it all starts 2:30 pm eastern time pre-show 3 PM Showtime we find the truth. That\u2019s the bottom line  because we said so https://t.co/nI6LGcjArV",
+     "text": "October 29 2026 Today we tell the truth on  @RobManess @WorldviewTube @CHELLESHOCKEDTM @KatTheHammer1 @averageJohn911 @ali_hopper it all starts 2:30 pm eastern time pre-show 3 PM Showtime we find the truth. That’s the bottom line  because we said so https://t.co/nI6LGcjArV",
      "url": "https://x.com/i/status/2115697377394794731"
     },
     {
@@ -2412,7 +2444,7 @@
       "reply_count": 0,
       "retweet_count": 1
      },
-     "text": "A new space is coming nope it\u2019s already here https://t.co/KZzc11GspK",
+     "text": "A new space is coming nope it’s already here https://t.co/KZzc11GspK",
      "url": "https://x.com/i/status/2115653388213903712"
     },
     {
@@ -2563,7 +2595,7 @@
       "reply_count": 0,
       "retweet_count": 1
      },
-     "text": "I\u2019m going to @CHELLESHOCKEDTM\u2019s upcoming Space. Will you join too? https://t.co/EoUx9yD34w",
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/EoUx9yD34w",
      "url": "https://x.com/i/status/2115434831303856378"
     },
     {
@@ -2586,7 +2618,7 @@
       "reply_count": 1,
       "retweet_count": 9
      },
-     "text": "Today is whistleblower Wednesday on get @RobManess @WorldviewTube @CHELLESHOCKEDTM @KatTheHammer1 @averageJohn911 @ali_hopper @truthfighter33 get your whistle out people it\u2019s time to whistle blow it all begins 2:30 pm 3 o\u2019clock pm come on and join a conversation thank you https://t.co/sPpcNV8Im9",
+     "text": "Today is whistleblower Wednesday on get @RobManess @WorldviewTube @CHELLESHOCKEDTM @KatTheHammer1 @averageJohn911 @ali_hopper @truthfighter33 get your whistle out people it’s time to whistle blow it all begins 2:30 pm 3 o’clock pm come on and join a conversation thank you https://t.co/sPpcNV8Im9",
      "url": "https://x.com/i/status/2115426019607773456"
     },
     {
@@ -2642,7 +2674,7 @@
       "reply_count": 0,
       "retweet_count": 2
      },
-     "text": "I\u2019m going to @CHELLESHOCKEDTM\u2019s upcoming Space. Will you join too? https://t.co/foq0LwCVoR",
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/foq0LwCVoR",
      "url": "https://x.com/i/status/2115096755994038424"
     },
     {
@@ -2664,7 +2696,7 @@
       "reply_count": 0,
       "retweet_count": 2
      },
-     "text": "Today October 27, 2026 today on training Tuesday it\u2019s gonna be a very good show that you have to raise your hand on this it\u2019s gonna be a good show at 2:30 Eastern time Showtime 3 PM  @RobManess @WorldviewTube @CHELLESHOCKEDTM @KatTheHammer1 @averageJohn911 @ali_hopper https://t.co/psiBolK3vu",
+     "text": "Today October 27, 2026 today on training Tuesday it’s gonna be a very good show that you have to raise your hand on this it’s gonna be a good show at 2:30 Eastern time Showtime 3 PM  @RobManess @WorldviewTube @CHELLESHOCKEDTM @KatTheHammer1 @averageJohn911 @ali_hopper https://t.co/psiBolK3vu",
      "url": "https://x.com/i/status/2114952858097377365"
     },
     {
@@ -2681,7 +2713,7 @@
       "reply_count": 0,
       "retweet_count": 2
      },
-     "text": "I\u2019m going to @CindyColbert\u2019s upcoming Space. Will you join too? https://t.co/JvM8TwLWPl",
+     "text": "I’m going to @CindyColbert’s upcoming Space. Will you join too? https://t.co/JvM8TwLWPl",
      "url": "https://x.com/i/status/2114889124012257702"
     },
     {
@@ -2715,7 +2747,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "I\u2019m going to @Drax2431\u2019s upcoming Space. Will you join too? https://t.co/tUCnHCUFZ4",
+     "text": "I’m going to @Drax2431’s upcoming Space. Will you join too? https://t.co/tUCnHCUFZ4",
      "url": "https://x.com/i/status/2114772271839494220"
     },
     {
@@ -2756,7 +2788,7 @@
       "reply_count": 0,
       "retweet_count": 1
      },
-     "text": "I\u2019m going to @CHELLESHOCKEDTM\u2019s upcoming Space. Will you join too? https://t.co/PGMEUeiAxj",
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/PGMEUeiAxj",
      "url": "https://x.com/i/status/2114712683744493696"
     }
    ],
@@ -2838,7 +2870,7 @@
       ],
       "urls": [
        {
-        "display_url": "x.com/zxnbluehandus/\u2026",
+        "display_url": "x.com/zxnbluehandus/…",
         "end": 59,
         "expanded_url": "https://twitter.com/zxnbluehandus/status/2114513144307442008",
         "start": 36,
@@ -3383,7 +3415,7 @@
       "urls": [
        {
         "description": "Join us every Sunday at 8:00am, 9:45am, and 11:30am on 14800 Highla...",
-        "display_url": "youtube.com/live/zWZ5_3YeB\u2026",
+        "display_url": "youtube.com/live/zWZ5_3YeB…",
         "end": 74,
         "expanded_url": "https://www.youtube.com/live/zWZ5_3YeB64?is=68BIBlZtblfBQxCL",
         "images": [
@@ -3445,7 +3477,7 @@
       "urls": [
        {
         "description": "Join us every Sunday at 8:00am, 9:45am, and 11:30am on 14800 Highla...",
-        "display_url": "youtube.com/live/zWZ5_3YeB\u2026",
+        "display_url": "youtube.com/live/zWZ5_3YeB…",
         "end": 55,
         "expanded_url": "https://www.youtube.com/live/zWZ5_3YeB64?is=68BIBlZtblfBQxCL",
         "images": [
@@ -3790,7 +3822,7 @@
       ],
       "urls": [
        {
-        "display_url": "x.com/zxnbluehandus/\u2026",
+        "display_url": "x.com/zxnbluehandus/…",
         "end": 48,
         "expanded_url": "https://twitter.com/zxnbluehandus/status/2114152959856857455",
         "start": 25,
@@ -3869,8 +3901,8 @@
       ],
       "urls": [
        {
-        "description": "\ud83d\udcd8 THE FIELD MANUALS \u2014 every parts list, both wiring diagrams and th...",
-        "display_url": "youtu.be/TGk0zFi5mVc?is\u2026",
+        "description": "📘 THE FIELD MANUALS — every parts list, both wiring diagrams and th...",
+        "display_url": "youtu.be/TGk0zFi5mVc?is…",
         "end": 99,
         "expanded_url": "https://youtu.be/TGk0zFi5mVc?is=qrsmX25TVK25IZ20",
         "images": [
@@ -4177,7 +4209,7 @@
        "type": "replied_to"
       }
      ],
-     "text": "@MMV747 I\u2019m so sorry",
+     "text": "@MMV747 I’m so sorry",
      "url": "https://x.com/i/status/2114113031906972138"
     }
    ],
@@ -4205,8 +4237,8 @@
       ],
       "urls": [
        {
-        "description": "\u15eaRAX's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1dGYl\u2026",
+        "description": "ᗪRAX's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1dGYl…",
         "end": 83,
         "expanded_url": "https://x.com/i/spaces/1dGYlaqaWWYKX",
         "images": [
@@ -4223,7 +4255,7 @@
         ],
         "start": 60,
         "status": 200,
-        "title": "Scheduled: The Bar \ud83c\udf83 Halloween \ud83d\udc7b Party / X",
+        "title": "Scheduled: The Bar 🎃 Halloween 👻 Party / X",
         "unwound_url": "https://x.com/i/spaces/1dGYlaqaWWYKX",
         "url": "https://t.co/uwgbieYorj"
        }
@@ -4238,7 +4270,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "I\u2019m going to @Drax2431\u2019s upcoming Space. Will you join too? https://t.co/uwgbieYorj",
+     "text": "I’m going to @Drax2431’s upcoming Space. Will you join too? https://t.co/uwgbieYorj",
      "url": "https://x.com/i/status/2114041126248214750"
     }
    ],
@@ -4409,7 +4441,7 @@
        "type": "retweeted"
       }
      ],
-     "text": "RT @Drax2431: Damn, I miss these two so much. Jacob and Mojo are in heaven now, and it still doesn\u2019t feel real. Some of the best memories I\u2026",
+     "text": "RT @Drax2431: Damn, I miss these two so much. Jacob and Mojo are in heaven now, and it still doesn’t feel real. Some of the best memories I…",
      "url": "https://x.com/i/status/2114011614102126902"
     }
    ],
@@ -4475,7 +4507,7 @@
        "type": "retweeted"
       }
      ],
-     "text": "RT @Drax2431: @TheRob1772 He\u2019ll ya bro looking forward to it \ud83d\udca5 https://t.co/7OnkSHnka8",
+     "text": "RT @Drax2431: @TheRob1772 He’ll ya bro looking forward to it 💥 https://t.co/7OnkSHnka8",
      "url": "https://x.com/i/status/2114006173561340310"
     }
    ],
@@ -4542,7 +4574,7 @@
        "type": "retweeted"
       }
      ],
-     "text": "RT @MAGA_warrio: BREAKING: First Baptist Church in Dallas, Texas is on fire and burning down right now. Reports say there was a loud explos\u2026",
+     "text": "RT @MAGA_warrio: BREAKING: First Baptist Church in Dallas, Texas is on fire and burning down right now. Reports say there was a loud explos…",
      "url": "https://x.com/i/status/2114000842722365666"
     },
     {
@@ -4723,7 +4755,7 @@
        "type": "replied_to"
       }
      ],
-     "text": "@stockmom @apinionsvary I\u2019m good sit here get coffee",
+     "text": "@stockmom @apinionsvary I’m good sit here get coffee",
      "url": "https://x.com/i/status/2113977699521753445"
     }
    ],
@@ -4884,7 +4916,7 @@
        "reply_count": 11,
        "retweet_count": 2
       },
-      "text": "Good morning from NY \ud83d\uddfd\ud83e\udd85\ud83c\uddfa\ud83c\uddf8 https://t.co/DhqStdQscq"
+      "text": "Good morning from NY 🗽🦅🇺🇸 https://t.co/DhqStdQscq"
      }
     ]
    },
@@ -5029,7 +5061,7 @@
        "type": "replied_to"
       }
      ],
-     "text": "@CharlieSue_USA Can\u2019t",
+     "text": "@CharlieSue_USA Can’t",
      "url": "https://x.com/i/status/2113837295099080968"
     },
     {
@@ -5122,7 +5154,7 @@
        "reply_count": 1,
        "retweet_count": 1
       },
-      "text": "Happy birthday with many many many many many more to come. Celebrate. @Drax2431 I hope it\u2019s one of the best birthdays you\u2019ve ever had. https://t.co/IAGbTMCdof"
+      "text": "Happy birthday with many many many many many more to come. Celebrate. @Drax2431 I hope it’s one of the best birthdays you’ve ever had. https://t.co/IAGbTMCdof"
      },
      {
       "created_at": "2026-10-24T04:39:05.000Z",
@@ -5166,7 +5198,7 @@
        "reply_count": 0,
        "retweet_count": 1
       },
-      "text": "\u203c\ufe0f How To Turn OFF \u203c\ufe0f Group Notifications: \u27a1\ufe0f Click on the image icon of the group \u27a1\ufe0f Select \u201cMute\u201d https://t.co/BIOyWTIfhQ"
+      "text": "‼️ How To Turn OFF ‼️ Group Notifications: ➡️ Click on the image icon of the group ➡️ Select “Mute” https://t.co/BIOyWTIfhQ"
      },
      {
       "attachments": {
@@ -5187,7 +5219,7 @@
        "reply_count": 24,
        "retweet_count": 10
       },
-      "text": "Home office update: my assistant is asleep on the job.\n\nNext to my @bot, Tank is the best employee I've got. Never asks for a raise. \ud83d\ude39 https://t.co/yrmWfvFUvd"
+      "text": "Home office update: my assistant is asleep on the job.\n\nNext to my @bot, Tank is the best employee I've got. Never asks for a raise. 😹 https://t.co/yrmWfvFUvd"
      },
      {
       "created_at": "2026-10-24T00:53:18.000Z",
@@ -5219,7 +5251,7 @@
        "reply_count": 1,
        "retweet_count": 2
       },
-      "text": "ZXN \u00b7 Your Election Day Headquarters \u00b7 2026 Midterms\nhttps://t.co/1pkcOEE36T"
+      "text": "ZXN · Your Election Day Headquarters · 2026 Midterms\nhttps://t.co/1pkcOEE36T"
      }
     ]
    },
@@ -5240,12 +5272,12 @@
       "urls": [
        {
         "description": "Dem win GOP win Other win Dem-held, awaiting GOP-held, awaiting No race Click any state on the map, or choose one: Election Day is Tuesday, November 3, 2026. The map colors in live as races are",
-        "display_url": "zhp511.github.io/zxnnews/electi\u2026",
+        "display_url": "zhp511.github.io/zxnnews/electi…",
         "end": 76,
         "expanded_url": "https://zhp511.github.io/zxnnews/election/",
         "start": 53,
         "status": 200,
-        "title": "ZXN \u00b7 Your Election Day Headquarters \u00b7 2026 Midterms",
+        "title": "ZXN · Your Election Day Headquarters · 2026 Midterms",
         "unwound_url": "https://zhp511.github.io/zxnnews/election/",
         "url": "https://t.co/1pkcOEE36T"
        }
@@ -5260,7 +5292,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "ZXN \u00b7 Your Election Day Headquarters \u00b7 2026 Midterms\nhttps://t.co/1pkcOEE36T",
+     "text": "ZXN · Your Election Day Headquarters · 2026 Midterms\nhttps://t.co/1pkcOEE36T",
      "url": "https://x.com/i/status/2113819876796350683"
     }
    ],
@@ -5288,8 +5320,8 @@
       ],
       "urls": [
        {
-        "description": "\u15eaRAX's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1pKkO\u2026",
+        "description": "ᗪRAX's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1pKkO…",
         "end": 37,
         "expanded_url": "https://x.com/i/spaces/1pKkOXlXqNrKj",
         "images": [
@@ -5442,7 +5474,7 @@
       ],
       "urls": [
        {
-        "display_url": "x.com/zxnbluehandus/\u2026",
+        "display_url": "x.com/zxnbluehandus/…",
         "end": 33,
         "expanded_url": "https://x.com/zxnbluehandus/status/2112776804801069470?s=46",
         "start": 10,
@@ -5531,7 +5563,7 @@
       "urls": [
        {
         "description": "#ZXN #xlive #wearethepeople #bluehand #PON #tellmeyourstory #smackdown #WWERAW",
-        "display_url": "x.com/i/broadcasts/1\u2026",
+        "display_url": "x.com/i/broadcasts/1…",
         "end": 124,
         "expanded_url": "https://x.com/i/broadcasts/1mxPaZokBmEKN",
         "images": [
@@ -5548,7 +5580,7 @@
         ],
         "start": 101,
         "status": 200,
-        "title": "ZXN \u201c we are bluehand \u201d AND patriot one network",
+        "title": "ZXN “ we are bluehand ” AND patriot one network",
         "unwound_url": "https://x.com/i/broadcasts/1mxPaZokBmEKN",
         "url": "https://t.co/rPJF2oM2kq"
        }
@@ -5622,7 +5654,7 @@
       "urls": [
        {
         "description": "EP261023: \"Canada's War on Its Own Identity\" w/ guest Natasha Graham",
-        "display_url": "x.com/i/broadcasts/1\u2026",
+        "display_url": "x.com/i/broadcasts/1…",
         "end": 112,
         "expanded_url": "https://x.com/i/broadcasts/1nJOLQDavPvxR",
         "images": [
@@ -5731,7 +5763,7 @@
      "entities": {
       "urls": [
        {
-        "display_url": "x.com/zxnbluehandus/\u2026",
+        "display_url": "x.com/zxnbluehandus/…",
         "end": 45,
         "expanded_url": "https://twitter.com/zxnbluehandus/status/2113775317668290832",
         "start": 22,
@@ -5811,12 +5843,12 @@
       "urls": [
        {
         "description": "#ZXN #xlive #wearethepeople #bluehand #PON #tellmeyourstory #smackdown #WWERAW",
-        "display_url": "x.com/i/broadcasts/1\u2026",
+        "display_url": "x.com/i/broadcasts/1…",
         "end": 105,
         "expanded_url": "https://x.com/i/broadcasts/1mxPaZokBmEKN",
         "start": 82,
         "status": 200,
-        "title": "ZXN \u201c we are bluehand \u201d AND patriot one network",
+        "title": "ZXN “ we are bluehand ” AND patriot one network",
         "unwound_url": "https://x.com/i/broadcasts/1mxPaZokBmEKN",
         "url": "https://t.co/rPJF2oM2kq"
        }
@@ -5876,8 +5908,8 @@
      "entities": {
       "urls": [
        {
-        "description": "Reasonable or unreasonable? Our panel is completely split on this use-of-force case. \u2696\ufe0f\ud83d\udd25 One juror calls it justified self-defense under ext",
-        "display_url": "patreon.com/Joe_Lnu/posts/\u2026",
+        "description": "Reasonable or unreasonable? Our panel is completely split on this use-of-force case. ⚖️🔥 One juror calls it justified self-defense under ext",
+        "display_url": "patreon.com/Joe_Lnu/posts/…",
         "end": 23,
         "expanded_url": "https://www.patreon.com/Joe_Lnu/posts/173220815?utm_campaign=postshare_fan",
         "images": [
@@ -5894,7 +5926,7 @@
         ],
         "start": 0,
         "status": 200,
-        "title": "The Grand Jury w/Joe Lnu: Reasonable or unreasonable? Our panel is completely split on this use-of-force case. \u2696\ufe0f\ud83d\udd25 One juror calls it justified self-defense under ext",
+        "title": "The Grand Jury w/Joe Lnu: Reasonable or unreasonable? Our panel is completely split on this use-of-force case. ⚖️🔥 One juror calls it justified self-defense under ext",
         "unwound_url": "https://www.patreon.com/Joe_Lnu/posts/173220815?utm_campaign=postshare_fan",
         "url": "https://t.co/54FQU1iDoz"
        }
@@ -5928,8 +5960,8 @@
       ],
       "urls": [
        {
-        "description": "Jimbob's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1oKMv\u2026",
+        "description": "Jimbob's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1oKMv…",
         "end": 89,
         "expanded_url": "https://x.com/i/spaces/1oKMvNyVYMzGQ",
         "images": [
@@ -5961,7 +5993,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "I\u2019m going to @PoliceStateNWO\u2019s upcoming Space. Will you join too? https://t.co/3O6xj6nTZG",
+     "text": "I’m going to @PoliceStateNWO’s upcoming Space. Will you join too? https://t.co/3O6xj6nTZG",
      "url": "https://x.com/i/status/2113618531053080910"
     },
     {
@@ -6219,8 +6251,8 @@
       ],
       "urls": [
        {
-        "description": "marlin's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1oKMv\u2026",
+        "description": "marlin's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1oKMv…",
         "end": 89,
         "expanded_url": "https://x.com/i/spaces/1oKMvNyqAroGQ",
         "images": [
@@ -6252,7 +6284,7 @@
       "reply_count": 0,
       "retweet_count": 3
      },
-     "text": "I\u2019m going to @averageJohn911\u2019s upcoming Space. Will you join too? https://t.co/2g6bajb1bQ",
+     "text": "I’m going to @averageJohn911’s upcoming Space. Will you join too? https://t.co/2g6bajb1bQ",
      "url": "https://x.com/i/status/2113300889427485136"
     },
     {
@@ -6271,8 +6303,8 @@
       ],
       "urls": [
        {
-        "description": "Jay Gatling's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1AKEm\u2026",
+        "description": "Jay Gatling's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1AKEm…",
         "end": 87,
         "expanded_url": "https://x.com/i/spaces/1AKEmvpVeYvKL",
         "images": [
@@ -6289,7 +6321,7 @@
         ],
         "start": 64,
         "status": 200,
-        "title": "Scheduled: MAIN ST MEETS WALL ST: Latest News | Latest Economic & Market Data \ud83d\udcc8\ud83d\udcc9 / X",
+        "title": "Scheduled: MAIN ST MEETS WALL ST: Latest News | Latest Economic & Market Data 📈📉 / X",
         "unwound_url": "https://x.com/i/spaces/1AKEmvpVeYvKL",
         "url": "https://t.co/QfQjLYBw2U"
        }
@@ -6304,7 +6336,7 @@
       "reply_count": 1,
       "retweet_count": 0
      },
-     "text": "I\u2019m going to @apinionsvary\u2019s upcoming Space. Will you join too? https://t.co/QfQjLYBw2U",
+     "text": "I’m going to @apinionsvary’s upcoming Space. Will you join too? https://t.co/QfQjLYBw2U",
      "url": "https://x.com/i/status/2113287159486767336"
     },
     {
@@ -6332,7 +6364,7 @@
       ],
       "urls": [
        {
-        "display_url": "x.com/zxnbluehandus/\u2026",
+        "display_url": "x.com/zxnbluehandus/…",
         "end": 50,
         "expanded_url": "https://twitter.com/zxnbluehandus/status/2113197993813799311",
         "start": 27,
@@ -6365,7 +6397,7 @@
      ],
      "id": "2113197993813799311",
      "note_tweet": {
-      "text": "Yes, people I got a question. Why are people do not show their faces on X I like to know that question I know avatars are cool in everything just why people not showing their faces the true self authentic self I show my face every day 365 days a year I know the matrix is fascinating and like a aura a persona as a yes we all have our niches we all have our corks I say cordial show our face or any live stream or anything and God is watching always and he loves you. People are in heaven, see your face, cause all I ask that one question why people not show their face or unhide your face please it drives me completely insane I like to know people by their faces. That\u2019s who I am and that\u2019s what God wants. Please and thank you. I do care about a lot of stuff"
+      "text": "Yes, people I got a question. Why are people do not show their faces on X I like to know that question I know avatars are cool in everything just why people not showing their faces the true self authentic self I show my face every day 365 days a year I know the matrix is fascinating and like a aura a persona as a yes we all have our niches we all have our corks I say cordial show our face or any live stream or anything and God is watching always and he loves you. People are in heaven, see your face, cause all I ask that one question why people not show their face or unhide your face please it drives me completely insane I like to know people by their faces. That’s who I am and that’s what God wants. Please and thank you. I do care about a lot of stuff"
      },
      "public_metrics": {
       "bookmark_count": 0,
@@ -6386,8 +6418,8 @@
      "entities": {
       "urls": [
        {
-        "description": "Song \u00b7 2026 \u00b7 Duration 2:54",
-        "display_url": "music.apple.com/us/album/holy-\u2026",
+        "description": "Song · 2026 · Duration 2:54",
+        "display_url": "music.apple.com/us/album/holy-…",
         "end": 23,
         "expanded_url": "https://music.apple.com/us/album/holy-metal/6813684954?i=6813684956",
         "images": [
@@ -6404,7 +6436,7 @@
         ],
         "start": 0,
         "status": 200,
-        "title": "HOLY METAL by Spiritual Workz on Apple\u00a0Music",
+        "title": "HOLY METAL by Spiritual Workz on Apple Music",
         "unwound_url": "https://music.apple.com/us/album/holy-metal/6813684954?i=6813684956",
         "url": "https://t.co/8kzGxrRKcL"
        }
@@ -6454,7 +6486,7 @@
         ],
         "start": 39,
         "status": 200,
-        "title": "TikTok \u00b7 Heather \ud83d\udda4\ud83d\udda4\ud83d\udda4",
+        "title": "TikTok · Heather 🖤🖤🖤",
         "unwound_url": "https://www.tiktok.com/@heathersmith.1979/video/7697496158641458463?_r=1&_t=ZT-9Al7PVpSXYU",
         "url": "https://t.co/R8GGWhyGTu"
        }
@@ -6469,7 +6501,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "Check out Heather \ud83d\udda4\ud83d\udda4\ud83d\udda4's video! #TikTok https://t.co/R8GGWhyGTu",
+     "text": "Check out Heather 🖤🖤🖤's video! #TikTok https://t.co/R8GGWhyGTu",
      "url": "https://x.com/i/status/2113134938585243668"
     },
     {
@@ -6495,7 +6527,7 @@
       "urls": [
        {
         "description": "Six Gun Siren",
-        "display_url": "music.youtube.com/watch?v=6M348n\u2026",
+        "display_url": "music.youtube.com/watch?v=6M348n…",
         "end": 42,
         "expanded_url": "https://music.youtube.com/watch?v=6M348ngROVU&si=c64BM_R4VG9etNYQ&drli=1",
         "images": [
@@ -6546,8 +6578,8 @@
       ],
       "urls": [
        {
-        "description": "Monica Matthews On Air's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1yGBe\u2026",
+        "description": "Monica Matthews On Air's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1yGBe…",
         "end": 90,
         "expanded_url": "https://x.com/i/spaces/1yGBePgYbmWKN",
         "images": [
@@ -6564,7 +6596,7 @@
         ],
         "start": 67,
         "status": 200,
-        "title": "Scheduled: \u201cUnelected\u201d-It\u2019s all public- now what? @datarepublican @cynicalpublius / X",
+        "title": "Scheduled: “Unelected”-It’s all public- now what? @datarepublican @cynicalpublius / X",
         "unwound_url": "https://x.com/i/spaces/1yGBePgYbmWKN",
         "url": "https://t.co/2iy7AMFS8p"
        }
@@ -6579,7 +6611,7 @@
       "reply_count": 0,
       "retweet_count": 1
      },
-     "text": "I\u2019m going to @monicaonairtalk\u2019s upcoming Space. Will you join too? https://t.co/2iy7AMFS8p",
+     "text": "I’m going to @monicaonairtalk’s upcoming Space. Will you join too? https://t.co/2iy7AMFS8p",
      "url": "https://x.com/i/status/2113004501573779606"
     },
     {
@@ -6598,8 +6630,8 @@
       ],
       "urls": [
        {
-        "description": "\ud83c\uddfa\ud83c\uddf8Chelle\ud83c\uddfa\ud83c\uddf8's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1dGYl\u2026",
+        "description": "🇺🇸Chelle🇺🇸's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1dGYl…",
         "end": 90,
         "expanded_url": "https://x.com/i/spaces/1dGYlaELkzZKX",
         "images": [
@@ -6616,7 +6648,7 @@
         ],
         "start": 67,
         "status": 200,
-        "title": "Scheduled: Secure Elections Equals Winning and Defending America\u2019s Constitution / X",
+        "title": "Scheduled: Secure Elections Equals Winning and Defending America’s Constitution / X",
         "unwound_url": "https://x.com/i/spaces/1dGYlaELkzZKX",
         "url": "https://t.co/fTS6asxYkR"
        }
@@ -6631,7 +6663,7 @@
       "reply_count": 0,
       "retweet_count": 2
      },
-     "text": "I\u2019m going to @CHELLESHOCKEDTM\u2019s upcoming Space. Will you join too? https://t.co/fTS6asxYkR",
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/fTS6asxYkR",
      "url": "https://x.com/i/status/2112925553552662802"
     },
     {
@@ -6748,7 +6780,7 @@
         }
        ]
       },
-      "text": "Today it\u2019s whistleblower Wednesday on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1 @ali_hopper @averageJohn911 @truthfighter33  get your whistle out and whistle blow the government so 2:30 Eastern time p.m. preshow 3 o\u2019clock showtime p.m.  is your hand no long lead ups? Ask a question. And you\u2019ll be just fine. So that\u2019s done. And that\u2019s the bottom line. Cause ZXN. Said so."
+      "text": "Today it’s whistleblower Wednesday on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1 @ali_hopper @averageJohn911 @truthfighter33  get your whistle out and whistle blow the government so 2:30 Eastern time p.m. preshow 3 o’clock showtime p.m.  is your hand no long lead ups? Ask a question. And you’ll be just fine. So that’s done. And that’s the bottom line. Cause ZXN. Said so."
      },
      "public_metrics": {
       "bookmark_count": 0,
@@ -6758,7 +6790,7 @@
       "reply_count": 0,
       "retweet_count": 5
      },
-     "text": "Today it\u2019s whistleblower Wednesday on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1 @ali_hopper @averageJohn911 @truthfighter33  get your whistle out and whistle blow the government so 2:30 Eastern time p.m. preshow 3 o\u2019clock showtime p.m.  is your hand no long lead https://t.co/zwLEJZwExF",
+     "text": "Today it’s whistleblower Wednesday on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1 @ali_hopper @averageJohn911 @truthfighter33  get your whistle out and whistle blow the government so 2:30 Eastern time p.m. preshow 3 o’clock showtime p.m.  is your hand no long lead https://t.co/zwLEJZwExF",
      "url": "https://x.com/i/status/2112773953034809467"
     },
     {
@@ -6777,8 +6809,8 @@
       ],
       "urls": [
        {
-        "description": "\u15eaRAX's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1pKkO\u2026",
+        "description": "ᗪRAX's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1pKkO…",
         "end": 83,
         "expanded_url": "https://x.com/i/spaces/1pKkOXlXqNrKj",
         "images": [
@@ -6810,7 +6842,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "I\u2019m going to @Drax2431\u2019s upcoming Space. Will you join too? https://t.co/zyaM9E3XUr",
+     "text": "I’m going to @Drax2431’s upcoming Space. Will you join too? https://t.co/zyaM9E3XUr",
      "url": "https://x.com/i/status/2112728917899375003"
     },
     {
@@ -6884,7 +6916,7 @@
       "urls": [
        {
         "description": "#ZXN #xlive #wearethepeople #bluehand #PON #tellmeyourstory from game capcom",
-        "display_url": "x.com/i/broadcasts/1\u2026",
+        "display_url": "x.com/i/broadcasts/1…",
         "end": 103,
         "expanded_url": "https://x.com/i/broadcasts/1qKVmyYmBMwxB",
         "images": [
@@ -6901,7 +6933,7 @@
         ],
         "start": 80,
         "status": 200,
-        "title": "ZXN \u201c we are bluehand \u201d AND patriot one network",
+        "title": "ZXN “ we are bluehand ” AND patriot one network",
         "unwound_url": "https://x.com/i/broadcasts/1qKVmyYmBMwxB",
         "url": "https://t.co/RJ2g3mqHGG"
        }
@@ -6935,8 +6967,8 @@
       ],
       "urls": [
        {
-        "description": "Insurrection Barbie's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1qGoN\u2026",
+        "description": "Insurrection Barbie's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1qGoN…",
         "end": 89,
         "expanded_url": "https://x.com/i/spaces/1qGoNYDyVVgKv",
         "images": [
@@ -6968,7 +7000,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "I\u2019m going to @DefiyantlyFree\u2019s upcoming Space. Will you join too? https://t.co/XcFNPLjsyI",
+     "text": "I’m going to @DefiyantlyFree’s upcoming Space. Will you join too? https://t.co/XcFNPLjsyI",
      "url": "https://x.com/i/status/2112682255164518511"
     },
     {
@@ -6988,7 +7020,7 @@
       "urls": [
        {
         "description": "Rediscover analog daily habits, rotary phone etiquette, and life be...",
-        "display_url": "youtu.be/kZlL9qEA3oo?is\u2026",
+        "display_url": "youtu.be/kZlL9qEA3oo?is…",
         "end": 85,
         "expanded_url": "https://youtu.be/kZlL9qEA3oo?is=PlYofv3oy-NToGJL",
         "images": [
@@ -7109,8 +7141,8 @@
       ],
       "urls": [
        {
-        "description": "Jay Gatling's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1kJzD\u2026",
+        "description": "Jay Gatling's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1kJzD…",
         "end": 87,
         "expanded_url": "https://x.com/i/spaces/1kJzDPjRdAgKv",
         "images": [
@@ -7127,7 +7159,7 @@
         ],
         "start": 64,
         "status": 200,
-        "title": "Scheduled: MAIN ST MEETS WALL ST: Latest News | Latest Market & Economic Data \ud83d\udcc8\ud83d\udcc9 / X",
+        "title": "Scheduled: MAIN ST MEETS WALL ST: Latest News | Latest Market & Economic Data 📈📉 / X",
         "unwound_url": "https://x.com/i/spaces/1kJzDPjRdAgKv",
         "url": "https://t.co/FPrPnloqVL"
        }
@@ -7142,7 +7174,7 @@
       "reply_count": 0,
       "retweet_count": 1
      },
-     "text": "I\u2019m going to @apinionsvary\u2019s upcoming Space. Will you join too? https://t.co/FPrPnloqVL",
+     "text": "I’m going to @apinionsvary’s upcoming Space. Will you join too? https://t.co/FPrPnloqVL",
      "url": "https://x.com/i/status/2112539606423908368"
     },
     {
@@ -7161,8 +7193,8 @@
       ],
       "urls": [
        {
-        "description": "Brandi\u2728's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1dGYl\u2026",
+        "description": "Brandi✨'s Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1dGYl…",
         "end": 89,
         "expanded_url": "https://x.com/i/spaces/1dGYlayEqoZKX",
         "images": [
@@ -7194,7 +7226,7 @@
       "reply_count": 0,
       "retweet_count": 2
      },
-     "text": "I\u2019m going to @truthfighter33\u2019s upcoming Space. Will you join too? https://t.co/MfYiUeTBXE",
+     "text": "I’m going to @truthfighter33’s upcoming Space. Will you join too? https://t.co/MfYiUeTBXE",
      "url": "https://x.com/i/status/2112227892092395873"
     },
     {
@@ -7266,7 +7298,7 @@
       "reply_count": 0,
       "retweet_count": 10
      },
-     "text": "Today 2:30 Eastern time it\u2019s war Monday on the Warzone begins at 3 PM come on in join that conversation raise your hand you\u2019ll be fine on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1 @averageJohn911 @ali_hopper  come on come join us it\u2019s gonna be a good show https://t.co/SLtMgs3ieE",
+     "text": "Today 2:30 Eastern time it’s war Monday on the Warzone begins at 3 PM come on in join that conversation raise your hand you’ll be fine on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1 @averageJohn911 @ali_hopper  come on come join us it’s gonna be a good show https://t.co/SLtMgs3ieE",
      "url": "https://x.com/i/status/2112136475047555568"
     },
     {
@@ -7286,7 +7318,7 @@
       "urls": [
        {
         "description": "Recommended by @PoetryEmotion94 Thanks, man!Squared Circle Cover...",
-        "display_url": "youtu.be/qwokafvv5N8?si\u2026",
+        "display_url": "youtu.be/qwokafvv5N8?si…",
         "end": 74,
         "expanded_url": "https://youtu.be/qwokafvv5N8?si=F8KzXdlNHXaBJBUw",
         "images": [
@@ -7383,8 +7415,8 @@
       ],
       "urls": [
        {
-        "description": "Provided to YouTube by DistroKidCLOCK IN \u00b7 10mm \u00b7 10MM \u00b7 10MMCL...",
-        "display_url": "youtu.be/X-ZApbFXJ7s?si\u2026",
+        "description": "Provided to YouTube by DistroKidCLOCK IN · 10mm · 10MM · 10MMCL...",
+        "display_url": "youtu.be/X-ZApbFXJ7s?si…",
         "end": 32,
         "expanded_url": "https://youtu.be/X-ZApbFXJ7s?si=Z6jTaiPZLTzmntgq",
         "images": [
@@ -7444,7 +7476,7 @@
       "urls": [
        {
         "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "display_url": "youtu.be/fmA-hsDGaXY?si\u2026",
+        "display_url": "youtu.be/fmA-hsDGaXY?si…",
         "end": 83,
         "expanded_url": "https://youtu.be/fmA-hsDGaXY?si=KxqKadvGcw14QGkq",
         "images": [
@@ -7461,7 +7493,7 @@
         ],
         "start": 60,
         "status": 200,
-        "title": "Playboy The Beast \u201cYou Can't Hide\" Loza Diss (MAGA Warfare)",
+        "title": "Playboy The Beast “You Can't Hide\" Loza Diss (MAGA Warfare)",
         "unwound_url": "https://www.youtube.com/watch?si=KxqKadvGcw14QGkq&v=fmA-hsDGaXY&feature=youtu.be",
         "url": "https://t.co/DiubsG5SAU"
        }
@@ -7476,7 +7508,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "Playboy The Beast \u201cYou Can't Hide\" Loza Diss (MAGA Warfare) https://t.co/DiubsG5SAU via @YouTube",
+     "text": "Playboy The Beast “You Can't Hide\" Loza Diss (MAGA Warfare) https://t.co/DiubsG5SAU via @YouTube",
      "url": "https://x.com/i/status/2111986438028013977"
     }
    ],
@@ -7601,7 +7633,7 @@
       "reply_count": 0,
       "retweet_count": 24
      },
-     "text": "RT @JWHardToCancel: From the bottom of my heart, I want to thank each and every one of you who has donated to or shared the GoFundMe for my\u2026",
+     "text": "RT @JWHardToCancel: From the bottom of my heart, I want to thank each and every one of you who has donated to or shared the GoFundMe for my…",
      "url": "https://x.com/zxnbluehandus/status/2111854079504949361"
     }
    ],
@@ -7611,8 +7643,8 @@
       "created_at": "2026-01-14T16:31:28.000Z",
       "description": "we are Bluehand ZXN #pon im MAGA im Face of this one man my cosing late Dwight D. Eisenhower\n34th U.S. President my Name is Zachary H Parsley",
       "id": "2011476148178599939",
-      "location": "God\u2019s country, US TN",
-      "name": "ZXN \u201c we are bluehand \u201d AND patriot one network",
+      "location": "God’s country, US TN",
+      "name": "ZXN “ we are bluehand ” AND patriot one network",
       "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011476148178599939/1787723275",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103957352059691008/9ULEZI9q_normal.jpg",
       "public_metrics": {
@@ -7706,7 +7738,7 @@
       "urls": [
        {
         "description": "Join us every Sunday at 8:00am, 9:45am, and 11:30am on 14800 Highla...",
-        "display_url": "youtube.com/live/QCaWxCWip\u2026",
+        "display_url": "youtube.com/live/QCaWxCWip…",
         "end": 55,
         "expanded_url": "https://www.youtube.com/live/QCaWxCWipFk?is=2rXdxEQM-9YzjPr2",
         "images": [
@@ -8004,7 +8036,7 @@
       "urls": [
        {
         "description": "Why Saved by the Bell Dropped Miss Bliss: How Hayley Mills Lost Her...",
-        "display_url": "youtu.be/H3SsjpjAdVI?is\u2026",
+        "display_url": "youtu.be/H3SsjpjAdVI?is…",
         "end": 99,
         "expanded_url": "https://youtu.be/H3SsjpjAdVI?is=4SH-SrjsEyH8EAfJ",
         "images": [
@@ -8165,7 +8197,7 @@
       "reply_count": 0,
       "retweet_count": 3
      },
-     "text": "I\u2019m going to @joe_Lnu\u2019s upcoming Space. Will you join too? https://t.co/fKTMYNErqH",
+     "text": "I’m going to @joe_Lnu’s upcoming Space. Will you join too? https://t.co/fKTMYNErqH",
      "url": "https://x.com/i/status/2111164620392043005"
     },
     {
@@ -8244,7 +8276,7 @@
       "reply_count": 0,
       "retweet_count": 2
      },
-     "text": "SpaceX Starlink 100 MPH Kill Switch (It\u2019s Not Elon) https://t.co/zqtTQ8Lvuh via @YouTube",
+     "text": "SpaceX Starlink 100 MPH Kill Switch (It’s Not Elon) https://t.co/zqtTQ8Lvuh via @YouTube",
      "url": "https://x.com/i/status/2110812293701542163"
     },
     {
@@ -8283,7 +8315,7 @@
       "reply_count": 0,
       "retweet_count": 6
      },
-     "text": "I\u2019m going to @CHELLESHOCKEDTM\u2019s upcoming Space. Will you join too? https://t.co/b1dvAhb7vp",
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/b1dvAhb7vp",
      "url": "https://x.com/i/status/2110748295660499013"
     },
     {
@@ -8300,7 +8332,7 @@
       "reply_count": 0,
       "retweet_count": 1
      },
-     "text": "I\u2019m going to @apinionsvary\u2019s upcoming Space. Will you join too? https://t.co/GisxasMdl3",
+     "text": "I’m going to @apinionsvary’s upcoming Space. Will you join too? https://t.co/GisxasMdl3",
      "url": "https://x.com/i/status/2110741031763243513"
     },
     {
@@ -8322,7 +8354,7 @@
       "reply_count": 0,
       "retweet_count": 6
      },
-     "text": "Day is truth, Thursday when we tell the truth on truth, Thursday on @RobManess @CHELLESHOCKEDTM @KatTheHammer1 @averageJohn911 @ali_hopper all the gang is ready to go for Truth Thursday 230 Eastern time p.m. 3 o\u2019clock showtime. Be there be square. And no lead ups. And raise your https://t.co/N5xXefOwFI",
+     "text": "Day is truth, Thursday when we tell the truth on truth, Thursday on @RobManess @CHELLESHOCKEDTM @KatTheHammer1 @averageJohn911 @ali_hopper all the gang is ready to go for Truth Thursday 230 Eastern time p.m. 3 o’clock showtime. Be there be square. And no lead ups. And raise your https://t.co/N5xXefOwFI",
      "url": "https://x.com/i/status/2110600950889025580"
     },
     {
@@ -8339,7 +8371,7 @@
       "reply_count": 0,
       "retweet_count": 2
      },
-     "text": "Starlink\u2019s 1000 Mbps Upgrade Has A $2,000 Problem https://t.co/D0wtVsQ0HP via @YouTube",
+     "text": "Starlink’s 1000 Mbps Upgrade Has A $2,000 Problem https://t.co/D0wtVsQ0HP via @YouTube",
      "url": "https://x.com/i/status/2110550839127310599"
     },
     {
@@ -8463,7 +8495,7 @@
       "reply_count": 0,
       "retweet_count": 2
      },
-     "text": "I\u2019m going to @clifffulmer\u2019s upcoming Space. Will you join too? https://t.co/JFHewHq7Qt",
+     "text": "I’m going to @clifffulmer’s upcoming Space. Will you join too? https://t.co/JFHewHq7Qt",
      "url": "https://x.com/i/status/2110470484663869531"
     },
     {
@@ -8480,7 +8512,7 @@
       "reply_count": 0,
       "retweet_count": 3
      },
-     "text": "I\u2019m going to @clifffulmer\u2019s upcoming Space. Will you join too? https://t.co/JFHewHq7Qt",
+     "text": "I’m going to @clifffulmer’s upcoming Space. Will you join too? https://t.co/JFHewHq7Qt",
      "url": "https://x.com/i/status/2110468336425279801"
     },
     {
@@ -8497,7 +8529,7 @@
       "reply_count": 0,
       "retweet_count": 6
      },
-     "text": "I\u2019m going to @CHELLESHOCKEDTM\u2019s upcoming Space. Will you join too? https://t.co/MShSH3UkK8",
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/MShSH3UkK8",
      "url": "https://x.com/i/status/2110397587295515015"
     },
     {
@@ -8514,7 +8546,7 @@
       "reply_count": 0,
       "retweet_count": 2
      },
-     "text": "White Castle Recipe \ud83c\udf54 @jennieryan82 https://t.co/d9EBqxOCEp via @YouTube",
+     "text": "White Castle Recipe 🍔 @jennieryan82 https://t.co/d9EBqxOCEp via @YouTube",
      "url": "https://x.com/i/status/2110259468021973308"
     },
     {
@@ -8548,7 +8580,7 @@
       "reply_count": 1,
       "retweet_count": 1
      },
-     "text": "I\u2019m going to @apinionsvary\u2019s upcoming Space. Will you join too? https://t.co/aUmkSYhuLN",
+     "text": "I’m going to @apinionsvary’s upcoming Space. Will you join too? https://t.co/aUmkSYhuLN",
      "url": "https://x.com/i/status/2110079566773731437"
     }
    ],
@@ -8621,7 +8653,7 @@
       "reply_count": 0,
       "retweet_count": 6
      },
-     "text": "My X app is coming out Saturday with improvements you\u2019ll be able to record the space by MP3",
+     "text": "My X app is coming out Saturday with improvements you’ll be able to record the space by MP3",
      "url": "https://x.com/i/status/2110041889282105759"
     }
    ],
@@ -8648,7 +8680,7 @@
         "expanded_url": "https://zhp511.github.io/zxnnews/",
         "start": 0,
         "status": 200,
-        "title": "ZXN \u00b7 \u201cwe are bluehand\u201d \u00b7 Patriot One Network",
+        "title": "ZXN · “we are bluehand” · Patriot One Network",
         "unwound_url": "https://zhp511.github.io/zxnnews/",
         "url": "https://t.co/lXwwf7jPcu"
        }
@@ -8682,8 +8714,8 @@
       ],
       "urls": [
        {
-        "description": "\ud83c\uddfa\ud83c\uddf8Chelle\ud83c\uddfa\ud83c\uddf8's Space \u00b7 Where live audio conversations happen",
-        "display_url": "x.com/i/spaces/1kJzD\u2026",
+        "description": "🇺🇸Chelle🇺🇸's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1kJzD…",
         "end": 90,
         "expanded_url": "https://x.com/i/spaces/1kJzDPbpWMgKv",
         "images": [
@@ -8715,7 +8747,7 @@
       "reply_count": 0,
       "retweet_count": 2
      },
-     "text": "I\u2019m going to @CHELLESHOCKEDTM\u2019s upcoming Space. Will you join too? https://t.co/eEQyj1Jo2l",
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/eEQyj1Jo2l",
      "url": "https://x.com/i/status/2109655985728184492"
     },
     {
@@ -8913,7 +8945,7 @@
        "type": "replied_to"
       }
      ],
-     "text": "@apinionsvary Yes I would love to feature everybody\u2019s website  on my page on my website"
+     "text": "@apinionsvary Yes I would love to feature everybody’s website  on my page on my website"
     }
    ],
    "meta": {
@@ -8965,7 +8997,7 @@
      "edit_history_tweet_ids": [
       "2108941906843455822"
      ],
-     "text": "@RightSideR3bel I\u2019m going sit here got my coffee \u2615\ufe0f",
+     "text": "@RightSideR3bel I’m going sit here got my coffee ☕️",
      "public_metrics": {
       "bookmark_count": 0,
       "impression_count": 12,
@@ -9077,7 +9109,7 @@
        {
         "url": "https://t.co/81AEODsGrX",
         "expanded_url": "https://twitter.com/zxnbluehandus/status/2108924092737106092",
-        "display_url": "x.com/zxnbluehandus/\u2026"
+        "display_url": "x.com/zxnbluehandus/…"
        }
       ]
      }
@@ -9088,7 +9120,7 @@
      "edit_history_tweet_ids": [
       "2108924092737106092"
      ],
-     "text": "@ElizabetheBarr  everyone please pray for Texas Elizabeth she may have cancer not sure quite yet that\u2019s why she ain\u2019t been online here several days keep her in our prayers today love you guys",
+     "text": "@ElizabetheBarr  everyone please pray for Texas Elizabeth she may have cancer not sure quite yet that’s why she ain’t been online here several days keep her in our prayers today love you guys",
      "public_metrics": {
       "bookmark_count": 0,
       "impression_count": 878,
@@ -9219,7 +9251,7 @@
      "edit_history_tweet_ids": [
       "2108918723746861388"
      ],
-     "text": "@BluehandRising @AutumnM95969 That is, sir \ud83e\udee1",
+     "text": "@BluehandRising @AutumnM95969 That is, sir 🫡",
      "public_metrics": {
       "bookmark_count": 0,
       "impression_count": 25,
@@ -9369,7 +9401,7 @@
        "type": "retweeted"
       }
      ],
-     "text": "RT @zxnbluehandus: @ElizabetheBarr  everyone please pray for Texas Elizabeth she may have cancer not sure quite yet that\u2019s why she ain\u2019t be\u2026",
+     "text": "RT @zxnbluehandus: @ElizabetheBarr  everyone please pray for Texas Elizabeth she may have cancer not sure quite yet that’s why she ain’t be…",
      "url": "https://x.com/i/status/2109340300137373845"
     }
    ],
@@ -9458,7 +9490,7 @@
      "entities": {
       "urls": [
        {
-        "display_url": "youtube.com/live/RaTsBmM9Q\u2026",
+        "display_url": "youtube.com/live/RaTsBmM9Q…",
         "expanded_url": "https://www.youtube.com/live/RaTsBmM9QCU?si=m7xXXV_SGyLZwNn4",
         "images": [
          {
@@ -9694,7 +9726,7 @@
       ],
       "urls": [
        {
-        "display_url": "x.com/i/broadcasts/1\u2026",
+        "display_url": "x.com/i/broadcasts/1…",
         "end": 116,
         "expanded_url": "https://x.com/i/broadcasts/1XGygwRyAqZxM",
         "start": 93,
@@ -9879,8 +9911,8 @@
        {
         "url": "https://t.co/9Rgf37JMaA",
         "expanded_url": "https://x.com/i/broadcasts/1pKkOXzazoyKj",
-        "display_url": "x.com/i/broadcasts/1\u2026",
-        "title": "ZXN \u201c we are bluehand \u201d AND patriot one network"
+        "display_url": "x.com/i/broadcasts/1…",
+        "title": "ZXN “ we are bluehand ” AND patriot one network"
        }
       ]
      },
@@ -9942,14 +9974,14 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "\ud83d\udd34 LIVE - CAT 3 HURRICANE ISAIAS LANDFALL - STORM CHASERS &amp; SURGE CAMS DE... https://t.co/k1wknCFEM7 via @YouTube",
+     "text": "🔴 LIVE - CAT 3 HURRICANE ISAIAS LANDFALL - STORM CHASERS &amp; SURGE CAMS DE... https://t.co/k1wknCFEM7 via @YouTube",
      "entities": {
       "urls": [
        {
         "url": "https://t.co/k1wknCFEM7",
         "expanded_url": "https://www.youtube.com/live/naxJDOglaNs?si=9CbTBKM0oUkxe3Vr",
-        "display_url": "youtube.com/live/naxJDOgla\u2026",
-        "title": "\ud83d\udd34 LIVE - CAT 3 HURRICANE ISAIAS LANDFALL - STORM CHASERS & SURGE CAMS DEPLOYED",
+        "display_url": "youtube.com/live/naxJDOgla…",
+        "title": "🔴 LIVE - CAT 3 HURRICANE ISAIAS LANDFALL - STORM CHASERS & SURGE CAMS DEPLOYED",
         "images": [
          {
           "url": "https://pbs.twimg.com/news_img/2108635150829363200/Urv4k4u9?format=jpg&name=orig"
@@ -9989,7 +10021,7 @@
         "url": "https://t.co/5lYMXLr7gJ",
         "expanded_url": "https://zhp511.github.io/zxn-news/",
         "display_url": "zhp511.github.io/zxn-news/",
-        "title": "ZXN \u00b7 \u201cwe are bluehand\u201d \u00b7 Patriot One Network"
+        "title": "ZXN · “we are bluehand” · Patriot One Network"
        }
       ]
      }
@@ -10005,7 +10037,7 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "ZXN \u00b7 \u201cwe are bluehand\u201d \u00b7 Patriot One Network"
+     "text": "ZXN · “we are bluehand” · Patriot One Network"
     }
    ],
    "includes": {
@@ -10036,7 +10068,7 @@
        {
         "url": "https://t.co/xyEodrD01w",
         "expanded_url": "https://youtu.be/bu1AG1hmQ1I?is=jbETwyj5M-dufdqQ",
-        "display_url": "youtu.be/bu1AG1hmQ1I?is\u2026",
+        "display_url": "youtu.be/bu1AG1hmQ1I?is…",
         "title": "Starlink Will Pay Your Cell Phone Bill",
         "images": [
          {
@@ -10058,13 +10090,13 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "I\u2019m going to @Drax2431\u2019s upcoming Space. Will you join too? https://t.co/HP8RBzNcTJ and that\u2019s  the bottom line cause ZXN said so",
+     "text": "I’m going to @Drax2431’s upcoming Space. Will you join too? https://t.co/HP8RBzNcTJ and that’s  the bottom line cause ZXN said so",
      "entities": {
       "urls": [
        {
         "url": "https://t.co/HP8RBzNcTJ",
         "expanded_url": "https://x.com/i/spaces/1dKrPrWLWBPJX",
-        "display_url": "x.com/i/spaces/1dKrP\u2026",
+        "display_url": "x.com/i/spaces/1dKrP…",
         "title": "Scheduled: Pub Chat: MIDTERMS 2026 update and discussion / X",
         "images": [
          {
@@ -10086,14 +10118,14 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "\ud83d\udd34 BREAKING Hurricane Isaias Coverage - DANGEROUS Impacts Expected - With... https://t.co/4bgUbpqkpm via @YouTube  @CHELLESHOCKEDTM",
+     "text": "🔴 BREAKING Hurricane Isaias Coverage - DANGEROUS Impacts Expected - With... https://t.co/4bgUbpqkpm via @YouTube  @CHELLESHOCKEDTM",
      "entities": {
       "urls": [
        {
         "url": "https://t.co/4bgUbpqkpm",
         "expanded_url": "https://www.youtube.com/live/h3b9u9kbNB0?si=4K-2jMQRYHbPLlLY",
-        "display_url": "youtube.com/live/h3b9u9kbN\u2026",
-        "title": "\ud83d\udd34 BREAKING Hurricane Isaias Coverage - DANGEROUS Impacts Expected - With Live Storm Chasers",
+        "display_url": "youtube.com/live/h3b9u9kbN…",
+        "title": "🔴 BREAKING Hurricane Isaias Coverage - DANGEROUS Impacts Expected - With Live Storm Chasers",
         "images": [
          {
           "url": "https://pbs.twimg.com/news_img/2108355199085559808/SDbIl3AS?format=jpg&name=orig"
@@ -10120,7 +10152,7 @@
        {
         "url": "https://t.co/xwJGxbtXBg",
         "expanded_url": "https://music.apple.com/us/album/red-pill/6815577435?i=6815577436",
-        "display_url": "music.apple.com/us/album/red-p\u2026",
+        "display_url": "music.apple.com/us/album/red-p…",
         "title": "Red Pill by Playboy The Beast on Apple Music",
         "images": [
          {
@@ -10176,7 +10208,7 @@
        {
         "url": "https://t.co/ocBJm9MIXq",
         "expanded_url": "https://x.com/i/spaces/1qxvveaOVnpxB",
-        "display_url": "x.com/i/spaces/1qxvv\u2026",
+        "display_url": "x.com/i/spaces/1qxvv…",
         "title": "Happening now: zxn music 24/7 / X",
         "images": [
          {
@@ -10204,7 +10236,7 @@
        {
         "url": "https://t.co/Oo5Kq85LVS",
         "expanded_url": "https://x.com/i/spaces/1oJMvNXploWxQ",
-        "display_url": "x.com/i/spaces/1oJMv\u2026",
+        "display_url": "x.com/i/spaces/1oJMv…",
         "title": "Happening now: zxn music is here / X",
         "images": [
          {
@@ -10232,7 +10264,7 @@
        {
         "url": "https://t.co/3qBg5EsIXT",
         "expanded_url": "https://x.com/i/spaces/1rxmqpEmlVZxy",
-        "display_url": "x.com/i/spaces/1rxmq\u2026",
+        "display_url": "x.com/i/spaces/1rxmq…",
         "title": "Happening now: zxn music space / X",
         "images": [
          {
@@ -10273,7 +10305,7 @@
        {
         "url": "https://t.co/mN5kVyZ2Qy",
         "expanded_url": "https://x.com/i/spaces/1MJgNbXolRkGL",
-        "display_url": "x.com/i/spaces/1MJgN\u2026",
+        "display_url": "x.com/i/spaces/1MJgN…",
         "title": "Happening now: test 8 youtube live / X"
        }
       ]
@@ -10296,7 +10328,7 @@
        {
         "url": "https://t.co/ZLarQeiGS6",
         "expanded_url": "https://x.com/i/spaces/1OxwbnkvnjqJB",
-        "display_url": "x.com/i/spaces/1Oxwb\u2026",
+        "display_url": "x.com/i/spaces/1Oxwb…",
         "title": "Happening now: test 8 / X"
        }
       ]
@@ -10319,7 +10351,7 @@
        {
         "url": "https://t.co/qc163cELAj",
         "expanded_url": "https://x.com/i/spaces/1OGwbnkDpZbKB",
-        "display_url": "x.com/i/spaces/1OGwb\u2026",
+        "display_url": "x.com/i/spaces/1OGwb…",
         "title": "Happening now: test 7 / X"
        }
       ]
@@ -10342,7 +10374,7 @@
        {
         "url": "https://t.co/3XCpBRsFU7",
         "expanded_url": "https://x.com/i/spaces/1DGleVrDAzzJL",
-        "display_url": "x.com/i/spaces/1DGle\u2026",
+        "display_url": "x.com/i/spaces/1DGle…",
         "title": "Happening now: test 6 / X"
        }
       ]
@@ -10365,7 +10397,7 @@
        {
         "url": "https://t.co/xS34vEZyih",
         "expanded_url": "https://x.com/i/spaces/1MKgNbXWXamxL",
-        "display_url": "x.com/i/spaces/1MKgN\u2026",
+        "display_url": "x.com/i/spaces/1MKgN…",
         "title": "Happening now: test 5 / X"
        }
       ]
@@ -10388,7 +10420,7 @@
        {
         "url": "https://t.co/eJhZVa2jL1",
         "expanded_url": "https://x.com/i/spaces/1PKqrNLPkjMGb",
-        "display_url": "x.com/i/spaces/1PKqr\u2026",
+        "display_url": "x.com/i/spaces/1PKqr…",
         "title": "Happening now: testing 4 / X"
        }
       ]
@@ -10411,7 +10443,7 @@
        {
         "url": "https://t.co/qSezYjUcBY",
         "expanded_url": "https://x.com/i/spaces/1rGmqpEObANGy",
-        "display_url": "x.com/i/spaces/1rGmq\u2026",
+        "display_url": "x.com/i/spaces/1rGmq…",
         "title": "Happening now: testing 3 / X"
        }
       ]
@@ -10434,7 +10466,7 @@
        {
         "url": "https://t.co/tYrHx2dh9R",
         "expanded_url": "https://x.com/i/spaces/1rGmqpEXVVqGy",
-        "display_url": "x.com/i/spaces/1rGmq\u2026",
+        "display_url": "x.com/i/spaces/1rGmq…",
         "title": "Happening now: testing / X"
        }
       ]
@@ -10457,7 +10489,7 @@
        {
         "url": "https://t.co/yckenrTZpl",
         "expanded_url": "https://x.com/i/spaces/1nxnRBdqWpjxO",
-        "display_url": "x.com/i/spaces/1nxnR\u2026",
+        "display_url": "x.com/i/spaces/1nxnR…",
         "title": "Happening now: test in / X"
        }
       ]
@@ -10501,7 +10533,7 @@
         {
          "url": "https://t.co/hrxPn90tO6",
          "expanded_url": "https://drive.google.com/file/d/1_khlf0T39DmgajYiXMv8t3oOhsqKjlQ3/view?usp=drivesdk",
-         "display_url": "drive.google.com/file/d/1_khlf0\u2026"
+         "display_url": "drive.google.com/file/d/1_khlf0…"
         },
         {
          "url": "https://t.co/6wKncYgV5w",
@@ -10516,7 +10548,7 @@
        {
         "url": "https://t.co/Rd6VOblpCZ",
         "expanded_url": "https://drive.google.com/file/d/1_khlf0T39DmgajYiXMv8t3oOhsqKjlQ3/view?usp=drivesdk",
-        "display_url": "drive.google.com/file/d/1_khlf0\u2026"
+        "display_url": "drive.google.com/file/d/1_khlf0…"
        },
        {
         "url": "https://t.co/Fmb8KPTimM",
@@ -10552,7 +10584,7 @@
         {
          "url": "https://t.co/3KpO7pWgLr",
          "expanded_url": "https://drive.google.com/file/d/1BcKVlgzcEYV9m97iXl6qxHf8W8cRJ-0a/view?usp=drivesdk",
-         "display_url": "drive.google.com/file/d/1BcKVlg\u2026"
+         "display_url": "drive.google.com/file/d/1BcKVlg…"
         }
        ]
       }
@@ -10562,7 +10594,7 @@
        {
         "url": "https://t.co/vsemr2gBOq",
         "expanded_url": "https://drive.google.com/file/d/1BcKVlgzcEYV9m97iXl6qxHf8W8cRJ-0a/view?usp=drivesdk",
-        "display_url": "drive.google.com/file/d/1BcKVlg\u2026"
+        "display_url": "drive.google.com/file/d/1BcKVlg…"
        },
        {
         "url": "https://t.co/g6Z5HB0gL3",
@@ -10598,7 +10630,7 @@
         {
          "url": "https://t.co/0cyQibKfRu",
          "expanded_url": "https://drive.google.com/file/d/1iUtqxMzc1m094kjAEaMw_u5_8h_TvDzm/view?usp=drivesdk",
-         "display_url": "drive.google.com/file/d/1iUtqxM\u2026"
+         "display_url": "drive.google.com/file/d/1iUtqxM…"
         }
        ]
       }
@@ -10608,7 +10640,7 @@
        {
         "url": "https://t.co/6b5ZELTGBe",
         "expanded_url": "https://drive.google.com/file/d/1iUtqxMzc1m094kjAEaMw_u5_8h_TvDzm/view?usp=drivesdk",
-        "display_url": "drive.google.com/file/d/1iUtqxM\u2026"
+        "display_url": "drive.google.com/file/d/1iUtqxM…"
        },
        {
         "url": "https://t.co/SeiQp7DJsX",
@@ -10630,13 +10662,13 @@
       "reply_count": 0,
       "retweet_count": 1
      },
-     "text": "I\u2019m going to @CHELLESHOCKEDTM\u2019s upcoming Space. Will you join too? https://t.co/vxg9Xwj49g",
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/vxg9Xwj49g",
      "entities": {
       "urls": [
        {
         "url": "https://t.co/vxg9Xwj49g",
         "expanded_url": "https://x.com/i/spaces/1nKOLQpMyqvGR",
-        "display_url": "x.com/i/spaces/1nKOL\u2026",
+        "display_url": "x.com/i/spaces/1nKOL…",
         "title": "Scheduled: Texas Is Legal Battleground 4 Trump Immigration and Election Policies / X",
         "images": [
          {
@@ -10666,7 +10698,7 @@
         {
          "url": "https://t.co/0cyQibKfRu",
          "expanded_url": "https://drive.google.com/file/d/1iUtqxMzc1m094kjAEaMw_u5_8h_TvDzm/view?usp=drivesdk",
-         "display_url": "drive.google.com/file/d/1iUtqxM\u2026"
+         "display_url": "drive.google.com/file/d/1iUtqxM…"
         }
        ]
       }
@@ -10676,7 +10708,7 @@
        {
         "url": "https://t.co/6b5ZELTGBe",
         "expanded_url": "https://drive.google.com/file/d/1iUtqxMzc1m094kjAEaMw_u5_8h_TvDzm/view?usp=drivesdk",
-        "display_url": "drive.google.com/file/d/1iUtqxM\u2026"
+        "display_url": "drive.google.com/file/d/1iUtqxM…"
        }
       ]
      }
@@ -10697,9 +10729,9 @@
       "reply_count": 0,
       "retweet_count": 5
      },
-     "text": "Day is whistleblower Wednesday get your whistle out and let\u2019s make it whistle blow on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1  @ali_hopper @averageJohn911 and that\u2019s 230 Eastern p.m. Showtime. 3 PM Eastern standard time. Raise your hand no long lead and that\u2019s https://t.co/VdyxIohj05",
+     "text": "Day is whistleblower Wednesday get your whistle out and let’s make it whistle blow on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1  @ali_hopper @averageJohn911 and that’s 230 Eastern p.m. Showtime. 3 PM Eastern standard time. Raise your hand no long lead and that’s https://t.co/VdyxIohj05",
      "note_tweet": {
-      "text": "Day is whistleblower Wednesday get your whistle out and let\u2019s make it whistle blow on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1  @ali_hopper @averageJohn911 and that\u2019s 230 Eastern p.m. Showtime. 3 PM Eastern standard time. Raise your hand no long lead and that\u2019s the bottom line cause ZXN said so"
+      "text": "Day is whistleblower Wednesday get your whistle out and let’s make it whistle blow on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1  @ali_hopper @averageJohn911 and that’s 230 Eastern p.m. Showtime. 3 PM Eastern standard time. Raise your hand no long lead and that’s the bottom line cause ZXN said so"
      },
      "entities": {
       "urls": [
@@ -10801,7 +10833,7 @@
         {
          "url": "https://t.co/44aypus5Rc",
          "expanded_url": "https://drive.google.com/file/d/1GxLq0jX7f3zr_xQaSTVXW7PHiYDg_81P/view?usp=drivesdk",
-         "display_url": "drive.google.com/file/d/1GxLq0j\u2026"
+         "display_url": "drive.google.com/file/d/1GxLq0j…"
         }
        ]
       }
@@ -10811,7 +10843,7 @@
        {
         "url": "https://t.co/2zmTyLXBJR",
         "expanded_url": "https://drive.google.com/file/d/1GxLq0jX7f3zr_xQaSTVXW7PHiYDg_81P/view?usp=drivesdk",
-        "display_url": "drive.google.com/file/d/1GxLq0j\u2026"
+        "display_url": "drive.google.com/file/d/1GxLq0j…"
        }
       ]
      }
@@ -10833,7 +10865,7 @@
        {
         "url": "https://t.co/Afrvlr3dBp",
         "expanded_url": "https://youtu.be/d7FSFLz3rQU?si=yLx9e82RUbhlhmH1",
-        "display_url": "youtu.be/d7FSFLz3rQU?si\u2026",
+        "display_url": "youtu.be/d7FSFLz3rQU?si…",
         "title": "Trump Mobile was HACKED! Oops.... (Details so far)",
         "images": [
          {
@@ -10863,7 +10895,7 @@
         {
          "url": "https://t.co/fuOAcx5EXW",
          "expanded_url": "https://drive.google.com/file/d/1ThdNpRyl9bvMBbNwAeu-5Eozp-RFr4BU/view?usp=drivesdk",
-         "display_url": "drive.google.com/file/d/1ThdNpR\u2026"
+         "display_url": "drive.google.com/file/d/1ThdNpR…"
         },
         {
          "url": "https://t.co/iiT5ODCiX8",
@@ -10878,7 +10910,7 @@
        {
         "url": "https://t.co/UEE2PP8MAl",
         "expanded_url": "https://drive.google.com/file/d/1ThdNpRyl9bvMBbNwAeu-5Eozp-RFr4BU/view?usp=drivesdk",
-        "display_url": "drive.google.com/file/d/1ThdNpR\u2026"
+        "display_url": "drive.google.com/file/d/1ThdNpR…"
        }
       ]
      }
@@ -10900,8 +10932,8 @@
        {
         "url": "https://t.co/oaYdIFrGwh",
         "expanded_url": "https://x.com/i/broadcasts/1YxNrbkXEebxw",
-        "display_url": "x.com/i/broadcasts/1\u2026",
-        "title": "ZXN \u201c we are bluehand \u201d AND patriot one network",
+        "display_url": "x.com/i/broadcasts/1…",
+        "title": "ZXN “ we are bluehand ” AND patriot one network",
         "images": [
          {
           "url": "https://pbs.twimg.com/news_img/2107508382722838528/Gx-g6rnS?format=jpg&name=orig"
@@ -10922,13 +10954,13 @@
       "reply_count": 0,
       "retweet_count": 1
      },
-     "text": "I\u2019m going to @CHELLESHOCKEDTM\u2019s upcoming Space. Will you join too? https://t.co/LYylUQ6Hxb",
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/LYylUQ6Hxb",
      "entities": {
       "urls": [
        {
         "url": "https://t.co/LYylUQ6Hxb",
         "expanded_url": "https://x.com/i/spaces/1nJOLQpWbbAxR",
-        "display_url": "x.com/i/spaces/1nJOL\u2026",
+        "display_url": "x.com/i/spaces/1nJOL…",
         "title": "Scheduled: The Midterm Elections Choice: Common Sense or Communism/Rob Maness / X",
         "images": [
          {
@@ -10955,9 +10987,9 @@
       "reply_count": 0,
       "retweet_count": 6
      },
-     "text": "It\u2019s training Tuesday it\u2019s time to train train your mind  on @RobManess @CHELLESHOCKEDTM @KatTheHammer1 @WorldviewTube @averageJohn911 join that conversation 230 Eastern time p.m. Showtime 3 o\u2019clock Eastern time p.m.. grab a mic join that conversation raise your hand no  lead up https://t.co/gPU5iiClN9",
+     "text": "It’s training Tuesday it’s time to train train your mind  on @RobManess @CHELLESHOCKEDTM @KatTheHammer1 @WorldviewTube @averageJohn911 join that conversation 230 Eastern time p.m. Showtime 3 o’clock Eastern time p.m.. grab a mic join that conversation raise your hand no  lead up https://t.co/gPU5iiClN9",
      "note_tweet": {
-      "text": "It\u2019s training Tuesday it\u2019s time to train train your mind  on @RobManess @CHELLESHOCKEDTM @KatTheHammer1 @WorldviewTube @averageJohn911 join that conversation 230 Eastern time p.m. Showtime 3 o\u2019clock Eastern time p.m.. grab a mic join that conversation raise your hand no  lead up  it\u2019s time to train your mind"
+      "text": "It’s training Tuesday it’s time to train train your mind  on @RobManess @CHELLESHOCKEDTM @KatTheHammer1 @WorldviewTube @averageJohn911 join that conversation 230 Eastern time p.m. Showtime 3 o’clock Eastern time p.m.. grab a mic join that conversation raise your hand no  lead up  it’s time to train your mind"
      },
      "entities": {
       "urls": [
@@ -10987,7 +11019,7 @@
        {
         "url": "https://t.co/cWk5Jca5ra",
         "expanded_url": "https://www.flowmusic.app/song/c2fa5e1a-b2b6-454d-bacc-66f155103602",
-        "display_url": "flowmusic.app/song/c2fa5e1a-\u2026",
+        "display_url": "flowmusic.app/song/c2fa5e1a-…",
         "title": "Untitled (Remix) ZXN by mellowseed",
         "images": [
          {
@@ -11015,7 +11047,7 @@
        {
         "url": "https://t.co/jGNcgTN7yK",
         "expanded_url": "https://www.flowmusic.app/song/30b63b56-5563-4628-ba72-ba07764e4f84",
-        "display_url": "flowmusic.app/song/30b63b56-\u2026",
+        "display_url": "flowmusic.app/song/30b63b56-…",
         "title": "Network ZXN (Extended) theme song for patriot one network by zxnbluehandus",
         "images": [
          {
@@ -11043,7 +11075,7 @@
        {
         "url": "https://t.co/d9W7Vgdou2",
         "expanded_url": "https://youtube.com/shorts/B4xJPiY7cvI?is=cTalO9yV2P6CSCN8",
-        "display_url": "youtube.com/shorts/B4xJPiY\u2026",
+        "display_url": "youtube.com/shorts/B4xJPiY…",
         "title": "The iPod Came Back Without Apple",
         "images": [
          {
@@ -11071,7 +11103,7 @@
        {
         "url": "https://t.co/f2kEVdYnpF",
         "expanded_url": "https://youtu.be/ANUw_QMdLhE?si=qf-0f0YZ8BblKLA9",
-        "display_url": "youtu.be/ANUw_QMdLhE?si\u2026",
+        "display_url": "youtu.be/ANUw_QMdLhE?si…",
         "title": "SpaceX Starlink Now Pays You To Use It",
         "images": [
          {
@@ -11093,13 +11125,13 @@
       "reply_count": 0,
       "retweet_count": 1
      },
-     "text": "I\u2019m going to @CHELLESHOCKEDTM\u2019s upcoming Space. Will you join too? https://t.co/3PWv5Bw1lx",
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/3PWv5Bw1lx",
      "entities": {
       "urls": [
        {
         "url": "https://t.co/3PWv5Bw1lx",
         "expanded_url": "https://x.com/i/spaces/1nxeLMzgXgYJX",
-        "display_url": "x.com/i/spaces/1nxeL\u2026",
+        "display_url": "x.com/i/spaces/1nxeL…",
         "title": "Scheduled: Inside the Terrorist Cockpit, B-1s Leave Fairford, Elections Matter / X",
         "images": [
          {
@@ -11126,7 +11158,7 @@
       "reply_count": 0,
       "retweet_count": 5
      },
-     "text": "#BlueHand #patriotonenetwork let\u2019s get what guys and girls ladies and gentlemen ZXNBLUEHANDUS come join us. We\u2019re here. We\u2019re waiting. Follow us and come on. https://t.co/mJsNtWZmI2",
+     "text": "#BlueHand #patriotonenetwork let’s get what guys and girls ladies and gentlemen ZXNBLUEHANDUS come join us. We’re here. We’re waiting. Follow us and come on. https://t.co/mJsNtWZmI2",
      "entities": {
       "urls": [
        {
@@ -11155,7 +11187,7 @@
        {
         "url": "https://t.co/gwWmu30Fuf",
         "expanded_url": "https://x.com/i/spaces/1yxBePNegPjJN",
-        "display_url": "x.com/i/spaces/1yxBe\u2026",
+        "display_url": "x.com/i/spaces/1yxBe…",
         "title": "Happening now: Testing / X"
        }
       ]
@@ -11185,14 +11217,14 @@
       "reply_count": 0,
       "retweet_count": 1
      },
-     "text": "Tom &amp; Jerry Steak and a million-star inflatable hotel \ud83d\ude0d\u2728 This is Kazakhs... https://t.co/O89fe7csyY via @YouTube",
+     "text": "Tom &amp; Jerry Steak and a million-star inflatable hotel 😍✨ This is Kazakhs... https://t.co/O89fe7csyY via @YouTube",
      "entities": {
       "urls": [
        {
         "url": "https://t.co/O89fe7csyY",
         "expanded_url": "https://youtube.com/shorts/t5lpoF8C8AU?is=85zLIP8QbpMfkQfF",
-        "display_url": "youtube.com/shorts/t5lpoF8\u2026",
-        "title": "Tom & Jerry Steak and a million-star inflatable hotel \ud83d\ude0d\u2728 This is Kazakhstan \ud83c\uddf0\ud83c\uddff\ud83d\ude0d",
+        "display_url": "youtube.com/shorts/t5lpoF8…",
+        "title": "Tom & Jerry Steak and a million-star inflatable hotel 😍✨ This is Kazakhstan 🇰🇿😍",
         "images": [
          {
           "url": "https://pbs.twimg.com/news_img/2106999684179095552/nNB-_okW?format=jpg&name=orig"
@@ -11219,7 +11251,7 @@
        {
         "url": "https://t.co/ioeG4OVJ3J",
         "expanded_url": "https://www.flowmusic.app/song/b67646d0-1278-4c26-b2b6-df01ac806b94",
-        "display_url": "flowmusic.app/song/b67646d0-\u2026",
+        "display_url": "flowmusic.app/song/b67646d0-…",
         "title": "Network ZXN by mellowseed",
         "images": [
          {
@@ -11246,9 +11278,9 @@
       "reply_count": 0,
       "retweet_count": 6
      },
-     "text": "Today it\u2019s war Monday on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1  grab it, mic raise your hand you\u2019ll be fine no longer need ups 2:30 Eastern time 3 o\u2019clock Showtime so get that conversation be there or be a communist so that\u2019s the bottom line for ZXN said so oh https://t.co/3LnCwlw3UM",
+     "text": "Today it’s war Monday on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1  grab it, mic raise your hand you’ll be fine no longer need ups 2:30 Eastern time 3 o’clock Showtime so get that conversation be there or be a communist so that’s the bottom line for ZXN said so oh https://t.co/3LnCwlw3UM",
      "note_tweet": {
-      "text": "Today it\u2019s war Monday on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1  grab it, mic raise your hand you\u2019ll be fine no longer need ups 2:30 Eastern time 3 o\u2019clock Showtime so get that conversation be there or be a communist so that\u2019s the bottom line for ZXN said so oh hell, yeah"
+      "text": "Today it’s war Monday on @RobManess @CHELLESHOCKEDTM @WorldviewTube @KatTheHammer1  grab it, mic raise your hand you’ll be fine no longer need ups 2:30 Eastern time 3 o’clock Showtime so get that conversation be there or be a communist so that’s the bottom line for ZXN said so oh hell, yeah"
      },
      "entities": {
       "urls": [
@@ -11278,7 +11310,7 @@
        {
         "url": "https://t.co/ioeG4OWgTh",
         "expanded_url": "https://www.flowmusic.app/song/b67646d0-1278-4c26-b2b6-df01ac806b94",
-        "display_url": "flowmusic.app/song/b67646d0-\u2026",
+        "display_url": "flowmusic.app/song/b67646d0-…",
         "title": "Network ZXN by mellowseed",
         "images": [
          {
@@ -11319,7 +11351,7 @@
        {
         "url": "https://t.co/6R13gG2G16",
         "expanded_url": "https://www.youtube.com/live/WP33il3jQoc?is=Cqgp8r0ATDb371sM",
-        "display_url": "youtube.com/live/WP33il3jQ\u2026",
+        "display_url": "youtube.com/live/WP33il3jQ…",
         "title": "Overflow Church Live Experience",
         "images": [
          {
@@ -11347,7 +11379,7 @@
        {
         "url": "https://t.co/cWk5Jca5ra",
         "expanded_url": "https://www.flowmusic.app/song/c2fa5e1a-b2b6-454d-bacc-66f155103602",
-        "display_url": "flowmusic.app/song/c2fa5e1a-\u2026",
+        "display_url": "flowmusic.app/song/c2fa5e1a-…",
         "title": "Untitled (Remix) ZXN by mellowseed",
         "images": [
          {
@@ -11375,7 +11407,7 @@
        {
         "url": "https://t.co/oaez95l3j7",
         "expanded_url": "https://www.flowmusic.app/song/430f7e6e-cef2-447a-8e21-20283769be23",
-        "display_url": "flowmusic.app/song/430f7e6e-\u2026",
+        "display_url": "flowmusic.app/song/430f7e6e-…",
         "title": "Untitled by mellowseed",
         "images": [
          {
@@ -11397,14 +11429,14 @@
       "reply_count": 0,
       "retweet_count": 0
      },
-     "text": "\ud83d\udd34 LIVE - CHRISTA PIKE - BOYFRIEND SPEAKS  \ud83d\udd34 https://t.co/nPgJjnkdUd via @YouTube",
+     "text": "🔴 LIVE - CHRISTA PIKE - BOYFRIEND SPEAKS  🔴 https://t.co/nPgJjnkdUd via @YouTube",
      "entities": {
       "urls": [
        {
         "url": "https://t.co/nPgJjnkdUd",
         "expanded_url": "https://www.youtube.com/live/KSkNJPJFnrs?si=nVTJygKFcxZjSMMD",
-        "display_url": "youtube.com/live/KSkNJPJFn\u2026",
-        "title": "\ud83d\udd34 LIVE - CHRISTA PIKE - BOYFRIEND SPEAKS \ud83d\udd34",
+        "display_url": "youtube.com/live/KSkNJPJFn…",
+        "title": "🔴 LIVE - CHRISTA PIKE - BOYFRIEND SPEAKS 🔴",
         "images": [
          {
           "url": "https://pbs.twimg.com/news_img/2106538568453685248/AIHFW73I?format=jpg&name=orig"
@@ -11431,7 +11463,7 @@
        {
         "url": "https://t.co/b4z1vTf9cJ",
         "expanded_url": "https://www.the-sun.com/news/17080766/usps-post-office-closing-akron-alabama-lease-not-renewed",
-        "display_url": "the-sun.com/news/17080766/\u2026",
+        "display_url": "the-sun.com/news/17080766/…",
         "title": "Sad goodbye to ALL USPS PO boxes at post office shutting down for good in weeks",
         "images": [
          {
@@ -11459,7 +11491,7 @@
        {
         "url": "https://t.co/2b78vwraIb",
         "expanded_url": "https://x.com/davidbhayter?s=11",
-        "display_url": "x.com/davidbhayter?s\u2026",
+        "display_url": "x.com/davidbhayter?s…",
         "title": "David Hayter (@DavidBHayter) on X",
         "images": [
          {
