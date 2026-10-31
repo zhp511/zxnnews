@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-31T17:52:09Z",
- "searched_at": "2026-10-31T17:52:00Z",
+ "built_at": "2026-10-31T18:09:26Z",
+ "searched_at": "2026-10-31T18:09:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,6 +45,26 @@
    "assumed_live_until": "2026-10-31T20:02:44Z"
   },
   {
+   "post_id": "2116591499802517620",
+   "post_url": "https://x.com/vpnet_official/status/2116591499802517620",
+   "name": "vp.net",
+   "username": "vpnet_official",
+   "verified_type": "blue",
+   "text": "Congress Wants to Kill Section 230. Here’s What Breaks | Hide & Speak https://t.co/Xk11fgZUzB",
+   "started_at": "2026-10-31T18:01:52.000Z",
+   "assumed_live_until": "2026-10-31T21:01:52Z"
+  },
+  {
+   "post_id": "2116591396610318624",
+   "post_url": "https://x.com/MyriamCarlyle/status/2116591396610318624",
+   "name": "Myriam Carlyle",
+   "username": "MyriamCarlyle",
+   "verified_type": "blue",
+   "text": "https://t.co/jnRT8UiB4w \n\nRINGSIDE POLITICS WITH JEFF CROUERE!\n\n@jeffcrouere",
+   "started_at": "2026-10-31T18:01:27.000Z",
+   "assumed_live_until": "2026-10-31T21:01:27Z"
+  },
+  {
    "post_id": "2116560863763304813",
    "post_url": "https://x.com/JohnGordonTV/status/2116560863763304813",
    "name": "John Gordon",
@@ -63,26 +83,6 @@
    "text": "Catch the top news updates & headlines, only on India Today! https://t.co/P1JMQeJ9br",
    "started_at": "2026-10-31T15:26:36.000Z",
    "assumed_live_until": "2026-10-31T18:26:36Z"
-  },
-  {
-   "post_id": "2116545786427133986",
-   "post_url": "https://x.com/omantvnews/status/2116545786427133986",
-   "name": "مركز الأخبار",
-   "username": "omantvnews",
-   "verified_type": "blue",
-   "text": "Live broadcast | English News Bulletin https://t.co/LvMnHn9u3s",
-   "started_at": "2026-10-31T15:00:13.000Z",
-   "assumed_live_until": "2026-10-31T18:00:13Z"
-  },
-  {
-   "post_id": "2116546529188311354",
-   "post_url": "https://x.com/LiveStreamprz/status/2116546529188311354",
-   "name": "Live Streaming Press",
-   "username": "LiveStreamprz",
-   "verified_type": "blue",
-   "text": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis\n\nhttps://t.co/mSDqinEb6f",
-   "started_at": "2026-10-31T15:03:10.000Z",
-   "assumed_live_until": "2026-10-31T18:03:10Z"
   }
  ]
 }
