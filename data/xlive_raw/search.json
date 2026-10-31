@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T14:19:00Z",
+ "fetched_at": "2026-10-31T14:41:08Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T11:19:00Z",
+  "start_time": "2026-10-31T11:40:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -11,297 +11,6 @@
   "user.fields": "name,username,verified,verified_type,public_metrics"
  },
  "data": [
-  {
-   "author_id": "355989081",
-   "created_at": "2026-10-31T11:21:50.000Z",
-   "edit_history_tweet_ids": [
-    "2116490826264027499"
-   ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 100,
-      "start": 96,
-      "tag": "bjp"
-     },
-     {
-      "end": 110,
-      "start": 101,
-      "tag": "congress"
-     },
-     {
-      "end": 123,
-      "start": 111,
-      "tag": "sambitpatra"
-     },
-     {
-      "end": 136,
-      "start": 124,
-      "tag": "rahulgandhi"
-     },
-     {
-      "end": 148,
-      "start": 137,
-      "tag": "gyangaming"
-     },
-     {
-      "end": 163,
-      "start": 149,
-      "tag": "congressrally"
-     },
-     {
-      "end": 169,
-      "start": 164,
-      "tag": "news"
-     },
-     {
-      "end": 175,
-      "start": 170,
-      "tag": "live"
-     }
-    ],
-    "urls": [
-     {
-      "description": "LIVE: BJP Press Conference by Sambit Patra | BJP I Rahul Gandhi | Congress | CEC Gyanesh Kumar",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 199,
-      "expanded_url": "https://x.com/i/broadcasts/2JQleLkVqlRyqR",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116490828570861568/lbG83dWE?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116490828570861568/lbG83dWE?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 176,
-      "status": 200,
-      "title": "ANI",
-      "unwound_url": "https://x.com/i/broadcasts/2JQleLkVqlRyqR",
-      "url": "https://t.co/sGBcYLmBgq"
-     }
-    ]
-   },
-   "id": "2116490826264027499",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 18083,
-    "like_count": 7,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 2
-   },
-   "text": "LIVE: BJP Press Conference by Sambit Patra | BJP I Rahul Gandhi | Congress | CEC Gyanesh Kumar\n\n#bjp #congress #sambitpatra #rahulgandhi #gyangaming #congressrally #news #live https://t.co/sGBcYLmBgq",
-   "url": "https://x.com/ANI/status/2116490826264027499"
-  },
-  {
-   "author_id": "1368737382",
-   "created_at": "2026-10-31T11:22:19.000Z",
-   "edit_history_tweet_ids": [
-    "2116490948238573657"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Watch LIVE: Press Conference | BJP HQ, New Delhi",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 72,
-      "expanded_url": "https://x.com/i/broadcasts/2KolezjkEXedBk",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116490990898798592/dVbM9jPt?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116490990898798592/dVbM9jPt?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 49,
-      "status": 200,
-      "title": "Sambit Patra",
-      "unwound_url": "https://x.com/i/broadcasts/2KolezjkEXedBk",
-      "url": "https://t.co/Vq3ND30mKd"
-     }
-    ]
-   },
-   "id": "2116490948238573657",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 6798,
-    "like_count": 22,
-    "quote_count": 1,
-    "reply_count": 3,
-    "retweet_count": 7
-   },
-   "text": "Watch LIVE: Press Conference | BJP HQ, New Delhi https://t.co/Vq3ND30mKd",
-   "url": "https://x.com/sambitswaraj/status/2116490948238573657"
-  },
-  {
-   "author_id": "207809313",
-   "created_at": "2026-10-31T11:21:54.000Z",
-   "edit_history_tweet_ids": [
-    "2116490844664459342"
-   ],
-   "entities": {
-    "mentions": [
-     {
-      "end": 43,
-      "id": "1368737382",
-      "start": 30,
-      "username": "sambitswaraj"
-     }
-    ],
-    "urls": [
-     {
-      "description": "BJP National Spokesperson Dr. @sambitswaraj addresses press conference at BJP headquarters, New Delhi.",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 127,
-      "expanded_url": "https://x.com/i/broadcasts/2RezPRKZqAlZBk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116490889174421504/dZgGmnWG?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116490889174421504/dZgGmnWG?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 104,
-      "status": 200,
-      "title": "BJP",
-      "unwound_url": "https://x.com/i/broadcasts/2RezPRKZqAlZBk",
-      "url": "https://t.co/ywslnAj2DZ"
-     }
-    ]
-   },
-   "id": "2116490844664459342",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 19480,
-    "like_count": 133,
-    "quote_count": 7,
-    "reply_count": 11,
-    "retweet_count": 61
-   },
-   "text": "BJP National Spokesperson Dr. @sambitswaraj  addresses press conference at BJP headquarters, New Delhi. https://t.co/ywslnAj2DZ",
-   "url": "https://x.com/BJP4India/status/2116490844664459342"
-  },
-  {
-   "author_id": "1618490684",
-   "created_at": "2026-10-31T11:36:04.000Z",
-   "edit_history_tweet_ids": [
-    "2116494408216666227"
-   ],
-   "entities": {
-    "mentions": [
-     {
-      "end": 46,
-      "id": "1368737382",
-      "start": 33,
-      "username": "sambitswaraj"
-     }
-    ],
-    "urls": [
-     {
-      "description": "LIVE : BJP National Spokesperson @sambitswaraj Ji addresses press conference at BJP HQ, New Delhi",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 121,
-      "expanded_url": "https://x.com/i/broadcasts/2lgkqXpEjNldga",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116494450587578368/18yl3tpb?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116494450587578368/18yl3tpb?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 98,
-      "status": 200,
-      "title": "BJP Madhya Pradesh",
-      "unwound_url": "https://x.com/i/broadcasts/2lgkqXpEjNldga",
-      "url": "https://t.co/kV66L9tSgo"
-     }
-    ]
-   },
-   "id": "2116494408216666227",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 1173,
-    "like_count": 6,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 7
-   },
-   "text": "LIVE : BJP National Spokesperson @sambitswaraj Ji addresses press conference at BJP HQ, New Delhi https://t.co/kV66L9tSgo",
-   "url": "https://x.com/BJP4MP/status/2116494408216666227"
-  },
-  {
-   "author_id": "385909720",
-   "created_at": "2026-10-31T11:25:44.000Z",
-   "edit_history_tweet_ids": [
-    "2116491807270072668"
-   ],
-   "entities": {
-    "mentions": [
-     {
-      "end": 49,
-      "id": "1368737382",
-      "start": 36,
-      "username": "sambitswaraj"
-     }
-    ],
-    "urls": [
-     {
-      "description": "LIVE: BJP National Spokesperson Dr. @sambitswaraj addresses press conference at BJP HQ, New Delhi.",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 122,
-      "expanded_url": "https://x.com/i/broadcasts/2KolezrMLdroLY",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116491809467891712/96MkWDsc?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116491809467891712/96MkWDsc?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 99,
-      "status": 200,
-      "title": "BJP Gujarat",
-      "unwound_url": "https://x.com/i/broadcasts/2KolezrMLdroLY",
-      "url": "https://t.co/MdgpMGXHSR"
-     }
-    ]
-   },
-   "id": "2116491807270072668",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1601,
-    "like_count": 31,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 16
-   },
-   "text": "LIVE: BJP National Spokesperson Dr. @sambitswaraj addresses press conference at BJP HQ, New Delhi. https://t.co/MdgpMGXHSR",
-   "url": "https://x.com/BJP4Gujarat/status/2116491807270072668"
-  },
   {
    "author_id": "355989081",
    "created_at": "2026-10-31T13:39:44.000Z",
@@ -349,7 +58,7 @@
     "urls": [
      {
       "description": "Rahul Gandhi LIVE: Opposition's CEC Impeachment Campaign Ahead of Ramlila Maidan Showdown",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 196,
       "expanded_url": "https://x.com/i/broadcasts/2OdmVMLnWKjOyy",
       "images": [
@@ -375,59 +84,76 @@
    "id": "2116525530241552501",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 15046,
-    "like_count": 15,
+    "impression_count": 15662,
+    "like_count": 21,
     "quote_count": 0,
     "reply_count": 5,
-    "retweet_count": 5
+    "retweet_count": 8
    },
    "text": "Rahul Gandhi LIVE: Opposition's CEC Impeachment Campaign Ahead of Ramlila Maidan Showdown\n\n#rahulgandhi #congress #impeachment #gyaneshkumar #cec #news #live \n\nSOURCE: AICC https://t.co/c4eE2TFQn3",
    "url": "https://x.com/ANI/status/2116525530241552501"
   },
   {
-   "author_id": "3091150576",
-   "created_at": "2026-10-31T11:27:22.000Z",
+   "author_id": "2026120953206321152",
+   "created_at": "2026-10-31T14:39:09.000Z",
    "edit_history_tweet_ids": [
-    "2116492219276484834"
+    "2116540484185100797"
    ],
    "entities": {
+    "hashtags": [
+     {
+      "end": 234,
+      "start": 221,
+      "tag": "Midterms2026"
+     },
+     {
+      "end": 241,
+      "start": 235,
+      "tag": "Trump"
+     },
+     {
+      "end": 253,
+      "start": 242,
+      "tag": "JohnGordon"
+     }
+    ],
     "urls": [
      {
-      "description": "Live Now",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 192,
-      "expanded_url": "https://x.com/i/broadcasts/2OdmVQzQNVVPJj",
+      "description": "TRUMP'S FINAL MIDTERM PUSH: What's Really Happening Before Election Day?",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 278,
+      "expanded_url": "https://x.com/i/broadcasts/2rJaYApYeynMeb",
       "images": [
        {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116492217430732800/GfG9de6A?format=jpg&name=orig",
-        "width": 1280
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2116540487922241536/LB9LUviL?format=jpg&name=orig",
+        "width": 1200
        },
        {
         "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116492217430732800/GfG9de6A?format=jpg&name=150x150",
+        "url": "https://pbs.twimg.com/news_img/2116540487922241536/LB9LUviL?format=jpg&name=150x150",
         "width": 150
        }
       ],
-      "start": 169,
+      "start": 255,
       "status": 200,
-      "title": "TRT World",
-      "unwound_url": "https://x.com/i/broadcasts/2OdmVQzQNVVPJj",
-      "url": "https://t.co/SNh0eY720t"
+      "title": "John Gordon",
+      "unwound_url": "https://x.com/i/broadcasts/2rJaYApYeynMeb",
+      "url": "https://t.co/TKve1lEfjY"
      }
     ]
    },
-   "id": "2116492219276484834",
+   "id": "2116540484185100797",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3186,
-    "like_count": 4,
+    "impression_count": 4,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1
+    "retweet_count": 0
    },
-   "text": "LIVE: T\u00fcrkiye\u2019s President Recep Tayyip Erdogan speaks at Turkish Medical World Congress and TUSEB Aziz Sancar Science, Service and Incentive Awards Ceremony in Istanbul\nhttps://t.co/SNh0eY720t",
-   "url": "https://x.com/trtworld/status/2116492219276484834"
+   "text": "🚨 MIDTERM SHOWDOWN! Trump’s final election push, 20+ tele-rallies, Alaska election controversy, Elon Musk’s warnings &amp; more!\n\nPLUS: Eric Deters on Kimberly Guilfoyle’s $100K AMEX bill!\n\n🎙️ The Truth with John Gordon\n\n#Midterms2026 #Trump #JohnGordon\n\nhttps://t.co/TKve1lEfjY",
+   "url": "https://x.com/JohnGordonTV/status/2116540484185100797"
   },
   {
    "author_id": "1572199491503022080",
@@ -438,8 +164,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Breaking News\ud83d\udea8, Internet Drama\ud83d\ude21, & Trending Clips\ud83d\ude02 - Live\ud83d\udd34",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "description": "Breaking News🚨, Internet Drama😡, & Trending Clips😂 - Live🔴",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 86,
       "expanded_url": "https://x.com/i/broadcasts/2kEbqWmXYRBnyO",
       "images": [
@@ -471,7 +197,7 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Breaking News\ud83d\udea8, Internet Drama\ud83d\ude21, &amp; Trending Clips\ud83d\ude02 - Live\ud83d\udd34 https://t.co/wZErnxbJIq",
+   "text": "Breaking News🚨, Internet Drama😡, &amp; Trending Clips😂 - Live🔴 https://t.co/wZErnxbJIq",
    "url": "https://x.com/colludiumwolf/status/2116516337778598310"
   },
   {
@@ -484,7 +210,7 @@
     "urls": [
      {
       "description": "BREAKING NEWS W/PHOENIX SURVIVAL",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 56,
       "expanded_url": "https://x.com/i/broadcasts/2kEbqyXQyyzeMo",
       "start": 33,
@@ -555,7 +281,7 @@
     "urls": [
      {
       "description": "Radio Generation LIVESTREAM, 88.8 FM| Mombasa- 90.7FM",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 276,
       "expanded_url": "https://x.com/i/broadcasts/2peAdoAlvKermd",
       "images": [
@@ -581,13 +307,13 @@
    "id": "2116501882143129833",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 715,
-    "like_count": 18,
+    "impression_count": 760,
+    "like_count": 19,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 25
+    "retweet_count": 26
    },
-   "text": "Chelsea vs Manchester United! Who takes all three points? Catch the EPL action and debate on #SportsGarageKe, 3PM\u20137PM. Tupige gumzo la spoti!\n\nHost: @SammyMuraya &amp; @KariukiThige \nProducer: @noah_sanya1 \nDigital: @JohnVincent_001 \n#HomeOfHardTruths \nhttps://t.co/8ievWk7vcZ",
+   "text": "Chelsea vs Manchester United! Who takes all three points? Catch the EPL action and debate on #SportsGarageKe, 3PM–7PM. Tupige gumzo la spoti!\n\nHost: @SammyMuraya &amp; @KariukiThige \nProducer: @noah_sanya1 \nDigital: @JohnVincent_001 \n#HomeOfHardTruths \nhttps://t.co/8ievWk7vcZ",
    "url": "https://x.com/RadioGenKe/status/2116501882143129833"
   },
   {
@@ -599,8 +325,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 103,
       "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
       "images": [
@@ -626,13 +352,13 @@
    "id": "2116534033089716600",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 25,
+    "impression_count": 47,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/zomQiF7ktn",
+   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/zomQiF7ktn",
    "url": "https://x.com/Honking4Freedom/status/2116534033089716600"
   },
   {
@@ -644,8 +370,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 103,
       "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
       "images": [
@@ -671,13 +397,13 @@
    "id": "2116534104703574434",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 5,
+    "impression_count": 6,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/Ie9iMIewm8",
+   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/Ie9iMIewm8",
    "url": "https://x.com/CorrectFm/status/2116534104703574434"
   },
   {
@@ -689,8 +415,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 103,
       "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
       "images": [
@@ -716,13 +442,13 @@
    "id": "2116534506643398687",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 25,
+    "impression_count": 40,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/oWFW8ySDVP",
+   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/oWFW8ySDVP",
    "url": "https://x.com/NatTelegraph/status/2116534506643398687"
   },
   {
@@ -734,8 +460,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 105,
       "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
       "images": [
@@ -761,13 +487,13 @@
    "id": "2116533479760334929",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 96,
-    "like_count": 1,
+    "impression_count": 169,
+    "like_count": 3,
     "quote_count": 1,
     "reply_count": 0,
-    "retweet_count": 1
+    "retweet_count": 2
    },
-   "text": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/HvJ60aeKpd",
+   "text": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/HvJ60aeKpd",
    "url": "https://x.com/BJdichter/status/2116533479760334929"
   },
   {
@@ -780,7 +506,7 @@
     "urls": [
      {
       "description": "Trent on the Loos Oct 31, 2026 Dan Osborn candidate for Nebraska Seat in the U.S. Senate against Pete Ricketts.",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 135,
       "expanded_url": "https://x.com/i/broadcasts/2QnmelWdRylWdp",
       "images": [
@@ -806,14 +532,59 @@
    "id": "2116500462933328270",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 374,
-    "like_count": 0,
+    "impression_count": 395,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
    "text": "Trent on the Loos Oct 31, 2026 Dan Osborn candidate for Nebraska Seat in the U.S. Senate against Pete Ricketts. https://t.co/Spk35CNxOX",
    "url": "https://x.com/trentloos/status/2116500462933328270"
+  },
+  {
+   "author_id": "1658306279721377795",
+   "created_at": "2026-10-31T14:29:59.000Z",
+   "edit_history_tweet_ids": [
+    "2116538175799636468"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Talarico’s “Affordability Plan,” Election Fraud Storms & Texas H-1B Heat",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 100,
+      "expanded_url": "https://x.com/i/broadcasts/2KolLjmWyaePKY",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116538218392780800/mlKAVamV?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116538218392780800/mlKAVamV?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 77,
+      "status": 200,
+      "title": "sidebartv",
+      "unwound_url": "https://x.com/i/broadcasts/2KolLjmWyaePKY",
+      "url": "https://t.co/t8Q4hlnOHy"
+     }
+    ]
+   },
+   "id": "2116538175799636468",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "Talarico’s “Affordability Plan,” Election Fraud Storms &amp; Texas H-1B Heat https://t.co/t8Q4hlnOHy",
+   "url": "https://x.com/sidebartv180/status/2116538175799636468"
   },
   {
    "author_id": "299243451",
@@ -825,12 +596,12 @@
     "urls": [
      {
       "description": "Veterans Free Enterprise / Unity, America. Thanks be to GOD",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 83,
       "expanded_url": "https://x.com/i/broadcasts/2qVAONeARNbLrM",
       "start": 60,
       "status": 200,
-      "title": "Unity America \ud83c\udf99",
+      "title": "Unity America 🎙",
       "unwound_url": "https://x.com/i/broadcasts/2qVAONeARNbLrM",
       "url": "https://t.co/fPAhpeFZVG"
      }
@@ -857,8 +628,8 @@
    "entities": {
     "urls": [
      {
-      "description": "MORE TIME FOR AMERICA\u2014IF THE CHURCH COOPERATES WITH THE WORD!!",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "description": "MORE TIME FOR AMERICA—IF THE CHURCH COOPERATES WITH THE WORD!!",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 86,
       "expanded_url": "https://x.com/i/broadcasts/2aWbQJPlLnMElN",
       "images": [
@@ -884,59 +655,14 @@
    "id": "2116530653852258518",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 193,
-    "like_count": 4,
+    "impression_count": 314,
+    "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 2
    },
-   "text": "MORE TIME FOR AMERICA\u2014IF THE CHURCH COOPERATES WITH THE WORD!! https://t.co/3nNovkYLDA",
+   "text": "MORE TIME FOR AMERICA—IF THE CHURCH COOPERATES WITH THE WORD!! https://t.co/3nNovkYLDA",
    "url": "https://x.com/OfficialJosephZ/status/2116530653852258518"
-  },
-  {
-   "author_id": "1646087345127690240",
-   "created_at": "2026-10-31T13:38:28.000Z",
-   "edit_history_tweet_ids": [
-    "2116525213382787240"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "News bulletin Star Asia News Live \ud83d\udd34",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 59,
-      "expanded_url": "https://x.com/i/broadcasts/2KolebLMeOQXjo",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116525256013709312/GzpDNkmz?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116525256013709312/GzpDNkmz?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 36,
-      "status": 200,
-      "title": "Star Asia Tv",
-      "unwound_url": "https://x.com/i/broadcasts/2KolebLMeOQXjo",
-      "url": "https://t.co/xuuHnjDqHC"
-     }
-    ]
-   },
-   "id": "2116525213382787240",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 3,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "News bulletin Star Asia News Live \ud83d\udd34 https://t.co/xuuHnjDqHC",
-   "url": "https://x.com/StarAsiatvHD/status/2116525213382787240"
   },
   {
    "author_id": "1646087345127690240",
@@ -947,8 +673,8 @@
    "entities": {
     "urls": [
      {
-      "description": "News bulletin Star Asia News Live \ud83d\udd34",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "description": "News bulletin Star Asia News Live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 59,
       "expanded_url": "https://x.com/i/broadcasts/2LPLYymWYVqrjP",
       "images": [
@@ -980,53 +706,53 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News bulletin Star Asia News Live \ud83d\udd34 https://t.co/RsMdRR7rQy",
+   "text": "News bulletin Star Asia News Live 🔴 https://t.co/RsMdRR7rQy",
    "url": "https://x.com/StarAsiatvHD/status/2116513222660366576"
   },
   {
    "author_id": "1646087345127690240",
-   "created_at": "2026-10-31T11:33:40.000Z",
+   "created_at": "2026-10-31T13:38:28.000Z",
    "edit_history_tweet_ids": [
-    "2116493807147422189"
+    "2116525213382787240"
    ],
    "entities": {
     "urls": [
      {
-      "description": "News bulletin Star Asia News Live \ud83d\udd34",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "description": "News bulletin Star Asia News Live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 59,
-      "expanded_url": "https://x.com/i/broadcasts/2ZBKQyvJYPmJMo",
+      "expanded_url": "https://x.com/i/broadcasts/2KolebLMeOQXjo",
       "images": [
        {
         "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116493810595254272/oPOQHz1P?format=jpg&name=orig",
+        "url": "https://pbs.twimg.com/news_img/2116525256013709312/GzpDNkmz?format=jpg&name=orig",
         "width": 1280
        },
        {
         "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116493810595254272/oPOQHz1P?format=jpg&name=150x150",
+        "url": "https://pbs.twimg.com/news_img/2116525256013709312/GzpDNkmz?format=jpg&name=150x150",
         "width": 150
        }
       ],
       "start": 36,
       "status": 200,
       "title": "Star Asia Tv",
-      "unwound_url": "https://x.com/i/broadcasts/2ZBKQyvJYPmJMo",
-      "url": "https://t.co/Rzpb4iievX"
+      "unwound_url": "https://x.com/i/broadcasts/2KolebLMeOQXjo",
+      "url": "https://t.co/xuuHnjDqHC"
      }
     ]
    },
-   "id": "2116493807147422189",
+   "id": "2116525213382787240",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 7,
+    "impression_count": 3,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News bulletin Star Asia News Live \ud83d\udd34 https://t.co/Rzpb4iievX",
-   "url": "https://x.com/StarAsiatvHD/status/2116493807147422189"
+   "text": "News bulletin Star Asia News Live 🔴 https://t.co/xuuHnjDqHC",
+   "url": "https://x.com/StarAsiatvHD/status/2116525213382787240"
   },
   {
    "author_id": "1339166129110065152",
@@ -1038,7 +764,7 @@
     "urls": [
      {
       "description": "GB News",
-      "display_url": "x.com/i/broadcasts/1\u2026",
+      "display_url": "x.com/i/broadcasts/1…",
       "end": 31,
       "expanded_url": "https://x.com/i/broadcasts/1RDGlARRZbVJL",
       "images": [
@@ -1064,8 +790,8 @@
    "id": "2116500467476054294",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 5335,
-    "like_count": 4,
+    "impression_count": 5668,
+    "like_count": 5,
     "quote_count": 0,
     "reply_count": 7,
     "retweet_count": 0
@@ -1083,7 +809,7 @@
     "urls": [
      {
       "description": "Sandesh News",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 36,
       "expanded_url": "https://x.com/i/broadcasts/2XyJPAYnJWogXJ",
       "images": [
@@ -1109,7 +835,7 @@
    "id": "2116522956218110111",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 388,
+    "impression_count": 410,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -1128,7 +854,7 @@
     "urls": [
      {
       "description": "MIDDAY NEWS 31/10/26",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 44,
       "expanded_url": "https://x.com/i/broadcasts/2aWbQaNMpLdOQn",
       "images": [
@@ -1154,7 +880,7 @@
    "id": "2116501114421903414",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1513,
+    "impression_count": 1554,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -1173,7 +899,7 @@
     "urls": [
      {
       "description": "NEWS HOUR: FG to demolish structures obstructing power transmission projects",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 100,
       "expanded_url": "https://x.com/i/broadcasts/2ybVQyzgRmvbQr",
       "images": [
@@ -1230,7 +956,7 @@
     "urls": [
      {
       "description": "#LIVE || Watch the top news and headlines at this hour | #ITLivestream",
-      "display_url": "x.com/i/broadcasts/2\u2026",
+      "display_url": "x.com/i/broadcasts/2…",
       "end": 94,
       "expanded_url": "https://x.com/i/broadcasts/2aWbQqgZnWPYgr",
       "images": [
@@ -1256,7 +982,7 @@
    "id": "2116522379644117397",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3358,
+    "impression_count": 3557,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -1264,6 +990,231 @@
    },
    "text": "#LIVE || Watch the top news and headlines at this hour | #ITLivestream https://t.co/JkMv4URx5X",
    "url": "https://x.com/IndiaToday/status/2116522379644117397"
+  },
+  {
+   "author_id": "158903216",
+   "created_at": "2026-10-31T14:35:38.000Z",
+   "edit_history_tweet_ids": [
+    "2116539599447118259"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "OUR BLACK NEWS with Ashyante Shantell Gill (Brooklyn Park, MN)",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 86,
+      "expanded_url": "https://x.com/i/broadcasts/1YxNrblapQQxw",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2115436624620265473/lhrmR2Jm?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2115436624620265473/lhrmR2Jm?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 63,
+      "status": 200,
+      "title": "Dr. Don Allen, Ed.D., Ed.S., M.A. Ed., MAT",
+      "unwound_url": "https://x.com/i/broadcasts/1YxNrblapQQxw",
+      "url": "https://t.co/ys8NQK9BR2"
+     }
+    ]
+   },
+   "id": "2116539599447118259",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "OUR BLACK NEWS with Ashyante Shantell Gill (Brooklyn Park, MN) https://t.co/ys8NQK9BR2",
+   "url": "https://x.com/DonAllen02/status/2116539599447118259"
+  },
+  {
+   "author_id": "1106368443668934657",
+   "created_at": "2026-10-31T14:01:44.000Z",
+   "edit_history_tweet_ids": [
+    "2116531066903379998"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🚨RTX 5080 & 5090 Prices Rising AGAIN! | THE STATE OF GAMING! PC Builds, Hardware News & AMA",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 123,
+      "expanded_url": "https://x.com/i/broadcasts/2QnmeKEzMoYdPW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116531070032334848/7hZ0RqCj?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116531070032334848/7hZ0RqCj?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 100,
+      "status": 200,
+      "title": "Chris Mizo",
+      "unwound_url": "https://x.com/i/broadcasts/2QnmeKEzMoYdPW",
+      "url": "https://t.co/xDoMeH5maI"
+     }
+    ]
+   },
+   "id": "2116531066903379998",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 115,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚨RTX 5080 &amp; 5090 Prices Rising AGAIN! | THE STATE OF GAMING! PC Builds, Hardware News &amp; AMA https://t.co/xDoMeH5maI",
+   "url": "https://x.com/MizoChris/status/2116531066903379998"
+  },
+  {
+   "author_id": "1603033354638708739",
+   "created_at": "2026-10-31T13:02:01.000Z",
+   "edit_history_tweet_ids": [
+    "2116516039047430452"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "PSB - 24-HOUR News/Commentary/Entertainment broadcaster hosted by EVERYDAY PATRIOTS. Tune in and join us! Visit our linktree in our profile.",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 164,
+      "expanded_url": "https://x.com/i/broadcasts/2nQYqKPEqJmQvk",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116516081611227138/F7oRHoGM?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116516081611227138/F7oRHoGM?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 141,
+      "status": 200,
+      "title": "Patriots' Soapbox News & Entertainment",
+      "unwound_url": "https://x.com/i/broadcasts/2nQYqKPEqJmQvk",
+      "url": "https://t.co/RBpkpwrUv3"
+     }
+    ]
+   },
+   "id": "2116516039047430452",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 44,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "PSB - 24-HOUR News/Commentary/Entertainment broadcaster hosted by EVERYDAY PATRIOTS. Tune in and join us! Visit our linktree in our profile. https://t.co/RBpkpwrUv3",
+   "url": "https://x.com/realPSBNews/status/2116516039047430452"
+  },
+  {
+   "author_id": "165877120",
+   "created_at": "2026-10-31T12:27:03.000Z",
+   "edit_history_tweet_ids": [
+    "2116507240546877761"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Streaming the Oleshky pets’ arrival in case there are any families on here searching for news that their furry pals have been saved.",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 156,
+      "expanded_url": "https://x.com/i/broadcasts/2rJaQZOqQpNJed",
+      "images": [
+       {
+        "height": 568,
+        "url": "https://pbs.twimg.com/news_img/2116507282997411840/arjpFF2_?format=jpg&name=orig",
+        "width": 320
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116507282997411840/arjpFF2_?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 133,
+      "status": 200,
+      "title": "Caitlin Doornbos",
+      "unwound_url": "https://x.com/i/broadcasts/2rJaQZOqQpNJed",
+      "url": "https://t.co/GG8pCO6Dn0"
+     }
+    ]
+   },
+   "id": "2116507240546877761",
+   "public_metrics": {
+    "bookmark_count": 5,
+    "impression_count": 5789,
+    "like_count": 158,
+    "quote_count": 5,
+    "reply_count": 7,
+    "retweet_count": 50
+   },
+   "text": "Streaming the Oleshky pets’ arrival in case there are any families on here searching for news that their furry pals have been saved. https://t.co/GG8pCO6Dn0",
+   "url": "https://x.com/CaitlinDoornbos/status/2116507240546877761"
+  },
+  {
+   "author_id": "1973788392845434880",
+   "created_at": "2026-10-31T14:00:54.000Z",
+   "edit_history_tweet_ids": [
+    "2116530859243094090"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Dad's out breaking shit again",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 53,
+      "expanded_url": "https://x.com/i/broadcasts/2XyJPoWVRgdVZj",
+      "images": [
+       {
+        "height": 1920,
+        "url": "https://pbs.twimg.com/news_img/2116530901756612608/ZZaQklVJ?format=jpg&name=orig",
+        "width": 1080
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116530901756612608/ZZaQklVJ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 30,
+      "status": 200,
+      "title": "ZeroFilterdad",
+      "unwound_url": "https://x.com/i/broadcasts/2XyJPoWVRgdVZj",
+      "url": "https://t.co/wC4sJzAmRf"
+     }
+    ]
+   },
+   "id": "2116530859243094090",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Dad's out breaking shit again https://t.co/wC4sJzAmRf",
+   "url": "https://x.com/Zerofilterdad/status/2116530859243094090"
   }
  ],
  "users": [
@@ -1271,91 +1222,31 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9491310,
+    "followers_count": 9491334,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7878,
-    "media_count": 752324,
-    "tweet_count": 1184001
+    "media_count": 752335,
+    "tweet_count": 1184016
    },
    "username": "ANI",
    "verified": true,
    "verified_type": "business"
   },
   {
-   "id": "1368737382",
-   "name": "Sambit Patra",
+   "id": "2026120953206321152",
+   "name": "John Gordon",
    "public_metrics": {
-    "followers_count": 8496621,
-    "following_count": 619,
-    "like_count": 11705,
-    "listed_count": 1929,
-    "media_count": 37998,
-    "tweet_count": 99517
+    "followers_count": 2442,
+    "following_count": 2862,
+    "like_count": 71,
+    "listed_count": 1,
+    "media_count": 190,
+    "tweet_count": 767
    },
-   "username": "sambitswaraj",
+   "username": "JohnGordonTV",
    "verified": true,
    "verified_type": "blue"
-  },
-  {
-   "id": "207809313",
-   "name": "BJP",
-   "public_metrics": {
-    "followers_count": 23033468,
-    "following_count": 4,
-    "like_count": 0,
-    "listed_count": 5778,
-    "media_count": 157163,
-    "tweet_count": 310475
-   },
-   "username": "BJP4India",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1618490684",
-   "name": "BJP Madhya Pradesh",
-   "public_metrics": {
-    "followers_count": 1329271,
-    "following_count": 217,
-    "like_count": 1120,
-    "listed_count": 421,
-    "media_count": 65975,
-    "tweet_count": 98595
-   },
-   "username": "BJP4MP",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "385909720",
-   "name": "BJP Gujarat",
-   "public_metrics": {
-    "followers_count": 1730851,
-    "following_count": 162,
-    "like_count": 3082,
-    "listed_count": 931,
-    "media_count": 53596,
-    "tweet_count": 97878
-   },
-   "username": "BJP4Gujarat",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "3091150576",
-   "name": "TRT World",
-   "public_metrics": {
-    "followers_count": 706691,
-    "following_count": 26,
-    "like_count": 0,
-    "listed_count": 3064,
-    "media_count": 150861,
-    "tweet_count": 287380
-   },
-   "username": "trtworld",
-   "verified": true,
-   "verified_type": "business"
   },
   {
    "id": "1572199491503022080",
@@ -1391,12 +1282,12 @@
    "id": "1893173304338313216",
    "name": "Radio Generation",
    "public_metrics": {
-    "followers_count": 9375,
+    "followers_count": 9374,
     "following_count": 402,
     "like_count": 2682,
     "listed_count": 8,
-    "media_count": 34989,
-    "tweet_count": 54123
+    "media_count": 34994,
+    "tweet_count": 54129
    },
    "username": "RadioGenKe",
    "verified": true,
@@ -1451,7 +1342,7 @@
    "id": "18535660",
    "name": "BJDichter - HonkingForFreedom.com",
    "public_metrics": {
-    "followers_count": 54728,
+    "followers_count": 54729,
     "following_count": 1874,
     "like_count": 70931,
     "listed_count": 153,
@@ -1478,8 +1369,23 @@
    "verified_type": "blue"
   },
   {
+   "id": "1658306279721377795",
+   "name": "sidebartv",
+   "public_metrics": {
+    "followers_count": 315,
+    "following_count": 180,
+    "like_count": 343,
+    "listed_count": 0,
+    "media_count": 227,
+    "tweet_count": 456
+   },
+   "username": "sidebartv180",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "299243451",
-   "name": "Unity America \ud83c\udf99",
+   "name": "Unity America 🎙",
    "public_metrics": {
     "followers_count": 425,
     "following_count": 302,
@@ -1515,8 +1421,8 @@
     "following_count": 1,
     "like_count": 35,
     "listed_count": 1,
-    "media_count": 4731,
-    "tweet_count": 4856
+    "media_count": 4732,
+    "tweet_count": 4857
    },
    "username": "StarAsiatvHD",
    "verified": true,
@@ -1526,12 +1432,12 @@
    "id": "1339166129110065152",
    "name": "GB News",
    "public_metrics": {
-    "followers_count": 991102,
+    "followers_count": 991106,
     "following_count": 50,
     "like_count": 0,
     "listed_count": 2726,
-    "media_count": 170913,
-    "tweet_count": 330671
+    "media_count": 170914,
+    "tweet_count": 330674
    },
    "username": "GBNEWS",
    "verified": true,
@@ -1545,8 +1451,8 @@
     "following_count": 2,
     "like_count": 1746,
     "listed_count": 379,
-    "media_count": 223687,
-    "tweet_count": 463734
+    "media_count": 223688,
+    "tweet_count": 463735
    },
    "username": "sandeshnews",
    "verified": true,
@@ -1556,7 +1462,7 @@
    "id": "714377713",
    "name": "UTV Ghana",
    "public_metrics": {
-    "followers_count": 1493347,
+    "followers_count": 1493351,
     "following_count": 205,
     "like_count": 270,
     "listed_count": 424,
@@ -1586,14 +1492,89 @@
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6275707,
+    "followers_count": 6275718,
     "following_count": 83,
     "like_count": 4431,
     "listed_count": 7342,
-    "media_count": 582197,
-    "tweet_count": 1543322
+    "media_count": 582200,
+    "tweet_count": 1543327
    },
    "username": "IndiaToday",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "158903216",
+   "name": "Dr. Don Allen, Ed.D., Ed.S., M.A. Ed., MAT",
+   "public_metrics": {
+    "followers_count": 1385,
+    "following_count": 2988,
+    "like_count": 11797,
+    "listed_count": 23,
+    "media_count": 2845,
+    "tweet_count": 11118
+   },
+   "username": "DonAllen02",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1106368443668934657",
+   "name": "Chris Mizo",
+   "public_metrics": {
+    "followers_count": 4945,
+    "following_count": 100,
+    "like_count": 16392,
+    "listed_count": 21,
+    "media_count": 7479,
+    "tweet_count": 16747
+   },
+   "username": "MizoChris",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1603033354638708739",
+   "name": "Patriots' Soapbox News & Entertainment",
+   "public_metrics": {
+    "followers_count": 2387,
+    "following_count": 461,
+    "like_count": 2386,
+    "listed_count": 6,
+    "media_count": 427,
+    "tweet_count": 11548
+   },
+   "username": "realPSBNews",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "165877120",
+   "name": "Caitlin Doornbos",
+   "public_metrics": {
+    "followers_count": 48814,
+    "following_count": 1380,
+    "like_count": 27665,
+    "listed_count": 559,
+    "media_count": 1623,
+    "tweet_count": 21477
+   },
+   "username": "CaitlinDoornbos",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1973788392845434880",
+   "name": "ZeroFilterdad",
+   "public_metrics": {
+    "followers_count": 15,
+    "following_count": 7,
+    "like_count": 0,
+    "listed_count": 0,
+    "media_count": 30,
+    "tweet_count": 54
+   },
+   "username": "Zerofilterdad",
    "verified": true,
    "verified_type": "blue"
   }

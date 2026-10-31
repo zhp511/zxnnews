@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T14:29:30Z",
+ "fetched_at": "2026-10-31T14:41:08Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,47 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2116538239121084416"
+      ]
+     },
+     "created_at": "2026-10-31T14:30:15.000Z",
+     "edit_history_tweet_ids": [
+      "2116538245534388307"
+     ],
+     "id": "2116538245534388307",
+     "in_reply_to_user_id": "1585840591811796993",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "@IronPatriotTrue good morning https://t.co/XJNyptjV6j",
+     "url": "https://x.com/i/status/2116538245534388307"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "media_key": "3_2116538239121084416",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HV90UIhX0AA4Rs5.jpg"
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2116538245534388307",
+    "oldest_id": "2116538245534388307",
+    "result_count": 1
+   }
+  },
   {
    "data": [
     {
