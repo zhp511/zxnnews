@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T01:30:00Z",
+ "fetched_at": "2026-10-31T02:46:00Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,143 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2116359824661262336"
+      ]
+     },
+     "created_at": "2026-10-31T02:41:18.000Z",
+     "edit_history_tweet_ids": [
+      "2116359830516408498"
+     ],
+     "id": "2116359830516408498",
+     "in_reply_to_user_id": "22093878",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "@dalytweet happy birthday Kay from https://t.co/XvBb4BOwhz",
+     "url": "https://x.com/i/status/2116359830516408498"
+    },
+    {
+     "created_at": "2026-10-31T02:40:36.000Z",
+     "edit_history_tweet_ids": [
+      "2116359654280425645"
+     ],
+     "id": "2116359654280425645",
+     "in_reply_to_user_id": "1041821790929133568",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116358928883679372",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@LillyRose_bh How r u doing",
+     "url": "https://x.com/i/status/2116359654280425645"
+    },
+    {
+     "created_at": "2026-10-31T01:56:31.000Z",
+     "edit_history_tweet_ids": [
+      "2116348561348501687"
+     ],
+     "id": "2116348561348501687",
+     "in_reply_to_user_id": "1077019129",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 18,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "@Arkypatriot I give u a follow",
+     "url": "https://x.com/i/status/2116348561348501687"
+    },
+    {
+     "created_at": "2026-10-31T01:49:13.000Z",
+     "edit_history_tweet_ids": [
+      "2116346723035677137"
+     ],
+     "id": "2116346723035677137",
+     "in_reply_to_user_id": "1077019129",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 27,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "@Arkypatriot good evening",
+     "url": "https://x.com/i/status/2116346723035677137"
+    },
+    {
+     "created_at": "2026-10-31T01:47:39.000Z",
+     "edit_history_tweet_ids": [
+      "2116346330381537443"
+     ],
+     "id": "2116346330381537443",
+     "in_reply_to_user_id": "1041821790929133568",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 21,
+      "like_count": 2,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "@LillyRose_bh good evening",
+     "url": "https://x.com/i/status/2116346330381537443"
+    },
+    {
+     "created_at": "2026-10-31T01:45:35.000Z",
+     "edit_history_tweet_ids": [
+      "2116345809742749779"
+     ],
+     "id": "2116345809742749779",
+     "in_reply_to_user_id": "2153502025",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 15,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "@capegunworks what up man",
+     "url": "https://x.com/i/status/2116345809742749779"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "media_key": "3_2116359824661262336",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HV7SDC3XsAABt1k.jpg"
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2116359830516408498",
+    "oldest_id": "2116345809742749779",
+    "result_count": 6
+   }
+  },
   {
    "data": [
     {
