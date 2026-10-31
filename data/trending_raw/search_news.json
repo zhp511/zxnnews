@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T19:36:03Z",
+ "fetched_at": "2026-10-31T20:37:30Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -135,50 +135,47 @@
    "url": "https://x.com/i/trending/2116562602008707247"
   },
   {
-   "category": "News",
+   "category": "Sports",
    "cluster_posts_results": [
     {
-     "post_id": "2116198213346529624"
+     "post_id": "2116574931874127955"
     },
     {
-     "post_id": "2116148225124286662"
+     "post_id": "2116558424850812970"
     },
     {
-     "post_id": "2116139151430914545"
+     "post_id": "2116569179503386756"
     },
     {
-     "post_id": "2116200464769511929"
+     "post_id": "2116551906986430780"
     },
     {
-     "post_id": "2116181580591063221"
+     "post_id": "2116564408797126722"
     },
     {
-     "post_id": "2116148225124286662"
+     "post_id": "2116574931874127955"
     },
     {
-     "post_id": "2116198213346529624"
+     "post_id": "2116552954270339452"
     },
     {
-     "post_id": "2116139151430914545"
+     "post_id": "2116600806849847471"
     },
     {
-     "post_id": "2116200464769511929"
+     "post_id": "2116557110687551626"
     },
     {
-     "post_id": "2116181580591063221"
+     "post_id": "2116539642904474058"
     }
    ],
    "contexts": {
     "entities": {
      "events": [
-      "war in Iran",
-      "midterms"
+      "U.S. elections"
      ],
      "organizations": [],
      "people": [],
-     "places": [
-      "Iran"
-     ],
+     "places": [],
      "products": []
     },
     "finance": {
@@ -188,16 +185,16 @@
      "teams": []
     },
     "topics": [
-     "Politics"
+     "Elections"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A stark photo from a California Chevron station shows gas hitting $6.49 a gallon, with families feeling the pinch as the Iran conflict drags on.",
-   "id": "2115936400314974671",
-   "name": "Gas Prices and Iran War Dominate Voter Concerns Before Midterms",
-   "summary": "High gas prices, fueled by the war in Iran that started with U.S. and Israeli strikes in February, top conservatives' worries as voters head to the polls Tuesday. Everyday people focus on pocketbook issues like $5.93 average regular gas in California—far above the national $4.22 to $4.31—rather than online debates over podcasters. While some blame influencers for Republicans' polling struggles, others like Megan Basham and Auron MacIntyre stress that face-to-face talks reveal inflation, fuel costs, and the war as the real voter priorities ahead of deciding Congress control.",
-   "updated_at": "2026-10-30T20:22:11.000Z",
-   "url": "https://x.com/i/trending/2115936400314974671"
+   "hook": "After weeks of non-stop political spots during every commercial break, college football fans are breathing a collective sigh of relief this Saturday.",
+   "id": "2116595351948083635",
+   "name": "College Football Fans Relieved as Political Ads End After Final Interrupted Saturday",
+   "summary": "With the 2026 midterm elections on November 3, viewers have endured heavy ad buys on sports broadcasts, especially college games drawing big crowds. Posts like the Reddit CFB account's 'Final Saturday of stupid political commercials' and Rodger Sherman's quip about ads from all 50 states capture the widespread exhaustion. Fans congratulated each other for surviving, with many praising the upcoming uninterrupted weekends and noting Republicans aired thousands more spots than Democrats on NFL and college games recently.",
+   "updated_at": "2026-10-31T18:24:30.000Z",
+   "url": "https://x.com/i/trending/2116595351948083635"
   },
   {
    "category": "News",
@@ -331,72 +328,6 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2116147387584676149"
-    },
-    {
-     "post_id": "2116173393733259630"
-    },
-    {
-     "post_id": "2116176789819257338"
-    },
-    {
-     "post_id": "2116193917339046018"
-    },
-    {
-     "post_id": "2116224452623024275"
-    },
-    {
-     "post_id": "2116147387584676149"
-    },
-    {
-     "post_id": "2116193917339046018"
-    },
-    {
-     "post_id": "2116173393733259630"
-    },
-    {
-     "post_id": "2116176789819257338"
-    },
-    {
-     "post_id": "2116184687433416915"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Cook Political Report"
-     ],
-     "people": [],
-     "places": [
-      "Colorado's 5th",
-      "Pennsylvania's 1st",
-      "South Carolina's 1st"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Just four days from the 2026 midterms, forecasters see clear momentum building for Democrats in the House battle.",
-   "id": "2116179724112429274",
-   "name": "Cook Report Shifts 12 House Races to Democrats Ahead of Midterms",
-   "summary": "The Cook Political Report now rates Democrats favored in 218 seats needed for a House majority, projecting gains of 12 to 25 seats for a likely total between 227 and 240. Recent shifts turned three GOP-held districts into toss-ups in Colorado’s 5th, Pennsylvania’s 1st, and South Carolina’s 1st, while Solid, Likely, and Lean Democratic seats total 222 against 195 for Republicans and 18 toss-ups. Other trackers like Decision Desk HQ give Democrats an 82% House win chance at 239 seats, with Senate forecasts showing potential pickups of 2 to 6 seats amid seven competitive races.",
-   "updated_at": "2026-10-30T19:21:27.000Z",
-   "url": "https://x.com/i/trending/2116179724112429274"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
      "post_id": "2116184699920118000"
     },
     {
@@ -459,6 +390,69 @@
    "summary": "The Dow Jones ETF is up 7.43% at $517.65, and the S&P 500 ETF has gained 10.17% to $755.45, showing market resilience despite critics blaming President Trump for derailing bigger gains with the war. A Politico column highlights Democrats' plans to use war powers votes and funding fights to push for an exit if they win midterms, though it questions their strategy against Iran's nuclear and missile threats. Hawkish voices argue diplomacy has failed and sustained pressure might topple the regime, while public reactions split on whether voters will reward anti-war positions or see them as weakness ahead of the elections.",
    "updated_at": "2026-10-30T20:58:50.000Z",
    "url": "https://x.com/i/trending/2116271772735782918"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2116223457629229292"
+    },
+    {
+     "post_id": "2116202525623758941"
+    },
+    {
+     "post_id": "2116213748134277487"
+    },
+    {
+     "post_id": "2116338614141632835"
+    },
+    {
+     "post_id": "2116160852256579933"
+    },
+    {
+     "post_id": "2115899510710792257"
+    },
+    {
+     "post_id": "2116516790096294245"
+    },
+    {
+     "post_id": "2116307284854747222"
+    },
+    {
+     "post_id": "2116284466431992234"
+    },
+    {
+     "post_id": "2116577357704143109"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Democrats",
+      "Republicans"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Pastor Josh Howerton urged believers to pick the lesser evil to block greater harm, sparking thousands of replies from fellow Christians wrestling with faith and the ballot.",
+   "id": "2116013265008365990",
+   "name": "Christians Debate Lesser-of-Two-Evils Voting Ahead of Midterms",
+   "summary": "Howerton of Lakepointe Church argued that refusing imperfect choices risks letting evil win, until Jesus returns, while distinguishing fallen candidates from those leading others into sin. Critics like author April Ajoy shared her switch to Democrats over care for the vulnerable, and Derek Ayala cited scriptures rejecting any endorsement of evil. Commentators such as Erick Erickson warned against endless compromise, highlighting tensions among evangelicals on abortion, religious liberty, and moral responsibility as November 3 nears.",
+   "updated_at": "2026-10-31T20:33:18.000Z",
+   "url": "https://x.com/i/trending/2116013265008365990"
   },
   {
    "category": "News",
@@ -598,51 +592,48 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2116516705258066037"
+     "post_id": "2116201429430108448"
     },
     {
-     "post_id": "2116575355893137421"
+     "post_id": "2116252077437686269"
     },
     {
-     "post_id": "2116557054546788489"
+     "post_id": "2116500482843934923"
     },
     {
-     "post_id": "2116532510184054948"
+     "post_id": "2116291816727138507"
     },
     {
-     "post_id": "2116504845527945536"
+     "post_id": "2116201429430108448"
     },
     {
-     "post_id": "2116527784675738071"
+     "post_id": "2116252077437686269"
     },
     {
-     "post_id": "2116545742106140804"
+     "post_id": "2116500482843934923"
     },
     {
-     "post_id": "2116605780740706430"
+     "post_id": "2116550021554356506"
     },
     {
-     "post_id": "2116607780425539615"
+     "post_id": "2116307567919923220"
     },
     {
-     "post_id": "2116555221250048033"
+     "post_id": "2116235792506835043"
     }
    ],
    "contexts": {
     "entities": {
-     "events": [],
+     "events": [
+      "midterm elections"
+     ],
      "organizations": [
-      "Cook Political Report"
+      "Republican Party"
      ],
      "people": [
-      "Angie Nixon",
-      "Ashley Moody",
-      "Ron DeSantis",
-      "Marco Rubio"
+      "John Thune"
      ],
-     "places": [
-      "Florida"
-     ],
+     "places": [],
      "products": []
     },
     "finance": {
@@ -656,12 +647,12 @@
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "State Rep. Angie Nixon saw a glimmer of hope when the Cook Political Report adjusted Florida's U.S. Senate race from Solid Republican to Likely Republican after months unchanged.",
-   "id": "2116607295136141638",
-   "name": "Cook Report Shifts Florida Senate Race to Likely Republican",
-   "summary": "The nonpartisan Cook Political Report made the shift as part of its final 2026 analysis, noting Democratic gains in red states like Florida and Nebraska. Nixon, who won her primary despite being outspent 19-to-1, highlighted recent polls showing her trailing incumbent Ashley Moody by just 2 to 4 points among likely voters. Early voting shows Republicans with a slight edge, but Nixon's grassroots push on lowering costs and fighting corruption has made the race tighter than expected in a GOP-leaning state. With early voting ending this weekend and Election Day on November 3, both campaigns are urging turnout in this high-stakes contest.",
-   "updated_at": "2026-10-31T19:12:10.000Z",
-   "url": "https://x.com/i/trending/2116607295136141638"
+   "hook": "With midterms days away, conservative voices are calling out Senate Majority Leader John Thune for not pushing through voter ID legislation despite Republican control of Congress.",
+   "id": "2116298066353610850",
+   "name": "Conservatives Criticize Thune Over Stalled SAVE America Act",
+   "summary": "The SAVE America Act, which requires proof of U.S. citizenship for federal voter registration and photo ID to vote, passed the House but stalled in the Senate. Thune supports the bill but says Republicans lack votes to beat a filibuster without Democrats, and he resists rule changes. Critics accuse him of failing his job amid polls showing 62-83% public support for its elements, while he focuses on campaigning in key states like Maine, Iowa, Ohio, and Alaska. The clash underscores Republican tensions on priorities as Election Day nears.",
+   "updated_at": "2026-10-31T18:24:25.000Z",
+   "url": "https://x.com/i/trending/2116298066353610850"
   }
  ]
 }
