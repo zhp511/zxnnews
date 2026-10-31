@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T01:06:00Z",
+ "fetched_at": "2026-10-31T01:26:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-30T22:06:00Z",
+  "start_time": "2026-10-30T22:26:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -11,6 +11,81 @@
   "user.fields": "name,username,verified,verified_type,public_metrics"
  },
  "data": [
+  {
+   "author_id": "352211941",
+   "created_at": "2026-10-31T01:13:30.000Z",
+   "edit_history_tweet_ids": [
+    "2116337736294806015"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 172,
+      "start": 166,
+      "tag": "Trump"
+     },
+     {
+      "end": 186,
+      "start": 173,
+      "tag": "Midterms2026"
+     },
+     {
+      "end": 195,
+      "start": 187,
+      "tag": "Florida"
+     },
+     {
+      "end": 209,
+      "start": 196,
+      "tag": "Election2026"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 164,
+      "id": "11134252",
+      "start": 152,
+      "username": "Republicans"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Midterm Rally in Daytona, Florida featuring President Donald J. Trump",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 234,
+      "expanded_url": "https://x.com/i/broadcasts/2POJKPlpQelLLP",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116281484730421248/X_-XCm0Z?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116281484730421248/X_-XCm0Z?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 211,
+      "status": 200,
+      "title": "Republicans",
+      "unwound_url": "https://x.com/i/broadcasts/2POJKPlpQelLLP",
+      "url": "https://t.co/kIGNNAlf0V"
+     }
+    ]
+   },
+   "id": "2116337736294806015",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 81,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "President Donald J. Trump headlines a midterm election rally in Daytona, Florida, as Election Day 2026 approaches.\n\n\ud83d\udcfa Watch the rally LIVE!\n\nStream via @Republicans\n\n#Trump #Midterms2026 #Florida #Election2026 \nhttps://t.co/kIGNNAlf0V",
+   "url": "https://x.com/SiriusXMPatriot/status/2116337736294806015"
+  },
   {
    "author_id": "1277195211907772416",
    "created_at": "2026-10-31T01:00:51.000Z",
@@ -52,7 +127,7 @@
    "id": "2116334553493356883",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 8,
+    "impression_count": 22,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -114,7 +189,7 @@
    "id": "2116318466248740876",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 78,
+    "impression_count": 82,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -171,7 +246,7 @@
    "id": "2116296573789343962",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 9,
+    "impression_count": 10,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -216,7 +291,7 @@
    "id": "2116308827570417890",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 32,
+    "impression_count": 33,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -271,51 +346,6 @@
    "url": "https://x.com/SherryWhy1/status/2116299810278096954"
   },
   {
-   "author_id": "1428076295007703043",
-   "created_at": "2026-10-30T23:58:36.000Z",
-   "edit_history_tweet_ids": [
-    "2116318886450876588"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: President Trump Holds a Rally in Daytona Beach, Florida",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 85,
-      "expanded_url": "https://x.com/i/broadcasts/1qKVmydoBVnxB",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116318888703209472/FKUGPxGG?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116318888703209472/FKUGPxGG?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 62,
-      "status": 200,
-      "title": "LindellTV",
-      "unwound_url": "https://x.com/i/broadcasts/1qKVmydoBVnxB",
-      "url": "https://t.co/thEvsqt0Rv"
-     }
-    ]
-   },
-   "id": "2116318886450876588",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 1048,
-    "like_count": 17,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 9
-   },
-   "text": "LIVE: President Trump Holds a Rally in Daytona Beach, Florida https://t.co/thEvsqt0Rv",
-   "url": "https://x.com/RealLindellTV/status/2116318886450876588"
-  },
-  {
    "author_id": "38425596",
    "created_at": "2026-10-30T23:32:30.000Z",
    "edit_history_tweet_ids": [
@@ -351,7 +381,7 @@
    "id": "2116312317553963061",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 7,
+    "impression_count": 8,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -359,6 +389,51 @@
    },
    "text": "\ud83c\uddfa\ud83c\uddf8 President Trump Participates in a Pool Spray, October 30, 2026\nhttps://t.co/2Djp07ycSV",
    "url": "https://x.com/AsenjoX/status/2116312317553963061"
+  },
+  {
+   "author_id": "1428076295007703043",
+   "created_at": "2026-10-30T23:58:36.000Z",
+   "edit_history_tweet_ids": [
+    "2116318886450876588"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: President Trump Holds a Rally in Daytona Beach, Florida",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 85,
+      "expanded_url": "https://x.com/i/broadcasts/1qKVmydoBVnxB",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116318888703209472/FKUGPxGG?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116318888703209472/FKUGPxGG?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 62,
+      "status": 200,
+      "title": "LindellTV",
+      "unwound_url": "https://x.com/i/broadcasts/1qKVmydoBVnxB",
+      "url": "https://t.co/thEvsqt0Rv"
+     }
+    ]
+   },
+   "id": "2116318886450876588",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 1121,
+    "like_count": 18,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 9
+   },
+   "text": "LIVE: President Trump Holds a Rally in Daytona Beach, Florida https://t.co/thEvsqt0Rv",
+   "url": "https://x.com/RealLindellTV/status/2116318886450876588"
   },
   {
    "author_id": "1310428943460294657",
@@ -396,7 +471,7 @@
    "id": "2116318185754673229",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 517,
+    "impression_count": 551,
     "like_count": 14,
     "quote_count": 0,
     "reply_count": 2,
@@ -404,96 +479,6 @@
    },
    "text": "LIVE: President Trump Holds a Rally in Daytona Beach, FL - 10/30/26 https://t.co/7eZxHdiGed",
    "url": "https://x.com/TheDDiscourse/status/2116318185754673229"
-  },
-  {
-   "author_id": "1337531542114078722",
-   "created_at": "2026-10-30T23:57:04.000Z",
-   "edit_history_tweet_ids": [
-    "2116318499274666211"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Did Founding Fathers See The Future? Did Documents of 1776 Say Donald Trump Would Be President?",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 119,
-      "expanded_url": "https://x.com/i/broadcasts/1DxLdZBwLQkxm",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116323937755754497/cEaEUDmL?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116323937755754497/cEaEUDmL?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 96,
-      "status": 200,
-      "title": "JovanHuttonPulitzer",
-      "unwound_url": "https://x.com/i/broadcasts/1DxLdZBwLQkxm",
-      "url": "https://t.co/xisAxNHRrL"
-     }
-    ]
-   },
-   "id": "2116318499274666211",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 928,
-    "like_count": 5,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Did Founding Fathers See The Future? Did Documents of 1776 Say Donald Trump Would Be President? https://t.co/xisAxNHRrL",
-   "url": "https://x.com/JovanHPulitzer/status/2116318499274666211"
-  },
-  {
-   "author_id": "61011257",
-   "created_at": "2026-10-30T22:44:50.000Z",
-   "edit_history_tweet_ids": [
-    "2116300321831952607"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: President Trump Holds a Rally in Daytona Beach, FL - 10/30/26",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 92,
-      "expanded_url": "https://x.com/i/broadcasts/1MKgNbRMwkkxL",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116212768709947392/qz_6f2IR?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116212768709947392/qz_6f2IR?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 69,
-      "status": 200,
-      "title": "RSBN \ud83c\uddfa\ud83c\uddf8",
-      "unwound_url": "https://x.com/i/broadcasts/1MKgNbRMwkkxL",
-      "url": "https://t.co/8F66e00mna"
-     }
-    ]
-   },
-   "id": "2116300321831952607",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 91,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "\ud83d\udea8LIVE: President Trump Holds a Rally in Daytona Beach, FL - 10/30/26 https://t.co/8F66e00mna",
-   "url": "https://x.com/realjamesrossi/status/2116300321831952607"
   },
   {
    "author_id": "1884415074489503744",
@@ -572,6 +557,96 @@
    "url": "https://x.com/Scramblepad/status/2116319012712050799"
   },
   {
+   "author_id": "1337531542114078722",
+   "created_at": "2026-10-30T23:57:04.000Z",
+   "edit_history_tweet_ids": [
+    "2116318499274666211"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Did Founding Fathers See The Future? Did Documents of 1776 Say Donald Trump Would Be President?",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 119,
+      "expanded_url": "https://x.com/i/broadcasts/1DxLdZBwLQkxm",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116323937755754497/cEaEUDmL?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116323937755754497/cEaEUDmL?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 96,
+      "status": 200,
+      "title": "JovanHuttonPulitzer",
+      "unwound_url": "https://x.com/i/broadcasts/1DxLdZBwLQkxm",
+      "url": "https://t.co/xisAxNHRrL"
+     }
+    ]
+   },
+   "id": "2116318499274666211",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 980,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Did Founding Fathers See The Future? Did Documents of 1776 Say Donald Trump Would Be President? https://t.co/xisAxNHRrL",
+   "url": "https://x.com/JovanHPulitzer/status/2116318499274666211"
+  },
+  {
+   "author_id": "61011257",
+   "created_at": "2026-10-30T22:44:50.000Z",
+   "edit_history_tweet_ids": [
+    "2116300321831952607"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: President Trump Holds a Rally in Daytona Beach, FL - 10/30/26",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 92,
+      "expanded_url": "https://x.com/i/broadcasts/1MKgNbRMwkkxL",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116212768709947392/qz_6f2IR?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116212768709947392/qz_6f2IR?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 69,
+      "status": 200,
+      "title": "RSBN \ud83c\uddfa\ud83c\uddf8",
+      "unwound_url": "https://x.com/i/broadcasts/1MKgNbRMwkkxL",
+      "url": "https://t.co/8F66e00mna"
+     }
+    ]
+   },
+   "id": "2116300321831952607",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 91,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "\ud83d\udea8LIVE: President Trump Holds a Rally in Daytona Beach, FL - 10/30/26 https://t.co/8F66e00mna",
+   "url": "https://x.com/realjamesrossi/status/2116300321831952607"
+  },
+  {
    "author_id": "2162812627",
    "created_at": "2026-10-30T23:58:30.000Z",
    "edit_history_tweet_ids": [
@@ -606,12 +681,12 @@
    },
    "id": "2116318863419703479",
    "public_metrics": {
-    "bookmark_count": 16,
-    "impression_count": 22600,
-    "like_count": 601,
+    "bookmark_count": 17,
+    "impression_count": 24671,
+    "like_count": 679,
     "quote_count": 4,
-    "reply_count": 21,
-    "retweet_count": 125
+    "reply_count": 23,
+    "retweet_count": 141
    },
    "text": "\ud83d\udd34 WATCH LIVE: President Trump speaks to supporters in DAYTONA BEACH, FL\n\n47 is pulling out ALL THE STOPS to ensure as many Republicans as possible win their races\n\n4 DAYS LEFT, PATRIOTS \ud83c\uddfa\ud83c\uddf8 https://t.co/vC6nB8lUPh",
    "url": "https://x.com/nicksortor/status/2116318863419703479"
@@ -664,7 +739,7 @@
    "id": "2116319433232965821",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 63,
+    "impression_count": 91,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 2,
@@ -763,6 +838,18 @@
       "display_url": "x.com/i/broadcasts/1\u2026",
       "end": 122,
       "expanded_url": "https://x.com/i/broadcasts/1vKpPNMBAQaKE",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116330761897070592/ImEcaH5D?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116330761897070592/ImEcaH5D?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
       "start": 99,
       "status": 200,
       "title": "MAGNO NEWS LIVE",
@@ -774,11 +861,11 @@
    "id": "2116330717617795492",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 147,
-    "like_count": 5,
+    "impression_count": 381,
+    "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 3
+    "retweet_count": 5
    },
    "text": "\ud83c\uddfa\ud83c\uddf8 [LIVE CAM 2] MAGA Majority Force Rally with President Donald J. Trump in Daytona Beach, Florida https://t.co/wfykf0uNmI",
    "url": "https://x.com/magnonewslive/status/2116330717617795492"
@@ -819,7 +906,7 @@
    "id": "2116320048197591123",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 13,
+    "impression_count": 15,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -895,7 +982,7 @@
    "id": "2116316043346055656",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 22,
+    "impression_count": 23,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -973,7 +1060,7 @@
    "id": "2116303879902261636",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 14,
+    "impression_count": 17,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -1018,11 +1105,11 @@
    "id": "2116304151902851433",
    "public_metrics": {
     "bookmark_count": 6,
-    "impression_count": 1818,
-    "like_count": 39,
+    "impression_count": 2083,
+    "like_count": 44,
     "quote_count": 5,
     "reply_count": 6,
-    "retweet_count": 42
+    "retweet_count": 47
    },
    "text": "Secret America Live! - Episode 271 - U.S. Army Digging Mass Graves! https://t.co/liTurRCZrz",
    "url": "https://x.com/SecretAmericaTV/status/2116304151902851433"
@@ -1063,7 +1150,7 @@
    "id": "2116312185211342935",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 9,
+    "impression_count": 10,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -1108,7 +1195,7 @@
    "id": "2116328293863666167",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 14,
+    "impression_count": 15,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -1153,7 +1240,7 @@
    "id": "2116334830187073780",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 147,
+    "impression_count": 217,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -1161,54 +1248,24 @@
    },
    "text": "Sandesh News https://t.co/EcjWTnHA3Z",
    "url": "https://x.com/sandeshnews/status/2116334830187073780"
-  },
-  {
-   "author_id": "1690964917174648832",
-   "created_at": "2026-10-31T00:59:04.000Z",
-   "edit_history_tweet_ids": [
-    "2116334101795885225"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Shadow News Tonight \u00b7 Fri Oct 30",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 56,
-      "expanded_url": "https://x.com/i/broadcasts/2brkkpEvkpMqlz",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116334144179286017/D2BnpGpp?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116334144179286017/D2BnpGpp?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 33,
-      "status": 200,
-      "title": "Shadow News",
-      "unwound_url": "https://x.com/i/broadcasts/2brkkpEvkpMqlz",
-      "url": "https://t.co/gR7gb3P0nY"
-     }
-    ]
-   },
-   "id": "2116334101795885225",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 2,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Shadow News Tonight \u00b7 Fri Oct 30 https://t.co/gR7gb3P0nY",
-   "url": "https://x.com/ShadowNewsHQ/status/2116334101795885225"
   }
  ],
  "users": [
+  {
+   "id": "352211941",
+   "name": "SiriusXM Patriot",
+   "public_metrics": {
+    "followers_count": 34412,
+    "following_count": 1105,
+    "like_count": 12548,
+    "listed_count": 179,
+    "media_count": 4015,
+    "tweet_count": 21199
+   },
+   "username": "SiriusXMPatriot",
+   "verified": true,
+   "verified_type": "blue"
+  },
   {
    "id": "1277195211907772416",
    "name": "The Men's Room!",
@@ -1218,7 +1275,7 @@
     "like_count": 3249,
     "listed_count": 0,
     "media_count": 406,
-    "tweet_count": 4062
+    "tweet_count": 4063
    },
    "username": "TheMensRoom13",
    "verified": true,
@@ -1243,8 +1300,8 @@
    "id": "1843425617993445377",
    "name": "Karen Doe",
    "public_metrics": {
-    "followers_count": 9435,
-    "following_count": 10367,
+    "followers_count": 9436,
+    "following_count": 10368,
     "like_count": 146578,
     "listed_count": 0,
     "media_count": 1133,
@@ -1275,29 +1332,14 @@
    "public_metrics": {
     "followers_count": 352,
     "following_count": 864,
-    "like_count": 180574,
+    "like_count": 180582,
     "listed_count": 1,
     "media_count": 2157,
-    "tweet_count": 163522
+    "tweet_count": 163526
    },
    "username": "SherryWhy1",
    "verified": false,
    "verified_type": "none"
-  },
-  {
-   "id": "1428076295007703043",
-   "name": "LindellTV",
-   "public_metrics": {
-    "followers_count": 120759,
-    "following_count": 292,
-    "like_count": 3550,
-    "listed_count": 302,
-    "media_count": 5728,
-    "tweet_count": 22934
-   },
-   "username": "RealLindellTV",
-   "verified": true,
-   "verified_type": "blue"
   },
   {
    "id": "38425596",
@@ -1315,6 +1357,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "1428076295007703043",
+   "name": "LindellTV",
+   "public_metrics": {
+    "followers_count": 120759,
+    "following_count": 292,
+    "like_count": 3550,
+    "listed_count": 302,
+    "media_count": 5728,
+    "tweet_count": 22934
+   },
+   "username": "RealLindellTV",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "1310428943460294657",
    "name": "The Daily Discourse",
    "public_metrics": {
@@ -1323,39 +1380,9 @@
     "like_count": 10470,
     "listed_count": 12,
     "media_count": 1288,
-    "tweet_count": 10352
+    "tweet_count": 10353
    },
    "username": "TheDDiscourse",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1337531542114078722",
-   "name": "JovanHuttonPulitzer",
-   "public_metrics": {
-    "followers_count": 150940,
-    "following_count": 419,
-    "like_count": 42651,
-    "listed_count": 295,
-    "media_count": 8255,
-    "tweet_count": 81478
-   },
-   "username": "JovanHPulitzer",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "61011257",
-   "name": "James Rossi \ud83c\uddfa\ud83c\uddf8",
-   "public_metrics": {
-    "followers_count": 5884,
-    "following_count": 7294,
-    "like_count": 223468,
-    "listed_count": 11,
-    "media_count": 8984,
-    "tweet_count": 294463
-   },
-   "username": "realjamesrossi",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1375,11 +1402,41 @@
    "verified_type": "none"
   },
   {
+   "id": "1337531542114078722",
+   "name": "JovanHuttonPulitzer",
+   "public_metrics": {
+    "followers_count": 150941,
+    "following_count": 419,
+    "like_count": 42651,
+    "listed_count": 295,
+    "media_count": 8255,
+    "tweet_count": 81478
+   },
+   "username": "JovanHPulitzer",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "61011257",
+   "name": "James Rossi \ud83c\uddfa\ud83c\uddf8",
+   "public_metrics": {
+    "followers_count": 5885,
+    "following_count": 7294,
+    "like_count": 223468,
+    "listed_count": 11,
+    "media_count": 8984,
+    "tweet_count": 294463
+   },
+   "username": "realjamesrossi",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "2162812627",
    "name": "Nick Sortor",
    "public_metrics": {
-    "followers_count": 1633851,
-    "following_count": 19084,
+    "followers_count": 1633853,
+    "following_count": 19083,
     "like_count": 105021,
     "listed_count": 5892,
     "media_count": 17654,
@@ -1393,7 +1450,7 @@
    "id": "1900375238548086788",
    "name": "MAGNO NEWS LIVE",
    "public_metrics": {
-    "followers_count": 2408,
+    "followers_count": 2407,
     "following_count": 276,
     "like_count": 28,
     "listed_count": 17,
@@ -1408,7 +1465,7 @@
    "id": "1358684223759024129",
    "name": "JV",
    "public_metrics": {
-    "followers_count": 3475,
+    "followers_count": 3472,
     "following_count": 12,
     "like_count": 23,
     "listed_count": 14,
@@ -1423,12 +1480,12 @@
    "id": "2043257458475323392",
    "name": "MAGA\ud83c\uddfa\ud83c\uddf8\u2665\ufe0f",
    "public_metrics": {
-    "followers_count": 3434,
+    "followers_count": 3435,
     "following_count": 321,
-    "like_count": 5279,
+    "like_count": 5280,
     "listed_count": 3,
-    "media_count": 1577,
-    "tweet_count": 3043
+    "media_count": 1584,
+    "tweet_count": 3051
    },
    "username": "maga543_Q",
    "verified": true,
@@ -1443,7 +1500,7 @@
     "like_count": 9088,
     "listed_count": 2,
     "media_count": 573,
-    "tweet_count": 28598
+    "tweet_count": 28644
    },
    "username": "Politics_Ja",
    "verified": true,
@@ -1483,7 +1540,7 @@
    "id": "1783593837052465152",
    "name": "Secret America Live!",
    "public_metrics": {
-    "followers_count": 11222,
+    "followers_count": 11224,
     "following_count": 703,
     "like_count": 12135,
     "listed_count": 8,
@@ -1531,26 +1588,11 @@
     "followers_count": 520555,
     "following_count": 2,
     "like_count": 1746,
-    "listed_count": 379,
+    "listed_count": 380,
     "media_count": 223617,
     "tweet_count": 463655
    },
    "username": "sandeshnews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1690964917174648832",
-   "name": "Shadow News",
-   "public_metrics": {
-    "followers_count": 619,
-    "following_count": 329,
-    "like_count": 1002,
-    "listed_count": 4,
-    "media_count": 8694,
-    "tweet_count": 22505
-   },
-   "username": "ShadowNewsHQ",
    "verified": true,
    "verified_type": "blue"
   }

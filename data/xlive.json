@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-31T01:06:47Z",
- "searched_at": "2026-10-31T01:06:00Z",
+ "built_at": "2026-10-31T01:26:29Z",
+ "searched_at": "2026-10-31T01:26:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,6 +35,16 @@
    "assumed_live_until": "2026-10-31T03:45:37Z"
   },
   {
+   "post_id": "2116319433232965821",
+   "post_url": "https://x.com/KarenDoe50/status/2116319433232965821",
+   "name": "Karen Doe",
+   "username": "KarenDoe50",
+   "verified_type": "none",
+   "text": "President Trump is on stage NOW! Trump Rally #TrumpRally #VoteRed FL https://t.co/gj11qk8nzS",
+   "started_at": "2026-10-31T00:00:46.000Z",
+   "assumed_live_until": "2026-10-31T03:00:46Z"
+  },
+  {
    "post_id": "2116318466248740876",
    "post_url": "https://x.com/spnctynews/status/2116318466248740876",
    "name": "Spin City News",
@@ -45,14 +55,14 @@
    "assumed_live_until": "2026-10-31T02:56:56Z"
   },
   {
-   "post_id": "2116319433232965821",
-   "post_url": "https://x.com/KarenDoe50/status/2116319433232965821",
-   "name": "Karen Doe",
-   "username": "KarenDoe50",
-   "verified_type": "none",
-   "text": "President Trump is on stage NOW! Trump Rally #TrumpRally #VoteRed FL https://t.co/gj11qk8nzS",
-   "started_at": "2026-10-31T00:00:46.000Z",
-   "assumed_live_until": "2026-10-31T03:00:46Z"
+   "post_id": "2116337736294806015",
+   "post_url": "https://x.com/SiriusXMPatriot/status/2116337736294806015",
+   "name": "SiriusXM Patriot",
+   "username": "SiriusXMPatriot",
+   "verified_type": "blue",
+   "text": "President Donald J. Trump headlines a midterm election rally in Daytona, Florida, as Election Day 2026 approaches.\n\n📺 Watch the rally LIVE!\n\nStream via @Republicans\n\n#Trump #Midterms2026 #Florida #Election2026 \nhttps://t.co/kIGNNAlf0V",
+   "started_at": "2026-10-31T01:13:30.000Z",
+   "assumed_live_until": "2026-10-31T04:13:30Z"
   },
   {
    "post_id": "2116319872929927407",
@@ -73,16 +83,6 @@
    "text": "https://t.co/dzcV9WnqYI \n\nPRESIDENT TRUMP MAGA MIDTERM RALLY IN DAYTONA BEACH, FL!",
    "started_at": "2026-10-30T23:18:38.000Z",
    "assumed_live_until": "2026-10-31T02:18:38Z"
-  },
-  {
-   "post_id": "2116316043346055656",
-   "post_url": "https://x.com/Politics_Ja/status/2116316043346055656",
-   "name": "Politics Matter Jamaica",
-   "username": "Politics_Ja",
-   "verified_type": "blue",
-   "text": "Senator Marlon Morgan on Hurricane Melissa Donations and the J$1.7 Billion Question https://t.co/VVinWC7P8A",
-   "started_at": "2026-10-30T23:47:18.000Z",
-   "assumed_live_until": "2026-10-31T02:47:18Z"
   }
  ]
 }
