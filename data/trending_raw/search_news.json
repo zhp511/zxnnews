@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T08:32:52Z",
+ "fetched_at": "2026-10-31T10:37:30Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -304,13 +304,13 @@
    "contexts": {
     "entities": {
      "events": [
-      "2026 midterm elections"
+      "United States Midterm Elections"
      ],
-     "organizations": [
-      "X"
-     ],
+     "organizations": [],
      "people": [],
-     "places": [],
+     "places": [
+      "United States"
+     ],
      "products": []
     },
     "finance": {
@@ -459,72 +459,6 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2116147387584676149"
-    },
-    {
-     "post_id": "2116173393733259630"
-    },
-    {
-     "post_id": "2116176789819257338"
-    },
-    {
-     "post_id": "2116193917339046018"
-    },
-    {
-     "post_id": "2116224452623024275"
-    },
-    {
-     "post_id": "2116147387584676149"
-    },
-    {
-     "post_id": "2116193917339046018"
-    },
-    {
-     "post_id": "2116173393733259630"
-    },
-    {
-     "post_id": "2116176789819257338"
-    },
-    {
-     "post_id": "2116184687433416915"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Cook Political Report"
-     ],
-     "people": [],
-     "places": [
-      "Colorado's 5th",
-      "Pennsylvania's 1st",
-      "South Carolina's 1st"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Just four days from the 2026 midterms, forecasters see clear momentum building for Democrats in the House battle.",
-   "id": "2116179724112429274",
-   "name": "Cook Report Shifts 12 House Races to Democrats Ahead of Midterms",
-   "summary": "The Cook Political Report now rates Democrats favored in 218 seats needed for a House majority, projecting gains of 12 to 25 seats for a likely total between 227 and 240. Recent shifts turned three GOP-held districts into toss-ups in Colorado’s 5th, Pennsylvania’s 1st, and South Carolina’s 1st, while Solid, Likely, and Lean Democratic seats total 222 against 195 for Republicans and 18 toss-ups. Other trackers like Decision Desk HQ give Democrats an 82% House win chance at 239 seats, with Senate forecasts showing potential pickups of 2 to 6 seats amid seven competitive races.",
-   "updated_at": "2026-10-30T19:21:27.000Z",
-   "url": "https://x.com/i/trending/2116179724112429274"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
      "post_id": "2116184699920118000"
     },
     {
@@ -651,6 +585,76 @@
    "summary": "On October 28, former President Obama rallied support for Sen. Jon Ossoff and Democrats, urging Americans to rebuild with joy and generosity as early voting ended. Critics online quickly resurfaced his past sharp remarks—like 'bitter clingers' and 'you didn't build that'—questioning the sincerity of his unity plea. Supporters highlighted his enduring popularity and crowd-drawing power, while Vice President JD Vance separately condemned those who divide by skin color; the back-and-forth underscores persistent partisan tensions in campaign season.",
    "updated_at": "2026-10-30T21:34:16.000Z",
    "url": "https://x.com/i/trending/2115972943142330729"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2116252077437686269"
+    },
+    {
+     "post_id": "2116450938961474016"
+    },
+    {
+     "post_id": "2116201429430108448"
+    },
+    {
+     "post_id": "2116394166733402273"
+    },
+    {
+     "post_id": "2116394166733402273"
+    },
+    {
+     "post_id": "2116450949082251429"
+    },
+    {
+     "post_id": "2116403686142525563"
+    },
+    {
+     "post_id": "2116403305249407015"
+    },
+    {
+     "post_id": "2116450938961474016"
+    },
+    {
+     "post_id": "2116437973436858434"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "SAVE Act"
+     ],
+     "organizations": [],
+     "people": [
+      "John Thune",
+      "Donald Trump",
+      "Chuck Schumer",
+      "Mitch McConnell"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Conservatives are calling out Senate Majority Leader John Thune for not pushing the SAVE Act, pointing to his big donations from companies like Goldman Sachs and Chevron as the reason.",
+   "id": "2116460041544847867",
+   "name": "John Thune Faces Backlash Over Corporate Donations and SAVE Act Delay",
+   "summary": "A graphic listing over $1.1 million in PAC contributions to Thune from firms including Comcast, ExxonMobil, Google, and Meta has fueled accusations that he's prioritizing donors over the GOP base. Critics highlight his reluctance to advance the SAVE America Act, which requires proof of citizenship to register for federal elections and passed the House but stalls in the Senate. Thune responded by describing his approach as focused on campaigning and building resources for Republicans, while facing calls to be primaried and labels like RINO amid midterm tensions.",
+   "updated_at": "2026-10-31T09:25:21.000Z",
+   "url": "https://x.com/i/trending/2116460041544847867"
   }
- ]
+ ],
+ "meta": {
+  "result_count": 10
+ }
 }
