@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T04:26:30Z",
+ "fetched_at": "2026-10-31T05:04:05Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T01:26:00Z",
+  "start_time": "2026-10-31T02:04:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,11 +17,38 @@
    "edit_history_tweet_ids": [
     "2116380418295632221"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Episode#475 Artemis III Astronauts Meet Trump at White House",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 84,
+      "expanded_url": "https://x.com/i/broadcasts/1qGvverWyleGB",
+      "images": [
+       {
+        "height": 1280,
+        "url": "https://pbs.twimg.com/news_img/2116380420480864256/GOg36S4j?format=jpg&name=orig",
+        "width": 720
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116380420480864256/GOg36S4j?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 61,
+      "status": 200,
+      "title": "Average Day Joe's",
+      "unwound_url": "https://x.com/i/broadcasts/1qGvverWyleGB",
+      "url": "https://t.co/40o3VaCvOW"
+     }
+    ]
+   },
    "id": "2116380418295632221",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 7,
-    "like_count": 0,
+    "impression_count": 9,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
@@ -35,10 +62,37 @@
    "edit_history_tweet_ids": [
     "2116373867845611681"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Election Day in 6 Days! Let's Go Over the Texas Senate Race! James Talarico vs Ken Paxton!",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 114,
+      "expanded_url": "https://x.com/i/broadcasts/1XxygwWQvpgGM",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116373910665220096/1AdYDjs5?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116373910665220096/1AdYDjs5?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 91,
+      "status": 200,
+      "title": "Radell PPBD",
+      "unwound_url": "https://x.com/i/broadcasts/1XxygwWQvpgGM",
+      "url": "https://t.co/l2j8LRdJl5"
+     }
+    ]
+   },
    "id": "2116373867845611681",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 35,
+    "impression_count": 42,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 1,
@@ -48,69 +102,30 @@
    "url": "https://x.com/PPolBreakdown/status/2116373867845611681"
   },
   {
-   "author_id": "1982030845138608128",
-   "created_at": "2026-10-31T01:50:42.000Z",
-   "edit_history_tweet_ids": [
-    "2116347099042455740"
-   ],
-   "id": "2116347099042455740",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 178,
-    "like_count": 2,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "News Leader LIVE: देश-दुनिया की हर खबर | Breaking News     \n\n#NewsLeader | Hindi News | Hindi Updates | #AbBaariAapki\n\nhttps://t.co/s59NFLviBi",
-   "url": "https://x.com/NewsLeaderLive/status/2116347099042455740"
-  },
-  {
-   "author_id": "1982030845138608128",
-   "created_at": "2026-10-31T01:50:01.000Z",
-   "edit_history_tweet_ids": [
-    "2116346923841904812"
-   ],
-   "id": "2116346923841904812",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 161,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "News Leader LIVE: देश-दुनिया की हर खबर | Breaking News  UP MLC Elections 2026 Voting Updates | BJP | SP | #NewsLeader https://t.co/s59NFLuKLK",
-   "url": "https://x.com/NewsLeaderLive/status/2116346923841904812"
-  },
-  {
-   "author_id": "898762021",
-   "created_at": "2026-10-31T03:57:05.000Z",
-   "edit_history_tweet_ids": [
-    "2116378902528688311"
-   ],
-   "id": "2116378902528688311",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 37,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "[REPLAY]  Breaking News Now Feat. Max Garland with Supply Chain Dive https://t.co/rmmHZ860TU",
-   "url": "https://x.com/ScottWLuton/status/2116378902528688311"
-  },
-  {
    "author_id": "903316311517921280",
    "created_at": "2026-10-31T03:57:05.000Z",
    "edit_history_tweet_ids": [
     "2116378904021860370"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "[REPLAY] Breaking News Now Feat. Max Garland with Supply Chain Dive",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 92,
+      "expanded_url": "https://x.com/i/broadcasts/1qxvverWyoexB",
+      "start": 69,
+      "status": 200,
+      "title": "Supply Chain Now",
+      "unwound_url": "https://x.com/i/broadcasts/1qxvverWyoexB",
+      "url": "https://t.co/87awWV38gU"
+     }
+    ]
+   },
    "id": "2116378904021860370",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 39,
+    "impression_count": 44,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -120,76 +135,127 @@
    "url": "https://x.com/_supplychainnow/status/2116378904021860370"
   },
   {
+   "author_id": "898762021",
+   "created_at": "2026-10-31T03:57:05.000Z",
+   "edit_history_tweet_ids": [
+    "2116378902528688311"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "[REPLAY] Breaking News Now Feat. Max Garland with Supply Chain Dive",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 92,
+      "expanded_url": "https://x.com/i/broadcasts/1oKMvNPOZARGQ",
+      "start": 69,
+      "status": 200,
+      "title": "Scott W. Luton",
+      "unwound_url": "https://x.com/i/broadcasts/1oKMvNPOZARGQ",
+      "url": "https://t.co/rmmHZ860TU"
+     }
+    ]
+   },
+   "id": "2116378902528688311",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 64,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "[REPLAY]  Breaking News Now Feat. Max Garland with Supply Chain Dive https://t.co/rmmHZ860TU",
+   "url": "https://x.com/ScottWLuton/status/2116378902528688311"
+  },
+  {
+   "author_id": "29481688",
+   "created_at": "2026-10-31T04:30:00.000Z",
+   "edit_history_tweet_ids": [
+    "2116387186933211403"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "President Trump Participates in a Pool Spray, October 30, 2026",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 87,
+      "expanded_url": "https://x.com/i/broadcasts/1aJbdEjyzLRKX",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116258153419706368/bvyP6ok_?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116258153419706368/bvyP6ok_?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 64,
+      "status": 200,
+      "title": "The White House",
+      "unwound_url": "https://x.com/i/broadcasts/1aJbdEjyzLRKX",
+      "url": "https://t.co/DTY6xfjaBV"
+     }
+    ]
+   },
+   "id": "2116387186933211403",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 24,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\u200cPresident Trump Participates in a Pool Spray, October 30, 2026 https://t.co/DTY6xfjaBV",
+   "url": "https://x.com/MrGrahamHodsdon/status/2116387186933211403"
+  },
+  {
    "author_id": "1900375238548086788",
    "created_at": "2026-10-31T02:59:05.000Z",
    "edit_history_tweet_ids": [
     "2116364306027823411"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "\ud83c\uddfa\ud83c\uddf8 President Trump arrives in Palm Beach after MAGA Rally in Daytona Beach, Florida [LIVE]",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 114,
+      "expanded_url": "https://x.com/i/broadcasts/1AGRnZQYANyGl",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116364308498247680/WZm054KQ?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116364308498247680/WZm054KQ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 91,
+      "status": 200,
+      "title": "MAGNO NEWS LIVE",
+      "unwound_url": "https://x.com/i/broadcasts/1AGRnZQYANyGl",
+      "url": "https://t.co/fbJCIO1G60"
+     }
+    ]
+   },
    "id": "2116364306027823411",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 333,
-    "like_count": 5,
+    "impression_count": 387,
+    "like_count": 6,
     "quote_count": 0,
-    "reply_count": 0,
+    "reply_count": 1,
     "retweet_count": 2
    },
-   "text": "🇺🇸 President Trump arrives in Palm Beach after MAGA Rally in Daytona Beach, Florida [LIVE] https://t.co/fbJCIO1G60",
+   "text": "\ud83c\uddfa\ud83c\uddf8 President Trump arrives in Palm Beach after MAGA Rally in Daytona Beach, Florida [LIVE] https://t.co/fbJCIO1G60",
    "url": "https://x.com/magnonewslive/status/2116364306027823411"
-  },
-  {
-   "author_id": "20751449",
-   "created_at": "2026-10-31T02:00:49.000Z",
-   "edit_history_tweet_ids": [
-    "2116349642191614007"
-   ],
-   "id": "2116349642191614007",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 7180,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "U.S. President Donald Trump holds midterm rally in Rock Hill, South Carolina https://t.co/kRVPPqPZaH",
-   "url": "https://x.com/the_hindu/status/2116349642191614007"
-  },
-  {
-   "author_id": "1691221342476283906",
-   "created_at": "2026-10-31T02:01:18.000Z",
-   "edit_history_tweet_ids": [
-    "2116349763860009318"
-   ],
-   "id": "2116349763860009318",
-   "public_metrics": {
-    "bookmark_count": 4,
-    "impression_count": 439,
-    "like_count": 14,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Jubilee Debate: Feminists vs Manosphere Reaction  - THE SARTAIN REPORT https://t.co/91mTCF1FAP",
-   "url": "https://x.com/SartainPodcast/status/2116349763860009318"
-  },
-  {
-   "author_id": "1461110373679910920",
-   "created_at": "2026-10-31T02:00:05.000Z",
-   "edit_history_tweet_ids": [
-    "2116349457507954916"
-   ],
-   "id": "2116349457507954916",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 131,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Debate On Existance Of God Awais Iqbal &amp; Saeed Wattoo https://t.co/HqVmQaXtsW",
-   "url": "https://x.com/ExMuslimSameer/status/2116349457507954916"
   },
   {
    "author_id": "1928458070608519168",
@@ -197,6 +263,33 @@
    "edit_history_tweet_ids": [
     "2116361885888962978"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Politics and Games Pt. 2 | AF vs MAGA",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 61,
+      "expanded_url": "https://x.com/i/broadcasts/2aWbLbqnnvbzyQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116361929749098496/q3w6Rjn8?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116361929749098496/q3w6Rjn8?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 38,
+      "status": 200,
+      "title": "Maricco N. Allen",
+      "unwound_url": "https://x.com/i/broadcasts/2aWbLbqnnvbzyQ",
+      "url": "https://t.co/ov5kpfnF1M"
+     }
+    ]
+   },
    "id": "2116361885888962978",
    "public_metrics": {
     "bookmark_count": 0,
@@ -210,40 +303,114 @@
    "url": "https://x.com/mariccoa1/status/2116361885888962978"
   },
   {
+   "author_id": "1772513122735300608",
+   "created_at": "2026-10-31T04:42:46.000Z",
+   "edit_history_tweet_ids": [
+    "2116390400684642412"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 99,
+      "start": 87,
+      "tag": "soniagandhi"
+     },
+     {
+      "end": 112,
+      "start": 100,
+      "tag": "rahulgandhi"
+     },
+     {
+      "end": 131,
+      "start": 113,
+      "tag": "mallikarjunkharge"
+     },
+     {
+      "end": 145,
+      "start": 132,
+      "tag": "indiragandhi"
+     },
+     {
+      "end": 162,
+      "start": 146,
+      "tag": "deathaniversary"
+     },
+     {
+      "end": 169,
+      "start": 163,
+      "tag": "delhi"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE | Congress Leaders Pay tribute to Indira Gandhi at Indira Gandhi Memorial | Delhi #soniagandhi #rahulgandhi #mallikarjunkharge #indiragandhi #deathaniversary #delhi",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 193,
+      "expanded_url": "https://x.com/i/broadcasts/1XxygwWQvddGM",
+      "start": 170,
+      "status": 200,
+      "title": "The Savera Times",
+      "unwound_url": "https://x.com/i/broadcasts/1XxygwWQvddGM",
+      "url": "https://t.co/I9bDGIh8pZ"
+     }
+    ]
+   },
+   "id": "2116390400684642412",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 158,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE | Congress Leaders Pay tribute to Indira Gandhi at Indira Gandhi Memorial | Delhi #soniagandhi #rahulgandhi #mallikarjunkharge #indiragandhi #deathaniversary #delhi https://t.co/I9bDGIh8pZ",
+   "url": "https://x.com/thesavera_times/status/2116390400684642412"
+  },
+  {
    "author_id": "16116288",
    "created_at": "2026-10-31T02:30:06.000Z",
    "edit_history_tweet_ids": [
     "2116357014431670645"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 113,
+      "expanded_url": "https://x.com/i/broadcasts/1qxoNYlnAXkJv",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116357016998572032/3Q8jrMOG?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116357016998572032/3Q8jrMOG?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "rolandsmartin",
+      "unwound_url": "https://x.com/i/broadcasts/1qxoNYlnAXkJv",
+      "url": "https://t.co/LMrw4rdvGg"
+     }
+    ]
+   },
    "id": "2116357014431670645",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1254,
+    "impression_count": 1379,
     "like_count": 5,
     "quote_count": 0,
-    "reply_count": 0,
+    "reply_count": 1,
     "retweet_count": 5
    },
    "text": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push https://t.co/LMrw4rdvGg",
    "url": "https://x.com/rolandsmartin/status/2116357014431670645"
-  },
-  {
-   "author_id": "68146122",
-   "created_at": "2026-10-31T02:00:05.000Z",
-   "edit_history_tweet_ids": [
-    "2116349458984452375"
-   ],
-   "id": "2116349458984452375",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1475,
-    "like_count": 27,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 16
-   },
-   "text": "PSP Ep 111: Pray, America Live Prayercast 10/30/26 https://t.co/y5unKHOM8e",
-   "url": "https://x.com/Patriotdadev77/status/2116349458984452375"
   },
   {
    "author_id": "1854373842480779270",
@@ -251,10 +418,37 @@
    "edit_history_tweet_ids": [
     "2116364202507981231"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "America First Chess Arena 5|5",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 77,
+      "expanded_url": "https://x.com/i/broadcasts/2gqWvvglzjeOZy",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116363937310461953/Bjj7b3he?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116363937310461953/Bjj7b3he?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 54,
+      "status": 200,
+      "title": "Alexander",
+      "unwound_url": "https://x.com/i/broadcasts/2gqWvvglzjeOZy",
+      "url": "https://t.co/Y6GKrOIXoC"
+     }
+    ]
+   },
    "id": "2116364202507981231",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 269,
+    "impression_count": 308,
     "like_count": 13,
     "quote_count": 0,
     "reply_count": 3,
@@ -264,39 +458,34 @@
    "url": "https://x.com/AlexanderLotus/status/2116364202507981231"
   },
   {
-   "author_id": "1976296987482808321",
-   "created_at": "2026-10-31T02:00:05.000Z",
-   "edit_history_tweet_ids": [
-    "2116349459793903937"
-   ],
-   "id": "2116349459793903937",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 453,
-    "like_count": 12,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 3
-   },
-   "text": "PSP Ep 111: Pray, America Live Prayercast 10/30/26 https://t.co/Kfkoqkylk0",
-   "url": "https://x.com/PSPod25/status/2116349459793903937"
-  },
-  {
    "author_id": "4751337434",
    "created_at": "2026-10-31T04:03:27.000Z",
    "edit_history_tweet_ids": [
     "2116380506858385587"
    ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 69,
+      "expanded_url": "https://x.com/i/broadcasts/1DGleVlqoaqJ",
+      "start": 46,
+      "status": 404,
+      "unwound_url": "https://x.com/i/broadcasts/1DGleVlqoaqJ",
+      "url": "https://t.co/wfnAYemYhw"
+     }
+    ]
+   },
    "id": "2116380506858385587",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 8,
+    "impression_count": 9,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Go, Go Elon Musk Star Link , Go, Go America!! https://t.co/wfnAYemYhw💪🏻♥️🇺🇸🛡️🫡💪🏻✅",
+   "text": "Go, Go Elon Musk Star Link , Go, Go America!! https://t.co/wfnAYemYhw\ud83d\udcaa\ud83c\udffb\u2665\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83d\udee1\ufe0f\ud83e\udee1\ud83d\udcaa\ud83c\udffb\u2705",
    "url": "https://x.com/Coldest_Hearted/status/2116380506858385587"
   },
   {
@@ -305,71 +494,44 @@
    "edit_history_tweet_ids": [
     "2116379623441469622"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 60,
+      "expanded_url": "https://x.com/i/broadcasts/1qJVmmNoWjYGB",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116379625958100992/RAj6jwiG?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116379625958100992/RAj6jwiG?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 37,
+      "status": 200,
+      "title": "Real America's Voice (RAV)",
+      "unwound_url": "https://x.com/i/broadcasts/1qJVmmNoWjYGB",
+      "url": "https://t.co/8l3LmyNF5W"
+     }
+    ]
+   },
    "id": "2116379623441469622",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 2472,
-    "like_count": 4,
+    "impression_count": 3167,
+    "like_count": 11,
     "quote_count": 0,
     "reply_count": 1,
-    "retweet_count": 2
+    "retweet_count": 4
    },
    "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/8l3LmyNF5W",
    "url": "https://x.com/RealAmVoice/status/2116379623441469622"
-  },
-  {
-   "author_id": "2256875550",
-   "created_at": "2026-10-31T01:55:51.000Z",
-   "edit_history_tweet_ids": [
-    "2116348395426058338"
-   ],
-   "id": "2116348395426058338",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 351,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🔴LIVE : The Break Fast Show :  | Latest News | Zee MPCG https://t.co/GiW3ajLots",
-   "url": "https://x.com/ZeeMPCG/status/2116348395426058338"
-  },
-  {
-   "author_id": "1761697828655480832",
-   "created_at": "2026-10-31T02:39:55.000Z",
-   "edit_history_tweet_ids": [
-    "2116359484260143268"
-   ],
-   "id": "2116359484260143268",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 170,
-    "like_count": 2,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204 https://t.co/JlH02kunz7",
-   "url": "https://x.com/_ARMedia/status/2116359484260143268"
-  },
-  {
-   "author_id": "1307797792736325639",
-   "created_at": "2026-10-31T02:00:26.000Z",
-   "edit_history_tweet_ids": [
-    "2116349544900554962"
-   ],
-   "id": "2116349544900554962",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 216,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "24/7 Poliscoop Live news https://t.co/5jx0ijB0PY",
-   "url": "https://x.com/poliscoopmedia/status/2116349544900554962"
   },
   {
    "author_id": "1999037304103723008",
@@ -377,10 +539,25 @@
    "edit_history_tweet_ids": [
     "2116370133195108533"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "GrowthNow News LIVE !",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 45,
+      "expanded_url": "https://x.com/i/broadcasts/2XyJEMWlRbJgqj",
+      "start": 22,
+      "status": 200,
+      "title": "Growthnownews",
+      "unwound_url": "https://x.com/i/broadcasts/2XyJEMWlRbJgqj",
+      "url": "https://t.co/zqwIM3XZ7r"
+     }
+    ]
+   },
    "id": "2116370133195108533",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 21,
+    "impression_count": 23,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -390,15 +567,87 @@
    "url": "https://x.com/growthnownews/status/2116370133195108533"
   },
   {
+   "author_id": "1761697828655480832",
+   "created_at": "2026-10-31T02:39:55.000Z",
+   "edit_history_tweet_ids": [
+    "2116359484260143268"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 74,
+      "expanded_url": "https://x.com/i/broadcasts/2POJMXqLVLMgbK",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2116359487741403137/4QoFX59I?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116359487741403137/4QoFX59I?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 51,
+      "status": 200,
+      "title": "America Rising Media",
+      "unwound_url": "https://x.com/i/broadcasts/2POJMXqLVLMgbK",
+      "url": "https://t.co/JlH02kunz7"
+     }
+    ]
+   },
+   "id": "2116359484260143268",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 197,
+    "like_count": 4,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204 https://t.co/JlH02kunz7",
+   "url": "https://x.com/_ARMedia/status/2116359484260143268"
+  },
+  {
    "author_id": "1438604288025153542",
    "created_at": "2026-10-31T03:00:41.000Z",
    "edit_history_tweet_ids": [
     "2116364707552510291"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Rapid Fire News #1238 ~FAFO FRIDAY~",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 70,
+      "expanded_url": "https://x.com/i/broadcasts/2onAbzyvgYlPpg",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116364750837739520/rD0TSq6J?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116364750837739520/rD0TSq6J?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 47,
+      "status": 200,
+      "title": "Average Joe Patriot 1776",
+      "unwound_url": "https://x.com/i/broadcasts/2onAbzyvgYlPpg",
+      "url": "https://t.co/xKt5z0YnU3"
+     }
+    ]
+   },
    "id": "2116364707552510291",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 427,
+    "bookmark_count": 1,
+    "impression_count": 461,
     "like_count": 11,
     "quote_count": 1,
     "reply_count": 0,
@@ -413,10 +662,44 @@
    "edit_history_tweet_ids": [
     "2116356323826909543"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 5,
+      "start": 0,
+      "tag": "LIVE"
+     }
+    ],
+    "urls": [
+     {
+      "description": "#LIVE || Take a look at the top news headlines",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 70,
+      "expanded_url": "https://x.com/i/broadcasts/1lJQRWOqpzZxE",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116356326628737024/-doN9GKD?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116356326628737024/-doN9GKD?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 47,
+      "status": 200,
+      "title": "IndiaToday",
+      "unwound_url": "https://x.com/i/broadcasts/1lJQRWOqpzZxE",
+      "url": "https://t.co/GVCYcRMF6p"
+     }
+    ]
+   },
    "id": "2116356323826909543",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2702,
+    "impression_count": 2765,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -426,40 +709,550 @@
    "url": "https://x.com/IndiaToday/status/2116356323826909543"
   },
   {
-   "author_id": "1518719055590395905",
-   "created_at": "2026-10-31T02:00:22.000Z",
+   "author_id": "1438604288025153542",
+   "created_at": "2026-10-31T03:00:06.000Z",
    "edit_history_tweet_ids": [
-    "2116349530509840892"
+    "2116364564149186714"
    ],
-   "id": "2116349530509840892",
+   "entities": {
+    "urls": [
+     {
+      "description": "Rapid Fire News #1238 ~FAFO FRIDAY~",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 59,
+      "expanded_url": "https://x.com/i/broadcasts/2onAbzyvgYlPpg",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116364750837739520/rD0TSq6J?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116364750837739520/rD0TSq6J?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 36,
+      "status": 200,
+      "title": "Average Joe Patriot 1776",
+      "unwound_url": "https://x.com/i/broadcasts/2onAbzyvgYlPpg",
+      "url": "https://t.co/xKt5z0YnU3"
+     }
+    ]
+   },
+   "id": "2116364564149186714",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 15,
-    "like_count": 1,
+    "bookmark_count": 3,
+    "impression_count": 598,
+    "like_count": 18,
+    "quote_count": 3,
+    "reply_count": 0,
+    "retweet_count": 12
+   },
+   "text": "Rapid Fire News #1238 ~FAFO FRIDAY~ https://t.co/xKt5z0YnU3",
+   "url": "https://x.com/AJPArmy/status/2116364564149186714"
+  },
+  {
+   "author_id": "19897138",
+   "created_at": "2026-10-31T03:28:00.000Z",
+   "edit_history_tweet_ids": [
+    "2116371585577918971"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 5,
+      "start": 0,
+      "tag": "LIVE"
+     }
+    ],
+    "urls": [
+     {
+      "description": "#LIVE || Take a look at the top news headlines",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 70,
+      "expanded_url": "https://x.com/i/broadcasts/1nxeLMNeROoJX",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116371588681728000/JcfnITUn?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116371588681728000/JcfnITUn?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 47,
+      "status": 200,
+      "title": "IndiaToday",
+      "unwound_url": "https://x.com/i/broadcasts/1nxeLMNeROoJX",
+      "url": "https://t.co/Kh2gR3jzPE"
+     }
+    ]
+   },
+   "id": "2116371585577918971",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 1041,
+    "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Radio Baloney Live! News Review Hangout Stream https://t.co/dSmuxgDxfr",
-   "url": "https://x.com/RadioBaloney/status/2116349530509840892"
+   "text": "#LIVE || Take a look at the top news headlines https://t.co/Kh2gR3jzPE",
+   "url": "https://x.com/IndiaToday/status/2116371585577918971"
   },
   {
-   "author_id": "1929504281658298369",
-   "created_at": "2026-10-31T01:34:49.000Z",
+   "author_id": "1302508792698015749",
+   "created_at": "2026-10-31T02:44:25.000Z",
    "edit_history_tweet_ids": [
-    "2116343100893253877"
+    "2116360613756538912"
    ],
-   "id": "2116343100893253877",
+   "entities": {
+    "urls": [
+     {
+      "description": "HALLOWEEN JAMS!!! | PROTESTS LIVE | FUKITOL FRIDAY | NEWS | MUSIC | CHAT",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 96,
+      "expanded_url": "https://x.com/i/broadcasts/2lgkykvojzgMQz",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116360656488185856/bOaSIP_V?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116360656488185856/bOaSIP_V?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 73,
+      "status": 200,
+      "title": "Nubbin St. Nubbins",
+      "unwound_url": "https://x.com/i/broadcasts/2lgkykvojzgMQz",
+      "url": "https://t.co/ys1mbsSaXH"
+     }
+    ]
+   },
+   "id": "2116360613756538912",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 15,
+    "impression_count": 227,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 3
+   },
+   "text": "HALLOWEEN JAMS!!! | PROTESTS LIVE | FUKITOL FRIDAY | NEWS | MUSIC | CHAT https://t.co/ys1mbsSaXH",
+   "url": "https://x.com/NubbinSaint/status/2116360613756538912"
+  },
+  {
+   "author_id": "4505795352",
+   "created_at": "2026-10-31T02:53:03.000Z",
+   "edit_history_tweet_ids": [
+    "2116362789795324336"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 123,
+      "id": "1302508792698015749",
+      "start": 111,
+      "username": "NubbinSaint"
+     }
+    ],
+    "urls": [
+     {
+      "description": "HALLOWEEN JAMS!!! | PROTESTS LIVE | FUKITOL FRIDAY | NEWS | MUSIC | CHAT",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 147,
+      "expanded_url": "https://x.com/i/broadcasts/2lgkykvojzgMQz",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116360656488185856/bOaSIP_V?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116360656488185856/bOaSIP_V?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 124,
+      "status": 200,
+      "title": "Nubbin St. Nubbins",
+      "unwound_url": "https://x.com/i/broadcasts/2lgkykvojzgMQz",
+      "url": "https://t.co/QLNM8xF4Eb"
+     }
+    ]
+   },
+   "id": "2116362789795324336",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 424,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83d\udd34 Nubbin St. Nubbins is LIVE\nHALLOWEEN JAMS!!! | PROTESTS LIVE | FUKITOL FRIDAY | NEWS | MUSIC | CHAT\n10.30.26\n@NubbinSaint\nhttps://t.co/QLNM8xF4Eb",
+   "url": "https://x.com/DivintyMary/status/2116362789795324336"
+  },
+  {
+   "author_id": "1594126098761220100",
+   "created_at": "2026-10-31T02:54:09.000Z",
+   "edit_history_tweet_ids": [
+    "2116363063553364334",
+    "2116363153621844424"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 67,
+      "id": "1642818407920992256",
+      "start": 53,
+      "username": "J_UNSKRIPTED1"
+     }
+    ],
+    "urls": [
+     {
+      "description": "FNF Nightshift News: Friday Night Fallout Episode 204 Fri Oct 30, 2026 \u2022 10 pm Eastern \u2022 Nightshift is UNSKRIPTED t.me/UnskriptedAF \u2022 Hosted & Produced by @JohnnyQ cash.app/$JohnnyNS venmo.com/JARM017 allmylinks.com/JohnnyQ\u2022 Follow/support Seanallmylinks.com/seananon cash.app/$SeanAnon82 \u2022 Visit the America Rising Media website: americarising.media >>> Discover Atmosphera <<< atmospherabeauty.us/arm \u2022 Esthetician formulated skincare \u2022 Spa-grade \u2022 Curated for the environment you live in \u2022 High quality, clean ingredients \u2022 For men & women of all ages*Use code: ARM at checkout for 10% off",
+      "display_url": "pilled.net/topic-detail/1\u2026",
+      "end": 123,
+      "expanded_url": "https://pilled.net/topic-detail/1569432",
+      "images": [
+       {
+        "height": 500,
+        "url": "https://pbs.twimg.com/news_img/2116336040663273472/bLee-zFS?format=jpg&name=orig",
+        "width": 500
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116336040663273472/bLee-zFS?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 100,
+      "status": 200,
+      "title": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204",
+      "unwound_url": "https://pilled.net/topic-detail/1569432",
+      "url": "https://t.co/rWs4kYHwEr"
+     },
+     {
+      "description": "FNF Nightshift News: Friday Night Fallout Episode 204 Fri Oct 30, 2026 \u2022 10 pm Eastern \u2022 Nightshift is UNSKRIPTED t.me/UnskriptedAF \u2022 Hosted & Produced by Johnny Q cash.app/$JohnnyNS venmo.com/JARM017",
+      "display_url": "rumble.com/v7hmylc-fnf-ni\u2026",
+      "end": 155,
+      "expanded_url": "https://rumble.com/v7hmylc-fnf-nightshift-news-friday-night-fallout-ep-204.html",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116336038025084928/Cwto6Mod?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116336038025084928/Cwto6Mod?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 132,
+      "status": 200,
+      "title": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204",
+      "unwound_url": "https://rumble.com/v7hmylc-fnf-nightshift-news-friday-night-fallout-ep-204.html",
+      "url": "https://t.co/UEUKCUJ0OB"
+     },
+     {
+      "description": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 182,
+      "expanded_url": "https://x.com/i/broadcasts/2POJMXqLVLMgbK",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2116359487741403137/4QoFX59I?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116359487741403137/4QoFX59I?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 159,
+      "status": 200,
+      "title": "America Rising Media",
+      "unwound_url": "https://x.com/i/broadcasts/2POJMXqLVLMgbK",
+      "url": "https://t.co/azY3kfR2QX"
+     }
+    ]
+   },
+   "id": "2116363063553364334",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Bharat Update News Live - 31  OCTOBER 2026 LIVE https://t.co/1CFqXKTESL",
-   "url": "https://x.com/BharatUpdate_x/status/2116343100893253877"
+   "text": "LIVE NOW! \ud83e\udd73\nNIGHTSHIFT NEWS: Friday Night Fallout\nw/ @J_UNSKRIPTED1 \n\nJoin us in the chats!\n\nPILLED\nhttps://t.co/rWs4kYHwEr\n\nRUMBLE\nhttps://t.co/UEUKCUJ0OB\n\nX\nhttps://t.co/azY3kfR2QX",
+   "url": "https://x.com/AshUSA1111/status/2116363063553364334"
+  },
+  {
+   "author_id": "1231821860",
+   "created_at": "2026-10-31T02:10:52.000Z",
+   "edit_history_tweet_ids": [
+    "2116352172296384599"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Star Trek Loses TWO Legends! WWE SmackDown 10/30/26 Review, Tammy Sytch & Ric Flair News",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 117,
+      "expanded_url": "https://x.com/i/broadcasts/1MKgNbRMLlgxL",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116352214734364672/YWoWuW-q?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116352214734364672/YWoWuW-q?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 94,
+      "status": 200,
+      "title": "Lee Sanders",
+      "unwound_url": "https://x.com/i/broadcasts/1MKgNbRMLlgxL",
+      "url": "https://t.co/NXMxulY4cz"
+     }
+    ]
+   },
+   "id": "2116352172296384599",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 39,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Star Trek Loses TWO Legends! WWE SmackDown 10/30/26 Review, Tammy Sytch  &amp; Ric Flair News https://t.co/NXMxulY4cz",
+   "url": "https://x.com/TheRCWRShow/status/2116352172296384599"
+  },
+  {
+   "author_id": "1594126098761220100",
+   "created_at": "2026-10-31T02:54:30.000Z",
+   "edit_history_tweet_ids": [
+    "2116363063553364334",
+    "2116363153621844424"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 67,
+      "id": "1642818407920992256",
+      "start": 53,
+      "username": "J_UNSKRIPTED1"
+     }
+    ],
+    "urls": [
+     {
+      "description": "FNF Nightshift News: Friday Night Fallout Episode 204 Fri Oct 30, 2026 \u2022 10 pm Eastern \u2022 Nightshift is UNSKRIPTED t.me/UnskriptedAF \u2022 Hosted & Produced by @JohnnyQ cash.app/$JohnnyNS venmo.com/JARM017 allmylinks.com/JohnnyQ\u2022 Follow/support Seanallmylinks.com/seananon cash.app/$SeanAnon82 \u2022 Visit the America Rising Media website: americarising.media >>> Discover Atmosphera <<< atmospherabeauty.us/arm \u2022 Esthetician formulated skincare \u2022 Spa-grade \u2022 Curated for the environment you live in \u2022 High quality, clean ingredients \u2022 For men & women of all ages*Use code: ARM at checkout for 10% off",
+      "display_url": "pilled.net/topic-detail/1\u2026",
+      "end": 123,
+      "expanded_url": "https://pilled.net/topic-detail/1569432",
+      "images": [
+       {
+        "height": 500,
+        "url": "https://pbs.twimg.com/news_img/2116336040663273472/bLee-zFS?format=jpg&name=orig",
+        "width": 500
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116336040663273472/bLee-zFS?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 100,
+      "status": 200,
+      "title": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204",
+      "unwound_url": "https://pilled.net/topic-detail/1569432",
+      "url": "https://t.co/rWs4kYHwEr"
+     },
+     {
+      "description": "FNF Nightshift News: Friday Night Fallout Episode 204 Fri Oct 30, 2026 \u2022 10 pm Eastern \u2022 Nightshift is UNSKRIPTED t.me/UnskriptedAF \u2022 Hosted & Produced by Johnny Q cash.app/$JohnnyNS venmo.com/JARM017",
+      "display_url": "rumble.com/v7hmylc-fnf-ni\u2026",
+      "end": 155,
+      "expanded_url": "https://rumble.com/v7hmylc-fnf-nightshift-news-friday-night-fallout-ep-204.html",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116336038025084928/Cwto6Mod?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116336038025084928/Cwto6Mod?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 132,
+      "status": 200,
+      "title": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204",
+      "unwound_url": "https://rumble.com/v7hmylc-fnf-nightshift-news-friday-night-fallout-ep-204.html",
+      "url": "https://t.co/UEUKCUJ0OB"
+     },
+     {
+      "description": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 182,
+      "expanded_url": "https://x.com/i/broadcasts/2POJMXqLVLMgbK",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2116359487741403137/4QoFX59I?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116359487741403137/4QoFX59I?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 159,
+      "status": 200,
+      "title": "America Rising Media",
+      "unwound_url": "https://x.com/i/broadcasts/2POJMXqLVLMgbK",
+      "url": "https://t.co/azY3kfR2QX"
+     },
+     {
+      "display_url": "pic.x.com/pgZ9PZZ1b7",
+      "end": 206,
+      "expanded_url": "https://x.com/AshUSA1111/status/2116363153621844424/photo/1",
+      "media_key": "3_2116363142447955968",
+      "start": 183,
+      "url": "https://t.co/pgZ9PZZ1b7"
+     }
+    ]
+   },
+   "id": "2116363153621844424",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 96,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 4
+   },
+   "text": "LIVE NOW! \ud83e\udd73\nNIGHTSHIFT NEWS: Friday Night Fallout\nw/ @J_UNSKRIPTED1 \n\nJoin us in the chats!\n\nPILLED\nhttps://t.co/rWs4kYHwEr\n\nRUMBLE\nhttps://t.co/UEUKCUJ0OB\n\nX\nhttps://t.co/azY3kfR2QX https://t.co/pgZ9PZZ1b7",
+   "url": "https://x.com/AshUSA1111/status/2116363153621844424"
+  },
+  {
+   "author_id": "238573695",
+   "created_at": "2026-10-31T03:58:59.000Z",
+   "edit_history_tweet_ids": [
+    "2116379379668590654"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Coronal Hole Faces Earth - Record-Breaking High Tides Spark Chaos - New Dwarf Planet Candidate",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 118,
+      "expanded_url": "https://x.com/i/broadcasts/1dJrPrOMzVYKX",
+      "start": 95,
+      "status": 200,
+      "title": "Oppenheimer Ranch Project",
+      "unwound_url": "https://x.com/i/broadcasts/1dJrPrOMzVYKX",
+      "url": "https://t.co/F2dDfC5GJV"
+     }
+    ]
+   },
+   "id": "2116379379668590654",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 163,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Coronal Hole Faces Earth - Record-Breaking High Tides Spark Chaos - New Dwarf Planet Candidate https://t.co/F2dDfC5GJV",
+   "url": "https://x.com/Diamondthedave/status/2116379379668590654"
+  },
+  {
+   "author_id": "37034483",
+   "created_at": "2026-10-31T02:10:35.000Z",
+   "edit_history_tweet_ids": [
+    "2116352102356410749"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 5,
+      "start": 0,
+      "tag": "LIVE"
+     },
+     {
+      "end": 19,
+      "start": 8,
+      "tag": "Faultlines"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 33,
+      "id": "2308054499",
+      "start": 25,
+      "username": "GaurieD"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Fautlines",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 274,
+      "expanded_url": "https://x.com/i/broadcasts/2BlMMyjRyOrYbv",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116352104457785344/lKSiM6va?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116352104457785344/lKSiM6va?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 251,
+      "status": 200,
+      "title": "NDTV",
+      "unwound_url": "https://x.com/i/broadcasts/2BlMMyjRyOrYbv",
+      "url": "https://t.co/dMPub7zpa2"
+     }
+    ]
+   },
+   "id": "2116352102356410749",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4647,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 1
+   },
+   "text": "#LIVE | #Faultlines with @gauried | Deadlocked: Netanyahu vs Eisenkot race | Ukraine War: European Leaders' Rare Putin Outreach |  US First Lady Melania Trump Brokers Local Ceasefire in Ukraine |  Howitzers At The Border: Why North Korea 'Warned' US\n\nhttps://t.co/dMPub7zpa2",
+   "url": "https://x.com/ndtv/status/2116352102356410749"
   }
  ],
  "users": [
@@ -494,40 +1287,10 @@
    "verified_type": "blue"
   },
   {
-   "id": "1982030845138608128",
-   "name": "News Leader",
-   "public_metrics": {
-    "followers_count": 3003,
-    "following_count": 1,
-    "like_count": 3,
-    "listed_count": 2,
-    "media_count": 29038,
-    "tweet_count": 29595
-   },
-   "username": "NewsLeaderLive",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "898762021",
-   "name": "Scott W. Luton",
-   "public_metrics": {
-    "followers_count": 40988,
-    "following_count": 22491,
-    "like_count": 67695,
-    "listed_count": 388,
-    "media_count": 7117,
-    "tweet_count": 76350
-   },
-   "username": "ScottWLuton",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "903316311517921280",
    "name": "Supply Chain Now",
    "public_metrics": {
-    "followers_count": 24252,
+    "followers_count": 24251,
     "following_count": 10990,
     "like_count": 8159,
     "listed_count": 204,
@@ -537,6 +1300,36 @@
    "username": "_supplychainnow",
    "verified": true,
    "verified_type": "business"
+  },
+  {
+   "id": "898762021",
+   "name": "Scott W. Luton",
+   "public_metrics": {
+    "followers_count": 40988,
+    "following_count": 22491,
+    "like_count": 67696,
+    "listed_count": 388,
+    "media_count": 7117,
+    "tweet_count": 76351
+   },
+   "username": "ScottWLuton",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "29481688",
+   "name": "Graham",
+   "public_metrics": {
+    "followers_count": 5251,
+    "following_count": 2399,
+    "like_count": 70735,
+    "listed_count": 37,
+    "media_count": 2419,
+    "tweet_count": 18015
+   },
+   "username": "MrGrahamHodsdon",
+   "verified": false,
+   "verified_type": "none"
   },
   {
    "id": "1900375238548086788",
@@ -550,51 +1343,6 @@
     "tweet_count": 2163
    },
    "username": "magnonewslive",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "20751449",
-   "name": "The Hindu",
-   "public_metrics": {
-    "followers_count": 8426574,
-    "following_count": 185,
-    "like_count": 259,
-    "listed_count": 8567,
-    "media_count": 67656,
-    "tweet_count": 739883
-   },
-   "username": "the_hindu",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1691221342476283906",
-   "name": "Michael Sartain, Capt USAF Ret.",
-   "public_metrics": {
-    "followers_count": 11333,
-    "following_count": 386,
-    "like_count": 4625,
-    "listed_count": 35,
-    "media_count": 1634,
-    "tweet_count": 5291
-   },
-   "username": "SartainPodcast",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1461110373679910920",
-   "name": "Ex Muslim Sameer",
-   "public_metrics": {
-    "followers_count": 13787,
-    "following_count": 32,
-    "like_count": 104,
-    "listed_count": 27,
-    "media_count": 37,
-    "tweet_count": 286
-   },
-   "username": "ExMuslimSameer",
    "verified": true,
    "verified_type": "blue"
   },
@@ -614,32 +1362,32 @@
    "verified_type": "blue"
   },
   {
-   "id": "16116288",
-   "name": "rolandsmartin",
+   "id": "1772513122735300608",
+   "name": "The Savera Times",
    "public_metrics": {
-    "followers_count": 709252,
-    "following_count": 4202,
-    "like_count": 95340,
-    "listed_count": 4654,
-    "media_count": 34351,
-    "tweet_count": 700895
+    "followers_count": 102457,
+    "following_count": 2,
+    "like_count": 25194,
+    "listed_count": 100,
+    "media_count": 2275,
+    "tweet_count": 43341
    },
-   "username": "rolandsmartin",
+   "username": "thesavera_times",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "68146122",
-   "name": "PatriotDadEV2.0",
+   "id": "16116288",
+   "name": "rolandsmartin",
    "public_metrics": {
-    "followers_count": 114756,
-    "following_count": 2446,
-    "like_count": 9369,
-    "listed_count": 93,
-    "media_count": 2077,
-    "tweet_count": 16663
+    "followers_count": 709276,
+    "following_count": 4202,
+    "like_count": 95340,
+    "listed_count": 4655,
+    "media_count": 34351,
+    "tweet_count": 700895
    },
-   "username": "Patriotdadev77",
+   "username": "rolandsmartin",
    "verified": true,
    "verified_type": "blue"
   },
@@ -659,30 +1407,15 @@
    "verified_type": "blue"
   },
   {
-   "id": "1976296987482808321",
-   "name": "Patriot Source Network",
-   "public_metrics": {
-    "followers_count": 7482,
-    "following_count": 89,
-    "like_count": 1826,
-    "listed_count": 27,
-    "media_count": 206,
-    "tweet_count": 1769
-   },
-   "username": "PSPod25",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "4751337434",
    "name": "Cold Heart",
    "public_metrics": {
     "followers_count": 121,
     "following_count": 66,
-    "like_count": 3717,
+    "like_count": 3718,
     "listed_count": 0,
     "media_count": 2454,
-    "tweet_count": 7504
+    "tweet_count": 7505
    },
    "username": "Coldest_Hearted",
    "verified": false,
@@ -692,7 +1425,7 @@
    "id": "935942321756966912",
    "name": "Real America's Voice (RAV)",
    "public_metrics": {
-    "followers_count": 572159,
+    "followers_count": 572163,
     "following_count": 1917,
     "like_count": 11930,
     "listed_count": 1586,
@@ -704,17 +1437,17 @@
    "verified_type": "business"
   },
   {
-   "id": "2256875550",
-   "name": "Zee MP-Chhattisgarh",
+   "id": "1999037304103723008",
+   "name": "Growthnownews",
    "public_metrics": {
-    "followers_count": 406249,
-    "following_count": 45,
-    "like_count": 15,
-    "listed_count": 191,
-    "media_count": 190283,
-    "tweet_count": 343333
+    "followers_count": 211,
+    "following_count": 12,
+    "like_count": 1058,
+    "listed_count": 2,
+    "media_count": 4717,
+    "tweet_count": 6058
    },
-   "username": "ZeeMPCG",
+   "username": "growthnownews",
    "verified": true,
    "verified_type": "blue"
   },
@@ -722,7 +1455,7 @@
    "id": "1761697828655480832",
    "name": "America Rising Media",
    "public_metrics": {
-    "followers_count": 1742,
+    "followers_count": 1743,
     "following_count": 229,
     "like_count": 6058,
     "listed_count": 4,
@@ -734,40 +1467,10 @@
    "verified_type": "blue"
   },
   {
-   "id": "1307797792736325639",
-   "name": "Poliscoop Media",
-   "public_metrics": {
-    "followers_count": 10993,
-    "following_count": 102,
-    "like_count": 1387,
-    "listed_count": 8,
-    "media_count": 2088,
-    "tweet_count": 4538
-   },
-   "username": "poliscoopmedia",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1999037304103723008",
-   "name": "Growthnownews",
-   "public_metrics": {
-    "followers_count": 211,
-    "following_count": 12,
-    "like_count": 1058,
-    "listed_count": 2,
-    "media_count": 4711,
-    "tweet_count": 6050
-   },
-   "username": "growthnownews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1438604288025153542",
    "name": "Average Joe Patriot 1776",
    "public_metrics": {
-    "followers_count": 11221,
+    "followers_count": 11222,
     "following_count": 4739,
     "like_count": 98107,
     "listed_count": 11,
@@ -782,46 +1485,106 @@
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6275479,
+    "followers_count": 6275497,
     "following_count": 83,
     "like_count": 4431,
-    "listed_count": 7342,
-    "media_count": 582071,
-    "tweet_count": 1543166
+    "listed_count": 7344,
+    "media_count": 582083,
+    "tweet_count": 1543181
    },
    "username": "IndiaToday",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1518719055590395905",
-   "name": "RADIO BALONEY",
+   "id": "1302508792698015749",
+   "name": "Nubbin St. Nubbins",
    "public_metrics": {
-    "followers_count": 1437,
-    "following_count": 868,
-    "like_count": 1498,
+    "followers_count": 2153,
+    "following_count": 2468,
+    "like_count": 15551,
     "listed_count": 4,
-    "media_count": 2061,
-    "tweet_count": 3088
+    "media_count": 532,
+    "tweet_count": 12123
    },
-   "username": "RadioBaloney",
+   "username": "NubbinSaint",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1929504281658298369",
-   "name": "भारत अपडेट | Bharat Update",
+   "id": "4505795352",
+   "name": "Miss Mary",
    "public_metrics": {
-    "followers_count": 421,
-    "following_count": 41,
-    "like_count": 822,
-    "listed_count": 0,
-    "media_count": 17747,
-    "tweet_count": 17903
+    "followers_count": 56374,
+    "following_count": 34265,
+    "like_count": 357425,
+    "listed_count": 89,
+    "media_count": 16733,
+    "tweet_count": 218550
    },
-   "username": "BharatUpdate_x",
+   "username": "DivintyMary",
    "verified": true,
    "verified_type": "blue"
+  },
+  {
+   "id": "1594126098761220100",
+   "name": "AshUSA",
+   "public_metrics": {
+    "followers_count": 1270,
+    "following_count": 1795,
+    "like_count": 24821,
+    "listed_count": 6,
+    "media_count": 1143,
+    "tweet_count": 11593
+   },
+   "username": "AshUSA1111",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1231821860",
+   "name": "Lee Sanders",
+   "public_metrics": {
+    "followers_count": 2497,
+    "following_count": 868,
+    "like_count": 25111,
+    "listed_count": 13,
+    "media_count": 18212,
+    "tweet_count": 60460
+   },
+   "username": "TheRCWRShow",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "238573695",
+   "name": "Oppenheimer Ranch Project",
+   "public_metrics": {
+    "followers_count": 18232,
+    "following_count": 4008,
+    "like_count": 46113,
+    "listed_count": 105,
+    "media_count": 11168,
+    "tweet_count": 37776
+   },
+   "username": "Diamondthedave",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "37034483",
+   "name": "NDTV",
+   "public_metrics": {
+    "followers_count": 17345830,
+    "following_count": 20,
+    "like_count": 63,
+    "listed_count": 14718,
+    "media_count": 793291,
+    "tweet_count": 1588985
+   },
+   "username": "ndtv",
+   "verified": true,
+   "verified_type": "business"
   }
  ]
 }
