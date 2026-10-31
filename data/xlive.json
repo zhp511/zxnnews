@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-31T19:04:39Z",
- "searched_at": "2026-10-31T19:04:00Z",
+ "built_at": "2026-10-31T19:25:28Z",
+ "searched_at": "2026-10-31T19:25:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2116607668349530583",
+   "post_url": "https://x.com/TheRickWilson/status/2116607668349530583",
+   "name": "Rick Wilson",
+   "username": "TheRickWilson",
+   "verified_type": "blue",
+   "text": "The Weekend R&R Pre-Election Edition! https://t.co/ZQ8zICASo8",
+   "started_at": "2026-10-31T19:06:07.000Z",
+   "assumed_live_until": "2026-10-31T22:06:07Z"
+  },
   {
    "post_id": "2116598587098292446",
    "post_url": "https://x.com/FloydShivambu/status/2116598587098292446",
@@ -73,16 +83,6 @@
    "text": "https://t.co/jnRT8UiB4w \n\nRINGSIDE POLITICS WITH JEFF CROUERE!\n\n@jeffcrouere",
    "started_at": "2026-10-31T18:01:27.000Z",
    "assumed_live_until": "2026-10-31T21:01:27Z"
-  },
-  {
-   "post_id": "2116597359710716184",
-   "post_url": "https://x.com/WWE/status/2116597359710716184",
-   "name": "WWE",
-   "username": "WWE",
-   "verified_type": "business",
-   "text": "Get the latest breaking news, rivalry analysis from a panel of experts, and much more before all the spooky fun at NXT #HalloweenHavoc!\nhttps://t.co/ntnIdkYANj",
-   "started_at": "2026-10-31T18:25:09.000Z",
-   "assumed_live_until": "2026-10-31T21:25:09Z"
   }
  ]
 }
