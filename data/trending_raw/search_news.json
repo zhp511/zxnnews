@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T22:04:04Z",
+ "fetched_at": "2026-10-31T00:09:00Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -8,140 +8,6 @@
   "news.fields": "name,summary,hook,category,updated_at,contexts,cluster_posts_results"
  },
  "data": [
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115833585513205944"
-    },
-    {
-     "post_id": "2115490012728905841"
-    },
-    {
-     "post_id": "2115909823493742852"
-    },
-    {
-     "post_id": "2115902027012481182"
-    },
-    {
-     "post_id": "2115917879438872740"
-    },
-    {
-     "post_id": "2115833585513205944"
-    },
-    {
-     "post_id": "2115892186445500889"
-    },
-    {
-     "post_id": "2115909823493742852"
-    },
-    {
-     "post_id": "2115858676313444662"
-    },
-    {
-     "post_id": "2115877985610011015"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "United States Election"
-     ],
-     "organizations": [],
-     "people": [
-      "Andy Biggs"
-     ],
-     "places": [
-      "Texas",
-      "New York City"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Elections"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Voters across America are sharing proud 'I voted' selfies from polling sites, stickers gleaming beside flags, as more than 43 million cast early ballots by late October.",
-   "id": "2115660856767762515",
-   "name": "Record Early Voting Surges Ahead of 2026 Midterms",
-   "summary": "With Republicans holding slim majorities in Congress, the November 3 midterms hinge on control of both chambers amid a tough map for the GOP. Early voting has shattered records, fueled by issues like cost of living, immigration, and the economy. Supporters from both parties post updates online—Republicans like Renatta Oxendine cheering 'Voted red all the way' and Lara Trump urging 'GO VOTE,' alongside a first-time Tennessee voter's marked Republican ballot and a Democratic fan in party gear.",
-   "updated_at": "2026-10-30T21:22:51.000Z",
-   "url": "https://x.com/i/trending/2115660856767762515"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2116193408804958571"
-    },
-    {
-     "post_id": "2116093119707947125"
-    },
-    {
-     "post_id": "2116243746891399357"
-    },
-    {
-     "post_id": "2116219267779543437"
-    },
-    {
-     "post_id": "2116213486707519857"
-    },
-    {
-     "post_id": "2116193408804958571"
-    },
-    {
-     "post_id": "2116243746891399357"
-    },
-    {
-     "post_id": "2116219267779543437"
-    },
-    {
-     "post_id": "2116093119707947125"
-    },
-    {
-     "post_id": "2116187518865412316"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "2016 election",
-      "2024 election"
-     ],
-     "organizations": [
-      "Politico"
-     ],
-     "people": [
-      "Donald Trump"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Elections"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Just one in four Americans trusts polls to accurately predict election results, a striking finding from a new survey on public skepticism.",
-   "id": "2116193876302344250",
-   "name": "Poll Reveals Widespread Doubt in Election Surveys",
-   "summary": "A POLITICO poll of over 2,000 U.S. adults from October 24-27 found 25% believe surveys correctly estimate Democratic or Republican votes, while 41% think they underestimate one side and 34% are unsure. This doubt stems from past misses, like polls underestimating Republican support by 2.7 points on average in 2024, echoing 2016 and 2020 patterns despite pollster adjustments. Many voters, especially Republicans, say discouraging poll numbers would motivate them to vote, with 55% overall reporting they'd definitely turn out if their side trailed ahead of the November 3 midterms.",
-   "updated_at": "2026-10-30T21:12:08.000Z",
-   "url": "https://x.com/i/trending/2116193876302344250"
-  },
   {
    "category": "News",
    "cluster_posts_results": [
@@ -464,6 +330,73 @@
    "category": "News",
    "cluster_posts_results": [
     {
+     "post_id": "2116143824556998876"
+    },
+    {
+     "post_id": "2116140097846345979"
+    },
+    {
+     "post_id": "2116149398954541355"
+    },
+    {
+     "post_id": "2116142825452838921"
+    },
+    {
+     "post_id": "2116143824556998876"
+    },
+    {
+     "post_id": "2116193408804958571"
+    },
+    {
+     "post_id": "2116243746891399357"
+    },
+    {
+     "post_id": "2116142825452838921"
+    },
+    {
+     "post_id": "2116205512002023633"
+    },
+    {
+     "post_id": "2116185515653239202"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "2016 election",
+      "2024 election"
+     ],
+     "organizations": [
+      "POLITICO"
+     ],
+     "people": [
+      "Donald Trump"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Elections"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In a state that hasn't sent a Democrat to the Senate since the Great Depression, pastor Adam Hamilton suddenly leads Sen. Roger Marshall 52% to 43%. Pollsters note Democrats were far more eager to pick up the phone.",
+   "id": "2116149443137315122",
+   "name": "Washington Post Poll Shows Democrat Leading Kansas Senate Race",
+   "summary": "A Washington Post survey of 801 likely voters from Oct. 22-26 found Hamilton ahead by 9 points, though Republicans responded at much lower rates than Democrats. An Emerson poll showed a tighter 49%-45% edge, with aggregators now rating the race a toss-up or slight Hamilton lean. Prediction markets have flipped to favor Hamilton, who could become Kansas's first Democratic senator in 94 years. The race stays unpredictable with Election Day on Nov. 3 and low polling volume.",
+   "updated_at": "2026-10-30T23:05:19.000Z",
+   "url": "https://x.com/i/trending/2116149443137315122"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
      "post_id": "2115541740392174043"
     },
     {
@@ -525,6 +458,69 @@
    "summary": "The Steady State group, describing itself as nonpartisan defenders of constitutional institutions, released the video calling Americans to vote for democracy and freedom just days before the elections. Supporters praised it as a civic call from seasoned pros, with one former ambassador expressing pride in joining. Critics like journalists Miranda Devine, Walter Kirn, and Lara Logan slammed it harshly, labeling the rhetoric alarming, scripted, and a sign of deep state meddling while questioning the focus on 'democracy' over republic. The split reactions highlight ongoing debates about ex-officials' role in election messaging.",
    "updated_at": "2026-10-30T14:02:03.000Z",
    "url": "https://x.com/i/trending/2115662605562106164"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2116192296139948503"
+    },
+    {
+     "post_id": "2116298143444664802"
+    },
+    {
+     "post_id": "2116247691034505338"
+    },
+    {
+     "post_id": "2116245313237463231"
+    },
+    {
+     "post_id": "2116267668865167471"
+    },
+    {
+     "post_id": "2116298143444664802"
+    },
+    {
+     "post_id": "2116247691034505338"
+    },
+    {
+     "post_id": "2116258125150052524"
+    },
+    {
+     "post_id": "2116298707830542544"
+    },
+    {
+     "post_id": "2116296539601576168"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Washington DC",
+      "Puerto Rico"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "With midterms just days away on Nov. 3, a stark list of potential institutional changes has conservatives sounding the alarm to get out and vote.",
+   "id": "2116319411732648281",
+   "name": "List of Alleged Democratic Plans Sparks Midterm Voting Urgency",
+   "summary": "A post from End Wokeness outlines supposed Democratic aims like mass amnesty for 30 million immigrants, ending the Senate filibuster, packing the Supreme Court, abolishing the Electoral College, adding D.C. and Puerto Rico as states, banning voter ID nationwide, restricting social media speech, and targeting MAGA supporters with arrests or de-banking. Conservative replies frame these as threats to the Republic, urging votes for Republicans to preserve free elections and institutional balance. Some proposals echo statements from Kamala Harris on court expansion and Electoral College reform, or the Democratic Socialists of America's platform on amnesty and restructuring government bodies, though skeptics call the list fabricated amid partisan divides.",
+   "updated_at": "2026-10-31T00:07:25.000Z",
+   "url": "https://x.com/i/trending/2116319411732648281"
   },
   {
    "category": "News",
@@ -652,8 +648,5 @@
    "updated_at": "2026-10-30T19:21:27.000Z",
    "url": "https://x.com/i/trending/2116179724112429274"
   }
- ],
- "meta": {
-  "result_count": 10
- }
+ ]
 }
