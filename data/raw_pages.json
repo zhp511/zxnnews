@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-30T23:40:10Z",
+ "fetched_at": "2026-10-31T00:42:42Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,104 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-10-31T00:35:25.000Z",
+     "edit_history_tweet_ids": [
+      "2116328150812791236"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "description": "#ZXN #xlive #wearethepeople #bluehand #PON #tellmeyourstory #smackdown #WWERAW",
+        "display_url": "x.com/i/broadcasts/1…",
+        "end": 124,
+        "expanded_url": "https://x.com/i/broadcasts/1qGvverWlDwGB",
+        "images": [
+         {
+          "height": 1080,
+          "url": "https://pbs.twimg.com/news_img/2116314138779791360/7lUR3wdi?format=jpg&name=orig",
+          "width": 1920
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2116314138779791360/7lUR3wdi?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 101,
+        "status": 200,
+        "title": "ZXN “ we are bluehand ” AND patriot one network",
+        "unwound_url": "https://x.com/i/broadcasts/1qGvverWlDwGB",
+        "url": "https://t.co/7J5Fe9peE3"
+       }
+      ]
+     },
+     "id": "2116328150812791236",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116314095624597571",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @zxnbluehandus: #ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory   #smackdown #WWERAW https://t.co/7J5Fe9peE3",
+     "url": "https://x.com/i/status/2116328150812791236"
+    },
+    {
+     "created_at": "2026-10-31T00:04:37.000Z",
+     "edit_history_tweet_ids": [
+      "2116320400187756924"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "display_url": "x.com/zxnbluehandus/…",
+        "end": 36,
+        "expanded_url": "https://x.com/zxnbluehandus/status/2116314095624597571?a=1RgPPq-XVF0yS1nr6CM&s=46",
+        "start": 13,
+        "url": "https://t.co/Fqd5XAVcIt"
+       }
+      ]
+     },
+     "id": "2116320400187756924",
+     "in_reply_to_user_id": "82464718",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116314095624597571",
+       "type": "quoted"
+      },
+      {
+       "id": "2116266532036813013",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@Maximo_I_Am https://t.co/Fqd5XAVcIt",
+     "url": "https://x.com/i/status/2116320400187756924"
+    }
+   ],
+   "meta": {
+    "newest_id": "2116328150812791236",
+    "oldest_id": "2116320400187756924",
+    "result_count": 2
+   }
+  },
   {
    "data": [
     {
