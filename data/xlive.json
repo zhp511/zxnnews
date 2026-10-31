@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-31T18:09:26Z",
- "searched_at": "2026-10-31T18:09:00Z",
+ "built_at": "2026-10-31T18:25:55Z",
+ "searched_at": "2026-10-31T18:25:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,6 +55,16 @@
    "assumed_live_until": "2026-10-31T21:01:52Z"
   },
   {
+   "post_id": "2116594978747040237",
+   "post_url": "https://x.com/benjirby/status/2116594978747040237",
+   "name": "Benj Irby aka 🤴🏾 🦝",
+   "username": "benjirby",
+   "verified_type": "blue",
+   "text": "BENJ 0029 ||  ELECTION EVE SPECIAL: BYRON DONALDS, LILY TANG WILLIAMS, STACY GARRITY, DAN SULLIVANx2 https://t.co/6aVAciUB4s",
+   "started_at": "2026-10-31T18:15:42.000Z",
+   "assumed_live_until": "2026-10-31T21:15:42Z"
+  },
+  {
    "post_id": "2116591396610318624",
    "post_url": "https://x.com/MyriamCarlyle/status/2116591396610318624",
    "name": "Myriam Carlyle",
@@ -73,16 +83,6 @@
    "text": "TRUMP'S FINAL MIDTERM PUSH: What's Really Happening Before Election Day? https://t.co/TKve1lEN9w",
    "started_at": "2026-10-31T16:00:08.000Z",
    "assumed_live_until": "2026-10-31T19:00:08Z"
-  },
-  {
-   "post_id": "2116552426086183138",
-   "post_url": "https://x.com/IndiaToday/status/2116552426086183138",
-   "name": "IndiaToday",
-   "username": "IndiaToday",
-   "verified_type": "blue",
-   "text": "Catch the top news updates & headlines, only on India Today! https://t.co/P1JMQeJ9br",
-   "started_at": "2026-10-31T15:26:36.000Z",
-   "assumed_live_until": "2026-10-31T18:26:36Z"
   }
  ]
 }
