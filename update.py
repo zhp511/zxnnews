@@ -136,6 +136,30 @@ LIVE_OUT = os.environ.get("ZXN_LIVE_OUT") or os.path.join(ROOT, "data", "live.js
 BROADCAST_RE = re.compile(r"https?://(?:www\.)?(?:x|twitter)\.com/i/broadcasts/([A-Za-z0-9]+)")
 
 
+TCO_CACHE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "tco_cache.json")
+
+
+def resolve_tco(u):
+    """Return where a t.co short link redirects (cached); '' if it can't be resolved."""
+    import urllib.request
+    cache = json.load(open(TCO_CACHE)) if os.path.exists(TCO_CACHE) else {}
+    if u in cache:
+        return cache[u]
+    class NoRedirect(urllib.request.HTTPRedirectHandler):
+        def redirect_request(self, *a, **k):
+            return None
+    loc = ""
+    try:
+        urllib.request.build_opener(NoRedirect).open(urllib.request.Request(u, method="HEAD"), timeout=10)
+    except urllib.error.HTTPError as e:
+        loc = e.headers.get("location") or ""
+    except Exception:
+        return ""
+    cache[u] = loc
+    json.dump(cache, open(TCO_CACHE, "w"), indent=1)
+    return loc
+
+
 def detect_live(posts, config):
     """Write data/live.json from the newest broadcast-link post. Only real post data is used."""
     import datetime
@@ -151,6 +175,15 @@ def detect_live(posts, config):
             continue  # a repost of someone else's broadcast isn't our own live stream
         hay = " ".join([p["original_text"], (p.get("link") or {}).get("url") or ""] + p.get("_expanded_urls", []))
         m = BROADCAST_RE.search(hay)
+        if not m:
+            # X sometimes returns a fresh post before its link entities exist. For recent posts only,
+            # follow the post's own t.co redirect (no X read) to see if it points at a broadcast.
+            try:
+                age = (now - datetime.datetime.fromisoformat(p["created_at"].replace("Z", "+00:00"))).total_seconds() / 3600
+            except Exception:
+                age = 999
+            if 0 <= age <= window:
+                m = BROADCAST_RE.search(" ".join(resolve_tco(u) for u in re.findall(r"https://t\.co/[A-Za-z0-9]+", p["original_text"])))
         if m:
             newest = (p, m.group(0), m.group(1)); break
     out = {"live": False, "checked_at": now.isoformat().replace("+00:00", "Z"),

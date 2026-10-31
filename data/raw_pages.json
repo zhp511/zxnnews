@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T15:44:19Z",
+ "fetched_at": "2026-10-31T16:46:00Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,49 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-10-31T16:43:35.000Z",
+     "edit_history_tweet_ids": [
+      "2116571800448467282"
+     ],
+     "id": "2116571800448467282",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 31,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "🔴FRANCE Protest LIVE: Protests in Paris For a Third Weekend | Yellow Ves... https://t.co/rIvF3XhVhw via @YouTube",
+     "url": "https://x.com/i/status/2116571800448467282"
+    },
+    {
+     "created_at": "2026-10-31T16:43:22.000Z",
+     "edit_history_tweet_ids": [
+      "2116571742575481340"
+     ],
+     "id": "2116571742575481340",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 35,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "Protests in France (including Paris) - LIVE Breaking News Coverage https://t.co/aXkmnhOfn7 via @YouTube",
+     "url": "https://x.com/i/status/2116571742575481340"
+    }
+   ],
+   "meta": {
+    "newest_id": "2116571800448467282",
+    "oldest_id": "2116571742575481340",
+    "result_count": 2
+   }
+  },
   {
    "data": [
     {
