@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-31T09:01:20Z",
- "searched_at": "2026-10-31T09:01:30Z",
+ "built_at": "2026-10-31T09:20:53Z",
+ "searched_at": "2026-10-31T09:20:40Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-10-31T09:59:56Z"
   },
   {
-   "post_id": "2116413901369925860",
-   "post_url": "https://x.com/RadioPakistan/status/2116413901369925860",
-   "name": "Radio Pakistan",
-   "username": "RadioPakistan",
-   "verified_type": "blue",
-   "text": "#Live: Minister for Climate Change Musadik Malik is addressing a conference in Islamabad\n#News #RadioPakistan \nhttps://t.co/b58xBQd8Nn",
-   "started_at": "2026-10-31T06:16:09.000Z",
-   "assumed_live_until": "2026-10-31T09:16:09Z"
-  },
-  {
    "post_id": "2116416915438698707",
    "post_url": "https://x.com/509divinepines/status/2116416915438698707",
    "name": "Joseph Daniel",
@@ -83,6 +73,16 @@
    "text": "News Bulletin Star Asia Tv Live 🔴 https://t.co/lX37vFueS5",
    "started_at": "2026-10-31T07:31:53.000Z",
    "assumed_live_until": "2026-10-31T10:31:53Z"
+  },
+  {
+   "post_id": "2116458608556683268",
+   "post_url": "https://x.com/AVMedia_za/status/2116458608556683268",
+   "name": "African Vibe Media",
+   "username": "AVMedia_za",
+   "verified_type": "blue",
+   "text": "EFF Tshela Thupa Rally addressed by President, Julius Malema https://t.co/e2zGYclq8d",
+   "started_at": "2026-10-31T09:13:48.000Z",
+   "assumed_live_until": "2026-10-31T12:13:48Z"
   }
  ]
 }
