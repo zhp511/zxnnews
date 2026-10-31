@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-31T13:02:14Z",
- "searched_at": "2026-10-31T13:02:00Z",
+ "built_at": "2026-10-31T13:21:20Z",
+ "searched_at": "2026-10-31T13:21:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-10-31T14:11:01Z"
   },
   {
-   "post_id": "2116476044479775075",
-   "post_url": "https://x.com/mediasapientia/status/2116476044479775075",
-   "name": "Sapientia Radio & TV",
-   "username": "mediasapientia",
-   "verified_type": "blue",
-   "text": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre https://t.co/Lcj8ZhNYEI",
-   "started_at": "2026-10-31T10:23:05.000Z",
-   "assumed_live_until": "2026-10-31T13:23:05Z"
-  },
-  {
    "post_id": "2116500467476054294",
    "post_url": "https://x.com/GBNEWS/status/2116500467476054294",
    "name": "GB News",
@@ -73,6 +63,16 @@
    "text": "GB News https://t.co/Y5BDxD8lxK",
    "started_at": "2026-10-31T12:00:08.000Z",
    "assumed_live_until": "2026-10-31T15:00:08Z"
+  },
+  {
+   "post_id": "2116475846189818044",
+   "post_url": "https://x.com/TrophyFpl/status/2116475846189818044",
+   "name": "FPL Mo",
+   "username": "TrophyFpl",
+   "verified_type": "blue",
+   "text": "FPL GW9 DEADLINE STREAM ✅ BENCHING DILEMMAS 🤔 EARLY TEAM NEWS 🤩 https://t.co/ZuMDDiOJDo",
+   "started_at": "2026-10-31T10:22:18.000Z",
+   "assumed_live_until": "2026-10-31T13:22:18Z"
   },
   {
    "post_id": "2116489005424370058",
