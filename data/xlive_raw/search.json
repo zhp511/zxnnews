@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T05:18:51Z",
+ "fetched_at": "2026-10-31T05:38:08Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T02:18:00Z",
+  "start_time": "2026-10-31T02:38:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -20,7 +20,7 @@
    "id": "2116380418295632221",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 10,
+    "impression_count": 14,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -38,7 +38,7 @@
    "id": "2116373867845611681",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 43,
+    "impression_count": 45,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 1,
@@ -46,24 +46,6 @@
    },
    "text": "Election Day in 6 Days! Let's Go Over the Texas Senate Race! James Talarico vs Ken Paxton! https://t.co/l2j8LRdJl5",
    "url": "https://x.com/PPolBreakdown/status/2116373867845611681"
-  },
-  {
-   "author_id": "903316311517921280",
-   "created_at": "2026-10-31T03:57:05.000Z",
-   "edit_history_tweet_ids": [
-    "2116378904021860370"
-   ],
-   "id": "2116378904021860370",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 51,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "[REPLAY]  Breaking News Now Feat. Max Garland with Supply Chain Dive https://t.co/87awWV38gU",
-   "url": "https://x.com/_supplychainnow/status/2116378904021860370"
   },
   {
    "author_id": "898762021",
@@ -74,7 +56,7 @@
    "id": "2116378902528688311",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 87,
+    "impression_count": 101,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -82,6 +64,24 @@
    },
    "text": "[REPLAY]  Breaking News Now Feat. Max Garland with Supply Chain Dive https://t.co/rmmHZ860TU",
    "url": "https://x.com/ScottWLuton/status/2116378902528688311"
+  },
+  {
+   "author_id": "903316311517921280",
+   "created_at": "2026-10-31T03:57:05.000Z",
+   "edit_history_tweet_ids": [
+    "2116378904021860370"
+   ],
+   "id": "2116378904021860370",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 63,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "[REPLAY]  Breaking News Now Feat. Max Garland with Supply Chain Dive https://t.co/87awWV38gU",
+   "url": "https://x.com/_supplychainnow/status/2116378904021860370"
   },
   {
    "author_id": "29481688",
@@ -92,7 +92,7 @@
    "id": "2116387186933211403",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 26,
+    "impression_count": 30,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -110,7 +110,7 @@
    "id": "2116364306027823411",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 401,
+    "impression_count": 407,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 1,
@@ -146,7 +146,7 @@
    "id": "2116390400684642412",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 167,
+    "impression_count": 180,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -154,24 +154,6 @@
    },
    "text": "LIVE | Congress Leaders Pay tribute to Indira Gandhi at Indira Gandhi Memorial | Delhi #soniagandhi #rahulgandhi #mallikarjunkharge #indiragandhi #deathaniversary #delhi https://t.co/I9bDGIh8pZ",
    "url": "https://x.com/thesavera_times/status/2116390400684642412"
-  },
-  {
-   "author_id": "16116288",
-   "created_at": "2026-10-31T02:30:06.000Z",
-   "edit_history_tweet_ids": [
-    "2116357014431670645"
-   ],
-   "id": "2116357014431670645",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1416,
-    "like_count": 5,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 5
-   },
-   "text": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push https://t.co/LMrw4rdvGg",
-   "url": "https://x.com/rolandsmartin/status/2116357014431670645"
   },
   {
    "author_id": "1854373842480779270",
@@ -182,8 +164,8 @@
    "id": "2116364202507981231",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 318,
-    "like_count": 14,
+    "impression_count": 344,
+    "like_count": 15,
     "quote_count": 0,
     "reply_count": 3,
     "retweet_count": 0
@@ -218,32 +200,14 @@
    "id": "2116379623441469622",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 3334,
-    "like_count": 12,
+    "impression_count": 3521,
+    "like_count": 14,
     "quote_count": 0,
     "reply_count": 1,
-    "retweet_count": 4
+    "retweet_count": 5
    },
    "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/8l3LmyNF5W",
    "url": "https://x.com/RealAmVoice/status/2116379623441469622"
-  },
-  {
-   "author_id": "1761697828655480832",
-   "created_at": "2026-10-31T02:39:55.000Z",
-   "edit_history_tweet_ids": [
-    "2116359484260143268"
-   ],
-   "id": "2116359484260143268",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 204,
-    "like_count": 4,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204 https://t.co/JlH02kunz7",
-   "url": "https://x.com/_ARMedia/status/2116359484260143268"
   },
   {
    "author_id": "1999037304103723008",
@@ -272,7 +236,7 @@
    "id": "2116364707552510291",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 473,
+    "impression_count": 490,
     "like_count": 11,
     "quote_count": 1,
     "reply_count": 0,
@@ -280,42 +244,6 @@
    },
    "text": "LIVE NOW \n\nRapid Fire News #1238 ~FAFO FRIDAY~\nhttps://t.co/xKt5z0YnU3",
    "url": "https://x.com/AJPArmy/status/2116364707552510291"
-  },
-  {
-   "author_id": "239486395",
-   "created_at": "2026-10-31T05:13:32.000Z",
-   "edit_history_tweet_ids": [
-    "2116398143722172562"
-   ],
-   "id": "2116398143722172562",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 7,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "\ud83d\udd34Live | TRT World News https://t.co/zVIHbtQMDP",
-   "url": "https://x.com/ProtestMusica/status/2116398143722172562"
-  },
-  {
-   "author_id": "1302508792698015749",
-   "created_at": "2026-10-31T02:44:25.000Z",
-   "edit_history_tweet_ids": [
-    "2116360613756538912"
-   ],
-   "id": "2116360613756538912",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 236,
-    "like_count": 9,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 4
-   },
-   "text": "HALLOWEEN JAMS!!! | PROTESTS LIVE | FUKITOL FRIDAY | NEWS | MUSIC | CHAT https://t.co/ys1mbsSaXH",
-   "url": "https://x.com/NubbinSaint/status/2116360613756538912"
   },
   {
    "author_id": "1438604288025153542",
@@ -326,7 +254,7 @@
    "id": "2116364564149186714",
    "public_metrics": {
     "bookmark_count": 3,
-    "impression_count": 607,
+    "impression_count": 620,
     "like_count": 18,
     "quote_count": 3,
     "reply_count": 0,
@@ -334,24 +262,6 @@
    },
    "text": "Rapid Fire News #1238 ~FAFO FRIDAY~ https://t.co/xKt5z0YnU3",
    "url": "https://x.com/AJPArmy/status/2116364564149186714"
-  },
-  {
-   "author_id": "19897138",
-   "created_at": "2026-10-31T02:27:22.000Z",
-   "edit_history_tweet_ids": [
-    "2116356323826909543"
-   ],
-   "id": "2116356323826909543",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 2781,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "#LIVE || Take a look at the top news headlines https://t.co/GVCYcRMF6p",
-   "url": "https://x.com/IndiaToday/status/2116356323826909543"
   },
   {
    "author_id": "239486395",
@@ -362,7 +272,7 @@
    "id": "2116397838490022285",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 6,
+    "impression_count": 16,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -372,22 +282,58 @@
    "url": "https://x.com/ProtestMusica/status/2116397838490022285"
   },
   {
-   "author_id": "19897138",
-   "created_at": "2026-10-31T03:28:00.000Z",
+   "author_id": "1761697828655480832",
+   "created_at": "2026-10-31T02:39:55.000Z",
    "edit_history_tweet_ids": [
-    "2116371585577918971"
+    "2116359484260143268"
    ],
-   "id": "2116371585577918971",
+   "id": "2116359484260143268",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 1076,
-    "like_count": 2,
+    "bookmark_count": 2,
+    "impression_count": 208,
+    "like_count": 4,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "FNF NIGHTSHIFT NEWS: Friday Night Fallout | Ep 204 https://t.co/JlH02kunz7",
+   "url": "https://x.com/_ARMedia/status/2116359484260143268"
+  },
+  {
+   "author_id": "1302508792698015749",
+   "created_at": "2026-10-31T02:44:25.000Z",
+   "edit_history_tweet_ids": [
+    "2116360613756538912"
+   ],
+   "id": "2116360613756538912",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 247,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 4
+   },
+   "text": "HALLOWEEN JAMS!!! | PROTESTS LIVE | FUKITOL FRIDAY | NEWS | MUSIC | CHAT https://t.co/ys1mbsSaXH",
+   "url": "https://x.com/NubbinSaint/status/2116360613756538912"
+  },
+  {
+   "author_id": "239486395",
+   "created_at": "2026-10-31T05:13:32.000Z",
+   "edit_history_tweet_ids": [
+    "2116398143722172562"
+   ],
+   "id": "2116398143722172562",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "#LIVE || Take a look at the top news headlines https://t.co/Kh2gR3jzPE",
-   "url": "https://x.com/IndiaToday/status/2116371585577918971"
+   "text": "\ud83d\udd34Live | TRT World News https://t.co/zVIHbtQMDP",
+   "url": "https://x.com/ProtestMusica/status/2116398143722172562"
   },
   {
    "author_id": "4505795352",
@@ -398,7 +344,7 @@
    "id": "2116362789795324336",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 434,
+    "impression_count": 445,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
@@ -406,6 +352,24 @@
    },
    "text": "\ud83d\udd34 Nubbin St. Nubbins is LIVE\nHALLOWEEN JAMS!!! | PROTESTS LIVE | FUKITOL FRIDAY | NEWS | MUSIC | CHAT\n10.30.26\n@NubbinSaint\nhttps://t.co/QLNM8xF4Eb",
    "url": "https://x.com/DivintyMary/status/2116362789795324336"
+  },
+  {
+   "author_id": "19897138",
+   "created_at": "2026-10-31T03:28:00.000Z",
+   "edit_history_tweet_ids": [
+    "2116371585577918971"
+   ],
+   "id": "2116371585577918971",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 1118,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "#LIVE || Take a look at the top news headlines https://t.co/Kh2gR3jzPE",
+   "url": "https://x.com/IndiaToday/status/2116371585577918971"
   },
   {
    "author_id": "1594126098761220100",
@@ -436,7 +400,7 @@
    "id": "2116363153621844424",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 98,
+    "impression_count": 99,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
@@ -454,8 +418,8 @@
    "id": "2116379379668590654",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 178,
-    "like_count": 1,
+    "impression_count": 190,
+    "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
@@ -496,21 +460,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "903316311517921280",
-   "name": "Supply Chain Now",
-   "public_metrics": {
-    "followers_count": 24251,
-    "following_count": 10990,
-    "like_count": 8159,
-    "listed_count": 204,
-    "media_count": 11468,
-    "tweet_count": 31225
-   },
-   "username": "_supplychainnow",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
    "id": "898762021",
    "name": "Scott W. Luton",
    "public_metrics": {
@@ -526,11 +475,26 @@
    "verified_type": "blue"
   },
   {
+   "id": "903316311517921280",
+   "name": "Supply Chain Now",
+   "public_metrics": {
+    "followers_count": 24251,
+    "following_count": 10990,
+    "like_count": 8159,
+    "listed_count": 204,
+    "media_count": 11468,
+    "tweet_count": 31225
+   },
+   "username": "_supplychainnow",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
    "id": "29481688",
    "name": "Graham",
    "public_metrics": {
     "followers_count": 5251,
-    "following_count": 2399,
+    "following_count": 2400,
     "like_count": 70735,
     "listed_count": 37,
     "media_count": 2419,
@@ -578,25 +542,10 @@
     "following_count": 2,
     "like_count": 25194,
     "listed_count": 100,
-    "media_count": 2276,
-    "tweet_count": 43342
+    "media_count": 2277,
+    "tweet_count": 43344
    },
    "username": "thesavera_times",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "16116288",
-   "name": "rolandsmartin",
-   "public_metrics": {
-    "followers_count": 709285,
-    "following_count": 4202,
-    "like_count": 95340,
-    "listed_count": 4655,
-    "media_count": 34351,
-    "tweet_count": 700895
-   },
-   "username": "rolandsmartin",
    "verified": true,
    "verified_type": "blue"
   },
@@ -605,7 +554,7 @@
    "name": "Alexander",
    "public_metrics": {
     "followers_count": 978,
-    "following_count": 745,
+    "following_count": 746,
     "like_count": 5926,
     "listed_count": 7,
     "media_count": 711,
@@ -634,7 +583,7 @@
    "id": "935942321756966912",
    "name": "Real America's Voice (RAV)",
    "public_metrics": {
-    "followers_count": 572163,
+    "followers_count": 572165,
     "following_count": 1917,
     "like_count": 11930,
     "listed_count": 1586,
@@ -646,21 +595,6 @@
    "verified_type": "business"
   },
   {
-   "id": "1761697828655480832",
-   "name": "America Rising Media",
-   "public_metrics": {
-    "followers_count": 1743,
-    "following_count": 229,
-    "like_count": 6058,
-    "listed_count": 4,
-    "media_count": 1364,
-    "tweet_count": 8080
-   },
-   "username": "_ARMedia",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1999037304103723008",
    "name": "Growthnownews",
    "public_metrics": {
@@ -668,8 +602,8 @@
     "following_count": 12,
     "like_count": 1058,
     "listed_count": 2,
-    "media_count": 4717,
-    "tweet_count": 6059
+    "media_count": 4719,
+    "tweet_count": 6062
    },
    "username": "growthnownews",
    "verified": true,
@@ -699,11 +633,26 @@
     "like_count": 21315,
     "listed_count": 143,
     "media_count": 11126,
-    "tweet_count": 2058893
+    "tweet_count": 2058895
    },
    "username": "ProtestMusica",
    "verified": false,
    "verified_type": "none"
+  },
+  {
+   "id": "1761697828655480832",
+   "name": "America Rising Media",
+   "public_metrics": {
+    "followers_count": 1743,
+    "following_count": 229,
+    "like_count": 6058,
+    "listed_count": 4,
+    "media_count": 1365,
+    "tweet_count": 8081
+   },
+   "username": "_ARMedia",
+   "verified": true,
+   "verified_type": "blue"
   },
   {
    "id": "1302508792698015749",
@@ -721,32 +670,32 @@
    "verified_type": "blue"
   },
   {
-   "id": "19897138",
-   "name": "IndiaToday",
-   "public_metrics": {
-    "followers_count": 6275497,
-    "following_count": 83,
-    "like_count": 4431,
-    "listed_count": 7344,
-    "media_count": 582086,
-    "tweet_count": 1543184
-   },
-   "username": "IndiaToday",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "4505795352",
    "name": "Miss Mary",
    "public_metrics": {
     "followers_count": 56374,
-    "following_count": 34265,
-    "like_count": 357425,
+    "following_count": 34266,
+    "like_count": 357426,
     "listed_count": 89,
     "media_count": 16733,
-    "tweet_count": 218550
+    "tweet_count": 218551
    },
    "username": "DivintyMary",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "19897138",
+   "name": "IndiaToday",
+   "public_metrics": {
+    "followers_count": 6275503,
+    "following_count": 83,
+    "like_count": 4431,
+    "listed_count": 7342,
+    "media_count": 582086,
+    "tweet_count": 1543186
+   },
+   "username": "IndiaToday",
    "verified": true,
    "verified_type": "blue"
   },
@@ -756,10 +705,10 @@
    "public_metrics": {
     "followers_count": 1270,
     "following_count": 1795,
-    "like_count": 24821,
+    "like_count": 24822,
     "listed_count": 6,
     "media_count": 1143,
-    "tweet_count": 11593
+    "tweet_count": 11594
    },
    "username": "AshUSA1111",
    "verified": true,
