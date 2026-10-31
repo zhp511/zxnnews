@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T16:52:24Z",
+ "fetched_at": "2026-10-31T17:09:30Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T13:52:00Z",
+  "start_time": "2026-10-31T14:09:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,26 +17,11 @@
    "edit_history_tweet_ids": [
     "2116560440088216049"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live Now",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 198,
-      "expanded_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
-      "start": 175,
-      "status": 200,
-      "title": "TRT World",
-      "unwound_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
-      "url": "https://t.co/9qQMMMfl8l"
-     }
-    ]
-   },
    "id": "2116560440088216049",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1284,
-    "like_count": 2,
+    "impression_count": 1369,
+    "like_count": 3,
     "quote_count": 0,
     "reply_count": 1,
     "retweet_count": 1
@@ -50,31 +35,16 @@
    "edit_history_tweet_ids": [
     "2116560918616093052"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live Now",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 200,
-      "expanded_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
-      "start": 177,
-      "status": 200,
-      "title": "TRT World",
-      "unwound_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
-      "url": "https://t.co/on9EGBrnes"
-     }
-    ]
-   },
    "id": "2116560918616093052",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 991,
-    "like_count": 2,
+    "impression_count": 1088,
+    "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 2
+    "retweet_count": 3
    },
-   "text": "🔴 LIVE: Turkish President Recep Tayyip Erdogan and his Ukrainian counterpart Volodymyr Zelenskyy hold a joint press conference at the Dolmabahce Presidential Office in Istanbul https://t.co/on9EGBrnes",
+   "text": "\ud83d\udd34 LIVE: Turkish President Recep Tayyip Erdogan and his Ukrainian counterpart Volodymyr Zelenskyy hold a joint press conference at the Dolmabahce Presidential Office in Istanbul https://t.co/on9EGBrnes",
    "url": "https://x.com/anadoluagency/status/2116560918616093052"
   },
   {
@@ -83,50 +53,6 @@
    "edit_history_tweet_ids": [
     "2116540484185100797"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 234,
-      "start": 221,
-      "tag": "Midterms2026"
-     },
-     {
-      "end": 241,
-      "start": 235,
-      "tag": "Trump"
-     },
-     {
-      "end": 253,
-      "start": 242,
-      "tag": "JohnGordon"
-     }
-    ],
-    "urls": [
-     {
-      "description": "TRUMP'S FINAL MIDTERM PUSH: What's Really Happening Before Election Day?",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 278,
-      "expanded_url": "https://x.com/i/broadcasts/2rJaYApYeynMeb",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2116540487922241536/LB9LUviL?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116540487922241536/LB9LUviL?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 255,
-      "status": 200,
-      "title": "John Gordon",
-      "unwound_url": "https://x.com/i/broadcasts/2rJaYApYeynMeb",
-      "url": "https://t.co/TKve1lEfjY"
-     }
-    ]
-   },
    "id": "2116540484185100797",
    "public_metrics": {
     "bookmark_count": 0,
@@ -136,86 +62,26 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "🚨 MIDTERM SHOWDOWN! Trump’s final election push, 20+ tele-rallies, Alaska election controversy, Elon Musk’s warnings &amp; more!\n\nPLUS: Eric Deters on Kimberly Guilfoyle’s $100K AMEX bill!\n\n🎙️ The Truth with John Gordon\n\n#Midterms2026 #Trump #JohnGordon\n\nhttps://t.co/TKve1lEfjY",
+   "text": "\ud83d\udea8 MIDTERM SHOWDOWN! Trump\u2019s final election push, 20+ tele-rallies, Alaska election controversy, Elon Musk\u2019s warnings &amp; more!\n\nPLUS: Eric Deters on Kimberly Guilfoyle\u2019s $100K AMEX bill!\n\n\ud83c\udf99\ufe0f The Truth with John Gordon\n\n#Midterms2026 #Trump #JohnGordon\n\nhttps://t.co/TKve1lEfjY",
    "url": "https://x.com/JohnGordonTV/status/2116540484185100797"
   },
   {
-   "author_id": "1659666610217467907",
-   "created_at": "2026-10-31T14:49:37.000Z",
+   "author_id": "2035616210684125184",
+   "created_at": "2026-10-31T15:45:01.000Z",
    "edit_history_tweet_ids": [
-    "2116543117436293145"
+    "2116557060057805160"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "🚨 Colorado vs Kansas State RECAP! 🦬 | Week 9 College Football Chaos, Big Upsets & BREAKING NEWS!",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 124,
-      "expanded_url": "https://x.com/i/broadcasts/2RezkzRMnEoZjq",
-      "start": 101,
-      "status": 200,
-      "title": "Sports with Truckin Chubbzy",
-      "unwound_url": "https://x.com/i/broadcasts/2RezkzRMnEoZjq",
-      "url": "https://t.co/rFny710xka"
-     }
-    ]
-   },
-   "id": "2116543117436293145",
+   "id": "2116557060057805160",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 55,
+    "impression_count": 20,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🚨 Colorado vs Kansas State RECAP! 🦬 | Week 9 College Football Chaos, Big Upsets &amp; BREAKING NEWS! https://t.co/rFny710xka",
-   "url": "https://x.com/truckinchubbzy/status/2116543117436293145"
-  },
-  {
-   "author_id": "2088531875618836480",
-   "created_at": "2026-10-31T15:03:10.000Z",
-   "edit_history_tweet_ids": [
-    "2116546529188311354"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 111,
-      "expanded_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 88,
-      "status": 200,
-      "title": "Live Streaming Press",
-      "unwound_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
-      "url": "https://t.co/mSDqinEb6f"
-     }
-    ]
-   },
-   "id": "2116546529188311354",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1807,
-    "like_count": 1,
-    "quote_count": 1,
-    "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis\n\nhttps://t.co/mSDqinEb6f",
-   "url": "https://x.com/LiveStreamprz/status/2116546529188311354"
+   "text": "Watch Press TV\u2019s live stream for the latest news, breaking updates, and expert analysis\nhttps://t.co/x1rReDo9r5",
+   "url": "https://x.com/AsItIsMYNAME/status/2116557060057805160"
   },
   {
    "author_id": "2088531875618836480",
@@ -223,33 +89,6 @@
    "edit_history_tweet_ids": [
     "2116546457712873553"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 110,
-      "expanded_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 87,
-      "status": 200,
-      "title": "Live Streaming Press",
-      "unwound_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
-      "url": "https://t.co/mSDqinDDgH"
-     }
-    ]
-   },
    "id": "2116546457712873553",
    "public_metrics": {
     "bookmark_count": 0,
@@ -263,49 +102,58 @@
    "url": "https://x.com/LiveStreamprz/status/2116546457712873553"
   },
   {
-   "author_id": "2035616210684125184",
-   "created_at": "2026-10-31T15:45:01.000Z",
+   "author_id": "2088531875618836480",
+   "created_at": "2026-10-31T15:03:10.000Z",
    "edit_history_tweet_ids": [
-    "2116557060057805160"
+    "2116546529188311354"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 111,
-      "expanded_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 88,
-      "status": 200,
-      "title": "Live Streaming Press",
-      "unwound_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
-      "url": "https://t.co/x1rReDo9r5"
-     }
-    ]
-   },
-   "id": "2116557060057805160",
+   "id": "2116546529188311354",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 19,
+    "impression_count": 1909,
+    "like_count": 1,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis\n\nhttps://t.co/mSDqinEb6f",
+   "url": "https://x.com/LiveStreamprz/status/2116546529188311354"
+  },
+  {
+   "author_id": "1659666610217467907",
+   "created_at": "2026-10-31T14:49:37.000Z",
+   "edit_history_tweet_ids": [
+    "2116543117436293145"
+   ],
+   "id": "2116543117436293145",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 58,
     "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83d\udea8 Colorado vs Kansas State RECAP! \ud83e\uddac | Week 9 College Football Chaos, Big Upsets &amp; BREAKING NEWS! https://t.co/rFny710xka",
+   "url": "https://x.com/truckinchubbzy/status/2116543117436293145"
+  },
+  {
+   "author_id": "1461110373679910920",
+   "created_at": "2026-10-31T16:03:11.000Z",
+   "edit_history_tweet_ids": [
+    "2116561630674706467"
+   ],
+   "id": "2116561630674706467",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 109,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "Watch Press TV’s live stream for the latest news, breaking updates, and expert analysis\nhttps://t.co/x1rReDo9r5",
-   "url": "https://x.com/AsItIsMYNAME/status/2116557060057805160"
+   "text": "Debate On Islamic Morality With Aftab Borka https://t.co/I1HACVkUla",
+   "url": "https://x.com/ExMuslimSameer/status/2116561630674706467"
   },
   {
    "author_id": "1542252597855375367",
@@ -313,25 +161,10 @@
    "edit_history_tweet_ids": [
     "2116562855705170249"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "TAYLOR TO THE BEARS?! Mack Debate, Parsons' Return & the MNF Injury Report",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 102,
-      "expanded_url": "https://x.com/i/broadcasts/2onAVoKeoygrma",
-      "start": 79,
-      "status": 200,
-      "title": "Chicago Sports Podcast",
-      "unwound_url": "https://x.com/i/broadcasts/2onAVoKeoygrma",
-      "url": "https://t.co/pwuTBNbClD"
-     }
-    ]
-   },
    "id": "2116562855705170249",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 176,
+    "impression_count": 212,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -341,81 +174,21 @@
    "url": "https://x.com/ChiSportsTracks/status/2116562855705170249"
   },
   {
-   "author_id": "1461110373679910920",
-   "created_at": "2026-10-31T16:03:11.000Z",
-   "edit_history_tweet_ids": [
-    "2116561630674706467"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Debate On Islamic Morality With Aftab Borka",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 67,
-      "expanded_url": "https://x.com/i/broadcasts/2ybVYyRRomEOkn",
-      "start": 44,
-      "status": 200,
-      "title": "Ex Muslim Sameer",
-      "unwound_url": "https://x.com/i/broadcasts/2ybVYyRRomEOkn",
-      "url": "https://t.co/I1HACVkUla"
-     }
-    ]
-   },
-   "id": "2116561630674706467",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 100,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Debate On Islamic Morality With Aftab Borka https://t.co/I1HACVkUla",
-   "url": "https://x.com/ExMuslimSameer/status/2116561630674706467"
-  },
-  {
    "author_id": "1492167536200273926",
    "created_at": "2026-10-31T14:13:31.000Z",
    "edit_history_tweet_ids": [
     "2116534033089716600"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 103,
-      "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116533523087548416/fY1i-HPe?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116533523087548416/fY1i-HPe?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 80,
-      "status": 200,
-      "title": "BJDichter - HonkingForFreedom.com",
-      "unwound_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
-      "url": "https://t.co/zomQiF7ktn"
-     }
-    ]
-   },
    "id": "2116534033089716600",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 79,
+    "impression_count": 82,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/zomQiF7ktn",
+   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/zomQiF7ktn",
    "url": "https://x.com/Honking4Freedom/status/2116534033089716600"
   },
   {
@@ -424,33 +197,6 @@
    "edit_history_tweet_ids": [
     "2116534104703574434"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 103,
-      "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116533523087548416/fY1i-HPe?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116533523087548416/fY1i-HPe?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 80,
-      "status": 200,
-      "title": "BJDichter - HonkingForFreedom.com",
-      "unwound_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
-      "url": "https://t.co/Ie9iMIewm8"
-     }
-    ]
-   },
    "id": "2116534104703574434",
    "public_metrics": {
     "bookmark_count": 0,
@@ -460,7 +206,7 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/Ie9iMIewm8",
+   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/Ie9iMIewm8",
    "url": "https://x.com/CorrectFm/status/2116534104703574434"
   },
   {
@@ -469,43 +215,16 @@
    "edit_history_tweet_ids": [
     "2116534506643398687"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 103,
-      "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116533523087548416/fY1i-HPe?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116533523087548416/fY1i-HPe?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 80,
-      "status": 200,
-      "title": "BJDichter - HonkingForFreedom.com",
-      "unwound_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
-      "url": "https://t.co/oWFW8ySDVP"
-     }
-    ]
-   },
    "id": "2116534506643398687",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 63,
+    "impression_count": 67,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/oWFW8ySDVP",
+   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/oWFW8ySDVP",
    "url": "https://x.com/NatTelegraph/status/2116534506643398687"
   },
   {
@@ -514,44 +233,35 @@
    "edit_history_tweet_ids": [
     "2116533479760334929"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 105,
-      "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116533523087548416/fY1i-HPe?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116533523087548416/fY1i-HPe?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 82,
-      "status": 200,
-      "title": "BJDichter - HonkingForFreedom.com",
-      "unwound_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
-      "url": "https://t.co/HvJ60aeKpd"
-     }
-    ]
-   },
    "id": "2116533479760334929",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 675,
-    "like_count": 3,
+    "impression_count": 689,
+    "like_count": 4,
     "quote_count": 1,
     "reply_count": 0,
-    "retweet_count": 2
+    "retweet_count": 3
    },
-   "text": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/HvJ60aeKpd",
+   "text": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/HvJ60aeKpd",
    "url": "https://x.com/BJdichter/status/2116533479760334929"
+  },
+  {
+   "author_id": "1541923961474146304",
+   "created_at": "2026-10-31T16:31:13.000Z",
+   "edit_history_tweet_ids": [
+    "2116568686664282290"
+   ],
+   "id": "2116568686664282290",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 18,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla &amp; Election Day https://t.co/QBZMTohSyS",
+   "url": "https://x.com/F_I_R_E_Fighter/status/2116568686664282290"
   },
   {
    "author_id": "2026120953206321152",
@@ -559,37 +269,10 @@
    "edit_history_tweet_ids": [
     "2116560863763304813"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "TRUMP'S FINAL MIDTERM PUSH: What's Really Happening Before Election Day?",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 96,
-      "expanded_url": "https://x.com/i/broadcasts/2rJaYApYeynMeb",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2116540487922241536/LB9LUviL?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116540487922241536/LB9LUviL?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 73,
-      "status": 200,
-      "title": "John Gordon",
-      "unwound_url": "https://x.com/i/broadcasts/2rJaYApYeynMeb",
-      "url": "https://t.co/TKve1lEN9w"
-     }
-    ]
-   },
    "id": "2116560863763304813",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2,
+    "impression_count": 3,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -599,42 +282,33 @@
    "url": "https://x.com/JohnGordonTV/status/2116560863763304813"
   },
   {
+   "author_id": "1952143484095430656",
+   "created_at": "2026-10-31T16:31:17.000Z",
+   "edit_history_tweet_ids": [
+    "2116568702418080000"
+   ],
+   "id": "2116568702418080000",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla &amp; Election Day https://t.co/3C6uUz06HE",
+   "url": "https://x.com/leadprayhodl/status/2116568702418080000"
+  },
+  {
    "author_id": "16116288",
    "created_at": "2026-10-31T15:48:17.000Z",
    "edit_history_tweet_ids": [
     "2116557880153284817"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Roland live in Fort Bend County, Texas for election canvassing",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 86,
-      "expanded_url": "https://x.com/i/broadcasts/2RezkqoMlJMbEJ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116557922708627456/Hc6HDAUr?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116557922708627456/Hc6HDAUr?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 63,
-      "status": 200,
-      "title": "rolandsmartin",
-      "unwound_url": "https://x.com/i/broadcasts/2RezkqoMlJMbEJ",
-      "url": "https://t.co/fQjd0uQGaq"
-     }
-    ]
-   },
    "id": "2116557880153284817",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 960,
+    "impression_count": 1028,
     "like_count": 8,
     "quote_count": 1,
     "reply_count": 0,
@@ -649,79 +323,25 @@
    "edit_history_tweet_ids": [
     "2116538175799636468"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Talarico’s “Affordability Plan,” Election Fraud Storms & Texas H-1B Heat",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 100,
-      "expanded_url": "https://x.com/i/broadcasts/2KolLjmWyaePKY",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116538218392780800/mlKAVamV?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116538218392780800/mlKAVamV?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 77,
-      "status": 200,
-      "title": "sidebartv",
-      "unwound_url": "https://x.com/i/broadcasts/2KolLjmWyaePKY",
-      "url": "https://t.co/t8Q4hlnOHy"
-     }
-    ]
-   },
    "id": "2116538175799636468",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 174,
+    "impression_count": 180,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 2
    },
-   "text": "Talarico’s “Affordability Plan,” Election Fraud Storms &amp; Texas H-1B Heat https://t.co/t8Q4hlnOHy",
+   "text": "Talarico\u2019s \u201cAffordability Plan,\u201d Election Fraud Storms &amp; Texas H-1B Heat https://t.co/t8Q4hlnOHy",
    "url": "https://x.com/sidebartv180/status/2116538175799636468"
   },
   {
-   "author_id": "1541923961474146304",
-   "created_at": "2026-10-31T16:31:13.000Z",
+   "author_id": "73684426",
+   "created_at": "2026-10-31T17:02:44.000Z",
    "edit_history_tweet_ids": [
-    "2116568686664282290"
+    "2116576620152508835"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla & Election Day",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 81,
-      "expanded_url": "https://x.com/i/broadcasts/2OdmKJbjeAYqAo",
-      "images": [
-       {
-        "height": 540,
-        "url": "https://pbs.twimg.com/news_img/2116290194080972800/bYr6DQAQ?format=jpg&name=orig",
-        "width": 960
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116290194080972800/bYr6DQAQ?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 58,
-      "status": 200,
-      "title": "Marc - Financial FIRE Fighter",
-      "unwound_url": "https://x.com/i/broadcasts/2OdmKJbjeAYqAo",
-      "url": "https://t.co/QBZMTohSyS"
-     }
-    ]
-   },
-   "id": "2116568686664282290",
+   "id": "2116576620152508835",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 14,
@@ -730,53 +350,8 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla &amp; Election Day https://t.co/QBZMTohSyS",
-   "url": "https://x.com/F_I_R_E_Fighter/status/2116568686664282290"
-  },
-  {
-   "author_id": "1952143484095430656",
-   "created_at": "2026-10-31T16:31:17.000Z",
-   "edit_history_tweet_ids": [
-    "2116568702418080000"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla & Election Day",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 81,
-      "expanded_url": "https://x.com/i/broadcasts/2onAALlQYqkbpa",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116324645783719936/kr822wXz?format=png&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116324645783719936/kr822wXz?format=png&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 58,
-      "status": 200,
-      "title": "Nick Masi",
-      "unwound_url": "https://x.com/i/broadcasts/2onAALlQYqkbpa",
-      "url": "https://t.co/3C6uUz06HE"
-     }
-    ]
-   },
-   "id": "2116568702418080000",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 7,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla &amp; Election Day https://t.co/3C6uUz06HE",
-   "url": "https://x.com/leadprayhodl/status/2116568702418080000"
+   "text": "THEY WANT TO DESTROY AMERICA?! Reacting Live to Steven Crowder &amp; Ben Shapiro https://t.co/0JYhr2WFn2",
+   "url": "https://x.com/AaronMachbitz/status/2116576620152508835"
   },
   {
    "author_id": "386551109",
@@ -784,37 +359,10 @@
    "edit_history_tweet_ids": [
     "2116561096723034540"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "America Unplugged 10-31-26",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 50,
-      "expanded_url": "https://x.com/i/broadcasts/2onAVjXoWOaZjm",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116563551561109504/JK1zcUAp?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116563551561109504/JK1zcUAp?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 27,
-      "status": 200,
-      "title": "Tony Arterburn",
-      "unwound_url": "https://x.com/i/broadcasts/2onAVjXoWOaZjm",
-      "url": "https://t.co/tBrxdueDBV"
-     }
-    ]
-   },
    "id": "2116561096723034540",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 80,
+    "impression_count": 126,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
@@ -829,25 +377,10 @@
    "edit_history_tweet_ids": [
     "2116561096332992986"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "America Unplugged 10-31-26",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 50,
-      "expanded_url": "https://x.com/i/broadcasts/2ZBKednbePeAob",
-      "start": 27,
-      "status": 200,
-      "title": "Billy Ray Valentine",
-      "unwound_url": "https://x.com/i/broadcasts/2ZBKednbePeAob",
-      "url": "https://t.co/RoIRV3Hnhu"
-     }
-    ]
-   },
    "id": "2116561096332992986",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 19,
+    "impression_count": 22,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -862,21 +395,6 @@
    "edit_history_tweet_ids": [
     "2116533346587058197"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Veterans Free Enterprise / Unity, America. Thanks be to GOD",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 83,
-      "expanded_url": "https://x.com/i/broadcasts/2qVAONeARNbLrM",
-      "start": 60,
-      "status": 200,
-      "title": "Unity America 🎙",
-      "unwound_url": "https://x.com/i/broadcasts/2qVAONeARNbLrM",
-      "url": "https://t.co/fPAhpeFZVG"
-     }
-    ]
-   },
    "id": "2116533346587058197",
    "public_metrics": {
     "bookmark_count": 0,
@@ -890,87 +408,15 @@
    "url": "https://x.com/UnityAmerica/status/2116533346587058197"
   },
   {
-   "author_id": "205892255",
-   "created_at": "2026-10-31T14:00:05.000Z",
-   "edit_history_tweet_ids": [
-    "2116530653852258518"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "MORE TIME FOR AMERICA—IF THE CHURCH COOPERATES WITH THE WORD!!",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 86,
-      "expanded_url": "https://x.com/i/broadcasts/2aWbQJPlLnMElN",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116530696399278080/1QN8s9Kh?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116530696399278080/1QN8s9Kh?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 63,
-      "status": 200,
-      "title": "Joseph Z",
-      "unwound_url": "https://x.com/i/broadcasts/2aWbQJPlLnMElN",
-      "url": "https://t.co/3nNovkYLDA"
-     }
-    ]
-   },
-   "id": "2116530653852258518",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 527,
-    "like_count": 9,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 3
-   },
-   "text": "MORE TIME FOR AMERICA—IF THE CHURCH COOPERATES WITH THE WORD!! https://t.co/3nNovkYLDA",
-   "url": "https://x.com/OfficialJosephZ/status/2116530653852258518"
-  },
-  {
    "author_id": "882505074",
    "created_at": "2026-10-31T15:00:13.000Z",
    "edit_history_tweet_ids": [
     "2116545786427133986"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live broadcast | English News Bulletin",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 62,
-      "expanded_url": "https://x.com/i/broadcasts/2WXKZEjYlZLJdL",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116545829120991232/b1FBOMTM?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116545829120991232/b1FBOMTM?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 39,
-      "status": 200,
-      "title": "مركز الأخبار",
-      "unwound_url": "https://x.com/i/broadcasts/2WXKZEjYlZLJdL",
-      "url": "https://t.co/LvMnHn9u3s"
-     }
-    ]
-   },
    "id": "2116545786427133986",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1986,
+    "impression_count": 2091,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -985,89 +431,35 @@
    "edit_history_tweet_ids": [
     "2116545742223372454"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "BETSPRESSO 🎃 💰SATURDAY Best Bets, News & MORE! | BNN LIVE 📺 10.31.2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 100,
-      "expanded_url": "https://x.com/i/broadcasts/2qVAYjQAOzVvEA",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116552728164147200/NFActz3_?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116552728164147200/NFActz3_?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 77,
-      "status": 200,
-      "title": "SPJ",
-      "unwound_url": "https://x.com/i/broadcasts/2qVAYjQAOzVvEA",
-      "url": "https://t.co/pHwGfO23L7"
-     }
-    ]
-   },
    "id": "2116545742223372454",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2643,
-    "like_count": 5,
+    "impression_count": 2774,
+    "like_count": 6,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "BETSPRESSO 🎃 💰SATURDAY  Best Bets, News &amp; MORE! | BNN LIVE 📺  10.31.2026 https://t.co/pHwGfO23L7",
+   "text": "BETSPRESSO \ud83c\udf83 \ud83d\udcb0SATURDAY  Best Bets, News &amp; MORE! | BNN LIVE \ud83d\udcfa  10.31.2026 https://t.co/pHwGfO23L7",
    "url": "https://x.com/SweatpantJesus/status/2116545742223372454"
   },
   {
-   "author_id": "158903216",
-   "created_at": "2026-10-31T14:35:38.000Z",
+   "author_id": "19897138",
+   "created_at": "2026-10-31T15:26:36.000Z",
    "edit_history_tweet_ids": [
-    "2116539599447118259"
+    "2116552426086183138"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "OUR BLACK NEWS with Ashyante Shantell Gill (Brooklyn Park, MN)",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 86,
-      "expanded_url": "https://x.com/i/broadcasts/1YxNrblapQQxw",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2115436624620265473/lhrmR2Jm?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115436624620265473/lhrmR2Jm?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 63,
-      "status": 200,
-      "title": "Dr. Don Allen, Ed.D., Ed.S., M.A. Ed., MAT",
-      "unwound_url": "https://x.com/i/broadcasts/1YxNrblapQQxw",
-      "url": "https://t.co/ys8NQK9BR2"
-     }
-    ]
-   },
-   "id": "2116539599447118259",
+   "id": "2116552426086183138",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 59,
-    "like_count": 3,
+    "impression_count": 5195,
+    "like_count": 0,
     "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 2
+    "reply_count": 0,
+    "retweet_count": 0
    },
-   "text": "OUR BLACK NEWS with Ashyante Shantell Gill (Brooklyn Park, MN) https://t.co/ys8NQK9BR2",
-   "url": "https://x.com/DonAllen02/status/2116539599447118259"
+   "text": "Catch the top news updates &amp; headlines, only on India Today! https://t.co/P1JMQeJ9br",
+   "url": "https://x.com/IndiaToday/status/2116552426086183138"
   }
  ],
  "users": [
@@ -1075,12 +467,12 @@
    "id": "804605049859145728",
    "name": "TRT World Now",
    "public_metrics": {
-    "followers_count": 298167,
+    "followers_count": 298169,
     "following_count": 22,
     "like_count": 1,
     "listed_count": 1515,
-    "media_count": 158793,
-    "tweet_count": 194254
+    "media_count": 158794,
+    "tweet_count": 194255
    },
    "username": "TRTWorldNow",
    "verified": true,
@@ -1090,12 +482,12 @@
    "id": "240265305",
    "name": "Anadolu English",
    "public_metrics": {
-    "followers_count": 318849,
+    "followers_count": 318851,
     "following_count": 21,
     "like_count": 2,
     "listed_count": 2986,
-    "media_count": 308462,
-    "tweet_count": 425340
+    "media_count": 308463,
+    "tweet_count": 425341
    },
    "username": "anadoluagency",
    "verified": true,
@@ -1117,17 +509,17 @@
    "verified_type": "blue"
   },
   {
-   "id": "1659666610217467907",
-   "name": "Sports with Truckin Chubbzy",
+   "id": "2035616210684125184",
+   "name": "MY NAME",
    "public_metrics": {
-    "followers_count": 509,
-    "following_count": 1415,
-    "like_count": 4704,
-    "listed_count": 0,
-    "media_count": 3301,
-    "tweet_count": 5218
+    "followers_count": 448,
+    "following_count": 616,
+    "like_count": 5400,
+    "listed_count": 3,
+    "media_count": 2074,
+    "tweet_count": 6115
    },
-   "username": "truckinchubbzy",
+   "username": "AsItIsMYNAME",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1147,32 +539,17 @@
    "verified_type": "blue"
   },
   {
-   "id": "2035616210684125184",
-   "name": "MY NAME",
+   "id": "1659666610217467907",
+   "name": "Sports with Truckin Chubbzy",
    "public_metrics": {
-    "followers_count": 448,
-    "following_count": 616,
-    "like_count": 5398,
-    "listed_count": 3,
-    "media_count": 2074,
-    "tweet_count": 6114
+    "followers_count": 509,
+    "following_count": 1415,
+    "like_count": 4704,
+    "listed_count": 0,
+    "media_count": 3301,
+    "tweet_count": 5218
    },
-   "username": "AsItIsMYNAME",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1542252597855375367",
-   "name": "Chicago Sports Podcast",
-   "public_metrics": {
-    "followers_count": 4610,
-    "following_count": 1726,
-    "like_count": 4460,
-    "listed_count": 16,
-    "media_count": 2605,
-    "tweet_count": 6487
-   },
-   "username": "ChiSportsTracks",
+   "username": "truckinchubbzy",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1188,6 +565,21 @@
     "tweet_count": 287
    },
    "username": "ExMuslimSameer",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1542252597855375367",
+   "name": "Chicago Sports Podcast",
+   "public_metrics": {
+    "followers_count": 4610,
+    "following_count": 1726,
+    "like_count": 4460,
+    "listed_count": 16,
+    "media_count": 2605,
+    "tweet_count": 6487
+   },
+   "username": "ChiSportsTracks",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1252,36 +644,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "16116288",
-   "name": "rolandsmartin",
-   "public_metrics": {
-    "followers_count": 709509,
-    "following_count": 4202,
-    "like_count": 95352,
-    "listed_count": 4656,
-    "media_count": 34354,
-    "tweet_count": 700919
-   },
-   "username": "rolandsmartin",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1658306279721377795",
-   "name": "sidebartv",
-   "public_metrics": {
-    "followers_count": 315,
-    "following_count": 180,
-    "like_count": 343,
-    "listed_count": 0,
-    "media_count": 227,
-    "tweet_count": 456
-   },
-   "username": "sidebartv180",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1541923961474146304",
    "name": "Marc - Financial FIRE Fighter",
    "public_metrics": {
@@ -1300,7 +662,7 @@
    "id": "1952143484095430656",
    "name": "Nick Masi",
    "public_metrics": {
-    "followers_count": 193,
+    "followers_count": 192,
     "following_count": 107,
     "like_count": 1410,
     "listed_count": 1,
@@ -1308,6 +670,51 @@
     "tweet_count": 3118
    },
    "username": "leadprayhodl",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "16116288",
+   "name": "rolandsmartin",
+   "public_metrics": {
+    "followers_count": 709514,
+    "following_count": 4202,
+    "like_count": 95353,
+    "listed_count": 4656,
+    "media_count": 34355,
+    "tweet_count": 700921
+   },
+   "username": "rolandsmartin",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1658306279721377795",
+   "name": "sidebartv",
+   "public_metrics": {
+    "followers_count": 315,
+    "following_count": 180,
+    "like_count": 343,
+    "listed_count": 0,
+    "media_count": 228,
+    "tweet_count": 457
+   },
+   "username": "sidebartv180",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "73684426",
+   "name": "Aaron Machbitz",
+   "public_metrics": {
+    "followers_count": 5382,
+    "following_count": 718,
+    "like_count": 77464,
+    "listed_count": 23,
+    "media_count": 4749,
+    "tweet_count": 37585
+   },
+   "username": "AaronMachbitz",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1343,7 +750,7 @@
   },
   {
    "id": "299243451",
-   "name": "Unity America 🎙",
+   "name": "Unity America \ud83c\udf99",
    "public_metrics": {
     "followers_count": 425,
     "following_count": 302,
@@ -1357,23 +764,8 @@
    "verified_type": "blue"
   },
   {
-   "id": "205892255",
-   "name": "Joseph Z",
-   "public_metrics": {
-    "followers_count": 15007,
-    "following_count": 259,
-    "like_count": 7319,
-    "listed_count": 34,
-    "media_count": 1640,
-    "tweet_count": 4547
-   },
-   "username": "OfficialJosephZ",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "882505074",
-   "name": "مركز الأخبار",
+   "name": "\u0645\u0631\u0643\u0632 \u0627\u0644\u0623\u062e\u0628\u0627\u0631",
    "public_metrics": {
     "followers_count": 795108,
     "following_count": 2,
@@ -1392,27 +784,27 @@
    "public_metrics": {
     "followers_count": 25495,
     "following_count": 1244,
-    "like_count": 91182,
+    "like_count": 91189,
     "listed_count": 146,
     "media_count": 12784,
-    "tweet_count": 36835
+    "tweet_count": 36836
    },
    "username": "SweatpantJesus",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "158903216",
-   "name": "Dr. Don Allen, Ed.D., Ed.S., M.A. Ed., MAT",
+   "id": "19897138",
+   "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 1385,
-    "following_count": 2988,
-    "like_count": 11808,
-    "listed_count": 23,
-    "media_count": 2848,
-    "tweet_count": 11126
+    "followers_count": 6275795,
+    "following_count": 83,
+    "like_count": 4431,
+    "listed_count": 7342,
+    "media_count": 582241,
+    "tweet_count": 1543373
    },
-   "username": "DonAllen02",
+   "username": "IndiaToday",
    "verified": true,
    "verified_type": "blue"
   }
