@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-31T05:04:08Z",
- "searched_at": "2026-10-31T05:04:05Z",
+ "built_at": "2026-10-31T05:18:51Z",
+ "searched_at": "2026-10-31T05:18:51Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2116352102356410749",
-   "post_url": "https://x.com/ndtv/status/2116352102356410749",
-   "name": "NDTV",
-   "username": "ndtv",
-   "verified_type": "business",
-   "text": "#LIVE | #Faultlines with @gauried | Deadlocked: Netanyahu vs Eisenkot race | Ukraine War: European Leaders' Rare Putin Outreach |  US First Lady Melania Trump Brokers Local Ceasefire in Ukraine |  Howitzers At The Border: Why North Korea 'Warned' US\n\nhttps://t.co/dMPub7zpa2",
-   "started_at": "2026-10-31T02:10:35.000Z",
-   "assumed_live_until": "2026-10-31T05:10:35Z"
-  },
   {
    "post_id": "2116379623441469622",
    "post_url": "https://x.com/RealAmVoice/status/2116379623441469622",
@@ -83,6 +73,16 @@
    "text": "‌President Trump Participates in a Pool Spray, October 30, 2026 https://t.co/DTY6xfjaBV",
    "started_at": "2026-10-31T04:30:00.000Z",
    "assumed_live_until": "2026-10-31T07:30:00Z"
+  },
+  {
+   "post_id": "2116380418295632221",
+   "post_url": "https://x.com/averagedayjoes/status/2116380418295632221",
+   "name": "Average Day Joe's",
+   "username": "averagedayjoes",
+   "verified_type": "blue",
+   "text": "Episode#475 Artemis III Astronauts Meet Trump at White House https://t.co/40o3VaCvOW",
+   "started_at": "2026-10-31T04:03:06.000Z",
+   "assumed_live_until": "2026-10-31T07:03:06Z"
   }
  ]
 }
