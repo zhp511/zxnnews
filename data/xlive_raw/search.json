@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T10:13:15Z",
+ "fetched_at": "2026-10-31T10:31:45Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T07:12:00Z",
+  "start_time": "2026-10-31T07:31:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,64 +17,10 @@
    "edit_history_tweet_ids": [
     "2116444244147572822"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 102,
-      "start": 85,
-      "tag": "sudhanshutrivedi"
-     },
-     {
-      "end": 107,
-      "start": 103,
-      "tag": "bjp"
-     },
-     {
-      "end": 117,
-      "start": 108,
-      "tag": "congress"
-     },
-     {
-      "end": 134,
-      "start": 118,
-      "tag": "pressconference"
-     },
-     {
-      "end": 140,
-      "start": 135,
-      "tag": "live"
-     }
-    ],
-    "urls": [
-     {
-      "description": "LIVE: BJP'S Sudhanshu Trivedi Holds Press Conference I BJP I Rahul Gandhi | PM Modi",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 164,
-      "expanded_url": "https://x.com/i/broadcasts/2JQlPjOAJPXqly",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116444246349619200/BWRwRuN4?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116444246349619200/BWRwRuN4?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 141,
-      "status": 200,
-      "title": "ANI",
-      "unwound_url": "https://x.com/i/broadcasts/2JQlPjOAJPXqly",
-      "url": "https://t.co/JCP6oYlrhi"
-     }
-    ]
-   },
    "id": "2116444244147572822",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 11252,
+    "impression_count": 11404,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -89,48 +35,14 @@
    "edit_history_tweet_ids": [
     "2116449126803996733"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 64,
-      "start": 37,
-      "tag": "SaveDemocracyRemoveAnarchy"
-     }
-    ],
-    "urls": [
-     {
-      "description": "LIVE: Addressing press conference on #SaveDemocracyRemoveAnarchy at Jaipur",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 98,
-      "expanded_url": "https://x.com/i/broadcasts/2VNLRArWVJQQvl",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116449169401368576/cujqKnM1?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116449169401368576/cujqKnM1?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 75,
-      "status": 200,
-      "title": "Pralhad Joshi",
-      "unwound_url": "https://x.com/i/broadcasts/2VNLRArWVJQQvl",
-      "url": "https://t.co/xuWXDe5wyv"
-     }
-    ]
-   },
    "id": "2116449126803996733",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1106,
-    "like_count": 3,
+    "impression_count": 1136,
+    "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 2
+    "retweet_count": 3
    },
    "text": "LIVE: Addressing press conference on #SaveDemocracyRemoveAnarchy at Jaipur https://t.co/xuWXDe5wyv",
    "url": "https://x.com/JoshiPralhad/status/2116449126803996733"
@@ -141,37 +53,10 @@
    "edit_history_tweet_ids": [
     "2116440191510745413"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live | Punjab BJP Chief Kewal Singh Dhillon Holds Press Conference in Ludhiana",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 102,
-      "expanded_url": "https://x.com/i/broadcasts/1NGarobMZdlJj",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116440195163942912/pXOwuy6y?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116440195163942912/pXOwuy6y?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 79,
-      "status": 200,
-      "title": "The Savera Times",
-      "unwound_url": "https://x.com/i/broadcasts/1NGarobMZdlJj",
-      "url": "https://t.co/S2ETtqaPpG"
-     }
-    ]
-   },
    "id": "2116440191510745413",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 159,
+    "impression_count": 160,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -181,42 +66,33 @@
    "url": "https://x.com/thesavera_times/status/2116440191510745413"
   },
   {
+   "author_id": "1982030845138608128",
+   "created_at": "2026-10-31T10:22:24.000Z",
+   "edit_history_tweet_ids": [
+    "2116475872920347002"
+   ],
+   "id": "2116475872920347002",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 38,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "News Leader LIVE TV: \u0926\u0947\u0936-\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0939\u0930 \u0916\u092c\u0930 \u0938\u092c\u0938\u0947 \u0924\u0947\u091c | BreakingNews \n\nMock Parliament | UP Politics | INDIA Alliance Rally | BJP | Congress\nhttps://t.co/0b0YwGKiG8",
+   "url": "https://x.com/NewsLeaderLive/status/2116475872920347002"
+  },
+  {
    "author_id": "1415875893524791298",
    "created_at": "2026-10-31T08:24:51.000Z",
    "edit_history_tweet_ids": [
     "2116446288883634263"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 140,
-      "expanded_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 117,
-      "status": 200,
-      "title": "Footscray's Finest",
-      "unwound_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
-      "url": "https://t.co/8lmeomHrbi"
-     }
-    ]
-   },
    "id": "2116446288883634263",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 289,
+    "impression_count": 297,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 1,
@@ -231,37 +107,10 @@
    "edit_history_tweet_ids": [
     "2116445501079929128"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 140,
-      "expanded_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 117,
-      "status": 200,
-      "title": "Footscray's Finest",
-      "unwound_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
-      "url": "https://t.co/8lmeomGTlK"
-     }
-    ]
-   },
    "id": "2116445501079929128",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 263,
+    "impression_count": 271,
     "like_count": 8,
     "quote_count": 0,
     "reply_count": 0,
@@ -276,38 +125,11 @@
    "edit_history_tweet_ids": [
     "2116436042534302025"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 94,
-      "expanded_url": "https://x.com/i/broadcasts/2OdmWNEoNMzQEP",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116436086943522816/FSxP0hyG?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116436086943522816/FSxP0hyG?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 71,
-      "status": 200,
-      "title": "Footscray's Finest",
-      "unwound_url": "https://x.com/i/broadcasts/2OdmWNEoNMzQEP",
-      "url": "https://t.co/cyrjUxJYZ6"
-     }
-    ]
-   },
    "id": "2116436042534302025",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 801,
-    "like_count": 17,
+    "impression_count": 816,
+    "like_count": 18,
     "quote_count": 1,
     "reply_count": 5,
     "retweet_count": 6
@@ -317,29 +139,32 @@
   },
   {
    "author_id": "505519109",
+   "created_at": "2026-10-31T10:03:58.000Z",
+   "edit_history_tweet_ids": [
+    "2116471233785028932"
+   ],
+   "id": "2116471233785028932",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 61,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre https://t.co/TdAAsgOAzr",
+   "url": "https://x.com/mediasapientia/status/2116471233785028932"
+  },
+  {
+   "author_id": "505519109",
    "created_at": "2026-10-31T10:12:46.000Z",
    "edit_history_tweet_ids": [
     "2116473447022759963"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 83,
-      "expanded_url": "https://x.com/i/broadcasts/2RezPKkBknQlNy",
-      "start": 60,
-      "status": 200,
-      "title": "Sapientia Radio & TV",
-      "unwound_url": "https://x.com/i/broadcasts/2RezPKkBknQlNy",
-      "url": "https://t.co/PsJQBhfb31"
-     }
-    ]
-   },
    "id": "2116473447022759963",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 0,
+    "impression_count": 4,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -350,36 +175,39 @@
   },
   {
    "author_id": "505519109",
-   "created_at": "2026-10-31T10:03:58.000Z",
+   "created_at": "2026-10-31T10:23:05.000Z",
    "edit_history_tweet_ids": [
-    "2116471233785028932"
+    "2116476044479775075"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 83,
-      "expanded_url": "https://x.com/i/broadcasts/2KolOPWvLQPLVQ",
-      "start": 60,
-      "status": 200,
-      "title": "Sapientia Radio & TV",
-      "unwound_url": "https://x.com/i/broadcasts/2KolOPWvLQPLVQ",
-      "url": "https://t.co/TdAAsgOAzr"
-     }
-    ]
-   },
-   "id": "2116471233785028932",
+   "id": "2116476044479775075",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 48,
+    "impression_count": 4,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre https://t.co/Lcj8ZhNYEI",
+   "url": "https://x.com/mediasapientia/status/2116476044479775075"
+  },
+  {
+   "author_id": "505519109",
+   "created_at": "2026-10-31T10:16:19.000Z",
+   "edit_history_tweet_ids": [
+    "2116474338815742145"
+   ],
+   "id": "2116474338815742145",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre https://t.co/TdAAsgOAzr",
-   "url": "https://x.com/mediasapientia/status/2116471233785028932"
+   "text": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre https://t.co/NeGBWOs5ER",
+   "url": "https://x.com/mediasapientia/status/2116474338815742145"
   },
   {
    "author_id": "16116288",
@@ -387,38 +215,11 @@
    "edit_history_tweet_ids": [
     "2116447614849720519"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 113,
-      "expanded_url": "https://x.com/i/broadcasts/2NglmMbrpERlMV",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2116408770993491968/mYpusX0G?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116408770993491968/mYpusX0G?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 90,
-      "status": 200,
-      "title": "rolandsmartin",
-      "unwound_url": "https://x.com/i/broadcasts/2NglmMbrpERlMV",
-      "url": "https://t.co/thTiIM79p9"
-     }
-    ]
-   },
    "id": "2116447614849720519",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 815,
-    "like_count": 4,
+    "impression_count": 879,
+    "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
@@ -432,43 +233,16 @@
    "edit_history_tweet_ids": [
     "2116472470634901896"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "News bulletin Star Asia News Live 🔴",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 59,
-      "expanded_url": "https://x.com/i/broadcasts/2nQYJOjYLNzOLY",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116472472451063808/Gli-4wl_?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116472472451063808/Gli-4wl_?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 36,
-      "status": 200,
-      "title": "Star Asia Tv",
-      "unwound_url": "https://x.com/i/broadcasts/2nQYJOjYLNzOLY",
-      "url": "https://t.co/yBFa1vSaAY"
-     }
-    ]
-   },
    "id": "2116472470634901896",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 4,
+    "impression_count": 7,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News bulletin Star Asia News Live 🔴 https://t.co/yBFa1vSaAY",
+   "text": "News bulletin Star Asia News Live \ud83d\udd34 https://t.co/yBFa1vSaAY",
    "url": "https://x.com/StarAsiatvHD/status/2116472470634901896"
   },
   {
@@ -477,33 +251,6 @@
    "edit_history_tweet_ids": [
     "2116432960769405339"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "News Bulletin Star Asia Tv Live 🔴",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 57,
-      "expanded_url": "https://x.com/i/broadcasts/2WXKBpAkmWPKdM",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116433003354177536/-TvExfTy?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116433003354177536/-TvExfTy?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 34,
-      "status": 200,
-      "title": "Star Asia Tv",
-      "unwound_url": "https://x.com/i/broadcasts/2WXKBpAkmWPKdM",
-      "url": "https://t.co/lX37vFueS5"
-     }
-    ]
-   },
    "id": "2116432960769405339",
    "public_metrics": {
     "bookmark_count": 0,
@@ -513,8 +260,44 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News Bulletin Star Asia Tv Live 🔴 https://t.co/lX37vFueS5",
+   "text": "News Bulletin Star Asia Tv Live \ud83d\udd34 https://t.co/lX37vFueS5",
    "url": "https://x.com/StarAsiatvHD/status/2116432960769405339"
+  },
+  {
+   "author_id": "2107094653065449472",
+   "created_at": "2026-10-31T10:14:51.000Z",
+   "edit_history_tweet_ids": [
+    "2116473969528148437"
+   ],
+   "id": "2116473969528148437",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Marcus live: markets, charts and the news \u00b7 Saturday, October 31, 2026 https://t.co/XkAuI29fjc",
+   "url": "https://x.com/finvibelive/status/2116473969528148437"
+  },
+  {
+   "author_id": "1147113341720154112",
+   "created_at": "2026-10-31T10:22:18.000Z",
+   "edit_history_tweet_ids": [
+    "2116475846189818044"
+   ],
+   "id": "2116475846189818044",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 552,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 6
+   },
+   "text": "FPL GW9 DEADLINE STREAM \u2705 BENCHING DILEMMAS \ud83e\udd14 EARLY TEAM NEWS \ud83e\udd29 https://t.co/ZuMDDiOJDo",
+   "url": "https://x.com/TrophyFpl/status/2116475846189818044"
   },
   {
    "author_id": "2603038170",
@@ -522,37 +305,10 @@
    "edit_history_tweet_ids": [
     "2116458608556683268"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "EFF Tshela Thupa Rally addressed by President, Julius Malema",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 84,
-      "expanded_url": "https://x.com/i/broadcasts/2OdmWYJWAppmEo",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116458651422539776/8kU-VrcI?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116458651422539776/8kU-VrcI?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 61,
-      "status": 200,
-      "title": "African Vibe Media",
-      "unwound_url": "https://x.com/i/broadcasts/2OdmWYJWAppmEo",
-      "url": "https://t.co/e2zGYclq8d"
-     }
-    ]
-   },
    "id": "2116458608556683268",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 44,
+    "impression_count": 52,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -567,89 +323,17 @@
    "edit_history_tweet_ids": [
     "2116454928608616595"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "The EFF Hosts its Tshela Thupa Rally addressed by President, Julius Malema",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 98,
-      "expanded_url": "https://x.com/i/broadcasts/2lgkQlgPzmRoAW",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116454971193323520/B_-y3cAH?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116454971193323520/B_-y3cAH?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 75,
-      "status": 200,
-      "title": "Economic Freedom Fighters",
-      "unwound_url": "https://x.com/i/broadcasts/2lgkQlgPzmRoAW",
-      "url": "https://t.co/ndw3Z6nMQw"
-     }
-    ]
-   },
    "id": "2116454928608616595",
    "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 3675,
-    "like_count": 84,
+    "bookmark_count": 4,
+    "impression_count": 4245,
+    "like_count": 95,
     "quote_count": 1,
-    "reply_count": 2,
-    "retweet_count": 26
+    "reply_count": 3,
+    "retweet_count": 32
    },
    "text": "The EFF Hosts its Tshela Thupa Rally addressed by President, Julius Malema https://t.co/ndw3Z6nMQw",
    "url": "https://x.com/EFFSouthAfrica/status/2116454928608616595"
-  },
-  {
-   "author_id": "2603038170",
-   "created_at": "2026-10-31T10:00:23.000Z",
-   "edit_history_tweet_ids": [
-    "2116470331367919921"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "EFF Tshela Thupa Rally addressed by President, Julius Malema",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 84,
-      "expanded_url": "https://x.com/i/broadcasts/2lgkQjnRBOKyLe",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116470374137282560/iR9srimP?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116470374137282560/iR9srimP?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 61,
-      "status": 200,
-      "title": "African Vibe Media",
-      "unwound_url": "https://x.com/i/broadcasts/2lgkQjnRBOKyLe",
-      "url": "https://t.co/RwZbWcZ4AL"
-     }
-    ]
-   },
-   "id": "2116470331367919921",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 12,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "EFF Tshela Thupa Rally addressed by President, Julius Malema https://t.co/RwZbWcZ4AL",
-   "url": "https://x.com/AVMedia_za/status/2116470331367919921"
   },
   {
    "author_id": "162901927",
@@ -657,44 +341,35 @@
    "edit_history_tweet_ids": [
     "2116440088565653922"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "MAYIBUYE PRESIDENT FLOYD SHIVAMBU ADDRESS TO VOLUNTEERS AND COUNCILLOR CANDIDATES 2026 LGE",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 114,
-      "expanded_url": "https://x.com/i/broadcasts/1MJgNbRMmZMGL",
-      "images": [
-       {
-        "height": 634,
-        "url": "https://pbs.twimg.com/news_img/2116450341134983168/--Wd8DUk?format=jpg&name=orig",
-        "width": 1202
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116450341134983168/--Wd8DUk?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 91,
-      "status": 200,
-      "title": "Floyd Shivambu",
-      "unwound_url": "https://x.com/i/broadcasts/1MJgNbRMmZMGL",
-      "url": "https://t.co/ZGu7dVp83S"
-     }
-    ]
-   },
    "id": "2116440088565653922",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 1939,
-    "like_count": 21,
+    "impression_count": 2023,
+    "like_count": 22,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 3
    },
    "text": "MAYIBUYE PRESIDENT FLOYD SHIVAMBU ADDRESS TO VOLUNTEERS AND COUNCILLOR CANDIDATES 2026 LGE https://t.co/ZGu7dVp83S",
    "url": "https://x.com/FloydShivambu/status/2116440088565653922"
+  },
+  {
+   "author_id": "2603038170",
+   "created_at": "2026-10-31T10:00:23.000Z",
+   "edit_history_tweet_ids": [
+    "2116470331367919921"
+   ],
+   "id": "2116470331367919921",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 34,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "EFF Tshela Thupa Rally addressed by President, Julius Malema https://t.co/RwZbWcZ4AL",
+   "url": "https://x.com/AVMedia_za/status/2116470331367919921"
   }
  ],
  "users": [
@@ -702,12 +377,12 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9491157,
+    "followers_count": 9491166,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7878,
-    "media_count": 752162,
-    "tweet_count": 1183818
+    "media_count": 752175,
+    "tweet_count": 1183832
    },
    "username": "ANI",
    "verified": true,
@@ -717,7 +392,7 @@
    "id": "2845994058",
    "name": "Pralhad Joshi",
    "public_metrics": {
-    "followers_count": 271007,
+    "followers_count": 271008,
     "following_count": 414,
     "like_count": 41789,
     "listed_count": 378,
@@ -736,10 +411,25 @@
     "following_count": 2,
     "like_count": 25193,
     "listed_count": 100,
-    "media_count": 2288,
-    "tweet_count": 43360
+    "media_count": 2289,
+    "tweet_count": 43361
    },
    "username": "thesavera_times",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1982030845138608128",
+   "name": "News Leader",
+   "public_metrics": {
+    "followers_count": 3004,
+    "following_count": 1,
+    "like_count": 3,
+    "listed_count": 2,
+    "media_count": 29102,
+    "tweet_count": 29661
+   },
+   "username": "NewsLeaderLive",
    "verified": true,
    "verified_type": "blue"
   },
@@ -767,7 +457,7 @@
     "like_count": 2443,
     "listed_count": 21,
     "media_count": 1320,
-    "tweet_count": 11874
+    "tweet_count": 11876
    },
    "username": "mediasapientia",
    "verified": true,
@@ -777,12 +467,12 @@
    "id": "16116288",
    "name": "rolandsmartin",
    "public_metrics": {
-    "followers_count": 709366,
+    "followers_count": 709371,
     "following_count": 4202,
     "like_count": 95340,
     "listed_count": 4654,
     "media_count": 34352,
-    "tweet_count": 700901
+    "tweet_count": 700900
    },
    "username": "rolandsmartin",
    "verified": true,
@@ -800,6 +490,36 @@
     "tweet_count": 4844
    },
    "username": "StarAsiatvHD",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2107094653065449472",
+   "name": "FinVibe",
+   "public_metrics": {
+    "followers_count": 4,
+    "following_count": 0,
+    "like_count": 0,
+    "listed_count": 0,
+    "media_count": 295,
+    "tweet_count": 311
+   },
+   "username": "finvibelive",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1147113341720154112",
+   "name": "FPL Mo",
+   "public_metrics": {
+    "followers_count": 8784,
+    "following_count": 757,
+    "like_count": 89453,
+    "listed_count": 129,
+    "media_count": 8911,
+    "tweet_count": 62325
+   },
+   "username": "TrophyFpl",
    "verified": true,
    "verified_type": "blue"
   },
@@ -822,12 +542,12 @@
    "id": "932163222",
    "name": "Economic Freedom Fighters",
    "public_metrics": {
-    "followers_count": 2373150,
+    "followers_count": 2373147,
     "following_count": 10986,
     "like_count": 4275,
     "listed_count": 1176,
-    "media_count": 47270,
-    "tweet_count": 109021
+    "media_count": 47271,
+    "tweet_count": 109022
    },
    "username": "EFFSouthAfrica",
    "verified": true,
@@ -837,7 +557,7 @@
    "id": "162901927",
    "name": "Floyd Shivambu",
    "public_metrics": {
-    "followers_count": 1573252,
+    "followers_count": 1573254,
     "following_count": 8766,
     "like_count": 15980,
     "listed_count": 562,
