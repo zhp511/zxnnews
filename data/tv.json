@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-30T22:12:04Z",
+ "checked_at": "2026-10-31T11:07:17Z",
  "channels": [
   {
    "key": "foxweather",
@@ -9,8 +9,8 @@
    "handle": "FOXWeather",
    "watch_url": "https://www.youtube.com/@FOXWeather/live",
    "video_id": "wt6SIE7BXS8",
-   "ok": true,
-   "title": "Watch FOX Weather Channel Live Stream: Tracking Breaking Weather News, Local and National Forecasts"
+   "ok": false,
+   "why": "not live right now"
   },
   {
    "key": "livenow",
@@ -20,8 +20,8 @@
    "handle": "LiveNOWFOX",
    "watch_url": "https://www.youtube.com/@LiveNOWFOX/live",
    "video_id": "hWNN_REXBx0",
-   "ok": true,
-   "title": "LIVE NEWS: Trump rallies in Florida, Alaska Senate race probe, Brewers victory parade &amp; more"
+   "ok": false,
+   "why": "not live right now"
   },
   {
    "key": "cbs",
@@ -31,8 +31,8 @@
    "handle": "CBSNews",
    "watch_url": "https://www.youtube.com/@CBSNews/live",
    "video_id": "LakqyH8vmWg",
-   "ok": true,
-   "title": "LIVE: Breaking News and Top Stories on CBS News 24/7"
+   "ok": false,
+   "why": "not live right now"
   },
   {
    "key": "abc",
@@ -43,7 +43,7 @@
    "watch_url": "https://www.youtube.com/@ABCNews/live",
    "video_id": "5GIjlwoCblo",
    "ok": false,
-   "why": "check failed: HTTP Error 429: Too Many Requests"
+   "why": "not live right now"
   },
   {
    "key": "nbc",
@@ -53,8 +53,8 @@
    "handle": "NBCNews",
    "watch_url": "https://www.youtube.com/@NBCNews/live",
    "video_id": "GkQTef2ZDzk",
-   "ok": true,
-   "title": "LIVE: NBC News NOW - Oct. 30"
+   "ok": false,
+   "why": "not live right now"
   },
   {
    "key": "bloomberg",
@@ -64,8 +64,8 @@
    "handle": "markets",
    "watch_url": "https://www.youtube.com/@markets/live",
    "video_id": "QB5BNdBFujE",
-   "ok": true,
-   "title": "Bloomberg Business News Live"
+   "ok": false,
+   "why": "not live right now"
   },
   {
    "key": "sky",
@@ -75,8 +75,8 @@
    "handle": "SkyNews",
    "watch_url": "https://www.youtube.com/@SkyNews/live",
    "video_id": "MvG8xLpfgtU",
-   "ok": true,
-   "title": "The Wrap | Friday 30 October"
+   "ok": false,
+   "why": "not live right now"
   },
   {
    "key": "directv",
