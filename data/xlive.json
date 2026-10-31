@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-31T02:20:12Z",
- "searched_at": "2026-10-31T02:20:00Z",
+ "built_at": "2026-10-31T02:38:58Z",
+ "searched_at": "2026-10-31T02:38:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,6 +55,16 @@
    "assumed_live_until": "2026-10-31T03:45:37Z"
   },
   {
+   "post_id": "2116357014431670645",
+   "post_url": "https://x.com/rolandsmartin/status/2116357014431670645",
+   "name": "rolandsmartin",
+   "username": "rolandsmartin",
+   "verified_type": "blue",
+   "text": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push https://t.co/LMrw4rdvGg",
+   "started_at": "2026-10-31T02:30:06.000Z",
+   "assumed_live_until": "2026-10-31T05:30:06Z"
+  },
+  {
    "post_id": "2116337736294806015",
    "post_url": "https://x.com/SiriusXMPatriot/status/2116337736294806015",
    "name": "SiriusXM Patriot",
@@ -73,16 +83,6 @@
    "text": "President Trump is on stage NOW! Trump Rally #TrumpRally #VoteRed FL https://t.co/gj11qk8nzS",
    "started_at": "2026-10-31T00:00:46.000Z",
    "assumed_live_until": "2026-10-31T03:00:46Z"
-  },
-  {
-   "post_id": "2116318466248740876",
-   "post_url": "https://x.com/spnctynews/status/2116318466248740876",
-   "name": "Spin City News",
-   "username": "spnctynews",
-   "verified_type": "blue",
-   "text": "LIVE: President Trump speaks at campaign rally in Daytona Beach, FL #trump #viral #live https://t.co/D6CFnqo6Yk",
-   "started_at": "2026-10-30T23:56:56.000Z",
-   "assumed_live_until": "2026-10-31T02:56:56Z"
   }
  ]
 }
