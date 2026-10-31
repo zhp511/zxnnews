@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T16:15:00Z",
+ "fetched_at": "2026-10-31T16:33:39Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T13:14:00Z",
+  "start_time": "2026-10-31T13:33:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -35,8 +35,8 @@
    "id": "2116560440088216049",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 977,
-    "like_count": 1,
+    "impression_count": 1105,
+    "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
@@ -68,11 +68,11 @@
    "id": "2116560918616093052",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 712,
-    "like_count": 0,
+    "impression_count": 875,
+    "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1
+    "retweet_count": 2
    },
    "text": "\ud83d\udd34 LIVE: Turkish President Recep Tayyip Erdogan and his Ukrainian counterpart Volodymyr Zelenskyy hold a joint press conference at the Dolmabahce Presidential Office in Istanbul https://t.co/on9EGBrnes",
    "url": "https://x.com/anadoluagency/status/2116560918616093052"
@@ -150,7 +150,7 @@
    "id": "2116525530241552501",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 16990,
+    "impression_count": 17122,
     "like_count": 40,
     "quote_count": 0,
     "reply_count": 5,
@@ -222,51 +222,6 @@
    "url": "https://x.com/JohnGordonTV/status/2116540484185100797"
   },
   {
-   "author_id": "2035616210684125184",
-   "created_at": "2026-10-31T15:45:01.000Z",
-   "edit_history_tweet_ids": [
-    "2116557060057805160"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 111,
-      "expanded_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 88,
-      "status": 200,
-      "title": "Live Streaming Press",
-      "unwound_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
-      "url": "https://t.co/x1rReDo9r5"
-     }
-    ]
-   },
-   "id": "2116557060057805160",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 15,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Watch Press TV\u2019s live stream for the latest news, breaking updates, and expert analysis\nhttps://t.co/x1rReDo9r5",
-   "url": "https://x.com/AsItIsMYNAME/status/2116557060057805160"
-  },
-  {
    "author_id": "2088531875618836480",
    "created_at": "2026-10-31T15:03:10.000Z",
    "edit_history_tweet_ids": [
@@ -302,7 +257,7 @@
    "id": "2116546529188311354",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1546,
+    "impression_count": 1679,
     "like_count": 1,
     "quote_count": 1,
     "reply_count": 0,
@@ -310,6 +265,84 @@
    },
    "text": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis\n\nhttps://t.co/mSDqinEb6f",
    "url": "https://x.com/LiveStreamprz/status/2116546529188311354"
+  },
+  {
+   "author_id": "1659666610217467907",
+   "created_at": "2026-10-31T14:49:37.000Z",
+   "edit_history_tweet_ids": [
+    "2116543117436293145"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "\ud83d\udea8 Colorado vs Kansas State RECAP! \ud83e\uddac | Week 9 College Football Chaos, Big Upsets & BREAKING NEWS!",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 124,
+      "expanded_url": "https://x.com/i/broadcasts/2RezkzRMnEoZjq",
+      "start": 101,
+      "status": 200,
+      "title": "Sports with Truckin Chubbzy",
+      "unwound_url": "https://x.com/i/broadcasts/2RezkzRMnEoZjq",
+      "url": "https://t.co/rFny710xka"
+     }
+    ]
+   },
+   "id": "2116543117436293145",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 55,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83d\udea8 Colorado vs Kansas State RECAP! \ud83e\uddac | Week 9 College Football Chaos, Big Upsets &amp; BREAKING NEWS! https://t.co/rFny710xka",
+   "url": "https://x.com/truckinchubbzy/status/2116543117436293145"
+  },
+  {
+   "author_id": "2035616210684125184",
+   "created_at": "2026-10-31T15:45:01.000Z",
+   "edit_history_tweet_ids": [
+    "2116557060057805160"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 111,
+      "expanded_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 88,
+      "status": 200,
+      "title": "Live Streaming Press",
+      "unwound_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
+      "url": "https://t.co/x1rReDo9r5"
+     }
+    ]
+   },
+   "id": "2116557060057805160",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 18,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Watch Press TV\u2019s live stream for the latest news, breaking updates, and expert analysis\nhttps://t.co/x1rReDo9r5",
+   "url": "https://x.com/AsItIsMYNAME/status/2116557060057805160"
   },
   {
    "author_id": "2088531875618836480",
@@ -347,7 +380,7 @@
    "id": "2116546457712873553",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 24,
+    "impression_count": 25,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -355,72 +388,6 @@
    },
    "text": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis https://t.co/mSDqinDDgH",
    "url": "https://x.com/LiveStreamprz/status/2116546457712873553"
-  },
-  {
-   "author_id": "1659666610217467907",
-   "created_at": "2026-10-31T14:49:37.000Z",
-   "edit_history_tweet_ids": [
-    "2116543117436293145"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "\ud83d\udea8 Colorado vs Kansas State RECAP! \ud83e\uddac | Week 9 College Football Chaos, Big Upsets & BREAKING NEWS!",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 124,
-      "expanded_url": "https://x.com/i/broadcasts/2RezkzRMnEoZjq",
-      "start": 101,
-      "status": 200,
-      "title": "Sports with Truckin Chubbzy",
-      "unwound_url": "https://x.com/i/broadcasts/2RezkzRMnEoZjq",
-      "url": "https://t.co/rFny710xka"
-     }
-    ]
-   },
-   "id": "2116543117436293145",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 55,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "\ud83d\udea8 Colorado vs Kansas State RECAP! \ud83e\uddac | Week 9 College Football Chaos, Big Upsets &amp; BREAKING NEWS! https://t.co/rFny710xka",
-   "url": "https://x.com/truckinchubbzy/status/2116543117436293145"
-  },
-  {
-   "author_id": "1461110373679910920",
-   "created_at": "2026-10-31T16:03:11.000Z",
-   "edit_history_tweet_ids": [
-    "2116561630674706467"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Debate On Islamic Morality With Aftab Borka",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 67,
-      "expanded_url": "https://x.com/i/broadcasts/2ybVYyRRomEOkn",
-      "start": 44,
-      "status": 200,
-      "title": "Ex Muslim Sameer",
-      "unwound_url": "https://x.com/i/broadcasts/2ybVYyRRomEOkn",
-      "url": "https://t.co/I1HACVkUla"
-     }
-    ]
-   },
-   "id": "2116561630674706467",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 81,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Debate On Islamic Morality With Aftab Borka https://t.co/I1HACVkUla",
-   "url": "https://x.com/ExMuslimSameer/status/2116561630674706467"
   },
   {
    "author_id": "1542252597855375367",
@@ -446,7 +413,7 @@
    "id": "2116562855705170249",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 62,
+    "impression_count": 144,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -454,6 +421,39 @@
    },
    "text": "TAYLOR TO THE BEARS?! Mack Debate, Parsons' Return &amp; the MNF Injury Report https://t.co/pwuTBNbClD",
    "url": "https://x.com/ChiSportsTracks/status/2116562855705170249"
+  },
+  {
+   "author_id": "1461110373679910920",
+   "created_at": "2026-10-31T16:03:11.000Z",
+   "edit_history_tweet_ids": [
+    "2116561630674706467"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Debate On Islamic Morality With Aftab Borka",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 67,
+      "expanded_url": "https://x.com/i/broadcasts/2ybVYyRRomEOkn",
+      "start": 44,
+      "status": 200,
+      "title": "Ex Muslim Sameer",
+      "unwound_url": "https://x.com/i/broadcasts/2ybVYyRRomEOkn",
+      "url": "https://t.co/I1HACVkUla"
+     }
+    ]
+   },
+   "id": "2116561630674706467",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 90,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Debate On Islamic Morality With Aftab Borka https://t.co/I1HACVkUla",
+   "url": "https://x.com/ExMuslimSameer/status/2116561630674706467"
   },
   {
    "author_id": "1492167536200273926",
@@ -491,7 +491,7 @@
    "id": "2116534033089716600",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 76,
+    "impression_count": 79,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -581,7 +581,7 @@
    "id": "2116534506643398687",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 60,
+    "impression_count": 61,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -626,7 +626,7 @@
    "id": "2116533479760334929",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 572,
+    "impression_count": 663,
     "like_count": 3,
     "quote_count": 1,
     "reply_count": 0,
@@ -634,96 +634,6 @@
    },
    "text": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/HvJ60aeKpd",
    "url": "https://x.com/BJdichter/status/2116533479760334929"
-  },
-  {
-   "author_id": "16116288",
-   "created_at": "2026-10-31T15:48:17.000Z",
-   "edit_history_tweet_ids": [
-    "2116557880153284817"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Roland live in Fort Bend County, Texas for election canvassing",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 86,
-      "expanded_url": "https://x.com/i/broadcasts/2RezkqoMlJMbEJ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116557922708627456/Hc6HDAUr?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116557922708627456/Hc6HDAUr?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 63,
-      "status": 200,
-      "title": "rolandsmartin",
-      "unwound_url": "https://x.com/i/broadcasts/2RezkqoMlJMbEJ",
-      "url": "https://t.co/fQjd0uQGaq"
-     }
-    ]
-   },
-   "id": "2116557880153284817",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 678,
-    "like_count": 6,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 4
-   },
-   "text": "Roland live in Fort Bend County, Texas for election canvassing https://t.co/fQjd0uQGaq",
-   "url": "https://x.com/rolandsmartin/status/2116557880153284817"
-  },
-  {
-   "author_id": "1658306279721377795",
-   "created_at": "2026-10-31T14:29:59.000Z",
-   "edit_history_tweet_ids": [
-    "2116538175799636468"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Talarico\u2019s \u201cAffordability Plan,\u201d Election Fraud Storms & Texas H-1B Heat",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 100,
-      "expanded_url": "https://x.com/i/broadcasts/2KolLjmWyaePKY",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116538218392780800/mlKAVamV?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116538218392780800/mlKAVamV?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 77,
-      "status": 200,
-      "title": "sidebartv",
-      "unwound_url": "https://x.com/i/broadcasts/2KolLjmWyaePKY",
-      "url": "https://t.co/t8Q4hlnOHy"
-     }
-    ]
-   },
-   "id": "2116538175799636468",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 133,
-    "like_count": 5,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "Talarico\u2019s \u201cAffordability Plan,\u201d Election Fraud Storms &amp; Texas H-1B Heat https://t.co/t8Q4hlnOHy",
-   "url": "https://x.com/sidebartv180/status/2116538175799636468"
   },
   {
    "author_id": "2026120953206321152",
@@ -771,6 +681,186 @@
    "url": "https://x.com/JohnGordonTV/status/2116560863763304813"
   },
   {
+   "author_id": "16116288",
+   "created_at": "2026-10-31T15:48:17.000Z",
+   "edit_history_tweet_ids": [
+    "2116557880153284817"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Roland live in Fort Bend County, Texas for election canvassing",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 86,
+      "expanded_url": "https://x.com/i/broadcasts/2RezkqoMlJMbEJ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116557922708627456/Hc6HDAUr?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116557922708627456/Hc6HDAUr?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 63,
+      "status": 200,
+      "title": "rolandsmartin",
+      "unwound_url": "https://x.com/i/broadcasts/2RezkqoMlJMbEJ",
+      "url": "https://t.co/fQjd0uQGaq"
+     }
+    ]
+   },
+   "id": "2116557880153284817",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 838,
+    "like_count": 7,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 4
+   },
+   "text": "Roland live in Fort Bend County, Texas for election canvassing https://t.co/fQjd0uQGaq",
+   "url": "https://x.com/rolandsmartin/status/2116557880153284817"
+  },
+  {
+   "author_id": "1541923961474146304",
+   "created_at": "2026-10-31T16:31:13.000Z",
+   "edit_history_tweet_ids": [
+    "2116568686664282290"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla & Election Day",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 81,
+      "expanded_url": "https://x.com/i/broadcasts/2OdmKJbjeAYqAo",
+      "images": [
+       {
+        "height": 540,
+        "url": "https://pbs.twimg.com/news_img/2116290194080972800/bYr6DQAQ?format=jpg&name=orig",
+        "width": 960
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116290194080972800/bYr6DQAQ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 58,
+      "status": 200,
+      "title": "Marc - Financial FIRE Fighter",
+      "unwound_url": "https://x.com/i/broadcasts/2OdmKJbjeAYqAo",
+      "url": "https://t.co/QBZMTohSyS"
+     }
+    ]
+   },
+   "id": "2116568686664282290",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla &amp; Election Day https://t.co/QBZMTohSyS",
+   "url": "https://x.com/F_I_R_E_Fighter/status/2116568686664282290"
+  },
+  {
+   "author_id": "1658306279721377795",
+   "created_at": "2026-10-31T14:29:59.000Z",
+   "edit_history_tweet_ids": [
+    "2116538175799636468"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Talarico\u2019s \u201cAffordability Plan,\u201d Election Fraud Storms & Texas H-1B Heat",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 100,
+      "expanded_url": "https://x.com/i/broadcasts/2KolLjmWyaePKY",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116538218392780800/mlKAVamV?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116538218392780800/mlKAVamV?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 77,
+      "status": 200,
+      "title": "sidebartv",
+      "unwound_url": "https://x.com/i/broadcasts/2KolLjmWyaePKY",
+      "url": "https://t.co/t8Q4hlnOHy"
+     }
+    ]
+   },
+   "id": "2116538175799636468",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 162,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "Talarico\u2019s \u201cAffordability Plan,\u201d Election Fraud Storms &amp; Texas H-1B Heat https://t.co/t8Q4hlnOHy",
+   "url": "https://x.com/sidebartv180/status/2116538175799636468"
+  },
+  {
+   "author_id": "1952143484095430656",
+   "created_at": "2026-10-31T16:31:17.000Z",
+   "edit_history_tweet_ids": [
+    "2116568702418080000"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla & Election Day",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 81,
+      "expanded_url": "https://x.com/i/broadcasts/2onAALlQYqkbpa",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116324645783719936/kr822wXz?format=png&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116324645783719936/kr822wXz?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 58,
+      "status": 200,
+      "title": "Nick Masi",
+      "unwound_url": "https://x.com/i/broadcasts/2onAALlQYqkbpa",
+      "url": "https://t.co/3C6uUz06HE"
+     }
+    ]
+   },
+   "id": "2116568702418080000",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla &amp; Election Day https://t.co/3C6uUz06HE",
+   "url": "https://x.com/leadprayhodl/status/2116568702418080000"
+  },
+  {
    "author_id": "386551109",
    "created_at": "2026-10-31T16:01:03.000Z",
    "edit_history_tweet_ids": [
@@ -806,7 +896,7 @@
    "id": "2116561096723034540",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 29,
+    "impression_count": 59,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -839,7 +929,7 @@
    "id": "2116561096332992986",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 11,
+    "impression_count": 12,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -917,7 +1007,7 @@
    "id": "2116530653852258518",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 494,
+    "impression_count": 510,
     "like_count": 9,
     "quote_count": 0,
     "reply_count": 0,
@@ -972,96 +1062,6 @@
    "url": "https://x.com/StarAsiatvHD/status/2116525213382787240"
   },
   {
-   "author_id": "85814753",
-   "created_at": "2026-10-31T13:29:30.000Z",
-   "edit_history_tweet_ids": [
-    "2116522956218110111"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Sandesh News",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 36,
-      "expanded_url": "https://x.com/i/broadcasts/2XyJPAYnJWogXJ",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116522999004237824/POqu9MwL?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116522999004237824/POqu9MwL?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 13,
-      "status": 200,
-      "title": "Sandesh",
-      "unwound_url": "https://x.com/i/broadcasts/2XyJPAYnJWogXJ",
-      "url": "https://t.co/5DlPpLFCrs"
-     }
-    ]
-   },
-   "id": "2116522956218110111",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 467,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Sandesh News https://t.co/5DlPpLFCrs",
-   "url": "https://x.com/sandeshnews/status/2116522956218110111"
-  },
-  {
-   "author_id": "882505074",
-   "created_at": "2026-10-31T15:00:13.000Z",
-   "edit_history_tweet_ids": [
-    "2116545786427133986"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live broadcast | English News Bulletin",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 62,
-      "expanded_url": "https://x.com/i/broadcasts/2WXKZEjYlZLJdL",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116545829120991232/b1FBOMTM?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116545829120991232/b1FBOMTM?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 39,
-      "status": 200,
-      "title": "\u0645\u0631\u0643\u0632 \u0627\u0644\u0623\u062e\u0628\u0627\u0631",
-      "unwound_url": "https://x.com/i/broadcasts/2WXKZEjYlZLJdL",
-      "url": "https://t.co/LvMnHn9u3s"
-     }
-    ]
-   },
-   "id": "2116545786427133986",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1764,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Live broadcast | English News Bulletin https://t.co/LvMnHn9u3s",
-   "url": "https://x.com/omantvnews/status/2116545786427133986"
-  },
-  {
    "author_id": "1631138820446928898",
    "created_at": "2026-10-31T15:00:03.000Z",
    "edit_history_tweet_ids": [
@@ -1097,8 +1097,8 @@
    "id": "2116545742223372454",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2350,
-    "like_count": 4,
+    "impression_count": 2511,
+    "like_count": 5,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 1
@@ -1112,12 +1112,12 @@
    "id": "804605049859145728",
    "name": "TRT World Now",
    "public_metrics": {
-    "followers_count": 298163,
+    "followers_count": 298167,
     "following_count": 22,
     "like_count": 1,
     "listed_count": 1515,
-    "media_count": 158789,
-    "tweet_count": 194250
+    "media_count": 158790,
+    "tweet_count": 194251
    },
    "username": "TRTWorldNow",
    "verified": true,
@@ -1127,12 +1127,12 @@
    "id": "240265305",
    "name": "Anadolu English",
    "public_metrics": {
-    "followers_count": 318849,
+    "followers_count": 318848,
     "following_count": 21,
     "like_count": 2,
     "listed_count": 2986,
-    "media_count": 308460,
-    "tweet_count": 425337
+    "media_count": 308461,
+    "tweet_count": 425339
    },
    "username": "anadoluagency",
    "verified": true,
@@ -1142,12 +1142,12 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9491401,
+    "followers_count": 9491431,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7879,
-    "media_count": 752369,
-    "tweet_count": 1184057
+    "media_count": 752375,
+    "tweet_count": 1184063
    },
    "username": "ANI",
    "verified": true,
@@ -1157,29 +1157,14 @@
    "id": "2026120953206321152",
    "name": "John Gordon",
    "public_metrics": {
-    "followers_count": 2443,
-    "following_count": 2862,
+    "followers_count": 2444,
+    "following_count": 2863,
     "like_count": 71,
     "listed_count": 1,
     "media_count": 190,
     "tweet_count": 768
    },
    "username": "JohnGordonTV",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2035616210684125184",
-   "name": "MY NAME",
-   "public_metrics": {
-    "followers_count": 447,
-    "following_count": 616,
-    "like_count": 5398,
-    "listed_count": 3,
-    "media_count": 2074,
-    "tweet_count": 6114
-   },
-   "username": "AsItIsMYNAME",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1214,17 +1199,17 @@
    "verified_type": "blue"
   },
   {
-   "id": "1461110373679910920",
-   "name": "Ex Muslim Sameer",
+   "id": "2035616210684125184",
+   "name": "MY NAME",
    "public_metrics": {
-    "followers_count": 13786,
-    "following_count": 32,
-    "like_count": 104,
-    "listed_count": 27,
-    "media_count": 37,
-    "tweet_count": 287
+    "followers_count": 447,
+    "following_count": 616,
+    "like_count": 5398,
+    "listed_count": 3,
+    "media_count": 2074,
+    "tweet_count": 6114
    },
-   "username": "ExMuslimSameer",
+   "username": "AsItIsMYNAME",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1240,6 +1225,21 @@
     "tweet_count": 6487
    },
    "username": "ChiSportsTracks",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1461110373679910920",
+   "name": "Ex Muslim Sameer",
+   "public_metrics": {
+    "followers_count": 13786,
+    "following_count": 32,
+    "like_count": 104,
+    "listed_count": 27,
+    "media_count": 37,
+    "tweet_count": 287
+   },
+   "username": "ExMuslimSameer",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1307,14 +1307,29 @@
    "id": "16116288",
    "name": "rolandsmartin",
    "public_metrics": {
-    "followers_count": 709492,
+    "followers_count": 709498,
     "following_count": 4202,
-    "like_count": 95340,
+    "like_count": 95343,
     "listed_count": 4657,
     "media_count": 34354,
-    "tweet_count": 700905
+    "tweet_count": 700908
    },
    "username": "rolandsmartin",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1541923961474146304",
+   "name": "Marc - Financial FIRE Fighter",
+   "public_metrics": {
+    "followers_count": 1774,
+    "following_count": 2785,
+    "like_count": 50910,
+    "listed_count": 24,
+    "media_count": 3470,
+    "tweet_count": 22220
+   },
+   "username": "F_I_R_E_Fighter",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1334,10 +1349,25 @@
    "verified_type": "blue"
   },
   {
+   "id": "1952143484095430656",
+   "name": "Nick Masi",
+   "public_metrics": {
+    "followers_count": 193,
+    "following_count": 107,
+    "like_count": 1410,
+    "listed_count": 1,
+    "media_count": 729,
+    "tweet_count": 3118
+   },
+   "username": "leadprayhodl",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "386551109",
    "name": "Tony Arterburn",
    "public_metrics": {
-    "followers_count": 5562,
+    "followers_count": 5563,
     "following_count": 3972,
     "like_count": 9988,
     "listed_count": 77,
@@ -1401,40 +1431,10 @@
     "following_count": 1,
     "like_count": 35,
     "listed_count": 1,
-    "media_count": 4734,
-    "tweet_count": 4859
+    "media_count": 4735,
+    "tweet_count": 4860
    },
    "username": "StarAsiatvHD",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "85814753",
-   "name": "Sandesh",
-   "public_metrics": {
-    "followers_count": 520557,
-    "following_count": 2,
-    "like_count": 1746,
-    "listed_count": 379,
-    "media_count": 223696,
-    "tweet_count": 463743
-   },
-   "username": "sandeshnews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "882505074",
-   "name": "\u0645\u0631\u0643\u0632 \u0627\u0644\u0623\u062e\u0628\u0627\u0631",
-   "public_metrics": {
-    "followers_count": 795107,
-    "following_count": 2,
-    "like_count": 300,
-    "listed_count": 632,
-    "media_count": 81131,
-    "tweet_count": 107023
-   },
-   "username": "omantvnews",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1444,10 +1444,10 @@
    "public_metrics": {
     "followers_count": 25495,
     "following_count": 1244,
-    "like_count": 91178,
+    "like_count": 91182,
     "listed_count": 146,
     "media_count": 12784,
-    "tweet_count": 36834
+    "tweet_count": 36835
    },
    "username": "SweatpantJesus",
    "verified": true,
