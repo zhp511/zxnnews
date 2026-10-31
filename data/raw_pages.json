@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T14:52:00Z",
+ "fetched_at": "2026-10-31T15:44:19Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,32 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-10-31T15:42:15.000Z",
+     "edit_history_tweet_ids": [
+      "2116556363438657806"
+     ],
+     "id": "2116556363438657806",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "Tommy Vext - The War You Wanted (Official Music Video -Starring Triple V) https://t.co/aUgyhPubCw via @YouTube @ali_hopper",
+     "url": "https://x.com/i/status/2116556363438657806"
+    }
+   ],
+   "meta": {
+    "newest_id": "2116556363438657806",
+    "oldest_id": "2116556363438657806",
+    "result_count": 1
+   }
+  },
   {
    "data": [
     {
