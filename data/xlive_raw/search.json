@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T11:07:10Z",
+ "fetched_at": "2026-10-31T11:23:09Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T08:07:00Z",
+  "start_time": "2026-10-31T08:23:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -13,21 +13,90 @@
  "data": [
   {
    "author_id": "355989081",
-   "created_at": "2026-10-31T08:16:44.000Z",
+   "created_at": "2026-10-31T11:21:50.000Z",
    "edit_history_tweet_ids": [
-    "2116444244147572822"
+    "2116490826264027499"
    ],
-   "id": "2116444244147572822",
+   "entities": {
+    "hashtags": [
+     {
+      "end": 100,
+      "start": 96,
+      "tag": "bjp"
+     },
+     {
+      "end": 110,
+      "start": 101,
+      "tag": "congress"
+     },
+     {
+      "end": 123,
+      "start": 111,
+      "tag": "sambitpatra"
+     },
+     {
+      "end": 136,
+      "start": 124,
+      "tag": "rahulgandhi"
+     },
+     {
+      "end": 148,
+      "start": 137,
+      "tag": "gyangaming"
+     },
+     {
+      "end": 163,
+      "start": 149,
+      "tag": "congressrally"
+     },
+     {
+      "end": 169,
+      "start": 164,
+      "tag": "news"
+     },
+     {
+      "end": 175,
+      "start": 170,
+      "tag": "live"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE: BJP Press Conference by Sambit Patra | BJP I Rahul Gandhi | Congress | CEC Gyanesh Kumar",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 199,
+      "expanded_url": "https://x.com/i/broadcasts/2JQleLkVqlRyqR",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116490828570861568/lbG83dWE?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116490828570861568/lbG83dWE?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 176,
+      "status": 200,
+      "title": "ANI",
+      "unwound_url": "https://x.com/i/broadcasts/2JQleLkVqlRyqR",
+      "url": "https://t.co/sGBcYLmBgq"
+     }
+    ]
+   },
+   "id": "2116490826264027499",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 11637,
-    "like_count": 4,
+    "impression_count": 8783,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "LIVE: BJP'S Sudhanshu Trivedi Holds Press Conference I BJP I Rahul Gandhi | PM Modi\n\n#sudhanshutrivedi #bjp #congress #pressconference #live https://t.co/JCP6oYlrhi",
-   "url": "https://x.com/ANI/status/2116444244147572822"
+   "text": "LIVE: BJP Press Conference by Sambit Patra | BJP I Rahul Gandhi | Congress | CEC Gyanesh Kumar\n\n#bjp #congress #sambitpatra #rahulgandhi #gyangaming #congressrally #news #live https://t.co/sGBcYLmBgq",
+   "url": "https://x.com/ANI/status/2116490826264027499"
   },
   {
    "author_id": "2845994058",
@@ -35,10 +104,44 @@
    "edit_history_tweet_ids": [
     "2116449126803996733"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 64,
+      "start": 37,
+      "tag": "SaveDemocracyRemoveAnarchy"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE: Addressing press conference on #SaveDemocracyRemoveAnarchy at Jaipur",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 98,
+      "expanded_url": "https://x.com/i/broadcasts/2VNLRArWVJQQvl",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116449169401368576/cujqKnM1?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116449169401368576/cujqKnM1?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 75,
+      "status": 200,
+      "title": "Pralhad Joshi",
+      "unwound_url": "https://x.com/i/broadcasts/2VNLRArWVJQQvl",
+      "url": "https://t.co/xuWXDe5wyv"
+     }
+    ]
+   },
    "id": "2116449126803996733",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1197,
+    "impression_count": 1223,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
@@ -48,15 +151,140 @@
    "url": "https://x.com/JoshiPralhad/status/2116449126803996733"
   },
   {
+   "author_id": "1368737382",
+   "created_at": "2026-10-31T11:22:19.000Z",
+   "edit_history_tweet_ids": [
+    "2116490948238573657"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Watch LIVE: Press Conference | BJP HQ, New Delhi",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 72,
+      "expanded_url": "https://x.com/i/broadcasts/2KolezjkEXedBk",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116490990898798592/dVbM9jPt?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116490990898798592/dVbM9jPt?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 49,
+      "status": 200,
+      "title": "Sambit Patra",
+      "unwound_url": "https://x.com/i/broadcasts/2KolezjkEXedBk",
+      "url": "https://t.co/Vq3ND30mKd"
+     }
+    ]
+   },
+   "id": "2116490948238573657",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3320,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Watch LIVE: Press Conference | BJP HQ, New Delhi https://t.co/Vq3ND30mKd",
+   "url": "https://x.com/sambitswaraj/status/2116490948238573657"
+  },
+  {
+   "author_id": "207809313",
+   "created_at": "2026-10-31T11:21:54.000Z",
+   "edit_history_tweet_ids": [
+    "2116490844664459342"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 43,
+      "id": "1368737382",
+      "start": 30,
+      "username": "sambitswaraj"
+     }
+    ],
+    "urls": [
+     {
+      "description": "BJP National Spokesperson Dr. @sambitswaraj addresses press conference at BJP headquarters, New Delhi.",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 127,
+      "expanded_url": "https://x.com/i/broadcasts/2RezPRKZqAlZBk",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116490889174421504/dZgGmnWG?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116490889174421504/dZgGmnWG?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 104,
+      "status": 200,
+      "title": "BJP",
+      "unwound_url": "https://x.com/i/broadcasts/2RezPRKZqAlZBk",
+      "url": "https://t.co/ywslnAj2DZ"
+     }
+    ]
+   },
+   "id": "2116490844664459342",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6962,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "BJP National Spokesperson Dr. @sambitswaraj  addresses press conference at BJP headquarters, New Delhi. https://t.co/ywslnAj2DZ",
+   "url": "https://x.com/BJP4India/status/2116490844664459342"
+  },
+  {
    "author_id": "1982030845138608128",
    "created_at": "2026-10-31T10:22:24.000Z",
    "edit_history_tweet_ids": [
     "2116475872920347002"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News Leader LIVE TV: देश-दुनिया की हर खबर सबसे तेज | BreakingNews",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 161,
+      "expanded_url": "https://x.com/i/broadcasts/2ybVQNeeqnvWqQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116475737607725056/CTxih9Eh?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116475737607725056/CTxih9Eh?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 138,
+      "status": 200,
+      "title": "News Leader",
+      "unwound_url": "https://x.com/i/broadcasts/2ybVQNeeqnvWqQ",
+      "url": "https://t.co/0b0YwGKiG8"
+     }
+    ]
+   },
    "id": "2116475872920347002",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 96,
+    "impression_count": 111,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -71,11 +299,38 @@
    "edit_history_tweet_ids": [
     "2116446288883634263"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 140,
+      "expanded_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 117,
+      "status": 200,
+      "title": "Footscray's Finest",
+      "unwound_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
+      "url": "https://t.co/8lmeomHrbi"
+     }
+    ]
+   },
    "id": "2116446288883634263",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 306,
-    "like_count": 4,
+    "bookmark_count": 1,
+    "impression_count": 313,
+    "like_count": 5,
     "quote_count": 0,
     "reply_count": 1,
     "retweet_count": 2
@@ -84,33 +339,30 @@
    "url": "https://x.com/FootscraysFine1/status/2116446288883634263"
   },
   {
-   "author_id": "1415875893524791298",
-   "created_at": "2026-10-31T08:21:43.000Z",
-   "edit_history_tweet_ids": [
-    "2116445501079929128"
-   ],
-   "id": "2116445501079929128",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 281,
-    "like_count": 9,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "***BREAKING NEWS*** \n***BREAKING NEWS***\nMALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME\n***NOW REPORTING LIVE*** https://t.co/8lmeomGTlK",
-   "url": "https://x.com/FootscraysFine1/status/2116445501079929128"
-  },
-  {
    "author_id": "505519109",
    "created_at": "2026-10-31T10:03:58.000Z",
    "edit_history_tweet_ids": [
     "2116471233785028932"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 83,
+      "expanded_url": "https://x.com/i/broadcasts/2KolOPWvLQPLVQ",
+      "start": 60,
+      "status": 200,
+      "title": "Sapientia Radio & TV",
+      "unwound_url": "https://x.com/i/broadcasts/2KolOPWvLQPLVQ",
+      "url": "https://t.co/TdAAsgOAzr"
+     }
+    ]
+   },
    "id": "2116471233785028932",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 69,
+    "impression_count": 72,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -125,6 +377,21 @@
    "edit_history_tweet_ids": [
     "2116473447022759963"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 83,
+      "expanded_url": "https://x.com/i/broadcasts/2RezPKkBknQlNy",
+      "start": 60,
+      "status": 200,
+      "title": "Sapientia Radio & TV",
+      "unwound_url": "https://x.com/i/broadcasts/2RezPKkBknQlNy",
+      "url": "https://t.co/PsJQBhfb31"
+     }
+    ]
+   },
    "id": "2116473447022759963",
    "public_metrics": {
     "bookmark_count": 0,
@@ -143,10 +410,37 @@
    "edit_history_tweet_ids": [
     "2116476044479775075"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 83,
+      "expanded_url": "https://x.com/i/broadcasts/2dKYOlgLgNzQqJ",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116476087085527040/AMxYlXH7?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116476087085527040/AMxYlXH7?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 60,
+      "status": 200,
+      "title": "Sapientia Radio & TV",
+      "unwound_url": "https://x.com/i/broadcasts/2dKYOlgLgNzQqJ",
+      "url": "https://t.co/Lcj8ZhNYEI"
+     }
+    ]
+   },
    "id": "2116476044479775075",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 9,
+    "impression_count": 11,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -161,10 +455,25 @@
    "edit_history_tweet_ids": [
     "2116474338815742145"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 83,
+      "expanded_url": "https://x.com/i/broadcasts/2aWbQBNngAOrbE",
+      "start": 60,
+      "status": 200,
+      "title": "Sapientia Radio & TV",
+      "unwound_url": "https://x.com/i/broadcasts/2aWbQBNngAOrbE",
+      "url": "https://t.co/NeGBWOs5ER"
+     }
+    ]
+   },
    "id": "2116474338815742145",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 14,
+    "impression_count": 16,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -174,19 +483,121 @@
    "url": "https://x.com/mediasapientia/status/2116474338815742145"
   },
   {
+   "author_id": "1772513122735300608",
+   "created_at": "2026-10-31T11:11:01.000Z",
+   "edit_history_tweet_ids": [
+    "2116488106778259875"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 89,
+      "start": 77,
+      "tag": "impeachment"
+     },
+     {
+      "end": 99,
+      "start": 90,
+      "tag": "congress"
+     },
+     {
+      "end": 113,
+      "start": 100,
+      "tag": "gyaneshkumar"
+     },
+     {
+      "end": 130,
+      "start": 114,
+      "tag": "cecgyaneshkumar"
+     },
+     {
+      "end": 143,
+      "start": 131,
+      "tag": "rahulgandhi"
+     },
+     {
+      "end": 156,
+      "start": 144,
+      "tag": "soniagandhi"
+     },
+     {
+      "end": 175,
+      "start": 157,
+      "tag": "mallikarjunkharge"
+     },
+     {
+      "end": 181,
+      "start": 176,
+      "tag": "genz"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE | INDIA bloc holds public impeachment program against CEC Gyanesh Kumar #impeachment #congress #gyaneshkumar #cecgyaneshkumar #rahulgandhi #soniagandhi #mallikarjunkharge #genz",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 205,
+      "expanded_url": "https://x.com/i/broadcasts/2vypAAXoLBJAjr",
+      "start": 182,
+      "status": 200,
+      "title": "The Savera Times",
+      "unwound_url": "https://x.com/i/broadcasts/2vypAAXoLBJAjr",
+      "url": "https://t.co/7DKTP6wkuj"
+     }
+    ]
+   },
+   "id": "2116488106778259875",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 142,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE | INDIA bloc holds public impeachment program against CEC Gyanesh Kumar #impeachment #congress #gyaneshkumar #cecgyaneshkumar #rahulgandhi #soniagandhi #mallikarjunkharge #genz https://t.co/7DKTP6wkuj",
+   "url": "https://x.com/thesavera_times/status/2116488106778259875"
+  },
+  {
    "author_id": "16116288",
    "created_at": "2026-10-31T11:00:06.000Z",
    "edit_history_tweet_ids": [
     "2116485357311000619"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 113,
+      "expanded_url": "https://x.com/i/broadcasts/2evMWLWJgReEXL",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2116408983770550272/FzhUyXV4?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116408983770550272/FzhUyXV4?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "rolandsmartin",
+      "unwound_url": "https://x.com/i/broadcasts/2evMWLWJgReEXL",
+      "url": "https://t.co/eFxMMqT5Fs"
+     }
+    ]
+   },
    "id": "2116485357311000619",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 390,
-    "like_count": 0,
+    "impression_count": 541,
+    "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 1
    },
    "text": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push https://t.co/eFxMMqT5Fs",
    "url": "https://x.com/rolandsmartin/status/2116485357311000619"
@@ -197,10 +608,37 @@
    "edit_history_tweet_ids": [
     "2116447614849720519"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 113,
+      "expanded_url": "https://x.com/i/broadcasts/2NglmMbrpERlMV",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2116408770993491968/mYpusX0G?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116408770993491968/mYpusX0G?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "rolandsmartin",
+      "unwound_url": "https://x.com/i/broadcasts/2NglmMbrpERlMV",
+      "url": "https://t.co/thTiIM79p9"
+     }
+    ]
+   },
    "id": "2116447614849720519",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 975,
+    "impression_count": 1017,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
@@ -215,6 +653,33 @@
    "edit_history_tweet_ids": [
     "2116472470634901896"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News bulletin Star Asia News Live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 59,
+      "expanded_url": "https://x.com/i/broadcasts/2nQYJOjYLNzOLY",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116472472451063808/Gli-4wl_?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116472472451063808/Gli-4wl_?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 36,
+      "status": 200,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2nQYJOjYLNzOLY",
+      "url": "https://t.co/yBFa1vSaAY"
+     }
+    ]
+   },
    "id": "2116472470634901896",
    "public_metrics": {
     "bookmark_count": 0,
@@ -233,10 +698,37 @@
    "edit_history_tweet_ids": [
     "2116485091517939763"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News bulletin Star Asia News Live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 59,
+      "expanded_url": "https://x.com/i/broadcasts/2BlMQLmNLRQjMX",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116485134136266752/jPLTEivt?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116485134136266752/jPLTEivt?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 36,
+      "status": 200,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2BlMQLmNLRQjMX",
+      "url": "https://t.co/QYLfwFQYsh"
+     }
+    ]
+   },
    "id": "2116485091517939763",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 5,
+    "impression_count": 6,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -251,10 +743,37 @@
    "edit_history_tweet_ids": [
     "2116481683348128133"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Sandesh News",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 36,
+      "expanded_url": "https://x.com/i/broadcasts/2qVAOWVnLVBXoR",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116481725916131328/PlPYwZ_U?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116481725916131328/PlPYwZ_U?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 13,
+      "status": 200,
+      "title": "Sandesh",
+      "unwound_url": "https://x.com/i/broadcasts/2qVAOWVnLVBXoR",
+      "url": "https://t.co/uj8gvLNeBm"
+     }
+    ]
+   },
    "id": "2116481683348128133",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 296,
+    "impression_count": 331,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -264,15 +783,87 @@
    "url": "https://x.com/sandeshnews/status/2116481683348128133"
   },
   {
+   "author_id": "17680851",
+   "created_at": "2026-10-31T11:14:36.000Z",
+   "edit_history_tweet_ids": [
+    "2116489005424370058"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "TEAM NEWS LIVE: Norwich City vs Watford",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 63,
+      "expanded_url": "https://x.com/i/broadcasts/2nQYqqOMpRQagv",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116489162031308800/vpw2rlxr?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116489162031308800/vpw2rlxr?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 40,
+      "status": 200,
+      "title": "The Pink Un",
+      "unwound_url": "https://x.com/i/broadcasts/2nQYqqOMpRQagv",
+      "url": "https://t.co/OXyQPL6zgV"
+     }
+    ]
+   },
+   "id": "2116489005424370058",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 684,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "TEAM NEWS LIVE: Norwich City vs Watford https://t.co/OXyQPL6zgV",
+   "url": "https://x.com/pinkun/status/2116489005424370058"
+  },
+  {
    "author_id": "2107094653065449472",
    "created_at": "2026-10-31T10:14:51.000Z",
    "edit_history_tweet_ids": [
     "2116473969528148437"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Marcus live: markets, charts and the news · Saturday, October 31, 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 94,
+      "expanded_url": "https://x.com/i/broadcasts/2MEmeMKypdAgkO",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116474012230434816/i-7K-iZE?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116474012230434816/i-7K-iZE?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 71,
+      "status": 200,
+      "title": "FinVibe",
+      "unwound_url": "https://x.com/i/broadcasts/2MEmeMKypdAgkO",
+      "url": "https://t.co/XkAuI29fjc"
+     }
+    ]
+   },
    "id": "2116473969528148437",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2,
+    "impression_count": 4,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -287,10 +878,37 @@
    "edit_history_tweet_ids": [
     "2116475846189818044"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "FPL GW9 DEADLINE STREAM ✅ BENCHING DILEMMAS 🤔 EARLY TEAM NEWS 🤩",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 87,
+      "expanded_url": "https://x.com/i/broadcasts/2evMOVQzOANlOA",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116475888778776576/NFldau7k?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116475888778776576/NFldau7k?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 64,
+      "status": 200,
+      "title": "FPL Mo",
+      "unwound_url": "https://x.com/i/broadcasts/2evMOVQzOANlOA",
+      "url": "https://t.co/ZuMDDiOJDo"
+     }
+    ]
+   },
    "id": "2116475846189818044",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 1446,
+    "impression_count": 1722,
     "like_count": 9,
     "quote_count": 1,
     "reply_count": 0,
@@ -305,10 +923,37 @@
    "edit_history_tweet_ids": [
     "2116479802043416953"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Paul Morris ROTGA - News and Chat",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 57,
+      "expanded_url": "https://x.com/i/broadcasts/2qVAOdeyalqeqY",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116479844615589888/fWxhxpVO?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116479844615589888/fWxhxpVO?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 34,
+      "status": 200,
+      "title": "Paul Morris 🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "unwound_url": "https://x.com/i/broadcasts/2qVAOdeyalqeqY",
+      "url": "https://t.co/6SoqL6hFah"
+     }
+    ]
+   },
    "id": "2116479802043416953",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 13,
+    "impression_count": 14,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -323,10 +968,44 @@
    "edit_history_tweet_ids": [
     "2116486202618487011"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 97,
+      "start": 92,
+      "tag": "LUFC"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE ON Youtube! | Farke Biggest Challenge! Bournemouth vs Leeds United Match Build Up! | #LUFC News",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 126,
+      "expanded_url": "https://x.com/i/broadcasts/2LPLYrEVyWlVgp",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116486245144522752/TGwu1TAR?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116486245144522752/TGwu1TAR?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 103,
+      "status": 200,
+      "title": "TheLeedsLens",
+      "unwound_url": "https://x.com/i/broadcasts/2LPLYrEVyWlVgp",
+      "url": "https://t.co/lwYbS44z5F"
+     }
+    ]
+   },
    "id": "2116486202618487011",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 11,
+    "impression_count": 50,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -341,11 +1020,38 @@
    "edit_history_tweet_ids": [
     "2116486676608430253"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "EFF Tshela Thupa Rally addressed by President, Julius Malema",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 84,
+      "expanded_url": "https://x.com/i/broadcasts/2XyJPbQObvpvYl",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116486719352578048/QdmGk8AA?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116486719352578048/QdmGk8AA?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 61,
+      "status": 200,
+      "title": "African Vibe Media",
+      "unwound_url": "https://x.com/i/broadcasts/2XyJPbQObvpvYl",
+      "url": "https://t.co/5Nv9oOXP3R"
+     }
+    ]
+   },
    "id": "2116486676608430253",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2,
-    "like_count": 0,
+    "impression_count": 22,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
@@ -359,10 +1065,37 @@
    "edit_history_tweet_ids": [
     "2116458608556683268"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "EFF Tshela Thupa Rally addressed by President, Julius Malema",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 84,
+      "expanded_url": "https://x.com/i/broadcasts/2OdmWYJWAppmEo",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116458651422539776/8kU-VrcI?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116458651422539776/8kU-VrcI?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 61,
+      "status": 200,
+      "title": "African Vibe Media",
+      "unwound_url": "https://x.com/i/broadcasts/2OdmWYJWAppmEo",
+      "url": "https://t.co/e2zGYclq8d"
+     }
+    ]
+   },
    "id": "2116458608556683268",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 67,
+    "impression_count": 69,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -377,10 +1110,37 @@
    "edit_history_tweet_ids": [
     "2116470331367919921"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "EFF Tshela Thupa Rally addressed by President, Julius Malema",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 84,
+      "expanded_url": "https://x.com/i/broadcasts/2lgkQjnRBOKyLe",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116470374137282560/iR9srimP?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116470374137282560/iR9srimP?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 61,
+      "status": 200,
+      "title": "African Vibe Media",
+      "unwound_url": "https://x.com/i/broadcasts/2lgkQjnRBOKyLe",
+      "url": "https://t.co/RwZbWcZ4AL"
+     }
+    ]
+   },
    "id": "2116470331367919921",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 155,
+    "impression_count": 186,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -395,14 +1155,41 @@
    "edit_history_tweet_ids": [
     "2116454928608616595"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "The EFF Hosts its Tshela Thupa Rally addressed by President, Julius Malema",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 98,
+      "expanded_url": "https://x.com/i/broadcasts/2lgkQlgPzmRoAW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116454971193323520/B_-y3cAH?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116454971193323520/B_-y3cAH?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 75,
+      "status": 200,
+      "title": "Economic Freedom Fighters",
+      "unwound_url": "https://x.com/i/broadcasts/2lgkQlgPzmRoAW",
+      "url": "https://t.co/ndw3Z6nMQw"
+     }
+    ]
+   },
    "id": "2116454928608616595",
    "public_metrics": {
     "bookmark_count": 6,
-    "impression_count": 5440,
-    "like_count": 122,
+    "impression_count": 5926,
+    "like_count": 134,
     "quote_count": 1,
     "reply_count": 5,
-    "retweet_count": 42
+    "retweet_count": 45
    },
    "text": "The EFF Hosts its Tshela Thupa Rally addressed by President, Julius Malema https://t.co/ndw3Z6nMQw",
    "url": "https://x.com/EFFSouthAfrica/status/2116454928608616595"
@@ -413,12 +1200,12 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9491201,
+    "followers_count": 9491209,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7878,
-    "media_count": 752195,
-    "tweet_count": 1183852
+    "media_count": 752205,
+    "tweet_count": 1183863
    },
    "username": "ANI",
    "verified": true,
@@ -428,16 +1215,46 @@
    "id": "2845994058",
    "name": "Pralhad Joshi",
    "public_metrics": {
-    "followers_count": 271007,
+    "followers_count": 271008,
     "following_count": 414,
     "like_count": 41789,
     "listed_count": 378,
-    "media_count": 27024,
-    "tweet_count": 69083
+    "media_count": 27025,
+    "tweet_count": 69084
    },
    "username": "JoshiPralhad",
    "verified": true,
    "verified_type": "government"
+  },
+  {
+   "id": "1368737382",
+   "name": "Sambit Patra",
+   "public_metrics": {
+    "followers_count": 8496629,
+    "following_count": 619,
+    "like_count": 11705,
+    "listed_count": 1929,
+    "media_count": 37993,
+    "tweet_count": 99511
+   },
+   "username": "sambitswaraj",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "207809313",
+   "name": "BJP",
+   "public_metrics": {
+    "followers_count": 23033487,
+    "following_count": 4,
+    "like_count": 0,
+    "listed_count": 5778,
+    "media_count": 157145,
+    "tweet_count": 310444
+   },
+   "username": "BJP4India",
+   "verified": true,
+   "verified_type": "blue"
   },
   {
    "id": "1982030845138608128",
@@ -447,8 +1264,8 @@
     "following_count": 1,
     "like_count": 3,
     "listed_count": 2,
-    "media_count": 29105,
-    "tweet_count": 29664
+    "media_count": 29109,
+    "tweet_count": 29668
    },
    "username": "NewsLeaderLive",
    "verified": true,
@@ -485,10 +1302,25 @@
    "verified_type": "blue"
   },
   {
+   "id": "1772513122735300608",
+   "name": "The Savera Times",
+   "public_metrics": {
+    "followers_count": 102453,
+    "following_count": 2,
+    "like_count": 25193,
+    "listed_count": 100,
+    "media_count": 2290,
+    "tweet_count": 43363
+   },
+   "username": "thesavera_times",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "16116288",
    "name": "rolandsmartin",
    "public_metrics": {
-    "followers_count": 709381,
+    "followers_count": 709384,
     "following_count": 4202,
     "like_count": 95339,
     "listed_count": 4654,
@@ -518,14 +1350,29 @@
    "id": "85814753",
    "name": "Sandesh",
    "public_metrics": {
-    "followers_count": 520555,
+    "followers_count": 520556,
     "following_count": 2,
     "like_count": 1746,
     "listed_count": 379,
-    "media_count": 223676,
-    "tweet_count": 463722
+    "media_count": 223677,
+    "tweet_count": 463723
    },
    "username": "sandeshnews",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "17680851",
+   "name": "The Pink Un",
+   "public_metrics": {
+    "followers_count": 32886,
+    "following_count": 522,
+    "like_count": 5125,
+    "listed_count": 286,
+    "media_count": 20461,
+    "tweet_count": 102196
+   },
+   "username": "pinkun",
    "verified": true,
    "verified_type": "blue"
   },
@@ -537,8 +1384,8 @@
     "following_count": 0,
     "like_count": 0,
     "listed_count": 0,
-    "media_count": 296,
-    "tweet_count": 312
+    "media_count": 297,
+    "tweet_count": 313
    },
    "username": "finvibelive",
    "verified": true,
@@ -608,12 +1455,12 @@
    "id": "932163222",
    "name": "Economic Freedom Fighters",
    "public_metrics": {
-    "followers_count": 2373150,
+    "followers_count": 2373149,
     "following_count": 10986,
     "like_count": 4275,
     "listed_count": 1176,
-    "media_count": 47272,
-    "tweet_count": 109023
+    "media_count": 47274,
+    "tweet_count": 109025
    },
    "username": "EFFSouthAfrica",
    "verified": true,
