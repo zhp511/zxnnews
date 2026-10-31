@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T12:26:00Z",
+ "fetched_at": "2026-10-31T12:43:30Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T09:26:00Z",
+  "start_time": "2026-10-31T09:43:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -20,7 +20,7 @@
    "id": "2116490826264027499",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 16807,
+    "impression_count": 17163,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
@@ -38,11 +38,11 @@
    "id": "2116490948238573657",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 6200,
-    "like_count": 20,
+    "impression_count": 6375,
+    "like_count": 21,
     "quote_count": 1,
     "reply_count": 3,
-    "retweet_count": 6
+    "retweet_count": 7
    },
    "text": "Watch LIVE: Press Conference | BJP HQ, New Delhi https://t.co/Vq3ND30mKd",
    "url": "https://x.com/sambitswaraj/status/2116490948238573657"
@@ -55,33 +55,15 @@
    ],
    "id": "2116490844664459342",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 15719,
-    "like_count": 97,
+    "bookmark_count": 1,
+    "impression_count": 16674,
+    "like_count": 113,
     "quote_count": 5,
-    "reply_count": 7,
-    "retweet_count": 43
+    "reply_count": 8,
+    "retweet_count": 51
    },
    "text": "BJP National Spokesperson Dr. @sambitswaraj  addresses press conference at BJP headquarters, New Delhi. https://t.co/ywslnAj2DZ",
    "url": "https://x.com/BJP4India/status/2116490844664459342"
-  },
-  {
-   "author_id": "385909720",
-   "created_at": "2026-10-31T11:25:44.000Z",
-   "edit_history_tweet_ids": [
-    "2116491807270072668"
-   ],
-   "id": "2116491807270072668",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1333,
-    "like_count": 18,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 8
-   },
-   "text": "LIVE: BJP National Spokesperson Dr. @sambitswaraj addresses press conference at BJP HQ, New Delhi. https://t.co/MdgpMGXHSR",
-   "url": "https://x.com/BJP4Gujarat/status/2116491807270072668"
   },
   {
    "author_id": "1618490684",
@@ -92,14 +74,32 @@
    "id": "2116494408216666227",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1019,
+    "impression_count": 1073,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 5
+    "retweet_count": 6
    },
    "text": "LIVE : BJP National Spokesperson @sambitswaraj Ji addresses press conference at BJP HQ, New Delhi https://t.co/kV66L9tSgo",
    "url": "https://x.com/BJP4MP/status/2116494408216666227"
+  },
+  {
+   "author_id": "385909720",
+   "created_at": "2026-10-31T11:25:44.000Z",
+   "edit_history_tweet_ids": [
+    "2116491807270072668"
+   ],
+   "id": "2116491807270072668",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1403,
+    "like_count": 19,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 10
+   },
+   "text": "LIVE: BJP National Spokesperson Dr. @sambitswaraj addresses press conference at BJP HQ, New Delhi. https://t.co/MdgpMGXHSR",
+   "url": "https://x.com/BJP4Gujarat/status/2116491807270072668"
   },
   {
    "author_id": "1982030845138608128",
@@ -110,13 +110,13 @@
    "id": "2116475872920347002",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 318,
+    "impression_count": 360,
     "like_count": 2,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "News Leader LIVE TV: \u0926\u0947\u0936-\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0939\u0930 \u0916\u092c\u0930 \u0938\u092c\u0938\u0947 \u0924\u0947\u091c | BreakingNews \n\nMock Parliament | UP Politics | INDIA Alliance Rally | BJP | Congress\nhttps://t.co/0b0YwGKiG8",
+   "text": "News Leader LIVE TV: देश-दुनिया की हर खबर सबसे तेज | BreakingNews \n\nMock Parliament | UP Politics | INDIA Alliance Rally | BJP | Congress\nhttps://t.co/0b0YwGKiG8",
    "url": "https://x.com/NewsLeaderLive/status/2116475872920347002"
   },
   {
@@ -128,13 +128,13 @@
    "id": "2116492219276484834",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2636,
+    "impression_count": 2747,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "LIVE: T\u00fcrkiye\u2019s President Recep Tayyip Erdogan speaks at Turkish Medical World Congress and TUSEB Aziz Sancar Science, Service and Incentive Awards Ceremony in Istanbul\nhttps://t.co/SNh0eY720t",
+   "text": "LIVE: Türkiye’s President Recep Tayyip Erdogan speaks at Turkish Medical World Congress and TUSEB Aziz Sancar Science, Service and Incentive Awards Ceremony in Istanbul\nhttps://t.co/SNh0eY720t",
    "url": "https://x.com/trtworld/status/2116492219276484834"
   },
   {
@@ -146,7 +146,7 @@
    "id": "2116498573122474319",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 29,
+    "impression_count": 38,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -164,32 +164,14 @@
    "id": "2116501882143129833",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 150,
-    "like_count": 10,
+    "impression_count": 246,
+    "like_count": 14,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 15
+    "retweet_count": 18
    },
-   "text": "Chelsea vs Manchester United! Who takes all three points? Catch the EPL action and debate on #SportsGarageKe, 3PM\u20137PM. Tupige gumzo la spoti!\n\nHost: @SammyMuraya &amp; @KariukiThige \nProducer: @noah_sanya1 \nDigital: @JohnVincent_001 \n#HomeOfHardTruths \nhttps://t.co/8ievWk7vcZ",
+   "text": "Chelsea vs Manchester United! Who takes all three points? Catch the EPL action and debate on #SportsGarageKe, 3PM–7PM. Tupige gumzo la spoti!\n\nHost: @SammyMuraya &amp; @KariukiThige \nProducer: @noah_sanya1 \nDigital: @JohnVincent_001 \n#HomeOfHardTruths \nhttps://t.co/8ievWk7vcZ",
    "url": "https://x.com/RadioGenKe/status/2116501882143129833"
-  },
-  {
-   "author_id": "505519109",
-   "created_at": "2026-10-31T10:12:46.000Z",
-   "edit_history_tweet_ids": [
-    "2116473447022759963"
-   ],
-   "id": "2116473447022759963",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 11,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre https://t.co/PsJQBhfb31",
-   "url": "https://x.com/mediasapientia/status/2116473447022759963"
   },
   {
    "author_id": "505519109",
@@ -200,7 +182,7 @@
    "id": "2116471233785028932",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 78,
+    "impression_count": 80,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -211,6 +193,24 @@
   },
   {
    "author_id": "505519109",
+   "created_at": "2026-10-31T10:12:46.000Z",
+   "edit_history_tweet_ids": [
+    "2116473447022759963"
+   ],
+   "id": "2116473447022759963",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 12,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre https://t.co/PsJQBhfb31",
+   "url": "https://x.com/mediasapientia/status/2116473447022759963"
+  },
+  {
+   "author_id": "505519109",
    "created_at": "2026-10-31T10:23:05.000Z",
    "edit_history_tweet_ids": [
     "2116476044479775075"
@@ -218,7 +218,7 @@
    "id": "2116476044479775075",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 29,
+    "impression_count": 31,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -236,7 +236,7 @@
    "id": "2116474338815742145",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 22,
+    "impression_count": 23,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -254,7 +254,7 @@
    "id": "2116500462933328270",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 149,
+    "impression_count": 199,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -272,7 +272,7 @@
    "id": "2116488106778259875",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 188,
+    "impression_count": 194,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -290,8 +290,8 @@
    "id": "2116485357311000619",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 992,
-    "like_count": 5,
+    "impression_count": 1077,
+    "like_count": 7,
     "quote_count": 0,
     "reply_count": 1,
     "retweet_count": 1
@@ -314,7 +314,7 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News bulletin Star Asia News Live \ud83d\udd34 https://t.co/yBFa1vSaAY",
+   "text": "News bulletin Star Asia News Live 🔴 https://t.co/yBFa1vSaAY",
    "url": "https://x.com/StarAsiatvHD/status/2116472470634901896"
   },
   {
@@ -332,7 +332,7 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News bulletin Star Asia News Live \ud83d\udd34 https://t.co/Rzpb4iievX",
+   "text": "News bulletin Star Asia News Live 🔴 https://t.co/Rzpb4iievX",
    "url": "https://x.com/StarAsiatvHD/status/2116493807147422189"
   },
   {
@@ -350,7 +350,7 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News bulletin Star Asia News Live \ud83d\udd34 https://t.co/QYLfwFQYsh",
+   "text": "News bulletin Star Asia News Live 🔴 https://t.co/QYLfwFQYsh",
    "url": "https://x.com/StarAsiatvHD/status/2116485091517939763"
   },
   {
@@ -362,7 +362,7 @@
    "id": "2116500467476054294",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 2909,
+    "impression_count": 3593,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 3,
@@ -380,7 +380,7 @@
    "id": "2116481683348128133",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 410,
+    "impression_count": 424,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -398,7 +398,7 @@
    "id": "2116489005424370058",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1619,
+    "impression_count": 1704,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -416,7 +416,7 @@
    "id": "2116501114421903414",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1017,
+    "impression_count": 1135,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -444,22 +444,22 @@
    "url": "https://x.com/PaulMor38081335/status/2116479802043416953"
   },
   {
-   "author_id": "2107094653065449472",
-   "created_at": "2026-10-31T10:14:51.000Z",
+   "author_id": "505519109",
+   "created_at": "2026-10-31T12:02:35.000Z",
    "edit_history_tweet_ids": [
-    "2116473969528148437"
+    "2116501081026859375"
    ],
-   "id": "2116473969528148437",
+   "id": "2116501081026859375",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 4,
-    "like_count": 0,
+    "impression_count": 86,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Marcus live: markets, charts and the news \u00b7 Saturday, October 31, 2026 https://t.co/XkAuI29fjc",
-   "url": "https://x.com/finvibelive/status/2116473969528148437"
+   "text": "NEWS HOUR: FG to demolish structures obstructing power transmission projects https://t.co/dWksmqfeME",
+   "url": "https://x.com/mediasapientia/status/2116501081026859375"
   }
  ],
  "users": [
@@ -467,12 +467,12 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9491255,
+    "followers_count": 9491271,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7878,
-    "media_count": 752247,
-    "tweet_count": 1183919
+    "media_count": 752262,
+    "tweet_count": 1183934
    },
    "username": "ANI",
    "verified": true,
@@ -482,12 +482,12 @@
    "id": "1368737382",
    "name": "Sambit Patra",
    "public_metrics": {
-    "followers_count": 8496637,
+    "followers_count": 8496638,
     "following_count": 619,
     "like_count": 11705,
     "listed_count": 1929,
-    "media_count": 37994,
-    "tweet_count": 99513
+    "media_count": 37995,
+    "tweet_count": 99514
    },
    "username": "sambitswaraj",
    "verified": true,
@@ -497,14 +497,29 @@
    "id": "207809313",
    "name": "BJP",
    "public_metrics": {
-    "followers_count": 23033488,
+    "followers_count": 23033504,
     "following_count": 4,
     "like_count": 0,
     "listed_count": 5778,
-    "media_count": 157147,
-    "tweet_count": 310446
+    "media_count": 157148,
+    "tweet_count": 310447
    },
    "username": "BJP4India",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1618490684",
+   "name": "BJP Madhya Pradesh",
+   "public_metrics": {
+    "followers_count": 1329267,
+    "following_count": 217,
+    "like_count": 1120,
+    "listed_count": 420,
+    "media_count": 65970,
+    "tweet_count": 98585
+   },
+   "username": "BJP4MP",
    "verified": true,
    "verified_type": "blue"
   },
@@ -516,25 +531,10 @@
     "following_count": 162,
     "like_count": 3082,
     "listed_count": 931,
-    "media_count": 53588,
-    "tweet_count": 97870
+    "media_count": 53591,
+    "tweet_count": 97873
    },
    "username": "BJP4Gujarat",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1618490684",
-   "name": "BJP Madhya Pradesh",
-   "public_metrics": {
-    "followers_count": 1329266,
-    "following_count": 217,
-    "like_count": 1120,
-    "listed_count": 420,
-    "media_count": 65969,
-    "tweet_count": 98584
-   },
-   "username": "BJP4MP",
    "verified": true,
    "verified_type": "blue"
   },
@@ -546,8 +546,8 @@
     "following_count": 1,
     "like_count": 3,
     "listed_count": 2,
-    "media_count": 29122,
-    "tweet_count": 29682
+    "media_count": 29125,
+    "tweet_count": 29685
    },
    "username": "NewsLeaderLive",
    "verified": true,
@@ -562,7 +562,7 @@
     "like_count": 0,
     "listed_count": 3064,
     "media_count": 150856,
-    "tweet_count": 287372
+    "tweet_count": 287373
    },
    "username": "trtworld",
    "verified": true,
@@ -587,7 +587,7 @@
    "id": "1893173304338313216",
    "name": "Radio Generation",
    "public_metrics": {
-    "followers_count": 9374,
+    "followers_count": 9375,
     "following_count": 402,
     "like_count": 2682,
     "listed_count": 8,
@@ -647,7 +647,7 @@
    "id": "16116288",
    "name": "rolandsmartin",
    "public_metrics": {
-    "followers_count": 709418,
+    "followers_count": 709423,
     "following_count": 4202,
     "like_count": 95339,
     "listed_count": 4654,
@@ -677,12 +677,12 @@
    "id": "1339166129110065152",
    "name": "GB News",
    "public_metrics": {
-    "followers_count": 991100,
+    "followers_count": 991101,
     "following_count": 50,
     "like_count": 0,
     "listed_count": 2726,
     "media_count": 170911,
-    "tweet_count": 330665
+    "tweet_count": 330667
    },
    "username": "GBNEWS",
    "verified": true,
@@ -692,12 +692,12 @@
    "id": "85814753",
    "name": "Sandesh",
    "public_metrics": {
-    "followers_count": 520556,
+    "followers_count": 520557,
     "following_count": 2,
     "like_count": 1746,
     "listed_count": 379,
-    "media_count": 223684,
-    "tweet_count": 463730
+    "media_count": 223686,
+    "tweet_count": 463732
    },
    "username": "sandeshnews",
    "verified": true,
@@ -707,12 +707,12 @@
    "id": "17680851",
    "name": "The Pink Un",
    "public_metrics": {
-    "followers_count": 32887,
+    "followers_count": 32889,
     "following_count": 522,
     "like_count": 5125,
     "listed_count": 288,
-    "media_count": 20464,
-    "tweet_count": 102201
+    "media_count": 20465,
+    "tweet_count": 102206
    },
    "username": "pinkun",
    "verified": true,
@@ -722,7 +722,7 @@
    "id": "714377713",
    "name": "UTV Ghana",
    "public_metrics": {
-    "followers_count": 1493337,
+    "followers_count": 1493338,
     "following_count": 205,
     "like_count": 270,
     "listed_count": 424,
@@ -735,7 +735,7 @@
   },
   {
    "id": "1492196488662900739",
-   "name": "Paul Morris \ud83c\uddec\ud83c\udde7\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f",
+   "name": "Paul Morris 🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿",
    "public_metrics": {
     "followers_count": 1110,
     "following_count": 621,
@@ -745,21 +745,6 @@
     "tweet_count": 1903
    },
    "username": "PaulMor38081335",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2107094653065449472",
-   "name": "FinVibe",
-   "public_metrics": {
-    "followers_count": 4,
-    "following_count": 0,
-    "like_count": 0,
-    "listed_count": 0,
-    "media_count": 299,
-    "tweet_count": 315
-   },
-   "username": "finvibelive",
    "verified": true,
    "verified_type": "blue"
   }
