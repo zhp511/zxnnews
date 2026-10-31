@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-31T08:41:52Z",
- "searched_at": "2026-10-31T08:41:30Z",
+ "built_at": "2026-10-31T09:01:20Z",
+ "searched_at": "2026-10-31T09:01:30Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,16 +25,6 @@
    "assumed_live_until": "2026-10-31T11:30:07Z"
   },
   {
-   "post_id": "2116409824665804936",
-   "post_url": "https://x.com/GBNEWS/status/2116409824665804936",
-   "name": "GB News",
-   "username": "GBNEWS",
-   "verified_type": "business",
-   "text": "GB News https://t.co/yQp1L24b1N",
-   "started_at": "2026-10-31T05:59:57.000Z",
-   "assumed_live_until": "2026-10-31T08:59:57Z"
-  },
-  {
    "post_id": "2116440088565653922",
    "post_url": "https://x.com/FloydShivambu/status/2116440088565653922",
    "name": "Floyd Shivambu",
@@ -43,6 +33,16 @@
    "text": "MAYIBUYE PRESIDENT FLOYD SHIVAMBU ADDRESS TO VOLUNTEERS AND COUNCILLOR CANDIDATES 2026 LGE https://t.co/ZGu7dVp83S",
    "started_at": "2026-10-31T08:00:13.000Z",
    "assumed_live_until": "2026-10-31T11:00:13Z"
+  },
+  {
+   "post_id": "2116454928608616595",
+   "post_url": "https://x.com/EFFSouthAfrica/status/2116454928608616595",
+   "name": "Economic Freedom Fighters",
+   "username": "EFFSouthAfrica",
+   "verified_type": "business",
+   "text": "The EFF Hosts its Tshela Thupa Rally addressed by President, Julius Malema https://t.co/ndw3Z6nMQw",
+   "started_at": "2026-10-31T08:59:11.000Z",
+   "assumed_live_until": "2026-10-31T11:59:11Z"
   },
   {
    "post_id": "2116424919785603488",
