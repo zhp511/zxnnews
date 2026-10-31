@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T15:40:40Z",
+ "fetched_at": "2026-10-31T16:15:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T12:40:00Z",
+  "start_time": "2026-10-31T13:14:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -11,6 +11,72 @@
   "user.fields": "name,username,verified,verified_type,public_metrics"
  },
  "data": [
+  {
+   "author_id": "804605049859145728",
+   "created_at": "2026-10-31T15:58:27.000Z",
+   "edit_history_tweet_ids": [
+    "2116560440088216049"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Live Now",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 198,
+      "expanded_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
+      "start": 175,
+      "status": 200,
+      "title": "TRT World",
+      "unwound_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
+      "url": "https://t.co/9qQMMMfl8l"
+     }
+    ]
+   },
+   "id": "2116560440088216049",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 977,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "LIVE: Turkish President Recep Tayyip Erdogan and his Ukrainian counterpart Volodymyr Zelenskyy hold a joint press conference at the Dolmabahce Presidential Office in Istanbul\nhttps://t.co/9qQMMMfl8l",
+   "url": "https://x.com/TRTWorldNow/status/2116560440088216049"
+  },
+  {
+   "author_id": "240265305",
+   "created_at": "2026-10-31T16:00:21.000Z",
+   "edit_history_tweet_ids": [
+    "2116560918616093052"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Live Now",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 200,
+      "expanded_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
+      "start": 177,
+      "status": 200,
+      "title": "TRT World",
+      "unwound_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
+      "url": "https://t.co/on9EGBrnes"
+     }
+    ]
+   },
+   "id": "2116560918616093052",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 712,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "\ud83d\udd34 LIVE: Turkish President Recep Tayyip Erdogan and his Ukrainian counterpart Volodymyr Zelenskyy hold a joint press conference at the Dolmabahce Presidential Office in Istanbul https://t.co/on9EGBrnes",
+   "url": "https://x.com/anadoluagency/status/2116560918616093052"
+  },
   {
    "author_id": "355989081",
    "created_at": "2026-10-31T13:39:44.000Z",
@@ -58,7 +124,7 @@
     "urls": [
      {
       "description": "Rahul Gandhi LIVE: Opposition's CEC Impeachment Campaign Ahead of Ramlila Maidan Showdown",
-      "display_url": "x.com/i/broadcasts/2…",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 196,
       "expanded_url": "https://x.com/i/broadcasts/2OdmVMLnWKjOyy",
       "images": [
@@ -84,7 +150,7 @@
    "id": "2116525530241552501",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 16672,
+    "impression_count": 16990,
     "like_count": 40,
     "quote_count": 0,
     "reply_count": 5,
@@ -120,7 +186,7 @@
     "urls": [
      {
       "description": "TRUMP'S FINAL MIDTERM PUSH: What's Really Happening Before Election Day?",
-      "display_url": "x.com/i/broadcasts/2…",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 278,
       "expanded_url": "https://x.com/i/broadcasts/2rJaYApYeynMeb",
       "images": [
@@ -152,53 +218,53 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "🚨 MIDTERM SHOWDOWN! Trump’s final election push, 20+ tele-rallies, Alaska election controversy, Elon Musk’s warnings &amp; more!\n\nPLUS: Eric Deters on Kimberly Guilfoyle’s $100K AMEX bill!\n\n🎙️ The Truth with John Gordon\n\n#Midterms2026 #Trump #JohnGordon\n\nhttps://t.co/TKve1lEfjY",
+   "text": "\ud83d\udea8 MIDTERM SHOWDOWN! Trump\u2019s final election push, 20+ tele-rallies, Alaska election controversy, Elon Musk\u2019s warnings &amp; more!\n\nPLUS: Eric Deters on Kimberly Guilfoyle\u2019s $100K AMEX bill!\n\n\ud83c\udf99\ufe0f The Truth with John Gordon\n\n#Midterms2026 #Trump #JohnGordon\n\nhttps://t.co/TKve1lEfjY",
    "url": "https://x.com/JohnGordonTV/status/2116540484185100797"
   },
   {
-   "author_id": "1572199491503022080",
-   "created_at": "2026-10-31T13:03:12.000Z",
+   "author_id": "2035616210684125184",
+   "created_at": "2026-10-31T15:45:01.000Z",
    "edit_history_tweet_ids": [
-    "2116516337778598310"
+    "2116557060057805160"
    ],
    "entities": {
     "urls": [
      {
-      "description": "Breaking News🚨, Internet Drama😡, & Trending Clips😂 - Live🔴",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 86,
-      "expanded_url": "https://x.com/i/broadcasts/2kEbqWmXYRBnyO",
+      "description": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 111,
+      "expanded_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
       "images": [
        {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116516380459794432/MSME1XJD?format=jpg&name=orig",
-        "width": 1920
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=orig",
+        "width": 1280
        },
        {
         "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116516380459794432/MSME1XJD?format=jpg&name=150x150",
+        "url": "https://pbs.twimg.com/news_img/2116546500234764289/Si0-IHfN?format=jpg&name=150x150",
         "width": 150
        }
       ],
-      "start": 63,
+      "start": 88,
       "status": 200,
-      "title": "GamingWade",
-      "unwound_url": "https://x.com/i/broadcasts/2kEbqWmXYRBnyO",
-      "url": "https://t.co/wZErnxbJIq"
+      "title": "Live Streaming Press",
+      "unwound_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
+      "url": "https://t.co/x1rReDo9r5"
      }
     ]
    },
-   "id": "2116516337778598310",
+   "id": "2116557060057805160",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3,
+    "impression_count": 15,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 1
    },
-   "text": "Breaking News🚨, Internet Drama😡, &amp; Trending Clips😂 - Live🔴 https://t.co/wZErnxbJIq",
-   "url": "https://x.com/colludiumwolf/status/2116516337778598310"
+   "text": "Watch Press TV\u2019s live stream for the latest news, breaking updates, and expert analysis\nhttps://t.co/x1rReDo9r5",
+   "url": "https://x.com/AsItIsMYNAME/status/2116557060057805160"
   },
   {
    "author_id": "2088531875618836480",
@@ -210,7 +276,7 @@
     "urls": [
      {
       "description": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis",
-      "display_url": "x.com/i/broadcasts/2…",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 111,
       "expanded_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
       "images": [
@@ -236,11 +302,11 @@
    "id": "2116546529188311354",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1180,
-    "like_count": 0,
+    "impression_count": 1546,
+    "like_count": 1,
     "quote_count": 1,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 1
    },
    "text": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis\n\nhttps://t.co/mSDqinEb6f",
    "url": "https://x.com/LiveStreamprz/status/2116546529188311354"
@@ -255,7 +321,7 @@
     "urls": [
      {
       "description": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis",
-      "display_url": "x.com/i/broadcasts/2…",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 110,
       "expanded_url": "https://x.com/i/broadcasts/2evMjBMEXnMvBn",
       "images": [
@@ -281,7 +347,7 @@
    "id": "2116546457712873553",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 17,
+    "impression_count": 24,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -299,8 +365,8 @@
    "entities": {
     "urls": [
      {
-      "description": "🚨 Colorado vs Kansas State RECAP! 🦬 | Week 9 College Football Chaos, Big Upsets & BREAKING NEWS!",
-      "display_url": "x.com/i/broadcasts/2…",
+      "description": "\ud83d\udea8 Colorado vs Kansas State RECAP! \ud83e\uddac | Week 9 College Football Chaos, Big Upsets & BREAKING NEWS!",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 124,
       "expanded_url": "https://x.com/i/broadcasts/2RezkzRMnEoZjq",
       "start": 101,
@@ -314,14 +380,80 @@
    "id": "2116543117436293145",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 50,
+    "impression_count": 55,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "🚨 Colorado vs Kansas State RECAP! 🦬 | Week 9 College Football Chaos, Big Upsets &amp; BREAKING NEWS! https://t.co/rFny710xka",
+   "text": "\ud83d\udea8 Colorado vs Kansas State RECAP! \ud83e\uddac | Week 9 College Football Chaos, Big Upsets &amp; BREAKING NEWS! https://t.co/rFny710xka",
    "url": "https://x.com/truckinchubbzy/status/2116543117436293145"
+  },
+  {
+   "author_id": "1461110373679910920",
+   "created_at": "2026-10-31T16:03:11.000Z",
+   "edit_history_tweet_ids": [
+    "2116561630674706467"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Debate On Islamic Morality With Aftab Borka",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 67,
+      "expanded_url": "https://x.com/i/broadcasts/2ybVYyRRomEOkn",
+      "start": 44,
+      "status": 200,
+      "title": "Ex Muslim Sameer",
+      "unwound_url": "https://x.com/i/broadcasts/2ybVYyRRomEOkn",
+      "url": "https://t.co/I1HACVkUla"
+     }
+    ]
+   },
+   "id": "2116561630674706467",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 81,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Debate On Islamic Morality With Aftab Borka https://t.co/I1HACVkUla",
+   "url": "https://x.com/ExMuslimSameer/status/2116561630674706467"
+  },
+  {
+   "author_id": "1542252597855375367",
+   "created_at": "2026-10-31T16:08:03.000Z",
+   "edit_history_tweet_ids": [
+    "2116562855705170249"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "TAYLOR TO THE BEARS?! Mack Debate, Parsons' Return & the MNF Injury Report",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 102,
+      "expanded_url": "https://x.com/i/broadcasts/2onAVoKeoygrma",
+      "start": 79,
+      "status": 200,
+      "title": "Chicago Sports Podcast",
+      "unwound_url": "https://x.com/i/broadcasts/2onAVoKeoygrma",
+      "url": "https://t.co/pwuTBNbClD"
+     }
+    ]
+   },
+   "id": "2116562855705170249",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 62,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "TAYLOR TO THE BEARS?! Mack Debate, Parsons' Return &amp; the MNF Injury Report https://t.co/pwuTBNbClD",
+   "url": "https://x.com/ChiSportsTracks/status/2116562855705170249"
   },
   {
    "author_id": "1492167536200273926",
@@ -332,8 +464,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2…",
+      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 103,
       "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
       "images": [
@@ -359,13 +491,13 @@
    "id": "2116534033089716600",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 67,
+    "impression_count": 76,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/zomQiF7ktn",
+   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/zomQiF7ktn",
    "url": "https://x.com/Honking4Freedom/status/2116534033089716600"
   },
   {
@@ -377,8 +509,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2…",
+      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 103,
       "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
       "images": [
@@ -410,7 +542,7 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/Ie9iMIewm8",
+   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/Ie9iMIewm8",
    "url": "https://x.com/CorrectFm/status/2116534104703574434"
   },
   {
@@ -422,8 +554,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2…",
+      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 103,
       "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
       "images": [
@@ -449,13 +581,13 @@
    "id": "2116534506643398687",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 57,
+    "impression_count": 60,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/oWFW8ySDVP",
+   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/oWFW8ySDVP",
    "url": "https://x.com/NatTelegraph/status/2116534506643398687"
   },
   {
@@ -467,8 +599,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics",
-      "display_url": "x.com/i/broadcasts/2…",
+      "description": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 105,
       "expanded_url": "https://x.com/i/broadcasts/2OdmVJdBLJggpk",
       "images": [
@@ -494,14 +626,59 @@
    "id": "2116533479760334929",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 367,
+    "impression_count": 572,
     "like_count": 3,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 2
    },
-   "text": "Coffee with BJ | EP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/HvJ60aeKpd",
+   "text": "Coffee with BJ | EP# 334 | Grokbots, Poland\u2019s EU Coup, The NPC Frame for Politics https://t.co/HvJ60aeKpd",
    "url": "https://x.com/BJdichter/status/2116533479760334929"
+  },
+  {
+   "author_id": "16116288",
+   "created_at": "2026-10-31T15:48:17.000Z",
+   "edit_history_tweet_ids": [
+    "2116557880153284817"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Roland live in Fort Bend County, Texas for election canvassing",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 86,
+      "expanded_url": "https://x.com/i/broadcasts/2RezkqoMlJMbEJ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116557922708627456/Hc6HDAUr?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116557922708627456/Hc6HDAUr?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 63,
+      "status": 200,
+      "title": "rolandsmartin",
+      "unwound_url": "https://x.com/i/broadcasts/2RezkqoMlJMbEJ",
+      "url": "https://t.co/fQjd0uQGaq"
+     }
+    ]
+   },
+   "id": "2116557880153284817",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 678,
+    "like_count": 6,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 4
+   },
+   "text": "Roland live in Fort Bend County, Texas for election canvassing https://t.co/fQjd0uQGaq",
+   "url": "https://x.com/rolandsmartin/status/2116557880153284817"
   },
   {
    "author_id": "1658306279721377795",
@@ -512,8 +689,8 @@
    "entities": {
     "urls": [
      {
-      "description": "Talarico’s “Affordability Plan,” Election Fraud Storms & Texas H-1B Heat",
-      "display_url": "x.com/i/broadcasts/2…",
+      "description": "Talarico\u2019s \u201cAffordability Plan,\u201d Election Fraud Storms & Texas H-1B Heat",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 100,
       "expanded_url": "https://x.com/i/broadcasts/2KolLjmWyaePKY",
       "images": [
@@ -539,14 +716,137 @@
    "id": "2116538175799636468",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 61,
-    "like_count": 3,
+    "impression_count": 133,
+    "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 2
    },
-   "text": "Talarico’s “Affordability Plan,” Election Fraud Storms &amp; Texas H-1B Heat https://t.co/t8Q4hlnOHy",
+   "text": "Talarico\u2019s \u201cAffordability Plan,\u201d Election Fraud Storms &amp; Texas H-1B Heat https://t.co/t8Q4hlnOHy",
    "url": "https://x.com/sidebartv180/status/2116538175799636468"
+  },
+  {
+   "author_id": "2026120953206321152",
+   "created_at": "2026-10-31T16:00:08.000Z",
+   "edit_history_tweet_ids": [
+    "2116560863763304813"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "TRUMP'S FINAL MIDTERM PUSH: What's Really Happening Before Election Day?",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 96,
+      "expanded_url": "https://x.com/i/broadcasts/2rJaYApYeynMeb",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2116540487922241536/LB9LUviL?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116540487922241536/LB9LUviL?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 73,
+      "status": 200,
+      "title": "John Gordon",
+      "unwound_url": "https://x.com/i/broadcasts/2rJaYApYeynMeb",
+      "url": "https://t.co/TKve1lEN9w"
+     }
+    ]
+   },
+   "id": "2116560863763304813",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "TRUMP'S FINAL MIDTERM PUSH: What's Really Happening Before Election Day? https://t.co/TKve1lEN9w",
+   "url": "https://x.com/JohnGordonTV/status/2116560863763304813"
+  },
+  {
+   "author_id": "386551109",
+   "created_at": "2026-10-31T16:01:03.000Z",
+   "edit_history_tweet_ids": [
+    "2116561096723034540"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "America Unplugged 10-31-26",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 50,
+      "expanded_url": "https://x.com/i/broadcasts/2onAVjXoWOaZjm",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116563551561109504/JK1zcUAp?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116563551561109504/JK1zcUAp?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 27,
+      "status": 200,
+      "title": "Tony Arterburn",
+      "unwound_url": "https://x.com/i/broadcasts/2onAVjXoWOaZjm",
+      "url": "https://t.co/tBrxdueDBV"
+     }
+    ]
+   },
+   "id": "2116561096723034540",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 29,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "America Unplugged 10-31-26 https://t.co/tBrxdueDBV",
+   "url": "https://x.com/TonyArterburn/status/2116561096723034540"
+  },
+  {
+   "author_id": "2610725894",
+   "created_at": "2026-10-31T16:01:03.000Z",
+   "edit_history_tweet_ids": [
+    "2116561096332992986"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "America Unplugged 10-31-26",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 50,
+      "expanded_url": "https://x.com/i/broadcasts/2ZBKednbePeAob",
+      "start": 27,
+      "status": 200,
+      "title": "Billy Ray Valentine",
+      "unwound_url": "https://x.com/i/broadcasts/2ZBKednbePeAob",
+      "url": "https://t.co/RoIRV3Hnhu"
+     }
+    ]
+   },
+   "id": "2116561096332992986",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 11,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "America Unplugged 10-31-26 https://t.co/RoIRV3Hnhu",
+   "url": "https://x.com/Obi1unome/status/2116561096332992986"
   },
   {
    "author_id": "299243451",
@@ -558,12 +858,12 @@
     "urls": [
      {
       "description": "Veterans Free Enterprise / Unity, America. Thanks be to GOD",
-      "display_url": "x.com/i/broadcasts/2…",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 83,
       "expanded_url": "https://x.com/i/broadcasts/2qVAONeARNbLrM",
       "start": 60,
       "status": 200,
-      "title": "Unity America 🎙",
+      "title": "Unity America \ud83c\udf99",
       "unwound_url": "https://x.com/i/broadcasts/2qVAONeARNbLrM",
       "url": "https://t.co/fPAhpeFZVG"
      }
@@ -590,8 +890,8 @@
    "entities": {
     "urls": [
      {
-      "description": "MORE TIME FOR AMERICA—IF THE CHURCH COOPERATES WITH THE WORD!!",
-      "display_url": "x.com/i/broadcasts/2…",
+      "description": "MORE TIME FOR AMERICA\u2014IF THE CHURCH COOPERATES WITH THE WORD!!",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 86,
       "expanded_url": "https://x.com/i/broadcasts/2aWbQJPlLnMElN",
       "images": [
@@ -617,13 +917,13 @@
    "id": "2116530653852258518",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 455,
-    "like_count": 7,
+    "impression_count": 494,
+    "like_count": 9,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 3
    },
-   "text": "MORE TIME FOR AMERICA—IF THE CHURCH COOPERATES WITH THE WORD!! https://t.co/3nNovkYLDA",
+   "text": "MORE TIME FOR AMERICA\u2014IF THE CHURCH COOPERATES WITH THE WORD!! https://t.co/3nNovkYLDA",
    "url": "https://x.com/OfficialJosephZ/status/2116530653852258518"
   },
   {
@@ -635,8 +935,8 @@
    "entities": {
     "urls": [
      {
-      "description": "News bulletin Star Asia News Live 🔴",
-      "display_url": "x.com/i/broadcasts/2…",
+      "description": "News bulletin Star Asia News Live \ud83d\udd34",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 59,
       "expanded_url": "https://x.com/i/broadcasts/2KolebLMeOQXjo",
       "images": [
@@ -668,53 +968,8 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News bulletin Star Asia News Live 🔴 https://t.co/xuuHnjDqHC",
+   "text": "News bulletin Star Asia News Live \ud83d\udd34 https://t.co/xuuHnjDqHC",
    "url": "https://x.com/StarAsiatvHD/status/2116525213382787240"
-  },
-  {
-   "author_id": "1646087345127690240",
-   "created_at": "2026-10-31T12:50:49.000Z",
-   "edit_history_tweet_ids": [
-    "2116513222660366576"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "News bulletin Star Asia News Live 🔴",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 59,
-      "expanded_url": "https://x.com/i/broadcasts/2LPLYymWYVqrjP",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116513265320603648/gUG-rNEA?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116513265320603648/gUG-rNEA?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 36,
-      "status": 200,
-      "title": "Star Asia Tv",
-      "unwound_url": "https://x.com/i/broadcasts/2LPLYymWYVqrjP",
-      "url": "https://t.co/RsMdRR7rQy"
-     }
-    ]
-   },
-   "id": "2116513222660366576",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 5,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "News bulletin Star Asia News Live 🔴 https://t.co/RsMdRR7rQy",
-   "url": "https://x.com/StarAsiatvHD/status/2116513222660366576"
   },
   {
    "author_id": "85814753",
@@ -726,7 +981,7 @@
     "urls": [
      {
       "description": "Sandesh News",
-      "display_url": "x.com/i/broadcasts/2…",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 36,
       "expanded_url": "https://x.com/i/broadcasts/2XyJPAYnJWogXJ",
       "images": [
@@ -752,7 +1007,7 @@
    "id": "2116522956218110111",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 449,
+    "impression_count": 467,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -771,7 +1026,7 @@
     "urls": [
      {
       "description": "Live broadcast | English News Bulletin",
-      "display_url": "x.com/i/broadcasts/2…",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 62,
       "expanded_url": "https://x.com/i/broadcasts/2WXKZEjYlZLJdL",
       "images": [
@@ -788,7 +1043,7 @@
       ],
       "start": 39,
       "status": 200,
-      "title": "مركز الأخبار",
+      "title": "\u0645\u0631\u0643\u0632 \u0627\u0644\u0623\u062e\u0628\u0627\u0631",
       "unwound_url": "https://x.com/i/broadcasts/2WXKZEjYlZLJdL",
       "url": "https://t.co/LvMnHn9u3s"
      }
@@ -797,7 +1052,7 @@
    "id": "2116545786427133986",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1446,
+    "impression_count": 1764,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -805,51 +1060,6 @@
    },
    "text": "Live broadcast | English News Bulletin https://t.co/LvMnHn9u3s",
    "url": "https://x.com/omantvnews/status/2116545786427133986"
-  },
-  {
-   "author_id": "19897138",
-   "created_at": "2026-10-31T15:26:36.000Z",
-   "edit_history_tweet_ids": [
-    "2116552426086183138"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Catch the top news updates & headlines, only on India Today!",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 88,
-      "expanded_url": "https://x.com/i/broadcasts/2aWbRPmaoRzOqO",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116552468507287552/FVppYRGo?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116552468507287552/FVppYRGo?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 65,
-      "status": 200,
-      "title": "IndiaToday",
-      "unwound_url": "https://x.com/i/broadcasts/2aWbRPmaoRzOqO",
-      "url": "https://t.co/P1JMQeJ9br"
-     }
-    ]
-   },
-   "id": "2116552426086183138",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1904,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Catch the top news updates &amp; headlines, only on India Today! https://t.co/P1JMQeJ9br",
-   "url": "https://x.com/IndiaToday/status/2116552426086183138"
   },
   {
    "author_id": "1631138820446928898",
@@ -860,10 +1070,22 @@
    "entities": {
     "urls": [
      {
-      "description": "BETSPRESSO 🎃 💰SATURDAY Best Bets, News & MORE! | BNN LIVE 📺 10.31.2026",
-      "display_url": "x.com/i/broadcasts/2…",
+      "description": "BETSPRESSO \ud83c\udf83 \ud83d\udcb0SATURDAY Best Bets, News & MORE! | BNN LIVE \ud83d\udcfa 10.31.2026",
+      "display_url": "x.com/i/broadcasts/2\u2026",
       "end": 100,
       "expanded_url": "https://x.com/i/broadcasts/2qVAYjQAOzVvEA",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116552728164147200/NFActz3_?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116552728164147200/NFActz3_?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
       "start": 77,
       "status": 200,
       "title": "SPJ",
@@ -875,261 +1097,57 @@
    "id": "2116545742223372454",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1645,
-    "like_count": 3,
+    "impression_count": 2350,
+    "like_count": 4,
     "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "BETSPRESSO 🎃 💰SATURDAY  Best Bets, News &amp; MORE! | BNN LIVE 📺  10.31.2026 https://t.co/pHwGfO23L7",
+   "text": "BETSPRESSO \ud83c\udf83 \ud83d\udcb0SATURDAY  Best Bets, News &amp; MORE! | BNN LIVE \ud83d\udcfa  10.31.2026 https://t.co/pHwGfO23L7",
    "url": "https://x.com/SweatpantJesus/status/2116545742223372454"
-  },
-  {
-   "author_id": "19897138",
-   "created_at": "2026-10-31T13:27:13.000Z",
-   "edit_history_tweet_ids": [
-    "2116522379644117397"
-   ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 5,
-      "start": 0,
-      "tag": "LIVE"
-     },
-     {
-      "end": 70,
-      "start": 57,
-      "tag": "ITLivestream"
-     }
-    ],
-    "urls": [
-     {
-      "description": "#LIVE || Watch the top news and headlines at this hour | #ITLivestream",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 94,
-      "expanded_url": "https://x.com/i/broadcasts/2aWbQqgZnWPYgr",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116522423810166784/eHTET8Nv?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116522423810166784/eHTET8Nv?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 71,
-      "status": 200,
-      "title": "IndiaToday",
-      "unwound_url": "https://x.com/i/broadcasts/2aWbQqgZnWPYgr",
-      "url": "https://t.co/JkMv4URx5X"
-     }
-    ]
-   },
-   "id": "2116522379644117397",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 4659,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "#LIVE || Watch the top news and headlines at this hour | #ITLivestream https://t.co/JkMv4URx5X",
-   "url": "https://x.com/IndiaToday/status/2116522379644117397"
-  },
-  {
-   "author_id": "1012023001221562368",
-   "created_at": "2026-10-31T15:00:03.000Z",
-   "edit_history_tweet_ids": [
-    "2116545742743416871"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "BETSPRESSO 🎃 💰SATURDAY Best Bets, News & MORE! | BNN LIVE 📺 10.31.2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 100,
-      "expanded_url": "https://x.com/i/broadcasts/2rJaYqNalVzVlN",
-      "start": 77,
-      "status": 200,
-      "title": "Betting News",
-      "unwound_url": "https://x.com/i/broadcasts/2rJaYqNalVzVlN",
-      "url": "https://t.co/GTiTc9TbrN"
-     }
-    ]
-   },
-   "id": "2116545742743416871",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 668,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "BETSPRESSO 🎃 💰SATURDAY  Best Bets, News &amp; MORE! | BNN LIVE 📺  10.31.2026 https://t.co/GTiTc9TbrN",
-   "url": "https://x.com/YourBettingNews/status/2116545742743416871"
-  },
-  {
-   "author_id": "158903216",
-   "created_at": "2026-10-31T14:35:38.000Z",
-   "edit_history_tweet_ids": [
-    "2116539599447118259"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "OUR BLACK NEWS with Ashyante Shantell Gill (Brooklyn Park, MN)",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 86,
-      "expanded_url": "https://x.com/i/broadcasts/1YxNrblapQQxw",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2115436624620265473/lhrmR2Jm?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2115436624620265473/lhrmR2Jm?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 63,
-      "status": 200,
-      "title": "Dr. Don Allen, Ed.D., Ed.S., M.A. Ed., MAT",
-      "unwound_url": "https://x.com/i/broadcasts/1YxNrblapQQxw",
-      "url": "https://t.co/ys8NQK9BR2"
-     }
-    ]
-   },
-   "id": "2116539599447118259",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 31,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 2
-   },
-   "text": "OUR BLACK NEWS with Ashyante Shantell Gill (Brooklyn Park, MN) https://t.co/ys8NQK9BR2",
-   "url": "https://x.com/DonAllen02/status/2116539599447118259"
-  },
-  {
-   "author_id": "1528372074812669952",
-   "created_at": "2026-10-31T15:00:03.000Z",
-   "edit_history_tweet_ids": [
-    "2116545742466654277"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "BETSPRESSO 🎃 💰SATURDAY Best Bets, News & MORE! | BNN LIVE 📺 10.31.2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 100,
-      "expanded_url": "https://x.com/i/broadcasts/2RezkMEzQRNpjj",
-      "start": 77,
-      "status": 200,
-      "title": "SharpTrizz🗡",
-      "unwound_url": "https://x.com/i/broadcasts/2RezkMEzQRNpjj",
-      "url": "https://t.co/lSlB7Qr2ve"
-     }
-    ]
-   },
-   "id": "2116545742466654277",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 121,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "BETSPRESSO 🎃 💰SATURDAY  Best Bets, News &amp; MORE! | BNN LIVE 📺  10.31.2026 https://t.co/lSlB7Qr2ve",
-   "url": "https://x.com/trizzy_bets/status/2116545742466654277"
-  },
-  {
-   "author_id": "498651428",
-   "created_at": "2026-10-31T15:00:03.000Z",
-   "edit_history_tweet_ids": [
-    "2116545742185668718"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "BETSPRESSO 🎃 💰SATURDAY Best Bets, News & MORE! | BNN LIVE 📺 10.31.2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 100,
-      "expanded_url": "https://x.com/i/broadcasts/2XyJXEVJXnmmlX",
-      "start": 77,
-      "status": 200,
-      "title": "Betting The Pitch",
-      "unwound_url": "https://x.com/i/broadcasts/2XyJXEVJXnmmlX",
-      "url": "https://t.co/VQp5gzjVVJ"
-     }
-    ]
-   },
-   "id": "2116545742185668718",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 2407,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "BETSPRESSO 🎃 💰SATURDAY  Best Bets, News &amp; MORE! | BNN LIVE 📺  10.31.2026 https://t.co/VQp5gzjVVJ",
-   "url": "https://x.com/BettingThePitch/status/2116545742185668718"
-  },
-  {
-   "author_id": "1266824017689956358",
-   "created_at": "2026-10-31T15:00:03.000Z",
-   "edit_history_tweet_ids": [
-    "2116545741854306796"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "BETSPRESSO 🎃 💰SATURDAY Best Bets, News & MORE! | BNN LIVE 📺 10.31.2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 100,
-      "expanded_url": "https://x.com/i/broadcasts/2vypYlbpNXPpLJ",
-      "start": 77,
-      "status": 200,
-      "title": "Beastmcneese_bets",
-      "unwound_url": "https://x.com/i/broadcasts/2vypYlbpNXPpLJ",
-      "url": "https://t.co/duToDF5uPE"
-     }
-    ]
-   },
-   "id": "2116545741854306796",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 4,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "BETSPRESSO 🎃 💰SATURDAY  Best Bets, News &amp; MORE! | BNN LIVE 📺  10.31.2026 https://t.co/duToDF5uPE",
-   "url": "https://x.com/JacksonMcneese/status/2116545741854306796"
   }
  ],
  "users": [
   {
+   "id": "804605049859145728",
+   "name": "TRT World Now",
+   "public_metrics": {
+    "followers_count": 298163,
+    "following_count": 22,
+    "like_count": 1,
+    "listed_count": 1515,
+    "media_count": 158789,
+    "tweet_count": 194250
+   },
+   "username": "TRTWorldNow",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "240265305",
+   "name": "Anadolu English",
+   "public_metrics": {
+    "followers_count": 318849,
+    "following_count": 21,
+    "like_count": 2,
+    "listed_count": 2986,
+    "media_count": 308460,
+    "tweet_count": 425337
+   },
+   "username": "anadoluagency",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9491368,
+    "followers_count": 9491401,
     "following_count": 0,
     "like_count": 72,
-    "listed_count": 7878,
-    "media_count": 752360,
-    "tweet_count": 1184044
+    "listed_count": 7879,
+    "media_count": 752369,
+    "tweet_count": 1184057
    },
    "username": "ANI",
    "verified": true,
@@ -1139,29 +1157,29 @@
    "id": "2026120953206321152",
    "name": "John Gordon",
    "public_metrics": {
-    "followers_count": 2442,
+    "followers_count": 2443,
     "following_count": 2862,
     "like_count": 71,
     "listed_count": 1,
     "media_count": 190,
-    "tweet_count": 767
+    "tweet_count": 768
    },
    "username": "JohnGordonTV",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1572199491503022080",
-   "name": "GamingWade",
+   "id": "2035616210684125184",
+   "name": "MY NAME",
    "public_metrics": {
-    "followers_count": 180,
-    "following_count": 68,
-    "like_count": 519,
-    "listed_count": 0,
-    "media_count": 2204,
-    "tweet_count": 3287
+    "followers_count": 447,
+    "following_count": 616,
+    "like_count": 5398,
+    "listed_count": 3,
+    "media_count": 2074,
+    "tweet_count": 6114
    },
-   "username": "colludiumwolf",
+   "username": "AsItIsMYNAME",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1192,6 +1210,36 @@
     "tweet_count": 5218
    },
    "username": "truckinchubbzy",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1461110373679910920",
+   "name": "Ex Muslim Sameer",
+   "public_metrics": {
+    "followers_count": 13786,
+    "following_count": 32,
+    "like_count": 104,
+    "listed_count": 27,
+    "media_count": 37,
+    "tweet_count": 287
+   },
+   "username": "ExMuslimSameer",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1542252597855375367",
+   "name": "Chicago Sports Podcast",
+   "public_metrics": {
+    "followers_count": 4610,
+    "following_count": 1726,
+    "like_count": 4460,
+    "listed_count": 16,
+    "media_count": 2605,
+    "tweet_count": 6487
+   },
+   "username": "ChiSportsTracks",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1246,12 +1294,27 @@
    "public_metrics": {
     "followers_count": 54729,
     "following_count": 1874,
-    "like_count": 70932,
+    "like_count": 70933,
     "listed_count": 153,
     "media_count": 7266,
     "tweet_count": 38268
    },
    "username": "BJdichter",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "16116288",
+   "name": "rolandsmartin",
+   "public_metrics": {
+    "followers_count": 709492,
+    "following_count": 4202,
+    "like_count": 95340,
+    "listed_count": 4657,
+    "media_count": 34354,
+    "tweet_count": 700905
+   },
+   "username": "rolandsmartin",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1271,8 +1334,38 @@
    "verified_type": "blue"
   },
   {
+   "id": "386551109",
+   "name": "Tony Arterburn",
+   "public_metrics": {
+    "followers_count": 5562,
+    "following_count": 3972,
+    "like_count": 9988,
+    "listed_count": 77,
+    "media_count": 64,
+    "tweet_count": 6214
+   },
+   "username": "TonyArterburn",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2610725894",
+   "name": "Billy Ray Valentine",
+   "public_metrics": {
+    "followers_count": 2715,
+    "following_count": 849,
+    "like_count": 5152,
+    "listed_count": 11,
+    "media_count": 375,
+    "tweet_count": 5463
+   },
+   "username": "Obi1unome",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "299243451",
-   "name": "Unity America 🎙",
+   "name": "Unity America \ud83c\udf99",
    "public_metrics": {
     "followers_count": 425,
     "following_count": 302,
@@ -1308,8 +1401,8 @@
     "following_count": 1,
     "like_count": 35,
     "listed_count": 1,
-    "media_count": 4733,
-    "tweet_count": 4858
+    "media_count": 4734,
+    "tweet_count": 4859
    },
    "username": "StarAsiatvHD",
    "verified": true,
@@ -1323,8 +1416,8 @@
     "following_count": 2,
     "like_count": 1746,
     "listed_count": 379,
-    "media_count": 223691,
-    "tweet_count": 463738
+    "media_count": 223696,
+    "tweet_count": 463743
    },
    "username": "sandeshnews",
    "verified": true,
@@ -1332,9 +1425,9 @@
   },
   {
    "id": "882505074",
-   "name": "مركز الأخبار",
+   "name": "\u0645\u0631\u0643\u0632 \u0627\u0644\u0623\u062e\u0628\u0627\u0631",
    "public_metrics": {
-    "followers_count": 795105,
+    "followers_count": 795107,
     "following_count": 2,
     "like_count": 300,
     "listed_count": 632,
@@ -1342,21 +1435,6 @@
     "tweet_count": 107023
    },
    "username": "omantvnews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "19897138",
-   "name": "IndiaToday",
-   "public_metrics": {
-    "followers_count": 6275735,
-    "following_count": 83,
-    "like_count": 4431,
-    "listed_count": 7342,
-    "media_count": 582221,
-    "tweet_count": 1543351
-   },
-   "username": "IndiaToday",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1372,81 +1450,6 @@
     "tweet_count": 36834
    },
    "username": "SweatpantJesus",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1012023001221562368",
-   "name": "Betting News",
-   "public_metrics": {
-    "followers_count": 18375,
-    "following_count": 912,
-    "like_count": 48246,
-    "listed_count": 106,
-    "media_count": 7057,
-    "tweet_count": 40562
-   },
-   "username": "YourBettingNews",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
-   "id": "158903216",
-   "name": "Dr. Don Allen, Ed.D., Ed.S., M.A. Ed., MAT",
-   "public_metrics": {
-    "followers_count": 1385,
-    "following_count": 2988,
-    "like_count": 11799,
-    "listed_count": 23,
-    "media_count": 2845,
-    "tweet_count": 11121
-   },
-   "username": "DonAllen02",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1528372074812669952",
-   "name": "SharpTrizz🗡",
-   "public_metrics": {
-    "followers_count": 3085,
-    "following_count": 262,
-    "like_count": 7035,
-    "listed_count": 18,
-    "media_count": 489,
-    "tweet_count": 4775
-   },
-   "username": "trizzy_bets",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "498651428",
-   "name": "Betting The Pitch",
-   "public_metrics": {
-    "followers_count": 39492,
-    "following_count": 577,
-    "like_count": 54759,
-    "listed_count": 373,
-    "media_count": 12762,
-    "tweet_count": 35954
-   },
-   "username": "BettingThePitch",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1266824017689956358",
-   "name": "Beastmcneese_bets",
-   "public_metrics": {
-    "followers_count": 63,
-    "following_count": 157,
-    "like_count": 1092,
-    "listed_count": 1,
-    "media_count": 105,
-    "tweet_count": 602
-   },
-   "username": "JacksonMcneese",
    "verified": true,
    "verified_type": "blue"
   }
