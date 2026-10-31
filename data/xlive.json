@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-31T08:00:34Z",
- "searched_at": "2026-10-31T08:00:30Z",
+ "built_at": "2026-10-31T08:20:13Z",
+ "searched_at": "2026-10-31T08:19:55Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2116444244147572822",
+   "post_url": "https://x.com/ANI/status/2116444244147572822",
+   "name": "ANI",
+   "username": "ANI",
+   "verified_type": "business",
+   "text": "LIVE: BJP'S Sudhanshu Trivedi Holds Press Conference I BJP I Rahul Gandhi | PM Modi\n\n#sudhanshutrivedi #bjp #congress #pressconference #live https://t.co/JCP6oYlrhi",
+   "started_at": "2026-10-31T08:16:44.000Z",
+   "assumed_live_until": "2026-10-31T11:16:44Z"
+  },
   {
    "post_id": "2116409858991804700",
    "post_url": "https://x.com/rolandsmartin/status/2116409858991804700",
@@ -25,16 +35,6 @@
    "assumed_live_until": "2026-10-31T08:59:57Z"
   },
   {
-   "post_id": "2116424919785603488",
-   "post_url": "https://x.com/Channel1TVGHA/status/2116424919785603488",
-   "name": "ChannelOne TV",
-   "username": "Channel1TVGHA",
-   "verified_type": "blue",
-   "text": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 31st October 2026 https://t.co/x94YyMmY20",
-   "started_at": "2026-10-31T06:59:56.000Z",
-   "assumed_live_until": "2026-10-31T09:59:56Z"
-  },
-  {
    "post_id": "2116440088565653922",
    "post_url": "https://x.com/FloydShivambu/status/2116440088565653922",
    "name": "Floyd Shivambu",
@@ -45,6 +45,16 @@
    "assumed_live_until": "2026-10-31T11:00:13Z"
   },
   {
+   "post_id": "2116424919785603488",
+   "post_url": "https://x.com/Channel1TVGHA/status/2116424919785603488",
+   "name": "ChannelOne TV",
+   "username": "Channel1TVGHA",
+   "verified_type": "blue",
+   "text": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 31st October 2026 https://t.co/x94YyMmY20",
+   "started_at": "2026-10-31T06:59:56.000Z",
+   "assumed_live_until": "2026-10-31T09:59:56Z"
+  },
+  {
    "post_id": "2116413901369925860",
    "post_url": "https://x.com/RadioPakistan/status/2116413901369925860",
    "name": "Radio Pakistan",
@@ -53,16 +63,6 @@
    "text": "#Live: Minister for Climate Change Musadik Malik is addressing a conference in Islamabad\n#News #RadioPakistan \nhttps://t.co/b58xBQd8Nn",
    "started_at": "2026-10-31T06:16:09.000Z",
    "assumed_live_until": "2026-10-31T09:16:09Z"
-  },
-  {
-   "post_id": "2116398143722172562",
-   "post_url": "https://x.com/ProtestMusica/status/2116398143722172562",
-   "name": "Protest & Musica 🎶 🌎📺 🚨🎃",
-   "username": "ProtestMusica",
-   "verified_type": "none",
-   "text": "🔴Live | TRT World News https://t.co/zVIHbtQMDP",
-   "started_at": "2026-10-31T05:13:32.000Z",
-   "assumed_live_until": "2026-10-31T08:13:32Z"
   },
   {
    "post_id": "2116416915438698707",

@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T08:00:30Z",
+ "fetched_at": "2026-10-31T08:19:55Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T05:00:00Z",
+  "start_time": "2026-10-31T05:19:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -12,64 +12,121 @@
  },
  "data": [
   {
-   "author_id": "2845994058",
-   "created_at": "2026-10-31T07:08:15.000Z",
+   "author_id": "355989081",
+   "created_at": "2026-10-31T08:16:44.000Z",
    "edit_history_tweet_ids": [
-    "2116427010247463014",
-    "2116436023744106817",
-    "2116439544564527324"
+    "2116444244147572822"
    ],
-   "id": "2116427010247463014",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 283,
-    "like_count": 10,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 5
+   "entities": {
+    "hashtags": [
+     {
+      "end": 102,
+      "start": 85,
+      "tag": "sudhanshutrivedi"
+     },
+     {
+      "end": 107,
+      "start": 103,
+      "tag": "bjp"
+     },
+     {
+      "end": 117,
+      "start": 108,
+      "tag": "congress"
+     },
+     {
+      "end": 134,
+      "start": 118,
+      "tag": "pressconference"
+     },
+     {
+      "end": 140,
+      "start": 135,
+      "tag": "live"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE: BJP'S Sudhanshu Trivedi Holds Press Conference I BJP I Rahul Gandhi | PM Modi",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 164,
+      "expanded_url": "https://x.com/i/broadcasts/2JQlPjOAJPXqly",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116444246349619200/BWRwRuN4?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116444246349619200/BWRwRuN4?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 141,
+      "status": 200,
+      "title": "ANI",
+      "unwound_url": "https://x.com/i/broadcasts/2JQlPjOAJPXqly",
+      "url": "https://t.co/JCP6oYlrhi"
+     }
+    ]
    },
-   "text": "LIVE: Addressing press conference on #SaveDemocracyRemoveAnarchy https://t.co/ccCZXQLey5",
-   "url": "https://x.com/JoshiPralhad/status/2116427010247463014"
-  },
-  {
-   "author_id": "2845994058",
-   "created_at": "2026-10-31T07:58:03.000Z",
-   "edit_history_tweet_ids": [
-    "2116427010247463014",
-    "2116436023744106817",
-    "2116439544564527324"
-   ],
-   "id": "2116439544564527324",
+   "id": "2116444244147572822",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 440,
+    "impression_count": 7311,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "LIVE: Addressing press conference on at Jaipur #SaveDemocracyRemoveAnarchy https://t.co/ccCZXQLMnD",
-   "url": "https://x.com/JoshiPralhad/status/2116439544564527324"
+   "text": "LIVE: BJP'S Sudhanshu Trivedi Holds Press Conference I BJP I Rahul Gandhi | PM Modi\n\n#sudhanshutrivedi #bjp #congress #pressconference #live https://t.co/JCP6oYlrhi",
+   "url": "https://x.com/ANI/status/2116444244147572822"
   },
   {
-   "author_id": "2845994058",
-   "created_at": "2026-10-31T07:44:04.000Z",
+   "author_id": "1772513122735300608",
+   "created_at": "2026-10-31T08:00:37.000Z",
    "edit_history_tweet_ids": [
-    "2116427010247463014",
-    "2116436023744106817",
-    "2116439544564527324"
+    "2116440191510745413"
    ],
-   "id": "2116436023744106817",
+   "entities": {
+    "urls": [
+     {
+      "description": "Live | Punjab BJP Chief Kewal Singh Dhillon Holds Press Conference in Ludhiana",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 102,
+      "expanded_url": "https://x.com/i/broadcasts/1NGarobMZdlJj",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116440195163942912/pXOwuy6y?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116440195163942912/pXOwuy6y?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 79,
+      "status": 200,
+      "title": "The Savera Times",
+      "unwound_url": "https://x.com/i/broadcasts/1NGarobMZdlJj",
+      "url": "https://t.co/S2ETtqaPpG"
+     }
+    ]
+   },
+   "id": "2116440191510745413",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 646,
-    "like_count": 2,
+    "impression_count": 126,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1
+    "retweet_count": 0
    },
-   "text": "LIVE: Addressing press conference on #SaveDemocracyRemoveAnarchy https://t.co/ccCZXQLMnD at Jaipur",
-   "url": "https://x.com/JoshiPralhad/status/2116436023744106817"
+   "text": "Live | Punjab BJP Chief Kewal Singh Dhillon Holds Press Conference in Ludhiana https://t.co/S2ETtqaPpG",
+   "url": "https://x.com/thesavera_times/status/2116440191510745413"
   },
   {
    "author_id": "719819459381354496",
@@ -77,11 +134,88 @@
    "edit_history_tweet_ids": [
     "2116419891079352803"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 136,
+      "start": 132,
+      "tag": "IMD"
+     },
+     {
+      "end": 160,
+      "start": 137,
+      "tag": "VirtualPressConference"
+     },
+     {
+      "end": 181,
+      "start": 161,
+      "tag": "NovemberOutlook2026"
+     },
+     {
+      "end": 199,
+      "start": 182,
+      "tag": "RainfallForecast"
+     },
+     {
+      "end": 219,
+      "start": 200,
+      "tag": "TemperatureOutlook"
+     },
+     {
+      "end": 234,
+      "start": 220,
+      "tag": "WeatherUpdate"
+     },
+     {
+      "end": 248,
+      "start": 235,
+      "tag": "IndiaWeather"
+     },
+     {
+      "end": 265,
+      "start": 249,
+      "tag": "WeatherForecast"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 276,
+      "id": "471741741",
+      "start": 267,
+      "username": "PMOIndia"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Monthly Outlook for Rainfall & Temperature \u2013 November 2026",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 129,
+      "expanded_url": "https://x.com/i/broadcasts/2OdmWvbQAzjVoq",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2116419894631931904/jpqToCXT?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116419894631931904/jpqToCXT?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 106,
+      "status": 200,
+      "title": "India Meteorological Department",
+      "unwound_url": "https://x.com/i/broadcasts/2OdmWvbQAzjVoq",
+      "url": "https://t.co/xMwoWWNcki"
+     }
+    ]
+   },
    "id": "2116419891079352803",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 4833,
-    "like_count": 5,
+    "impression_count": 5019,
+    "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 2
@@ -95,14 +229,41 @@
    "edit_history_tweet_ids": [
     "2116436042534302025"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 94,
+      "expanded_url": "https://x.com/i/broadcasts/2OdmWNEoNMzQEP",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116436086943522816/FSxP0hyG?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116436086943522816/FSxP0hyG?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 71,
+      "status": 200,
+      "title": "Footscray's Finest",
+      "unwound_url": "https://x.com/i/broadcasts/2OdmWNEoNMzQEP",
+      "url": "https://t.co/cyrjUxJYZ6"
+     }
+    ]
+   },
    "id": "2116436042534302025",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 123,
-    "like_count": 7,
-    "quote_count": 0,
+    "impression_count": 319,
+    "like_count": 10,
+    "quote_count": 1,
     "reply_count": 2,
-    "retweet_count": 1
+    "retweet_count": 3
    },
    "text": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME https://t.co/cyrjUxJYZ6",
    "url": "https://x.com/FootscraysFine1/status/2116436042534302025"
@@ -113,10 +274,37 @@
    "edit_history_tweet_ids": [
     "2116409858991804700"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 113,
+      "expanded_url": "https://x.com/i/broadcasts/2WXKEkWmmeJYVW",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2116408631075721216/J4R_uXQV?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116408631075721216/J4R_uXQV?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "rolandsmartin",
+      "unwound_url": "https://x.com/i/broadcasts/2WXKEkWmmeJYVW",
+      "url": "https://t.co/2LhOUO6mpb"
+     }
+    ]
+   },
    "id": "2116409858991804700",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 818,
+    "impression_count": 850,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
@@ -131,35 +319,44 @@
    "edit_history_tweet_ids": [
     "2116409824665804936"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "GB News",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 31,
+      "expanded_url": "https://x.com/i/broadcasts/1ynKOMqgqpVJR",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116409827245305856/F87vPMOF?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116409827245305856/F87vPMOF?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 8,
+      "status": 200,
+      "title": "GB News",
+      "unwound_url": "https://x.com/i/broadcasts/1ynKOMqgqpVJR",
+      "url": "https://t.co/yQp1L24b1N"
+     }
+    ]
+   },
    "id": "2116409824665804936",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 4528,
-    "like_count": 8,
+    "impression_count": 4944,
+    "like_count": 7,
     "quote_count": 0,
-    "reply_count": 4,
+    "reply_count": 5,
     "retweet_count": 2
    },
    "text": "GB News https://t.co/yQp1L24b1N",
    "url": "https://x.com/GBNEWS/status/2116409824665804936"
-  },
-  {
-   "author_id": "239486395",
-   "created_at": "2026-10-31T05:13:32.000Z",
-   "edit_history_tweet_ids": [
-    "2116398143722172562"
-   ],
-   "id": "2116398143722172562",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 23,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "\ud83d\udd34Live | TRT World News https://t.co/zVIHbtQMDP",
-   "url": "https://x.com/ProtestMusica/status/2116398143722172562"
   },
   {
    "author_id": "1646087345127690240",
@@ -167,6 +364,21 @@
    "edit_history_tweet_ids": [
     "2116427340087427169"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News Bulletin Star Asia Tv Live \ud83d\udd34",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 57,
+      "expanded_url": "https://x.com/i/broadcasts/2NglNQdJQqPPjb",
+      "start": 34,
+      "status": 200,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2NglNQdJQqPPjb",
+      "url": "https://t.co/jYlNW0qYgB"
+     }
+    ]
+   },
    "id": "2116427340087427169",
    "public_metrics": {
     "bookmark_count": 0,
@@ -180,29 +392,38 @@
    "url": "https://x.com/StarAsiatvHD/status/2116427340087427169"
   },
   {
-   "author_id": "1646087345127690240",
-   "created_at": "2026-10-31T07:31:53.000Z",
-   "edit_history_tweet_ids": [
-    "2116432960769405339"
-   ],
-   "id": "2116432960769405339",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 7,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "News Bulletin Star Asia Tv Live \ud83d\udd34 https://t.co/lX37vFueS5",
-   "url": "https://x.com/StarAsiatvHD/status/2116432960769405339"
-  },
-  {
    "author_id": "1386227335527948288",
    "created_at": "2026-10-31T06:28:08.000Z",
    "edit_history_tweet_ids": [
     "2116416915438698707"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "313 - Weed'n thru the news",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 50,
+      "expanded_url": "https://x.com/i/broadcasts/1AJEmvEoaoXJL",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116416958237421568/HxqDm6B1?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116416958237421568/HxqDm6B1?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 27,
+      "status": 200,
+      "title": "Joseph Daniel",
+      "unwound_url": "https://x.com/i/broadcasts/1AJEmvEoaoXJL",
+      "url": "https://t.co/69WuSwsjRQ"
+     }
+    ]
+   },
    "id": "2116416915438698707",
    "public_metrics": {
     "bookmark_count": 0,
@@ -216,22 +437,49 @@
    "url": "https://x.com/509divinepines/status/2116416915438698707"
   },
   {
-   "author_id": "239486395",
-   "created_at": "2026-10-31T05:12:20.000Z",
+   "author_id": "1646087345127690240",
+   "created_at": "2026-10-31T07:31:53.000Z",
    "edit_history_tweet_ids": [
-    "2116397838490022285"
+    "2116432960769405339"
    ],
-   "id": "2116397838490022285",
+   "entities": {
+    "urls": [
+     {
+      "description": "News Bulletin Star Asia Tv Live \ud83d\udd34",
+      "display_url": "x.com/i/broadcasts/2\u2026",
+      "end": 57,
+      "expanded_url": "https://x.com/i/broadcasts/2WXKBpAkmWPKdM",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116433003354177536/-TvExfTy?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116433003354177536/-TvExfTy?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 34,
+      "status": 200,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2WXKBpAkmWPKdM",
+      "url": "https://t.co/lX37vFueS5"
+     }
+    ]
+   },
+   "id": "2116432960769405339",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 26,
+    "impression_count": 7,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "\ud83d\udd34Live | Al Jazeera English News https://t.co/E77DJhBNsC",
-   "url": "https://x.com/ProtestMusica/status/2116397838490022285"
+   "text": "News Bulletin Star Asia Tv Live \ud83d\udd34 https://t.co/lX37vFueS5",
+   "url": "https://x.com/StarAsiatvHD/status/2116432960769405339"
   },
   {
    "author_id": "185159449",
@@ -240,10 +488,54 @@
     "2116413523488288981",
     "2116413901369925860"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 5,
+      "start": 0,
+      "tag": "Live"
+     },
+     {
+      "end": 94,
+      "start": 89,
+      "tag": "News"
+     },
+     {
+      "end": 109,
+      "start": 95,
+      "tag": "RadioPakistan"
+     }
+    ],
+    "urls": [
+     {
+      "description": "#Live",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 134,
+      "expanded_url": "https://x.com/i/broadcasts/1AxRnZQYvejxl",
+      "images": [
+       {
+        "height": 480,
+        "url": "https://pbs.twimg.com/news_img/2116413526407528448/d0nLvpUP?format=jpg&name=orig",
+        "width": 720
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116413526407528448/d0nLvpUP?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 111,
+      "status": 200,
+      "title": "Radio Pakistan",
+      "unwound_url": "https://x.com/i/broadcasts/1AxRnZQYvejxl",
+      "url": "https://t.co/b58xBQd8Nn"
+     }
+    ]
+   },
    "id": "2116413901369925860",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 178,
+    "impression_count": 190,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -258,10 +550,37 @@
    "edit_history_tweet_ids": [
     "2116424919785603488"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 31st October 2026",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 121,
+      "expanded_url": "https://x.com/i/broadcasts/1aKbdEjygwQJX",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116424922604195840/eLeMv61c?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116424922604195840/eLeMv61c?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 98,
+      "status": 200,
+      "title": "ChannelOne TV",
+      "unwound_url": "https://x.com/i/broadcasts/1aKbdEjygwQJX",
+      "url": "https://t.co/x94YyMmY20"
+     }
+    ]
+   },
    "id": "2116424919785603488",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 614,
+    "impression_count": 642,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -271,37 +590,46 @@
    "url": "https://x.com/Channel1TVGHA/status/2116424919785603488"
   },
   {
-   "author_id": "973779690384224259",
-   "created_at": "2026-10-31T07:08:43.000Z",
-   "edit_history_tweet_ids": [
-    "2116427129747292558"
-   ],
-   "id": "2116427129747292558",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 268,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "I Never Did This Before - 2 Hours Of Talking | manishgowda.@ybl #unexpected #INDIA #Trending #News #UI/UX #designer https://t.co/kyRTHi7sC7",
-   "url": "https://x.com/Manishsphere/status/2116427129747292558"
-  },
-  {
    "author_id": "162901927",
    "created_at": "2026-10-31T08:00:13.000Z",
    "edit_history_tweet_ids": [
     "2116440088565653922"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "MAYIBUYE PRESIDENT FLOYD SHIVAMBU ADDRESS TO VOLUNTEERS AND COUNCILLOR CANDIDATES 2026 LGE",
+      "display_url": "x.com/i/broadcasts/1\u2026",
+      "end": 114,
+      "expanded_url": "https://x.com/i/broadcasts/1MJgNbRMmZMGL",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116442512847998976/99LJ62oR?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116442512847998976/99LJ62oR?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 91,
+      "status": 200,
+      "title": "Floyd Shivambu",
+      "unwound_url": "https://x.com/i/broadcasts/1MJgNbRMmZMGL",
+      "url": "https://t.co/ZGu7dVp83S"
+     }
+    ]
+   },
    "id": "2116440088565653922",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 234,
-    "like_count": 0,
+    "impression_count": 1013,
+    "like_count": 11,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 1
    },
    "text": "MAYIBUYE PRESIDENT FLOYD SHIVAMBU ADDRESS TO VOLUNTEERS AND COUNCILLOR CANDIDATES 2026 LGE https://t.co/ZGu7dVp83S",
    "url": "https://x.com/FloydShivambu/status/2116440088565653922"
@@ -309,30 +637,45 @@
  ],
  "users": [
   {
-   "id": "2845994058",
-   "name": "Pralhad Joshi",
+   "id": "355989081",
+   "name": "ANI",
    "public_metrics": {
-    "followers_count": 271005,
-    "following_count": 414,
-    "like_count": 41789,
-    "listed_count": 378,
-    "media_count": 27023,
-    "tweet_count": 69084
+    "followers_count": 9491062,
+    "following_count": 0,
+    "like_count": 72,
+    "listed_count": 7878,
+    "media_count": 752097,
+    "tweet_count": 1183752
    },
-   "username": "JoshiPralhad",
+   "username": "ANI",
    "verified": true,
-   "verified_type": "government"
+   "verified_type": "business"
+  },
+  {
+   "id": "1772513122735300608",
+   "name": "The Savera Times",
+   "public_metrics": {
+    "followers_count": 102456,
+    "following_count": 2,
+    "like_count": 25194,
+    "listed_count": 100,
+    "media_count": 2285,
+    "tweet_count": 43358
+   },
+   "username": "thesavera_times",
+   "verified": true,
+   "verified_type": "blue"
   },
   {
    "id": "719819459381354496",
    "name": "India Meteorological Department",
    "public_metrics": {
-    "followers_count": 429409,
+    "followers_count": 429416,
     "following_count": 88,
     "like_count": 3667,
     "listed_count": 861,
-    "media_count": 36325,
-    "tweet_count": 67540
+    "media_count": 36327,
+    "tweet_count": 67542
    },
    "username": "Indiametdept",
    "verified": true,
@@ -344,10 +687,10 @@
    "public_metrics": {
     "followers_count": 12274,
     "following_count": 9562,
-    "like_count": 114854,
+    "like_count": 114858,
     "listed_count": 14,
     "media_count": 9739,
-    "tweet_count": 39593
+    "tweet_count": 39595
    },
    "username": "FootscraysFine1",
    "verified": true,
@@ -372,31 +715,16 @@
    "id": "1339166129110065152",
    "name": "GB News",
    "public_metrics": {
-    "followers_count": 991092,
+    "followers_count": 991094,
     "following_count": 50,
     "like_count": 0,
     "listed_count": 2726,
     "media_count": 170904,
-    "tweet_count": 330647
+    "tweet_count": 330648
    },
    "username": "GBNEWS",
    "verified": true,
    "verified_type": "business"
-  },
-  {
-   "id": "239486395",
-   "name": "Protest & Musica \ud83c\udfb6 \ud83c\udf0e\ud83d\udcfa \ud83d\udea8\ud83c\udf83",
-   "public_metrics": {
-    "followers_count": 8297,
-    "following_count": 8931,
-    "like_count": 21282,
-    "listed_count": 143,
-    "media_count": 11127,
-    "tweet_count": 2058893
-   },
-   "username": "ProtestMusica",
-   "verified": false,
-   "verified_type": "none"
   },
   {
    "id": "1646087345127690240",
@@ -406,8 +734,8 @@
     "following_count": 1,
     "like_count": 35,
     "listed_count": 1,
-    "media_count": 4718,
-    "tweet_count": 4837
+    "media_count": 4719,
+    "tweet_count": 4838
    },
    "username": "StarAsiatvHD",
    "verified": true,
@@ -432,7 +760,7 @@
    "id": "185159449",
    "name": "Radio Pakistan",
    "public_metrics": {
-    "followers_count": 927530,
+    "followers_count": 927531,
     "following_count": 8,
     "like_count": 5711,
     "listed_count": 1446,
@@ -457,24 +785,9 @@
     "like_count": 1797,
     "listed_count": 211,
     "media_count": 59309,
-    "tweet_count": 153167
+    "tweet_count": 153174
    },
    "username": "Channel1TVGHA",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "973779690384224259",
-   "name": "Manish",
-   "public_metrics": {
-    "followers_count": 11,
-    "following_count": 36,
-    "like_count": 444,
-    "listed_count": 0,
-    "media_count": 19,
-    "tweet_count": 229
-   },
-   "username": "Manishsphere",
    "verified": true,
    "verified_type": "blue"
   },
