@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T09:56:10Z",
+ "fetched_at": "2026-10-31T10:13:15Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T06:56:00Z",
+  "start_time": "2026-10-31T07:12:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -74,7 +74,7 @@
    "id": "2116444244147572822",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 11083,
+    "impression_count": 11252,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -126,8 +126,8 @@
    "id": "2116449126803996733",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1079,
-    "like_count": 2,
+    "impression_count": 1106,
+    "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 2
@@ -171,7 +171,7 @@
    "id": "2116440191510745413",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 158,
+    "impression_count": 159,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -179,51 +179,6 @@
    },
    "text": "Live | Punjab BJP Chief Kewal Singh Dhillon Holds Press Conference in Ludhiana https://t.co/S2ETtqaPpG",
    "url": "https://x.com/thesavera_times/status/2116440191510745413"
-  },
-  {
-   "author_id": "1415875893524791298",
-   "created_at": "2026-10-31T08:21:43.000Z",
-   "edit_history_tweet_ids": [
-    "2116445501079929128"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 140,
-      "expanded_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 117,
-      "status": 200,
-      "title": "Footscray's Finest",
-      "unwound_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
-      "url": "https://t.co/8lmeomGTlK"
-     }
-    ]
-   },
-   "id": "2116445501079929128",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 221,
-    "like_count": 8,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "***BREAKING NEWS*** \n***BREAKING NEWS***\nMALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME\n***NOW REPORTING LIVE*** https://t.co/8lmeomGTlK",
-   "url": "https://x.com/FootscraysFine1/status/2116445501079929128"
   },
   {
    "author_id": "1415875893524791298",
@@ -261,7 +216,7 @@
    "id": "2116446288883634263",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 278,
+    "impression_count": 289,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 1,
@@ -269,6 +224,51 @@
    },
    "text": "***BREAKING NEWS***  ***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME ***NOW REPORTING LIVE***\nhttps://t.co/8lmeomHrbi",
    "url": "https://x.com/FootscraysFine1/status/2116446288883634263"
+  },
+  {
+   "author_id": "1415875893524791298",
+   "created_at": "2026-10-31T08:21:43.000Z",
+   "edit_history_tweet_ids": [
+    "2116445501079929128"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 140,
+      "expanded_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 117,
+      "status": 200,
+      "title": "Footscray's Finest",
+      "unwound_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
+      "url": "https://t.co/8lmeomGTlK"
+     }
+    ]
+   },
+   "id": "2116445501079929128",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 263,
+    "like_count": 8,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "***BREAKING NEWS*** \n***BREAKING NEWS***\nMALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME\n***NOW REPORTING LIVE*** https://t.co/8lmeomGTlK",
+   "url": "https://x.com/FootscraysFine1/status/2116445501079929128"
   },
   {
    "author_id": "1415875893524791298",
@@ -306,14 +306,80 @@
    "id": "2116436042534302025",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 774,
-    "like_count": 16,
+    "impression_count": 801,
+    "like_count": 17,
     "quote_count": 1,
     "reply_count": 5,
     "retweet_count": 6
    },
    "text": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME https://t.co/cyrjUxJYZ6",
    "url": "https://x.com/FootscraysFine1/status/2116436042534302025"
+  },
+  {
+   "author_id": "505519109",
+   "created_at": "2026-10-31T10:12:46.000Z",
+   "edit_history_tweet_ids": [
+    "2116473447022759963"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 83,
+      "expanded_url": "https://x.com/i/broadcasts/2RezPKkBknQlNy",
+      "start": 60,
+      "status": 200,
+      "title": "Sapientia Radio & TV",
+      "unwound_url": "https://x.com/i/broadcasts/2RezPKkBknQlNy",
+      "url": "https://t.co/PsJQBhfb31"
+     }
+    ]
+   },
+   "id": "2116473447022759963",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre https://t.co/PsJQBhfb31",
+   "url": "https://x.com/mediasapientia/status/2116473447022759963"
+  },
+  {
+   "author_id": "505519109",
+   "created_at": "2026-10-31T10:03:58.000Z",
+   "edit_history_tweet_ids": [
+    "2116471233785028932"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 83,
+      "expanded_url": "https://x.com/i/broadcasts/2KolOPWvLQPLVQ",
+      "start": 60,
+      "status": 200,
+      "title": "Sapientia Radio & TV",
+      "unwound_url": "https://x.com/i/broadcasts/2KolOPWvLQPLVQ",
+      "url": "https://t.co/TdAAsgOAzr"
+     }
+    ]
+   },
+   "id": "2116471233785028932",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 48,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "CITIZENS FORUM: The Politics of Taking Ndigbo To The Centre https://t.co/TdAAsgOAzr",
+   "url": "https://x.com/mediasapientia/status/2116471233785028932"
   },
   {
    "author_id": "16116288",
@@ -351,7 +417,7 @@
    "id": "2116447614849720519",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 768,
+    "impression_count": 815,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -362,36 +428,48 @@
   },
   {
    "author_id": "1646087345127690240",
-   "created_at": "2026-10-31T07:09:33.000Z",
+   "created_at": "2026-10-31T10:08:53.000Z",
    "edit_history_tweet_ids": [
-    "2116427340087427169"
+    "2116472470634901896"
    ],
    "entities": {
     "urls": [
      {
-      "description": "News Bulletin Star Asia Tv Live 🔴",
+      "description": "News bulletin Star Asia News Live 🔴",
       "display_url": "x.com/i/broadcasts/2…",
-      "end": 57,
-      "expanded_url": "https://x.com/i/broadcasts/2NglNQdJQqPPjb",
-      "start": 34,
+      "end": 59,
+      "expanded_url": "https://x.com/i/broadcasts/2nQYJOjYLNzOLY",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116472472451063808/Gli-4wl_?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116472472451063808/Gli-4wl_?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 36,
       "status": 200,
       "title": "Star Asia Tv",
-      "unwound_url": "https://x.com/i/broadcasts/2NglNQdJQqPPjb",
-      "url": "https://t.co/jYlNW0qYgB"
+      "unwound_url": "https://x.com/i/broadcasts/2nQYJOjYLNzOLY",
+      "url": "https://t.co/yBFa1vSaAY"
      }
     ]
    },
-   "id": "2116427340087427169",
+   "id": "2116472470634901896",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 10,
+    "impression_count": 4,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "News Bulletin Star Asia Tv Live 🔴 https://t.co/jYlNW0qYgB",
-   "url": "https://x.com/StarAsiatvHD/status/2116427340087427169"
+   "text": "News bulletin Star Asia News Live 🔴 https://t.co/yBFa1vSaAY",
+   "url": "https://x.com/StarAsiatvHD/status/2116472470634901896"
   },
   {
    "author_id": "1646087345127690240",
@@ -439,51 +517,6 @@
    "url": "https://x.com/StarAsiatvHD/status/2116432960769405339"
   },
   {
-   "author_id": "974995792380473345",
-   "created_at": "2026-10-31T06:59:56.000Z",
-   "edit_history_tweet_ids": [
-    "2116424919785603488"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 31st October 2026",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 121,
-      "expanded_url": "https://x.com/i/broadcasts/1aKbdEjygwQJX",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116424922604195840/eLeMv61c?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116424922604195840/eLeMv61c?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 98,
-      "status": 200,
-      "title": "ChannelOne TV",
-      "unwound_url": "https://x.com/i/broadcasts/1aKbdEjygwQJX",
-      "url": "https://t.co/x94YyMmY20"
-     }
-    ]
-   },
-   "id": "2116424919785603488",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 732,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 31st October 2026 https://t.co/x94YyMmY20",
-   "url": "https://x.com/Channel1TVGHA/status/2116424919785603488"
-  },
-  {
    "author_id": "2603038170",
    "created_at": "2026-10-31T09:13:48.000Z",
    "edit_history_tweet_ids": [
@@ -519,7 +552,7 @@
    "id": "2116458608556683268",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 37,
+    "impression_count": 44,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -564,14 +597,59 @@
    "id": "2116454928608616595",
    "public_metrics": {
     "bookmark_count": 3,
-    "impression_count": 2964,
-    "like_count": 68,
+    "impression_count": 3675,
+    "like_count": 84,
     "quote_count": 1,
     "reply_count": 2,
-    "retweet_count": 20
+    "retweet_count": 26
    },
    "text": "The EFF Hosts its Tshela Thupa Rally addressed by President, Julius Malema https://t.co/ndw3Z6nMQw",
    "url": "https://x.com/EFFSouthAfrica/status/2116454928608616595"
+  },
+  {
+   "author_id": "2603038170",
+   "created_at": "2026-10-31T10:00:23.000Z",
+   "edit_history_tweet_ids": [
+    "2116470331367919921"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "EFF Tshela Thupa Rally addressed by President, Julius Malema",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 84,
+      "expanded_url": "https://x.com/i/broadcasts/2lgkQjnRBOKyLe",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116470374137282560/iR9srimP?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116470374137282560/iR9srimP?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 61,
+      "status": 200,
+      "title": "African Vibe Media",
+      "unwound_url": "https://x.com/i/broadcasts/2lgkQjnRBOKyLe",
+      "url": "https://t.co/RwZbWcZ4AL"
+     }
+    ]
+   },
+   "id": "2116470331367919921",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 12,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "EFF Tshela Thupa Rally addressed by President, Julius Malema https://t.co/RwZbWcZ4AL",
+   "url": "https://x.com/AVMedia_za/status/2116470331367919921"
   },
   {
    "author_id": "162901927",
@@ -609,7 +687,7 @@
    "id": "2116440088565653922",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 1859,
+    "impression_count": 1939,
     "like_count": 21,
     "quote_count": 0,
     "reply_count": 0,
@@ -624,12 +702,12 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9491152,
+    "followers_count": 9491157,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7878,
-    "media_count": 752156,
-    "tweet_count": 1183812
+    "media_count": 752162,
+    "tweet_count": 1183818
    },
    "username": "ANI",
    "verified": true,
@@ -643,8 +721,8 @@
     "following_count": 414,
     "like_count": 41789,
     "listed_count": 378,
-    "media_count": 27023,
-    "tweet_count": 69082
+    "media_count": 27024,
+    "tweet_count": 69083
    },
    "username": "JoshiPralhad",
    "verified": true,
@@ -671,7 +749,7 @@
    "public_metrics": {
     "followers_count": 12274,
     "following_count": 9562,
-    "like_count": 114862,
+    "like_count": 114863,
     "listed_count": 14,
     "media_count": 9739,
     "tweet_count": 39599
@@ -681,10 +759,25 @@
    "verified_type": "blue"
   },
   {
+   "id": "505519109",
+   "name": "Sapientia Radio & TV",
+   "public_metrics": {
+    "followers_count": 9080,
+    "following_count": 126,
+    "like_count": 2443,
+    "listed_count": 21,
+    "media_count": 1320,
+    "tweet_count": 11874
+   },
+   "username": "mediasapientia",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "16116288",
    "name": "rolandsmartin",
    "public_metrics": {
-    "followers_count": 709360,
+    "followers_count": 709366,
     "following_count": 4202,
     "like_count": 95340,
     "listed_count": 4654,
@@ -703,25 +796,10 @@
     "following_count": 1,
     "like_count": 35,
     "listed_count": 1,
-    "media_count": 4722,
-    "tweet_count": 4842
+    "media_count": 4723,
+    "tweet_count": 4844
    },
    "username": "StarAsiatvHD",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "974995792380473345",
-   "name": "ChannelOne TV",
-   "public_metrics": {
-    "followers_count": 438332,
-    "following_count": 70,
-    "like_count": 1797,
-    "listed_count": 211,
-    "media_count": 59309,
-    "tweet_count": 153175
-   },
-   "username": "Channel1TVGHA",
    "verified": true,
    "verified_type": "blue"
   },
@@ -729,12 +807,12 @@
    "id": "2603038170",
    "name": "African Vibe Media",
    "public_metrics": {
-    "followers_count": 5908,
+    "followers_count": 5909,
     "following_count": 995,
     "like_count": 412,
     "listed_count": 3,
     "media_count": 1964,
-    "tweet_count": 3868
+    "tweet_count": 3869
    },
    "username": "AVMedia_za",
    "verified": true,
@@ -744,12 +822,12 @@
    "id": "932163222",
    "name": "Economic Freedom Fighters",
    "public_metrics": {
-    "followers_count": 2373147,
+    "followers_count": 2373150,
     "following_count": 10986,
     "like_count": 4275,
     "listed_count": 1176,
-    "media_count": 47268,
-    "tweet_count": 109019
+    "media_count": 47270,
+    "tweet_count": 109021
    },
    "username": "EFFSouthAfrica",
    "verified": true,
