@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T02:46:00Z",
+ "fetched_at": "2026-10-31T02:56:00Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -22,6 +22,63 @@
  "pages": [
   {
    "data": [
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2116362378459639808"
+      ]
+     },
+     "created_at": "2026-10-31T02:51:27.000Z",
+     "edit_history_tweet_ids": [
+      "2116362386042921334"
+     ],
+     "id": "2116362386042921334",
+     "in_reply_to_user_id": "2654861647",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116334235657351333",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@joe_Lnu https://t.co/6DIHWTQtfl",
+     "url": "https://x.com/i/status/2116362386042921334"
+    },
+    {
+     "created_at": "2026-10-31T02:50:18.000Z",
+     "edit_history_tweet_ids": [
+      "2116362097835577750"
+     ],
+     "id": "2116362097835577750",
+     "in_reply_to_user_id": "1587930057804234754",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2116359830516408498",
+       "type": "quoted"
+      },
+      {
+       "id": "2116333630104678792",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@Drax2431 https://t.co/kd4oYTHljO",
+     "url": "https://x.com/i/status/2116362097835577750"
+    },
     {
      "attachments": {
       "media_keys": [
@@ -144,6 +201,11 @@
    ],
    "includes": {
     "media": [
+     {
+      "media_key": "3_2116362378459639808",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HV7UXsgWcAAikRN.jpg"
+     },
      {
       "media_key": "3_2116359824661262336",
       "type": "photo",
