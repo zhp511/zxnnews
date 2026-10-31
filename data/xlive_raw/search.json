@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T09:40:58Z",
+ "fetched_at": "2026-10-31T09:56:10Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T06:41:00Z",
+  "start_time": "2026-10-31T06:56:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,10 +17,64 @@
    "edit_history_tweet_ids": [
     "2116444244147572822"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 102,
+      "start": 85,
+      "tag": "sudhanshutrivedi"
+     },
+     {
+      "end": 107,
+      "start": 103,
+      "tag": "bjp"
+     },
+     {
+      "end": 117,
+      "start": 108,
+      "tag": "congress"
+     },
+     {
+      "end": 134,
+      "start": 118,
+      "tag": "pressconference"
+     },
+     {
+      "end": 140,
+      "start": 135,
+      "tag": "live"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE: BJP'S Sudhanshu Trivedi Holds Press Conference I BJP I Rahul Gandhi | PM Modi",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 164,
+      "expanded_url": "https://x.com/i/broadcasts/2JQlPjOAJPXqly",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116444246349619200/BWRwRuN4?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116444246349619200/BWRwRuN4?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 141,
+      "status": 200,
+      "title": "ANI",
+      "unwound_url": "https://x.com/i/broadcasts/2JQlPjOAJPXqly",
+      "url": "https://t.co/JCP6oYlrhi"
+     }
+    ]
+   },
    "id": "2116444244147572822",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 10916,
+    "impression_count": 11083,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -35,10 +89,44 @@
    "edit_history_tweet_ids": [
     "2116449126803996733"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 64,
+      "start": 37,
+      "tag": "SaveDemocracyRemoveAnarchy"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE: Addressing press conference on #SaveDemocracyRemoveAnarchy at Jaipur",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 98,
+      "expanded_url": "https://x.com/i/broadcasts/2VNLRArWVJQQvl",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116449169401368576/cujqKnM1?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116449169401368576/cujqKnM1?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 75,
+      "status": 200,
+      "title": "Pralhad Joshi",
+      "unwound_url": "https://x.com/i/broadcasts/2VNLRArWVJQQvl",
+      "url": "https://t.co/xuWXDe5wyv"
+     }
+    ]
+   },
    "id": "2116449126803996733",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1048,
+    "impression_count": 1079,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -53,10 +141,37 @@
    "edit_history_tweet_ids": [
     "2116440191510745413"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Live | Punjab BJP Chief Kewal Singh Dhillon Holds Press Conference in Ludhiana",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 102,
+      "expanded_url": "https://x.com/i/broadcasts/1NGarobMZdlJj",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116440195163942912/pXOwuy6y?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116440195163942912/pXOwuy6y?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 79,
+      "status": 200,
+      "title": "The Savera Times",
+      "unwound_url": "https://x.com/i/broadcasts/1NGarobMZdlJj",
+      "url": "https://t.co/S2ETtqaPpG"
+     }
+    ]
+   },
    "id": "2116440191510745413",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 155,
+    "impression_count": 158,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -67,14 +182,86 @@
   },
   {
    "author_id": "1415875893524791298",
+   "created_at": "2026-10-31T08:21:43.000Z",
+   "edit_history_tweet_ids": [
+    "2116445501079929128"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 140,
+      "expanded_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 117,
+      "status": 200,
+      "title": "Footscray's Finest",
+      "unwound_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
+      "url": "https://t.co/8lmeomGTlK"
+     }
+    ]
+   },
+   "id": "2116445501079929128",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 221,
+    "like_count": 8,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "***BREAKING NEWS*** \n***BREAKING NEWS***\nMALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME\n***NOW REPORTING LIVE*** https://t.co/8lmeomGTlK",
+   "url": "https://x.com/FootscraysFine1/status/2116445501079929128"
+  },
+  {
+   "author_id": "1415875893524791298",
    "created_at": "2026-10-31T08:24:51.000Z",
    "edit_history_tweet_ids": [
     "2116446288883634263"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 140,
+      "expanded_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116445543698227200/m4IYMGvk?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 117,
+      "status": 200,
+      "title": "Footscray's Finest",
+      "unwound_url": "https://x.com/i/broadcasts/2vypOdLPrljWOY",
+      "url": "https://t.co/8lmeomHrbi"
+     }
+    ]
+   },
    "id": "2116446288883634263",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 270,
+    "impression_count": 278,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 1,
@@ -85,32 +272,41 @@
   },
   {
    "author_id": "1415875893524791298",
-   "created_at": "2026-10-31T08:21:43.000Z",
-   "edit_history_tweet_ids": [
-    "2116445501079929128"
-   ],
-   "id": "2116445501079929128",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 191,
-    "like_count": 5,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "***BREAKING NEWS*** \n***BREAKING NEWS***\nMALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME\n***NOW REPORTING LIVE*** https://t.co/8lmeomGTlK",
-   "url": "https://x.com/FootscraysFine1/status/2116445501079929128"
-  },
-  {
-   "author_id": "1415875893524791298",
    "created_at": "2026-10-31T07:44:08.000Z",
    "edit_history_tweet_ids": [
     "2116436042534302025"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "***BREAKING NEWS*** MALCOLM ROBERTS CHARGED WITH RAPING A GARDEN GNOME",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 94,
+      "expanded_url": "https://x.com/i/broadcasts/2OdmWNEoNMzQEP",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116436086943522816/FSxP0hyG?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116436086943522816/FSxP0hyG?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 71,
+      "status": 200,
+      "title": "Footscray's Finest",
+      "unwound_url": "https://x.com/i/broadcasts/2OdmWNEoNMzQEP",
+      "url": "https://t.co/cyrjUxJYZ6"
+     }
+    ]
+   },
    "id": "2116436042534302025",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 739,
+    "impression_count": 774,
     "like_count": 16,
     "quote_count": 1,
     "reply_count": 5,
@@ -125,14 +321,41 @@
    "edit_history_tweet_ids": [
     "2116447614849720519"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 113,
+      "expanded_url": "https://x.com/i/broadcasts/2NglmMbrpERlMV",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2116408770993491968/mYpusX0G?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116408770993491968/mYpusX0G?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "rolandsmartin",
+      "unwound_url": "https://x.com/i/broadcasts/2NglmMbrpERlMV",
+      "url": "https://t.co/thTiIM79p9"
+     }
+    ]
+   },
    "id": "2116447614849720519",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 718,
-    "like_count": 3,
+    "impression_count": 768,
+    "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 1
    },
    "text": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push https://t.co/thTiIM79p9",
    "url": "https://x.com/rolandsmartin/status/2116447614849720519"
@@ -143,6 +366,21 @@
    "edit_history_tweet_ids": [
     "2116427340087427169"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News Bulletin Star Asia Tv Live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 57,
+      "expanded_url": "https://x.com/i/broadcasts/2NglNQdJQqPPjb",
+      "start": 34,
+      "status": 200,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2NglNQdJQqPPjb",
+      "url": "https://t.co/jYlNW0qYgB"
+     }
+    ]
+   },
    "id": "2116427340087427169",
    "public_metrics": {
     "bookmark_count": 0,
@@ -161,6 +399,33 @@
    "edit_history_tweet_ids": [
     "2116432960769405339"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News Bulletin Star Asia Tv Live 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 57,
+      "expanded_url": "https://x.com/i/broadcasts/2WXKBpAkmWPKdM",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116433003354177536/-TvExfTy?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116433003354177536/-TvExfTy?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 34,
+      "status": 200,
+      "title": "Star Asia Tv",
+      "unwound_url": "https://x.com/i/broadcasts/2WXKBpAkmWPKdM",
+      "url": "https://t.co/lX37vFueS5"
+     }
+    ]
+   },
    "id": "2116432960769405339",
    "public_metrics": {
     "bookmark_count": 0,
@@ -179,10 +444,37 @@
    "edit_history_tweet_ids": [
     "2116424919785603488"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Channel One TV LIVE! Breakfast Daily Weekend | Latest News updates from Ghana | 31st October 2026",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 121,
+      "expanded_url": "https://x.com/i/broadcasts/1aKbdEjygwQJX",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116424922604195840/eLeMv61c?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116424922604195840/eLeMv61c?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 98,
+      "status": 200,
+      "title": "ChannelOne TV",
+      "unwound_url": "https://x.com/i/broadcasts/1aKbdEjygwQJX",
+      "url": "https://t.co/x94YyMmY20"
+     }
+    ]
+   },
    "id": "2116424919785603488",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 715,
+    "impression_count": 732,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -197,10 +489,37 @@
    "edit_history_tweet_ids": [
     "2116458608556683268"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "EFF Tshela Thupa Rally addressed by President, Julius Malema",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 84,
+      "expanded_url": "https://x.com/i/broadcasts/2OdmWYJWAppmEo",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116458651422539776/8kU-VrcI?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116458651422539776/8kU-VrcI?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 61,
+      "status": 200,
+      "title": "African Vibe Media",
+      "unwound_url": "https://x.com/i/broadcasts/2OdmWYJWAppmEo",
+      "url": "https://t.co/e2zGYclq8d"
+     }
+    ]
+   },
    "id": "2116458608556683268",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 20,
+    "impression_count": 37,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -215,14 +534,41 @@
    "edit_history_tweet_ids": [
     "2116454928608616595"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "The EFF Hosts its Tshela Thupa Rally addressed by President, Julius Malema",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 98,
+      "expanded_url": "https://x.com/i/broadcasts/2lgkQlgPzmRoAW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2116454971193323520/B_-y3cAH?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116454971193323520/B_-y3cAH?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 75,
+      "status": 200,
+      "title": "Economic Freedom Fighters",
+      "unwound_url": "https://x.com/i/broadcasts/2lgkQlgPzmRoAW",
+      "url": "https://t.co/ndw3Z6nMQw"
+     }
+    ]
+   },
    "id": "2116454928608616595",
    "public_metrics": {
     "bookmark_count": 3,
-    "impression_count": 2251,
-    "like_count": 54,
-    "quote_count": 0,
+    "impression_count": 2964,
+    "like_count": 68,
+    "quote_count": 1,
     "reply_count": 2,
-    "retweet_count": 13
+    "retweet_count": 20
    },
    "text": "The EFF Hosts its Tshela Thupa Rally addressed by President, Julius Malema https://t.co/ndw3Z6nMQw",
    "url": "https://x.com/EFFSouthAfrica/status/2116454928608616595"
@@ -233,10 +579,37 @@
    "edit_history_tweet_ids": [
     "2116440088565653922"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "MAYIBUYE PRESIDENT FLOYD SHIVAMBU ADDRESS TO VOLUNTEERS AND COUNCILLOR CANDIDATES 2026 LGE",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 114,
+      "expanded_url": "https://x.com/i/broadcasts/1MJgNbRMmZMGL",
+      "images": [
+       {
+        "height": 634,
+        "url": "https://pbs.twimg.com/news_img/2116450341134983168/--Wd8DUk?format=jpg&name=orig",
+        "width": 1202
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116450341134983168/--Wd8DUk?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 91,
+      "status": 200,
+      "title": "Floyd Shivambu",
+      "unwound_url": "https://x.com/i/broadcasts/1MJgNbRMmZMGL",
+      "url": "https://t.co/ZGu7dVp83S"
+     }
+    ]
+   },
    "id": "2116440088565653922",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 1774,
+    "impression_count": 1859,
     "like_count": 21,
     "quote_count": 0,
     "reply_count": 0,
@@ -251,12 +624,12 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9491135,
+    "followers_count": 9491152,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7878,
-    "media_count": 752144,
-    "tweet_count": 1183800
+    "media_count": 752156,
+    "tweet_count": 1183812
    },
    "username": "ANI",
    "verified": true,
@@ -283,10 +656,10 @@
    "public_metrics": {
     "followers_count": 102453,
     "following_count": 2,
-    "like_count": 25194,
+    "like_count": 25193,
     "listed_count": 100,
     "media_count": 2288,
-    "tweet_count": 43361
+    "tweet_count": 43360
    },
    "username": "thesavera_times",
    "verified": true,
@@ -311,7 +684,7 @@
    "id": "16116288",
    "name": "rolandsmartin",
    "public_metrics": {
-    "followers_count": 709358,
+    "followers_count": 709360,
     "following_count": 4202,
     "like_count": 95340,
     "listed_count": 4654,
@@ -331,7 +704,7 @@
     "like_count": 35,
     "listed_count": 1,
     "media_count": 4722,
-    "tweet_count": 4841
+    "tweet_count": 4842
    },
    "username": "StarAsiatvHD",
    "verified": true,
@@ -341,7 +714,7 @@
    "id": "974995792380473345",
    "name": "ChannelOne TV",
    "public_metrics": {
-    "followers_count": 438331,
+    "followers_count": 438332,
     "following_count": 70,
     "like_count": 1797,
     "listed_count": 211,
@@ -371,12 +744,12 @@
    "id": "932163222",
    "name": "Economic Freedom Fighters",
    "public_metrics": {
-    "followers_count": 2373146,
+    "followers_count": 2373147,
     "following_count": 10986,
     "like_count": 4275,
     "listed_count": 1176,
-    "media_count": 47267,
-    "tweet_count": 109018
+    "media_count": 47268,
+    "tweet_count": 109019
    },
    "username": "EFFSouthAfrica",
    "verified": true,
@@ -386,9 +759,9 @@
    "id": "162901927",
    "name": "Floyd Shivambu",
    "public_metrics": {
-    "followers_count": 1573254,
+    "followers_count": 1573252,
     "following_count": 8766,
-    "like_count": 15979,
+    "like_count": 15980,
     "listed_count": 562,
     "media_count": 3396,
     "tweet_count": 17365
