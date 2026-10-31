@@ -1,6 +1,6 @@
 {
- "built_at": "2026-10-31T17:29:01Z",
- "searched_at": "2026-10-31T17:29:00Z",
+ "built_at": "2026-10-31T17:52:09Z",
+ "searched_at": "2026-10-31T17:52:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,26 +15,6 @@
    "assumed_live_until": "2026-10-31T18:48:17Z"
   },
   {
-   "post_id": "2116561096723034540",
-   "post_url": "https://x.com/TonyArterburn/status/2116561096723034540",
-   "name": "Tony Arterburn",
-   "username": "TonyArterburn",
-   "verified_type": "blue",
-   "text": "America Unplugged 10-31-26 https://t.co/tBrxdueDBV",
-   "started_at": "2026-10-31T16:01:03.000Z",
-   "assumed_live_until": "2026-10-31T19:01:03Z"
-  },
-  {
-   "post_id": "2116538175799636468",
-   "post_url": "https://x.com/sidebartv180/status/2116538175799636468",
-   "name": "sidebartv",
-   "username": "sidebartv180",
-   "verified_type": "blue",
-   "text": "Talarico’s “Affordability Plan,” Election Fraud Storms & Texas H-1B Heat https://t.co/t8Q4hlnOHy",
-   "started_at": "2026-10-31T14:29:59.000Z",
-   "assumed_live_until": "2026-10-31T17:29:59Z"
-  },
-  {
    "post_id": "2116580982505582725",
    "post_url": "https://x.com/FlipChicagoRed/status/2116580982505582725",
    "name": "Chicago Flips Red",
@@ -43,6 +23,16 @@
    "text": "ZOE RANT: Alpha Kappa Alpha’s Patricia Rae Easley—Sisterhood, Politics & Her Attacks on CFR! https://t.co/hRRgGUgXQI",
    "started_at": "2026-10-31T17:20:05.000Z",
    "assumed_live_until": "2026-10-31T20:20:05Z"
+  },
+  {
+   "post_id": "2116561096723034540",
+   "post_url": "https://x.com/TonyArterburn/status/2116561096723034540",
+   "name": "Tony Arterburn",
+   "username": "TonyArterburn",
+   "verified_type": "blue",
+   "text": "America Unplugged 10-31-26 https://t.co/tBrxdueDBV",
+   "started_at": "2026-10-31T16:01:03.000Z",
+   "assumed_live_until": "2026-10-31T19:01:03Z"
   },
   {
    "post_id": "2116576620152508835",
@@ -83,6 +73,16 @@
    "text": "Live broadcast | English News Bulletin https://t.co/LvMnHn9u3s",
    "started_at": "2026-10-31T15:00:13.000Z",
    "assumed_live_until": "2026-10-31T18:00:13Z"
+  },
+  {
+   "post_id": "2116546529188311354",
+   "post_url": "https://x.com/LiveStreamprz/status/2116546529188311354",
+   "name": "Live Streaming Press",
+   "username": "LiveStreamprz",
+   "verified_type": "blue",
+   "text": "WATCH: Join our live stream for the latest news, breaking updates, and expert analysis\n\nhttps://t.co/mSDqinEb6f",
+   "started_at": "2026-10-31T15:03:10.000Z",
+   "assumed_live_until": "2026-10-31T18:03:10Z"
   }
  ]
 }
