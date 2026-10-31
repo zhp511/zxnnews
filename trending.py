@@ -29,6 +29,17 @@ def words(s):
     return {w for w in re.findall(r"[a-z0-9\-]+", s.lower()) if w not in STOP and len(w) > 2}
 
 
+def _blocked(text):
+    """Owner-set blocklist (site_config.json "blocked_terms"); case/space-insensitive substring match."""
+    try:
+        cfg = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "site_config.json"), encoding="utf-8"))
+    except Exception:
+        return False
+    norm = lambda x: "".join(ch for ch in x.lower() if ch.isalnum())
+    t = norm(text)
+    return any(norm(b) and norm(b) in t for b in cfg.get("blocked_terms", []))
+
+
 def main():
     stories, fetched = [], []
     for f in sorted(glob.glob(os.path.join(RAW, "search_news*.json"))):
@@ -53,12 +64,13 @@ def main():
                      "updated_at": s.get("updated_at"), "url": s.get("url") or f"https://x.com/i/trending/{s['id']}",
                      "topics": s.get("topics") or [], "post_urls": [f"https://x.com/i/status/{p}" for p in posts[:3]]})
     for k in kept: k.pop("_w")
+    kept = [k for k in kept if not _blocked(" ".join(str(k.get(f) or "") for f in ("name","hook","summary")))]
     trends, tf = [], None
     tp = os.path.join(RAW, "trends_us.json")
     if os.path.exists(tp):
         d = json.load(open(tp, encoding="utf-8")); tf = d.get("fetched_at")
         trends = [{"name": t["trend_name"], "url": t.get("url") or "https://x.com/search?q=" + t["trend_name"]}
-                  for t in d.get("data", [])][:MAX_TRENDS]
+                  for t in d.get("data", []) if not _blocked(t["trend_name"])][:MAX_TRENDS]
     out = {"built_at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),
            "news_fetched_at": max([x for x in fetched if x] or [None]) if fetched else None,
            "trends_fetched_at": tf,
