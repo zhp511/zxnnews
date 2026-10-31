@@ -1,9 +1,19 @@
 {
- "built_at": "2026-10-31T18:47:13Z",
- "searched_at": "2026-10-31T18:47:00Z",
+ "built_at": "2026-10-31T19:04:39Z",
+ "searched_at": "2026-10-31T19:04:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2116598587098292446",
+   "post_url": "https://x.com/FloydShivambu/status/2116598587098292446",
+   "name": "Floyd Shivambu",
+   "username": "FloydShivambu",
+   "verified_type": "blue",
+   "text": "MAYIBUYE President Interview with Hilal TV on Local Government Elections. https://t.co/sykCpUl4QY",
+   "started_at": "2026-10-31T18:30:02.000Z",
+   "assumed_live_until": "2026-10-31T21:30:02Z"
+  },
   {
    "post_id": "2116598605305766269",
    "post_url": "https://x.com/rolandsmartin/status/2116598605305766269",
@@ -23,16 +33,6 @@
    "text": "ZOE RANT: Alpha Kappa Alpha’s Patricia Rae Easley—Sisterhood, Politics & Her Attacks on CFR! https://t.co/hRRgGUgXQI",
    "started_at": "2026-10-31T17:20:05.000Z",
    "assumed_live_until": "2026-10-31T20:20:05Z"
-  },
-  {
-   "post_id": "2116561096723034540",
-   "post_url": "https://x.com/TonyArterburn/status/2116561096723034540",
-   "name": "Tony Arterburn",
-   "username": "TonyArterburn",
-   "verified_type": "blue",
-   "text": "America Unplugged 10-31-26 https://t.co/tBrxdueDBV",
-   "started_at": "2026-10-31T16:01:03.000Z",
-   "assumed_live_until": "2026-10-31T19:01:03Z"
   },
   {
    "post_id": "2116576620152508835",
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-10-31T21:01:27Z"
   },
   {
-   "post_id": "2116560863763304813",
-   "post_url": "https://x.com/JohnGordonTV/status/2116560863763304813",
-   "name": "John Gordon",
-   "username": "JohnGordonTV",
-   "verified_type": "blue",
-   "text": "TRUMP'S FINAL MIDTERM PUSH: What's Really Happening Before Election Day? https://t.co/TKve1lEN9w",
-   "started_at": "2026-10-31T16:00:08.000Z",
-   "assumed_live_until": "2026-10-31T19:00:08Z"
+   "post_id": "2116597359710716184",
+   "post_url": "https://x.com/WWE/status/2116597359710716184",
+   "name": "WWE",
+   "username": "WWE",
+   "verified_type": "business",
+   "text": "Get the latest breaking news, rivalry analysis from a panel of experts, and much more before all the spooky fun at NXT #HalloweenHavoc!\nhttps://t.co/ntnIdkYANj",
+   "started_at": "2026-10-31T18:25:09.000Z",
+   "assumed_live_until": "2026-10-31T21:25:09Z"
   }
  ]
 }

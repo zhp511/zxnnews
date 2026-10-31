@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T18:47:00Z",
+ "fetched_at": "2026-10-31T19:04:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T15:47:00Z",
+  "start_time": "2026-10-31T16:04:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -12,143 +12,19 @@
  },
  "data": [
   {
-   "author_id": "804605049859145728",
-   "created_at": "2026-10-31T15:58:27.000Z",
-   "edit_history_tweet_ids": [
-    "2116560440088216049"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live Now",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 198,
-      "expanded_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116560230964498432/MFgA_70T?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116560230964498432/MFgA_70T?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 175,
-      "status": 200,
-      "title": "TRT World",
-      "unwound_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
-      "url": "https://t.co/9qQMMMfl8l"
-     }
-    ]
-   },
-   "id": "2116560440088216049",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1594,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 1
-   },
-   "text": "LIVE: Turkish President Recep Tayyip Erdogan and his Ukrainian counterpart Volodymyr Zelenskyy hold a joint press conference at the Dolmabahce Presidential Office in Istanbul\nhttps://t.co/9qQMMMfl8l",
-   "url": "https://x.com/TRTWorldNow/status/2116560440088216049"
-  },
-  {
-   "author_id": "240265305",
-   "created_at": "2026-10-31T16:00:21.000Z",
-   "edit_history_tweet_ids": [
-    "2116560918616093052"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live Now",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 200,
-      "expanded_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116560230964498432/MFgA_70T?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116560230964498432/MFgA_70T?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 177,
-      "status": 200,
-      "title": "TRT World",
-      "unwound_url": "https://x.com/i/broadcasts/2vypYmoAZmkdaP",
-      "url": "https://t.co/on9EGBrnes"
-     }
-    ]
-   },
-   "id": "2116560918616093052",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1338,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 3
-   },
-   "text": "🔴 LIVE: Turkish President Recep Tayyip Erdogan and his Ukrainian counterpart Volodymyr Zelenskyy hold a joint press conference at the Dolmabahce Presidential Office in Istanbul https://t.co/on9EGBrnes",
-   "url": "https://x.com/anadoluagency/status/2116560918616093052"
-  },
-  {
    "author_id": "7517222",
    "created_at": "2026-10-31T18:25:09.000Z",
    "edit_history_tweet_ids": [
     "2116597359710716184"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 134,
-      "start": 119,
-      "tag": "HalloweenHavoc"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Countdown to NXT Halloween Havoc: Oct. 31, 2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 159,
-      "expanded_url": "https://x.com/i/broadcasts/2dKYqlvZrlvAZo",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2116597361606627330/Ld6EeQVc?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116597361606627330/Ld6EeQVc?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 136,
-      "status": 200,
-      "title": "WWE",
-      "unwound_url": "https://x.com/i/broadcasts/2dKYqlvZrlvAZo",
-      "url": "https://t.co/ntnIdkYANj"
-     }
-    ]
-   },
    "id": "2116597359710716184",
    "public_metrics": {
-    "bookmark_count": 4,
-    "impression_count": 28509,
-    "like_count": 95,
+    "bookmark_count": 5,
+    "impression_count": 33409,
+    "like_count": 123,
     "quote_count": 0,
     "reply_count": 1,
-    "retweet_count": 23
+    "retweet_count": 30
    },
    "text": "Get the latest breaking news, rivalry analysis from a panel of experts, and much more before all the spooky fun at NXT #HalloweenHavoc!\nhttps://t.co/ntnIdkYANj",
    "url": "https://x.com/WWE/status/2116597359710716184"
@@ -159,37 +35,10 @@
    "edit_history_tweet_ids": [
     "2116579418319503361"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Our Identity Is Not Up for Debate",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 57,
-      "expanded_url": "https://x.com/i/broadcasts/2RezkBOpJjObvq",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116581942648832000/7uxt8nCA?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116581942648832000/7uxt8nCA?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 34,
-      "status": 200,
-      "title": "Phoenix Moon",
-      "unwound_url": "https://x.com/i/broadcasts/2RezkBOpJjObvq",
-      "url": "https://t.co/I8PlFhCjpi"
-     }
-    ]
-   },
    "id": "2116579418319503361",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 192,
+    "impression_count": 209,
     "like_count": 7,
     "quote_count": 0,
     "reply_count": 1,
@@ -199,49 +48,22 @@
    "url": "https://x.com/1phoenixmoon/status/2116579418319503361"
   },
   {
-   "author_id": "1461110373679910920",
-   "created_at": "2026-10-31T16:03:11.000Z",
+   "author_id": "1589716670649704449",
+   "created_at": "2026-10-31T18:00:50.000Z",
    "edit_history_tweet_ids": [
-    "2116561630674706467"
+    "2116591240212795645"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Debate On Islamic Morality With Aftab Borka",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 67,
-      "expanded_url": "https://x.com/i/broadcasts/2ybVYyRRomEOkn",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116574847430217728/P2O9UjL8?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116574847430217728/P2O9UjL8?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 44,
-      "status": 200,
-      "title": "Ex Muslim Sameer",
-      "unwound_url": "https://x.com/i/broadcasts/2ybVYyRRomEOkn",
-      "url": "https://t.co/I1HACVkUla"
-     }
-    ]
-   },
-   "id": "2116561630674706467",
+   "id": "2116591240212795645",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 137,
-    "like_count": 1,
+    "impression_count": 23,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1
+    "retweet_count": 0
    },
-   "text": "Debate On Islamic Morality With Aftab Borka https://t.co/I1HACVkUla",
-   "url": "https://x.com/ExMuslimSameer/status/2116561630674706467"
+   "text": "We Are LIVE! Christianity Vs Islam! Join The Debate! \ud83d\udcde E254 https://t.co/T770s6hzFl",
+   "url": "https://x.com/_Maverick143_/status/2116591240212795645"
   },
   {
    "author_id": "1542252597855375367",
@@ -249,25 +71,10 @@
    "edit_history_tweet_ids": [
     "2116562855705170249"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "TAYLOR TO THE BEARS?! Mack Debate, Parsons' Return & the MNF Injury Report",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 102,
-      "expanded_url": "https://x.com/i/broadcasts/2onAVoKeoygrma",
-      "start": 79,
-      "status": 200,
-      "title": "Chicago Sports Podcast",
-      "unwound_url": "https://x.com/i/broadcasts/2onAVoKeoygrma",
-      "url": "https://t.co/pwuTBNbClD"
-     }
-    ]
-   },
    "id": "2116562855705170249",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 268,
+    "impression_count": 269,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -277,91 +84,11 @@
    "url": "https://x.com/ChiSportsTracks/status/2116562855705170249"
   },
   {
-   "author_id": "1589716670649704449",
-   "created_at": "2026-10-31T18:00:50.000Z",
-   "edit_history_tweet_ids": [
-    "2116591240212795645"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "We Are LIVE! Christianity Vs Islam! Join The Debate! 📞 E254",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 83,
-      "expanded_url": "https://x.com/i/broadcasts/2rJaYmQBlOlolN",
-      "images": [
-       {
-        "height": 1440,
-        "url": "https://pbs.twimg.com/news_img/2116591282944438273/uJMHPN4J?format=jpg&name=orig",
-        "width": 2560
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116591282944438273/uJMHPN4J?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 60,
-      "status": 200,
-      "title": "Brother Maverick",
-      "unwound_url": "https://x.com/i/broadcasts/2rJaYmQBlOlolN",
-      "url": "https://t.co/T770s6hzFl"
-     }
-    ]
-   },
-   "id": "2116591240212795645",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 19,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "We Are LIVE! Christianity Vs Islam! Join The Debate! 📞 E254 https://t.co/T770s6hzFl",
-   "url": "https://x.com/_Maverick143_/status/2116591240212795645"
-  },
-  {
    "author_id": "1592394953346334720",
    "created_at": "2026-10-31T18:01:27.000Z",
    "edit_history_tweet_ids": [
     "2116591396610318624"
    ],
-   "entities": {
-    "mentions": [
-     {
-      "end": 76,
-      "id": "27500043",
-      "start": 64,
-      "username": "jeffcrouere"
-     }
-    ],
-    "urls": [
-     {
-      "description": "REAL AMERICA'S VOICE LIVE",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 23,
-      "expanded_url": "https://x.com/i/broadcasts/2POJeabaMokWbW",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116517041662312448/GlI3EkPN?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116517041662312448/GlI3EkPN?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 0,
-      "status": 200,
-      "title": "Real America's Voice (RAV)",
-      "unwound_url": "https://x.com/i/broadcasts/2POJeabaMokWbW",
-      "url": "https://t.co/jnRT8UiB4w"
-     }
-    ]
-   },
    "id": "2116591396610318624",
    "public_metrics": {
     "bookmark_count": 0,
@@ -380,43 +107,16 @@
    "edit_history_tweet_ids": [
     "2116580982505582725"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "ZOE RANT: Alpha Kappa Alpha’s Patricia Rae Easley—Sisterhood, Politics & Her Attacks on CFR!",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 120,
-      "expanded_url": "https://x.com/i/broadcasts/2dKYkZpVezzpEb",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116584435587874816/npb1HKr_?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116584435587874816/npb1HKr_?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 97,
-      "status": 200,
-      "title": "Chicago Flips Red",
-      "unwound_url": "https://x.com/i/broadcasts/2dKYkZpVezzpEb",
-      "url": "https://t.co/hRRgGUgXQI"
-     }
-    ]
-   },
    "id": "2116580982505582725",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 406,
-    "like_count": 13,
+    "impression_count": 426,
+    "like_count": 14,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 7
+    "retweet_count": 8
    },
-   "text": "ZOE RANT: Alpha Kappa Alpha’s Patricia Rae Easley—Sisterhood, Politics &amp; Her Attacks on CFR! https://t.co/hRRgGUgXQI",
+   "text": "ZOE RANT: Alpha Kappa Alpha\u2019s Patricia Rae Easley\u2014Sisterhood, Politics &amp; Her Attacks on CFR! https://t.co/hRRgGUgXQI",
    "url": "https://x.com/FlipChicagoRed/status/2116580982505582725"
   },
   {
@@ -425,43 +125,16 @@
    "edit_history_tweet_ids": [
     "2116580982149046434"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "ZOE RANT: Alpha Kappa Alpha’s Patricia Rae Easley—Sisterhood, Politics & Her Attacks on CFR!",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 120,
-      "expanded_url": "https://x.com/i/broadcasts/2WXKZeRovlaPQO",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116591712088817665/hld3D9XB?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116591712088817665/hld3D9XB?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 97,
-      "status": 200,
-      "title": "Zoe Leigh 🇺🇸🌹",
-      "unwound_url": "https://x.com/i/broadcasts/2WXKZeRovlaPQO",
-      "url": "https://t.co/kDzNLPiwsH"
-     }
-    ]
-   },
    "id": "2116580982149046434",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 171,
-    "like_count": 3,
+    "impression_count": 196,
+    "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 2
    },
-   "text": "ZOE RANT: Alpha Kappa Alpha’s Patricia Rae Easley—Sisterhood, Politics &amp; Her Attacks on CFR! https://t.co/kDzNLPiwsH",
+   "text": "ZOE RANT: Alpha Kappa Alpha\u2019s Patricia Rae Easley\u2014Sisterhood, Politics &amp; Her Attacks on CFR! https://t.co/kDzNLPiwsH",
    "url": "https://x.com/mrstealyourwig1/status/2116580982149046434"
   },
   {
@@ -470,122 +143,17 @@
    "edit_history_tweet_ids": [
     "2116591499802517620"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Congress Wants to Kill Section 230. Here’s What Breaks | Hide & Speak",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 97,
-      "expanded_url": "https://x.com/i/broadcasts/2JQlobJaNenlNR",
-      "start": 74,
-      "status": 200,
-      "title": "vp.net",
-      "unwound_url": "https://x.com/i/broadcasts/2JQlobJaNenlNR",
-      "url": "https://t.co/Xk11fgZUzB"
-     }
-    ]
-   },
    "id": "2116591499802517620",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 26,
+    "impression_count": 31,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Congress Wants to Kill Section 230. Here’s What Breaks | Hide &amp; Speak https://t.co/Xk11fgZUzB",
+   "text": "Congress Wants to Kill Section 230. Here\u2019s What Breaks | Hide &amp; Speak https://t.co/Xk11fgZUzB",
    "url": "https://x.com/vpnet_official/status/2116591499802517620"
-  },
-  {
-   "author_id": "2026120953206321152",
-   "created_at": "2026-10-31T16:00:08.000Z",
-   "edit_history_tweet_ids": [
-    "2116560863763304813"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "TRUMP'S FINAL MIDTERM PUSH: What's Really Happening Before Election Day?",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 96,
-      "expanded_url": "https://x.com/i/broadcasts/2rJaYApYeynMeb",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2116540487922241536/LB9LUviL?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116540487922241536/LB9LUviL?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 73,
-      "status": 200,
-      "title": "John Gordon",
-      "unwound_url": "https://x.com/i/broadcasts/2rJaYApYeynMeb",
-      "url": "https://t.co/TKve1lEN9w"
-     }
-    ]
-   },
-   "id": "2116560863763304813",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 4,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "TRUMP'S FINAL MIDTERM PUSH: What's Really Happening Before Election Day? https://t.co/TKve1lEN9w",
-   "url": "https://x.com/JohnGordonTV/status/2116560863763304813"
-  },
-  {
-   "author_id": "16116288",
-   "created_at": "2026-10-31T15:48:17.000Z",
-   "edit_history_tweet_ids": [
-    "2116557880153284817"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Roland live in Fort Bend County, Texas for election canvassing",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 86,
-      "expanded_url": "https://x.com/i/broadcasts/2RezkqoMlJMbEJ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116557922708627456/Hc6HDAUr?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116557922708627456/Hc6HDAUr?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 63,
-      "status": 200,
-      "title": "rolandsmartin",
-      "unwound_url": "https://x.com/i/broadcasts/2RezkqoMlJMbEJ",
-      "url": "https://t.co/fQjd0uQGaq"
-     }
-    ]
-   },
-   "id": "2116557880153284817",
-   "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 1273,
-    "like_count": 16,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 7
-   },
-   "text": "Roland live in Fort Bend County, Texas for election canvassing https://t.co/fQjd0uQGaq",
-   "url": "https://x.com/rolandsmartin/status/2116557880153284817"
   },
   {
    "author_id": "1541923961474146304",
@@ -593,33 +161,6 @@
    "edit_history_tweet_ids": [
     "2116568686664282290"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla & Election Day",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 81,
-      "expanded_url": "https://x.com/i/broadcasts/2OdmKJbjeAYqAo",
-      "images": [
-       {
-        "height": 540,
-        "url": "https://pbs.twimg.com/news_img/2116290194080972800/bYr6DQAQ?format=jpg&name=orig",
-        "width": 960
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116290194080972800/bYr6DQAQ?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 58,
-      "status": 200,
-      "title": "Marc - Financial FIRE Fighter",
-      "unwound_url": "https://x.com/i/broadcasts/2OdmKJbjeAYqAo",
-      "url": "https://t.co/QBZMTohSyS"
-     }
-    ]
-   },
    "id": "2116568686664282290",
    "public_metrics": {
     "bookmark_count": 0,
@@ -638,33 +179,6 @@
    "edit_history_tweet_ids": [
     "2116568702418080000"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "HALLOWEEN MARKET CHAOS! Bitcoin, Tesla & Election Day",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 81,
-      "expanded_url": "https://x.com/i/broadcasts/2onAALlQYqkbpa",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116324645783719936/kr822wXz?format=png&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116324645783719936/kr822wXz?format=png&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 58,
-      "status": 200,
-      "title": "Nick Masi",
-      "unwound_url": "https://x.com/i/broadcasts/2onAALlQYqkbpa",
-      "url": "https://t.co/3C6uUz06HE"
-     }
-    ]
-   },
    "id": "2116568702418080000",
    "public_metrics": {
     "bookmark_count": 0,
@@ -683,25 +197,10 @@
    "edit_history_tweet_ids": [
     "2116594978747040237"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "BENJ 0029 || ELECTION EVE SPECIAL: BYRON DONALDS, LILY TANG WILLIAMS, STACY GARRITY, DAN SULLIVANx2",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 124,
-      "expanded_url": "https://x.com/i/broadcasts/2XyJMYekpjedbO",
-      "start": 101,
-      "status": 200,
-      "title": "Benj Irby aka 🤴🏾 🦝",
-      "unwound_url": "https://x.com/i/broadcasts/2XyJMYekpjedbO",
-      "url": "https://t.co/6aVAciUB4s"
-     }
-    ]
-   },
    "id": "2116594978747040237",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 13,
+    "impression_count": 16,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -716,89 +215,17 @@
    "edit_history_tweet_ids": [
     "2116598605305766269"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 113,
-      "expanded_url": "https://x.com/i/broadcasts/2LPLzaBQYpXeOy",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2116595650821292032/WqfYeMea?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116595650821292032/WqfYeMea?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 90,
-      "status": 200,
-      "title": "rolandsmartin",
-      "unwound_url": "https://x.com/i/broadcasts/2LPLzaBQYpXeOy",
-      "url": "https://t.co/owCXjE5fV7"
-     }
-    ]
-   },
    "id": "2116598605305766269",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 556,
-    "like_count": 3,
+    "impression_count": 736,
+    "like_count": 6,
     "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push https://t.co/owCXjE5fV7",
-   "url": "https://x.com/rolandsmartin/status/2116598605305766269"
-  },
-  {
-   "author_id": "386551109",
-   "created_at": "2026-10-31T16:01:03.000Z",
-   "edit_history_tweet_ids": [
-    "2116561096723034540"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "America Unplugged 10-31-26",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 50,
-      "expanded_url": "https://x.com/i/broadcasts/2onAVjXoWOaZjm",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116563551561109504/JK1zcUAp?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116563551561109504/JK1zcUAp?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 27,
-      "status": 200,
-      "title": "Tony Arterburn",
-      "unwound_url": "https://x.com/i/broadcasts/2onAVjXoWOaZjm",
-      "url": "https://t.co/tBrxdueDBV"
-     }
-    ]
-   },
-   "id": "2116561096723034540",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 251,
-    "like_count": 7,
-    "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 2
    },
-   "text": "America Unplugged 10-31-26 https://t.co/tBrxdueDBV",
-   "url": "https://x.com/TonyArterburn/status/2116561096723034540"
+   "text": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push https://t.co/owCXjE5fV7",
+   "url": "https://x.com/rolandsmartin/status/2116598605305766269"
   },
   {
    "author_id": "73684426",
@@ -806,37 +233,10 @@
    "edit_history_tweet_ids": [
     "2116576620152508835"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "THEY WANT TO DESTROY AMERICA?! Reacting Live to Steven Crowder & Ben Shapiro",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 104,
-      "expanded_url": "https://x.com/i/broadcasts/2ybVYRmqkdMbjP",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116600259908374528/XTk2cQem?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116600259908374528/XTk2cQem?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 81,
-      "status": 200,
-      "title": "Aaron Machbitz",
-      "unwound_url": "https://x.com/i/broadcasts/2ybVYRmqkdMbjP",
-      "url": "https://t.co/0JYhr2WFn2"
-     }
-    ]
-   },
    "id": "2116576620152508835",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 41,
+    "impression_count": 45,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -846,90 +246,40 @@
    "url": "https://x.com/AaronMachbitz/status/2116576620152508835"
   },
   {
-   "author_id": "2610725894",
-   "created_at": "2026-10-31T16:01:03.000Z",
+   "author_id": "1339166129110065152",
+   "created_at": "2026-10-31T18:59:55.000Z",
    "edit_history_tweet_ids": [
-    "2116561096332992986"
+    "2116606109595336724"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "America Unplugged 10-31-26",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 50,
-      "expanded_url": "https://x.com/i/broadcasts/2ZBKednbePeAob",
-      "start": 27,
-      "status": 200,
-      "title": "Billy Ray Valentine",
-      "unwound_url": "https://x.com/i/broadcasts/2ZBKednbePeAob",
-      "url": "https://t.co/RoIRV3Hnhu"
-     }
-    ]
-   },
-   "id": "2116561096332992986",
+   "id": "2116606109595336724",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 38,
-    "like_count": 1,
+    "impression_count": 1362,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "America Unplugged 10-31-26 https://t.co/RoIRV3Hnhu",
-   "url": "https://x.com/Obi1unome/status/2116561096332992986"
+   "text": "GB News https://t.co/HpcpiAErNE",
+   "url": "https://x.com/GBNEWS/status/2116606109595336724"
   },
   {
-   "author_id": "1761697828655480832",
-   "created_at": "2026-10-31T18:09:28.000Z",
+   "author_id": "1492196488662900739",
+   "created_at": "2026-10-31T19:00:58.000Z",
    "edit_history_tweet_ids": [
-    "2116593411017027923"
+    "2116606370778669074"
    ],
-   "entities": {
-    "mentions": [
-     {
-      "end": 45,
-      "id": "1372214815200997382",
-      "start": 33,
-      "username": "ChrisDoom88"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Signalfire News | Episode 159",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 95,
-      "expanded_url": "https://x.com/i/broadcasts/2kEbAzKApVqWjy",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2116593415316250624/OsdtY9Af?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116593415316250624/OsdtY9Af?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 72,
-      "status": 200,
-      "title": "America Rising Media",
-      "unwound_url": "https://x.com/i/broadcasts/2kEbAzKApVqWjy",
-      "url": "https://t.co/UaRZzEIZea"
-     }
-    ]
-   },
-   "id": "2116593411017027923",
+   "id": "2116606370778669074",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 29,
-    "like_count": 1,
+    "impression_count": 2,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1
+    "retweet_count": 0
    },
-   "text": "Signalfire News | Episode 159 W/ @ChrisDoom88 - 10/31/26 @ 3:00 PM EST\n\nhttps://t.co/UaRZzEIZea",
-   "url": "https://x.com/_ARMedia/status/2116593411017027923"
+   "text": "Paul Morris ROTGA - News and Chat https://t.co/ptV52oNe7o",
+   "url": "https://x.com/PaulMor38081335/status/2116606370778669074"
   },
   {
    "author_id": "1942927435378388992",
@@ -937,54 +287,10 @@
    "edit_history_tweet_ids": [
     "2116575705018376227"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 24,
-      "start": 19,
-      "tag": "ACFB"
-     },
-     {
-      "end": 33,
-      "start": 28,
-      "tag": "LUFC"
-     },
-     {
-      "end": 58,
-      "start": 53,
-      "tag": "LUFC"
-     }
-    ],
-    "urls": [
-     {
-      "description": "LIVE ON Youtube! | #ACFB vs #LUFC Match Reaction | #LUFC News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 87,
-      "expanded_url": "https://x.com/i/broadcasts/2KolLdmajNAvkj",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116575747544363009/AvEH2VxA?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116575747544363009/AvEH2VxA?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 64,
-      "status": 200,
-      "title": "TheLeedsLens",
-      "unwound_url": "https://x.com/i/broadcasts/2KolLdmajNAvkj",
-      "url": "https://t.co/HM5lePEeVv"
-     }
-    ]
-   },
    "id": "2116575705018376227",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 179,
+    "impression_count": 187,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -994,30 +300,33 @@
    "url": "https://x.com/TheLeedsLens/status/2116575705018376227"
   },
   {
+   "author_id": "1761697828655480832",
+   "created_at": "2026-10-31T18:09:28.000Z",
+   "edit_history_tweet_ids": [
+    "2116593411017027923"
+   ],
+   "id": "2116593411017027923",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 39,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Signalfire News | Episode 159 W/ @ChrisDoom88 - 10/31/26 @ 3:00 PM EST\n\nhttps://t.co/UaRZzEIZea",
+   "url": "https://x.com/_ARMedia/status/2116593411017027923"
+  },
+  {
    "author_id": "19897138",
    "created_at": "2026-10-31T18:25:46.000Z",
    "edit_history_tweet_ids": [
     "2116597514229145719"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE || Catch the top news updates & headlines, only on India Today!",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 96,
-      "expanded_url": "https://x.com/i/broadcasts/2lgkdObglNRepo",
-      "start": 73,
-      "status": 200,
-      "title": "IndiaToday",
-      "unwound_url": "https://x.com/i/broadcasts/2lgkdObglNRepo",
-      "url": "https://t.co/3EMMOW7Tqb"
-     }
-    ]
-   },
    "id": "2116597514229145719",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2319,
+    "impression_count": 2649,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 1,
@@ -1032,21 +341,6 @@
    "edit_history_tweet_ids": [
     "2116562847182246119"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "random mockery of sports, news adjacent and string a GUITAR OR 8, also other stuff.",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 107,
-      "expanded_url": "https://x.com/i/broadcasts/2MEmoZWQvWMPZj",
-      "start": 84,
-      "status": 200,
-      "title": "Romeo O'Bravo",
-      "unwound_url": "https://x.com/i/broadcasts/2MEmoZWQvWMPZj",
-      "url": "https://t.co/FjCjdEzZ3b"
-     }
-    ]
-   },
    "id": "2116562847182246119",
    "public_metrics": {
     "bookmark_count": 0,
@@ -1065,82 +359,81 @@
    "edit_history_tweet_ids": [
     "2116592391645802822"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Steve Hanke: BREAKING: Marco Rubio Says U.S. Is Ready for Military Action Against Iran",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 110,
-      "expanded_url": "https://x.com/i/broadcasts/2AMXjJMloOJbyP",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116592434087931904/gopcOL3G?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116592434087931904/gopcOL3G?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 87,
-      "status": 200,
-      "title": "Dialogue works",
-      "unwound_url": "https://x.com/i/broadcasts/2AMXjJMloOJbyP",
-      "url": "https://t.co/t3PmtB8YJZ"
-     }
-    ]
-   },
    "id": "2116592391645802822",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 779,
-    "like_count": 30,
+    "impression_count": 923,
+    "like_count": 33,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 8
    },
    "text": "Steve Hanke: BREAKING: Marco Rubio Says U.S. Is Ready for Military Action Against Iran https://t.co/t3PmtB8YJZ",
    "url": "https://x.com/Dialogue_NRA/status/2116592391645802822"
+  },
+  {
+   "author_id": "91966685",
+   "created_at": "2026-10-31T16:46:06.000Z",
+   "edit_history_tweet_ids": [
+    "2116565844667011170",
+    "2116572433524101256"
+   ],
+   "id": "2116572433524101256",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1518,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 2
+   },
+   "text": "\ud83d\udd34LIVE: MusicLab: Breaking Down @Fameye's Gen Z | Beat Production, Vocals &amp; Lyrics (31-10-26) \n\n#ShowbizAtoZ #JoyEntertainment #Joy997FM \n\nWatch here\ud83d\udc47\ud83c\udfff:\nTwitter(X): https://t.co/eEs1G16rP1",
+   "url": "https://x.com/Joy997FM/status/2116572433524101256"
+  },
+  {
+   "author_id": "162901927",
+   "created_at": "2026-10-31T18:30:02.000Z",
+   "edit_history_tweet_ids": [
+    "2116598587098292446"
+   ],
+   "id": "2116598587098292446",
+   "public_metrics": {
+    "bookmark_count": 4,
+    "impression_count": 1846,
+    "like_count": 31,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 6
+   },
+   "text": "MAYIBUYE President Interview with Hilal TV on Local Government Elections. https://t.co/sykCpUl4QY",
+   "url": "https://x.com/FloydShivambu/status/2116598587098292446"
+  },
+  {
+   "author_id": "91966685",
+   "created_at": "2026-10-31T16:19:55.000Z",
+   "edit_history_tweet_ids": [
+    "2116565844667011170",
+    "2116572433524101256"
+   ],
+   "id": "2116565844667011170",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1302,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83d\udd34LIVE: MusicLab: Breaking Down Fameye\u2019s Gen Z | Beat Production, Vocals &amp; Lyrics (31-10-26) \n\n#ShowbizAtoZ #JoyEntertainment #Joy997FM \n\nWatch here\ud83d\udc47\ud83c\udfff:\nTwitter(X): https://t.co/eEs1G16ZEz",
+   "url": "https://x.com/Joy997FM/status/2116565844667011170"
   }
  ],
  "users": [
   {
-   "id": "804605049859145728",
-   "name": "TRT World Now",
-   "public_metrics": {
-    "followers_count": 298173,
-    "following_count": 22,
-    "like_count": 1,
-    "listed_count": 1515,
-    "media_count": 158799,
-    "tweet_count": 194260
-   },
-   "username": "TRTWorldNow",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
-   "id": "240265305",
-   "name": "Anadolu English",
-   "public_metrics": {
-    "followers_count": 318855,
-    "following_count": 21,
-    "like_count": 2,
-    "listed_count": 2986,
-    "media_count": 308469,
-    "tweet_count": 425347
-   },
-   "username": "anadoluagency",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
    "id": "7517222",
    "name": "WWE",
    "public_metrics": {
-    "followers_count": 13235703,
+    "followers_count": 13235704,
     "following_count": 378,
     "like_count": 2088,
     "listed_count": 18033,
@@ -1157,42 +450,12 @@
    "public_metrics": {
     "followers_count": 4105,
     "following_count": 1133,
-    "like_count": 8470,
+    "like_count": 8473,
     "listed_count": 16,
     "media_count": 2605,
-    "tweet_count": 11824
+    "tweet_count": 11828
    },
    "username": "1phoenixmoon",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1461110373679910920",
-   "name": "Ex Muslim Sameer",
-   "public_metrics": {
-    "followers_count": 13786,
-    "following_count": 32,
-    "like_count": 104,
-    "listed_count": 27,
-    "media_count": 37,
-    "tweet_count": 287
-   },
-   "username": "ExMuslimSameer",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1542252597855375367",
-   "name": "Chicago Sports Podcast",
-   "public_metrics": {
-    "followers_count": 4611,
-    "following_count": 1726,
-    "like_count": 4462,
-    "listed_count": 16,
-    "media_count": 2607,
-    "tweet_count": 6490
-   },
-   "username": "ChiSportsTracks",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1212,15 +475,30 @@
    "verified_type": "blue"
   },
   {
+   "id": "1542252597855375367",
+   "name": "Chicago Sports Podcast",
+   "public_metrics": {
+    "followers_count": 4610,
+    "following_count": 1726,
+    "like_count": 4462,
+    "listed_count": 16,
+    "media_count": 2608,
+    "tweet_count": 6492
+   },
+   "username": "ChiSportsTracks",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "1592394953346334720",
    "name": "Myriam Carlyle",
    "public_metrics": {
     "followers_count": 4769,
     "following_count": 7502,
-    "like_count": 65902,
+    "like_count": 65900,
     "listed_count": 2,
     "media_count": 639,
-    "tweet_count": 61451
+    "tweet_count": 61452
    },
    "username": "MyriamCarlyle",
    "verified": true,
@@ -1235,7 +513,7 @@
     "like_count": 2678,
     "listed_count": 59,
     "media_count": 3413,
-    "tweet_count": 9165
+    "tweet_count": 9166
    },
    "username": "FlipChicagoRed",
    "verified": true,
@@ -1243,7 +521,7 @@
   },
   {
    "id": "725677732919689216",
-   "name": "Zoe Leigh 🇺🇸🌹",
+   "name": "Zoe Leigh \ud83c\uddfa\ud83c\uddf8\ud83c\udf39",
    "public_metrics": {
     "followers_count": 12177,
     "following_count": 620,
@@ -1260,7 +538,7 @@
    "id": "1911468957803929600",
    "name": "vp.net",
    "public_metrics": {
-    "followers_count": 1784,
+    "followers_count": 1783,
     "following_count": 128,
     "like_count": 1969,
     "listed_count": 19,
@@ -1272,42 +550,12 @@
    "verified_type": "blue"
   },
   {
-   "id": "2026120953206321152",
-   "name": "John Gordon",
-   "public_metrics": {
-    "followers_count": 2446,
-    "following_count": 2863,
-    "like_count": 71,
-    "listed_count": 1,
-    "media_count": 190,
-    "tweet_count": 768
-   },
-   "username": "JohnGordonTV",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "16116288",
-   "name": "rolandsmartin",
-   "public_metrics": {
-    "followers_count": 709541,
-    "following_count": 4202,
-    "like_count": 95353,
-    "listed_count": 4656,
-    "media_count": 34355,
-    "tweet_count": 700923
-   },
-   "username": "rolandsmartin",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1541923961474146304",
    "name": "Marc - Financial FIRE Fighter",
    "public_metrics": {
     "followers_count": 1774,
     "following_count": 2785,
-    "like_count": 50911,
+    "like_count": 50912,
     "listed_count": 24,
     "media_count": 3470,
     "tweet_count": 22220
@@ -1333,7 +581,7 @@
   },
   {
    "id": "1376212273157509131",
-   "name": "Benj Irby aka 🤴🏾 🦝",
+   "name": "Benj Irby aka \ud83e\udd34\ud83c\udffe \ud83e\udd9d",
    "public_metrics": {
     "followers_count": 1401,
     "following_count": 221,
@@ -1347,17 +595,17 @@
    "verified_type": "blue"
   },
   {
-   "id": "386551109",
-   "name": "Tony Arterburn",
+   "id": "16116288",
+   "name": "rolandsmartin",
    "public_metrics": {
-    "followers_count": 5562,
-    "following_count": 3972,
-    "like_count": 9988,
-    "listed_count": 77,
-    "media_count": 64,
-    "tweet_count": 6214
+    "followers_count": 709543,
+    "following_count": 4202,
+    "like_count": 95353,
+    "listed_count": 4656,
+    "media_count": 34355,
+    "tweet_count": 700923
    },
-   "username": "TonyArterburn",
+   "username": "rolandsmartin",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1377,32 +625,32 @@
    "verified_type": "blue"
   },
   {
-   "id": "2610725894",
-   "name": "Billy Ray Valentine",
+   "id": "1339166129110065152",
+   "name": "GB News",
    "public_metrics": {
-    "followers_count": 2715,
-    "following_count": 849,
-    "like_count": 5152,
-    "listed_count": 11,
-    "media_count": 375,
-    "tweet_count": 5463
+    "followers_count": 991130,
+    "following_count": 50,
+    "like_count": 0,
+    "listed_count": 2727,
+    "media_count": 170922,
+    "tweet_count": 330693
    },
-   "username": "Obi1unome",
+   "username": "GBNEWS",
    "verified": true,
-   "verified_type": "blue"
+   "verified_type": "business"
   },
   {
-   "id": "1761697828655480832",
-   "name": "America Rising Media",
+   "id": "1492196488662900739",
+   "name": "Paul Morris \ud83c\uddec\ud83c\udde7\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f",
    "public_metrics": {
-    "followers_count": 1744,
-    "following_count": 229,
-    "like_count": 6058,
-    "listed_count": 4,
-    "media_count": 1365,
-    "tweet_count": 8082
+    "followers_count": 1110,
+    "following_count": 622,
+    "like_count": 2717,
+    "listed_count": 3,
+    "media_count": 486,
+    "tweet_count": 1904
    },
-   "username": "_ARMedia",
+   "username": "PaulMor38081335",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1422,10 +670,25 @@
    "verified_type": "blue"
   },
   {
+   "id": "1761697828655480832",
+   "name": "America Rising Media",
+   "public_metrics": {
+    "followers_count": 1744,
+    "following_count": 229,
+    "like_count": 6058,
+    "listed_count": 4,
+    "media_count": 1365,
+    "tweet_count": 8082
+   },
+   "username": "_ARMedia",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6275838,
+    "followers_count": 6275811,
     "following_count": 83,
     "like_count": 4431,
     "listed_count": 7342,
@@ -1455,7 +718,7 @@
    "id": "1326462342679441409",
    "name": "Dialogue works",
    "public_metrics": {
-    "followers_count": 19385,
+    "followers_count": 19388,
     "following_count": 80,
     "like_count": 1023,
     "listed_count": 172,
@@ -1463,6 +726,36 @@
     "tweet_count": 6537
    },
    "username": "Dialogue_NRA",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "91966685",
+   "name": "Joy 99.7 FM",
+   "public_metrics": {
+    "followers_count": 2083337,
+    "following_count": 121,
+    "like_count": 40130,
+    "listed_count": 744,
+    "media_count": 143452,
+    "tweet_count": 614812
+   },
+   "username": "Joy997FM",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "162901927",
+   "name": "Floyd Shivambu",
+   "public_metrics": {
+    "followers_count": 1573261,
+    "following_count": 8766,
+    "like_count": 15984,
+    "listed_count": 562,
+    "media_count": 3397,
+    "tweet_count": 17370
+   },
+   "username": "FloydShivambu",
    "verified": true,
    "verified_type": "blue"
   }
