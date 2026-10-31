@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-10-31T06:33:00Z",
+ "fetched_at": "2026-10-31T06:50:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-10-31T03:33:00Z",
+  "start_time": "2026-10-31T03:50:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -12,38 +12,29 @@
  },
  "data": [
   {
+   "author_id": "719819459381354496",
+   "created_at": "2026-10-31T06:39:57.000Z",
+   "edit_history_tweet_ids": [
+    "2116419891079352803"
+   ],
+   "id": "2116419891079352803",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3561,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "VIRTUAL PRESS CONFERENCE  \n\n🌧️ Monthly Outlook for Rainfall &amp; Temperature – November 2026\n\nLive on X: https://t.co/xMwoWWNcki \n\n#IMD #VirtualPressConference #NovemberOutlook2026 #RainfallForecast #TemperatureOutlook #WeatherUpdate #IndiaWeather #WeatherForecast\n\n@PMOIndia",
+   "url": "https://x.com/Indiametdept/status/2116419891079352803"
+  },
+  {
    "author_id": "1810120712868503552",
    "created_at": "2026-10-31T04:03:06.000Z",
    "edit_history_tweet_ids": [
     "2116380418295632221"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Episode#475 Artemis III Astronauts Meet Trump at White House",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 84,
-      "expanded_url": "https://x.com/i/broadcasts/1qGvverWyleGB",
-      "images": [
-       {
-        "height": 1280,
-        "url": "https://pbs.twimg.com/news_img/2116380420480864256/GOg36S4j?format=jpg&name=orig",
-        "width": 720
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116380420480864256/GOg36S4j?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 61,
-      "status": 200,
-      "title": "Average Day Joe's",
-      "unwound_url": "https://x.com/i/broadcasts/1qGvverWyleGB",
-      "url": "https://t.co/40o3VaCvOW"
-     }
-    ]
-   },
    "id": "2116380418295632221",
    "public_metrics": {
     "bookmark_count": 0,
@@ -57,75 +48,15 @@
    "url": "https://x.com/averagedayjoes/status/2116380418295632221"
   },
   {
-   "author_id": "1534262297547481094",
-   "created_at": "2026-10-31T03:37:05.000Z",
-   "edit_history_tweet_ids": [
-    "2116373867845611681"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Election Day in 6 Days! Let's Go Over the Texas Senate Race! James Talarico vs Ken Paxton!",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 114,
-      "expanded_url": "https://x.com/i/broadcasts/1XxygwWQvpgGM",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116373910665220096/1AdYDjs5?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116373910665220096/1AdYDjs5?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 91,
-      "status": 200,
-      "title": "Radell PPBD",
-      "unwound_url": "https://x.com/i/broadcasts/1XxygwWQvpgGM",
-      "url": "https://t.co/l2j8LRdJl5"
-     }
-    ]
-   },
-   "id": "2116373867845611681",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 48,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 0
-   },
-   "text": "Election Day in 6 Days! Let's Go Over the Texas Senate Race! James Talarico vs Ken Paxton! https://t.co/l2j8LRdJl5",
-   "url": "https://x.com/PPolBreakdown/status/2116373867845611681"
-  },
-  {
    "author_id": "898762021",
    "created_at": "2026-10-31T03:57:05.000Z",
    "edit_history_tweet_ids": [
     "2116378902528688311"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "[REPLAY] Breaking News Now Feat. Max Garland with Supply Chain Dive",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 92,
-      "expanded_url": "https://x.com/i/broadcasts/1oKMvNPOZARGQ",
-      "start": 69,
-      "status": 200,
-      "title": "Scott W. Luton",
-      "unwound_url": "https://x.com/i/broadcasts/1oKMvNPOZARGQ",
-      "url": "https://t.co/rmmHZ860TU"
-     }
-    ]
-   },
    "id": "2116378902528688311",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 125,
+    "impression_count": 127,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -140,25 +71,10 @@
    "edit_history_tweet_ids": [
     "2116378904021860370"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "[REPLAY] Breaking News Now Feat. Max Garland with Supply Chain Dive",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 92,
-      "expanded_url": "https://x.com/i/broadcasts/1qxvverWyoexB",
-      "start": 69,
-      "status": 200,
-      "title": "Supply Chain Now",
-      "unwound_url": "https://x.com/i/broadcasts/1qxvverWyoexB",
-      "url": "https://t.co/87awWV38gU"
-     }
-    ]
-   },
    "id": "2116378904021860370",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 71,
+    "impression_count": 74,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -173,43 +89,16 @@
    "edit_history_tweet_ids": [
     "2116387186933211403"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "President Trump Participates in a Pool Spray, October 30, 2026",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 87,
-      "expanded_url": "https://x.com/i/broadcasts/1aJbdEjyzLRKX",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116258153419706368/bvyP6ok_?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116258153419706368/bvyP6ok_?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 64,
-      "status": 200,
-      "title": "The White House",
-      "unwound_url": "https://x.com/i/broadcasts/1aJbdEjyzLRKX",
-      "url": "https://t.co/DTY6xfjaBV"
-     }
-    ]
-   },
    "id": "2116387186933211403",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 31,
+    "impression_count": 32,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "\u200cPresident Trump Participates in a Pool Spray, October 30, 2026 https://t.co/DTY6xfjaBV",
+   "text": "‌President Trump Participates in a Pool Spray, October 30, 2026 https://t.co/DTY6xfjaBV",
    "url": "https://x.com/MrGrahamHodsdon/status/2116387186933211403"
   },
   {
@@ -218,69 +107,10 @@
    "edit_history_tweet_ids": [
     "2116390400684642412"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 99,
-      "start": 87,
-      "tag": "soniagandhi"
-     },
-     {
-      "end": 112,
-      "start": 100,
-      "tag": "rahulgandhi"
-     },
-     {
-      "end": 131,
-      "start": 113,
-      "tag": "mallikarjunkharge"
-     },
-     {
-      "end": 145,
-      "start": 132,
-      "tag": "indiragandhi"
-     },
-     {
-      "end": 162,
-      "start": 146,
-      "tag": "deathaniversary"
-     },
-     {
-      "end": 169,
-      "start": 163,
-      "tag": "delhi"
-     }
-    ],
-    "urls": [
-     {
-      "description": "LIVE | Congress Leaders Pay tribute to Indira Gandhi at Indira Gandhi Memorial | Delhi #soniagandhi #rahulgandhi #mallikarjunkharge #indiragandhi #deathaniversary #delhi",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 193,
-      "expanded_url": "https://x.com/i/broadcasts/1XxygwWQvddGM",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2116390443214848000/QygNEQZ4?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116390443214848000/QygNEQZ4?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 170,
-      "status": 200,
-      "title": "The Savera Times",
-      "unwound_url": "https://x.com/i/broadcasts/1XxygwWQvddGM",
-      "url": "https://t.co/I9bDGIh8pZ"
-     }
-    ]
-   },
    "id": "2116390400684642412",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 227,
+    "impression_count": 241,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -295,37 +125,10 @@
    "edit_history_tweet_ids": [
     "2116409858991804700"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "4 Days to Election Day: Texas Early Vote Ends, Black Men Sit Out, Houston Candidates Push",
-      "display_url": "x.com/i/broadcasts/2\u2026",
-      "end": 113,
-      "expanded_url": "https://x.com/i/broadcasts/2WXKEkWmmeJYVW",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2116408631075721216/J4R_uXQV?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116408631075721216/J4R_uXQV?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 90,
-      "status": 200,
-      "title": "rolandsmartin",
-      "unwound_url": "https://x.com/i/broadcasts/2WXKEkWmmeJYVW",
-      "url": "https://t.co/2LhOUO6mpb"
-     }
-    ]
-   },
    "id": "2116409858991804700",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 578,
+    "impression_count": 652,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -335,73 +138,15 @@
    "url": "https://x.com/rolandsmartin/status/2116409858991804700"
   },
   {
-   "author_id": "4751337434",
-   "created_at": "2026-10-31T04:03:27.000Z",
-   "edit_history_tweet_ids": [
-    "2116380506858385587"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 69,
-      "expanded_url": "https://x.com/i/broadcasts/1DGleVlqoaqJ",
-      "start": 46,
-      "status": 404,
-      "unwound_url": "https://x.com/i/broadcasts/1DGleVlqoaqJ",
-      "url": "https://t.co/wfnAYemYhw"
-     }
-    ]
-   },
-   "id": "2116380506858385587",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 21,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Go, Go Elon Musk Star Link , Go, Go America!! https://t.co/wfnAYemYhw\ud83d\udcaa\ud83c\udffb\u2665\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83d\udee1\ufe0f\ud83e\udee1\ud83d\udcaa\ud83c\udffb\u2705",
-   "url": "https://x.com/Coldest_Hearted/status/2116380506858385587"
-  },
-  {
    "author_id": "935942321756966912",
    "created_at": "2026-10-31T03:59:57.000Z",
    "edit_history_tweet_ids": [
     "2116379623441469622"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 60,
-      "expanded_url": "https://x.com/i/broadcasts/1qJVmmNoWjYGB",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116379625958100992/RAj6jwiG?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116379625958100992/RAj6jwiG?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 37,
-      "status": 200,
-      "title": "Real America's Voice (RAV)",
-      "unwound_url": "https://x.com/i/broadcasts/1qJVmmNoWjYGB",
-      "url": "https://t.co/8l3LmyNF5W"
-     }
-    ]
-   },
    "id": "2116379623441469622",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 3841,
+    "impression_count": 3910,
     "like_count": 15,
     "quote_count": 0,
     "reply_count": 1,
@@ -411,42 +156,33 @@
    "url": "https://x.com/RealAmVoice/status/2116379623441469622"
   },
   {
+   "author_id": "4751337434",
+   "created_at": "2026-10-31T04:03:27.000Z",
+   "edit_history_tweet_ids": [
+    "2116380506858385587"
+   ],
+   "id": "2116380506858385587",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 21,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Go, Go Elon Musk Star Link , Go, Go America!! https://t.co/wfnAYemYhw💪🏻♥️🇺🇸🛡️🫡💪🏻✅",
+   "url": "https://x.com/Coldest_Hearted/status/2116380506858385587"
+  },
+  {
    "author_id": "1339166129110065152",
    "created_at": "2026-10-31T05:59:57.000Z",
    "edit_history_tweet_ids": [
     "2116409824665804936"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "GB News",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 31,
-      "expanded_url": "https://x.com/i/broadcasts/1ynKOMqgqpVJR",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116409827245305856/F87vPMOF?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116409827245305856/F87vPMOF?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 8,
-      "status": 200,
-      "title": "GB News",
-      "unwound_url": "https://x.com/i/broadcasts/1ynKOMqgqpVJR",
-      "url": "https://t.co/yQp1L24b1N"
-     }
-    ]
-   },
    "id": "2116409824665804936",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2278,
+    "impression_count": 2717,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 1,
@@ -457,156 +193,21 @@
   },
   {
    "author_id": "239486395",
-   "created_at": "2026-10-31T05:13:32.000Z",
-   "edit_history_tweet_ids": [
-    "2116398143722172562"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live Now",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 46,
-      "expanded_url": "https://x.com/i/broadcasts/1pKdRDZepmnJW",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2114239182822592512/8Flibwfb?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2114239182822592512/8Flibwfb?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 23,
-      "status": 200,
-      "title": "TRT World",
-      "unwound_url": "https://x.com/i/broadcasts/1pKdRDZepmnJW",
-      "url": "https://t.co/zVIHbtQMDP"
-     }
-    ]
-   },
-   "id": "2116398143722172562",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 20,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "\ud83d\udd34Live | TRT World News https://t.co/zVIHbtQMDP",
-   "url": "https://x.com/ProtestMusica/status/2116398143722172562"
-  },
-  {
-   "author_id": "239486395",
    "created_at": "2026-10-31T05:12:20.000Z",
    "edit_history_tweet_ids": [
     "2116397838490022285"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: AL JAZEERA ENGLISH",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 55,
-      "expanded_url": "https://x.com/i/broadcasts/1oKMvNPOMWXGQ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2116041763756597248/vZFi09Dn?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116041763756597248/vZFi09Dn?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 32,
-      "status": 200,
-      "title": "Al Jazeera English",
-      "unwound_url": "https://x.com/i/broadcasts/1oKMvNPOMWXGQ",
-      "url": "https://t.co/E77DJhBNsC"
-     }
-    ]
-   },
    "id": "2116397838490022285",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 22,
+    "impression_count": 24,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "\ud83d\udd34Live | Al Jazeera English News https://t.co/E77DJhBNsC",
+   "text": "🔴Live | Al Jazeera English News https://t.co/E77DJhBNsC",
    "url": "https://x.com/ProtestMusica/status/2116397838490022285"
-  },
-  {
-   "author_id": "185159449",
-   "created_at": "2026-10-31T06:16:09.000Z",
-   "edit_history_tweet_ids": [
-    "2116413523488288981",
-    "2116413901369925860"
-   ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 5,
-      "start": 0,
-      "tag": "Live"
-     },
-     {
-      "end": 94,
-      "start": 89,
-      "tag": "News"
-     },
-     {
-      "end": 109,
-      "start": 95,
-      "tag": "RadioPakistan"
-     }
-    ],
-    "urls": [
-     {
-      "description": "#Live",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 134,
-      "expanded_url": "https://x.com/i/broadcasts/1AxRnZQYvejxl",
-      "images": [
-       {
-        "height": 480,
-        "url": "https://pbs.twimg.com/news_img/2116413526407528448/d0nLvpUP?format=jpg&name=orig",
-        "width": 720
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2116413526407528448/d0nLvpUP?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 111,
-      "status": 200,
-      "title": "Radio Pakistan",
-      "unwound_url": "https://x.com/i/broadcasts/1AxRnZQYvejxl",
-      "url": "https://t.co/b58xBQd8Nn"
-     }
-    ]
-   },
-   "id": "2116413901369925860",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 96,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "#Live: Minister for Climate Change Musadik Malik is addressing a conference in Islamabad\n#News #RadioPakistan \nhttps://t.co/b58xBQd8Nn",
-   "url": "https://x.com/RadioPakistan/status/2116413901369925860"
   },
   {
    "author_id": "1386227335527948288",
@@ -614,25 +215,10 @@
    "edit_history_tweet_ids": [
     "2116416915438698707"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "313 - Weed'n thru the news",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 50,
-      "expanded_url": "https://x.com/i/broadcasts/1AJEmvEoaoXJL",
-      "start": 27,
-      "status": 200,
-      "title": "Joseph Daniel",
-      "unwound_url": "https://x.com/i/broadcasts/1AJEmvEoaoXJL",
-      "url": "https://t.co/69WuSwsjRQ"
-     }
-    ]
-   },
    "id": "2116416915438698707",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3,
+    "impression_count": 8,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -642,26 +228,48 @@
    "url": "https://x.com/509divinepines/status/2116416915438698707"
   },
   {
+   "author_id": "185159449",
+   "created_at": "2026-10-31T06:16:09.000Z",
+   "edit_history_tweet_ids": [
+    "2116413523488288981",
+    "2116413901369925860"
+   ],
+   "id": "2116413901369925860",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 114,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "#Live: Minister for Climate Change Musadik Malik is addressing a conference in Islamabad\n#News #RadioPakistan \nhttps://t.co/b58xBQd8Nn",
+   "url": "https://x.com/RadioPakistan/status/2116413901369925860"
+  },
+  {
+   "author_id": "239486395",
+   "created_at": "2026-10-31T05:13:32.000Z",
+   "edit_history_tweet_ids": [
+    "2116398143722172562"
+   ],
+   "id": "2116398143722172562",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 20,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🔴Live | TRT World News https://t.co/zVIHbtQMDP",
+   "url": "https://x.com/ProtestMusica/status/2116398143722172562"
+  },
+  {
    "author_id": "238573695",
    "created_at": "2026-10-31T03:58:59.000Z",
    "edit_history_tweet_ids": [
     "2116379379668590654"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Coronal Hole Faces Earth - Record-Breaking High Tides Spark Chaos - New Dwarf Planet Candidate",
-      "display_url": "x.com/i/broadcasts/1\u2026",
-      "end": 118,
-      "expanded_url": "https://x.com/i/broadcasts/1dJrPrOMzVYKX",
-      "start": 95,
-      "status": 200,
-      "title": "Oppenheimer Ranch Project",
-      "unwound_url": "https://x.com/i/broadcasts/1dJrPrOMzVYKX",
-      "url": "https://t.co/F2dDfC5GJV"
-     }
-    ]
-   },
    "id": "2116379379668590654",
    "public_metrics": {
     "bookmark_count": 0,
@@ -677,6 +285,21 @@
  ],
  "users": [
   {
+   "id": "719819459381354496",
+   "name": "India Meteorological Department",
+   "public_metrics": {
+    "followers_count": 429378,
+    "following_count": 89,
+    "like_count": 3667,
+    "listed_count": 861,
+    "media_count": 36324,
+    "tweet_count": 67539
+   },
+   "username": "Indiametdept",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "1810120712868503552",
    "name": "Average Day Joe's",
    "public_metrics": {
@@ -684,25 +307,10 @@
     "following_count": 12,
     "like_count": 1413,
     "listed_count": 1,
-    "media_count": 5147,
-    "tweet_count": 6102
+    "media_count": 5157,
+    "tweet_count": 6112
    },
    "username": "averagedayjoes",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1534262297547481094",
-   "name": "Radell PPBD",
-   "public_metrics": {
-    "followers_count": 757,
-    "following_count": 830,
-    "like_count": 2269,
-    "listed_count": 3,
-    "media_count": 1734,
-    "tweet_count": 7082
-   },
-   "username": "PPolBreakdown",
    "verified": true,
    "verified_type": "blue"
   },
@@ -755,12 +363,12 @@
    "id": "1772513122735300608",
    "name": "The Savera Times",
    "public_metrics": {
-    "followers_count": 102458,
+    "followers_count": 102457,
     "following_count": 2,
     "like_count": 25194,
     "listed_count": 100,
-    "media_count": 2280,
-    "tweet_count": 43348
+    "media_count": 2281,
+    "tweet_count": 43349
    },
    "username": "thesavera_times",
    "verified": true,
@@ -770,7 +378,7 @@
    "id": "16116288",
    "name": "rolandsmartin",
    "public_metrics": {
-    "followers_count": 709311,
+    "followers_count": 709315,
     "following_count": 4202,
     "like_count": 95340,
     "listed_count": 4655,
@@ -780,6 +388,21 @@
    "username": "rolandsmartin",
    "verified": true,
    "verified_type": "blue"
+  },
+  {
+   "id": "935942321756966912",
+   "name": "Real America's Voice (RAV)",
+   "public_metrics": {
+    "followers_count": 572165,
+    "following_count": 1917,
+    "like_count": 11930,
+    "listed_count": 1586,
+    "media_count": 86939,
+    "tweet_count": 138729
+   },
+   "username": "RealAmVoice",
+   "verified": true,
+   "verified_type": "business"
   },
   {
    "id": "4751337434",
@@ -797,30 +420,15 @@
    "verified_type": "none"
   },
   {
-   "id": "935942321756966912",
-   "name": "Real America's Voice (RAV)",
-   "public_metrics": {
-    "followers_count": 572164,
-    "following_count": 1917,
-    "like_count": 11930,
-    "listed_count": 1586,
-    "media_count": 86939,
-    "tweet_count": 138729
-   },
-   "username": "RealAmVoice",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
    "id": "1339166129110065152",
    "name": "GB News",
    "public_metrics": {
-    "followers_count": 991080,
+    "followers_count": 991084,
     "following_count": 50,
     "like_count": 0,
     "listed_count": 2726,
-    "media_count": 170901,
-    "tweet_count": 330644
+    "media_count": 170902,
+    "tweet_count": 330645
    },
    "username": "GBNEWS",
    "verified": true,
@@ -828,7 +436,7 @@
   },
   {
    "id": "239486395",
-   "name": "Protest & Musica \ud83c\udfb6 \ud83c\udf0e\ud83d\udcfa \ud83d\udea8\ud83c\udf83",
+   "name": "Protest & Musica 🎶 🌎📺 🚨🎃",
    "public_metrics": {
     "followers_count": 8297,
     "following_count": 8931,
@@ -840,26 +448,6 @@
    "username": "ProtestMusica",
    "verified": false,
    "verified_type": "none"
-  },
-  {
-   "id": "185159449",
-   "name": "Radio Pakistan",
-   "public_metrics": {
-    "followers_count": 927537,
-    "following_count": 8,
-    "like_count": 5711,
-    "listed_count": 1446,
-    "media_count": 142819,
-    "tweet_count": 404690
-   },
-   "username": "RadioPakistan",
-   "verified": true,
-   "verified_type": "blue",
-   "withheld": {
-    "country_codes": [
-     "IN"
-    ]
-   }
   },
   {
    "id": "1386227335527948288",
@@ -875,6 +463,26 @@
    "username": "509divinepines",
    "verified": true,
    "verified_type": "blue"
+  },
+  {
+   "id": "185159449",
+   "name": "Radio Pakistan",
+   "public_metrics": {
+    "followers_count": 927537,
+    "following_count": 8,
+    "like_count": 5711,
+    "listed_count": 1446,
+    "media_count": 142819,
+    "tweet_count": 404693
+   },
+   "username": "RadioPakistan",
+   "verified": true,
+   "verified_type": "blue",
+   "withheld": {
+    "country_codes": [
+     "IN"
+    ]
+   }
   },
   {
    "id": "238573695",
