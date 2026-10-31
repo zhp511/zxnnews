@@ -1,19 +1,9 @@
 {
- "built_at": "2026-10-31T16:33:39Z",
- "searched_at": "2026-10-31T16:33:39Z",
+ "built_at": "2026-10-31T16:52:30Z",
+ "searched_at": "2026-10-31T16:52:24Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2116525530241552501",
-   "post_url": "https://x.com/ANI/status/2116525530241552501",
-   "name": "ANI",
-   "username": "ANI",
-   "verified_type": "business",
-   "text": "Rahul Gandhi LIVE: Opposition's CEC Impeachment Campaign Ahead of Ramlila Maidan Showdown\n\n#rahulgandhi #congress #impeachment #gyaneshkumar #cec #news #live \n\nSOURCE: AICC https://t.co/c4eE2TFQn3",
-   "started_at": "2026-10-31T13:39:44.000Z",
-   "assumed_live_until": "2026-10-31T16:39:44Z"
-  },
   {
    "post_id": "2116557880153284817",
    "post_url": "https://x.com/rolandsmartin/status/2116557880153284817",
@@ -45,16 +35,6 @@
    "assumed_live_until": "2026-10-31T17:29:59Z"
   },
   {
-   "post_id": "2116534506643398687",
-   "post_url": "https://x.com/NatTelegraph/status/2116534506643398687",
-   "name": "The National Telegraph",
-   "username": "NatTelegraph",
-   "verified_type": "blue",
-   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/oWFW8ySDVP",
-   "started_at": "2026-10-31T14:15:24.000Z",
-   "assumed_live_until": "2026-10-31T17:15:24Z"
-  },
-  {
    "post_id": "2116561096723034540",
    "post_url": "https://x.com/TonyArterburn/status/2116561096723034540",
    "name": "Tony Arterburn",
@@ -63,6 +43,16 @@
    "text": "America Unplugged 10-31-26 https://t.co/tBrxdueDBV",
    "started_at": "2026-10-31T16:01:03.000Z",
    "assumed_live_until": "2026-10-31T19:01:03Z"
+  },
+  {
+   "post_id": "2116534506643398687",
+   "post_url": "https://x.com/NatTelegraph/status/2116534506643398687",
+   "name": "The National Telegraph",
+   "username": "NatTelegraph",
+   "verified_type": "blue",
+   "text": "Coffee with BJ\nEP# 334 | Grokbots, Poland’s EU Coup, The NPC Frame for Politics https://t.co/oWFW8ySDVP",
+   "started_at": "2026-10-31T14:15:24.000Z",
+   "assumed_live_until": "2026-10-31T17:15:24Z"
   },
   {
    "post_id": "2116533346587058197",
@@ -83,6 +73,16 @@
    "text": "TRUMP'S FINAL MIDTERM PUSH: What's Really Happening Before Election Day? https://t.co/TKve1lEN9w",
    "started_at": "2026-10-31T16:00:08.000Z",
    "assumed_live_until": "2026-10-31T19:00:08Z"
+  },
+  {
+   "post_id": "2116545786427133986",
+   "post_url": "https://x.com/omantvnews/status/2116545786427133986",
+   "name": "مركز الأخبار",
+   "username": "omantvnews",
+   "verified_type": "blue",
+   "text": "Live broadcast | English News Bulletin https://t.co/LvMnHn9u3s",
+   "started_at": "2026-10-31T15:00:13.000Z",
+   "assumed_live_until": "2026-10-31T18:00:13Z"
   }
  ]
 }
