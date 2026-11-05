@@ -2,9 +2,9 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-05T06:55:34Z",
+  "updated_at": "2026-11-05T07:16:45Z",
   "last_x_check": {
-    "at": "2026-11-05T06:55:34Z",
+    "at": "2026-11-05T07:16:45Z",
     "new_posts": 0,
     "published": true,
     "refreshed": [
@@ -17,7 +17,7 @@
       "tv": "age < 3h"
     }
   },
-  "last_publish": "Refresh X Live 2026-11-05T06:55:34Z",
-  "x_reads_left_today": "967 of 1000 (resets 2026-11-06T00:00Z)",
+  "last_publish": "Refresh X Live 2026-11-05T07:16:45Z",
+  "x_reads_left_today": "962 of 1000 (resets 2026-11-06T00:00Z)",
   "note": "update.py now follows a recent post's own t.co redirect (cached in data/tco_cache.json) when X returns it without link entities, so a fresh live-stream post is detected right away."
 }
