@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-05T22:36:31Z",
- "searched_at": "2026-11-05T22:36:23Z",
+ "built_at": "2026-11-05T22:52:55Z",
+ "searched_at": "2026-11-05T22:52:55Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -23,6 +23,16 @@
    "text": "America's Mayor Live (1054) Analyzing Vice President JD Vance's Response to Midterm Election Results https://t.co/MAbYHJukal",
    "started_at": "2026-11-05T22:00:42.000Z",
    "assumed_live_until": "2026-11-06T01:00:42Z"
+  },
+  {
+   "post_id": "2118450918924382367",
+   "post_url": "https://x.com/RSBNetwork/status/2118450918924382367",
+   "name": "RSBN 🇺🇸",
+   "username": "RSBNetwork",
+   "verified_type": "business",
+   "text": "LIVE: President Trump Participates in Signing Time - 11/05/26 https://t.co/CZA5giTMEp",
+   "started_at": "2026-11-05T21:10:32.000Z",
+   "assumed_live_until": "2026-11-06T00:10:32Z"
   },
   {
    "post_id": "2118448239296847876",
@@ -73,16 +83,6 @@
    "text": "Tune in now to The Michael Patrick Leahy Show - your AMERICA FIRST news talk!\n- Watch LIVE here on X \n- Listen on Spotify \n- Listen on WENO AM760 in Nashville \n- Read more at @TheTNStar https://t.co/FueaJClS9j",
    "started_at": "2026-11-05T20:04:45.000Z",
    "assumed_live_until": "2026-11-05T23:04:45Z"
-  },
-  {
-   "post_id": "2118448911220105243",
-   "post_url": "https://x.com/Dialogue_NRA/status/2118448911220105243",
-   "name": "Dialogue works",
-   "username": "Dialogue_NRA",
-   "verified_type": "blue",
-   "text": "Robbert Barnes: BREAKING: Marco Rubio Weighs Leaving Trump Administration After GOP Election Losses https://t.co/c20KBiGnLQ",
-   "started_at": "2026-11-05T21:02:33.000Z",
-   "assumed_live_until": "2026-11-06T00:02:33Z"
   }
  ]
 }
