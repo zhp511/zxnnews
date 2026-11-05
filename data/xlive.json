@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-05T17:27:09Z",
- "searched_at": "2026-11-05T17:27:09Z",
+ "built_at": "2026-11-05T17:43:42Z",
+ "searched_at": "2026-11-05T17:43:42Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,6 +25,16 @@
    "assumed_live_until": "2026-11-05T18:59:56Z"
   },
   {
+   "post_id": "2118388625113035061",
+   "post_url": "https://x.com/NIACouncil/status/2118388625113035061",
+   "name": "NIAC",
+   "username": "NIACouncil",
+   "verified_type": "blue",
+   "text": "LIVE: Trump, Congress & The Iran War After The Midterms https://t.co/7l3SybKyvR",
+   "started_at": "2026-11-05T17:03:00.000Z",
+   "assumed_live_until": "2026-11-05T20:03:00Z"
+  },
+  {
    "post_id": "2118374131250954353",
    "post_url": "https://x.com/TheCradleMedia/status/2118374131250954353",
    "name": "The Cradle",
@@ -43,16 +53,6 @@
    "text": "LIVE: First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/Dj2MD3swgT",
    "started_at": "2026-11-05T16:11:02.000Z",
    "assumed_live_until": "2026-11-05T19:11:02Z"
-  },
-  {
-   "post_id": "2118388625113035061",
-   "post_url": "https://x.com/NIACouncil/status/2118388625113035061",
-   "name": "NIAC",
-   "username": "NIACouncil",
-   "verified_type": "blue",
-   "text": "LIVE: Trump, Congress & The Iran War After The Midterms https://t.co/7l3SybKyvR",
-   "started_at": "2026-11-05T17:03:00.000Z",
-   "assumed_live_until": "2026-11-05T20:03:00Z"
   },
   {
    "post_id": "2118379747285590208",

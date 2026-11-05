@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T16:02:34Z",
+ "fetched_at": "2026-11-05T17:42:05Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,93 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-11-05T17:38:37.000Z",
+     "edit_history_tweet_ids": [
+      "2118397589443760361"
+     ],
+     "id": "2118397589443760361",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "Here’s my mission statement patriot one network we do it together as one team we never back down never surrender our freedom all right our constitutional rights and all else we are Americans as the end of the day I love you and that’s my mission statement #patriotoneNetwork",
+     "url": "https://x.com/i/status/2118397589443760361"
+    }
+   ],
+   "meta": {
+    "newest_id": "2118397589443760361",
+    "oldest_id": "2118397589443760361",
+    "result_count": 1
+   }
+  },
+  {
+   "data": [
+    {
+     "created_at": "2026-11-05T16:36:27.000Z",
+     "edit_history_tweet_ids": [
+      "2118381942257123814"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 29,
+        "id": "1520385351281348608",
+        "start": 13,
+        "username": "CHELLESHOCKEDTM"
+       }
+      ],
+      "urls": [
+       {
+        "description": "🇺🇸Chelle🇺🇸's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1POMJ…",
+        "end": 90,
+        "expanded_url": "https://x.com/i/spaces/1POMJeJozgmkRz",
+        "images": [
+         {
+          "height": 630,
+          "url": "https://pbs.twimg.com/news_img/2118369926331146240/WthMh9WZ?format=jpg&name=orig",
+          "width": 1200
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2118369926331146240/WthMh9WZ?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 67,
+        "status": 200,
+        "title": "Scheduled: ⚡️CHELLESHOCKED⚡️Pickax Social exclusive! @jeffdornick Q&A night! / X",
+        "unwound_url": "https://x.com/i/spaces/1POMJeJozgmkRz",
+        "url": "https://t.co/hV37XcG8Kl"
+       }
+      ]
+     },
+     "id": "2118381942257123814",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/hV37XcG8Kl",
+     "url": "https://x.com/i/status/2118381942257123814"
+    }
+   ],
+   "meta": {
+    "newest_id": "2118381942257123814",
+    "oldest_id": "2118381942257123814",
+    "result_count": 1
+   }
+  },
   {
    "data": [
     {

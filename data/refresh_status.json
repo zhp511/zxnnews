@@ -2,23 +2,23 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-05T17:08:00Z",
+  "updated_at": "2026-11-05T17:44:00Z",
   "last_x_check": {
-    "at": "2026-11-05T17:07:30Z",
-    "new_posts": 0,
+    "at": "2026-11-05T17:44:00Z",
+    "new_posts": 1,
     "published": true,
     "refreshed": [
-      "trending",
+      "posts",
+      "tv",
       "xlive"
     ],
     "skipped": {
       "following": "featured_accounts empty",
-      "tv": "age < 3h",
-      "posts": "no newer than 2118381942257123814"
+      "trending": "age < 60m"
     }
   },
-  "last_publish": "Trending (8 stories, 15 trends) + X Live (8 broadcasts)",
-  "x_reads_left_today": "779 of 1000 (resets 2026-11-06T00:00Z)",
+  "last_publish": "1 new @zxnbluehandus post (mission statement); TV refreshed (7/7 embeddable live); X Live 8 broadcasts (Melania WH summit / midterms)",
+  "x_reads_left_today": "773 of 1000 (resets 2026-11-06T00:00Z)",
   "note": "update.py now follows a recent post's own t.co redirect (cached in data/tco_cache.json) when X returns it without link entities, so a fresh live-stream post is detected right away.",
   "failure_streak": 0
 }
