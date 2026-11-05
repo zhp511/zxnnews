@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-05T19:26:04Z",
- "searched_at": "2026-11-05T19:26:01Z",
+ "built_at": "2026-11-05T19:42:55Z",
+ "searched_at": "2026-11-05T19:42:55Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-11-05T21:59:00Z"
   },
   {
-   "post_id": "2118402501196005571",
-   "post_url": "https://x.com/PoliticsPunj767/status/2118402501196005571",
-   "name": "Politics Punjab TV",
-   "username": "PoliticsPunj767",
-   "verified_type": "blue",
-   "text": "LIVE : 05-11-26 | CURRENT AFFAIRS with JAGJEET SINGH (NEW YORK) | POLITICS PUNJAB TV https://t.co/yVCYa38QwQ",
-   "started_at": "2026-11-05T17:58:08.000Z",
-   "assumed_live_until": "2026-11-05T20:58:08Z"
-  },
-  {
    "post_id": "2118418548439580843",
    "post_url": "https://x.com/WorldviewTube/status/2118418548439580843",
    "name": "WorldviewTube",
@@ -73,6 +63,16 @@
    "text": "BREAKING NEWS: Inside Source Reveals Trump Admin Throwing Christians & Patriots to the Islamic Dogs https://t.co/ZHpJeBSm6k",
    "started_at": "2026-11-05T19:01:54.000Z",
    "assumed_live_until": "2026-11-05T22:01:54Z"
+  },
+  {
+   "post_id": "2118402501196005571",
+   "post_url": "https://x.com/PoliticsPunj767/status/2118402501196005571",
+   "name": "Politics Punjab TV",
+   "username": "PoliticsPunj767",
+   "verified_type": "blue",
+   "text": "LIVE : 05-11-26 | CURRENT AFFAIRS with JAGJEET SINGH (NEW YORK) | POLITICS PUNJAB TV https://t.co/yVCYa38QwQ",
+   "started_at": "2026-11-05T17:58:08.000Z",
+   "assumed_live_until": "2026-11-05T20:58:08Z"
   },
   {
    "post_id": "2118418984164802710",
