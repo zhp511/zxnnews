@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T18:06:30Z",
+ "fetched_at": "2026-11-05T18:52:12Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-05T15:05:00Z",
+  "start_time": "2026-11-05T15:51:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -20,7 +20,7 @@
    "id": "2118377604839616804",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 44,
+    "impression_count": 48,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -30,22 +30,40 @@
    "url": "https://x.com/ORLEN_Group/status/2118377604839616804"
   },
   {
-   "author_id": "310988380",
-   "created_at": "2026-11-05T16:44:05.000Z",
+   "author_id": "454122399",
+   "created_at": "2026-11-05T18:44:37.000Z",
    "edit_history_tweet_ids": [
-    "2118383865010016417"
+    "2118414199038587378"
    ],
-   "id": "2118383865010016417",
+   "id": "2118414199038587378",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 1265,
-    "like_count": 27,
+    "bookmark_count": 0,
+    "impression_count": 871,
+    "like_count": 4,
+    "quote_count": 2,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "text": "Barry Odom Press Conference vs. Maryland | Purdue Football https://t.co/wFGW32OC9x",
+   "url": "https://x.com/BoilerBall/status/2118414199038587378"
+  },
+  {
+   "author_id": "454122399",
+   "created_at": "2026-11-05T18:49:06.000Z",
+   "edit_history_tweet_ids": [
+    "2118415325217567208"
+   ],
+   "id": "2118415325217567208",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 417,
+    "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 4
+    "retweet_count": 0
    },
-   "text": "\ud83d\udea8 BREAKING: WHITE HOUSE *BOMBSHELL* CLARITY ACT RETURNS!? \ud83d\udea8 XRP THIS CHANGES EVERYTHING! https://t.co/4equaBYDDh",
-   "url": "https://x.com/johnnykrypto00/status/2118383865010016417"
+   "text": "Matt Painter Press Conference | Purdue Men's Basketball https://t.co/Ld0vZgYO6n",
+   "url": "https://x.com/BoilerBall/status/2118415325217567208"
   },
   {
    "author_id": "1424088459627671555",
@@ -55,15 +73,33 @@
    ],
    "id": "2118383865593036868",
    "public_metrics": {
-    "bookmark_count": 13,
-    "impression_count": 7048,
-    "like_count": 187,
+    "bookmark_count": 16,
+    "impression_count": 9469,
+    "like_count": 241,
     "quote_count": 1,
-    "reply_count": 5,
-    "retweet_count": 18
+    "reply_count": 9,
+    "retweet_count": 23
    },
-   "text": "\ud83d\udea8 BREAKING: WHITE HOUSE *BOMBSHELL* CLARITY ACT RETURNS!? \ud83d\udea8 XRP THIS CHANGES EVERYTHING! https://t.co/uQhLJbUeCv",
+   "text": "🚨 BREAKING: WHITE HOUSE *BOMBSHELL* CLARITY ACT RETURNS!? 🚨 XRP THIS CHANGES EVERYTHING! https://t.co/uQhLJbUeCv",
    "url": "https://x.com/AbsGEC/status/2118383865593036868"
+  },
+  {
+   "author_id": "310988380",
+   "created_at": "2026-11-05T16:44:05.000Z",
+   "edit_history_tweet_ids": [
+    "2118383865010016417"
+   ],
+   "id": "2118383865010016417",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 1622,
+    "like_count": 31,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 4
+   },
+   "text": "🚨 BREAKING: WHITE HOUSE *BOMBSHELL* CLARITY ACT RETURNS!? 🚨 XRP THIS CHANGES EVERYTHING! https://t.co/4equaBYDDh",
+   "url": "https://x.com/johnnykrypto00/status/2118383865010016417"
   },
   {
    "author_id": "1652541",
@@ -74,10 +110,10 @@
    "id": "2118373844528324784",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 32557,
-    "like_count": 26,
+    "impression_count": 34238,
+    "like_count": 29,
     "quote_count": 2,
-    "reply_count": 5,
+    "reply_count": 7,
     "retweet_count": 5
    },
    "text": "Melania Trump welcomes Ukrainian, Russian officials to White House https://t.co/W481NO22L5",
@@ -92,10 +128,10 @@
    "id": "2118372755293045054",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 5974,
+    "impression_count": 6223,
     "like_count": 8,
     "quote_count": 0,
-    "reply_count": 9,
+    "reply_count": 11,
     "retweet_count": 2
    },
    "text": "Watch live: Melania Trump hosts Russian, Ukrainian officials at White House https://t.co/WZFoPBPnpo",
@@ -110,11 +146,11 @@
    "id": "2118375575119175949",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 33,
+    "impression_count": 37,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 1
    },
    "text": "First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/DzjUGgL5Ip",
    "url": "https://x.com/realjamesrossi/status/2118375575119175949"
@@ -127,12 +163,12 @@
    ],
    "id": "2118373685757202579",
    "public_metrics": {
-    "bookmark_count": 66,
-    "impression_count": 28138,
-    "like_count": 2079,
-    "quote_count": 35,
-    "reply_count": 160,
-    "retweet_count": 472
+    "bookmark_count": 69,
+    "impression_count": 30721,
+    "like_count": 2286,
+    "quote_count": 41,
+    "reply_count": 171,
+    "retweet_count": 516
    },
    "text": "First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/ZJkYdAeMvS",
    "url": "https://x.com/FLOTUS/status/2118373685757202579"
@@ -146,50 +182,14 @@
    "id": "2118375547696771322",
    "public_metrics": {
     "bookmark_count": 3,
-    "impression_count": 1608,
-    "like_count": 32,
+    "impression_count": 1703,
+    "like_count": 34,
     "quote_count": 1,
     "reply_count": 2,
     "retweet_count": 10
    },
    "text": "LIVE: First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/Dj2MD3swgT",
    "url": "https://x.com/MELANIAJTRUMP/status/2118375547696771322"
-  },
-  {
-   "author_id": "42548887",
-   "created_at": "2026-11-05T17:15:23.000Z",
-   "edit_history_tweet_ids": [
-    "2118391739249561888"
-   ],
-   "id": "2118391739249561888",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 31,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/Bdy94AG1Kf",
-   "url": "https://x.com/DiyaTV/status/2118391739249561888"
-  },
-  {
-   "author_id": "1900375238548086788",
-   "created_at": "2026-11-05T15:49:53.000Z",
-   "edit_history_tweet_ids": [
-    "2118370223673782493"
-   ],
-   "id": "2118370223673782493",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 399,
-    "like_count": 15,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 9
-   },
-   "text": "\ud83c\uddfa\ud83c\uddf8|\ud83c\uddf7\ud83c\uddfa|\ud83c\uddfa\ud83c\udde6 First Lady Melania Trump Leads Russia-Ukraine Peace Summit at the White House [LIVE] https://t.co/NPmjoWWa74",
-   "url": "https://x.com/magnonewslive/status/2118370223673782493"
   },
   {
    "author_id": "796431922939494408",
@@ -200,33 +200,14 @@
    "id": "2118371115370479795",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 2220,
-    "like_count": 78,
+    "impression_count": 2300,
+    "like_count": 79,
     "quote_count": 0,
     "reply_count": 3,
     "retweet_count": 15
    },
    "text": "LIVE: First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/nAAgD4c47Y",
    "url": "https://x.com/MELANIAJTRUMP/status/2118371115370479795"
-  },
-  {
-   "author_id": "2014417208160747520",
-   "created_at": "2026-11-05T16:21:01.000Z",
-   "edit_history_tweet_ids": [
-    "2118377571247132847",
-    "2118378059455930485"
-   ],
-   "id": "2118378059455930485",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 22,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "LIVE: Melania Trump brings Ukrainian and Russian representatives together at the White House.\n\nWatch on Twitter https://t.co/CQ4b7vgUF5",
-   "url": "https://x.com/OpinionReports/status/2118378059455930485"
   },
   {
    "author_id": "2014417208160747520",
@@ -248,40 +229,59 @@
    "url": "https://x.com/OpinionReports/status/2118377571247132847"
   },
   {
-   "author_id": "1567975718734204932",
-   "created_at": "2026-11-05T15:05:49.000Z",
+   "author_id": "42548887",
+   "created_at": "2026-11-05T17:15:23.000Z",
    "edit_history_tweet_ids": [
-    "2118359132826677576"
+    "2118391739249561888"
    ],
-   "id": "2118359132826677576",
+   "id": "2118391739249561888",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 217,
-    "like_count": 4,
+    "impression_count": 44,
+    "like_count": 0,
     "quote_count": 0,
-    "reply_count": 2,
+    "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "MIDTERM FALLOUT: DESANTIS EYES WHITE HOUSE, DEMS EYE IMPEACHMENT https://t.co/6gLknautYS",
-   "url": "https://x.com/ChrisHandOnAir/status/2118359132826677576"
+   "text": "First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/Bdy94AG1Kf",
+   "url": "https://x.com/DiyaTV/status/2118391739249561888"
   },
   {
-   "author_id": "262747745",
-   "created_at": "2026-11-05T15:05:48.000Z",
+   "author_id": "2014417208160747520",
+   "created_at": "2026-11-05T16:21:01.000Z",
    "edit_history_tweet_ids": [
-    "2118359131845247061"
+    "2118377571247132847",
+    "2118378059455930485"
    ],
-   "id": "2118359131845247061",
+   "id": "2118378059455930485",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 178,
-    "like_count": 4,
+    "impression_count": 22,
+    "like_count": 0,
     "quote_count": 0,
-    "reply_count": 1,
+    "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "MIDTERM FALLOUT: DESANTIS EYES WHITE HOUSE, DEMS EYE IMPEACHMENT https://t.co/i1BazlOByb",
-   "url": "https://x.com/997wtn/status/2118359131845247061"
+   "text": "LIVE: Melania Trump brings Ukrainian and Russian representatives together at the White House.\n\nWatch on Twitter https://t.co/CQ4b7vgUF5",
+   "url": "https://x.com/OpinionReports/status/2118378059455930485"
+  },
+  {
+   "author_id": "1577262165865558017",
+   "created_at": "2026-11-05T18:51:16.000Z",
+   "edit_history_tweet_ids": [
+    "2118415869122609532"
+   ],
+   "id": "2118415869122609532",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "U.S. First Lady Melania Trump hosted  Ukrainian and Russian representatives at the White House to recognize a localized ceasefire in the Russian-occupied Ukrainian town of Oleshky. \nThe meeting focused on humanitarian assistance and civilian evacuations.\n\nhttps://t.co/HeltMxjG2d",
+   "url": "https://x.com/anlirdee/status/2118415869122609532"
   },
   {
    "author_id": "1416457545598767108",
@@ -292,11 +292,11 @@
    "id": "2118374131250954353",
    "public_metrics": {
     "bookmark_count": 4,
-    "impression_count": 2238,
-    "like_count": 18,
+    "impression_count": 2397,
+    "like_count": 21,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 10
+    "retweet_count": 12
    },
    "text": "White House Falls Apart Following Crushing Midterms Defeat | Ep. 279 https://t.co/rO1Mj8QeCT",
    "url": "https://x.com/TheCradleMedia/status/2118374131250954353"
@@ -310,13 +310,13 @@
    "id": "2118385625392890131",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 346,
+    "impression_count": 412,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Breaking news: Crisis in Paraguay. Santiago Pe\u00f1an resigns as President amid corruption scandal https://t.co/1NvcTWRC3o",
+   "text": "Breaking news: Crisis in Paraguay. Santiago Peñan resigns as President amid corruption scandal https://t.co/1NvcTWRC3o",
    "url": "https://x.com/telesurenglish/status/2118385625392890131"
   },
   {
@@ -328,13 +328,13 @@
    "id": "2118387732699292036",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1393,
-    "like_count": 1,
+    "impression_count": 1565,
+    "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 1
    },
-   "text": "\ud83d\udea8 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 05-11-26 | #CitiNewsroom https://t.co/I4B0R3iT3Z",
+   "text": "🚨 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 05-11-26 | #CitiNewsroom https://t.co/I4B0R3iT3Z",
    "url": "https://x.com/Citi973/status/2118387732699292036"
   },
   {
@@ -347,11 +347,11 @@
    "id": "2118388625113035061",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2756,
-    "like_count": 7,
+    "impression_count": 3498,
+    "like_count": 8,
     "quote_count": 3,
     "reply_count": 0,
-    "retweet_count": 6
+    "retweet_count": 7
    },
    "text": "LIVE: Trump, Congress &amp; The Iran War After The Midterms https://t.co/7l3SybKyvR",
    "url": "https://x.com/NIACouncil/status/2118388625113035061"
@@ -365,13 +365,13 @@
    "id": "2118379747285590208",
    "public_metrics": {
     "bookmark_count": 3,
-    "impression_count": 962,
-    "like_count": 9,
+    "impression_count": 1097,
+    "like_count": 11,
     "quote_count": 0,
-    "reply_count": 2,
+    "reply_count": 3,
     "retweet_count": 3
    },
-   "text": "Trump Just LOST Congress: History Says Here\u2019s What Comes NEXT!!! https://t.co/ZoF3GgEbfT",
+   "text": "Trump Just LOST Congress: History Says Here’s What Comes NEXT!!! https://t.co/ZoF3GgEbfT",
    "url": "https://x.com/DrTurleyTalks/status/2118379747285590208"
   },
   {
@@ -384,7 +384,7 @@
    "id": "2118388331574698206",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 28,
+    "impression_count": 30,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -392,24 +392,6 @@
    },
    "text": "Live November Trump, Congress &amp; The Iran War After The Midterms https://t.co/7l3SybKyvR",
    "url": "https://x.com/NIACouncil/status/2118388331574698206"
-  },
-  {
-   "author_id": "1994892547098120192",
-   "created_at": "2026-11-05T16:06:10.000Z",
-   "edit_history_tweet_ids": [
-    "2118374321886462356"
-   ],
-   "id": "2118374321886462356",
-   "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 327,
-    "like_count": 12,
-    "quote_count": 1,
-    "reply_count": 1,
-    "retweet_count": 4
-   },
-   "text": "Globalists cant stop Trump, no matter what the Congress looks like! Join us LIVE!\n\nhttps://t.co/ZtjGB1N6e7",
-   "url": "https://x.com/adamsturman23/status/2118374321886462356"
   },
   {
    "author_id": "218013607",
@@ -421,14 +403,32 @@
    "in_reply_to_user_id": "1879650942410481666",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 15,
+    "impression_count": 16,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1
+    "retweet_count": 0
    },
-   "text": "@POTUS @realDonaldTrump @PrometheanActn @Promethean_PAC_ @sjkokinda @BarbaraMBoyd @adamsturman23 \n\ud83d\udd34\ud83d\udcf1 Trump Still Has the Empire Cornered, Whatever Congress Looks Like \ud83d\udcf1\nhttps://t.co/uT5GGSBMpm",
+   "text": "@POTUS @realDonaldTrump @PrometheanActn @Promethean_PAC_ @sjkokinda @BarbaraMBoyd @adamsturman23 \n🔴📱 Trump Still Has the Empire Cornered, Whatever Congress Looks Like 📱\nhttps://t.co/uT5GGSBMpm",
    "url": "https://x.com/pamelageclifton/status/2118378809825042597"
+  },
+  {
+   "author_id": "1994892547098120192",
+   "created_at": "2026-11-05T16:06:10.000Z",
+   "edit_history_tweet_ids": [
+    "2118374321886462356"
+   ],
+   "id": "2118374321886462356",
+   "public_metrics": {
+    "bookmark_count": 3,
+    "impression_count": 363,
+    "like_count": 15,
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 5
+   },
+   "text": "Globalists cant stop Trump, no matter what the Congress looks like! Join us LIVE!\n\nhttps://t.co/ZtjGB1N6e7",
+   "url": "https://x.com/adamsturman23/status/2118374321886462356"
   },
   {
    "author_id": "431742890",
@@ -439,32 +439,32 @@
    "id": "2118385997847167221",
    "public_metrics": {
     "bookmark_count": 5,
-    "impression_count": 1004,
-    "like_count": 16,
+    "impression_count": 1218,
+    "like_count": 18,
     "quote_count": 0,
-    "reply_count": 3,
+    "reply_count": 4,
     "retweet_count": 2
    },
-   "text": "Trump Just LOST Congress: History Says Here\u2019s What Comes NEXT!!! https://t.co/0sklBAJyDx",
+   "text": "Trump Just LOST Congress: History Says Here’s What Comes NEXT!!! https://t.co/0sklBAJyDx",
    "url": "https://x.com/DrTurleyTalks/status/2118385997847167221"
   },
   {
-   "author_id": "4351005192",
-   "created_at": "2026-11-05T15:35:40.000Z",
+   "author_id": "19897138",
+   "created_at": "2026-11-05T16:25:57.000Z",
    "edit_history_tweet_ids": [
-    "2118366646830047300"
+    "2118379301192212531"
    ],
-   "id": "2118366646830047300",
+   "id": "2118379301192212531",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 756,
-    "like_count": 18,
+    "bookmark_count": 0,
+    "impression_count": 2996,
+    "like_count": 1,
     "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 1
+    "reply_count": 0,
+    "retweet_count": 0
    },
-   "text": "Did Vance Betray Trump? - Drinkin' Bros Fake News 557 https://t.co/hyHshMTo9s",
-   "url": "https://x.com/Drinkin_Bros/status/2118366646830047300"
+   "text": "#Live: Iran war political boomerang for Trump. Catch all about US mid-term election results and other top stories with @maryashakil on #NewsTrack #ITLivestream https://t.co/G145P9W2Qs",
+   "url": "https://x.com/IndiaToday/status/2118379301192212531"
   }
  ],
  "users": [
@@ -484,6 +484,36 @@
    "verified_type": "blue"
   },
   {
+   "id": "454122399",
+   "name": "Purdue Men's Basketball",
+   "public_metrics": {
+    "followers_count": 168463,
+    "following_count": 204,
+    "like_count": 2426,
+    "listed_count": 909,
+    "media_count": 17604,
+    "tweet_count": 45234
+   },
+   "username": "BoilerBall",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1424088459627671555",
+   "name": "Good Evening Crypto",
+   "public_metrics": {
+    "followers_count": 74595,
+    "following_count": 488,
+    "like_count": 22900,
+    "listed_count": 281,
+    "media_count": 5975,
+    "tweet_count": 21795
+   },
+   "username": "AbsGEC",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "310988380",
    "name": "Johnny Krypto (Good Evening Crypto Co-Host)",
    "public_metrics": {
@@ -499,30 +529,15 @@
    "verified_type": "blue"
   },
   {
-   "id": "1424088459627671555",
-   "name": "Good Evening Crypto",
-   "public_metrics": {
-    "followers_count": 74591,
-    "following_count": 488,
-    "like_count": 22899,
-    "listed_count": 281,
-    "media_count": 5975,
-    "tweet_count": 21794
-   },
-   "username": "AbsGEC",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1652541",
    "name": "Reuters",
    "public_metrics": {
-    "followers_count": 26448377,
+    "followers_count": 26448446,
     "following_count": 1197,
     "like_count": 669,
-    "listed_count": 138115,
-    "media_count": 1016457,
-    "tweet_count": 1407345
+    "listed_count": 138122,
+    "media_count": 1016459,
+    "tweet_count": 1407354
    },
    "username": "Reuters",
    "verified": true,
@@ -532,12 +547,12 @@
    "id": "1917731",
    "name": "The Hill",
    "public_metrics": {
-    "followers_count": 4193736,
+    "followers_count": 4193750,
     "following_count": 353,
     "like_count": 263,
     "listed_count": 28328,
-    "media_count": 1041410,
-    "tweet_count": 1253227
+    "media_count": 1041411,
+    "tweet_count": 1253232
    },
    "username": "thehill",
    "verified": true,
@@ -545,14 +560,14 @@
   },
   {
    "id": "61011257",
-   "name": "James Rossi \ud83c\uddfa\ud83c\uddf8",
+   "name": "James Rossi 🇺🇸",
    "public_metrics": {
     "followers_count": 5754,
     "following_count": 7278,
-    "like_count": 224251,
+    "like_count": 224256,
     "listed_count": 11,
     "media_count": 9066,
-    "tweet_count": 295540
+    "tweet_count": 295552
    },
    "username": "realjamesrossi",
    "verified": true,
@@ -562,7 +577,7 @@
    "id": "1879651867288018944",
    "name": "First Lady Melania Trump",
    "public_metrics": {
-    "followers_count": 777331,
+    "followers_count": 777330,
     "following_count": 43,
     "like_count": 9,
     "listed_count": 1492,
@@ -577,14 +592,29 @@
    "id": "796431922939494408",
    "name": "FLOTUS Report",
    "public_metrics": {
-    "followers_count": 198106,
+    "followers_count": 198105,
     "following_count": 632,
-    "like_count": 34530,
+    "like_count": 34532,
     "listed_count": 293,
-    "media_count": 5797,
-    "tweet_count": 16132
+    "media_count": 5798,
+    "tweet_count": 16134
    },
    "username": "MELANIAJTRUMP",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2014417208160747520",
+   "name": "Opinion_Reports",
+   "public_metrics": {
+    "followers_count": 244,
+    "following_count": 47,
+    "like_count": 168,
+    "listed_count": 2,
+    "media_count": 3036,
+    "tweet_count": 4893
+   },
+   "username": "OpinionReports",
    "verified": true,
    "verified_type": "blue"
   },
@@ -604,64 +634,19 @@
    "verified_type": "blue"
   },
   {
-   "id": "1900375238548086788",
-   "name": "MAGNO NEWS LIVE",
+   "id": "1577262165865558017",
+   "name": "Diana S. 🇺🇦🇺🇸",
    "public_metrics": {
-    "followers_count": 2422,
-    "following_count": 277,
-    "like_count": 28,
-    "listed_count": 16,
-    "media_count": 46,
-    "tweet_count": 2199
-   },
-   "username": "magnonewslive",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2014417208160747520",
-   "name": "Opinion_Reports",
-   "public_metrics": {
-    "followers_count": 244,
-    "following_count": 46,
-    "like_count": 168,
+    "followers_count": 101,
+    "following_count": 25,
+    "like_count": 779,
     "listed_count": 2,
-    "media_count": 3035,
-    "tweet_count": 4892
+    "media_count": 143,
+    "tweet_count": 1139
    },
-   "username": "OpinionReports",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1567975718734204932",
-   "name": "Chris Hand",
-   "public_metrics": {
-    "followers_count": 6153,
-    "following_count": 4744,
-    "like_count": 9189,
-    "listed_count": 19,
-    "media_count": 703,
-    "tweet_count": 5629
-   },
-   "username": "ChrisHandOnAir",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "262747745",
-   "name": "SuperTalk 99.7 WTN",
-   "public_metrics": {
-    "followers_count": 10185,
-    "following_count": 625,
-    "like_count": 7393,
-    "listed_count": 47,
-    "media_count": 2725,
-    "tweet_count": 24004
-   },
-   "username": "997wtn",
-   "verified": true,
-   "verified_type": "blue"
+   "username": "anlirdee",
+   "verified": false,
+   "verified_type": "none"
   },
   {
    "id": "1416457545598767108",
@@ -682,12 +667,12 @@
    "id": "296005306",
    "name": "teleSUR English",
    "public_metrics": {
-    "followers_count": 111664,
+    "followers_count": 111667,
     "following_count": 3774,
     "like_count": 4323,
     "listed_count": 1929,
-    "media_count": 107860,
-    "tweet_count": 221901
+    "media_count": 107865,
+    "tweet_count": 221906
    },
    "username": "telesurenglish",
    "verified": true,
@@ -697,12 +682,12 @@
    "id": "104872280",
    "name": "CITI FM 97.3",
    "public_metrics": {
-    "followers_count": 1733336,
+    "followers_count": 1733337,
     "following_count": 527,
     "like_count": 2835,
     "listed_count": 717,
     "media_count": 178343,
-    "tweet_count": 574866
+    "tweet_count": 574869
    },
    "username": "Citi973",
    "verified": true,
@@ -712,7 +697,7 @@
    "id": "56806379",
    "name": "NIAC",
    "public_metrics": {
-    "followers_count": 25179,
+    "followers_count": 25182,
     "following_count": 2167,
     "like_count": 20436,
     "listed_count": 572,
@@ -727,7 +712,7 @@
    "id": "431742890",
    "name": "Dr. Steve Turley",
    "public_metrics": {
-    "followers_count": 86501,
+    "followers_count": 86500,
     "following_count": 1028,
     "like_count": 20144,
     "listed_count": 374,
@@ -739,25 +724,10 @@
    "verified_type": "blue"
   },
   {
-   "id": "1994892547098120192",
-   "name": "Adam Sturman",
-   "public_metrics": {
-    "followers_count": 4649,
-    "following_count": 189,
-    "like_count": 3170,
-    "listed_count": 17,
-    "media_count": 97,
-    "tweet_count": 870
-   },
-   "username": "adamsturman23",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "218013607",
    "name": "Pamela Gwynell Edwards Clifton",
    "public_metrics": {
-    "followers_count": 3948,
+    "followers_count": 3949,
     "following_count": 4590,
     "like_count": 52655,
     "listed_count": 11,
@@ -769,17 +739,32 @@
    "verified_type": "blue"
   },
   {
-   "id": "4351005192",
-   "name": "Drinkin'Bros Podcast",
+   "id": "1994892547098120192",
+   "name": "Adam Sturman",
    "public_metrics": {
-    "followers_count": 37130,
-    "following_count": 294,
-    "like_count": 15324,
-    "listed_count": 57,
-    "media_count": 2549,
-    "tweet_count": 7150
+    "followers_count": 4649,
+    "following_count": 189,
+    "like_count": 3171,
+    "listed_count": 17,
+    "media_count": 97,
+    "tweet_count": 871
    },
-   "username": "Drinkin_Bros",
+   "username": "adamsturman23",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "19897138",
+   "name": "IndiaToday",
+   "public_metrics": {
+    "followers_count": 6277182,
+    "following_count": 83,
+    "like_count": 4431,
+    "listed_count": 7342,
+    "media_count": 583692,
+    "tweet_count": 1545077
+   },
+   "username": "IndiaToday",
    "verified": true,
    "verified_type": "blue"
   }
