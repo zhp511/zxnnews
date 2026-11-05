@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-05T08:25:42Z",
+ "checked_at": "2026-11-05T11:29:44Z",
  "channels": [
   {
    "key": "foxweather",
@@ -20,8 +20,8 @@
    "handle": "LiveNOWFOX",
    "watch_url": "https://www.youtube.com/@LiveNOWFOX/live",
    "video_id": "Sh0tzShb-ac",
-   "ok": true,
-   "title": "LIVE: Midterms 2026 results, Capitol Hill power shift, Trump reacts, &amp; more"
+   "ok": false,
+   "why": "check failed: HTTP Error 429: Too Many Requests"
   },
   {
    "key": "cbs",
@@ -41,9 +41,9 @@
    "channel_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
    "handle": "ABCNews",
    "watch_url": "https://www.youtube.com/@ABCNews/live",
-   "video_id": "KQhNZQ_Uag8",
+   "video_id": "JdXcXB1dVNs",
    "ok": true,
-   "title": "LIVE: ABC News Live - 24/7 news, context and analysis"
+   "title": "LIVE: ABC News Live - Thursday, November 5"
   },
   {
    "key": "nbc",
@@ -52,9 +52,9 @@
    "channel_id": "UCeY0bbntWzzVIaj2z3QigXg",
    "handle": "NBCNews",
    "watch_url": "https://www.youtube.com/@NBCNews/live",
-   "video_id": "I0wBL9pgX3c",
+   "video_id": "dD1jAjrBedI",
    "ok": true,
-   "title": "LIVE: NBC News NOW"
+   "title": "LIVE: NBC News NOW - Nov. 5"
   },
   {
    "key": "bloomberg",
@@ -74,9 +74,9 @@
    "channel_id": "UCoMdktPbSTixAyNGwb-UYkQ",
    "handle": "SkyNews",
    "watch_url": "https://www.youtube.com/@SkyNews/live",
-   "video_id": "t0IrercCg6M",
+   "video_id": "vgYfBxyxIr0",
    "ok": true,
-   "title": "Hegseth&#39;s future in question - as Vance distances himself from Iran war | Mornings"
+   "title": "Mark Rowley and Sadiq Khan face questions at London Assembly"
   },
   {
    "key": "directv",
