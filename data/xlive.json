@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-05T18:06:36Z",
- "searched_at": "2026-11-05T18:06:30Z",
+ "built_at": "2026-11-05T18:35:56Z",
+ "searched_at": "2026-11-05T18:35:56Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -13,6 +13,16 @@
    "text": "Melania Trump welcomes Ukrainian, Russian officials to White House https://t.co/W481NO22L5",
    "started_at": "2026-11-05T16:04:16.000Z",
    "assumed_live_until": "2026-11-05T19:04:16Z"
+  },
+  {
+   "post_id": "2118402714971349148",
+   "post_url": "https://x.com/channelstv/status/2118402714971349148",
+   "name": "Channels Television",
+   "username": "channelstv",
+   "verified_type": "blue",
+   "text": "Politics Today https://t.co/aUwIpoJcM6",
+   "started_at": "2026-11-05T17:58:59.000Z",
+   "assumed_live_until": "2026-11-05T20:58:59Z"
   },
   {
    "post_id": "2118372755293045054",
@@ -33,6 +43,16 @@
    "text": "LIVE: Trump, Congress & The Iran War After The Midterms https://t.co/7l3SybKyvR",
    "started_at": "2026-11-05T17:03:00.000Z",
    "assumed_live_until": "2026-11-05T20:03:00Z"
+  },
+  {
+   "post_id": "2118379301192212531",
+   "post_url": "https://x.com/IndiaToday/status/2118379301192212531",
+   "name": "IndiaToday",
+   "username": "IndiaToday",
+   "verified_type": "blue",
+   "text": "#Live: Iran war political boomerang for Trump. Catch all about US mid-term election results and other top stories with @maryashakil on #NewsTrack #ITLivestream https://t.co/G145P9W2Qs",
+   "started_at": "2026-11-05T16:25:57.000Z",
+   "assumed_live_until": "2026-11-05T19:25:57Z"
   },
   {
    "post_id": "2118374131250954353",
@@ -63,26 +83,6 @@
    "text": "Trump Just LOST Congress: History Says Here’s What Comes NEXT!!! https://t.co/0sklBAJyDx",
    "started_at": "2026-11-05T16:52:34.000Z",
    "assumed_live_until": "2026-11-05T19:52:34Z"
-  },
-  {
-   "post_id": "2118366646830047300",
-   "post_url": "https://x.com/Drinkin_Bros/status/2118366646830047300",
-   "name": "Drinkin'Bros Podcast",
-   "username": "Drinkin_Bros",
-   "verified_type": "blue",
-   "text": "Did Vance Betray Trump? - Drinkin' Bros Fake News 557 https://t.co/hyHshMTo9s",
-   "started_at": "2026-11-05T15:35:40.000Z",
-   "assumed_live_until": "2026-11-05T18:35:40Z"
-  },
-  {
-   "post_id": "2118370223673782493",
-   "post_url": "https://x.com/magnonewslive/status/2118370223673782493",
-   "name": "MAGNO NEWS LIVE",
-   "username": "magnonewslive",
-   "verified_type": "blue",
-   "text": "🇺🇸|🇷🇺|🇺🇦 First Lady Melania Trump Leads Russia-Ukraine Peace Summit at the White House [LIVE] https://t.co/NPmjoWWa74",
-   "started_at": "2026-11-05T15:49:53.000Z",
-   "assumed_live_until": "2026-11-05T18:49:53Z"
   }
  ]
 }
