@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T05:25:01Z",
+ "fetched_at": "2026-11-05T05:46:39Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-05T02:25:00Z",
+  "start_time": "2026-11-05T02:45:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -12,15 +12,75 @@
  },
  "data": [
   {
+   "author_id": "2984417534",
+   "created_at": "2026-11-05T05:26:36.000Z",
+   "edit_history_tweet_ids": [
+    "2118213368008118280"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "press conference",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 40,
+      "expanded_url": "https://x.com/i/broadcasts/2pekPLrgOMqQVo",
+      "start": 17,
+      "status": 200,
+      "title": "BJP West Bengal",
+      "unwound_url": "https://x.com/i/broadcasts/2pekPLrgOMqQVo",
+      "url": "https://t.co/ILBJ5Ytkzo"
+     }
+    ]
+   },
+   "id": "2118213368008118280",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1140,
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 4
+   },
+   "text": "press conference https://t.co/ILBJ5Ytkzo",
+   "url": "https://x.com/BJP4Bengal/status/2118213368008118280"
+  },
+  {
    "author_id": "355989081",
    "created_at": "2026-11-05T03:48:04.000Z",
    "edit_history_tweet_ids": [
     "2118188570917679488"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: Delhi Minister Manjinder Singh Sirsa holds Press Conference I Stubble Burning I Bhagwant Mann",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 123,
+      "expanded_url": "https://x.com/i/broadcasts/2QnlVeMeqZBdQz",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118188613624041472/nrBSQJG0?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118188613624041472/nrBSQJG0?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 100,
+      "status": 200,
+      "title": "ANI",
+      "unwound_url": "https://x.com/i/broadcasts/2QnlVeMeqZBdQz",
+      "url": "https://t.co/Pck4S0sDhI"
+     }
+    ]
+   },
    "id": "2118188570917679488",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 16330,
+    "impression_count": 16725,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -35,10 +95,37 @@
    "edit_history_tweet_ids": [
     "2118200598063366444"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "U.S. President Donald Trump speaks at White House ballroom construction site after midterm setback",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 122,
+      "expanded_url": "https://x.com/i/broadcasts/2rJqrllqWjOMlQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118200640799121408/rirHy9vL?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118200640799121408/rirHy9vL?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 99,
+      "status": 200,
+      "title": "The Hindu",
+      "unwound_url": "https://x.com/i/broadcasts/2rJqrllqWjOMlQ",
+      "url": "https://t.co/f36dH6F8ZG"
+     }
+    ]
+   },
    "id": "2118200598063366444",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 5898,
+    "impression_count": 6062,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -53,10 +140,37 @@
    "edit_history_tweet_ids": [
     "2118174471576044004"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "MAGA vs AMERICA FIRST Debate with Kewlv1c",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 65,
+      "expanded_url": "https://x.com/i/broadcasts/2aWLKBqNyaaNvN",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118174514072748032/2oIfjpmR?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118174514072748032/2oIfjpmR?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 42,
+      "status": 200,
+      "title": "America Unfiltered Show with James P",
+      "unwound_url": "https://x.com/i/broadcasts/2aWLKBqNyaaNvN",
+      "url": "https://t.co/GBrhQD1azh"
+     }
+    ]
+   },
    "id": "2118174471576044004",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 57,
+    "impression_count": 60,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -71,6 +185,33 @@
    "edit_history_tweet_ids": [
     "2118188010709606699"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "JMD NEWS LIVE | UP News | Breaking News | CM Yogi | Akhilesh Yadav | Uttar Pradesh",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 106,
+      "expanded_url": "https://x.com/i/broadcasts/2OdXvVNpovJzkv",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118188053453803520/dqcRB0V3?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118188053453803520/dqcRB0V3?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 83,
+      "status": 200,
+      "title": "JMD NEWS",
+      "unwound_url": "https://x.com/i/broadcasts/2OdXvVNpovJzkv",
+      "url": "https://t.co/wdnqLs57Yt"
+     }
+    ]
+   },
    "id": "2118188010709606699",
    "public_metrics": {
     "bookmark_count": 0,
@@ -89,10 +230,37 @@
    "edit_history_tweet_ids": [
     "2118189367185346914"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "BREAKING NEWS THE SAME CORPORATIONS WON THE MIDTERMS",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 76,
+      "expanded_url": "https://x.com/i/broadcasts/2VNEolLLYJBleO",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118189409715572736/UoSdtmDv?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118189409715572736/UoSdtmDv?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 53,
+      "status": 200,
+      "title": "Shiney D",
+      "unwound_url": "https://x.com/i/broadcasts/2VNEolLLYJBleO",
+      "url": "https://t.co/1kq3qDFYKm"
+     }
+    ]
+   },
    "id": "2118189367185346914",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 311,
+    "impression_count": 334,
     "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
@@ -107,6 +275,33 @@
    "edit_history_tweet_ids": [
     "2118190362392940688"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "GTA Terminal LIVE 24/7: markets, options flow, dark pools and breaking news",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 99,
+      "expanded_url": "https://x.com/i/broadcasts/2vylnYgQYQNPoW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118190404893904896/U2uWCYjB?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118190404893904896/U2uWCYjB?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 76,
+      "status": 200,
+      "title": "Global Traders Academy",
+      "unwound_url": "https://x.com/i/broadcasts/2vylnYgQYQNPoW",
+      "url": "https://t.co/yDYbuQRadv"
+     }
+    ]
+   },
    "id": "2118190362392940688",
    "public_metrics": {
     "bookmark_count": 0,
@@ -125,12 +320,39 @@
    "edit_history_tweet_ids": [
     "2118173285641044456"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "America Rising News",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 43,
+      "expanded_url": "https://x.com/i/broadcasts/2ZBXoeRMqbogAQ",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2118069321276825600/qCgikUQQ?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118069321276825600/qCgikUQQ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 20,
+      "status": 200,
+      "title": "America Rising Media",
+      "unwound_url": "https://x.com/i/broadcasts/2ZBXoeRMqbogAQ",
+      "url": "https://t.co/DGOmQdXUyF"
+     }
+    ]
+   },
    "id": "2118173285641044456",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 344,
-    "like_count": 11,
-    "quote_count": 1,
+    "impression_count": 349,
+    "like_count": 12,
+    "quote_count": 2,
     "reply_count": 0,
     "retweet_count": 7
    },
@@ -143,10 +365,37 @@
    "edit_history_tweet_ids": [
     "2118212221977153864"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "The Election is Over (kind of) and the Alaska Senate Has Organized",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 90,
+      "expanded_url": "https://x.com/i/broadcasts/2LPXJnjEmaABVJ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118212264515813376/ADERCxah?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118212264515813376/ADERCxah?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 67,
+      "status": 200,
+      "title": "The Alaska Landmine",
+      "unwound_url": "https://x.com/i/broadcasts/2LPXJnjEmaABVJ",
+      "url": "https://t.co/9Zjouv1niT"
+     }
+    ]
+   },
    "id": "2118212221977153864",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 96,
+    "impression_count": 445,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -161,10 +410,37 @@
    "edit_history_tweet_ids": [
     "2118176106121449979"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Sleepy Joe can be a president - America is a mirale place",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 81,
+      "expanded_url": "https://x.com/i/broadcasts/2evWYVbPOBlkge",
+      "images": [
+       {
+        "height": 1440,
+        "url": "https://pbs.twimg.com/news_img/2118176150333595648/-yYwDm0m?format=jpg&name=orig",
+        "width": 2560
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118176150333595648/-yYwDm0m?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 58,
+      "status": 200,
+      "title": "IRP_HongKong",
+      "unwound_url": "https://x.com/i/broadcasts/2evWYVbPOBlkge",
+      "url": "https://t.co/UMMHuYUgoW"
+     }
+    ]
+   },
    "id": "2118176106121449979",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 74,
+    "impression_count": 77,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -179,6 +455,33 @@
    "edit_history_tweet_ids": [
     "2118176369331073329"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "President Trump Delivers Remarks, Nov. 4, 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 71,
+      "expanded_url": "https://x.com/i/broadcasts/2onAeamgjgrlqK",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118036777843703808/3P89kvOS?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118036777843703808/3P89kvOS?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 48,
+      "status": 200,
+      "title": "The White House",
+      "unwound_url": "https://x.com/i/broadcasts/2onAeamgjgrlqK",
+      "url": "https://t.co/uaFwdFkxrz"
+     }
+    ]
+   },
    "id": "2118176369331073329",
    "public_metrics": {
     "bookmark_count": 0,
@@ -192,33 +495,30 @@
    "url": "https://x.com/Rameshketweet7/status/2118176369331073329"
   },
   {
-   "author_id": "292475065",
-   "created_at": "2026-11-05T02:30:11.000Z",
-   "edit_history_tweet_ids": [
-    "2118168975045439945"
-   ],
-   "id": "2118168975045439945",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 1026,
-    "like_count": 8,
-    "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 0
-   },
-   "text": "Blue Tsunami CRUSHES Trump In America https://t.co/D8rml6hutb",
-   "url": "https://x.com/kushal_mehra/status/2118168975045439945"
-  },
-  {
    "author_id": "1832972046785228801",
    "created_at": "2026-11-05T03:44:54.000Z",
    "edit_history_tweet_ids": [
     "2118187774431924526"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: Reaction to Midterm Elections + Debate",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 68,
+      "expanded_url": "https://x.com/i/broadcasts/2dKLVOklPWEvlY",
+      "start": 45,
+      "status": 200,
+      "title": "Rep America",
+      "unwound_url": "https://x.com/i/broadcasts/2dKLVOklPWEvlY",
+      "url": "https://t.co/6MX65klfEK"
+     }
+    ]
+   },
    "id": "2118187774431924526",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 24,
+    "impression_count": 26,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -233,11 +533,38 @@
    "edit_history_tweet_ids": [
     "2118200897595441344"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "UMINGLE DEBATES LIVE: Israel, Politics, Religion & Anything Goes | Come Challenge Me!",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 113,
+      "expanded_url": "https://x.com/i/broadcasts/2nQByklQEaZWAE",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118200940066992128/SDDotcIw?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118200940066992128/SDDotcIw?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "Nick Matau",
+      "unwound_url": "https://x.com/i/broadcasts/2nQByklQEaZWAE",
+      "url": "https://t.co/NH3gOV9IRx"
+     }
+    ]
+   },
    "id": "2118200897595441344",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 541,
-    "like_count": 17,
+    "impression_count": 681,
+    "like_count": 19,
     "quote_count": 1,
     "reply_count": 1,
     "retweet_count": 2
@@ -246,22 +573,49 @@
    "url": "https://x.com/nick_matau/status/2118200897595441344"
   },
   {
-   "author_id": "1801539974711365632",
-   "created_at": "2026-11-05T02:27:16.000Z",
+   "author_id": "1658531735448035333",
+   "created_at": "2026-11-05T05:24:41.000Z",
    "edit_history_tweet_ids": [
-    "2118168238680871062"
+    "2118212887466389919"
    ],
-   "id": "2118168238680871062",
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE NOW | LungÕ 2026 – Virtual Global Congress on Lung Oncology",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 274,
+      "expanded_url": "https://x.com/i/broadcasts/2vylnealjvlmPr",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118212930340634625/8_FZ6uT2?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118212930340634625/8_FZ6uT2?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 251,
+      "status": 200,
+      "title": "OncoDaily",
+      "unwound_url": "https://x.com/i/broadcasts/2vylnealjvlmPr",
+      "url": "https://t.co/yw1onXJlw1"
+     }
+    ]
+   },
+   "id": "2118212887466389919",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 4,
+    "impression_count": 43,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Proclaiming the Good News https://t.co/VDfjPBibb1",
-   "url": "https://x.com/Apostle_M_Wise/status/2118168238680871062"
+   "text": "LIVE NOW | LungÕ 2026 – Virtual Global Congress on Lung Oncology\n\nJoin us for live coverage of LungÕ 2026, bringing together leading international experts to discuss the latest advances, emerging evidence, and evolving approaches in lung cancer care. https://t.co/yw1onXJlw1",
+   "url": "https://x.com/oncodaily/status/2118212887466389919"
   },
   {
    "author_id": "19897138",
@@ -269,10 +623,49 @@
    "edit_history_tweet_ids": [
     "2118183273293824228"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 5,
+      "start": 0,
+      "tag": "LIVE"
+     },
+     {
+      "end": 69,
+      "start": 56,
+      "tag": "ITLivestream"
+     }
+    ],
+    "urls": [
+     {
+      "description": "#LIVE | Watch the top news and headlines at this hour | #ITLivestream",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 93,
+      "expanded_url": "https://x.com/i/broadcasts/2aWLKboZpQBYzn",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118183317170499585/pnZdBK1g?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118183317170499585/pnZdBK1g?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 70,
+      "status": 200,
+      "title": "IndiaToday",
+      "unwound_url": "https://x.com/i/broadcasts/2aWLKboZpQBYzn",
+      "url": "https://t.co/Wx81CFvgpm"
+     }
+    ]
+   },
    "id": "2118183273293824228",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2353,
+    "impression_count": 2378,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -287,10 +680,37 @@
    "edit_history_tweet_ids": [
     "2118176749242429777"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Werewolves, Haunted Hotels & Life After Death Edition — Paranormal 60 News",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 102,
+      "expanded_url": "https://x.com/i/broadcasts/2BlLvveMeQrbRj",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118176791600766978/PfzaBiSE?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118176791600766978/PfzaBiSE?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 79,
+      "status": 200,
+      "title": "Dave Schrader",
+      "unwound_url": "https://x.com/i/broadcasts/2BlLvveMeQrbRj",
+      "url": "https://t.co/0rsWRehEuv"
+     }
+    ]
+   },
    "id": "2118176749242429777",
    "public_metrics": {
     "bookmark_count": 3,
-    "impression_count": 551,
+    "impression_count": 569,
     "like_count": 20,
     "quote_count": 0,
     "reply_count": 0,
@@ -305,14 +725,41 @@
    "edit_history_tweet_ids": [
     "2118182466657677558"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Rapid Fire News #1241 ~WOODSHED Wednesday~",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 66,
+      "expanded_url": "https://x.com/i/broadcasts/2ybAXVpjkjypgP",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118182509372432385/XdAth4Wj?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118182509372432385/XdAth4Wj?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 43,
+      "status": 200,
+      "title": "Average Joe Patriot 1776",
+      "unwound_url": "https://x.com/i/broadcasts/2ybAXVpjkjypgP",
+      "url": "https://t.co/ozPaVUy1UT"
+     }
+    ]
+   },
    "id": "2118182466657677558",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 618,
-    "like_count": 16,
+    "bookmark_count": 2,
+    "impression_count": 643,
+    "like_count": 17,
     "quote_count": 3,
     "reply_count": 0,
-    "retweet_count": 11
+    "retweet_count": 12
    },
    "text": "Rapid Fire News #1241 ~WOODSHED Wednesday~ https://t.co/ozPaVUy1UT",
    "url": "https://x.com/AJPArmy/status/2118182466657677558"
@@ -323,6 +770,33 @@
    "edit_history_tweet_ids": [
     "2118180788743143724"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Bharat Update News Live - 5 november 2026 LIVE",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 72,
+      "expanded_url": "https://x.com/i/broadcasts/2gqvPJXPVyANzR",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118180831906746368/rj0V--Tb?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118180831906746368/rj0V--Tb?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 49,
+      "status": 200,
+      "title": "भारत अपडेट | Bharat Update",
+      "unwound_url": "https://x.com/i/broadcasts/2gqvPJXPVyANzR",
+      "url": "https://t.co/Ty1zkXP4PA"
+     }
+    ]
+   },
    "id": "2118180788743143724",
    "public_metrics": {
     "bookmark_count": 0,
@@ -336,52 +810,42 @@
    "url": "https://x.com/BharatUpdate_x/status/2118180788743143724"
   },
   {
-   "author_id": "899353968425537543",
-   "created_at": "2026-11-05T02:43:32.000Z",
-   "edit_history_tweet_ids": [
-    "2118172333495951561"
-   ],
-   "id": "2118172333495951561",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 307,
-    "like_count": 5,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Going live to catch up on all the new patch notes, collabs, anti cheat &amp; news https://t.co/vvPeeUFWAv",
-   "url": "https://x.com/iamCDome/status/2118172333495951561"
-  },
-  {
-   "author_id": "420943164",
-   "created_at": "2026-11-05T02:30:21.000Z",
-   "edit_history_tweet_ids": [
-    "2118168876886421866",
-    "2118169015734743264"
-   ],
-   "id": "2118169015734743264",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1208,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "- Global news flow &amp; cues     \n- Stocks to watch, trade setup     \n- F&amp;O strategies\n \n@_nirajshah, @Heeraal and @alexandermats bring all this and more as we head toward the 'India Market Open.' #NDTVProfitLive https://t.co/XBxPfUSLoU",
-   "url": "https://x.com/NDTVProfit/status/2118169015734743264"
-  },
-  {
    "author_id": "36875020",
    "created_at": "2026-11-05T03:00:01.000Z",
    "edit_history_tweet_ids": [
     "2118176480786071865"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE at 6: NEW numbers reported in the US Senate race as temps get frosty ahead",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 103,
+      "expanded_url": "https://x.com/i/broadcasts/2aWLKYpXjeOXzB",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118176523295318018/Jwk4ag38?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118176523295318018/Jwk4ag38?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 80,
+      "status": 200,
+      "title": "Matt Laubhan, CBM",
+      "unwound_url": "https://x.com/i/broadcasts/2aWLKYpXjeOXzB",
+      "url": "https://t.co/AZ7oeFWAOv"
+     }
+    ]
+   },
    "id": "2118176480786071865",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 347,
+    "impression_count": 352,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -391,89 +855,302 @@
    "url": "https://x.com/matt_laubhan/status/2118176480786071865"
   },
   {
-   "author_id": "42365228",
-   "created_at": "2026-11-05T02:30:45.000Z",
+   "author_id": "2047851755644571648",
+   "created_at": "2026-11-05T05:39:17.000Z",
    "edit_history_tweet_ids": [
-    "2118169117345587691"
+    "2118216559516602503"
    ],
-   "id": "2118169117345587691",
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: TRS President Kalvakuntla Kavitha Press Meet",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 74,
+      "expanded_url": "https://x.com/i/broadcasts/2qVjPqgWPKvNez",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118216602113949696/QYpr8JX7?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118216602113949696/QYpr8JX7?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 51,
+      "status": 200,
+      "title": "Telangana Rakshana Sena",
+      "unwound_url": "https://x.com/i/broadcasts/2qVjPqgWPKvNez",
+      "url": "https://t.co/pbgbluAsy2"
+     }
+    ]
+   },
+   "id": "2118216559516602503",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 172,
-    "like_count": 1,
+    "impression_count": 46,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 4
+   },
+   "text": "LIVE: TRS President Kalvakuntla Kavitha Press Meet https://t.co/pbgbluAsy2",
+   "url": "https://x.com/TRSparty_HQ/status/2118216559516602503"
+  },
+  {
+   "author_id": "1060814021333581824",
+   "created_at": "2026-11-05T04:17:05.000Z",
+   "edit_history_tweet_ids": [
+    "2118195875994304620"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "The Heads Show - President Museveni Meets Cultural Leaders",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 82,
+      "expanded_url": "https://x.com/i/broadcasts/2KoXjqgjpppZmB",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118195918566555649/g7-uTN2C?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118195918566555649/g7-uTN2C?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 59,
+      "status": 200,
+      "title": "Gugudde TV Uganda",
+      "unwound_url": "https://x.com/i/broadcasts/2KoXjqgjpppZmB",
+      "url": "https://t.co/Bt1vlBHr4s"
+     }
+    ]
+   },
+   "id": "2118195875994304620",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 32,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Breaking Down The First CFP Rankings | The Committee https://t.co/3bpJRIqUbc",
-   "url": "https://x.com/EmerySonger/status/2118169117345587691"
+   "text": "The Heads Show - President Museveni Meets Cultural Leaders https://t.co/Bt1vlBHr4s",
+   "url": "https://x.com/guguddetvuganda/status/2118195875994304620"
   },
   {
-   "author_id": "26406763",
-   "created_at": "2026-11-05T02:30:45.000Z",
+   "author_id": "498223316",
+   "created_at": "2026-11-05T04:00:06.000Z",
    "edit_history_tweet_ids": [
-    "2118169117551133100"
+    "2118191600169849026"
    ],
-   "id": "2118169117551133100",
+   "entities": {
+    "urls": [
+     {
+      "description": "RERUN-Joe Oltmann Untamed | Joe’s Take On: Election Day Fallout | 11.04.26",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 98,
+      "expanded_url": "https://x.com/i/broadcasts/2JQXMraoqqYvoY",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2118145032960040960/YlylOgmz?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118145032960040960/YlylOgmz?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 75,
+      "status": 200,
+      "title": "Untamed Nation",
+      "unwound_url": "https://x.com/i/broadcasts/2JQXMraoqqYvoY",
+      "url": "https://t.co/RgE1MTJoBY"
+     }
+    ]
+   },
+   "id": "2118191600169849026",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2523,
+    "impression_count": 62,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "RERUN-Joe Oltmann Untamed | Joe’s Take On: Election Day Fallout | 11.04.26 https://t.co/RgE1MTJoBY",
+   "url": "https://x.com/JoeUntamed/status/2118191600169849026"
+  },
+  {
+   "author_id": "2258332112",
+   "created_at": "2026-11-05T03:38:03.000Z",
+   "edit_history_tweet_ids": [
+    "2118186053110489161"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Clown Planet 11/4/2026: Election Results \"Blue Tsunami?\", Florida Under Water, 4 Parents?",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 113,
+      "expanded_url": "https://x.com/i/broadcasts/2evWYBmjEoKVjN",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118186095846338560/-8MzyJXf?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118186095846338560/-8MzyJXf?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "Sensus Fidelium",
+      "unwound_url": "https://x.com/i/broadcasts/2evWYBmjEoKVjN",
+      "url": "https://t.co/tE0whuAyDG"
+     }
+    ]
+   },
+   "id": "2118186053110489161",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 315,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Breaking Down The First CFP Rankings | The Committee https://t.co/nEnPn9VBbB",
-   "url": "https://x.com/ChrisMWilliams/status/2118169117551133100"
+   "text": "Clown Planet 11/4/2026: Election Results \"Blue Tsunami?\", Florida Under Water, 4 Parents? https://t.co/tE0whuAyDG",
+   "url": "https://x.com/Sensus_Fidelium/status/2118186053110489161"
   },
   {
-   "author_id": "1557900118845685760",
-   "created_at": "2026-11-05T02:30:45.000Z",
+   "author_id": "920342336940359680",
+   "created_at": "2026-11-05T04:05:11.000Z",
    "edit_history_tweet_ids": [
-    "2118169117509202054"
+    "2118192881915600900"
    ],
-   "id": "2118169117509202054",
+   "entities": {
+    "urls": [
+     {
+      "description": "California Election Results 2026: Becerra Wins, Prop 39 Fails, LA Mayor Too Close",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 105,
+      "expanded_url": "https://x.com/i/broadcasts/2vylnaNMQnqLqj",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118192924412256256/Ih0sci8-?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118192924412256256/Ih0sci8-?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 82,
+      "status": 200,
+      "title": "CA_Underground",
+      "unwound_url": "https://x.com/i/broadcasts/2vylnaNMQnqLqj",
+      "url": "https://t.co/YJuIcL5AwE"
+     }
+    ]
+   },
+   "id": "2118192881915600900",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1358,
-    "like_count": 3,
+    "impression_count": 56,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Breaking Down The First CFP Rankings | The Committee https://t.co/soq3TFLk6E",
-   "url": "https://x.com/IowaEverywhere/status/2118169117509202054"
+   "text": "California Election Results 2026: Becerra Wins, Prop 39 Fails, LA Mayor Too Close https://t.co/YJuIcL5AwE",
+   "url": "https://x.com/CAUndergound/status/2118192881915600900"
   },
   {
-   "author_id": "18207174",
-   "created_at": "2026-11-05T02:30:45.000Z",
+   "author_id": "1856405056158838784",
+   "created_at": "2026-11-05T04:00:06.000Z",
    "edit_history_tweet_ids": [
-    "2118169116779372873"
+    "2118191599792394594"
    ],
-   "id": "2118169116779372873",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 590,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
+   "entities": {
+    "urls": [
+     {
+      "description": "RERUN-Joe Oltmann Untamed | Joe’s Take On: Election Day Fallout | 11.04.26",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 98,
+      "expanded_url": "https://x.com/i/broadcasts/2zkANXrZMagnzA",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2118145031617781760/U1gYPtr9?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118145031617781760/U1gYPtr9?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 75,
+      "status": 200,
+      "title": "Joe Oltmann",
+      "unwound_url": "https://x.com/i/broadcasts/2zkANXrZMagnzA",
+      "url": "https://t.co/FCpXXoZmJ2"
+     }
+    ]
    },
-   "text": "Breaking Down The First CFP Rankings | The Committee https://t.co/yht3sBMSW7",
-   "url": "https://x.com/AndrewCDowns/status/2118169116779372873"
+   "id": "2118191599792394594",
+   "public_metrics": {
+    "bookmark_count": 3,
+    "impression_count": 579,
+    "like_count": 11,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 5
+   },
+   "text": "RERUN-Joe Oltmann Untamed | Joe’s Take On: Election Day Fallout | 11.04.26 https://t.co/FCpXXoZmJ2",
+   "url": "https://x.com/Joeoltmann/status/2118191599792394594"
   }
  ],
  "users": [
   {
+   "id": "2984417534",
+   "name": "BJP West Bengal",
+   "public_metrics": {
+    "followers_count": 511007,
+    "following_count": 169,
+    "like_count": 2598,
+    "listed_count": 427,
+    "media_count": 49143,
+    "tweet_count": 86575
+   },
+   "username": "BJP4Bengal",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9492124,
+    "followers_count": 9492135,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7882,
-    "media_count": 754511,
-    "tweet_count": 1186801
+    "media_count": 754518,
+    "tweet_count": 1186810
    },
    "username": "ANI",
    "verified": true,
@@ -483,12 +1160,12 @@
    "id": "20751449",
    "name": "The Hindu",
    "public_metrics": {
-    "followers_count": 8428370,
+    "followers_count": 8428392,
     "following_count": 185,
     "like_count": 259,
     "listed_count": 8571,
-    "media_count": 67865,
-    "tweet_count": 742008
+    "media_count": 67866,
+    "tweet_count": 742011
    },
    "username": "the_hindu",
    "verified": true,
@@ -500,7 +1177,7 @@
    "public_metrics": {
     "followers_count": 779,
     "following_count": 601,
-    "like_count": 1703,
+    "like_count": 1704,
     "listed_count": 8,
     "media_count": 494,
     "tweet_count": 3992
@@ -517,8 +1194,8 @@
     "following_count": 1,
     "like_count": 11008,
     "listed_count": 18,
-    "media_count": 123238,
-    "tweet_count": 135492
+    "media_count": 123242,
+    "tweet_count": 135496
    },
    "username": "jmdnewsflash",
    "verified": true,
@@ -573,7 +1250,7 @@
    "id": "922337204310982656",
    "name": "The Alaska Landmine",
    "public_metrics": {
-    "followers_count": 16839,
+    "followers_count": 16840,
     "following_count": 135,
     "like_count": 516,
     "listed_count": 116,
@@ -615,21 +1292,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "292475065",
-   "name": "कुशल मेहरा",
-   "public_metrics": {
-    "followers_count": 102008,
-    "following_count": 304,
-    "like_count": 138,
-    "listed_count": 326,
-    "media_count": 7417,
-    "tweet_count": 178865
-   },
-   "username": "kushal_mehra",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1832972046785228801",
    "name": "Rep America",
    "public_metrics": {
@@ -660,30 +1322,30 @@
    "verified_type": "blue"
   },
   {
-   "id": "1801539974711365632",
-   "name": "Sonrise International Church -Apostle Michael Wise",
+   "id": "1658531735448035333",
+   "name": "OncoDaily",
    "public_metrics": {
-    "followers_count": 80,
-    "following_count": 115,
-    "like_count": 661,
-    "listed_count": 0,
-    "media_count": 90,
-    "tweet_count": 902
+    "followers_count": 10236,
+    "following_count": 8677,
+    "like_count": 13503,
+    "listed_count": 42,
+    "media_count": 47505,
+    "tweet_count": 94815
    },
-   "username": "Apostle_M_Wise",
+   "username": "oncodaily",
    "verified": true,
-   "verified_type": "blue"
+   "verified_type": "business"
   },
   {
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6276897,
+    "followers_count": 6276909,
     "following_count": 83,
     "like_count": 4431,
     "listed_count": 7340,
-    "media_count": 583425,
-    "tweet_count": 1544768
+    "media_count": 583427,
+    "tweet_count": 1544771
    },
    "username": "IndiaToday",
    "verified": true,
@@ -727,42 +1389,12 @@
     "following_count": 41,
     "like_count": 823,
     "listed_count": 0,
-    "media_count": 17963,
-    "tweet_count": 18125
+    "media_count": 17964,
+    "tweet_count": 18126
    },
    "username": "BharatUpdate_x",
    "verified": true,
    "verified_type": "blue"
-  },
-  {
-   "id": "899353968425537543",
-   "name": "C_Dome",
-   "public_metrics": {
-    "followers_count": 6251,
-    "following_count": 1280,
-    "like_count": 29841,
-    "listed_count": 15,
-    "media_count": 6496,
-    "tweet_count": 19821
-   },
-   "username": "iamCDome",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "420943164",
-   "name": "NDTV Profit News",
-   "public_metrics": {
-    "followers_count": 973285,
-    "following_count": 15,
-    "like_count": 162,
-    "listed_count": 2147,
-    "media_count": 24911,
-    "tweet_count": 155497
-   },
-   "username": "NDTVProfit",
-   "verified": true,
-   "verified_type": "business"
   },
   {
    "id": "36875020",
@@ -780,62 +1412,92 @@
    "verified_type": "blue"
   },
   {
-   "id": "42365228",
-   "name": "Emery Songer",
+   "id": "2047851755644571648",
+   "name": "Telangana Rakshana Sena",
    "public_metrics": {
-    "followers_count": 2436,
-    "following_count": 1928,
-    "like_count": 99126,
-    "listed_count": 11,
-    "media_count": 1924,
-    "tweet_count": 5521
+    "followers_count": 1235,
+    "following_count": 1,
+    "like_count": 237,
+    "listed_count": 0,
+    "media_count": 971,
+    "tweet_count": 1251
    },
-   "username": "EmerySonger",
+   "username": "TRSparty_HQ",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "26406763",
-   "name": "Chris Williams",
+   "id": "1060814021333581824",
+   "name": "Gugudde TV Uganda",
    "public_metrics": {
-    "followers_count": 57510,
-    "following_count": 3796,
-    "like_count": 40905,
-    "listed_count": 445,
-    "media_count": 10902,
-    "tweet_count": 126968
+    "followers_count": 3535,
+    "following_count": 287,
+    "like_count": 12225,
+    "listed_count": 5,
+    "media_count": 18338,
+    "tweet_count": 47578
    },
-   "username": "ChrisMWilliams",
+   "username": "guguddetvuganda",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1557900118845685760",
-   "name": "Iowa Everywhere",
+   "id": "498223316",
+   "name": "Untamed Nation",
    "public_metrics": {
-    "followers_count": 13509,
-    "following_count": 361,
-    "like_count": 5736,
-    "listed_count": 64,
-    "media_count": 3426,
-    "tweet_count": 15576
+    "followers_count": 7694,
+    "following_count": 213,
+    "like_count": 2979,
+    "listed_count": 48,
+    "media_count": 5578,
+    "tweet_count": 23523
    },
-   "username": "IowaEverywhere",
+   "username": "JoeUntamed",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "18207174",
-   "name": "Andrew Downs",
+   "id": "2258332112",
+   "name": "Sensus Fidelium",
    "public_metrics": {
-    "followers_count": 8933,
-    "following_count": 381,
-    "like_count": 50793,
-    "listed_count": 108,
-    "media_count": 3522,
-    "tweet_count": 45574
+    "followers_count": 30839,
+    "following_count": 345,
+    "like_count": 22663,
+    "listed_count": 129,
+    "media_count": 28224,
+    "tweet_count": 90515
    },
-   "username": "AndrewCDowns",
+   "username": "Sensus_Fidelium",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "920342336940359680",
+   "name": "CA_Underground",
+   "public_metrics": {
+    "followers_count": 2005,
+    "following_count": 727,
+    "like_count": 4503,
+    "listed_count": 15,
+    "media_count": 440,
+    "tweet_count": 6729
+   },
+   "username": "CAUndergound",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1856405056158838784",
+   "name": "Joe Oltmann",
+   "public_metrics": {
+    "followers_count": 39988,
+    "following_count": 1061,
+    "like_count": 36836,
+    "listed_count": 140,
+    "media_count": 1376,
+    "tweet_count": 17254
+   },
+   "username": "Joeoltmann",
    "verified": true,
    "verified_type": "blue"
   }
