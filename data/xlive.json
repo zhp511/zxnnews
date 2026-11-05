@@ -1,9 +1,19 @@
 {
- "built_at": "2026-11-05T06:02:17Z",
- "searched_at": "2026-11-05T06:02:30Z",
+ "built_at": "2026-11-05T06:20:53Z",
+ "searched_at": "2026-11-05T06:21:00Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2118212887466389919",
+   "post_url": "https://x.com/oncodaily/status/2118212887466389919",
+   "name": "OncoDaily",
+   "username": "oncodaily",
+   "verified_type": "business",
+   "text": "LIVE NOW | LungÕ 2026 – Virtual Global Congress on Lung Oncology\n\nJoin us for live coverage of LungÕ 2026, bringing together leading international experts to discuss the latest advances, emerging evidence, and evolving approaches in lung cancer care. https://t.co/yw1onXJlw1",
+   "started_at": "2026-11-05T05:24:41.000Z",
+   "assumed_live_until": "2026-11-05T08:24:41Z"
+  },
   {
    "post_id": "2118200598063366444",
    "post_url": "https://x.com/the_hindu/status/2118200598063366444",
@@ -23,16 +33,6 @@
    "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/dORVCkNckQ",
    "started_at": "2026-11-05T04:59:55.000Z",
    "assumed_live_until": "2026-11-05T07:59:55Z"
-  },
-  {
-   "post_id": "2118179560512483352",
-   "post_url": "https://x.com/thatstarwarsgrl/status/2118179560512483352",
-   "name": "thatstarwarsgirl",
-   "username": "thatstarwarsgrl",
-   "verified_type": "blue",
-   "text": "TSWG LIVE: RIP Patrick Stewart | America is BURNING | and MORE! https://t.co/6eFC6Y8ESC",
-   "started_at": "2026-11-05T03:12:15.000Z",
-   "assumed_live_until": "2026-11-05T06:12:15Z"
   },
   {
    "post_id": "2118200897595441344",
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-11-05T07:01:02Z"
   },
   {
-   "post_id": "2118191600169849026",
-   "post_url": "https://x.com/JoeUntamed/status/2118191600169849026",
-   "name": "Untamed Nation",
-   "username": "JoeUntamed",
+   "post_id": "2118192881915600900",
+   "post_url": "https://x.com/CAUndergound/status/2118192881915600900",
+   "name": "CA_Underground",
+   "username": "CAUndergound",
    "verified_type": "blue",
-   "text": "RERUN-Joe Oltmann Untamed | Joe’s Take On: Election Day Fallout | 11.04.26 https://t.co/RgE1MTJoBY",
-   "started_at": "2026-11-05T04:00:06.000Z",
-   "assumed_live_until": "2026-11-05T07:00:06Z"
+   "text": "California Election Results 2026: Becerra Wins, Prop 39 Fails, LA Mayor Too Close https://t.co/YJuIcL5AwE",
+   "started_at": "2026-11-05T04:05:11.000Z",
+   "assumed_live_until": "2026-11-05T07:05:11Z"
   }
  ]
 }
