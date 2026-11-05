@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T10:21:19Z",
+ "fetched_at": "2026-11-05T10:59:10Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-05T07:20:00Z",
+  "start_time": "2026-11-05T07:59:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -11,24 +11,6 @@
   "user.fields": "name,username,verified,verified_type,public_metrics"
  },
  "data": [
-  {
-   "author_id": "954295634663632897",
-   "created_at": "2026-11-05T07:50:16.000Z",
-   "edit_history_tweet_ids": [
-    "2118249524065906919"
-   ],
-   "id": "2118249524065906919",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 354,
-    "like_count": 7,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "Live: Shri Ram Madhav Garu, BJP National Vice President addresses press conference @BJP State Office https://t.co/zn2lnZPJ6Q",
-   "url": "https://x.com/Arvindharmapuri/status/2118249524065906919"
-  },
   {
    "author_id": "1618490684",
    "created_at": "2026-11-05T09:01:30.000Z",
@@ -38,11 +20,11 @@
    "id": "2118267452224401524",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1068,
-    "like_count": 6,
+    "impression_count": 1126,
+    "like_count": 7,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 5
+    "retweet_count": 7
    },
    "text": "LIVE: Shri @pradip103 Ji addresses press conference at BJP Headquarters, New Delhi https://t.co/IhsPHW7uur",
    "url": "https://x.com/BJP4MP/status/2118267452224401524"
@@ -56,7 +38,7 @@
    "id": "2118253817938477377",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 42,
+    "impression_count": 44,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -73,12 +55,12 @@
    ],
    "id": "2118253719141654985",
    "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 13702,
-    "like_count": 69,
+    "bookmark_count": 0,
+    "impression_count": 14107,
+    "like_count": 73,
     "quote_count": 1,
     "reply_count": 6,
-    "retweet_count": 34
+    "retweet_count": 37
    },
    "text": "BJP National Spokesperson &amp; Media Co-convener Shri @pradip103 addresses press conference at BJP headquarters, New Delhi. https://t.co/JeapnWB6QD",
    "url": "https://x.com/BJP4India/status/2118253719141654985"
@@ -92,11 +74,11 @@
    "id": "2118259189264839037",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 16128,
-    "like_count": 8,
+    "impression_count": 16448,
+    "like_count": 9,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 3
+    "retweet_count": 4
    },
    "text": "LIVE: Rajeev Chandrasekhar Addresses Press Conference At BJP HQ In New Delhi\n\n#rajeevchandrasekhar #newdelhi #bjp #live https://t.co/apOHaskVk3",
    "url": "https://x.com/ANI/status/2118259189264839037"
@@ -110,14 +92,32 @@
    "id": "2118259292117553415",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 13158,
-    "like_count": 70,
+    "impression_count": 13575,
+    "like_count": 75,
     "quote_count": 1,
     "reply_count": 4,
-    "retweet_count": 36
+    "retweet_count": 38
    },
    "text": "Joint Press conference by Shri Rajeev Chandrasekhar and Shri Sadanandan Master at BJP headquarters in New Delhi. https://t.co/c1xQYSXgYH",
    "url": "https://x.com/BJP4India/status/2118259292117553415"
+  },
+  {
+   "author_id": "1024774662658641920",
+   "created_at": "2026-11-05T10:34:14.000Z",
+   "edit_history_tweet_ids": [
+    "2118290786483618290"
+   ],
+   "id": "2118290786483618290",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Rumble On: Dems Take Congress, White House Says \u2018Buckle Up\u2019 - Ep. 504/609, 11/5/26 https://t.co/74tBLApvHQ",
+   "url": "https://x.com/LeftysFear/status/2118290786483618290"
   },
   {
    "author_id": "355989081",
@@ -128,7 +128,7 @@
    "id": "2118253360608411774",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 13815,
+    "impression_count": 14049,
     "like_count": 8,
     "quote_count": 0,
     "reply_count": 0,
@@ -138,22 +138,76 @@
    "url": "https://x.com/ANI/status/2118253360608411774"
   },
   {
-   "author_id": "1457704420171468803",
-   "created_at": "2026-11-05T07:57:33.000Z",
+   "author_id": "3299214546",
+   "created_at": "2026-11-05T10:57:45.000Z",
    "edit_history_tweet_ids": [
-    "2118251359447241124"
+    "2118296707687498198"
    ],
-   "id": "2118251359447241124",
+   "id": "2118296707687498198",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 111,
-    "like_count": 7,
+    "impression_count": 6,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 6
+    "retweet_count": 0
    },
-   "text": "LIVE : 05-11-26 | Politics Punjab Special With Jeeta Singh &amp; Kuljit Singh https://t.co/xQcCHDKqAv",
-   "url": "https://x.com/PoliticsPunj767/status/2118251359447241124"
+   "text": "1.0 pastel sn clown dhet vpi dg\n0.1 pastel sn thet clown vpi dg\n-------------------------------------\n1.0 bp sn yb stranger clown\nor \n1.0 GHI mojave choco clown het ghost\n0.1 banana hurricane clown https://t.co/vfbt1i168C",
+   "url": "https://x.com/sigggggh/status/2118296707687498198"
+  },
+  {
+   "author_id": "19897138",
+   "created_at": "2026-11-05T10:25:59.000Z",
+   "edit_history_tweet_ids": [
+    "2118288710982894037"
+   ],
+   "id": "2118288710982894037",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2211,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "#Live: Shah vs Rahul, Round 2! Amit Shah challenges Rahul Gandhi to a debate in Parliament. Who will take up the challenge? Tune in to #NewsBreak with @PoojaShali for the latest at 4 PM. #ITLivestream https://t.co/a4X5MBw1hV",
+   "url": "https://x.com/IndiaToday/status/2118288710982894037"
+  },
+  {
+   "author_id": "1999037304103723008",
+   "created_at": "2026-11-05T10:23:21.000Z",
+   "edit_history_tweet_ids": [
+    "2118288047980663186"
+   ],
+   "id": "2118288047980663186",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 7,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "GrowthNow News LIVE ! https://t.co/bA9KuEmrkk",
+   "url": "https://x.com/growthnownews/status/2118288047980663186"
+  },
+  {
+   "author_id": "85814753",
+   "created_at": "2026-11-05T10:29:59.000Z",
+   "edit_history_tweet_ids": [
+    "2118289716558643219"
+   ],
+   "id": "2118289716558643219",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 287,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Sandesh News https://t.co/WUBTBKgz1r",
+   "url": "https://x.com/sandeshnews/status/2118289716558643219"
   },
   {
    "author_id": "1823643762775478272",
@@ -164,7 +218,7 @@
    "id": "2118252045975126437",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 75,
+    "impression_count": 79,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -174,40 +228,22 @@
    "url": "https://x.com/Asklasg/status/2118252045975126437"
   },
   {
-   "author_id": "2217408934",
-   "created_at": "2026-11-05T07:38:56.000Z",
+   "author_id": "355989081",
+   "created_at": "2026-11-05T10:34:02.000Z",
    "edit_history_tweet_ids": [
-    "2118246674275451289"
+    "2118290738639179780"
    ],
-   "id": "2118246674275451289",
+   "id": "2118290738639179780",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 301,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "VERY BAD NEWS FOR CJP's RATNA SINGH https://t.co/bY5xArAmDF",
-   "url": "https://x.com/mamta_kale/status/2118246674275451289"
-  },
-  {
-   "author_id": "19897138",
-   "created_at": "2026-11-05T07:26:44.000Z",
-   "edit_history_tweet_ids": [
-    "2118243604288430156"
-   ],
-   "id": "2118243604288430156",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 2482,
-    "like_count": 0,
+    "bookmark_count": 2,
+    "impression_count": 15479,
+    "like_count": 7,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "#LIVE || Take a look at the top news headlines  https://t.co/VpBtm18x6h",
-   "url": "https://x.com/IndiaToday/status/2118243604288430156"
+   "text": "LIVE: Air Vice Marshal Shekhar Yadav holds News Conference on service extension for Agniveers | IAF\n\n#iaf #agniveers #shekharyadav https://t.co/RL8TsvdOfu",
+   "url": "https://x.com/ANI/status/2118290738639179780"
   },
   {
    "author_id": "2067872109674557440",
@@ -218,32 +254,14 @@
    "id": "2118282196272189764",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 31,
-    "like_count": 0,
+    "impression_count": 105,
+    "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
    "text": "Who is the SNITCH? Players CONFUSED by tactics? NUFC morning news! https://t.co/UCyTlPd2es",
    "url": "https://x.com/thetoonreviewYT/status/2118282196272189764"
-  },
-  {
-   "author_id": "1386227335527948288",
-   "created_at": "2026-11-05T07:55:22.000Z",
-   "edit_history_tweet_ids": [
-    "2118250807912992915"
-   ],
-   "id": "2118250807912992915",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 6,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "314 - Final Hour News  (Missile or Plane, Offline Technology, Elections , AI DNA lab and more https://t.co/LNcm02verT",
-   "url": "https://x.com/509divinepines/status/2118250807912992915"
   },
   {
    "author_id": "1942927435378388992",
@@ -254,7 +272,7 @@
    "id": "2118268009999417597",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 78,
+    "impression_count": 94,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -272,7 +290,7 @@
    "id": "2118267505739493806",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 55,
+    "impression_count": 70,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -290,14 +308,32 @@
    "id": "2118286253326024879",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 308,
+    "impression_count": 631,
+    "like_count": 2,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Today on #InsideFrenchFootball with @nathan_quao &amp; @jonboafo. \n\nWe will look at PSG's perfect start in Europe, Former FC Metz President, Carlo Molinari dies aged 93, Paulo Fonseca leaves Lyon for Sporting and preview of matchday 10 of Ligue 1.\n\nWelcome! https://t.co/HnlQeDgUzT",
+   "url": "https://x.com/SportyFM_/status/2118286253326024879"
+  },
+  {
+   "author_id": "1377416459194757120",
+   "created_at": "2026-11-05T10:03:07.000Z",
+   "edit_history_tweet_ids": [
+    "2118282957945217189"
+   ],
+   "id": "2118282957945217189",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 21,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Today on #InsideFrenchFootball with @nathan_quao &amp; @jonboafo. \n\nWe will look at PSG's perfect start in Europe, Former FC Metz President, Carlo Molinari dies aged 93, Paulo Fonseca leaves Lyon for Sporting and preview of matchday 10 of Ligue 1.\n\nWelcome! https://t.co/HnlQeDgUzT",
-   "url": "https://x.com/SportyFM_/status/2118286253326024879"
+   "text": "Kyiv Has Intensified Strikes on Russian Strikes, Frontline Attrition &amp; The Post-Election Reality https://t.co/SNwnjCMel0",
+   "url": "https://x.com/FutureFantasy5/status/2118282957945217189"
   },
   {
    "author_id": "36875020",
@@ -308,7 +344,7 @@
    "id": "2118273708892504427",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 83,
+    "impression_count": 131,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -326,7 +362,7 @@
    "id": "2118277598459695421",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3460,
+    "impression_count": 7402,
     "like_count": 2,
     "quote_count": 1,
     "reply_count": 1,
@@ -334,42 +370,6 @@
    },
    "text": "Join Gene and me as we discuss the fallout from the US election, rising interest rates, censorship laws, and your questions.\n\nhttps://t.co/1CcWkeV7ck",
    "url": "https://x.com/JohnHumphreys99/status/2118277598459695421"
-  },
-  {
-   "author_id": "1377416459194757120",
-   "created_at": "2026-11-05T10:03:07.000Z",
-   "edit_history_tweet_ids": [
-    "2118282957945217189"
-   ],
-   "id": "2118282957945217189",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 14,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Kyiv Has Intensified Strikes on Russian Strikes, Frontline Attrition &amp; The Post-Election Reality https://t.co/SNwnjCMel0",
-   "url": "https://x.com/FutureFantasy5/status/2118282957945217189"
-  },
-  {
-   "author_id": "19902377",
-   "created_at": "2026-11-05T09:02:48.000Z",
-   "edit_history_tweet_ids": [
-    "2118267778247393492"
-   ],
-   "id": "2118267778247393492",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 280,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "America &amp; War: what next? https://t.co/dAHiUlqH1t",
-   "url": "https://x.com/lembitopik/status/2118267778247393492"
   },
   {
    "author_id": "2773644907",
@@ -380,7 +380,7 @@
    "id": "2118267778582937624",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 339,
+    "impression_count": 390,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -388,6 +388,24 @@
    },
    "text": "America &amp; War: what next? https://t.co/A9cFGy3u2Q",
    "url": "https://x.com/CharlotteEmmaUK/status/2118267778582937624"
+  },
+  {
+   "author_id": "19902377",
+   "created_at": "2026-11-05T09:02:48.000Z",
+   "edit_history_tweet_ids": [
+    "2118267778247393492"
+   ],
+   "id": "2118267778247393492",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 326,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "America &amp; War: what next? https://t.co/dAHiUlqH1t",
+   "url": "https://x.com/lembitopik/status/2118267778247393492"
   },
   {
    "author_id": "1926581979559940096",
@@ -398,7 +416,7 @@
    "id": "2118267777936965827",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 15,
+    "impression_count": 16,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -406,6 +424,24 @@
    },
    "text": "America &amp; War: what next? https://t.co/Jarzv4FPd4",
    "url": "https://x.com/unprecedentedtv/status/2118267777936965827"
+  },
+  {
+   "author_id": "1587574471627608064",
+   "created_at": "2026-11-05T10:53:58.000Z",
+   "edit_history_tweet_ids": [
+    "2118295752950546478"
+   ],
+   "id": "2118295752950546478",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 140,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "The Loss Of The Next Golden Age Will Be Felt Most By America https://t.co/6jKF90pYF4",
+   "url": "https://x.com/CSalcedoShow/status/2118295752950546478"
   },
   {
    "author_id": "42323273",
@@ -416,60 +452,27 @@
    "id": "2118251969785565655",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 697,
-    "like_count": 1,
+    "impression_count": 726,
+    "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "🗞️ Daily Current Affairs 5 Nov 2026: SC/ST quota rotation, Agniveer extension, Trump Defeat, COP31 https://t.co/nBHEU1N3be",
+   "text": "\ud83d\uddde\ufe0f Daily Current Affairs 5 Nov 2026: SC/ST quota rotation, Agniveer extension, Trump Defeat, COP31 https://t.co/nBHEU1N3be",
    "url": "https://x.com/Mrunal_Patel/status/2118251969785565655"
-  },
-  {
-   "author_id": "1945024667741462528",
-   "created_at": "2026-11-05T09:59:54.000Z",
-   "edit_history_tweet_ids": [
-    "2118282148729794672"
-   ],
-   "id": "2118282148729794672",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 6,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Will a Democratic Midterm Victory Trigger Another Trump Impeachment? #USMidtermElections https://t.co/G44lg5prij",
-   "url": "https://x.com/HorizonsEastern/status/2118282148729794672"
   }
  ],
  "users": [
   {
-   "id": "954295634663632897",
-   "name": "Arvind Dharmapuri",
-   "public_metrics": {
-    "followers_count": 212754,
-    "following_count": 303,
-    "like_count": 19821,
-    "listed_count": 105,
-    "media_count": 17465,
-    "tweet_count": 27911
-   },
-   "username": "Arvindharmapuri",
-   "verified": true,
-   "verified_type": "government"
-  },
-  {
    "id": "1618490684",
    "name": "BJP Madhya Pradesh",
    "public_metrics": {
-    "followers_count": 1329284,
+    "followers_count": 1329285,
     "following_count": 217,
     "like_count": 1132,
     "listed_count": 421,
-    "media_count": 66134,
-    "tweet_count": 98794
+    "media_count": 66138,
+    "tweet_count": 98798
    },
    "username": "BJP4MP",
    "verified": true,
@@ -483,8 +486,8 @@
     "following_count": 228,
     "like_count": 472,
     "listed_count": 39,
-    "media_count": 49739,
-    "tweet_count": 242466
+    "media_count": 49740,
+    "tweet_count": 242467
    },
    "username": "prabhasakshi",
    "verified": true,
@@ -494,12 +497,12 @@
    "id": "207809313",
    "name": "BJP",
    "public_metrics": {
-    "followers_count": 23032658,
+    "followers_count": 23032644,
     "following_count": 4,
     "like_count": 0,
     "listed_count": 5776,
-    "media_count": 157410,
-    "tweet_count": 310784
+    "media_count": 157417,
+    "tweet_count": 310791
    },
    "username": "BJP4India",
    "verified": true,
@@ -509,36 +512,91 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9492282,
+    "followers_count": 9492274,
     "following_count": 0,
     "like_count": 72,
-    "listed_count": 7885,
-    "media_count": 754668,
-    "tweet_count": 1186994
+    "listed_count": 7886,
+    "media_count": 754683,
+    "tweet_count": 1187012
    },
    "username": "ANI",
    "verified": true,
    "verified_type": "business"
   },
   {
-   "id": "1457704420171468803",
-   "name": "Politics Punjab TV",
+   "id": "1024774662658641920",
+   "name": "The Ratio Show: The Working Man's Politics!",
    "public_metrics": {
-    "followers_count": 2170,
-    "following_count": 128,
-    "like_count": 904,
-    "listed_count": 3,
-    "media_count": 5408,
-    "tweet_count": 9209
+    "followers_count": 861,
+    "following_count": 927,
+    "like_count": 19073,
+    "listed_count": 1,
+    "media_count": 1089,
+    "tweet_count": 28338
    },
-   "username": "PoliticsPunj767",
+   "username": "LeftysFear",
    "verified": true,
-   "verified_type": "blue",
-   "withheld": {
-    "country_codes": [
-     "IN"
-    ]
-   }
+   "verified_type": "blue"
+  },
+  {
+   "id": "3299214546",
+   "name": "\u308f\u3076|Living Art Project",
+   "public_metrics": {
+    "followers_count": 700,
+    "following_count": 504,
+    "like_count": 91481,
+    "listed_count": 9,
+    "media_count": 10427,
+    "tweet_count": 296983
+   },
+   "username": "sigggggh",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "19897138",
+   "name": "IndiaToday",
+   "public_metrics": {
+    "followers_count": 6276964,
+    "following_count": 83,
+    "like_count": 4431,
+    "listed_count": 7341,
+    "media_count": 583525,
+    "tweet_count": 1544891
+   },
+   "username": "IndiaToday",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1999037304103723008",
+   "name": "Growthnownews",
+   "public_metrics": {
+    "followers_count": 217,
+    "following_count": 13,
+    "like_count": 1067,
+    "listed_count": 3,
+    "media_count": 4912,
+    "tweet_count": 6293
+   },
+   "username": "growthnownews",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "85814753",
+   "name": "Sandesh",
+   "public_metrics": {
+    "followers_count": 520545,
+    "following_count": 2,
+    "like_count": 1747,
+    "listed_count": 379,
+    "media_count": 224513,
+    "tweet_count": 464612
+   },
+   "username": "sandeshnews",
+   "verified": true,
+   "verified_type": "blue"
   },
   {
    "id": "1823643762775478272",
@@ -556,36 +614,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "2217408934",
-   "name": "Mamta Painuly Kale",
-   "public_metrics": {
-    "followers_count": 47797,
-    "following_count": 763,
-    "like_count": 22181,
-    "listed_count": 39,
-    "media_count": 4480,
-    "tweet_count": 19522
-   },
-   "username": "mamta_kale",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "19897138",
-   "name": "IndiaToday",
-   "public_metrics": {
-    "followers_count": 6276946,
-    "following_count": 83,
-    "like_count": 4431,
-    "listed_count": 7341,
-    "media_count": 583507,
-    "tweet_count": 1544872
-   },
-   "username": "IndiaToday",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "2067872109674557440",
    "name": "The Toon Review",
    "public_metrics": {
@@ -597,21 +625,6 @@
     "tweet_count": 693
    },
    "username": "thetoonreviewYT",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1386227335527948288",
-   "name": "Joseph Daniel",
-   "public_metrics": {
-    "followers_count": 280,
-    "following_count": 757,
-    "like_count": 8155,
-    "listed_count": 1,
-    "media_count": 235,
-    "tweet_count": 9380
-   },
-   "username": "509divinepines",
    "verified": true,
    "verified_type": "blue"
   },
@@ -653,10 +666,25 @@
     "following_count": 46,
     "like_count": 202,
     "listed_count": 16,
-    "media_count": 17607,
-    "tweet_count": 26305
+    "media_count": 17609,
+    "tweet_count": 26307
    },
    "username": "SportyFM_",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1377416459194757120",
+   "name": "The Author, David T Applegate",
+   "public_metrics": {
+    "followers_count": 29124,
+    "following_count": 16954,
+    "like_count": 62851,
+    "listed_count": 53,
+    "media_count": 28276,
+    "tweet_count": 314995
+   },
+   "username": "FutureFantasy5",
    "verified": true,
    "verified_type": "blue"
   },
@@ -679,7 +707,7 @@
    "id": "93512845",
    "name": "John Humphreys",
    "public_metrics": {
-    "followers_count": 3322,
+    "followers_count": 3321,
     "following_count": 691,
     "like_count": 16158,
     "listed_count": 20,
@@ -691,25 +719,25 @@
    "verified_type": "blue"
   },
   {
-   "id": "1377416459194757120",
-   "name": "The Author, David T Applegate",
+   "id": "2773644907",
+   "name": "CharlotteEmmaUK \ud83d\udcab",
    "public_metrics": {
-    "followers_count": 29122,
-    "following_count": 16954,
-    "like_count": 62851,
-    "listed_count": 53,
-    "media_count": 28276,
-    "tweet_count": 314995
+    "followers_count": 112735,
+    "following_count": 22433,
+    "like_count": 101378,
+    "listed_count": 222,
+    "media_count": 11988,
+    "tweet_count": 84651
    },
-   "username": "FutureFantasy5",
+   "username": "CharlotteEmmaUK",
    "verified": true,
    "verified_type": "blue"
   },
   {
    "id": "19902377",
-   "name": "Lembit Öpik",
+   "name": "Lembit \u00d6pik",
    "public_metrics": {
-    "followers_count": 32161,
+    "followers_count": 32162,
     "following_count": 5953,
     "like_count": 23,
     "listed_count": 467,
@@ -717,21 +745,6 @@
     "tweet_count": 9161
    },
    "username": "lembitopik",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2773644907",
-   "name": "CharlotteEmmaUK 💫",
-   "public_metrics": {
-    "followers_count": 112742,
-    "following_count": 22435,
-    "like_count": 101378,
-    "listed_count": 222,
-    "media_count": 11988,
-    "tweet_count": 84651
-   },
-   "username": "CharlotteEmmaUK",
    "verified": true,
    "verified_type": "blue"
   },
@@ -751,32 +764,32 @@
    "verified_type": "blue"
   },
   {
+   "id": "1587574471627608064",
+   "name": "The Chris Salcedo Show",
+   "public_metrics": {
+    "followers_count": 36485,
+    "following_count": 185,
+    "like_count": 4076,
+    "listed_count": 105,
+    "media_count": 2825,
+    "tweet_count": 33418
+   },
+   "username": "CSalcedoShow",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "42323273",
    "name": "Dr. Mrunal Patel (Ph.D.)",
    "public_metrics": {
     "followers_count": 94349,
     "following_count": 57,
-    "like_count": 840,
+    "like_count": 841,
     "listed_count": 119,
     "media_count": 2965,
     "tweet_count": 4885
    },
    "username": "Mrunal_Patel",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1945024667741462528",
-   "name": "Eastern Horizon with Malik Ayub Sumbal",
-   "public_metrics": {
-    "followers_count": 71,
-    "following_count": 25,
-    "like_count": 0,
-    "listed_count": 0,
-    "media_count": 98,
-    "tweet_count": 246
-   },
-   "username": "HorizonsEastern",
    "verified": true,
    "verified_type": "blue"
   }
