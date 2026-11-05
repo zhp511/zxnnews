@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-05T17:07:35Z",
- "searched_at": "2026-11-05T17:07:30Z",
+ "built_at": "2026-11-05T17:27:09Z",
+ "searched_at": "2026-11-05T17:27:09Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,16 +35,6 @@
    "assumed_live_until": "2026-11-05T19:05:25Z"
   },
   {
-   "post_id": "2118345852922011754",
-   "post_url": "https://x.com/laurashin/status/2118345852922011754",
-   "name": "Laura Shin",
-   "username": "laurashin",
-   "verified_type": "blue",
-   "text": "\"This to me is the end of the long 2016. For the first time, our politics is no longer dictated by what Donald Trump does,\" @JBSDC on the midterms result\n\nhttps://t.co/suMBT6de2Y",
-   "started_at": "2026-11-05T14:13:02.000Z",
-   "assumed_live_until": "2026-11-05T17:13:02Z"
-  },
-  {
    "post_id": "2118375547696771322",
    "post_url": "https://x.com/MELANIAJTRUMP/status/2118375547696771322",
    "name": "FLOTUS Report",
@@ -53,6 +43,16 @@
    "text": "LIVE: First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/Dj2MD3swgT",
    "started_at": "2026-11-05T16:11:02.000Z",
    "assumed_live_until": "2026-11-05T19:11:02Z"
+  },
+  {
+   "post_id": "2118388625113035061",
+   "post_url": "https://x.com/NIACouncil/status/2118388625113035061",
+   "name": "NIAC",
+   "username": "NIACouncil",
+   "verified_type": "blue",
+   "text": "LIVE: Trump, Congress & The Iran War After The Midterms https://t.co/7l3SybKyvR",
+   "started_at": "2026-11-05T17:03:00.000Z",
+   "assumed_live_until": "2026-11-05T20:03:00Z"
   },
   {
    "post_id": "2118379747285590208",
