@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-05T12:44:51Z",
- "searched_at": "2026-11-05T12:44:51Z",
+ "built_at": "2026-11-05T13:01:34Z",
+ "searched_at": "2026-11-05T13:01:34Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,6 +45,16 @@
    "assumed_live_until": "2026-11-05T15:00:12Z"
   },
   {
+   "post_id": "2118326783313396115",
+   "post_url": "https://x.com/FreePeopleRadio/status/2118326783313396115",
+   "name": "Free People Radio",
+   "username": "FreePeopleRadio",
+   "verified_type": "blue",
+   "text": "LIVE - The White House Podcast  🏛️ 🔴 https://t.co/ocPSHmi3bZ",
+   "started_at": "2026-11-05T12:57:16.000Z",
+   "assumed_live_until": "2026-11-05T15:57:16Z"
+  },
+  {
    "post_id": "2118290786483618290",
    "post_url": "https://x.com/LeftysFear/status/2118290786483618290",
    "name": "The Ratio Show: The Working Man's Politics!",
@@ -65,24 +75,14 @@
    "assumed_live_until": "2026-11-05T15:17:53Z"
   },
   {
-   "post_id": "2118290738639179780",
-   "post_url": "https://x.com/ANI/status/2118290738639179780",
-   "name": "ANI",
-   "username": "ANI",
-   "verified_type": "business",
-   "text": "LIVE: Air Vice Marshal Shekhar Yadav holds News Conference on service extension for Agniveers | IAF\n\n#iaf #agniveers #shekharyadav https://t.co/RL8TsvdOfu",
-   "started_at": "2026-11-05T10:34:02.000Z",
-   "assumed_live_until": "2026-11-05T13:34:02Z"
-  },
-  {
-   "post_id": "2118312869620072923",
-   "post_url": "https://x.com/tv3_ghana/status/2118312869620072923",
-   "name": "#TV3GH",
-   "username": "tv3_ghana",
+   "post_id": "2118312442857959492",
+   "post_url": "https://x.com/Citi973/status/2118312442857959492",
+   "name": "CITI FM 97.3",
+   "username": "Citi973",
    "verified_type": "blue",
-   "text": "LIVE: News Central || 05-11-2026 https://t.co/GIbkCM0Vy8",
-   "started_at": "2026-11-05T12:01:59.000Z",
-   "assumed_live_until": "2026-11-05T15:01:59Z"
+   "text": "🚨 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 05-11-26 | #CitiNewsroom https://t.co/K6M6C3KmfU",
+   "started_at": "2026-11-05T12:00:17.000Z",
+   "assumed_live_until": "2026-11-05T15:00:17Z"
   }
  ]
 }
