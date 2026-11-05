@@ -1,103 +1,16 @@
 {
- "fetched_at": "2026-11-05T22:52:55Z",
+ "fetched_at": "2026-11-05T23:27:16Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-05T19:52:00Z",
+  "start_time": "2026-11-05T20:26:00Z",
   "max_results": 25,
-  "sort_order": "relevancy"
+  "sort_order": "relevancy",
+  "post.fields": "created_at,public_metrics,entities,author_id",
+  "expansions": "author_id",
+  "user.fields": "name,username,verified,verified_type,public_metrics"
  },
  "data": [
-  {
-   "author_id": "906150577880670209",
-   "created_at": "2026-11-05T20:06:46.000Z",
-   "edit_history_tweet_ids": [
-    "2118434870305173643"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Mississippi Republican Party Election Press Conference 11-5-2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 88,
-      "expanded_url": "https://x.com/i/broadcasts/2XyEEMOdrPknEX",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2118434912726384640/hzrx3ke_?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118434912726384640/hzrx3ke_?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 65,
-      "status": 200,
-      "title": "Mississippi Sports",
-      "unwound_url": "https://x.com/i/broadcasts/2XyEEMOdrPknEX",
-      "url": "https://t.co/jhF3oxFO2j"
-     }
-    ]
-   },
-   "id": "2118434870305173643",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 198,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Mississippi Republican Party Election Press Conference 11-5-2026 https://t.co/jhF3oxFO2j",
-   "url": "https://x.com/SocialSportsMs/status/2118434870305173643"
-  },
-  {
-   "author_id": "23642374",
-   "created_at": "2026-11-05T20:05:33.000Z",
-   "edit_history_tweet_ids": [
-    "2118434564171513858"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Seahawks Press Conference - November 5, 2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 68,
-      "expanded_url": "https://x.com/i/broadcasts/2lgyydBNdRnpao",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118434567514370048/jE584wsN?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118434567514370048/jE584wsN?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 45,
-      "status": 200,
-      "title": "Seattle Seahawks",
-      "unwound_url": "https://x.com/i/broadcasts/2lgyydBNdRnpao",
-      "url": "https://t.co/2as6lniQG4"
-     }
-    ]
-   },
-   "id": "2118434564171513858",
-   "public_metrics": {
-    "bookmark_count": 6,
-    "impression_count": 12400,
-    "like_count": 89,
-    "quote_count": 0,
-    "reply_count": 3,
-    "retweet_count": 6
-   },
-   "text": "Seahawks Press Conference - November 5, 2026 https://t.co/2as6lniQG4",
-   "url": "https://x.com/Seahawks/status/2118434564171513858"
-  },
   {
    "author_id": "1103077173412356096",
    "created_at": "2026-11-05T21:56:59.000Z",
@@ -134,47 +47,14 @@
    "id": "2118462606625104225",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 431,
-    "like_count": 6,
+    "impression_count": 583,
+    "like_count": 7,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
    "text": "A's General Manager Cam Castro Introductory Press Conference https://t.co/YJ697EzMdF",
    "url": "https://x.com/athleticscast24/status/2118462606625104225"
-  },
-  {
-   "author_id": "15320603",
-   "created_at": "2026-11-05T20:03:59.000Z",
-   "edit_history_tweet_ids": [
-    "2118434172406542724"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "America Voted: Did President Trump And ICE Lose, Or Did Democrats Win? What Happens Now",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 111,
-      "expanded_url": "https://x.com/i/broadcasts/2mdRROqVXXEVvz",
-      "start": 88,
-      "status": 200,
-      "title": "Nick Valencia",
-      "unwound_url": "https://x.com/i/broadcasts/2mdRROqVXXEVvz",
-      "url": "https://t.co/Iktp16I78l"
-     }
-    ]
-   },
-   "id": "2118434172406542724",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 179,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "America Voted: Did President Trump And ICE Lose, Or Did Democrats Win? What Happens Now https://t.co/Iktp16I78l",
-   "url": "https://x.com/nickvalencianew/status/2118434172406542724"
   },
   {
    "author_id": "1326462342679441409",
@@ -212,11 +92,11 @@
    "id": "2118448911220105243",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 992,
-    "like_count": 30,
+    "impression_count": 1089,
+    "like_count": 33,
     "quote_count": 0,
-    "reply_count": 3,
-    "retweet_count": 13
+    "reply_count": 4,
+    "retweet_count": 15
    },
    "text": "Robbert Barnes: BREAKING: Marco Rubio Weighs Leaving Trump Administration After GOP Election Losses https://t.co/c20KBiGnLQ",
    "url": "https://x.com/Dialogue_NRA/status/2118448911220105243"
@@ -257,59 +137,14 @@
    "id": "2118464932991697155",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3843,
-    "like_count": 5,
+    "impression_count": 4634,
+    "like_count": 9,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 2
+    "retweet_count": 5
    },
    "text": "THE CULTURE WAR IS ENTERING A NEW PHASE: From Texas Education And School Choice To Immigration, Identity Politics &amp; The Debate Over Religious Freedom - Examining The Issues Driving America's Political Divide! - TUNE IN! \n\nhttps://t.co/aHIO3M82c0",
    "url": "https://x.com/AJNlive/status/2118464932991697155"
-  },
-  {
-   "author_id": "80741093",
-   "created_at": "2026-11-05T20:00:44.000Z",
-   "edit_history_tweet_ids": [
-    "2118433350809534601"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Jonathan Emord, Blue Wave reaction, Iran War Election Impact, Progressive Party Division, Congressional Health Freedom Debate, GLP-1 Prediabetes Treatment - The RSB Show 11-5-26",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 201,
-      "expanded_url": "https://x.com/i/broadcasts/2rJqqYNEoEjkPb",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118433393998270465/Lp2CXGkw?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118433393998270465/Lp2CXGkw?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 178,
-      "status": 200,
-      "title": "Robert Scott Bell",
-      "unwound_url": "https://x.com/i/broadcasts/2rJqqYNEoEjkPb",
-      "url": "https://t.co/wRp58OIcIV"
-     }
-    ]
-   },
-   "id": "2118433350809534601",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 177,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 1
-   },
-   "text": "Jonathan Emord, Blue Wave reaction, Iran War Election Impact, Progressive Party Division, Congressional Health Freedom Debate, GLP-1 Prediabetes Treatment - The RSB Show 11-5-26 https://t.co/wRp58OIcIV",
-   "url": "https://x.com/askrsb/status/2118433350809534601"
   },
   {
    "author_id": "1217198127591186437",
@@ -347,203 +182,14 @@
    "id": "2118448239296847876",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 3838,
-    "like_count": 7,
+    "impression_count": 4133,
+    "like_count": 8,
     "quote_count": 0,
     "reply_count": 4,
     "retweet_count": 2
    },
    "text": "Is the Trump era OVER? Debate with Rachael Bade | Prove It! with Batya https://t.co/x65kG06mGP",
    "url": "https://x.com/NewsNation/status/2118448239296847876"
-  },
-  {
-   "author_id": "15850297",
-   "created_at": "2026-11-05T19:59:32.000Z",
-   "edit_history_tweet_ids": [
-    "2118433051566882867"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: Hinojosa holds first news conference since election",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 167,
-      "expanded_url": "https://x.com/i/broadcasts/2OdXXRovkpgPMn",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2118433094063599616/3VqqYDsk?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118433094063599616/3VqqYDsk?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 144,
-      "status": 200,
-      "title": "FOX 7 Austin",
-      "unwound_url": "https://x.com/i/broadcasts/2OdXXRovkpgPMn",
-      "url": "https://t.co/Jlw3DMV1Vq"
-     }
-    ]
-   },
-   "id": "2118433051566882867",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 656,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "Texas Governor-elect Gina Hinojosa is holding her first news conference since the election, where she plans to outline her plans for the state. https://t.co/Jlw3DMV1Vq",
-   "url": "https://x.com/fox7austin/status/2118433051566882867"
-  },
-  {
-   "author_id": "17094323",
-   "created_at": "2026-11-05T19:59:30.000Z",
-   "edit_history_tweet_ids": [
-    "2118433042234499481"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: Hinojosa holds first news conference since election",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 167,
-      "expanded_url": "https://x.com/i/broadcasts/2LPXXomjeMoVmE",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2118433084806721536/BFhkYD9n?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118433084806721536/BFhkYD9n?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 144,
-      "status": 200,
-      "title": "FOX26Houston",
-      "unwound_url": "https://x.com/i/broadcasts/2LPXXomjeMoVmE",
-      "url": "https://t.co/SLlUUFsP4S"
-     }
-    ]
-   },
-   "id": "2118433042234499481",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 435,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Texas Governor-elect Gina Hinojosa is holding her first news conference since the election, where she plans to outline her plans for the state. https://t.co/SLlUUFsP4S",
-   "url": "https://x.com/FOX26Houston/status/2118433042234499481"
-  },
-  {
-   "author_id": "16656350",
-   "created_at": "2026-11-05T19:59:31.000Z",
-   "edit_history_tweet_ids": [
-    "2118433046793785818"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: Hinojosa holds first news conference since election",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 167,
-      "expanded_url": "https://x.com/i/broadcasts/2kEvvAjdgrnRZq",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2118433048244932609/tclz5Orb?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118433048244932609/tclz5Orb?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 144,
-      "status": 200,
-      "title": "FOX 4 NEWS",
-      "unwound_url": "https://x.com/i/broadcasts/2kEvvAjdgrnRZq",
-      "url": "https://t.co/ztaoF6gDTe"
-     }
-    ]
-   },
-   "id": "2118433046793785818",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 2012,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 4,
-    "retweet_count": 0
-   },
-   "text": "Texas Governor-elect Gina Hinojosa is holding her first news conference since the election, where she plans to outline her plans for the state. https://t.co/ztaoF6gDTe",
-   "url": "https://x.com/FOX4/status/2118433046793785818"
-  },
-  {
-   "author_id": "16232940",
-   "created_at": "2026-11-05T20:04:45.000Z",
-   "edit_history_tweet_ids": [
-    "2118433991837581783",
-    "2118434362844979441"
-   ],
-   "entities": {
-    "mentions": [
-     {
-      "end": 185,
-      "id": "821095705724866560",
-      "start": 175,
-      "username": "TheTNStar"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Live November 05",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 209,
-      "expanded_url": "https://x.com/i/broadcasts/2zkAApmyRYqMMy",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118434034359443457/GlitaGyM?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118434034359443457/GlitaGyM?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 186,
-      "status": 200,
-      "title": "Michael Patrick Leahy",
-      "unwound_url": "https://x.com/i/broadcasts/2zkAApmyRYqMMy",
-      "url": "https://t.co/FueaJClS9j"
-     }
-    ]
-   },
-   "id": "2118434362844979441",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 369,
-    "like_count": 1,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "Tune in now to The Michael Patrick Leahy Show - your AMERICA FIRST news talk!\n- Watch LIVE here on X \n- Listen on Spotify \n- Listen on WENO AM760 in Nashville \n- Read more at @TheTNStar https://t.co/FueaJClS9j",
-   "url": "https://x.com/michaelpleahy/status/2118434362844979441"
   },
   {
    "author_id": "22455409",
@@ -569,7 +215,7 @@
    "id": "2118451539110957166",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 189,
+    "impression_count": 204,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -627,12 +273,12 @@
    },
    "id": "2118448478778974686",
    "public_metrics": {
-    "bookmark_count": 16,
-    "impression_count": 37345,
-    "like_count": 98,
+    "bookmark_count": 17,
+    "impression_count": 41807,
+    "like_count": 108,
     "quote_count": 2,
     "reply_count": 6,
-    "retweet_count": 13
+    "retweet_count": 16
    },
    "text": "🔴 LIVE NOW: Democrats won Congress. @gtconway3d warns me what Trump does next and why impeachment stays on the table. Plus @DecodingFoxNews on the Fox blue-wave meltdown, and Sam is live on the ground as Trump may be racing to start his arch. 👇 https://t.co/moZwlMTiKj",
    "url": "https://x.com/Acosta/status/2118448478778974686"
@@ -672,105 +318,15 @@
    },
    "id": "2118463544618307661",
    "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 39276,
-    "like_count": 72,
+    "bookmark_count": 5,
+    "impression_count": 70429,
+    "like_count": 102,
     "quote_count": 0,
     "reply_count": 5,
-    "retweet_count": 16
+    "retweet_count": 18
    },
    "text": "America's Mayor Live (1054) Analyzing Vice President JD Vance's Response to Midterm Election Results https://t.co/MAbYHJukal",
    "url": "https://x.com/RudyGiuliani/status/2118463544618307661"
-  },
-  {
-   "author_id": "1334358077131276289",
-   "created_at": "2026-11-05T19:59:49.000Z",
-   "edit_history_tweet_ids": [
-    "2118433120152064474"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Democrats Crush the Stock Market with Law Fare - Trump Admin Resignations Begin - Today's News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 118,
-      "expanded_url": "https://x.com/i/broadcasts/2MEXXrzdWjqndO",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2118433162707521536/mXOTw-A9?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118433162707521536/mXOTw-A9?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 95,
-      "status": 200,
-      "title": "Oreo Express",
-      "unwound_url": "https://x.com/i/broadcasts/2MEXXrzdWjqndO",
-      "url": "https://t.co/xARUmXQ7T6"
-     }
-    ]
-   },
-   "id": "2118433120152064474",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 653,
-    "like_count": 6,
-    "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 1
-   },
-   "text": "Democrats Crush the Stock Market with Law Fare - Trump Admin Resignations Begin - Today's News https://t.co/xARUmXQ7T6",
-   "url": "https://x.com/OreoExpress/status/2118433120152064474"
-  },
-  {
-   "author_id": "984443346",
-   "created_at": "2026-11-05T21:33:24.000Z",
-   "edit_history_tweet_ids": [
-    "2118456670989000763"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "President Trump Participates in Signing Time, Nov. 5, 2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 89,
-      "expanded_url": "https://x.com/i/broadcasts/2XyEEROnpbdRJj",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118445616800108544/-_lrrFvy?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118445616800108544/-_lrrFvy?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 66,
-      "status": 200,
-      "title": "The White House",
-      "unwound_url": "https://x.com/i/broadcasts/2XyEEROnpbdRJj",
-      "url": "https://t.co/4faNozsP7y"
-     }
-    ]
-   },
-   "id": "2118456670989000763",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 220,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "LIVE: President Trump Participates in Signing Time, Nov. 5, 2026\n\nhttps://t.co/4faNozsP7y",
-   "url": "https://x.com/Huberton/status/2118456670989000763"
   },
   {
    "author_id": "1843425617993445377",
@@ -818,6 +374,51 @@
    "url": "https://x.com/KarenDoe50/status/2118451065808887845"
   },
   {
+   "author_id": "984443346",
+   "created_at": "2026-11-05T21:33:24.000Z",
+   "edit_history_tweet_ids": [
+    "2118456670989000763"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "President Trump Participates in Signing Time, Nov. 5, 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 89,
+      "expanded_url": "https://x.com/i/broadcasts/2XyEEROnpbdRJj",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118445616800108544/-_lrrFvy?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118445616800108544/-_lrrFvy?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 66,
+      "status": 200,
+      "title": "The White House",
+      "unwound_url": "https://x.com/i/broadcasts/2XyEEROnpbdRJj",
+      "url": "https://t.co/4faNozsP7y"
+     }
+    ]
+   },
+   "id": "2118456670989000763",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 260,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "LIVE: President Trump Participates in Signing Time, Nov. 5, 2026\n\nhttps://t.co/4faNozsP7y",
+   "url": "https://x.com/Huberton/status/2118456670989000763"
+  },
+  {
    "author_id": "1585667220591345674",
    "created_at": "2026-11-05T21:07:57.000Z",
    "edit_history_tweet_ids": [
@@ -853,10 +454,10 @@
    "id": "2118450267851022795",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 735,
-    "like_count": 9,
+    "impression_count": 782,
+    "like_count": 11,
     "quote_count": 0,
-    "reply_count": 0,
+    "reply_count": 1,
     "retweet_count": 2
    },
    "text": "Badlands Coverage: President Trump Signing Time https://t.co/Y1SIwDUaLU",
@@ -898,7 +499,7 @@
    "id": "2118451436967043467",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 332,
+    "impression_count": 377,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -931,7 +532,7 @@
    "id": "2118454676924309541",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 33,
+    "impression_count": 36,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -939,96 +540,6 @@
    },
    "text": "LIVE: President Trump Participates in Signing Time https://t.co/KfZCSIOabV",
    "url": "https://x.com/DiyaTV/status/2118454676924309541"
-  },
-  {
-   "author_id": "1879644163769335808",
-   "created_at": "2026-11-05T20:49:18.000Z",
-   "edit_history_tweet_ids": [
-    "2118445573640741082"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "President Trump Participates in Signing Time, Nov. 5, 2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 82,
-      "expanded_url": "https://x.com/i/broadcasts/2XyEEROnpbdRJj",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118445616800108544/-_lrrFvy?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118445616800108544/-_lrrFvy?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 59,
-      "status": 200,
-      "title": "The White House",
-      "unwound_url": "https://x.com/i/broadcasts/2XyEEROnpbdRJj",
-      "url": "https://t.co/MHZaSHiHfb"
-     }
-    ]
-   },
-   "id": "2118445573640741082",
-   "public_metrics": {
-    "bookmark_count": 175,
-    "impression_count": 190044,
-    "like_count": 2635,
-    "quote_count": 43,
-    "reply_count": 401,
-    "retweet_count": 612
-   },
-   "text": "President Trump Participates in Signing Time, Nov. 5, 2026 https://t.co/MHZaSHiHfb",
-   "url": "https://x.com/WhiteHouse/status/2118445573640741082"
-  },
-  {
-   "author_id": "1428076295007703043",
-   "created_at": "2026-11-05T21:10:18.000Z",
-   "edit_history_tweet_ids": [
-    "2118450861017809071"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: PRESIDENT TRUMP PARTICIPATES IN SIGNING TIME",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 74,
-      "expanded_url": "https://x.com/i/broadcasts/2broopprArJXrP",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118450903543898113/YhgJtqIs?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118450903543898113/YhgJtqIs?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 51,
-      "status": 200,
-      "title": "LindellTV",
-      "unwound_url": "https://x.com/i/broadcasts/2broopprArJXrP",
-      "url": "https://t.co/lafmEa7pwY"
-     }
-    ]
-   },
-   "id": "2118450861017809071",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 1248,
-    "like_count": 11,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 3
-   },
-   "text": "LIVE: PRESIDENT TRUMP PARTICIPATES IN SIGNING TIME https://t.co/lafmEa7pwY",
-   "url": "https://x.com/RealLindellTV/status/2118450861017809071"
   },
   {
    "author_id": "2029725690371903488",
@@ -1066,7 +577,7 @@
    "id": "2118454537417822642",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 22,
+    "impression_count": 37,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 2,
@@ -1074,6 +585,96 @@
    },
    "text": "President Trump Participates in Signing Time, \nNov. 5, 2026\n🇺🇲👇👀\nhttps://t.co/2BNPi5Tgkj",
    "url": "https://x.com/asaonofriend/status/2118454537417822642"
+  },
+  {
+   "author_id": "1428076295007703043",
+   "created_at": "2026-11-05T21:10:18.000Z",
+   "edit_history_tweet_ids": [
+    "2118450861017809071"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: PRESIDENT TRUMP PARTICIPATES IN SIGNING TIME",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 74,
+      "expanded_url": "https://x.com/i/broadcasts/2broopprArJXrP",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118450903543898113/YhgJtqIs?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118450903543898113/YhgJtqIs?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 51,
+      "status": 200,
+      "title": "LindellTV",
+      "unwound_url": "https://x.com/i/broadcasts/2broopprArJXrP",
+      "url": "https://t.co/lafmEa7pwY"
+     }
+    ]
+   },
+   "id": "2118450861017809071",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 1314,
+    "like_count": 12,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 3
+   },
+   "text": "LIVE: PRESIDENT TRUMP PARTICIPATES IN SIGNING TIME https://t.co/lafmEa7pwY",
+   "url": "https://x.com/RealLindellTV/status/2118450861017809071"
+  },
+  {
+   "author_id": "61011257",
+   "created_at": "2026-11-05T21:40:04.000Z",
+   "edit_history_tweet_ids": [
+    "2118458350002135259"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: President Trump Participates in Signing Time - 11/05/26",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 86,
+      "expanded_url": "https://x.com/i/broadcasts/2rJqqZoPlojLWd",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118450934384570368/aFMWgBup?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118450934384570368/aFMWgBup?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 63,
+      "status": 200,
+      "title": "RSBN 🇺🇸",
+      "unwound_url": "https://x.com/i/broadcasts/2rJqqZoPlojLWd",
+      "url": "https://t.co/F2Z2nmS88C"
+     }
+    ]
+   },
+   "id": "2118458350002135259",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚨LIVE: President Trump Participates in Signing Time - 11/05/26 https://t.co/F2Z2nmS88C",
+   "url": "https://x.com/realjamesrossi/status/2118458350002135259"
   },
   {
    "author_id": "4041824789",
@@ -1110,217 +711,812 @@
    },
    "id": "2118450918924382367",
    "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 7984,
-    "like_count": 63,
+    "bookmark_count": 5,
+    "impression_count": 8485,
+    "like_count": 69,
     "quote_count": 3,
     "reply_count": 4,
-    "retweet_count": 19
+    "retweet_count": 22
    },
    "text": "LIVE: President Trump Participates in Signing Time - 11/05/26 https://t.co/CZA5giTMEp",
    "url": "https://x.com/RSBNetwork/status/2118450918924382367"
+  },
+  {
+   "author_id": "1879644163769335808",
+   "created_at": "2026-11-05T20:49:18.000Z",
+   "edit_history_tweet_ids": [
+    "2118445573640741082"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "President Trump Participates in Signing Time, Nov. 5, 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 82,
+      "expanded_url": "https://x.com/i/broadcasts/2XyEEROnpbdRJj",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118445616800108544/-_lrrFvy?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118445616800108544/-_lrrFvy?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 59,
+      "status": 200,
+      "title": "The White House",
+      "unwound_url": "https://x.com/i/broadcasts/2XyEEROnpbdRJj",
+      "url": "https://t.co/MHZaSHiHfb"
+     }
+    ]
+   },
+   "id": "2118445573640741082",
+   "public_metrics": {
+    "bookmark_count": 180,
+    "impression_count": 203321,
+    "like_count": 2762,
+    "quote_count": 45,
+    "reply_count": 407,
+    "retweet_count": 636
+   },
+   "text": "President Trump Participates in Signing Time, Nov. 5, 2026 https://t.co/MHZaSHiHfb",
+   "url": "https://x.com/WhiteHouse/status/2118445573640741082"
+  },
+  {
+   "author_id": "890980517855866881",
+   "created_at": "2026-11-05T21:11:56.000Z",
+   "edit_history_tweet_ids": [
+    "2118451270969401713"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "THE AI BUBBLE HAS OFFICIALLY IMPLODED! Democrat/Communist Victory Spooks Investors! Trillions Lost As Nasdaq Plunges! Tune In Now As Alex Jones & Incredible Guests Break Down Insane Developments Across World! Must-Watch/Share Information!",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 277,
+      "expanded_url": "https://x.com/i/broadcasts/2ZBXKgdbVVlvRz",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118388162128990210/L93KcEFQ?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118388162128990210/L93KcEFQ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 254,
+      "status": 200,
+      "title": "Alex Jones Network",
+      "unwound_url": "https://x.com/i/broadcasts/2ZBXKgdbVVlvRz",
+      "url": "https://t.co/0iImbxCNcC"
+     }
+    ]
+   },
+   "id": "2118451270969401713",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 568,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "✫✫✫✫✫ WAR ROOM LIVE: What? Trump Told Aides Stephen Miller’s Immigration Enforcement Had ‘Gone Too Far’ After Melania’s Friends Deported, Russell Brand Found Guilty of Rape, Paraguay President Resigns Following Bank Collapse…    – TUNE IN &amp; SHARE!   https://t.co/0iImbxCNcC",
+   "url": "https://x.com/WarRoomShow/status/2118451270969401713"
+  },
+  {
+   "author_id": "1731447196455989248",
+   "created_at": "2026-11-05T21:58:44.000Z",
+   "edit_history_tweet_ids": [
+    "2118463048537035018"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 204,
+      "start": 199,
+      "tag": "2Way"
+     },
+     {
+      "end": 211,
+      "start": 205,
+      "tag": "Trump"
+     },
+     {
+      "end": 222,
+      "start": 212,
+      "tag": "Democrats"
+     },
+     {
+      "end": 232,
+      "start": 223,
+      "tag": "Midterms"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 13,
+      "id": "184136149",
+      "start": 0,
+      "username": "MarkHalperin"
+     },
+     {
+      "end": 39,
+      "id": "268573257",
+      "start": 27,
+      "username": "Albydelphia"
+     },
+     {
+      "end": 58,
+      "id": "16879936",
+      "start": 46,
+      "username": "NomikiKonst"
+     }
+    ],
+    "urls": [
+     {
+      "description": "The Midterms & Your Money: David Bahnsen on the Election's Economic Impact",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 256,
+      "expanded_url": "https://x.com/i/broadcasts/2qVjjlPlegRVQZ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118463091276984322/mLgZQf0C?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118463091276984322/mLgZQf0C?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 233,
+      "status": 200,
+      "title": "2WAY",
+      "unwound_url": "https://x.com/i/broadcasts/2qVjjlPlegRVQZ",
+      "url": "https://t.co/kD4790XUjA"
+     }
+    ]
+   },
+   "id": "2118463048537035018",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 3428,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 1
+   },
+   "text": "@MarkHalperin is joined by @Albydelphia &amp; @NomikiKonst to break down how Democrats and Republicans are interpreting this week’s resounding election results, and what comes next for both parties. #2Way #Trump #Democrats #Midterms https://t.co/kD4790XUjA",
+   "url": "https://x.com/2waytvapp/status/2118463048537035018"
+  },
+  {
+   "author_id": "618484570",
+   "created_at": "2026-11-05T21:17:58.000Z",
+   "edit_history_tweet_ids": [
+    "2118452791010054592"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Reviewing MY DEBATE | & MORE",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 56,
+      "expanded_url": "https://x.com/i/broadcasts/2LPXXpyBkylzmq",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118452833653538816/FPxT8Kq5?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118452833653538816/FPxT8Kq5?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 33,
+      "status": 200,
+      "title": "Gnostic Informant | Neal Sendlak",
+      "unwound_url": "https://x.com/i/broadcasts/2LPXXpyBkylzmq",
+      "url": "https://t.co/7FPbs8dioh"
+     }
+    ]
+   },
+   "id": "2118452791010054592",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 374,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 3
+   },
+   "text": "Reviewing MY DEBATE | &amp; MORE https://t.co/7FPbs8dioh",
+   "url": "https://x.com/Gnosisinformant/status/2118452791010054592"
+  },
+  {
+   "author_id": "1374121594172375040",
+   "created_at": "2026-11-05T23:04:06.000Z",
+   "edit_history_tweet_ids": [
+    "2118479498433683801"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Lois Lane Is A Republican? DC Decisions: How Comics Should Handle Politics | UTC Podcast 346",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 116,
+      "expanded_url": "https://x.com/i/broadcasts/2zkAVNLVBgKlnM",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118479540934565888/h-R-NNwx?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118479540934565888/h-R-NNwx?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 93,
+      "status": 200,
+      "title": "Jared",
+      "unwound_url": "https://x.com/i/broadcasts/2zkAVNLVBgKlnM",
+      "url": "https://t.co/dB0nLC9DqE"
+     }
+    ]
+   },
+   "id": "2118479498433683801",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Lois Lane Is A Republican? DC Decisions: How Comics Should Handle Politics | UTC Podcast 346 https://t.co/dB0nLC9DqE",
+   "url": "https://x.com/ComicsLeagueJT/status/2118479498433683801"
+  },
+  {
+   "author_id": "2546221834",
+   "created_at": "2026-11-05T22:23:12.000Z",
+   "edit_history_tweet_ids": [
+    "2118469207427862678"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "11 5 2026 War of Reckoning Thurs Testing. No politics allowed in chat.",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 94,
+      "expanded_url": "https://x.com/i/broadcasts/2OdXXMMWVRoXXb",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118469249983209472/euiX_vTe?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118469249983209472/euiX_vTe?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 71,
+      "status": 200,
+      "title": "Ticklefitz",
+      "unwound_url": "https://x.com/i/broadcasts/2OdXXMMWVRoXXb",
+      "url": "https://t.co/xeTBCKs78i"
+     }
+    ]
+   },
+   "id": "2118469207427862678",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 11,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "11 5 2026 War of Reckoning Thurs Testing. No politics allowed in chat. https://t.co/xeTBCKs78i",
+   "url": "https://x.com/ticklefitz/status/2118469207427862678"
+  },
+  {
+   "author_id": "1352487109165125640",
+   "created_at": "2026-11-05T23:14:02.000Z",
+   "edit_history_tweet_ids": [
+    "2118481996984832277"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Bitcoin Back Above $80K (LIVE): Democrats SWEEP Congress",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 80,
+      "expanded_url": "https://x.com/i/broadcasts/2ReMWJKEdpoPKN",
+      "images": [
+       {
+        "height": 1440,
+        "url": "https://pbs.twimg.com/news_img/2118482039691202560/hLCOhe86?format=jpg&name=orig",
+        "width": 2560
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118482039691202560/hLCOhe86?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 57,
+      "status": 200,
+      "title": "David Beaudry | VYLØS",
+      "unwound_url": "https://x.com/i/broadcasts/2ReMWJKEdpoPKN",
+      "url": "https://t.co/OXzRpFbSpX"
+     }
+    ]
+   },
+   "id": "2118481996984832277",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 175,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Bitcoin Back Above $80K (LIVE): Democrats SWEEP Congress https://t.co/OXzRpFbSpX",
+   "url": "https://x.com/davidbeaudry/status/2118481996984832277"
+  },
+  {
+   "author_id": "22455409",
+   "created_at": "2026-11-05T22:24:22.000Z",
+   "edit_history_tweet_ids": [
+    "2118469500349632869"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Indiana Executes Jeffrey Weisheit & GOP Loses Supermajority | Eric Deters Local News Indiana #indiananews#indiana#jeffreyweisheit#weisheitexecution#indianaexecution#evansville#hamiltoncountyin#news",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 225,
+      "expanded_url": "https://x.com/i/broadcasts/2ReMMeKroqEWvZ",
+      "start": 202,
+      "status": 200,
+      "title": "Eric Deters",
+      "unwound_url": "https://x.com/i/broadcasts/2ReMMeKroqEWvZ",
+      "url": "https://t.co/l0QecG1fEI"
+     }
+    ]
+   },
+   "id": "2118469500349632869",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 178,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Indiana Executes Jeffrey Weisheit &amp; GOP Loses Supermajority | Eric Deters Local News Indiana #indiananews#indiana#jeffreyweisheit#weisheitexecution#indianaexecution#evansville#hamiltoncountyin#news https://t.co/l0QecG1fEI",
+   "url": "https://x.com/bulllaw/status/2118469500349632869"
+  },
+  {
+   "author_id": "2579252329",
+   "created_at": "2026-11-05T21:07:58.000Z",
+   "edit_history_tweet_ids": [
+    "2118450271458103721"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Live with NEWS TALK 1037FM",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 50,
+      "expanded_url": "https://x.com/i/broadcasts/2AMWWyLnLPKWEz",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118450314210619392/n7H7QpcJ?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118450314210619392/n7H7QpcJ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 27,
+      "status": 200,
+      "title": "Newstalk1037fm",
+      "unwound_url": "https://x.com/i/broadcasts/2AMWWyLnLPKWEz",
+      "url": "https://t.co/sNrjHwqgyu"
+     }
+    ]
+   },
+   "id": "2118450271458103721",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 11,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Live with NEWS TALK 1037FM https://t.co/sNrjHwqgyu",
+   "url": "https://x.com/Newstalk1037fm/status/2118450271458103721"
   }
  ],
  "users": [
   {
-   "id": "906150577880670209",
-   "name": "Mississippi Sports",
-   "username": "SocialSportsMs",
-   "verified": true,
-   "verified_type": "blue",
-   "followers": 13007
-  },
-  {
-   "id": "23642374",
-   "name": "Seattle Seahawks",
-   "username": "Seahawks",
-   "verified": true,
-   "verified_type": "business",
-   "followers": 2425775
-  },
-  {
    "id": "1103077173412356096",
    "name": "A's Cast",
+   "public_metrics": {
+    "followers_count": 6131,
+    "following_count": 193,
+    "like_count": 1569,
+    "listed_count": 100,
+    "media_count": 3207,
+    "tweet_count": 6755
+   },
    "username": "athleticscast24",
    "verified": true,
-   "verified_type": "blue",
-   "followers": 6131
-  },
-  {
-   "id": "15320603",
-   "name": "Nick Valencia",
-   "username": "nickvalencianew",
-   "verified": true,
-   "verified_type": "blue",
-   "followers": 25595
+   "verified_type": "blue"
   },
   {
    "id": "1326462342679441409",
    "name": "Dialogue works",
+   "public_metrics": {
+    "followers_count": 19578,
+    "following_count": 82,
+    "like_count": 1038,
+    "listed_count": 174,
+    "media_count": 3327,
+    "tweet_count": 6576
+   },
    "username": "Dialogue_NRA",
    "verified": true,
-   "verified_type": "blue",
-   "followers": 19578
+   "verified_type": "blue"
   },
   {
    "id": "1835652531826913280",
    "name": "Alex Jones Network",
+   "public_metrics": {
+    "followers_count": 368992,
+    "following_count": 362,
+    "like_count": 4958,
+    "listed_count": 590,
+    "media_count": 2627,
+    "tweet_count": 8048
+   },
    "username": "AJNlive",
    "verified": true,
-   "verified_type": "blue",
-   "followers": 368998
-  },
-  {
-   "id": "80741093",
-   "name": "Robert Scott Bell",
-   "username": "askrsb",
-   "verified": true,
-   "verified_type": "blue",
-   "followers": 15259
+   "verified_type": "blue"
   },
   {
    "id": "1217198127591186437",
    "name": "NewsNation",
+   "public_metrics": {
+    "followers_count": 318398,
+    "following_count": 246,
+    "like_count": 627,
+    "listed_count": 1462,
+    "media_count": 41400,
+    "tweet_count": 125088
+   },
    "username": "NewsNation",
    "verified": true,
-   "verified_type": "business",
-   "followers": 318396
-  },
-  {
-   "id": "15850297",
-   "name": "FOX 7 Austin",
-   "username": "fox7austin",
-   "verified": true,
-   "verified_type": "business",
-   "followers": 155680
-  },
-  {
-   "id": "17094323",
-   "name": "FOX26Houston",
-   "username": "FOX26Houston",
-   "verified": true,
-   "verified_type": "blue",
-   "followers": 423843
-  },
-  {
-   "id": "16656350",
-   "name": "FOX 4 NEWS",
-   "username": "FOX4",
-   "verified": true,
-   "verified_type": "blue",
-   "followers": 699449
-  },
-  {
-   "id": "16232940",
-   "name": "Michael Patrick Leahy",
-   "username": "michaelpleahy",
-   "verified": true,
-   "verified_type": "blue",
-   "followers": 36702
+   "verified_type": "business"
   },
   {
    "id": "22455409",
    "name": "Eric Deters",
+   "public_metrics": {
+    "followers_count": 27516,
+    "following_count": 3792,
+    "like_count": 7424,
+    "listed_count": 54,
+    "media_count": 23490,
+    "tweet_count": 70701
+   },
    "username": "bulllaw",
    "verified": true,
-   "verified_type": "blue",
-   "followers": 27517
+   "verified_type": "blue"
   },
   {
    "id": "22771961",
    "name": "Jim Acosta",
+   "public_metrics": {
+    "followers_count": 2413531,
+    "following_count": 5398,
+    "like_count": 20078,
+    "listed_count": 13189,
+    "media_count": 3570,
+    "tweet_count": 49925
+   },
    "username": "Acosta",
    "verified": true,
-   "verified_type": "blue",
-   "followers": 2413512
+   "verified_type": "blue"
   },
   {
    "id": "770781940341288960",
    "name": "Rudy W. Giuliani",
+   "public_metrics": {
+    "followers_count": 1917802,
+    "following_count": 1359,
+    "like_count": 20788,
+    "listed_count": 5135,
+    "media_count": 3141,
+    "tweet_count": 16738
+   },
    "username": "RudyGiuliani",
    "verified": true,
-   "verified_type": "blue",
-   "followers": 1917825
-  },
-  {
-   "id": "1334358077131276289",
-   "name": "Oreo Express",
-   "username": "OreoExpress",
-   "verified": true,
-   "verified_type": "blue",
-   "followers": 37329
-  },
-  {
-   "id": "984443346",
-   "name": "AJ Huber",
-   "username": "Huberton",
-   "verified": true,
-   "verified_type": "blue",
-   "followers": 30150
+   "verified_type": "blue"
   },
   {
    "id": "1843425617993445377",
    "name": "Karen Doe",
+   "public_metrics": {
+    "followers_count": 9388,
+    "following_count": 10349,
+    "like_count": 148006,
+    "listed_count": 0,
+    "media_count": 1161,
+    "tweet_count": 131135
+   },
    "username": "KarenDoe50",
    "verified": false,
-   "verified_type": "none",
-   "followers": 9387
+   "verified_type": "none"
+  },
+  {
+   "id": "984443346",
+   "name": "AJ Huber",
+   "public_metrics": {
+    "followers_count": 30149,
+    "following_count": 12,
+    "like_count": 16819,
+    "listed_count": 110,
+    "media_count": 20834,
+    "tweet_count": 36771
+   },
+   "username": "Huberton",
+   "verified": true,
+   "verified_type": "blue"
   },
   {
    "id": "1585667220591345674",
    "name": "Badlands Media",
+   "public_metrics": {
+    "followers_count": 47194,
+    "following_count": 50,
+    "like_count": 3165,
+    "listed_count": 137,
+    "media_count": 3579,
+    "tweet_count": 30528
+   },
    "username": "BadlandsMedia_",
    "verified": true,
-   "verified_type": "blue",
-   "followers": 47194
+   "verified_type": "blue"
   },
   {
    "id": "1060573081935249409",
    "name": "NTD News",
+   "public_metrics": {
+    "followers_count": 89259,
+    "following_count": 32,
+    "like_count": 31573,
+    "listed_count": 717,
+    "media_count": 27048,
+    "tweet_count": 164414
+   },
    "username": "NTDNews",
    "verified": true,
-   "verified_type": "business",
-   "followers": 89259
+   "verified_type": "business"
   },
   {
    "id": "42548887",
    "name": "Diya TV",
+   "public_metrics": {
+    "followers_count": 2571,
+    "following_count": 2030,
+    "like_count": 2756,
+    "listed_count": 79,
+    "media_count": 3560,
+    "tweet_count": 17997
+   },
    "username": "DiyaTV",
    "verified": true,
-   "verified_type": "blue",
-   "followers": 2571
-  },
-  {
-   "id": "1879644163769335808",
-   "name": "The White House",
-   "username": "WhiteHouse",
-   "verified": true,
-   "verified_type": "government",
-   "followers": 5343554
-  },
-  {
-   "id": "1428076295007703043",
-   "name": "LindellTV",
-   "username": "RealLindellTV",
-   "verified": true,
-   "verified_type": "blue",
-   "followers": 120766
+   "verified_type": "blue"
   },
   {
    "id": "2029725690371903488",
    "name": "Asao_no_Friend🇯🇵🇺🇸🇬🇧",
+   "public_metrics": {
+    "followers_count": 38,
+    "following_count": 363,
+    "like_count": 224,
+    "listed_count": 0,
+    "media_count": 553,
+    "tweet_count": 9370
+   },
    "username": "asaonofriend",
    "verified": true,
-   "verified_type": "blue",
-   "followers": 38
+   "verified_type": "blue"
+  },
+  {
+   "id": "1428076295007703043",
+   "name": "LindellTV",
+   "public_metrics": {
+    "followers_count": 120767,
+    "following_count": 292,
+    "like_count": 3576,
+    "listed_count": 302,
+    "media_count": 5801,
+    "tweet_count": 23103
+   },
+   "username": "RealLindellTV",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "61011257",
+   "name": "James Rossi 🇺🇸",
+   "public_metrics": {
+    "followers_count": 5754,
+    "following_count": 7278,
+    "like_count": 224277,
+    "listed_count": 11,
+    "media_count": 9073,
+    "tweet_count": 295582
+   },
+   "username": "realjamesrossi",
+   "verified": true,
+   "verified_type": "blue"
   },
   {
    "id": "4041824789",
    "name": "RSBN 🇺🇸",
+   "public_metrics": {
+    "followers_count": 1162699,
+    "following_count": 976,
+    "like_count": 12421,
+    "listed_count": 2984,
+    "media_count": 17168,
+    "tweet_count": 50119
+   },
    "username": "RSBNetwork",
    "verified": true,
-   "verified_type": "business",
-   "followers": 1162697
+   "verified_type": "business"
+  },
+  {
+   "id": "1879644163769335808",
+   "name": "The White House",
+   "public_metrics": {
+    "followers_count": 5343797,
+    "following_count": 5,
+    "like_count": 272,
+    "listed_count": 9466,
+    "media_count": 7369,
+    "tweet_count": 20332
+   },
+   "username": "WhiteHouse",
+   "verified": true,
+   "verified_type": "government"
+  },
+  {
+   "id": "890980517855866881",
+   "name": "War Room Live",
+   "public_metrics": {
+    "followers_count": 54285,
+    "following_count": 555,
+    "like_count": 7202,
+    "listed_count": 195,
+    "media_count": 2609,
+    "tweet_count": 12884
+   },
+   "username": "WarRoomShow",
+   "verified": false,
+   "verified_type": "none"
+  },
+  {
+   "id": "1731447196455989248",
+   "name": "2WAY",
+   "public_metrics": {
+    "followers_count": 60531,
+    "following_count": 790,
+    "like_count": 1543,
+    "listed_count": 308,
+    "media_count": 2492,
+    "tweet_count": 5125
+   },
+   "username": "2waytvapp",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "618484570",
+   "name": "Gnostic Informant | Neal Sendlak",
+   "public_metrics": {
+    "followers_count": 16709,
+    "following_count": 369,
+    "like_count": 22386,
+    "listed_count": 82,
+    "media_count": 3231,
+    "tweet_count": 16138
+   },
+   "username": "Gnosisinformant",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1374121594172375040",
+   "name": "Jared",
+   "public_metrics": {
+    "followers_count": 1244,
+    "following_count": 2421,
+    "like_count": 82918,
+    "listed_count": 3,
+    "media_count": 3277,
+    "tweet_count": 17919
+   },
+   "username": "ComicsLeagueJT",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2546221834",
+   "name": "Ticklefitz",
+   "public_metrics": {
+    "followers_count": 584,
+    "following_count": 272,
+    "like_count": 25391,
+    "listed_count": 6,
+    "media_count": 2033,
+    "tweet_count": 8888
+   },
+   "username": "ticklefitz",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1352487109165125640",
+   "name": "David Beaudry | VYLØS",
+   "public_metrics": {
+    "followers_count": 25244,
+    "following_count": 42,
+    "like_count": 26639,
+    "listed_count": 75,
+    "media_count": 1009,
+    "tweet_count": 16347
+   },
+   "username": "davidbeaudry",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2579252329",
+   "name": "Newstalk1037fm",
+   "public_metrics": {
+    "followers_count": 966,
+    "following_count": 534,
+    "like_count": 11643,
+    "listed_count": 15,
+    "media_count": 1065,
+    "tweet_count": 57175
+   },
+   "username": "Newstalk1037fm",
+   "verified": true,
+   "verified_type": "blue"
   }
  ]
 }
