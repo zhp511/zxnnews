@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T12:09:30Z",
+ "fetched_at": "2026-11-05T12:44:51Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-05T09:09:00Z",
+  "start_time": "2026-11-05T09:43:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,10 +17,37 @@
    "edit_history_tweet_ids": [
     "2118310217129611316"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "BOE Rate Announcement & Press Conference - 5th November 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 88,
+      "expanded_url": "https://x.com/i/broadcasts/2broEAmOkglBmq",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2118109578277642240/yXjFtijb?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118109578277642240/yXjFtijb?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 65,
+      "status": 200,
+      "title": "thePropTrade.com",
+      "unwound_url": "https://x.com/i/broadcasts/2broEAmOkglBmq",
+      "url": "https://t.co/FhFJYG7W6J"
+     }
+    ]
+   },
    "id": "2118310217129611316",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 86,
+    "impression_count": 96,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -35,6 +62,21 @@
    "edit_history_tweet_ids": [
     "2118290786483618290"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Rumble On: Dems Take Congress, White House Says ‘Buckle Up’ - Ep. 504/609, 11/5/26",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 106,
+      "expanded_url": "https://x.com/i/broadcasts/2ReMJLmRzbWBqr",
+      "start": 83,
+      "status": 200,
+      "title": "The Ratio Show: The Working Man's Politics!",
+      "unwound_url": "https://x.com/i/broadcasts/2ReMJLmRzbWBqr",
+      "url": "https://t.co/74tBLApvHQ"
+     }
+    ]
+   },
    "id": "2118290786483618290",
    "public_metrics": {
     "bookmark_count": 0,
@@ -44,7 +86,7 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Rumble On: Dems Take Congress, White House Says \u2018Buckle Up\u2019 - Ep. 504/609, 11/5/26 https://t.co/74tBLApvHQ",
+   "text": "Rumble On: Dems Take Congress, White House Says ‘Buckle Up’ - Ep. 504/609, 11/5/26 https://t.co/74tBLApvHQ",
    "url": "https://x.com/LeftysFear/status/2118290786483618290"
   },
   {
@@ -53,10 +95,37 @@
    "edit_history_tweet_ids": [
     "2118306053708255467"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: Press Briefing by GPCC President Girish Chodankar along with other leaders at Congress House Panjim.",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 130,
+      "expanded_url": "https://x.com/i/broadcasts/2MEXJXZQXzYQyk",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118306055599882240/9k05wkxZ?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118306055599882240/9k05wkxZ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 107,
+      "status": 200,
+      "title": "Goa Congress",
+      "unwound_url": "https://x.com/i/broadcasts/2MEXJXZQXzYQyk",
+      "url": "https://t.co/kEeXLNf4Te"
+     }
+    ]
+   },
    "id": "2118306053708255467",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 91,
+    "impression_count": 100,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -71,17 +140,96 @@
    "edit_history_tweet_ids": [
     "2118312442857959492"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 89,
+      "start": 76,
+      "tag": "CitiNewsroom"
+     }
+    ],
+    "urls": [
+     {
+      "description": "🚨 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 05-11-26 | #CitiNewsroom",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 113,
+      "expanded_url": "https://x.com/i/broadcasts/2lgyWdzoYXzbBy",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118312485367296001/5f-x-5pL?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118312485367296001/5f-x-5pL?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "CITI FM 97.3",
+      "unwound_url": "https://x.com/i/broadcasts/2lgyWdzoYXzbBy",
+      "url": "https://t.co/K6M6C3KmfU"
+     }
+    ]
+   },
    "id": "2118312442857959492",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 851,
+    "impression_count": 1138,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "\ud83d\udea8 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 05-11-26 | #CitiNewsroom https://t.co/K6M6C3KmfU",
+   "text": "🚨 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 05-11-26 | #CitiNewsroom https://t.co/K6M6C3KmfU",
    "url": "https://x.com/Citi973/status/2118312442857959492"
+  },
+  {
+   "author_id": "1918992545368997888",
+   "created_at": "2026-11-05T12:17:53.000Z",
+   "edit_history_tweet_ids": [
+    "2118316874266222917"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Live Post-Election Bloodbath Coverage: Tune Into This Must-Watch/Share Edition Of The Alex Jones Show For Next-Level Analysis On The Massive Global/Political Realignment & What Comes Next! A Cornered Trump Is More Likely To Nuke Iran! Tune In NOW!",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 276,
+      "expanded_url": "https://x.com/i/broadcasts/2vypjZAbQgNWLK",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118025294162325504/QvKqkNQ3?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118025294162325504/QvKqkNQ3?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 253,
+      "status": 200,
+      "title": "Alex Jones",
+      "unwound_url": "https://x.com/i/broadcasts/2vypjZAbQgNWLK",
+      "url": "https://t.co/aaNBvdc0o7"
+     }
+    ]
+   },
+   "id": "2118316874266222917",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Live Post-Election Bloodbath Coverage: Tune Into This Must-Watch/Share Edition Of The Alex Jones Show For Next-Level Analysis On The Massive Global/Political Realignment &amp; What Comes Next! A Cornered Trump Is More Likely To Nuke Iran! Tune In NOW!\n\nhttps://t.co/aaNBvdc0o7",
+   "url": "https://x.com/AlexJones1Real/status/2118316874266222917"
   },
   {
    "author_id": "3299214546",
@@ -89,10 +237,37 @@
    "edit_history_tweet_ids": [
     "2118296707687498198"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "エッグカット",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 221,
+      "expanded_url": "https://x.com/i/broadcasts/2vylNBYnPpXMrj",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118296750481944576/BrnWE43o?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118296750481944576/BrnWE43o?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 198,
+      "status": 200,
+      "title": "わぶ|Living Art Project",
+      "unwound_url": "https://x.com/i/broadcasts/2vylNBYnPpXMrj",
+      "url": "https://t.co/vfbt1i168C"
+     }
+    ]
+   },
    "id": "2118296707687498198",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 290,
+    "impression_count": 400,
     "like_count": 3,
     "quote_count": 2,
     "reply_count": 0,
@@ -107,10 +282,62 @@
    "edit_history_tweet_ids": [
     "2118288710982894037"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 5,
+      "start": 0,
+      "tag": "Live"
+     },
+     {
+      "end": 145,
+      "start": 135,
+      "tag": "NewsBreak"
+     },
+     {
+      "end": 200,
+      "start": 187,
+      "tag": "ITLivestream"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 162,
+      "id": "282163133",
+      "start": 151,
+      "username": "PoojaShali"
+     }
+    ],
+    "urls": [
+     {
+      "description": "#Live: Shah vs Rahul, Round 2! Amit Shah challenges Rahul Gandhi to a debate in Parliament. Who will take up the challenge? Tune in to #NewsBreak with @PoojaShali for the latest at 4 PM. #ITLivestream",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 224,
+      "expanded_url": "https://x.com/i/broadcasts/2broLrNJEKKWJX",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118288713042276352/Xq8qWS4X?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118288713042276352/Xq8qWS4X?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 201,
+      "status": 200,
+      "title": "IndiaToday",
+      "unwound_url": "https://x.com/i/broadcasts/2broLrNJEKKWJX",
+      "url": "https://t.co/a4X5MBw1hV"
+     }
+    ]
+   },
    "id": "2118288710982894037",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2546,
+    "impression_count": 2605,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -125,10 +352,60 @@
    "edit_history_tweet_ids": [
     "2118310478451531978"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Democrats flip the House and Senate, but will this historic win bri...",
+      "display_url": "youtube.com/live/CqS1FhIbX…",
+      "end": 113,
+      "expanded_url": "https://youtube.com/live/CqS1FhIbXPE?feature=share",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118310481823690752/pxoP0LVp?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118310481823690752/pxoP0LVp?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "NIGHT SCHOOL: Democrats Take Congress! Israel Aid to End, Anti-Apartheid Party in Trouble",
+      "unwound_url": "https://www.youtube.com/live/CqS1FhIbXPE?feature=share",
+      "url": "https://t.co/WfELfhXE3r"
+     },
+     {
+      "description": "NIGHT SCHOOL: Democrats Take Congress! Israel Aid to End, Anti-Apartheid Party in Trouble https://youtube.com/live/CqS1FhIbXPE?feature=share",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 137,
+      "expanded_url": "https://x.com/i/broadcasts/2qVjWONOAErWlp",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118310521136885761/blTXw0B3?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118310521136885761/blTXw0B3?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 114,
+      "status": 200,
+      "title": "Marc Lamont Hill",
+      "unwound_url": "https://x.com/i/broadcasts/2qVjWONOAErWlp",
+      "url": "https://t.co/4Hl8ha860d"
+     }
+    ]
+   },
    "id": "2118310478451531978",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1483,
+    "impression_count": 2729,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -138,21 +415,204 @@
    "url": "https://x.com/marclamonthill/status/2118310478451531978"
   },
   {
-   "author_id": "1705649608964091904",
-   "created_at": "2026-11-05T11:00:04.000Z",
+   "author_id": "19897138",
+   "created_at": "2026-11-05T12:25:07.000Z",
    "edit_history_tweet_ids": [
-    "2118297287474418074"
+    "2118318693168058613"
    ],
-   "id": "2118297287474418074",
+   "entities": {
+    "hashtags": [
+     {
+      "end": 5,
+      "start": 0,
+      "tag": "Live"
+     },
+     {
+      "end": 99,
+      "start": 92,
+      "tag": "Super6"
+     },
+     {
+      "end": 151,
+      "start": 138,
+      "tag": "ITLivestream"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 115,
+      "id": "3515196199",
+      "start": 105,
+      "username": "Akshita_N"
+     }
+    ],
+    "urls": [
+     {
+      "description": "#Live: Price shock for Karnataka this Diwali! Congress' financial stress exposed? Tune into #Super6 with @Akshita_N for the big headlines #ITLivestream",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 175,
+      "expanded_url": "https://x.com/i/broadcasts/2POMKYqbRnqXbe",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118318695487606784/-Pazg3T2?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118318695487606784/-Pazg3T2?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 152,
+      "status": 200,
+      "title": "IndiaToday",
+      "unwound_url": "https://x.com/i/broadcasts/2POMKYqbRnqXbe",
+      "url": "https://t.co/fE2N3x2otp"
+     }
+    ]
+   },
+   "id": "2118318693168058613",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 91,
+    "impression_count": 1329,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "\ud83d\udd25UNFILTERED VISION NEWS \u2013 MIGHTY MEN THURSDAY \ud83d\udcaa\nhttps://t.co/SJCML6aLRZ \n\nJoin us this morning for Unfiltered Vision News at 7:30am EST. Join by Desktop; https://t.co/nDPZ0zhC6b or Phone; https://t.co/yWhMheQ0nO\n\n@SpudMcKenzie\n@NYStrong_\n@only1showers\n@Unshakablewapr\n@RacerNYC2 https://t.co/lrkY4o6k6H",
+   "text": "#Live: Price shock for Karnataka this Diwali! Congress' financial stress exposed? Tune into #Super6 with @Akshita_N for the big headlines #ITLivestream https://t.co/fE2N3x2otp",
+   "url": "https://x.com/IndiaToday/status/2118318693168058613"
+  },
+  {
+   "author_id": "1705649608964091904",
+   "created_at": "2026-11-05T11:00:04.000Z",
+   "edit_history_tweet_ids": [
+    "2118297287474418074"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 226,
+      "id": "63899697",
+      "start": 213,
+      "username": "SpudMcKenzie"
+     },
+     {
+      "end": 237,
+      "id": "2008911765728550912",
+      "start": 227,
+      "username": "NYStrong_"
+     },
+     {
+      "end": 251,
+      "id": "30576650",
+      "start": 238,
+      "username": "only1showers"
+     },
+     {
+      "end": 267,
+      "id": "1568623080884273152",
+      "start": 252,
+      "username": "Unshakablewapr"
+     },
+     {
+      "end": 278,
+      "id": "1615386603295211524",
+      "start": 268,
+      "username": "RacerNYC2"
+     }
+    ],
+    "urls": [
+     {
+      "description": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 71,
+      "expanded_url": "https://x.com/i/broadcasts/2gqWoMabWZbWbo",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2118297289689104384/HKNVx_qr?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118297289689104384/HKNVx_qr?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 48,
+      "status": 200,
+      "title": "Founder Redemption Party",
+      "unwound_url": "https://x.com/i/broadcasts/2gqWoMabWZbWbo",
+      "url": "https://t.co/SJCML6aLRZ"
+     },
+     {
+      "description": "Join us for another powerful episode of Mighty Men Thursday, where ...",
+      "display_url": "youtube.com/live/KN3Ba5u3j…",
+      "end": 177,
+      "expanded_url": "https://www.youtube.com/live/KN3Ba5u3jBY?si=j5LGiY3HjEjEZJ6b",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118297290611838976/szBu-xnq?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118297290611838976/szBu-xnq?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 154,
+      "status": 200,
+      "title": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪",
+      "unwound_url": "https://www.youtube.com/live/KN3Ba5u3jBY?si=j5LGiY3HjEjEZJ6b",
+      "url": "https://t.co/nDPZ0zhC6b"
+     },
+     {
+      "description": "Join us for another powerful episode of Mighty Men Thursday, where ...",
+      "display_url": "youtube.com/live/ooSHUa2q-…",
+      "end": 211,
+      "expanded_url": "https://www.youtube.com/live/ooSHUa2q-Xg?si=Wvtzlu2YO_cMDjbu",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118297290934816768/EccvEa87?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118297290934816768/EccvEa87?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 188,
+      "status": 200,
+      "title": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪 📱",
+      "unwound_url": "https://www.youtube.com/live/ooSHUa2q-Xg?si=Wvtzlu2YO_cMDjbu",
+      "url": "https://t.co/yWhMheQ0nO"
+     },
+     {
+      "display_url": "pic.x.com/lrkY4o6k6H",
+      "end": 302,
+      "expanded_url": "https://x.com/itsourturnrp/status/2118297287474418074/photo/1",
+      "media_key": "3_2116976145438564353",
+      "start": 279,
+      "url": "https://t.co/lrkY4o6k6H"
+     }
+    ]
+   },
+   "id": "2118297287474418074",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 101,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪\nhttps://t.co/SJCML6aLRZ \n\nJoin us this morning for Unfiltered Vision News at 7:30am EST. Join by Desktop; https://t.co/nDPZ0zhC6b or Phone; https://t.co/yWhMheQ0nO\n\n@SpudMcKenzie\n@NYStrong_\n@only1showers\n@Unshakablewapr\n@RacerNYC2 https://t.co/lrkY4o6k6H",
    "url": "https://x.com/itsourturnrp/status/2118297287474418074"
   },
   {
@@ -161,16 +621,43 @@
    "edit_history_tweet_ids": [
     "2118312422918242351"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Aquino on Houston’s Next Fight, Huffines Blasts Texas GOP, WBAI Revisits MI, OH, TX Senate Stakes",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 121,
+      "expanded_url": "https://x.com/i/broadcasts/2OdXKQvggNgVQQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118312465561718784/RFZKXP8Y?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118312465561718784/RFZKXP8Y?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 98,
+      "status": 200,
+      "title": "Egberto Willies, Politics Done Right host 🇺🇲🇵🇦",
+      "unwound_url": "https://x.com/i/broadcasts/2OdXKQvggNgVQQ",
+      "url": "https://t.co/vpIg8Ou2Hj"
+     }
+    ]
+   },
    "id": "2118312422918242351",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 8,
+    "impression_count": 9,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Aquino on Houston\u2019s Next Fight, Huffines Blasts Texas GOP, WBAI Revisits MI, OH, TX Senate Stakes https://t.co/vpIg8Ou2Hj",
+   "text": "Aquino on Houston’s Next Fight, Huffines Blasts Texas GOP, WBAI Revisits MI, OH, TX Senate Stakes https://t.co/vpIg8Ou2Hj",
    "url": "https://x.com/EgbertoWillies/status/2118312422918242351"
   },
   {
@@ -179,10 +666,37 @@
    "edit_history_tweet_ids": [
     "2118289716558643219"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Sandesh News",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 36,
+      "expanded_url": "https://x.com/i/broadcasts/2OdXaAEJWpVJgk",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118289759705366529/Gn2aPaUl?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118289759705366529/Gn2aPaUl?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 13,
+      "status": 200,
+      "title": "Sandesh",
+      "unwound_url": "https://x.com/i/broadcasts/2OdXaAEJWpVJgk",
+      "url": "https://t.co/WUBTBKgz1r"
+     }
+    ]
+   },
    "id": "2118289716558643219",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 360,
+    "impression_count": 391,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -198,10 +712,37 @@
     "2118312796152586457",
     "2118312937202790752"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Midday News with Gemma Appiah | Thursday, November 5, 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 82,
+      "expanded_url": "https://x.com/i/broadcasts/2mdRjOVYvmEqnV",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118312839345487873/vODS1tBr?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118312839345487873/vODS1tBr?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 59,
+      "status": 200,
+      "title": "Joy 99.7 FM",
+      "unwound_url": "https://x.com/i/broadcasts/2mdRjOVYvmEqnV",
+      "url": "https://t.co/YhG81JFVu6"
+     }
+    ]
+   },
    "id": "2118312796152586457",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 531,
+    "impression_count": 673,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -216,11 +757,38 @@
    "edit_history_tweet_ids": [
     "2118312556221579420"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "MIDDAY NEWS 05/11/26",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 44,
+      "expanded_url": "https://x.com/i/broadcasts/2EmrgOgngoyakA",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118312598642864128/LXANKzWU?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118312598642864128/LXANKzWU?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 21,
+      "status": 200,
+      "title": "UTV Ghana",
+      "unwound_url": "https://x.com/i/broadcasts/2EmrgOgngoyakA",
+      "url": "https://t.co/8j6wr5VYy3"
+     }
+    ]
+   },
    "id": "2118312556221579420",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 742,
-    "like_count": 1,
+    "impression_count": 1092,
+    "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
@@ -229,15 +797,87 @@
    "url": "https://x.com/utvghana/status/2118312556221579420"
   },
   {
+   "author_id": "1999037304103723008",
+   "created_at": "2026-11-05T10:23:21.000Z",
+   "edit_history_tweet_ids": [
+    "2118288047980663186"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "GrowthNow News LIVE !",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 45,
+      "expanded_url": "https://x.com/i/broadcasts/2VNEvNQRYbQpql",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118288090800300032/IWswJfQM?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118288090800300032/IWswJfQM?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 22,
+      "status": 200,
+      "title": "Growthnownews",
+      "unwound_url": "https://x.com/i/broadcasts/2VNEvNQRYbQpql",
+      "url": "https://t.co/bA9KuEmrkk"
+     }
+    ]
+   },
+   "id": "2118288047980663186",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 11,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "GrowthNow News LIVE ! https://t.co/bA9KuEmrkk",
+   "url": "https://x.com/growthnownews/status/2118288047980663186"
+  },
+  {
    "author_id": "2579252329",
    "created_at": "2026-11-05T11:35:05.000Z",
    "edit_history_tweet_ids": [
     "2118306102043439230"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Live with NEWS TALK 1037FM",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 50,
+      "expanded_url": "https://x.com/i/broadcasts/2zkAmAnjLyWgEW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118306144527482880/df1Qgzdq?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118306144527482880/df1Qgzdq?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 27,
+      "status": 200,
+      "title": "Newstalk1037fm",
+      "unwound_url": "https://x.com/i/broadcasts/2zkAmAnjLyWgEW",
+      "url": "https://t.co/RC8dPIahVV"
+     }
+    ]
+   },
    "id": "2118306102043439230",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 14,
+    "impression_count": 21,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -252,11 +892,38 @@
    "edit_history_tweet_ids": [
     "2118312869620072923"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: News Central || 05-11-2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 56,
+      "expanded_url": "https://x.com/i/broadcasts/2YREYllObYXKzb",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118312911974047744/DkwdmKMH?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118312911974047744/DkwdmKMH?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 33,
+      "status": 200,
+      "title": "#TV3GH",
+      "unwound_url": "https://x.com/i/broadcasts/2YREYllObYXKzb",
+      "url": "https://t.co/GIbkCM0Vy8"
+     }
+    ]
+   },
    "id": "2118312869620072923",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1728,
-    "like_count": 0,
+    "impression_count": 2368,
+    "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
@@ -265,12 +932,219 @@
    "url": "https://x.com/tv3_ghana/status/2118312869620072923"
   },
   {
-   "author_id": "1999037304103723008",
-   "created_at": "2026-11-05T10:23:21.000Z",
+   "author_id": "1705649608964091904",
+   "created_at": "2026-11-05T12:30:19.000Z",
    "edit_history_tweet_ids": [
-    "2118288047980663186"
+    "2118320002592063671"
    ],
-   "id": "2118288047980663186",
+   "entities": {
+    "urls": [
+     {
+      "description": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 71,
+      "expanded_url": "https://x.com/i/broadcasts/2gqWoMabWZbWbo",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2118297289689104384/HKNVx_qr?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118297289689104384/HKNVx_qr?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 48,
+      "status": 200,
+      "title": "Founder Redemption Party",
+      "unwound_url": "https://x.com/i/broadcasts/2gqWoMabWZbWbo",
+      "url": "https://t.co/SJCML6bjHx"
+     }
+    ]
+   },
+   "id": "2118320002592063671",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 19,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪 https://t.co/SJCML6bjHx",
+   "url": "https://x.com/itsourturnrp/status/2118320002592063671"
+  },
+  {
+   "author_id": "15501677",
+   "created_at": "2026-11-05T12:30:07.000Z",
+   "edit_history_tweet_ids": [
+    "2118319949387076080"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "11/5/2026 | Daily AI News from GAI Insights",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 67,
+      "expanded_url": "https://x.com/i/broadcasts/2evWgljoVdVKXX",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118319991841763328/kHWOHU24?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118319991841763328/kHWOHU24?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 44,
+      "status": 200,
+      "title": "PaulBaier",
+      "unwound_url": "https://x.com/i/broadcasts/2evWgljoVdVKXX",
+      "url": "https://t.co/oZphJpaOoX"
+     }
+    ]
+   },
+   "id": "2118319949387076080",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 7,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "11/5/2026 | Daily AI News from GAI Insights https://t.co/oZphJpaOoX",
+   "url": "https://x.com/PaulBaier/status/2118319949387076080"
+  },
+  {
+   "author_id": "327419019",
+   "created_at": "2026-11-05T12:30:07.000Z",
+   "edit_history_tweet_ids": [
+    "2118319950162969082"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "11/5/2026 | Daily AI News from GAI Insights",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 67,
+      "expanded_url": "https://x.com/i/broadcasts/2JQXRdoWeWabKm",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118319992617779200/loDzidQP?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118319992617779200/loDzidQP?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 44,
+      "status": 200,
+      "title": "Ankaj Mohindroo",
+      "unwound_url": "https://x.com/i/broadcasts/2JQXRdoWeWabKm",
+      "url": "https://t.co/lrg1S6YkiA"
+     }
+    ]
+   },
+   "id": "2118319950162969082",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "11/5/2026 | Daily AI News from GAI Insights https://t.co/lrg1S6YkiA",
+   "url": "https://x.com/amhrtech/status/2118319950162969082"
+  },
+  {
+   "author_id": "14117196",
+   "created_at": "2026-11-05T12:30:07.000Z",
+   "edit_history_tweet_ids": [
+    "2118319949902917797"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "11/5/2026 | Daily AI News from GAI Insights",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 67,
+      "expanded_url": "https://x.com/i/broadcasts/2NgmKEyvQjZEPV",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118319992517042176/uEcJ_Bzl?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118319992517042176/uEcJ_Bzl?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 44,
+      "status": 200,
+      "title": "John Sviokla",
+      "unwound_url": "https://x.com/i/broadcasts/2NgmKEyvQjZEPV",
+      "url": "https://t.co/ZLb9fRwDSE"
+     }
+    ]
+   },
+   "id": "2118319949902917797",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "11/5/2026 | Daily AI News from GAI Insights https://t.co/ZLb9fRwDSE",
+   "url": "https://x.com/jjsviokla/status/2118319949902917797"
+  },
+  {
+   "author_id": "1672975050222321665",
+   "created_at": "2026-11-05T12:30:07.000Z",
+   "edit_history_tweet_ids": [
+    "2118319949932376226"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "11/5/2026 | Daily AI News from GAI Insights",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 67,
+      "expanded_url": "https://x.com/i/broadcasts/2LPXbEomorlgqz",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118319992403808257/IFR0KEjk?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118319992403808257/IFR0KEjk?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 44,
+      "status": 200,
+      "title": "GAI Insights",
+      "unwound_url": "https://x.com/i/broadcasts/2LPXbEomorlgqz",
+      "url": "https://t.co/vSKJnWlB6l"
+     }
+    ]
+   },
+   "id": "2118319949932376226",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 11,
@@ -279,8 +1153,53 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "GrowthNow News LIVE ! https://t.co/bA9KuEmrkk",
-   "url": "https://x.com/growthnownews/status/2118288047980663186"
+   "text": "11/5/2026 | Daily AI News from GAI Insights https://t.co/vSKJnWlB6l",
+   "url": "https://x.com/GaIinsights/status/2118319949932376226"
+  },
+  {
+   "author_id": "1705649608964091904",
+   "created_at": "2026-11-05T12:30:03.000Z",
+   "edit_history_tweet_ids": [
+    "2118319935805870317"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 71,
+      "expanded_url": "https://x.com/i/broadcasts/2JQXRdoLVqWJvm",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118319978529103872/zs-_QCQq?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118319978529103872/zs-_QCQq?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 48,
+      "status": 200,
+      "title": "Founder Redemption Party",
+      "unwound_url": "https://x.com/i/broadcasts/2JQXRdoLVqWJvm",
+      "url": "https://t.co/aG2azjEw1a"
+     }
+    ]
+   },
+   "id": "2118319935805870317",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 13,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪 https://t.co/aG2azjEw1a",
+   "url": "https://x.com/itsourturnrp/status/2118319935805870317"
   },
   {
    "author_id": "95516147",
@@ -288,12 +1207,39 @@
    "edit_history_tweet_ids": [
     "2118311268058579382"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Longhorns Under Pressure | Injury News, Missouri Matchup & Hoops Night",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 98,
+      "expanded_url": "https://x.com/i/broadcasts/2LPXboEozXyQop",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118311310882435072/jrKDVrZa?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118311310882435072/jrKDVrZa?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 75,
+      "status": 200,
+      "title": "AM 1300 The Zone",
+      "unwound_url": "https://x.com/i/broadcasts/2LPXboEozXyQop",
+      "url": "https://t.co/7QsR3a0Tj9"
+     }
+    ]
+   },
    "id": "2118311268058579382",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 53,
-    "like_count": 0,
-    "quote_count": 1,
+    "impression_count": 465,
+    "like_count": 1,
+    "quote_count": 2,
     "reply_count": 0,
     "retweet_count": 0
    },
@@ -306,161 +1252,61 @@
    "edit_history_tweet_ids": [
     "2118290738639179780"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 105,
+      "start": 101,
+      "tag": "iaf"
+     },
+     {
+      "end": 116,
+      "start": 106,
+      "tag": "agniveers"
+     },
+     {
+      "end": 130,
+      "start": 117,
+      "tag": "shekharyadav"
+     }
+    ],
+    "urls": [
+     {
+      "description": "LIVE: Air Vice Marshal Shekhar Yadav holds News Conference on service extension for Agniveers | IAF",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 154,
+      "expanded_url": "https://x.com/i/broadcasts/2VNEvbbQKbQalR",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118290740455280640/ulav-Mj3?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118290740455280640/ulav-Mj3?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 131,
+      "status": 200,
+      "title": "ANI",
+      "unwound_url": "https://x.com/i/broadcasts/2VNEvbbQKbQalR",
+      "url": "https://t.co/RL8TsvdOfu"
+     }
+    ]
+   },
    "id": "2118290738639179780",
    "public_metrics": {
-    "bookmark_count": 6,
-    "impression_count": 18410,
-    "like_count": 31,
+    "bookmark_count": 8,
+    "impression_count": 19442,
+    "like_count": 41,
     "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 3
+    "reply_count": 1,
+    "retweet_count": 6
    },
    "text": "LIVE: Air Vice Marshal Shekhar Yadav holds News Conference on service extension for Agniveers | IAF\n\n#iaf #agniveers #shekharyadav https://t.co/RL8TsvdOfu",
    "url": "https://x.com/ANI/status/2118290738639179780"
-  },
-  {
-   "author_id": "18719880",
-   "created_at": "2026-11-05T11:58:13.000Z",
-   "edit_history_tweet_ids": [
-    "2118311922009362659"
-   ],
-   "id": "2118311922009362659",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 90,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "County Budget Day w/ Error, Christmas Tree Harvest, &amp; the Death of the Internet | Wis. Morning News 11/05/26 https://t.co/0pUuvRA5Cz",
-   "url": "https://x.com/620wtmj/status/2118311922009362659"
-  },
-  {
-   "author_id": "2067872109674557440",
-   "created_at": "2026-11-05T10:00:06.000Z",
-   "edit_history_tweet_ids": [
-    "2118282196272189764"
-   ],
-   "id": "2118282196272189764",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 181,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Who is the SNITCH? Players CONFUSED by tactics? NUFC morning news! https://t.co/UCyTlPd2es",
-   "url": "https://x.com/thetoonreviewYT/status/2118282196272189764"
-  },
-  {
-   "author_id": "34672742",
-   "created_at": "2026-11-05T12:02:43.000Z",
-   "edit_history_tweet_ids": [
-    "2118313054198984735"
-   ],
-   "id": "2118313054198984735",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 75,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "It's time for The Wisconsin Sports Wake Up Call with @OnAirJosh and @AMorseSports! They discuss all the sports news of the day including previewing Packers and Patriots. They also welcome on @ThunderMKE on a Be Better Thursday!\nhttps://t.co/bjYVQ7NANm",
-   "url": "https://x.com/wisportsradio/status/2118313054198984735"
-  },
-  {
-   "author_id": "3150940290",
-   "created_at": "2026-11-05T11:11:28.000Z",
-   "edit_history_tweet_ids": [
-    "2118300160040055209"
-   ],
-   "id": "2118300160040055209",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 2780,
-    "like_count": 9,
-    "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 5
-   },
-   "text": "Former Chief Election Commissioner S.Y. Quraishi on Why the Election Commission Must Be Independent https://t.co/taEJiQXQCk",
-   "url": "https://x.com/thewire_in/status/2118300160040055209"
-  },
-  {
-   "author_id": "1844067345146445827",
-   "created_at": "2026-11-05T10:16:13.000Z",
-   "edit_history_tweet_ids": [
-    "2118286253326024879"
-   ],
-   "id": "2118286253326024879",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 787,
-    "like_count": 2,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Today on #InsideFrenchFootball with @nathan_quao &amp; @jonboafo. \n\nWe will look at PSG's perfect start in Europe, Former FC Metz President, Carlo Molinari dies aged 93, Paulo Fonseca leaves Lyon for Sporting and preview of matchday 10 of Ligue 1.\n\nWelcome! https://t.co/HnlQeDgUzT",
-   "url": "https://x.com/SportyFM_/status/2118286253326024879"
-  },
-  {
-   "author_id": "36875020",
-   "created_at": "2026-11-05T09:26:22.000Z",
-   "edit_history_tweet_ids": [
-    "2118273708892504427"
-   ],
-   "id": "2118273708892504427",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 233,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "LIVE at 5: Strong storms possible tonight and Election Day Brings High Voter Turnout https://t.co/sSpd6Ml95H",
-   "url": "https://x.com/matt_laubhan/status/2118273708892504427"
-  },
-  {
-   "author_id": "1377416459194757120",
-   "created_at": "2026-11-05T10:03:07.000Z",
-   "edit_history_tweet_ids": [
-    "2118282957945217189"
-   ],
-   "id": "2118282957945217189",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 33,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Kyiv Has Intensified Strikes on Russian Strikes, Frontline Attrition &amp; The Post-Election Reality https://t.co/SNwnjCMel0",
-   "url": "https://x.com/FutureFantasy5/status/2118282957945217189"
-  },
-  {
-   "author_id": "93512845",
-   "created_at": "2026-11-05T09:41:49.000Z",
-   "edit_history_tweet_ids": [
-    "2118277598459695421"
-   ],
-   "id": "2118277598459695421",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 10211,
-    "like_count": 3,
-    "quote_count": 1,
-    "reply_count": 1,
-    "retweet_count": 0
-   },
-   "text": "Join Gene and me as we discuss the fallout from the US election, rising interest rates, censorship laws, and your questions.\n\nhttps://t.co/1CcWkeV7ck",
-   "url": "https://x.com/JohnHumphreys99/status/2118277598459695421"
   }
  ],
  "users": [
@@ -502,8 +1348,8 @@
     "following_count": 262,
     "like_count": 19087,
     "listed_count": 121,
-    "media_count": 10709,
-    "tweet_count": 42972
+    "media_count": 10710,
+    "tweet_count": 42973
    },
    "username": "INCGoa",
    "verified": true,
@@ -513,24 +1359,39 @@
    "id": "104872280",
    "name": "CITI FM 97.3",
    "public_metrics": {
-    "followers_count": 1733341,
+    "followers_count": 1733337,
     "following_count": 527,
     "like_count": 2833,
     "listed_count": 717,
-    "media_count": 178285,
-    "tweet_count": 574791
+    "media_count": 178290,
+    "tweet_count": 574798
    },
    "username": "Citi973",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "3299214546",
-   "name": "\u308f\u3076|Living Art Project",
+   "id": "1918992545368997888",
+   "name": "Alex Jones",
    "public_metrics": {
-    "followers_count": 700,
+    "followers_count": 17,
+    "following_count": 137,
+    "like_count": 0,
+    "listed_count": 0,
+    "media_count": 33,
+    "tweet_count": 130
+   },
+   "username": "AlexJones1Real",
+   "verified": false,
+   "verified_type": "none"
+  },
+  {
+   "id": "3299214546",
+   "name": "わぶ|Living Art Project",
+   "public_metrics": {
+    "followers_count": 701,
     "following_count": 504,
-    "like_count": 91480,
+    "like_count": 91481,
     "listed_count": 9,
     "media_count": 10427,
     "tweet_count": 296986
@@ -543,12 +1404,12 @@
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6276977,
+    "followers_count": 6276986,
     "following_count": 83,
     "like_count": 4431,
     "listed_count": 7342,
-    "media_count": 583552,
-    "tweet_count": 1544922
+    "media_count": 583567,
+    "tweet_count": 1544938
    },
    "username": "IndiaToday",
    "verified": true,
@@ -558,7 +1419,7 @@
    "id": "20068679",
    "name": "Marc Lamont Hill",
    "public_metrics": {
-    "followers_count": 561752,
+    "followers_count": 561753,
     "following_count": 2264,
     "like_count": 53799,
     "listed_count": 4195,
@@ -578,7 +1439,7 @@
     "like_count": 6921,
     "listed_count": 5,
     "media_count": 1188,
-    "tweet_count": 14085
+    "tweet_count": 14087
    },
    "username": "itsourturnrp",
    "verified": true,
@@ -586,7 +1447,7 @@
   },
   {
    "id": "14574380",
-   "name": "Egberto Willies, Politics Done Right host \ud83c\uddfa\ud83c\uddf2\ud83c\uddf5\ud83c\udde6",
+   "name": "Egberto Willies, Politics Done Right host 🇺🇲🇵🇦",
    "public_metrics": {
     "followers_count": 9043,
     "following_count": 2243,
@@ -603,12 +1464,12 @@
    "id": "85814753",
    "name": "Sandesh",
    "public_metrics": {
-    "followers_count": 520546,
+    "followers_count": 520545,
     "following_count": 2,
     "like_count": 1747,
     "listed_count": 379,
-    "media_count": 224529,
-    "tweet_count": 464628
+    "media_count": 224534,
+    "tweet_count": 464633
    },
    "username": "sandeshnews",
    "verified": true,
@@ -618,12 +1479,12 @@
    "id": "91966685",
    "name": "Joy 99.7 FM",
    "public_metrics": {
-    "followers_count": 2083310,
+    "followers_count": 2083311,
     "following_count": 121,
     "like_count": 40233,
     "listed_count": 745,
-    "media_count": 143644,
-    "tweet_count": 615474
+    "media_count": 143645,
+    "tweet_count": 615475
    },
    "username": "Joy997FM",
    "verified": true,
@@ -633,14 +1494,29 @@
    "id": "714377713",
    "name": "UTV Ghana",
    "public_metrics": {
-    "followers_count": 1493784,
+    "followers_count": 1493779,
     "following_count": 205,
     "like_count": 270,
     "listed_count": 424,
-    "media_count": 60366,
-    "tweet_count": 92863
+    "media_count": 60371,
+    "tweet_count": 92868
    },
    "username": "utvghana",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1999037304103723008",
+   "name": "Growthnownews",
+   "public_metrics": {
+    "followers_count": 217,
+    "following_count": 13,
+    "like_count": 1067,
+    "listed_count": 3,
+    "media_count": 4916,
+    "tweet_count": 6297
+   },
+   "username": "growthnownews",
    "verified": true,
    "verified_type": "blue"
   },
@@ -667,25 +1543,70 @@
     "following_count": 120,
     "like_count": 15645,
     "listed_count": 654,
-    "media_count": 135059,
-    "tweet_count": 327231
+    "media_count": 135065,
+    "tweet_count": 327237
    },
    "username": "tv3_ghana",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1999037304103723008",
-   "name": "Growthnownews",
+   "id": "15501677",
+   "name": "PaulBaier",
    "public_metrics": {
-    "followers_count": 217,
-    "following_count": 13,
-    "like_count": 1067,
-    "listed_count": 3,
-    "media_count": 4914,
-    "tweet_count": 6295
+    "followers_count": 1007,
+    "following_count": 1064,
+    "like_count": 1348,
+    "listed_count": 68,
+    "media_count": 223,
+    "tweet_count": 2651
    },
-   "username": "growthnownews",
+   "username": "PaulBaier",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "327419019",
+   "name": "Ankaj Mohindroo",
+   "public_metrics": {
+    "followers_count": 142,
+    "following_count": 2015,
+    "like_count": 524,
+    "listed_count": 5,
+    "media_count": 41,
+    "tweet_count": 1090
+   },
+   "username": "amhrtech",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "14117196",
+   "name": "John Sviokla",
+   "public_metrics": {
+    "followers_count": 4096,
+    "following_count": 2247,
+    "like_count": 100,
+    "listed_count": 230,
+    "media_count": 119,
+    "tweet_count": 6213
+   },
+   "username": "jjsviokla",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1672975050222321665",
+   "name": "GAI Insights",
+   "public_metrics": {
+    "followers_count": 151,
+    "following_count": 105,
+    "like_count": 106,
+    "listed_count": 6,
+    "media_count": 1010,
+    "tweet_count": 1754
+   },
+   "username": "GaIinsights",
    "verified": true,
    "verified_type": "blue"
   },
@@ -708,136 +1629,16 @@
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9492315,
+    "followers_count": 9492296,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7886,
-    "media_count": 754714,
-    "tweet_count": 1187060
+    "media_count": 754724,
+    "tweet_count": 1187077
    },
    "username": "ANI",
    "verified": true,
    "verified_type": "business"
-  },
-  {
-   "id": "18719880",
-   "name": "620 WTMJ",
-   "public_metrics": {
-    "followers_count": 29178,
-    "following_count": 670,
-    "like_count": 3102,
-    "listed_count": 624,
-    "media_count": 38802,
-    "tweet_count": 146767
-   },
-   "username": "620wtmj",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2067872109674557440",
-   "name": "The Toon Review",
-   "public_metrics": {
-    "followers_count": 554,
-    "following_count": 362,
-    "like_count": 933,
-    "listed_count": 2,
-    "media_count": 121,
-    "tweet_count": 693
-   },
-   "username": "thetoonreviewYT",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "34672742",
-   "name": "Wisconsin Sports Radio Network",
-   "public_metrics": {
-    "followers_count": 20520,
-    "following_count": 7965,
-    "like_count": 8795,
-    "listed_count": 320,
-    "media_count": 23421,
-    "tweet_count": 81288
-   },
-   "username": "wisportsradio",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "3150940290",
-   "name": "The Wire",
-   "public_metrics": {
-    "followers_count": 1650765,
-    "following_count": 448,
-    "like_count": 637,
-    "listed_count": 3249,
-    "media_count": 50599,
-    "tweet_count": 200515
-   },
-   "username": "thewire_in",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1844067345146445827",
-   "name": "SportyFM Ghana",
-   "public_metrics": {
-    "followers_count": 32384,
-    "following_count": 46,
-    "like_count": 202,
-    "listed_count": 16,
-    "media_count": 17619,
-    "tweet_count": 26317
-   },
-   "username": "SportyFM_",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "36875020",
-   "name": "Matt Laubhan, CBM",
-   "public_metrics": {
-    "followers_count": 26851,
-    "following_count": 515,
-    "like_count": 619,
-    "listed_count": 199,
-    "media_count": 9382,
-    "tweet_count": 63239
-   },
-   "username": "matt_laubhan",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1377416459194757120",
-   "name": "The Author, David T Applegate",
-   "public_metrics": {
-    "followers_count": 29127,
-    "following_count": 16954,
-    "like_count": 62851,
-    "listed_count": 53,
-    "media_count": 28276,
-    "tweet_count": 314994
-   },
-   "username": "FutureFantasy5",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "93512845",
-   "name": "John Humphreys",
-   "public_metrics": {
-    "followers_count": 3321,
-    "following_count": 691,
-    "like_count": 16158,
-    "listed_count": 20,
-    "media_count": 171,
-    "tweet_count": 2846
-   },
-   "username": "JohnHumphreys99",
-   "verified": true,
-   "verified_type": "blue"
   }
  ]
 }
