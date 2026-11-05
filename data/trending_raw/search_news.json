@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-31T20:37:30Z",
+ "fetched_at": "2026-11-05T05:25:01Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -12,100 +12,34 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2116293174230479095"
+     "post_id": "2117620667701211511"
     },
     {
-     "post_id": "2116297305993437383"
+     "post_id": "2117954144233464152"
     },
     {
-     "post_id": "2116266052245983574"
+     "post_id": "2117933742073446472"
     },
     {
-     "post_id": "2116271657652568244"
+     "post_id": "2117790112662888758"
     },
     {
-     "post_id": "2116247121842057558"
+     "post_id": "2117953239937139090"
     },
     {
-     "post_id": "2116290981494767958"
+     "post_id": "2117954144233464152"
     },
     {
-     "post_id": "2116284368448573831"
+     "post_id": "2117962126409265454"
     },
     {
-     "post_id": "2116311127789310356"
+     "post_id": "2117933742073446472"
     },
     {
-     "post_id": "2116253819654791443"
+     "post_id": "2118031526239649932"
     },
     {
-     "post_id": "2116306242801131701"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Democrat Party"
-     ],
-     "people": [
-      "Richard Nixon",
-      "John F. Kennedy",
-      "Barack Obama"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A post lamenting lost bipartisan dreams hit a nerve, drawing tens of thousands of likes and replies from those feeling the same divide.",
-   "id": "2116321848950673684",
-   "name": "Social Media Users Question Shared Goals Between U.S. Parties",
-   "summary": "MOMofDataRepublican shared that both parties once aimed for the same country, just different paths, but no longer believes it true. The message sparked agreement alongside a Fox Business graphic on a Democratic-leaning economists' plan for $15 trillion in tax hikes over a decade, including $4 trillion on corporations and $5 trillion on individuals, from a paper by former Biden Treasury officials. Replies mix nostalgia for past debates on wages and unions with frustration at both parties' corruption, reflecting partisan tensions ahead of midterms where economic divides run deep.",
-   "updated_at": "2026-10-31T00:16:59.000Z",
-   "url": "https://x.com/i/trending/2116321848950673684"
-  },
-  {
-   "category": "Other",
-   "cluster_posts_results": [
-    {
-     "post_id": "2116522793713987715"
-    },
-    {
-     "post_id": "2116538082778337533"
-    },
-    {
-     "post_id": "2116267395723718677"
-    },
-    {
-     "post_id": "2116549572856283163"
-    },
-    {
-     "post_id": "2116532938594460043"
-    },
-    {
-     "post_id": "2116522793713987715"
-    },
-    {
-     "post_id": "2116538082778337533"
-    },
-    {
-     "post_id": "2116549572856283163"
-    },
-    {
-     "post_id": "2116531889670697139"
-    },
-    {
-     "post_id": "2116532938594460043"
+     "post_id": "2117949752298082465"
     }
    ],
    "contexts": {
@@ -123,254 +57,75 @@
      "teams": []
     },
     "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A stark chart from voter data shows Harvard faculty at 99% Democrat, with similar tilts at Yale and Princeton, prompting fresh looks at viewpoint balance in elite universities.",
-   "id": "2116562602008707247",
-   "name": "Chart Reveals 99% Democrats Among Harvard Faculty",
-   "summary": "Researchers Mitchell Langbert and Sean Stevens analyzed 2022 voter registrations, finding Harvard at 99-1 Democrat-Republican, Princeton 98-2, Yale 97-3, and others nearly as lopsided. A Yale report echoed this with 82% Democrats and many departments lacking any Republicans, while Harvard surveys show strong liberal majorities. People debate whether this reflects critical thinking leaning left, indoctrination through hiring biases, or educated folks naturally aligning Democratic, raising questions about diversity in teaching and research.",
-   "updated_at": "2026-10-31T16:13:35.000Z",
-   "url": "https://x.com/i/trending/2116562602008707247"
-  },
-  {
-   "category": "Sports",
-   "cluster_posts_results": [
-    {
-     "post_id": "2116574931874127955"
-    },
-    {
-     "post_id": "2116558424850812970"
-    },
-    {
-     "post_id": "2116569179503386756"
-    },
-    {
-     "post_id": "2116551906986430780"
-    },
-    {
-     "post_id": "2116564408797126722"
-    },
-    {
-     "post_id": "2116574931874127955"
-    },
-    {
-     "post_id": "2116552954270339452"
-    },
-    {
-     "post_id": "2116600806849847471"
-    },
-    {
-     "post_id": "2116557110687551626"
-    },
-    {
-     "post_id": "2116539642904474058"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "U.S. elections"
-     ],
-     "organizations": [],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
      "Elections"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "After weeks of non-stop political spots during every commercial break, college football fans are breathing a collective sigh of relief this Saturday.",
-   "id": "2116595351948083635",
-   "name": "College Football Fans Relieved as Political Ads End After Final Interrupted Saturday",
-   "summary": "With the 2026 midterm elections on November 3, viewers have endured heavy ad buys on sports broadcasts, especially college games drawing big crowds. Posts like the Reddit CFB account's 'Final Saturday of stupid political commercials' and Rodger Sherman's quip about ads from all 50 states capture the widespread exhaustion. Fans congratulated each other for surviving, with many praising the upcoming uninterrupted weekends and noting Republicans aired thousands more spots than Democrats on NFL and college games recently.",
-   "updated_at": "2026-10-31T18:24:30.000Z",
-   "url": "https://x.com/i/trending/2116595351948083635"
+   "hook": "Non-Americans puzzled over why U.S. voters stick to Democrats or Republicans, urging support for independents to drive real change. Americans fired back that third-party votes often just hand wins to the other side.",
+   "id": "2117964897594040454",
+   "name": "Americans Defend Two-Party System in Clash with Outsiders",
+   "summary": "A lively online exchange exposed frustrations with America's two-party grip, as foreigners questioned why voters don't back independents or leftists for reform, viewing Democrats as too right-wing. Americans explained the harsh reality of first-past-the-post voting and winner-take-all rules, which make third-party choices feel like spoilers that help Republicans in close races. One user shared how their libertarian mother switched to Democrats after Trump, highlighting the 'lesser of two evils' dilemma that keeps most locked into the majors.",
+   "updated_at": "2026-11-04T21:41:28.000Z",
+   "url": "https://x.com/i/trending/2117964897594040454"
   },
   {
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2115833585513205944"
+     "post_id": "2117801288058470860"
     },
     {
-     "post_id": "2115902027012481182"
+     "post_id": "2117782704469295273"
     },
     {
-     "post_id": "2115909823493742852"
+     "post_id": "2117847623893667920"
     },
     {
-     "post_id": "2115892186445500889"
+     "post_id": "2117829449807015951"
     },
     {
-     "post_id": "2115858676313444662"
+     "post_id": "2117815665868390530"
     },
     {
-     "post_id": "2115833585513205944"
+     "post_id": "2117782704469295273"
     },
     {
-     "post_id": "2115909823493742852"
+     "post_id": "2117801288058470860"
     },
     {
-     "post_id": "2115892186445500889"
+     "post_id": "2117831726873575598"
     },
     {
-     "post_id": "2115902027012481182"
+     "post_id": "2118026448506335596"
     },
     {
-     "post_id": "2116249434459947450"
+     "post_id": "2117778023126876449"
     }
    ],
    "contexts": {
     "entities": {
      "events": [
-      "United States Midterm Elections"
-     ],
-     "organizations": [],
-     "people": [],
-     "places": [
-      "United States"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Elections"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "With Election Day on November 3 just days away, Americans are sharing their 'I Voted' moments online, from simple stickers to bold signs like 'PRETTY GIRLS VOTE REPUBLICAN.'",
-   "id": "2115660856767762515",
-   "name": "Early Voting Surge Builds Ahead of 2026 Midterms",
-   "summary": "The 2026 midterms will decide control of Congress, with all 435 House seats and 35 Senate seats up for grabs as Republicans hold current majorities under President Trump. Early voting has hit record levels in many states, with tens of millions of ballots already cast, and Republican supporters like Gunther Eagleman and Lara Trump are especially active online, urging others to vote red. Voices from veterans, families, and everyday people highlight the personal stakes, while some warn against polls meant to discourage turnout and stress that elections have real consequences.",
-   "updated_at": "2026-10-31T03:31:23.000Z",
-   "url": "https://x.com/i/trending/2115660856767762515"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2115852066983964721"
-    },
-    {
-     "post_id": "2116007126430892465"
-    },
-    {
-     "post_id": "2116215177322655787"
-    },
-    {
-     "post_id": "2115902722041843780"
-    },
-    {
-     "post_id": "2115906506352992537"
-    },
-    {
-     "post_id": "2115852066983964721"
-    },
-    {
-     "post_id": "2116007126430892465"
-    },
-    {
-     "post_id": "2116282540289872368"
-    },
-    {
-     "post_id": "2116215177322655787"
-    },
-    {
-     "post_id": "2115906506352992537"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "U.S. midterm elections"
-     ],
-     "organizations": [],
-     "people": [
-      "Donald Trump"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Elections"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A couple fresh from Washington posed proudly with 'I Voted' stickers in Texas, announcing their straight blue ballots in two red counties. Their posts soon faced a wave of sharp criticism from locals.",
-   "id": "2115902247292789070",
-   "name": "Texas Newcomers from Washington Cast Blue Votes, Stir Local Backlash",
-   "summary": "The Washington State pair, who recently moved to Texas, shared photos of voting blue in Lubbock and Houston Counties, drawing accusations of importing failed policies from their old home. Critics called them 'human locusts' for fleeing high taxes only to back Democrats again, tapping into debates about California and Washington transplants reshaping Texas politics. While some defend their right to vote, others push for longer residency rules amid steady migration driven by costs and taxes. Early voting tensions highlight how newcomers influence the state's direction.",
-   "updated_at": "2026-10-31T04:35:07.000Z",
-   "url": "https://x.com/i/trending/2115902247292789070"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2116184699920118000"
-    },
-    {
-     "post_id": "2116185358392086552"
-    },
-    {
-     "post_id": "2116226134212002006"
-    },
-    {
-     "post_id": "2116224823378776307"
-    },
-    {
-     "post_id": "2116221036349800879"
-    },
-    {
-     "post_id": "2116184699920118000"
-    },
-    {
-     "post_id": "2116185358392086552"
-    },
-    {
-     "post_id": "2116225986685468836"
-    },
-    {
-     "post_id": "2116226134212002006"
-    },
-    {
-     "post_id": "2116224823378776307"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "midterms",
-      "US-Iran war"
+      "2026 U.S. Midterm Elections"
      ],
      "organizations": [
       "Democrats"
      ],
      "people": [
-      "Nahal Toosi"
+      "Keisha Lance Bottoms",
+      "Rick Jackson",
+      "Abdul El-Sayed",
+      "Mike Rogers",
+      "Xavier Becerra",
+      "Steve Hilton",
+      "Clayton Tucker",
+      "Nate Sheets"
      ],
-     "places": [],
+     "places": [
+      "Georgia",
+      "Michigan",
+      "California",
+      "Texas"
+     ],
      "products": []
     },
     "finance": {
@@ -380,258 +135,60 @@
      "teams": []
     },
     "topics": [
-     "Politics"
+     "News",
+     "Elections"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Major U.S. stock indexes keep climbing year to date, even as the Iran conflict drags into its eighth month with higher energy costs and volatility.",
-   "id": "2116271772735782918",
-   "name": "Markets Hold Steady Amid Iran War and Midterm Tensions",
-   "summary": "The Dow Jones ETF is up 7.43% at $517.65, and the S&P 500 ETF has gained 10.17% to $755.45, showing market resilience despite critics blaming President Trump for derailing bigger gains with the war. A Politico column highlights Democrats' plans to use war powers votes and funding fights to push for an exit if they win midterms, though it questions their strategy against Iran's nuclear and missile threats. Hawkish voices argue diplomacy has failed and sustained pressure might topple the regime, while public reactions split on whether voters will reward anti-war positions or see them as weakness ahead of the elections.",
-   "updated_at": "2026-10-30T20:58:50.000Z",
-   "url": "https://x.com/i/trending/2116271772735782918"
+   "hook": "Keisha Lance Bottoms stepped into history Tuesday night, her victory speech carrying the weight of generations as Georgia's voters chose her as their first Black woman governor.",
+   "id": "2117861751828148588",
+   "name": "Keisha Lance Bottoms Elected Georgia's First Black Female Governor",
+   "summary": "The former Atlanta mayor and Biden adviser defeated Republican Rick Jackson, flipping the governor's office from GOP control after 24 years and succeeding term-limited Gov. Brian Kemp. Bottoms campaigned on affordability, healthcare, and education access, overcoming Jackson's heavy personal spending. Supporters celebrated the milestone, with Stacey Abrams congratulating her for a 'brighter direction,' while Bottoms thanked Georgia simply: 'Thank you 💙.' Her win as the great-great-granddaughter of an enslaved man adds deep personal resonance to the moment.",
+   "updated_at": "2026-11-05T02:40:48.000Z",
+   "url": "https://x.com/i/trending/2117861751828148588"
   },
   {
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2116223457629229292"
+     "post_id": "2117877111473971577"
     },
     {
-     "post_id": "2116202525623758941"
+     "post_id": "2117817408530608135"
     },
     {
-     "post_id": "2116213748134277487"
+     "post_id": "2117907546459738580"
     },
     {
-     "post_id": "2116338614141632835"
+     "post_id": "2117884412998406461"
     },
     {
-     "post_id": "2116160852256579933"
+     "post_id": "2117908581966061937"
     },
     {
-     "post_id": "2115899510710792257"
+     "post_id": "2117878379840143724"
     },
     {
-     "post_id": "2116516790096294245"
+     "post_id": "2117880154546434541"
     },
     {
-     "post_id": "2116307284854747222"
+     "post_id": "2117888668790628410"
     },
     {
-     "post_id": "2116284466431992234"
+     "post_id": "2117882927568593229"
     },
     {
-     "post_id": "2116577357704143109"
+     "post_id": "2117889096999993755"
     }
    ],
    "contexts": {
     "entities": {
      "events": [],
-     "organizations": [
-      "Democrats",
-      "Republicans"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Pastor Josh Howerton urged believers to pick the lesser evil to block greater harm, sparking thousands of replies from fellow Christians wrestling with faith and the ballot.",
-   "id": "2116013265008365990",
-   "name": "Christians Debate Lesser-of-Two-Evils Voting Ahead of Midterms",
-   "summary": "Howerton of Lakepointe Church argued that refusing imperfect choices risks letting evil win, until Jesus returns, while distinguishing fallen candidates from those leading others into sin. Critics like author April Ajoy shared her switch to Democrats over care for the vulnerable, and Derek Ayala cited scriptures rejecting any endorsement of evil. Commentators such as Erick Erickson warned against endless compromise, highlighting tensions among evangelicals on abortion, religious liberty, and moral responsibility as November 3 nears.",
-   "updated_at": "2026-10-31T20:33:18.000Z",
-   "url": "https://x.com/i/trending/2116013265008365990"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2116228647539630385"
-    },
-    {
-     "post_id": "2116228723192062051"
-    },
-    {
-     "post_id": "2116233590275240007"
-    },
-    {
-     "post_id": "2116261030061863126"
-    },
-    {
-     "post_id": "2116228723192062051"
-    },
-    {
-     "post_id": "2116233590275240007"
-    },
-    {
-     "post_id": "2116233352814764087"
-    },
-    {
-     "post_id": "2116261030061863126"
-    },
-    {
-     "post_id": "2116244915172802871"
-    },
-    {
-     "post_id": "2116244443632214247"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "2026 US Midterm Elections"
-     ],
-     "organizations": [
-      "Aries"
-     ],
-     "people": [],
-     "places": [
-      "United States"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Elections"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Traders on Aries are betting big on Democrats holding the Senate at 72% odds ahead of the 2026 midterms. It's real money revealing convictions that polls alone can't match.",
-   "id": "2116286598673289669",
-   "name": "Aries Launches Election Prediction Markets with Democrats Favored for Senate",
-   "summary": "Aries rolled out prediction markets on October 30 focused strictly on elections and economic outcomes, using regulated yes-no contracts cleared through ForecastEx. Unlike platforms chasing sports bets, founder Reda Falih keeps it pure, comparing distractions to the risky mortgage buildup in The Big Short. Current odds highlight races like Maine's Troy Jackson at 64% over Susan Collins, with AI integration letting users query live data via tools like Claude or ChatGPT.",
-   "updated_at": "2026-10-30T21:57:14.000Z",
-   "url": "https://x.com/i/trending/2116286598673289669"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2116172521233862929"
-    },
-    {
-     "post_id": "2116177554616799713"
-    },
-    {
-     "post_id": "2116168498938281989"
-    },
-    {
-     "post_id": "2116168242909663423"
-    },
-    {
-     "post_id": "2116168498938281989"
-    },
-    {
-     "post_id": "2116172521233862929"
-    },
-    {
-     "post_id": "2115874079232156058"
-    },
-    {
-     "post_id": "2116177554616799713"
-    },
-    {
-     "post_id": "2116172786733384083"
-    },
-    {
-     "post_id": "2115966926824583450"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "midterm elections"
-     ],
-     "organizations": [
-      "Democrats"
-     ],
-     "people": [
-      "Donald Trump"
-     ],
-     "places": [
-      "United States"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Elections"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "At packed rallies, Trump painted a stark choice: Republican wins to keep the economy booming, or a 1929-style crash under Democrats.",
-   "id": "2115895718359736399",
-   "name": "Trump Warns of Depression, Pledges $5,000 Payments if GOP Wins Midterms",
-   "summary": "Trump ramped up his midterm pitch with claims of record GDP growth at 3.4 percent in the third quarter, fueled by investment, consumer spending, and government outlays. He warned a Democratic sweep would trigger economic depression and pledged $5,000 to every adult U.S. citizen—costing about $1 trillion from tariffs—if Republicans hold the House and Senate. Polls give Democrats a 70 percent shot at gains on November 3, with reactions split between seeing his words as savvy warnings or early excuses for trouble ahead.",
-   "updated_at": "2026-10-30T22:54:06.000Z",
-   "url": "https://x.com/i/trending/2115895718359736399"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2116201429430108448"
-    },
-    {
-     "post_id": "2116252077437686269"
-    },
-    {
-     "post_id": "2116500482843934923"
-    },
-    {
-     "post_id": "2116291816727138507"
-    },
-    {
-     "post_id": "2116201429430108448"
-    },
-    {
-     "post_id": "2116252077437686269"
-    },
-    {
-     "post_id": "2116500482843934923"
-    },
-    {
-     "post_id": "2116550021554356506"
-    },
-    {
-     "post_id": "2116307567919923220"
-    },
-    {
-     "post_id": "2116235792506835043"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "midterm elections"
-     ],
      "organizations": [
       "Republican Party"
      ],
      "people": [
-      "John Thune"
+      "Matt Walsh"
      ],
      "places": [],
      "products": []
@@ -647,12 +204,472 @@
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "With midterms days away, conservative voices are calling out Senate Majority Leader John Thune for not pushing through voter ID legislation despite Republican control of Congress.",
-   "id": "2116298066353610850",
-   "name": "Conservatives Criticize Thune Over Stalled SAVE America Act",
-   "summary": "The SAVE America Act, which requires proof of U.S. citizenship for federal voter registration and photo ID to vote, passed the House but stalled in the Senate. Thune supports the bill but says Republicans lack votes to beat a filibuster without Democrats, and he resists rule changes. Critics accuse him of failing his job amid polls showing 62-83% public support for its elements, while he focuses on campaigning in key states like Maine, Iowa, Ohio, and Alaska. The clash underscores Republican tensions on priorities as Election Day nears.",
-   "updated_at": "2026-10-31T18:24:25.000Z",
-   "url": "https://x.com/i/trending/2116298066353610850"
+   "hook": "Election night brought stinging Republican defeats, prompting a heated exchange on where loyalty truly lies—with Donald Trump or the nation's principles.",
+   "id": "2117896637427191938",
+   "name": "Conservatives Debate Loyalty to Trump After GOP Midterm Losses",
+   "summary": "Democrats took control of both chambers of Congress in the 2026 midterms, a clear rebuke of President Trump and his party. Jeremy R. Carl urged supporters to double down on loyalty to Trump and note any betrayals, while Matt Walsh countered that politicians serve the people, not vice versa, earning broad agreement. Others defended Trump for enduring attacks and delivering results, even invoking his taking a bullet, as the discussion echoed Mark Twain's line on loving country always and government only when deserved. The back-and-forth highlights conservatives grappling with accountability and next steps post-loss.",
+   "updated_at": "2026-11-04T14:37:22.000Z",
+   "url": "https://x.com/i/trending/2117896637427191938"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2117896105098670435"
+    },
+    {
+     "post_id": "2118000857774281004"
+    },
+    {
+     "post_id": "2118039146627318028"
+    },
+    {
+     "post_id": "2117995302691262868"
+    },
+    {
+     "post_id": "2117896105098670435"
+    },
+    {
+     "post_id": "2118000857774281004"
+    },
+    {
+     "post_id": "2118039146627318028"
+    },
+    {
+     "post_id": "2117995302691262868"
+    },
+    {
+     "post_id": "2118009670791020742"
+    },
+    {
+     "post_id": "2118011777170715128"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "U.S. Congress"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A yellow cart bumps endlessly between tunnel walls, going nowhere fast. Posted on November 4, it quickly captured the feeling of U.S. politics ahead.",
+   "id": "2118039608730735073",
+   "name": "GIF of Stuck Cart Captures Post-Midterm Gridlock Mood",
+   "summary": "Democrats took control of the House and Senate in the 2026 midterms, flipping Republican seats and setting up divided government under President Trump for the next two years. The looping GIF of a trapped utility vehicle drew tens of thousands of likes, with users like Juanita Broaddrick calling it spot-on for the gridlock ahead. Some saw it as modern politics in a nutshell, while others welcomed the stalemate to limit changes. The meme highlights expectations of partisan clashes and little legislative progress in Washington.",
+   "updated_at": "2026-11-04T21:00:42.000Z",
+   "url": "https://x.com/i/trending/2118039608730735073"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2118081177492066485"
+    },
+    {
+     "post_id": "2118149953931665764"
+    },
+    {
+     "post_id": "2118129108479819977"
+    },
+    {
+     "post_id": "2118179780080423099"
+    },
+    {
+     "post_id": "2118081177492066485"
+    },
+    {
+     "post_id": "2118118784137383976"
+    },
+    {
+     "post_id": "2118170617782394908"
+    },
+    {
+     "post_id": "2118117431734612409"
+    },
+    {
+     "post_id": "2118149953931665764"
+    },
+    {
+     "post_id": "2118132424509141101"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [
+      "Patrick Collison"
+     ],
+     "places": [
+      "America"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Patrick Collison sees America's democracy thriving through responsive policy shifts over the past decade. Yet a Pew poll tells a starkly different story, with satisfaction dropping to 30% by 2026.",
+   "id": "2118187173170106464",
+   "name": "Stripe CEO Praises U.S. Democracy Amid Falling Satisfaction Polls",
+   "summary": "Stripe CEO Patrick Collison highlighted how U.S. national outcomes have closely matched voter preferences on key issues, citing Alexis de Tocqueville’s 'Democracy in America' as still relevant. A Pew Research Center chart showed public satisfaction with democracy falling from 46% in 2017 to 30% in 2026. Replies split sharply: some pointed to policy swings like immigration changes as proof of the system's strength, while others decried its vulnerability to 'tyrants' and shared memes warning of long-term risks. The exchange underscores ongoing debates about democracy's responsiveness versus public discontent.",
+   "updated_at": "2026-11-05T03:48:21.000Z",
+   "url": "https://x.com/i/trending/2118187173170106464"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2118004729150382266"
+    },
+    {
+     "post_id": "2117860210702250075"
+    },
+    {
+     "post_id": "2117873504540332059"
+    },
+    {
+     "post_id": "2117992370604290169"
+    },
+    {
+     "post_id": "2117974640140202487"
+    },
+    {
+     "post_id": "2118004729150382266"
+    },
+    {
+     "post_id": "2117860210702250075"
+    },
+    {
+     "post_id": "2117873504540332059"
+    },
+    {
+     "post_id": "2117992370604290169"
+    },
+    {
+     "post_id": "2117849940898497022"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "United States Presidential Election"
+     ],
+     "organizations": [
+      "Conservatives"
+     ],
+     "people": [
+      "Mark Carney",
+      "Donald Trump"
+     ],
+     "places": [
+      "United States",
+      "Canada"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "As Democrats flipped the U.S. House and Senate on Tuesday, Canadian conservatives split sharply—some cheered the rebuke to Trump, prompting backlash from others calling it a betrayal.",
+   "id": "2117967091705737337",
+   "name": "Canadian Conservatives Clash Over U.S. Democratic Midterm Sweep",
+   "summary": "Democrats secured historic gains, taking Senate seats in Republican strongholds like Texas and Kansas, plus multiple governorships, in a broad rejection of President Trump. Canadian conservatives reacted with division: some celebrated amid resentment over U.S. tariffs and trade disputes that strained ties with leader Pierre Poilievre, while critics labeled them weak and unfaithful to conservative principles. Not all joined the cheers—many urged focusing on Canada's own issues—but the exchanges highlight fractures where U.S. politics collide with national interests.",
+   "updated_at": "2026-11-04T18:50:45.000Z",
+   "url": "https://x.com/i/trending/2117967091705737337"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2118064571696988283"
+    },
+    {
+     "post_id": "2118051737248706730"
+    },
+    {
+     "post_id": "2117961691560370482"
+    },
+    {
+     "post_id": "2118022550970392668"
+    },
+    {
+     "post_id": "2118090269572604069"
+    },
+    {
+     "post_id": "2118051737248706730"
+    },
+    {
+     "post_id": "2118064571696988283"
+    },
+    {
+     "post_id": "2118053251560202644"
+    },
+    {
+     "post_id": "2118022550970392668"
+    },
+    {
+     "post_id": "2118124584868458537"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "U.S. Election"
+     ],
+     "organizations": [
+      "House of Representatives",
+      "SpaceX"
+     ],
+     "people": [
+      "Robert Garcia"
+     ],
+     "places": [
+      "United States"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Freshly elected Senator Peggy Flanagan stepped to the microphone and called for new Senate leadership, thanking Chuck Schumer while signaling voters' demand for bold change.",
+   "id": "2118050905589457112",
+   "name": "Democrats Take Congress, Eye New Leadership Amid Affordability Push",
+   "summary": "Democrats flipped enough seats to claim majorities in both the House and Senate during Tuesday's midterms, fueled by voter anger over high living costs like rent and groceries. Senator-elect Peggy Flanagan of Minnesota urged replacing longtime leader Chuck Schumer with fresh faces untainted by corporate PAC money, while New York City Mayor Zohran Mamdani stressed using power for universal childcare and housing. House leader Hakeem Jeffries, set to become Speaker, focused on governing for affordability over revenge, as progressives like Rep. Ro Khanna pushed Medicare for All, a $25 minimum wage, and cuts to certain foreign aid. Leadership tensions will play out when the new Congress starts in January.",
+   "updated_at": "2026-11-05T04:48:57.000Z",
+   "url": "https://x.com/i/trending/2118050905589457112"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2117880561633239373"
+    },
+    {
+     "post_id": "2117885842744107064"
+    },
+    {
+     "post_id": "2117965125558862115"
+    },
+    {
+     "post_id": "2117981019743691166"
+    },
+    {
+     "post_id": "2118003885826617421"
+    },
+    {
+     "post_id": "2117981019743691166"
+    },
+    {
+     "post_id": "2117965125558862115"
+    },
+    {
+     "post_id": "2117970867439423782"
+    },
+    {
+     "post_id": "2118007287310930113"
+    },
+    {
+     "post_id": "2118003885826617421"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "Fox & Friends"
+     ],
+     "organizations": [
+      "Fox News"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Caroline Sunshine's Fox News comments on airtime given to streamer Hasan Piker and Senate hopeful Abdul El-Sayed hit a nerve after El-Sayed's victory.",
+   "id": "2118039609095647451",
+   "name": "Fox News Segment on Hasan Piker and El-Sayed Draws Backlash After Democrat's Senate Win",
+   "summary": "In the segment, Sunshine pointed out Fox's focus on Piker and El-Sayed's anti-overseas spending pitch, which many online saw as Fox admitting a misstep. El-Sayed defeated Republican Mike Rogers to become Michigan's first Muslim U.S. Senator, part of Democratic gains in battlegrounds. Reactions mixed amusement with criticism, questioning Republican claims to an 'America First' stance amid past foreign aid support, while some defended tying El-Sayed to Piker's remarks.",
+   "updated_at": "2026-11-04T18:05:04.000Z",
+   "url": "https://x.com/i/trending/2118039609095647451"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2117794864696062087"
+    },
+    {
+     "post_id": "2117726953470136689"
+    },
+    {
+     "post_id": "2117833788529246241"
+    },
+    {
+     "post_id": "2117835748179124720"
+    },
+    {
+     "post_id": "2117769466624823315"
+    },
+    {
+     "post_id": "2117794864696062087"
+    },
+    {
+     "post_id": "2117833788529246241"
+    },
+    {
+     "post_id": "2117726953470136689"
+    },
+    {
+     "post_id": "2117835748179124720"
+    },
+    {
+     "post_id": "2117769466624823315"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "U.S. election"
+     ],
+     "organizations": [
+      "X"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Elections"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "As Election Day dawned on November 3, 2026, one simple question captured the mood: 'Is anyone else tired of voting for the lesser of two evils?'",
+   "id": "2117800675283231143",
+   "name": "Voters Tired of Choosing Lesser of Two Evils Ahead of 2026 Midterms",
+   "summary": "Carey Wedler's video, captioned 'How voting for lesser evils \"works\" 😈 😏,' struck a chord, showing the strategy as a loop that keeps the same problems alive no matter who wins. Users echoed the frustration, with one asking what happens when the chosen candidate wins but nothing changes, and another declaring it's 'us against them,' not red versus blue. The debate draws on history—Ian Wendt notes Americans have said this for over 200 years—memes from Pope Francis's 2024 advice to pick the lesser evil, and quotes like Calvin Coolidge's on stopping bad bills over passing good ones.",
+   "updated_at": "2026-11-04T09:17:49.000Z",
+   "url": "https://x.com/i/trending/2117800675283231143"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2117736263377981516"
+    },
+    {
+     "post_id": "2117655614989934676"
+    },
+    {
+     "post_id": "2117750693314621763"
+    },
+    {
+     "post_id": "2117667623299334596"
+    },
+    {
+     "post_id": "2117749146316853664"
+    },
+    {
+     "post_id": "2117736263377981516"
+    },
+    {
+     "post_id": "2117655614989934676"
+    },
+    {
+     "post_id": "2117736345544151100"
+    },
+    {
+     "post_id": "2117749146316853664"
+    },
+    {
+     "post_id": "2117750693314621763"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "U.S. election"
+     ],
+     "organizations": [
+      "White House"
+     ],
+     "people": [],
+     "places": [
+      "United States"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "On November 3, as midterm votes were counted, President Trump signed a proclamation declaring November 1-7 as Anti-Communism Week, vowing America will never become communist.",
+   "id": "2117689414922989661",
+   "name": "Trump Signs Proclamation for Anti-Communism Week Amid Midterm Messaging",
+   "summary": "The White House posted stark messages like 'America is for Americans' and 'You can be a communist or a patriot—you cannot be both,' aligning with the proclamation that warns socialist ideologies threaten U.S. freedoms. Graphics contrast Republican stances on borders, taxes, and guns against Democratic positions labeled as communist alternatives, while honoring victims of such systems. Supporters echoed the calls for patriotism, as critics questioned the rhetoric and definitions, all amid sharp midterm divides. The administration also declared outer space open to American exploration.",
+   "updated_at": "2026-11-04T20:45:45.000Z",
+   "url": "https://x.com/i/trending/2117689414922989661"
   }
  ]
 }
