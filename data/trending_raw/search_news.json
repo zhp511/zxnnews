@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T14:56:58Z",
+ "fetched_at": "2026-11-05T16:03:22Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -8,68 +8,6 @@
   "news.fields": "name,summary,hook,category,updated_at,contexts,cluster_posts_results"
  },
  "data": [
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2117911840973861028"
-    },
-    {
-     "post_id": "2118043706842570775"
-    },
-    {
-     "post_id": "2117914323125428644"
-    },
-    {
-     "post_id": "2118003238226026797"
-    },
-    {
-     "post_id": "2117909955193774444"
-    },
-    {
-     "post_id": "2117911840973861028"
-    },
-    {
-     "post_id": "2117904180660613542"
-    },
-    {
-     "post_id": "2118043706842570775"
-    },
-    {
-     "post_id": "2117897018324451786"
-    },
-    {
-     "post_id": "2117914323125428644"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [
-      "@Blond1n1"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A simple question about why outsiders care about American politics prompted raw stories from around the world, like one user's blunt claim: 'Your country kidnapped a head of state this year.'",
-   "id": "2117805944465965150",
-   "name": "Global Replies Link U.S. Politics to Direct Foreign Impacts",
-   "summary": "In January 2026, U.S. forces captured Venezuelan President Nicol\u00e1s Maduro in Caracas and brought him to face charges, which critics called a sovereignty violation. Replies from Venezuelans, Italians facing diesel price spikes from U.S.-involved Iran strikes, and Caribbeans citing bombed fishing vessels tied U.S. actions to local hardships. The exchange underscores how American decisions ripple into economies, security, and daily life abroad, even for those without a vote.",
-   "updated_at": "2026-11-05T12:25:01.000Z",
-   "url": "https://x.com/i/trending/2117805944465965150"
-  },
   {
    "category": "News",
    "cluster_posts_results": [
@@ -135,7 +73,15 @@
    "name": "Democrats Take House and Senate in 2026 Midterms, Prompting Stark Warnings",
    "summary": "In the 2026 midterms, Democrats gained control of both the House and Senate, rejecting Trump's agenda in races across diverse regions. Yarvin's X post warned that losing the next election would destroy the GOP, while winning must dismantle Democrats, linking to an essay viewing parties as armies in a chaotic democracy. Replies voiced frustration with endless two-year swings, policy whiplash, and the two-party system's instability, with some questioning voter choices and calling for change.",
    "updated_at": "2026-11-05T05:39:31.000Z",
-   "url": "https://x.com/i/trending/2118145178947240201"
+   "url": "https://x.com/i/trending/2118145178947240201",
+   "topics": [
+    "Politics"
+   ],
+   "posts": [
+    "2117885624472449389",
+    "2118133796751253557",
+    "2118146509606957501"
+   ]
   },
   {
    "category": "News",
@@ -193,9 +139,17 @@
    "hook": "Foreign critics wonder why Americans skip independents for real change, but U.S. voices fire back with a simple truth: the system makes third-party votes feel like a waste.",
    "id": "2117964897594040454",
    "name": "Why Americans Stick with Major Parties Despite Frustration",
-   "summary": "A lively online exchange explains how Duverger\u2019s Law and first-past-the-post voting lock in two-party dominance, pushing voters to choose majors to avoid spoiling close races. Polls show many identify as independents yet back Democrats or Republicans on Election Day, facing hurdles like ballot access and limited media for others. Historical runs like Ross Perot's 19% in 1992 split votes without upending the duopoly, leaving users skeptical of quick fixes amid 2026 midterm tensions.",
+   "summary": "A lively online exchange explains how Duverger’s Law and first-past-the-post voting lock in two-party dominance, pushing voters to choose majors to avoid spoiling close races. Polls show many identify as independents yet back Democrats or Republicans on Election Day, facing hurdles like ballot access and limited media for others. Historical runs like Ross Perot's 19% in 1992 split votes without upending the duopoly, leaving users skeptical of quick fixes amid 2026 midterm tensions.",
    "updated_at": "2026-11-05T06:30:12.000Z",
-   "url": "https://x.com/i/trending/2117964897594040454"
+   "url": "https://x.com/i/trending/2117964897594040454",
+   "topics": [
+    "Elections"
+   ],
+   "posts": [
+    "2117962126409265454",
+    "2117954144233464152",
+    "2118166638478737685"
+   ]
   },
   {
    "category": "News",
@@ -272,9 +226,18 @@
    "hook": "Keisha Lance Bottoms stepped into history Tuesday night, her victory speech carrying the weight of generations as Georgia's voters chose her as their first Black woman governor.",
    "id": "2117861751828148588",
    "name": "Keisha Lance Bottoms Elected Georgia's First Black Female Governor",
-   "summary": "The former Atlanta mayor and Biden adviser defeated Republican Rick Jackson, flipping the governor's office from GOP control after 24 years and succeeding term-limited Gov. Brian Kemp. Bottoms campaigned on affordability, healthcare, and education access, overcoming Jackson's heavy personal spending. Supporters celebrated the milestone, with Stacey Abrams congratulating her for a 'brighter direction,' while Bottoms thanked Georgia simply: 'Thank you \ud83d\udc99.' Her win as the great-great-granddaughter of an enslaved man adds deep personal resonance to the moment.",
+   "summary": "The former Atlanta mayor and Biden adviser defeated Republican Rick Jackson, flipping the governor's office from GOP control after 24 years and succeeding term-limited Gov. Brian Kemp. Bottoms campaigned on affordability, healthcare, and education access, overcoming Jackson's heavy personal spending. Supporters celebrated the milestone, with Stacey Abrams congratulating her for a 'brighter direction,' while Bottoms thanked Georgia simply: 'Thank you 💙.' Her win as the great-great-granddaughter of an enslaved man adds deep personal resonance to the moment.",
    "updated_at": "2026-11-05T02:40:48.000Z",
-   "url": "https://x.com/i/trending/2117861751828148588"
+   "url": "https://x.com/i/trending/2117861751828148588",
+   "topics": [
+    "News",
+    "Elections"
+   ],
+   "posts": [
+    "2117801288058470860",
+    "2117782704469295273",
+    "2117847623893667920"
+   ]
   },
   {
    "category": "News",
@@ -333,12 +296,20 @@
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Election night brought stinging Republican defeats, prompting a heated exchange on where loyalty truly lies\u2014with Donald Trump or the nation's principles.",
+   "hook": "Election night brought stinging Republican defeats, prompting a heated exchange on where loyalty truly lies—with Donald Trump or the nation's principles.",
    "id": "2117896637427191938",
    "name": "Conservatives Debate Loyalty to Trump After GOP Midterm Losses",
    "summary": "Democrats took control of both chambers of Congress in the 2026 midterms, a clear rebuke of President Trump and his party. Jeremy R. Carl urged supporters to double down on loyalty to Trump and note any betrayals, while Matt Walsh countered that politicians serve the people, not vice versa, earning broad agreement. Others defended Trump for enduring attacks and delivering results, even invoking his taking a bullet, as the discussion echoed Mark Twain's line on loving country always and government only when deserved. The back-and-forth highlights conservatives grappling with accountability and next steps post-loss.",
    "updated_at": "2026-11-04T14:37:22.000Z",
-   "url": "https://x.com/i/trending/2117896637427191938"
+   "url": "https://x.com/i/trending/2117896637427191938",
+   "topics": [
+    "Politics"
+   ],
+   "posts": [
+    "2117877111473971577",
+    "2117817408530608135",
+    "2117907546459738580"
+   ]
   },
   {
    "category": "News",
@@ -400,7 +371,15 @@
    "name": "GIF of Stuck Cart Captures Post-Midterm Gridlock Mood",
    "summary": "Democrats took control of the House and Senate in the 2026 midterms, flipping Republican seats and setting up divided government under President Trump for the next two years. The looping GIF of a trapped utility vehicle drew tens of thousands of likes, with users like Juanita Broaddrick calling it spot-on for the gridlock ahead. Some saw it as modern politics in a nutshell, while others welcomed the stalemate to limit changes. The meme highlights expectations of partisan clashes and little legislative progress in Washington.",
    "updated_at": "2026-11-04T21:00:42.000Z",
-   "url": "https://x.com/i/trending/2118039608730735073"
+   "url": "https://x.com/i/trending/2118039608730735073",
+   "topics": [
+    "Politics"
+   ],
+   "posts": [
+    "2117896105098670435",
+    "2118000857774281004",
+    "2118039146627318028"
+   ]
   },
   {
    "category": "News",
@@ -462,9 +441,243 @@
    "hook": "Patrick Collison sees America's democracy thriving through responsive policy shifts over the past decade. Yet a Pew poll tells a starkly different story, with satisfaction dropping to 30% by 2026.",
    "id": "2118187173170106464",
    "name": "Stripe CEO Praises U.S. Democracy Amid Falling Satisfaction Polls",
-   "summary": "Stripe CEO Patrick Collison highlighted how U.S. national outcomes have closely matched voter preferences on key issues, citing Alexis de Tocqueville\u2019s 'Democracy in America' as still relevant. A Pew Research Center chart showed public satisfaction with democracy falling from 46% in 2017 to 30% in 2026. Replies split sharply: some pointed to policy swings like immigration changes as proof of the system's strength, while others decried its vulnerability to 'tyrants' and shared memes warning of long-term risks. The exchange underscores ongoing debates about democracy's responsiveness versus public discontent.",
+   "summary": "Stripe CEO Patrick Collison highlighted how U.S. national outcomes have closely matched voter preferences on key issues, citing Alexis de Tocqueville’s 'Democracy in America' as still relevant. A Pew Research Center chart showed public satisfaction with democracy falling from 46% in 2017 to 30% in 2026. Replies split sharply: some pointed to policy swings like immigration changes as proof of the system's strength, while others decried its vulnerability to 'tyrants' and shared memes warning of long-term risks. The exchange underscores ongoing debates about democracy's responsiveness versus public discontent.",
    "updated_at": "2026-11-05T03:48:21.000Z",
-   "url": "https://x.com/i/trending/2118187173170106464"
+   "url": "https://x.com/i/trending/2118187173170106464",
+   "topics": [
+    "Politics"
+   ],
+   "posts": [
+    "2118081177492066485",
+    "2118149953931665764",
+    "2118129108479819977"
+   ]
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2117719313754808471"
+    },
+    {
+     "post_id": "2117911840973861028"
+    },
+    {
+     "post_id": "2118043706842570775"
+    },
+    {
+     "post_id": "2117914323125428644"
+    },
+    {
+     "post_id": "2117909955193774444"
+    },
+    {
+     "post_id": "2117911840973861028"
+    },
+    {
+     "post_id": "2117904180660613542"
+    },
+    {
+     "post_id": "2118043706842570775"
+    },
+    {
+     "post_id": "2117897018324451786"
+    },
+    {
+     "post_id": "2117914323125428644"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "war with Iran",
+      "invasion and kidnapping of Venezuela's president",
+      "near-war with Denmark and Greenland",
+      "blockade of Cuba"
+     ],
+     "organizations": [],
+     "people": [],
+     "places": [
+      "Iran",
+      "Venezuela",
+      "Denmark",
+      "Greenland",
+      "Cuba"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "An American's question on X—why should outsiders care about U.S. politics?—unleashed replies from around the world, each tying election outcomes to real hardships in their lives.",
+   "id": "2117805944465965150",
+   "name": "Global Replies Detail U.S. Politics' Worldwide Impact During 2026 Midterms",
+   "summary": "Amid the 2026 midterm elections, people from Venezuela to Italy explained direct fallout from U.S. actions, like the January military capture of President Nicolás Maduro in Caracas for drug and weapons trials, and diesel price spikes from U.S. strikes on Iran disrupting global energy. Replies also pointed to American military bases abroad, funding for wars, tariffs reshaping trade, and positions at the UN influencing sanctions and aid. The exchange exposed a clear divide: many Americans see politics as domestic, while others abroad feel its effects daily despite having no vote.",
+   "updated_at": "2026-11-05T15:05:10.000Z",
+   "url": "https://x.com/i/trending/2117805944465965150",
+   "topics": [
+    "Politics"
+   ],
+   "posts": [
+    "2117719313754808471",
+    "2117911840973861028",
+    "2118043706842570775"
+   ]
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2118069651611525340"
+    },
+    {
+     "post_id": "2118246053682258125"
+    },
+    {
+     "post_id": "2118286659376632287"
+    },
+    {
+     "post_id": "2118138257007595545"
+    },
+    {
+     "post_id": "2118072975132148064"
+    },
+    {
+     "post_id": "2118246053682258125"
+    },
+    {
+     "post_id": "2118286659376632287"
+    },
+    {
+     "post_id": "2118138257007595545"
+    },
+    {
+     "post_id": "2118305000460071277"
+    },
+    {
+     "post_id": "2118334786313867760"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [
+      "Donald Trump",
+      "Jeffrey Epstein"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Gunther Eagleman's post laid out a wishlist for Democrats: gas under $2, free healthcare, Epstein files out, and more—all by February.",
+   "id": "2118208498010034537",
+   "name": "Conservative Demands Instant Results After Democrats' 2026 Midterm Wins",
+   "summary": "Democrats flipped the House and Senate on November 4, leaving Republicans without control for Trump's final two years and creating divided government. Eagleman's demand sparked pushback, with replies noting Congress starts in January, Trump still holds veto power, and he hasn't delivered similar promises. Critics called out inconsistent standards, as similar pressure was absent during past Republican majorities, highlighting post-election tensions over what the new Congress can achieve.",
+   "updated_at": "2026-11-05T15:10:51.000Z",
+   "url": "https://x.com/i/trending/2118208498010034537",
+   "topics": [
+    "Politics"
+   ],
+   "posts": [
+    "2118069651611525340",
+    "2118246053682258125",
+    "2118286659376632287"
+   ]
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2118182268350894463"
+    },
+    {
+     "post_id": "2118130617816588383"
+    },
+    {
+     "post_id": "2118136875487563816"
+    },
+    {
+     "post_id": "2118228674470093297"
+    },
+    {
+     "post_id": "2118228674470093297"
+    },
+    {
+     "post_id": "2118182268350894463"
+    },
+    {
+     "post_id": "2118326212330164246"
+    },
+    {
+     "post_id": "2118101040759550165"
+    },
+    {
+     "post_id": "2118130617816588383"
+    },
+    {
+     "post_id": "2118297288757985693"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "2018 midterm elections"
+     ],
+     "organizations": [
+      "Democratic Party"
+     ],
+     "people": [
+      "Donald Trump"
+     ],
+     "places": [
+      "United States"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Standing amid White House renovation beams, President Trump shrugged off talk of a third impeachment with a confident grin.",
+   "id": "2118250486801260640",
+   "name": "Trump Dismisses Impeachment Fears After Democratic Midterm Wins",
+   "summary": "After Democrats gained control of both the Senate and House in Tuesday's midterms, flipping seats in conservative states, Trump told reporters Wednesday he wasn't worried about impeachment. He called it 'impeachment for no reason' in a successful country and predicted it would destroy Democrats politically. Trump said he'd work with the new majority unless they chose to be destructive, while retaining his veto power, as party leaders eye oversight rather than immediate action.",
+   "updated_at": "2026-11-05T13:01:50.000Z",
+   "url": "https://x.com/i/trending/2118250486801260640",
+   "topics": [
+    "Politics"
+   ],
+   "posts": [
+    "2118182268350894463",
+    "2118130617816588383",
+    "2118136875487563816"
+   ]
   },
   {
    "category": "News",
@@ -529,150 +742,20 @@
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "As Democrats flipped the U.S. House and Senate on Tuesday, Canadian conservatives split sharply\u2014some cheered the rebuke to Trump, prompting backlash from others calling it a betrayal.",
+   "hook": "As Democrats flipped the U.S. House and Senate on Tuesday, Canadian conservatives split sharply—some cheered the rebuke to Trump, prompting backlash from others calling it a betrayal.",
    "id": "2117967091705737337",
    "name": "Canadian Conservatives Clash Over U.S. Democratic Midterm Sweep",
-   "summary": "Democrats secured historic gains, taking Senate seats in Republican strongholds like Texas and Kansas, plus multiple governorships, in a broad rejection of President Trump. Canadian conservatives reacted with division: some celebrated amid resentment over U.S. tariffs and trade disputes that strained ties with leader Pierre Poilievre, while critics labeled them weak and unfaithful to conservative principles. Not all joined the cheers\u2014many urged focusing on Canada's own issues\u2014but the exchanges highlight fractures where U.S. politics collide with national interests.",
+   "summary": "Democrats secured historic gains, taking Senate seats in Republican strongholds like Texas and Kansas, plus multiple governorships, in a broad rejection of President Trump. Canadian conservatives reacted with division: some celebrated amid resentment over U.S. tariffs and trade disputes that strained ties with leader Pierre Poilievre, while critics labeled them weak and unfaithful to conservative principles. Not all joined the cheers—many urged focusing on Canada's own issues—but the exchanges highlight fractures where U.S. politics collide with national interests.",
    "updated_at": "2026-11-04T18:50:45.000Z",
-   "url": "https://x.com/i/trending/2117967091705737337"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2118157866758475861"
-    },
-    {
-     "post_id": "2117402794277904811"
-    },
-    {
-     "post_id": "2117525849654411614"
-    },
-    {
-     "post_id": "2118206339340222667"
-    },
-    {
-     "post_id": "2118184575344193895"
-    },
-    {
-     "post_id": "2117525849654411614"
-    },
-    {
-     "post_id": "2118157866758475861"
-    },
-    {
-     "post_id": "2117440031250088221"
-    },
-    {
-     "post_id": "2117526507165757950"
-    },
-    {
-     "post_id": "2117518874715545790"
-    }
+   "url": "https://x.com/i/trending/2117967091705737337",
+   "topics": [
+    "Politics"
    ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "US Presidential Election"
-     ],
-     "organizations": [],
-     "people": [
-      "Donald Trump",
-      "Jane Caro",
-      "Dhruv Rathee",
-      "Benjamin Netanyahu",
-      "Narendra Modi"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Elections"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "An Uber driver in Scotland lit up at an American accent, calling it a 'beautiful day' after Democrats took control. Around the world, reactions poured in with cheers, thanks, and pointed reminders of the high stakes.",
-   "id": "2117552377352081745",
-   "name": "Democrats Secure Senate and House in 2026 Midterms Amid Global Relief",
-   "summary": "Democrats flipped Senate seats in Texas, Iowa, Kansas, Ohio, and South Carolina for a 54-44 majority, while gaining a strong House edge in a historic landslide. International voices like Australian commentator Jane Caro expressed pre-election terror over Trump, while Indian YouTuber Dhruv Rathee offered early thanks and Spain\u2019s Prime Minister Pedro S\u00e1nchez hailed votes against hate and climate denialism. Some clarified they cheered not for America but to avert tariffs, inflation, and worse, showing how U.S. results ripple globally.",
-   "updated_at": "2026-11-05T08:20:03.000Z",
-   "url": "https://x.com/i/trending/2117552377352081745"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2118064571696988283"
-    },
-    {
-     "post_id": "2118051737248706730"
-    },
-    {
-     "post_id": "2117961691560370482"
-    },
-    {
-     "post_id": "2118022550970392668"
-    },
-    {
-     "post_id": "2118090269572604069"
-    },
-    {
-     "post_id": "2118051737248706730"
-    },
-    {
-     "post_id": "2118064571696988283"
-    },
-    {
-     "post_id": "2118053251560202644"
-    },
-    {
-     "post_id": "2118022550970392668"
-    },
-    {
-     "post_id": "2118124584868458537"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "U.S. Election"
-     ],
-     "organizations": [
-      "House of Representatives",
-      "SpaceX"
-     ],
-     "people": [
-      "Robert Garcia"
-     ],
-     "places": [
-      "United States"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "News",
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Freshly elected Senator Peggy Flanagan stepped to the microphone and called for new Senate leadership, thanking Chuck Schumer while signaling voters' demand for bold change.",
-   "id": "2118050905589457112",
-   "name": "Democrats Take Congress, Eye New Leadership Amid Affordability Push",
-   "summary": "Democrats flipped enough seats to claim majorities in both the House and Senate during Tuesday's midterms, fueled by voter anger over high living costs like rent and groceries. Senator-elect Peggy Flanagan of Minnesota urged replacing longtime leader Chuck Schumer with fresh faces untainted by corporate PAC money, while New York City Mayor Zohran Mamdani stressed using power for universal childcare and housing. House leader Hakeem Jeffries, set to become Speaker, focused on governing for affordability over revenge, as progressives like Rep. Ro Khanna pushed Medicare for All, a $25 minimum wage, and cuts to certain foreign aid. Leadership tensions will play out when the new Congress starts in January.",
-   "updated_at": "2026-11-05T04:48:57.000Z",
-   "url": "https://x.com/i/trending/2118050905589457112"
+   "posts": [
+    "2118004729150382266",
+    "2117860210702250075",
+    "2117873504540332059"
+   ]
   }
  ]
 }
