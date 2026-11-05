@@ -1,19 +1,9 @@
 {
- "built_at": "2026-11-05T12:28:06Z",
- "searched_at": "2026-11-05T12:28:06Z",
+ "built_at": "2026-11-05T12:44:51Z",
+ "searched_at": "2026-11-05T12:44:51Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2118300160040055209",
-   "post_url": "https://x.com/thewire_in/status/2118300160040055209",
-   "name": "The Wire",
-   "username": "thewire_in",
-   "verified_type": "blue",
-   "text": "Former Chief Election Commissioner S.Y. Quraishi on Why the Election Commission Must Be Independent https://t.co/taEJiQXQCk",
-   "started_at": "2026-11-05T11:11:28.000Z",
-   "assumed_live_until": "2026-11-05T14:11:28Z"
-  },
   {
    "post_id": "2118310478451531978",
    "post_url": "https://x.com/marclamonthill/status/2118310478451531978",
@@ -83,6 +73,16 @@
    "text": "LIVE: Air Vice Marshal Shekhar Yadav holds News Conference on service extension for Agniveers | IAF\n\n#iaf #agniveers #shekharyadav https://t.co/RL8TsvdOfu",
    "started_at": "2026-11-05T10:34:02.000Z",
    "assumed_live_until": "2026-11-05T13:34:02Z"
+  },
+  {
+   "post_id": "2118312869620072923",
+   "post_url": "https://x.com/tv3_ghana/status/2118312869620072923",
+   "name": "#TV3GH",
+   "username": "tv3_ghana",
+   "verified_type": "blue",
+   "text": "LIVE: News Central || 05-11-2026 https://t.co/GIbkCM0Vy8",
+   "started_at": "2026-11-05T12:01:59.000Z",
+   "assumed_live_until": "2026-11-05T15:01:59Z"
   }
  ]
 }
