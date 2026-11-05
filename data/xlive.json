@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-05T06:20:53Z",
- "searched_at": "2026-11-05T06:21:00Z",
+ "built_at": "2026-11-05T06:38:28Z",
+ "searched_at": "2026-11-05T06:38:28Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -55,16 +55,6 @@
    "assumed_live_until": "2026-11-05T08:22:02Z"
   },
   {
-   "post_id": "2118186053110489161",
-   "post_url": "https://x.com/Sensus_Fidelium/status/2118186053110489161",
-   "name": "Sensus Fidelium",
-   "username": "Sensus_Fidelium",
-   "verified_type": "blue",
-   "text": "Clown Planet 11/4/2026: Election Results \"Blue Tsunami?\", Florida Under Water, 4 Parents? https://t.co/tE0whuAyDG",
-   "started_at": "2026-11-05T03:38:03.000Z",
-   "assumed_live_until": "2026-11-05T06:38:03Z"
-  },
-  {
    "post_id": "2118191837970063634",
    "post_url": "https://x.com/DifranDaily/status/2118191837970063634",
    "name": "DiFran",
@@ -83,6 +73,16 @@
    "text": "California Election Results 2026: Becerra Wins, Prop 39 Fails, LA Mayor Too Close https://t.co/YJuIcL5AwE",
    "started_at": "2026-11-05T04:05:11.000Z",
    "assumed_live_until": "2026-11-05T07:05:11Z"
+  },
+  {
+   "post_id": "2118191600169849026",
+   "post_url": "https://x.com/JoeUntamed/status/2118191600169849026",
+   "name": "Untamed Nation",
+   "username": "JoeUntamed",
+   "verified_type": "blue",
+   "text": "RERUN-Joe Oltmann Untamed | Joe’s Take On: Election Day Fallout | 11.04.26 https://t.co/RgE1MTJoBY",
+   "started_at": "2026-11-05T04:00:06.000Z",
+   "assumed_live_until": "2026-11-05T07:00:06Z"
   }
  ]
 }
