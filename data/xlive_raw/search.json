@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T13:50:02Z",
+ "fetched_at": "2026-11-05T14:06:10Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-05T10:50:02Z",
+  "start_time": "2026-11-05T11:06:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -20,14 +20,32 @@
    "id": "2118310217129611316",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 115,
-    "like_count": 0,
+    "impression_count": 119,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 1
    },
    "text": "BOE Rate Announcement &amp; Press Conference - 5th November 2026 https://t.co/FhFJYG7W6J",
    "url": "https://x.com/thePropTrade/status/2118310217129611316"
+  },
+  {
+   "author_id": "256551011",
+   "created_at": "2026-11-05T13:50:10.000Z",
+   "edit_history_tweet_ids": [
+    "2118340094977257621"
+   ],
+   "id": "2118340094977257621",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 5643,
+    "like_count": 90,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 9
+   },
+   "text": "It's time for Ren\u00e9e Slegers' pre-Liverpool press conference \ud83c\udf99\ufe0f \n\nTune in now \ud83d\udcfa https://t.co/eOjN7k3fzA",
+   "url": "https://x.com/ArsenalWFC/status/2118340094977257621"
   },
   {
    "author_id": "376118814",
@@ -38,13 +56,13 @@
    "id": "2118326665549873426",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 912,
-    "like_count": 2,
+    "impression_count": 986,
+    "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "LIVE Press Conference | Joshua Buatsi vs Willy Hutchinson 2 | A Point to Prove 💥 https://t.co/PbqELUeTTD",
+   "text": "LIVE Press Conference | Joshua Buatsi vs Willy Hutchinson 2 | A Point to Prove \ud83d\udca5 https://t.co/PbqELUeTTD",
    "url": "https://x.com/Queensberry/status/2118326665549873426"
   },
   {
@@ -56,11 +74,11 @@
    "id": "2118331483349725458",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 31616,
-    "like_count": 15,
+    "impression_count": 36245,
+    "like_count": 20,
     "quote_count": 1,
-    "reply_count": 25,
-    "retweet_count": 5
+    "reply_count": 29,
+    "retweet_count": 6
    },
    "text": "WATCH LIVE: NYC Mayor Mamdani holds press conference on the Brooklyn fire https://t.co/0a8e9yRqU0",
    "url": "https://x.com/FoxNews/status/2118331483349725458"
@@ -74,14 +92,50 @@
    "id": "2118326783313396115",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 47,
-    "like_count": 3,
-    "quote_count": 0,
+    "impression_count": 288,
+    "like_count": 4,
+    "quote_count": 1,
     "reply_count": 0,
     "retweet_count": 2
    },
-   "text": "LIVE - The White House Podcast  🏛️ 🔴 https://t.co/ocPSHmi3bZ",
+   "text": "LIVE - The White House Podcast  \ud83c\udfdb\ufe0f \ud83d\udd34 https://t.co/ocPSHmi3bZ",
    "url": "https://x.com/FreePeopleRadio/status/2118326783313396115"
+  },
+  {
+   "author_id": "1731447196455989248",
+   "created_at": "2026-11-05T13:57:58.000Z",
+   "edit_history_tweet_ids": [
+    "2118342057609535592"
+   ],
+   "id": "2118342057609535592",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 459,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Trump News, Democratic Politics &amp; 2026 Election Updates | TMM S7E129 https://t.co/Ybirjv0coS",
+   "url": "https://x.com/2waytvapp/status/2118342057609535592"
+  },
+  {
+   "author_id": "1215781540073918465",
+   "created_at": "2026-11-05T13:57:57.000Z",
+   "edit_history_tweet_ids": [
+    "2118342056410050787"
+   ],
+   "id": "2118342056410050787",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Trump News, Democratic Politics &amp; 2026 Election Updates | TMM S7E129 https://t.co/lHfKE2w1tS",
+   "url": "https://x.com/Walkingduckprod/status/2118342056410050787"
   },
   {
    "author_id": "771962563424817152",
@@ -92,7 +146,7 @@
    "id": "2118306053708255467",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 165,
+    "impression_count": 178,
     "like_count": 0,
     "quote_count": 1,
     "reply_count": 0,
@@ -110,14 +164,104 @@
    "id": "2118312442857959492",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1382,
+    "impression_count": 1441,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "🚨 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 05-11-26 | #CitiNewsroom https://t.co/K6M6C3KmfU",
+   "text": "\ud83d\udea8 Citi FM LIVE!!! | Citi Prime News - Breaking News From Ghana | 05-11-26 | #CitiNewsroom https://t.co/K6M6C3KmfU",
    "url": "https://x.com/Citi973/status/2118312442857959492"
+  },
+  {
+   "author_id": "1674079298091900929",
+   "created_at": "2026-11-05T14:00:07.000Z",
+   "edit_history_tweet_ids": [
+    "2118342599807205802"
+   ],
+   "id": "2118342599807205802",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 7,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83c\uddfa\ud83c\uddf8 America After the Election: Can We Put People Over Parties and Let Humanity Win? \u2764\ufe0f https://t.co/81puxe09ab",
+   "url": "https://x.com/NaturallyIRadio/status/2118342599807205802"
+  },
+  {
+   "author_id": "904811819335688192",
+   "created_at": "2026-11-05T14:00:07.000Z",
+   "edit_history_tweet_ids": [
+    "2118342598582534590"
+   ],
+   "id": "2118342598582534590",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 497,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83c\uddfa\ud83c\uddf8 America After the Election: Can We Put People Over Parties and Let Humanity Win? \u2764\ufe0f https://t.co/n4IXxiK25p",
+   "url": "https://x.com/realjoshuareid/status/2118342598582534590"
+  },
+  {
+   "author_id": "1519441963262484480",
+   "created_at": "2026-11-05T13:57:11.000Z",
+   "edit_history_tweet_ids": [
+    "2118341861479719216"
+   ],
+   "id": "2118341861479719216",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 476,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "text": "\ud83c\uddfa\ud83c\uddf8 America After the Election: Can We Put People Over Parties and Let Humanity Win? \u2764\ufe0f https://t.co/7zyd4Rvsgj",
+   "url": "https://x.com/LaNativePatriot/status/2118341861479719216"
+  },
+  {
+   "author_id": "1610405213080522754",
+   "created_at": "2026-11-05T13:57:11.000Z",
+   "edit_history_tweet_ids": [
+    "2118341861865672884"
+   ],
+   "id": "2118341861865672884",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 55,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83c\uddfa\ud83c\uddf8 America After the Election: Can We Put People Over Parties and Let Humanity Win? \u2764\ufe0f https://t.co/qPsF48gMGU",
+   "url": "https://x.com/ThePatriotsPray/status/2118341861865672884"
+  },
+  {
+   "author_id": "1387856976869150720",
+   "created_at": "2026-11-05T14:00:08.000Z",
+   "edit_history_tweet_ids": [
+    "2118342603045327072"
+   ],
+   "id": "2118342603045327072",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "\ud83c\uddfa\ud83c\uddf8 America After the Election: Can We Put People Over Parties and Let Humanity Win? \u2764\ufe0f https://t.co/qNysnTh1Yr",
+   "url": "https://x.com/TammyCuthbertG/status/2118342603045327072"
   },
   {
    "author_id": "1326462342679441409",
@@ -128,32 +272,14 @@
    "id": "2118329687692759227",
    "public_metrics": {
     "bookmark_count": 6,
-    "impression_count": 564,
-    "like_count": 8,
+    "impression_count": 668,
+    "like_count": 13,
     "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 4
+    "reply_count": 3,
+    "retweet_count": 7
    },
    "text": "Alex Krainer: BREAKING: Trump Privately Questioned If Iran War Cost Republicans the Midterms https://t.co/BOOM4MRNQi",
    "url": "https://x.com/Dialogue_NRA/status/2118329687692759227"
-  },
-  {
-   "author_id": "3299214546",
-   "created_at": "2026-11-05T10:57:45.000Z",
-   "edit_history_tweet_ids": [
-    "2118296707687498198"
-   ],
-   "id": "2118296707687498198",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 531,
-    "like_count": 5,
-    "quote_count": 2,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "1.0 pastel sn clown dhet vpi dg\n0.1 pastel sn thet clown vpi dg\n-------------------------------------\n1.0 bp sn yb stranger clown\nor \n1.0 GHI mojave choco clown het ghost\n0.1 banana hurricane clown https://t.co/vfbt1i168C",
-   "url": "https://x.com/sigggggh/status/2118296707687498198"
   },
   {
    "author_id": "1918992545368997888",
@@ -182,8 +308,8 @@
    "id": "2118310478451531978",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3749,
-    "like_count": 7,
+    "impression_count": 3939,
+    "like_count": 8,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
@@ -200,7 +326,7 @@
    "id": "2118318693168058613",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 1667,
+    "impression_count": 1714,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -218,7 +344,7 @@
    "id": "2118328148215447973",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 907,
+    "impression_count": 1029,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -226,24 +352,6 @@
    },
    "text": "TOTTENHAM NEWS: THE DAILY LIVE! The Latest Spurs News, Rumours &amp; Reports https://t.co/sogSeTwNrd",
    "url": "https://x.com/ChrisCowlin/status/2118328148215447973"
-  },
-  {
-   "author_id": "1705649608964091904",
-   "created_at": "2026-11-05T11:00:04.000Z",
-   "edit_history_tweet_ids": [
-    "2118297287474418074"
-   ],
-   "id": "2118297287474418074",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 109,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪\nhttps://t.co/SJCML6aLRZ \n\nJoin us this morning for Unfiltered Vision News at 7:30am EST. Join by Desktop; https://t.co/nDPZ0zhC6b or Phone; https://t.co/yWhMheQ0nO\n\n@SpudMcKenzie\n@NYStrong_\n@only1showers\n@Unshakablewapr\n@RacerNYC2 https://t.co/lrkY4o6k6H",
-   "url": "https://x.com/itsourturnrp/status/2118297287474418074"
   },
   {
    "author_id": "14574380",
@@ -254,13 +362,13 @@
    "id": "2118312422918242351",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 13,
+    "impression_count": 14,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Aquino on Houston’s Next Fight, Huffines Blasts Texas GOP, WBAI Revisits MI, OH, TX Senate Stakes https://t.co/vpIg8Ou2Hj",
+   "text": "Aquino on Houston\u2019s Next Fight, Huffines Blasts Texas GOP, WBAI Revisits MI, OH, TX Senate Stakes https://t.co/vpIg8Ou2Hj",
    "url": "https://x.com/EgbertoWillies/status/2118312422918242351"
   },
   {
@@ -272,14 +380,32 @@
    "id": "2118327450786783573",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3231,
-    "like_count": 4,
+    "impression_count": 3592,
+    "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 2
    },
    "text": "GB News https://t.co/EZh0MyJNo5",
    "url": "https://x.com/GBNEWS/status/2118327450786783573"
+  },
+  {
+   "author_id": "2530363285",
+   "created_at": "2026-11-05T12:52:28.000Z",
+   "edit_history_tweet_ids": [
+    "2118325577727852936"
+   ],
+   "id": "2118325577727852936",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 607,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE: News Central || 05-11-2026 https://t.co/tWD8jdmD5s",
+   "url": "https://x.com/tv3_ghana/status/2118325577727852936"
   },
   {
    "author_id": "91966685",
@@ -291,7 +417,7 @@
    "id": "2118312796152586457",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 783,
+    "impression_count": 800,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -309,68 +435,14 @@
    "id": "2118320002592063671",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 38,
+    "impression_count": 39,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "🔥UNFILTERED VISION NEWS – MIGHTY MEN THURSDAY 💪 https://t.co/SJCML6bjHx",
+   "text": "\ud83d\udd25UNFILTERED VISION NEWS \u2013 MIGHTY MEN THURSDAY \ud83d\udcaa https://t.co/SJCML6bjHx",
    "url": "https://x.com/itsourturnrp/status/2118320002592063671"
-  },
-  {
-   "author_id": "714377713",
-   "created_at": "2026-11-05T12:00:44.000Z",
-   "edit_history_tweet_ids": [
-    "2118312556221579420"
-   ],
-   "id": "2118312556221579420",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1375,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "MIDDAY NEWS 05/11/26 https://t.co/8j6wr5VYy3",
-   "url": "https://x.com/utvghana/status/2118312556221579420"
-  },
-  {
-   "author_id": "2579252329",
-   "created_at": "2026-11-05T11:35:05.000Z",
-   "edit_history_tweet_ids": [
-    "2118306102043439230"
-   ],
-   "id": "2118306102043439230",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 27,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Live with NEWS TALK 1037FM https://t.co/RC8dPIahVV",
-   "url": "https://x.com/Newstalk1037fm/status/2118306102043439230"
-  },
-  {
-   "author_id": "2530363285",
-   "created_at": "2026-11-05T12:52:28.000Z",
-   "edit_history_tweet_ids": [
-    "2118325577727852936"
-   ],
-   "id": "2118325577727852936",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 558,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "LIVE: News Central || 05-11-2026 https://t.co/tWD8jdmD5s",
-   "url": "https://x.com/tv3_ghana/status/2118325577727852936"
   },
   {
    "author_id": "2530363285",
@@ -381,7 +453,7 @@
    "id": "2118312869620072923",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2944,
+    "impression_count": 3013,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
@@ -389,78 +461,6 @@
    },
    "text": "LIVE: News Central || 05-11-2026 https://t.co/GIbkCM0Vy8",
    "url": "https://x.com/tv3_ghana/status/2118312869620072923"
-  },
-  {
-   "author_id": "327419019",
-   "created_at": "2026-11-05T12:30:07.000Z",
-   "edit_history_tweet_ids": [
-    "2118319950162969082"
-   ],
-   "id": "2118319950162969082",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 8,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "11/5/2026 | Daily AI News from GAI Insights https://t.co/lrg1S6YkiA",
-   "url": "https://x.com/amhrtech/status/2118319950162969082"
-  },
-  {
-   "author_id": "14117196",
-   "created_at": "2026-11-05T12:30:07.000Z",
-   "edit_history_tweet_ids": [
-    "2118319949902917797"
-   ],
-   "id": "2118319949902917797",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 15,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "11/5/2026 | Daily AI News from GAI Insights https://t.co/ZLb9fRwDSE",
-   "url": "https://x.com/jjsviokla/status/2118319949902917797"
-  },
-  {
-   "author_id": "15555396",
-   "created_at": "2026-11-05T13:00:43.000Z",
-   "edit_history_tweet_ids": [
-    "2118327650204684346"
-   ],
-   "id": "2118327650204684346",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 74,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "The Valley's Morning News 11/05/2026 https://t.co/ZM3c7bbew1",
-   "url": "https://x.com/710KURV/status/2118327650204684346"
-  },
-  {
-   "author_id": "15501677",
-   "created_at": "2026-11-05T12:30:07.000Z",
-   "edit_history_tweet_ids": [
-    "2118319949387076080"
-   ],
-   "id": "2118319949387076080",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 11,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "11/5/2026 | Daily AI News from GAI Insights https://t.co/oZphJpaOoX",
-   "url": "https://x.com/PaulBaier/status/2118319949387076080"
   }
  ],
  "users": [
@@ -468,7 +468,7 @@
    "id": "1843569695892312064",
    "name": "thePropTrade.com",
    "public_metrics": {
-    "followers_count": 3528,
+    "followers_count": 3529,
     "following_count": 1,
     "like_count": 478,
     "listed_count": 8,
@@ -480,15 +480,30 @@
    "verified_type": "blue"
   },
   {
+   "id": "256551011",
+   "name": "Arsenal Women",
+   "public_metrics": {
+    "followers_count": 828350,
+    "following_count": 284,
+    "like_count": 3891,
+    "listed_count": 2396,
+    "media_count": 20165,
+    "tweet_count": 38789
+   },
+   "username": "ArsenalWFC",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
    "id": "376118814",
    "name": "Queensberry Promotions",
    "public_metrics": {
-    "followers_count": 297401,
+    "followers_count": 297400,
     "following_count": 130,
     "like_count": 3813,
     "listed_count": 764,
-    "media_count": 30260,
-    "tweet_count": 69447
+    "media_count": 30264,
+    "tweet_count": 69451
    },
    "username": "Queensberry",
    "verified": true,
@@ -498,7 +513,7 @@
    "id": "1367531",
    "name": "Fox News",
    "public_metrics": {
-    "followers_count": 29448287,
+    "followers_count": 29448334,
     "following_count": 183,
     "like_count": 37,
     "listed_count": 80643,
@@ -525,6 +540,36 @@
    "verified_type": "blue"
   },
   {
+   "id": "1731447196455989248",
+   "name": "2WAY",
+   "public_metrics": {
+    "followers_count": 60498,
+    "following_count": 790,
+    "like_count": 1540,
+    "listed_count": 309,
+    "media_count": 2491,
+    "tweet_count": 5120
+   },
+   "username": "2waytvapp",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1215781540073918465",
+   "name": "Walking Duck",
+   "public_metrics": {
+    "followers_count": 509,
+    "following_count": 1656,
+    "like_count": 450,
+    "listed_count": 5,
+    "media_count": 637,
+    "tweet_count": 2023
+   },
+   "username": "Walkingduckprod",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "771962563424817152",
    "name": "Goa Congress",
    "public_metrics": {
@@ -547,10 +592,85 @@
     "following_count": 527,
     "like_count": 2834,
     "listed_count": 717,
-    "media_count": 178307,
-    "tweet_count": 574818
+    "media_count": 178310,
+    "tweet_count": 574821
    },
    "username": "Citi973",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1674079298091900929",
+   "name": "NaturallyInspiredRadio",
+   "public_metrics": {
+    "followers_count": 1565,
+    "following_count": 7077,
+    "like_count": 1057,
+    "listed_count": 1,
+    "media_count": 270,
+    "tweet_count": 1539
+   },
+   "username": "NaturallyIRadio",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "904811819335688192",
+   "name": "Joshua Reid | Redpills.tv",
+   "public_metrics": {
+    "followers_count": 69972,
+    "following_count": 5902,
+    "like_count": 5193,
+    "listed_count": 304,
+    "media_count": 6461,
+    "tweet_count": 48018
+   },
+   "username": "realjoshuareid",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1519441963262484480",
+   "name": "\ud83e\udeb6Native Patriot \ud83c\uddfa\ud83c\uddf8",
+   "public_metrics": {
+    "followers_count": 232419,
+    "following_count": 26304,
+    "like_count": 335680,
+    "listed_count": 277,
+    "media_count": 15074,
+    "tweet_count": 80639
+   },
+   "username": "LaNativePatriot",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1610405213080522754",
+   "name": "The Patriots Prayer Network",
+   "public_metrics": {
+    "followers_count": 39439,
+    "following_count": 23070,
+    "like_count": 14623,
+    "listed_count": 43,
+    "media_count": 4043,
+    "tweet_count": 20491
+   },
+   "username": "ThePatriotsPray",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1387856976869150720",
+   "name": "Tammy Cuthbert Garcia",
+   "public_metrics": {
+    "followers_count": 2377,
+    "following_count": 1442,
+    "like_count": 29716,
+    "listed_count": 9,
+    "media_count": 731,
+    "tweet_count": 6085
+   },
+   "username": "TammyCuthbertG",
    "verified": true,
    "verified_type": "blue"
   },
@@ -558,7 +678,7 @@
    "id": "1326462342679441409",
    "name": "Dialogue works",
    "public_metrics": {
-    "followers_count": 19568,
+    "followers_count": 19569,
     "following_count": 82,
     "like_count": 1038,
     "listed_count": 174,
@@ -566,21 +686,6 @@
     "tweet_count": 6572
    },
    "username": "Dialogue_NRA",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "3299214546",
-   "name": "わぶ|Living Art Project",
-   "public_metrics": {
-    "followers_count": 701,
-    "following_count": 504,
-    "like_count": 91481,
-    "listed_count": 9,
-    "media_count": 10427,
-    "tweet_count": 296986
-   },
-   "username": "sigggggh",
    "verified": true,
    "verified_type": "blue"
   },
@@ -606,7 +711,7 @@
     "followers_count": 561747,
     "following_count": 2264,
     "like_count": 53799,
-    "listed_count": 4195,
+    "listed_count": 4194,
     "media_count": 2124,
     "tweet_count": 105326
    },
@@ -618,12 +723,12 @@
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6276993,
+    "followers_count": 6277000,
     "following_count": 83,
     "like_count": 4431,
     "listed_count": 7342,
-    "media_count": 583588,
-    "tweet_count": 1544962
+    "media_count": 583597,
+    "tweet_count": 1544971
    },
    "username": "IndiaToday",
    "verified": true,
@@ -645,23 +750,8 @@
    "verified_type": "blue"
   },
   {
-   "id": "1705649608964091904",
-   "name": "Founder Redemption Party",
-   "public_metrics": {
-    "followers_count": 2638,
-    "following_count": 2762,
-    "like_count": 6921,
-    "listed_count": 5,
-    "media_count": 1188,
-    "tweet_count": 14087
-   },
-   "username": "itsourturnrp",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "14574380",
-   "name": "Egberto Willies, Politics Done Right host 🇺🇲🇵🇦",
+   "name": "Egberto Willies, Politics Done Right host \ud83c\uddfa\ud83c\uddf2\ud83c\uddf5\ud83c\udde6",
    "public_metrics": {
     "followers_count": 9043,
     "following_count": 2243,
@@ -678,134 +768,59 @@
    "id": "1339166129110065152",
    "name": "GB News",
    "public_metrics": {
-    "followers_count": 991503,
+    "followers_count": 991506,
     "following_count": 49,
     "like_count": 0,
     "listed_count": 2727,
-    "media_count": 171152,
-    "tweet_count": 331220
+    "media_count": 171153,
+    "tweet_count": 331222
    },
    "username": "GBNEWS",
    "verified": true,
    "verified_type": "business"
   },
   {
-   "id": "91966685",
-   "name": "Joy 99.7 FM",
-   "public_metrics": {
-    "followers_count": 2083313,
-    "following_count": 121,
-    "like_count": 40233,
-    "listed_count": 745,
-    "media_count": 143648,
-    "tweet_count": 615479
-   },
-   "username": "Joy997FM",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "714377713",
-   "name": "UTV Ghana",
-   "public_metrics": {
-    "followers_count": 1493784,
-    "following_count": 205,
-    "like_count": 270,
-    "listed_count": 424,
-    "media_count": 60380,
-    "tweet_count": 92877
-   },
-   "username": "utvghana",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2579252329",
-   "name": "Newstalk1037fm",
-   "public_metrics": {
-    "followers_count": 966,
-    "following_count": 534,
-    "like_count": 11643,
-    "listed_count": 15,
-    "media_count": 1065,
-    "tweet_count": 57173
-   },
-   "username": "Newstalk1037fm",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "2530363285",
    "name": "#TV3GH",
    "public_metrics": {
-    "followers_count": 2936390,
+    "followers_count": 2936391,
     "following_count": 120,
     "like_count": 15645,
     "listed_count": 654,
-    "media_count": 135076,
-    "tweet_count": 327250
+    "media_count": 135077,
+    "tweet_count": 327251
    },
    "username": "tv3_ghana",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "327419019",
-   "name": "Ankaj Mohindroo",
+   "id": "91966685",
+   "name": "Joy 99.7 FM",
    "public_metrics": {
-    "followers_count": 142,
-    "following_count": 2015,
-    "like_count": 524,
+    "followers_count": 2083310,
+    "following_count": 121,
+    "like_count": 40233,
+    "listed_count": 745,
+    "media_count": 143649,
+    "tweet_count": 615480
+   },
+   "username": "Joy997FM",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1705649608964091904",
+   "name": "Founder Redemption Party",
+   "public_metrics": {
+    "followers_count": 2638,
+    "following_count": 2762,
+    "like_count": 6921,
     "listed_count": 5,
-    "media_count": 41,
-    "tweet_count": 1090
+    "media_count": 1188,
+    "tweet_count": 14087
    },
-   "username": "amhrtech",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "14117196",
-   "name": "John Sviokla",
-   "public_metrics": {
-    "followers_count": 4096,
-    "following_count": 2247,
-    "like_count": 100,
-    "listed_count": 230,
-    "media_count": 119,
-    "tweet_count": 6213
-   },
-   "username": "jjsviokla",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "15555396",
-   "name": "710 KURV",
-   "public_metrics": {
-    "followers_count": 5333,
-    "following_count": 151,
-    "like_count": 104,
-    "listed_count": 105,
-    "media_count": 21219,
-    "tweet_count": 66867
-   },
-   "username": "710KURV",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "15501677",
-   "name": "PaulBaier",
-   "public_metrics": {
-    "followers_count": 1007,
-    "following_count": 1064,
-    "like_count": 1348,
-    "listed_count": 68,
-    "media_count": 223,
-    "tweet_count": 2651
-   },
-   "username": "PaulBaier",
+   "username": "itsourturnrp",
    "verified": true,
    "verified_type": "blue"
   }
