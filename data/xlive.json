@@ -1,25 +1,15 @@
 {
- "built_at": "2026-11-05T22:18:39Z",
- "searched_at": "2026-11-05T22:18:39Z",
+ "built_at": "2026-11-05T22:36:31Z",
+ "searched_at": "2026-11-05T22:36:23Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2118445573640741082",
-   "post_url": "https://x.com/WhiteHouse/status/2118445573640741082",
-   "name": "The White House",
-   "username": "WhiteHouse",
-   "verified_type": null,
-   "text": "President Trump Participates in Signing Time, Nov. 5, 2026 https://t.co/MHZaSHiHfb",
-   "started_at": "2026-11-05T20:49:18.000Z",
-   "assumed_live_until": "2026-11-05T23:49:18Z"
-  },
   {
    "post_id": "2118448478778974686",
    "post_url": "https://x.com/Acosta/status/2118448478778974686",
    "name": "Jim Acosta",
    "username": "Acosta",
-   "verified_type": null,
+   "verified_type": "blue",
    "text": "🔴 LIVE NOW: Democrats won Congress. @gtconway3d warns me what Trump does next and why impeachment stays on the table. Plus @DecodingFoxNews on the Fox blue-wave meltdown, and Sam is live on the ground as Trump may be racing to start his arch. 👇 https://t.co/moZwlMTiKj",
    "started_at": "2026-11-05T21:00:50.000Z",
    "assumed_live_until": "2026-11-06T00:00:50Z"
@@ -29,7 +19,7 @@
    "post_url": "https://x.com/RudyGiuliani/status/2118463544618307661",
    "name": "Rudy W. Giuliani",
    "username": "RudyGiuliani",
-   "verified_type": null,
+   "verified_type": "blue",
    "text": "America's Mayor Live (1054) Analyzing Vice President JD Vance's Response to Midterm Election Results https://t.co/MAbYHJukal",
    "started_at": "2026-11-05T22:00:42.000Z",
    "assumed_live_until": "2026-11-06T01:00:42Z"
@@ -39,50 +29,60 @@
    "post_url": "https://x.com/NewsNation/status/2118448239296847876",
    "name": "NewsNation",
    "username": "NewsNation",
-   "verified_type": null,
+   "verified_type": "business",
    "text": "Is the Trump era OVER? Debate with Rachael Bade | Prove It! with Batya https://t.co/x65kG06mGP",
    "started_at": "2026-11-05T20:59:53.000Z",
    "assumed_live_until": "2026-11-05T23:59:53Z"
-  },
-  {
-   "post_id": "2118448911220105243",
-   "post_url": "https://x.com/Dialogue_NRA/status/2118448911220105243",
-   "name": "Dialogue works",
-   "username": "Dialogue_NRA",
-   "verified_type": null,
-   "text": "Robbert Barnes: BREAKING: Marco Rubio Weighs Leaving Trump Administration After GOP Election Losses https://t.co/c20KBiGnLQ",
-   "started_at": "2026-11-05T21:02:33.000Z",
-   "assumed_live_until": "2026-11-06T00:02:33Z"
-  },
-  {
-   "post_id": "2118450267851022795",
-   "post_url": "https://x.com/BadlandsMedia_/status/2118450267851022795",
-   "name": "Badlands Media",
-   "username": "BadlandsMedia_",
-   "verified_type": null,
-   "text": "Badlands Coverage: President Trump Signing Time https://t.co/Y1SIwDUaLU",
-   "started_at": "2026-11-05T21:07:57.000Z",
-   "assumed_live_until": "2026-11-06T00:07:57Z"
   },
   {
    "post_id": "2118433051566882867",
    "post_url": "https://x.com/fox7austin/status/2118433051566882867",
    "name": "FOX 7 Austin",
    "username": "fox7austin",
-   "verified_type": null,
+   "verified_type": "business",
    "text": "Texas Governor-elect Gina Hinojosa is holding her first news conference since the election, where she plans to outline her plans for the state. https://t.co/Jlw3DMV1Vq",
    "started_at": "2026-11-05T19:59:32.000Z",
    "assumed_live_until": "2026-11-05T22:59:32Z"
+  },
+  {
+   "post_id": "2118451436967043467",
+   "post_url": "https://x.com/NTDNews/status/2118451436967043467",
+   "name": "NTD News",
+   "username": "NTDNews",
+   "verified_type": "business",
+   "text": "LIVE: President Trump Participates in Signing Ceremony https://t.co/jvpXQtiy9W",
+   "started_at": "2026-11-05T21:12:36.000Z",
+   "assumed_live_until": "2026-11-06T00:12:36Z"
+  },
+  {
+   "post_id": "2118450267851022795",
+   "post_url": "https://x.com/BadlandsMedia_/status/2118450267851022795",
+   "name": "Badlands Media",
+   "username": "BadlandsMedia_",
+   "verified_type": "blue",
+   "text": "Badlands Coverage: President Trump Signing Time https://t.co/Y1SIwDUaLU",
+   "started_at": "2026-11-05T21:07:57.000Z",
+   "assumed_live_until": "2026-11-06T00:07:57Z"
   },
   {
    "post_id": "2118434362844979441",
    "post_url": "https://x.com/michaelpleahy/status/2118434362844979441",
    "name": "Michael Patrick Leahy",
    "username": "michaelpleahy",
-   "verified_type": null,
+   "verified_type": "blue",
    "text": "Tune in now to The Michael Patrick Leahy Show - your AMERICA FIRST news talk!\n- Watch LIVE here on X \n- Listen on Spotify \n- Listen on WENO AM760 in Nashville \n- Read more at @TheTNStar https://t.co/FueaJClS9j",
    "started_at": "2026-11-05T20:04:45.000Z",
    "assumed_live_until": "2026-11-05T23:04:45Z"
+  },
+  {
+   "post_id": "2118448911220105243",
+   "post_url": "https://x.com/Dialogue_NRA/status/2118448911220105243",
+   "name": "Dialogue works",
+   "username": "Dialogue_NRA",
+   "verified_type": "blue",
+   "text": "Robbert Barnes: BREAKING: Marco Rubio Weighs Leaving Trump Administration After GOP Election Losses https://t.co/c20KBiGnLQ",
+   "started_at": "2026-11-05T21:02:33.000Z",
+   "assumed_live_until": "2026-11-06T00:02:33Z"
   }
  ]
 }

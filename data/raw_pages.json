@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T20:53:44Z",
+ "fetched_at": "2026-11-05T22:36:23Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,1458 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-11-05T22:23:48.000Z",
+     "edit_history_tweet_ids": [
+      "2118469354480181410"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 16,
+        "id": "1843002758430916608",
+        "start": 3,
+        "username": "apinionsvary"
+       }
+      ],
+      "urls": [
+       {
+        "description": "Jay Gatling's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1kEvp…",
+        "end": 41,
+        "expanded_url": "https://x.com/i/spaces/1kEvpjRZEgYWWX",
+        "images": [
+         {
+          "height": 630,
+          "url": "https://pbs.twimg.com/news_img/2118148862116524032/tN7lLS8q?format=jpg&name=orig",
+          "width": 1200
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2118148862116524032/tN7lLS8q?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 18,
+        "status": 200,
+        "title": "Scheduled: MAIN ST MEETS WALL ST: Latest News | Latest Market & Economic Data 📈📉 / X",
+        "unwound_url": "https://x.com/i/spaces/1kEvpjRZEgYWWX",
+        "url": "https://t.co/iTnYEqngZX"
+       }
+      ]
+     },
+     "id": "2118469354480181410",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118463534837240227",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @apinionsvary: https://t.co/iTnYEqngZX",
+     "url": "https://x.com/i/status/2118469354480181410"
+    },
+    {
+     "created_at": "2026-11-05T21:08:08.000Z",
+     "edit_history_tweet_ids": [
+      "2118450313606926450"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 16,
+        "id": "1520385351281348608",
+        "start": 0,
+        "username": "CHELLESHOCKEDTM"
+       }
+      ]
+     },
+     "id": "2118450313606926450",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 31,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118425909736899030",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@CHELLESHOCKEDTM Good show",
+     "url": "https://x.com/i/status/2118450313606926450"
+    },
+    {
+     "created_at": "2026-11-05T17:53:11.000Z",
+     "edit_history_tweet_ids": [
+      "2118401254036488256"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 14,
+        "id": "349284012",
+        "start": 0,
+        "username": "FBIKansasCity"
+       },
+       {
+        "end": 26,
+        "id": "1704904277523640320",
+        "start": 15,
+        "username": "ali_hopper"
+       }
+      ]
+     },
+     "id": "2118401254036488256",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 41,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118372831935312154",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@FBIKansasCity @ali_hopper Wow where I used to live at",
+     "url": "https://x.com/i/status/2118401254036488256"
+    },
+    {
+     "created_at": "2026-11-05T17:05:50.000Z",
+     "edit_history_tweet_ids": [
+      "2118389339600179387"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 16,
+        "id": "1518739690337230848",
+        "start": 0,
+        "username": "TXRealtorDallas"
+       }
+      ]
+     },
+     "id": "2118389339600179387",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118338050098962710",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@TXRealtorDallas Happy birthday",
+     "url": "https://x.com/i/status/2118389339600179387"
+    },
+    {
+     "created_at": "2026-11-05T17:03:20.000Z",
+     "edit_history_tweet_ids": [
+      "2118388708978426278"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 18,
+        "id": "1518748607318568960",
+        "start": 3,
+        "username": "averageJohn911"
+       }
+      ],
+      "urls": [
+       {
+        "description": "marlin's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1JQXR…",
+        "end": 43,
+        "expanded_url": "https://x.com/i/spaces/1JQXRzYdepymMR",
+        "images": [
+         {
+          "height": 630,
+          "url": "https://pbs.twimg.com/news_img/2118353516397789184/dEl6-uyg?format=jpg&name=orig",
+          "width": 1200
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2118353516397789184/dEl6-uyg?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 20,
+        "status": 200,
+        "title": "Happening now: Taxpayer paid impeachments? how much will it cost? #WeAreThePeople / X",
+        "unwound_url": "https://x.com/i/spaces/1JQXRzYdepymMR",
+        "url": "https://t.co/wXZlkTwlHJ"
+       }
+      ]
+     },
+     "id": "2118388708978426278",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118353515064049736",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @averageJohn911: https://t.co/wXZlkTwlHJ",
+     "url": "https://x.com/i/status/2118388708978426278"
+    },
+    {
+     "created_at": "2026-11-05T14:09:40.000Z",
+     "edit_history_tweet_ids": [
+      "2118345004364034057"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 16,
+        "id": "1520385351281348608",
+        "start": 0,
+        "username": "CHELLESHOCKEDTM"
+       }
+      ]
+     },
+     "id": "2118345004364034057",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 32,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "@CHELLESHOCKEDTM check your DM",
+     "url": "https://x.com/i/status/2118345004364034057"
+    },
+    {
+     "created_at": "2026-11-05T14:06:48.000Z",
+     "edit_history_tweet_ids": [
+      "2118344280410570977"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 19,
+        "id": "1520385351281348608",
+        "start": 3,
+        "username": "CHELLESHOCKEDTM"
+       }
+      ]
+     },
+     "id": "2118344280410570977",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118341627039158420",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @CHELLESHOCKEDTM: This is being mailed out to Texas students in schools.\n\nTexas parents, protect your children.\n\nDon’t let them brainwas…",
+     "url": "https://x.com/i/status/2118344280410570977"
+    },
+    {
+     "created_at": "2026-11-05T13:12:51.000Z",
+     "edit_history_tweet_ids": [
+      "2118330705981636965"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 11,
+        "id": "7702542",
+        "start": 3,
+        "username": "DLoesch"
+       }
+      ]
+     },
+     "id": "2118330705981636965",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118161138470772911",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @DLoesch: Homeschool your kids.",
+     "url": "https://x.com/i/status/2118330705981636965"
+    },
+    {
+     "created_at": "2026-11-05T13:11:30.000Z",
+     "edit_history_tweet_ids": [
+      "2118330366599860697"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 15,
+        "id": "1621581965580173313",
+        "start": 3,
+        "username": "PunchbowlTm"
+       }
+      ],
+      "urls": [
+       {
+        "description": "ThePunchbowlTM's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1ybAr…",
+        "end": 40,
+        "expanded_url": "https://x.com/i/spaces/1ybAredjBjjBXq",
+        "images": [
+         {
+          "height": 630,
+          "url": "https://pbs.twimg.com/news_img/2118327806379859968/UWPnxqsu?format=jpg&name=orig",
+          "width": 1200
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2118327806379859968/UWPnxqsu?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 17,
+        "status": 200,
+        "title": "Happening now: ThePunchbowlTM's Space / X",
+        "unwound_url": "https://x.com/i/spaces/1ybAredjBjjBXq",
+        "url": "https://t.co/lZCnZX7ScP"
+       }
+      ]
+     },
+     "id": "2118330366599860697",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118327804379210130",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @PunchbowlTm: https://t.co/lZCnZX7ScP",
+     "url": "https://x.com/i/status/2118330366599860697"
+    },
+    {
+     "created_at": "2026-11-05T06:13:09.000Z",
+     "edit_history_tweet_ids": [
+      "2118225084842385549"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 16,
+        "id": "1719116485992300544",
+        "start": 0,
+        "username": "RealKeatonHobby"
+       }
+      ]
+     },
+     "id": "2118225084842385549",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 15,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118224961726812414",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@RealKeatonHobby Ok",
+     "url": "https://x.com/i/status/2118225084842385549"
+    },
+    {
+     "created_at": "2026-11-05T06:07:54.000Z",
+     "edit_history_tweet_ids": [
+      "2118223762734604661"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 16,
+        "id": "1719116485992300544",
+        "start": 0,
+        "username": "RealKeatonHobby"
+       }
+      ]
+     },
+     "id": "2118223762734604661",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 23,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118196573930754058",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@RealKeatonHobby Do they have unlimited data?",
+     "url": "https://x.com/i/status/2118223762734604661"
+    },
+    {
+     "created_at": "2026-11-05T03:28:58.000Z",
+     "edit_history_tweet_ids": [
+      "2118183764975145336"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 15,
+        "id": "1743030930158071808",
+        "start": 0,
+        "username": "realtalkstruth"
+       }
+      ]
+     },
+     "id": "2118183764975145336",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 31,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118156758275260573",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@realtalkstruth It me ZhpXnewshq this is my new account the other one got suspended",
+     "url": "https://x.com/i/status/2118183764975145336"
+    },
+    {
+     "created_at": "2026-11-05T03:25:59.000Z",
+     "edit_history_tweet_ids": [
+      "2118183014974787949"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 15,
+        "id": "1743030930158071808",
+        "start": 0,
+        "username": "realtalkstruth"
+       }
+      ]
+     },
+     "id": "2118183014974787949",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 29,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118156758275260573",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@realtalkstruth What up",
+     "url": "https://x.com/i/status/2118183014974787949"
+    },
+    {
+     "created_at": "2026-11-05T01:36:24.000Z",
+     "edit_history_tweet_ids": [
+      "2118155436667048047"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 12,
+        "id": "1587930057804234754",
+        "start": 3,
+        "username": "Drax2431"
+       }
+      ],
+      "urls": [
+       {
+        "description": "The Daly Fix",
+        "display_url": "x.com/i/broadcasts/2…",
+        "end": 50,
+        "expanded_url": "https://x.com/i/broadcasts/2jPQrYAMdaLZKn",
+        "images": [
+         {
+          "height": 1080,
+          "url": "https://pbs.twimg.com/news_img/2118145641331212288/85DzdjOd?format=jpg&name=orig",
+          "width": 1920
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2118145641331212288/85DzdjOd?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 27,
+        "status": 200,
+        "title": "ᗪRAX",
+        "unwound_url": "https://x.com/i/broadcasts/2jPQrYAMdaLZKn",
+        "url": "https://t.co/BCelKn1WhS"
+       }
+      ]
+     },
+     "id": "2118155436667048047",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118145598633263385",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @Drax2431: The Daly Fix https://t.co/BCelKn1WhS",
+     "url": "https://x.com/i/status/2118155436667048047"
+    },
+    {
+     "created_at": "2026-11-05T01:22:57.000Z",
+     "edit_history_tweet_ids": [
+      "2118152051649868134"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 15,
+        "id": "1050477553",
+        "start": 0,
+        "username": "Marquis8675309"
+       }
+      ]
+     },
+     "id": "2118152051649868134",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118150846244425784",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@Marquis8675309 Thank u",
+     "url": "https://x.com/i/status/2118152051649868134"
+    },
+    {
+     "created_at": "2026-11-05T00:26:10.000Z",
+     "edit_history_tweet_ids": [
+      "2118137763333554339"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 14,
+        "id": "1432026116420775940",
+        "start": 0,
+        "username": "patriot_savvy"
+       }
+      ]
+     },
+     "id": "2118137763333554339",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118129308963324026",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@patriot_savvy It’s definitely go time I’m with u",
+     "url": "https://x.com/i/status/2118137763333554339"
+    },
+    {
+     "created_at": "2026-11-05T00:21:59.000Z",
+     "edit_history_tweet_ids": [
+      "2118136710307500167"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 15,
+        "id": "1050477553",
+        "start": 0,
+        "username": "Marquis8675309"
+       }
+      ]
+     },
+     "id": "2118136710307500167",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 58,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+     },
+     "text": "@Marquis8675309 u can give me a refollow",
+     "url": "https://x.com/i/status/2118136710307500167"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2118135578747092992"
+      ]
+     },
+     "created_at": "2026-11-05T00:17:32.000Z",
+     "edit_history_tweet_ids": [
+      "2118135589291929998"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 7,
+        "id": "1748062675848888321",
+        "start": 0,
+        "username": "XMoney"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "pic.x.com/jVlP0LScLg",
+        "end": 31,
+        "expanded_url": "https://x.com/zxnbluehandus/status/2118135589291929998/photo/1",
+        "media_key": "3_2118135578747092992",
+        "start": 8,
+        "url": "https://t.co/jVlP0LScLg"
+       }
+      ]
+     },
+     "id": "2118135589291929998",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 106,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118123808032706704",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@XMoney https://t.co/jVlP0LScLg",
+     "url": "https://x.com/i/status/2118135589291929998"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "height": 4096,
+      "media_key": "3_2118135578747092992",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWUhFiVWQAAl_aA.jpg",
+      "width": 2304
+     }
+    ],
+    "tweets": [
+     {
+      "created_at": "2026-11-05T22:00:40.000Z",
+      "edit_history_tweet_ids": [
+       "2118463534837240227"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "description": "Jay Gatling's Space · Where live audio conversations happen",
+         "display_url": "x.com/i/spaces/1kEvp…",
+         "end": 23,
+         "expanded_url": "https://x.com/i/spaces/1kEvpjRZEgYWWX",
+         "images": [
+          {
+           "height": 630,
+           "url": "https://pbs.twimg.com/news_img/2118148862116524032/tN7lLS8q?format=jpg&name=orig",
+           "width": 1200
+          },
+          {
+           "height": 150,
+           "url": "https://pbs.twimg.com/news_img/2118148862116524032/tN7lLS8q?format=jpg&name=150x150",
+           "width": 150
+          }
+         ],
+         "start": 0,
+         "status": 200,
+         "title": "Scheduled: MAIN ST MEETS WALL ST: Latest News | Latest Market & Economic Data 📈📉 / X",
+         "unwound_url": "https://x.com/i/spaces/1kEvpjRZEgYWWX",
+         "url": "https://t.co/iTnYEqngZX"
+        }
+       ]
+      },
+      "id": "2118463534837240227",
+      "public_metrics": {
+       "bookmark_count": 7,
+       "impression_count": 1309,
+       "like_count": 41,
+       "quote_count": 24,
+       "reply_count": 29,
+       "retweet_count": 46
+      },
+      "text": "https://t.co/iTnYEqngZX"
+     },
+     {
+      "created_at": "2026-11-05T19:31:09.000Z",
+      "edit_history_tweet_ids": [
+       "2118425909736899030"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "description": "🇺🇸Chelle🇺🇸's Space · Where live audio conversations happen",
+         "display_url": "x.com/i/spaces/1qVjA…",
+         "end": 23,
+         "expanded_url": "https://x.com/i/spaces/1qVjApMdOXLENX",
+         "images": [
+          {
+           "height": 630,
+           "url": "https://pbs.twimg.com/news_img/2118358195307499520/runWD-bj?format=jpg&name=orig",
+           "width": 1200
+          },
+          {
+           "height": 150,
+           "url": "https://pbs.twimg.com/news_img/2118358195307499520/runWD-bj?format=jpg&name=150x150",
+           "width": 150
+          }
+         ],
+         "start": 0,
+         "status": 200,
+         "title": "Scheduled: He Showed Up Anyway: A 9/11 Son Takes On Mayor Mamdani/Rob Maness Show / X",
+         "unwound_url": "https://x.com/i/spaces/1qVjApMdOXLENX",
+         "url": "https://t.co/3mB5XfAWOV"
+        }
+       ]
+      },
+      "id": "2118425909736899030",
+      "public_metrics": {
+       "bookmark_count": 11,
+       "impression_count": 2413,
+       "like_count": 82,
+       "quote_count": 26,
+       "reply_count": 58,
+       "retweet_count": 74
+      },
+      "text": "https://t.co/3mB5XfAWOV"
+     },
+     {
+      "created_at": "2026-11-05T19:58:31.000Z",
+      "edit_history_tweet_ids": [
+       "2118432794032341142"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "description": "The Rob Maness Show Live",
+         "display_url": "x.com/i/broadcasts/2…",
+         "end": 48,
+         "expanded_url": "https://x.com/i/broadcasts/2evWWjrLblYbBN",
+         "images": [
+          {
+           "height": 1080,
+           "url": "https://pbs.twimg.com/news_img/2118432836688441344/dzjbzfw6?format=jpg&name=orig",
+           "width": 1920
+          },
+          {
+           "height": 150,
+           "url": "https://pbs.twimg.com/news_img/2118432836688441344/dzjbzfw6?format=jpg&name=150x150",
+           "width": 150
+          }
+         ],
+         "start": 25,
+         "status": 200,
+         "title": "Rob Maness",
+         "unwound_url": "https://x.com/i/broadcasts/2evWWjrLblYbBN",
+         "url": "https://t.co/Povwh3Bsyz"
+        }
+       ]
+      },
+      "id": "2118432794032341142",
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 883,
+       "like_count": 24,
+       "quote_count": 5,
+       "reply_count": 1,
+       "retweet_count": 23
+      },
+      "text": "The Rob Maness Show Live https://t.co/Povwh3Bsyz"
+     },
+     {
+      "created_at": "2026-11-05T17:38:37.000Z",
+      "edit_history_tweet_ids": [
+       "2118397589443760361"
+      ],
+      "entities": {
+       "hashtags": [
+        {
+         "end": 274,
+         "start": 256,
+         "tag": "patriotoneNetwork"
+        }
+       ]
+      },
+      "id": "2118397589443760361",
+      "note_tweet": {
+       "entities": {
+        "hashtags": [
+         {
+          "end": 274,
+          "start": 256,
+          "tag": "patriotoneNetwork"
+         },
+         {
+          "end": 284,
+          "start": 275,
+          "tag": "BlueHand"
+         },
+         {
+          "end": 289,
+          "start": 285,
+          "tag": "ZXN"
+         }
+        ]
+       },
+       "text": "Here’s my mission statement patriot one network we do it together as one team we never back down never surrender our freedom all right our constitutional rights and all else we are Americans as the end of the day I love you and that’s my mission statement #patriotoneNetwork #BlueHand #ZXN"
+      },
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 192,
+       "like_count": 6,
+       "quote_count": 0,
+       "reply_count": 2,
+       "retweet_count": 3
+      },
+      "text": "Here’s my mission statement patriot one network we do it together as one team we never back down never surrender our freedom all right our constitutional rights and all else we are Americans as the end of the day I love you and that’s my mission statement #patriotoneNetwork"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "3_2118372824523972608"
+       ]
+      },
+      "created_at": "2026-11-05T16:00:15.000Z",
+      "edit_history_tweet_ids": [
+       "2118372831935312154"
+      ],
+      "entities": {
+       "hashtags": [
+        {
+         "end": 17,
+         "start": 13,
+         "tag": "FBI"
+        }
+       ],
+       "urls": [
+        {
+         "description": "A convicted child sex offender was sentenced to 180 months in prison for possessing child sexual abuse material (CSAM).",
+         "display_url": "justice.gov/usao-ks/pr/chi…",
+         "end": 161,
+         "expanded_url": "https://justice.gov/usao-ks/pr/child-sex-offender-sentenced-prison-child-pornography-possession",
+         "images": [
+          {
+           "height": 383,
+           "url": "https://pbs.twimg.com/news_img/2118110761050349570/4vkT1SaE?format=png&name=orig",
+           "width": 680
+          },
+          {
+           "height": 150,
+           "url": "https://pbs.twimg.com/news_img/2118110761050349570/4vkT1SaE?format=png&name=150x150",
+           "width": 150
+          }
+         ],
+         "start": 138,
+         "status": 200,
+         "title": "Child sex offender sentenced to prison for child pornography",
+         "unwound_url": "https://www.justice.gov/usao-ks/pr/child-sex-offender-sentenced-prison-child-pornography-possession",
+         "url": "https://t.co/9KSBl04WXu"
+        },
+        {
+         "display_url": "pic.x.com/5QyEvwTXA7",
+         "end": 185,
+         "expanded_url": "https://x.com/FBIKansasCity/status/2118372831935312154/photo/1",
+         "media_key": "3_2118372824523972608",
+         "start": 162,
+         "url": "https://t.co/5QyEvwTXA7"
+        }
+       ]
+      },
+      "id": "2118372831935312154",
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 3485,
+       "like_count": 43,
+       "quote_count": 2,
+       "reply_count": 3,
+       "retweet_count": 15
+      },
+      "text": "Following an #FBI investigation, James Yohn was sentenced to 180 months in prison for possessing child sexual abuse material.\n\nRead more: https://t.co/9KSBl04WXu https://t.co/5QyEvwTXA7"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "3_2118338043279036416"
+       ]
+      },
+      "created_at": "2026-11-05T13:42:02.000Z",
+      "edit_history_tweet_ids": [
+       "2118338050098962710"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "display_url": "pic.x.com/GwIQxXzdOC",
+         "end": 54,
+         "expanded_url": "https://x.com/TXRealtorDallas/status/2118338050098962710/photo/1",
+         "media_key": "3_2118338043279036416",
+         "start": 31,
+         "url": "https://t.co/GwIQxXzdOC"
+        }
+       ]
+      },
+      "id": "2118338050098962710",
+      "public_metrics": {
+       "bookmark_count": 2,
+       "impression_count": 3617,
+       "like_count": 314,
+       "quote_count": 1,
+       "reply_count": 227,
+       "retweet_count": 23
+      },
+      "text": "Another Year around the Sun 🥳🎂 https://t.co/GwIQxXzdOC"
+     },
+     {
+      "created_at": "2026-11-05T14:43:29.000Z",
+      "edit_history_tweet_ids": [
+       "2118353515064049736"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "description": "marlin's Space · Where live audio conversations happen",
+         "display_url": "x.com/i/spaces/1JQXR…",
+         "end": 23,
+         "expanded_url": "https://x.com/i/spaces/1JQXRzYdepymMR",
+         "images": [
+          {
+           "height": 630,
+           "url": "https://pbs.twimg.com/news_img/2118353516397789184/dEl6-uyg?format=jpg&name=orig",
+           "width": 1200
+          },
+          {
+           "height": 150,
+           "url": "https://pbs.twimg.com/news_img/2118353516397789184/dEl6-uyg?format=jpg&name=150x150",
+           "width": 150
+          }
+         ],
+         "start": 0,
+         "status": 200,
+         "title": "Happening now: Taxpayer paid impeachments? how much will it cost? #WeAreThePeople / X",
+         "unwound_url": "https://x.com/i/spaces/1JQXRzYdepymMR",
+         "url": "https://t.co/wXZlkTwlHJ"
+        }
+       ]
+      },
+      "id": "2118353515064049736",
+      "public_metrics": {
+       "bookmark_count": 13,
+       "impression_count": 1730,
+       "like_count": 60,
+       "quote_count": 16,
+       "reply_count": 88,
+       "retweet_count": 55
+      },
+      "text": "https://t.co/wXZlkTwlHJ"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "3_2118341621943042048",
+        "3_2118341621951459329",
+        "3_2118341621917827072",
+        "3_2118341621959819264"
+       ]
+      },
+      "created_at": "2026-11-05T13:56:15.000Z",
+      "edit_history_tweet_ids": [
+       "2118341627039158420"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "display_url": "pic.x.com/ib9NOiW6Si",
+         "end": 298,
+         "expanded_url": "https://x.com/CHELLESHOCKEDTM/status/2118341627039158420/photo/1",
+         "media_key": "3_2118341621943042048",
+         "start": 275,
+         "url": "https://t.co/ib9NOiW6Si"
+        },
+        {
+         "display_url": "pic.x.com/ib9NOiW6Si",
+         "end": 298,
+         "expanded_url": "https://x.com/CHELLESHOCKEDTM/status/2118341627039158420/photo/1",
+         "media_key": "3_2118341621951459329",
+         "start": 275,
+         "url": "https://t.co/ib9NOiW6Si"
+        },
+        {
+         "display_url": "pic.x.com/ib9NOiW6Si",
+         "end": 298,
+         "expanded_url": "https://x.com/CHELLESHOCKEDTM/status/2118341627039158420/photo/1",
+         "media_key": "3_2118341621917827072",
+         "start": 275,
+         "url": "https://t.co/ib9NOiW6Si"
+        },
+        {
+         "display_url": "pic.x.com/ib9NOiW6Si",
+         "end": 298,
+         "expanded_url": "https://x.com/CHELLESHOCKEDTM/status/2118341627039158420/photo/1",
+         "media_key": "3_2118341621959819264",
+         "start": 275,
+         "url": "https://t.co/ib9NOiW6Si"
+        }
+       ]
+      },
+      "id": "2118341627039158420",
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 830,
+       "like_count": 29,
+       "quote_count": 2,
+       "reply_count": 9,
+       "retweet_count": 21
+      },
+      "text": "This is being mailed out to Texas students in schools.\n\nTexas parents, protect your children.\n\nDon’t let them brainwash your kids into thinking they are not who and what God created them to be.\n\nThis is an attack on your children that is pure evil.\n\nPray for our country. 🙏🏽 https://t.co/ib9NOiW6Si"
+     },
+     {
+      "created_at": "2026-11-05T01:59:03.000Z",
+      "edit_history_tweet_ids": [
+       "2118161138470772911"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "display_url": "x.com/newswire_us/st…",
+         "end": 45,
+         "expanded_url": "https://twitter.com/newswire_us/status/2118129666913661339",
+         "start": 22,
+         "url": "https://t.co/RjAXBFONN1"
+        }
+       ]
+      },
+      "id": "2118161138470772911",
+      "public_metrics": {
+       "bookmark_count": 18,
+       "impression_count": 35813,
+       "like_count": 2610,
+       "quote_count": 4,
+       "reply_count": 59,
+       "retweet_count": 265
+      },
+      "referenced_tweets": [
+       {
+        "id": "2118129666913661339",
+        "type": "quoted"
+       }
+      ],
+      "text": "Homeschool your kids. https://t.co/RjAXBFONN1"
+     },
+     {
+      "created_at": "2026-11-05T13:01:19.000Z",
+      "edit_history_tweet_ids": [
+       "2118327804379210130"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "description": "ThePunchbowlTM's Space · Where live audio conversations happen",
+         "display_url": "x.com/i/spaces/1ybAr…",
+         "end": 23,
+         "expanded_url": "https://x.com/i/spaces/1ybAredjBjjBXq",
+         "images": [
+          {
+           "height": 630,
+           "url": "https://pbs.twimg.com/news_img/2118327806379859968/UWPnxqsu?format=jpg&name=orig",
+           "width": 1200
+          },
+          {
+           "height": 150,
+           "url": "https://pbs.twimg.com/news_img/2118327806379859968/UWPnxqsu?format=jpg&name=150x150",
+           "width": 150
+          }
+         ],
+         "start": 0,
+         "status": 200,
+         "title": "Happening now: ThePunchbowlTM's Space / X",
+         "unwound_url": "https://x.com/i/spaces/1ybAredjBjjBXq",
+         "url": "https://t.co/lZCnZX7ScP"
+        }
+       ]
+      },
+      "id": "2118327804379210130",
+      "public_metrics": {
+       "bookmark_count": 19,
+       "impression_count": 6702,
+       "like_count": 109,
+       "quote_count": 28,
+       "reply_count": 591,
+       "retweet_count": 106
+      },
+      "text": "https://t.co/lZCnZX7ScP"
+     },
+     {
+      "created_at": "2026-11-05T06:12:40.000Z",
+      "edit_history_tweet_ids": [
+       "2118224961726812414"
+      ],
+      "entities": {
+       "mentions": [
+        {
+         "end": 14,
+         "id": "2011476148178599939",
+         "start": 0,
+         "username": "zxnbluehandus"
+        }
+       ]
+      },
+      "id": "2118224961726812414",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 30,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 0
+      },
+      "referenced_tweets": [
+       {
+        "id": "2118223762734604661",
+        "type": "replied_to"
+       }
+      ],
+      "text": "@zxnbluehandus Every plan comes with unlimited talk and text, and you can choose AT&amp;T, T-Mobile, or Verizon depending on what works best in your area. The big difference is a portion of your bill goes toward supporting Faith, Family, and Freedom causes."
+     },
+     {
+      "created_at": "2026-11-05T04:19:52.000Z",
+      "edit_history_tweet_ids": [
+       "2118196235697889733",
+       "2118196573930754058"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "description": "Call (972) PATRIOT – or – Switch Online Today Use Promo code: KEATON and get a FREE month of service! Use Promo code: KEATON and get a FREE month of service! Call (972) PATRIOT – or – Switch Online Today Call (972) PATRIOT to take advantage of A FREE Month of service when You switch […]",
+         "display_url": "patriotmobile.com/keaton",
+         "end": 23,
+         "expanded_url": "https://www.patriotmobile.com/keaton",
+         "images": [
+          {
+           "height": 400,
+           "url": "https://pbs.twimg.com/news_img/2118076433654292480/em-On1I7?format=png&name=orig",
+           "width": 600
+          },
+          {
+           "height": 150,
+           "url": "https://pbs.twimg.com/news_img/2118076433654292480/em-On1I7?format=png&name=150x150",
+           "width": 150
+          }
+         ],
+         "start": 0,
+         "status": 200,
+         "title": "KEATON",
+         "unwound_url": "https://patriotmobile.com/partners/keaton",
+         "url": "https://t.co/ebFVG4qxqW"
+        }
+       ]
+      },
+      "id": "2118196573930754058",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 171,
+       "like_count": 2,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 1
+      },
+      "text": "https://t.co/ebFVG4qxqW"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "3_2118156751304376320"
+       ]
+      },
+      "created_at": "2026-11-05T01:41:39.000Z",
+      "edit_history_tweet_ids": [
+       "2118156758275260573"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "display_url": "pic.x.com/guPdf6mKXY",
+         "end": 69,
+         "expanded_url": "https://x.com/realtalkstruth/status/2118156758275260573/photo/1",
+         "media_key": "3_2118156751304376320",
+         "start": 46,
+         "url": "https://t.co/guPdf6mKXY"
+        }
+       ]
+      },
+      "id": "2118156758275260573",
+      "public_metrics": {
+       "bookmark_count": 16,
+       "impression_count": 23084,
+       "like_count": 64,
+       "quote_count": 2,
+       "reply_count": 59,
+       "retweet_count": 15
+      },
+      "text": "I recommend following these accounts on 𝕏.🇺🇸👇 https://t.co/guPdf6mKXY"
+     },
+     {
+      "created_at": "2026-11-05T00:57:18.000Z",
+      "edit_history_tweet_ids": [
+       "2118145598633263385"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "description": "The Daly Fix",
+         "display_url": "x.com/i/broadcasts/2…",
+         "end": 36,
+         "expanded_url": "https://x.com/i/broadcasts/2jPQrYAMdaLZKn",
+         "images": [
+          {
+           "height": 1080,
+           "url": "https://pbs.twimg.com/news_img/2118145641331212288/85DzdjOd?format=jpg&name=orig",
+           "width": 1920
+          },
+          {
+           "height": 150,
+           "url": "https://pbs.twimg.com/news_img/2118145641331212288/85DzdjOd?format=jpg&name=150x150",
+           "width": 150
+          }
+         ],
+         "start": 13,
+         "status": 200,
+         "title": "ᗪRAX",
+         "unwound_url": "https://x.com/i/broadcasts/2jPQrYAMdaLZKn",
+         "url": "https://t.co/BCelKn1WhS"
+        }
+       ]
+      },
+      "id": "2118145598633263385",
+      "public_metrics": {
+       "bookmark_count": 4,
+       "impression_count": 3255,
+       "like_count": 42,
+       "quote_count": 6,
+       "reply_count": 2,
+       "retweet_count": 36
+      },
+      "text": "The Daly Fix https://t.co/BCelKn1WhS"
+     },
+     {
+      "created_at": "2026-11-05T01:18:09.000Z",
+      "edit_history_tweet_ids": [
+       "2118150846244425784"
+      ],
+      "entities": {
+       "mentions": [
+        {
+         "end": 14,
+         "id": "2011476148178599939",
+         "start": 0,
+         "username": "zxnbluehandus"
+        }
+       ]
+      },
+      "id": "2118150846244425784",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 21,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 0
+      },
+      "referenced_tweets": [
+       {
+        "id": "2118136710307500167",
+        "type": "replied_to"
+       }
+      ],
+      "text": "@zxnbluehandus Done!"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "3_2118129304814956544"
+       ]
+      },
+      "created_at": "2026-11-04T23:52:34.000Z",
+      "edit_history_tweet_ids": [
+       "2118129308963324026"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "display_url": "pic.x.com/lxt4XptKep",
+         "end": 60,
+         "expanded_url": "https://x.com/patriot_savvy/status/2118129308963324026/photo/1",
+         "media_key": "3_2118129304814956544",
+         "start": 37,
+         "url": "https://t.co/lxt4XptKep"
+        }
+       ]
+      },
+      "id": "2118129308963324026",
+      "public_metrics": {
+       "bookmark_count": 3,
+       "impression_count": 2316,
+       "like_count": 81,
+       "quote_count": 2,
+       "reply_count": 13,
+       "retweet_count": 10
+      },
+      "text": "No one asked me, but…. IT’S GO TIME! https://t.co/lxt4XptKep"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "3_2112841188189585408"
+       ],
+       "media_source_tweet_id": [
+        "2112841191813452222"
+       ]
+      },
+      "created_at": "2026-11-04T23:30:43.000Z",
+      "edit_history_tweet_ids": [
+       "2118123808032706704"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "display_url": "x.com/i/money/",
+         "end": 170,
+         "expanded_url": "https://x.com/i/money/",
+         "images": [
+          {
+           "height": 634,
+           "url": "https://pbs.twimg.com/news_img/2116610177130442752/1MkGEHia?format=jpg&name=orig",
+           "width": 1202
+          },
+          {
+           "height": 150,
+           "url": "https://pbs.twimg.com/news_img/2116610177130442752/1MkGEHia?format=jpg&name=150x150",
+           "width": 150
+          }
+         ],
+         "start": 147,
+         "status": 200,
+         "title": "X",
+         "unwound_url": "https://x.com/i/money",
+         "url": "https://t.co/E5t8cY88R5"
+        },
+        {
+         "display_url": "pic.x.com/fNtvJAIFmx",
+         "end": 194,
+         "expanded_url": "https://x.com/chazonx/status/2112841191813452222/photo/1",
+         "media_key": "3_2112841188189585408",
+         "start": 171,
+         "url": "https://t.co/fNtvJAIFmx"
+        }
+       ]
+      },
+      "id": "2118123808032706704",
+      "public_metrics": {
+       "bookmark_count": 185,
+       "impression_count": 194932,
+       "like_count": 1575,
+       "quote_count": 49,
+       "reply_count": 478,
+       "retweet_count": 143
+      },
+      "text": "Show off your 𝕏 Card on the timeline\n\nGet yours for free with any paid X Subscription plan, and for a limited time, a lower fee for everyone else: https://t.co/E5t8cY88R5 https://t.co/fNtvJAIFmx"
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2118469354480181410",
+    "next_token": "7140dibdnow9c7btwp0g7ehj1ntsdztz8smc1g17aela0",
+    "oldest_id": "2118135589291929998",
+    "result_count": 25
+   }
+  },
   {
    "meta": {
     "result_count": 0
