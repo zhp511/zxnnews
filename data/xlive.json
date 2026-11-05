@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-05T16:08:31Z",
- "searched_at": "2026-11-05T16:08:30Z",
+ "built_at": "2026-11-05T16:24:34Z",
+ "searched_at": "2026-11-05T16:24:34Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,16 +15,6 @@
    "assumed_live_until": "2026-11-05T19:04:16Z"
   },
   {
-   "post_id": "2118342057609535592",
-   "post_url": "https://x.com/2waytvapp/status/2118342057609535592",
-   "name": "2WAY",
-   "username": "2waytvapp",
-   "verified_type": "blue",
-   "text": "Trump News, Democratic Politics & 2026 Election Updates | TMM S7E129 https://t.co/Ybirjv0coS",
-   "started_at": "2026-11-05T13:57:58.000Z",
-   "assumed_live_until": "2026-11-05T16:57:58Z"
-  },
-  {
    "post_id": "2118372755293045054",
    "post_url": "https://x.com/thehill/status/2118372755293045054",
    "name": "The Hill",
@@ -35,24 +25,14 @@
    "assumed_live_until": "2026-11-05T18:59:56Z"
   },
   {
-   "post_id": "2118373685757202579",
-   "post_url": "https://x.com/FLOTUS/status/2118373685757202579",
-   "name": "First Lady Melania Trump",
-   "username": "FLOTUS",
-   "verified_type": "government",
-   "text": "First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/ZJkYdAeMvS",
-   "started_at": "2026-11-05T16:03:38.000Z",
-   "assumed_live_until": "2026-11-05T19:03:38Z"
-  },
-  {
-   "post_id": "2118342598582534590",
-   "post_url": "https://x.com/realjoshuareid/status/2118342598582534590",
-   "name": "Joshua Reid | Redpills.tv",
-   "username": "realjoshuareid",
+   "post_id": "2118342057609535592",
+   "post_url": "https://x.com/2waytvapp/status/2118342057609535592",
+   "name": "2WAY",
+   "username": "2waytvapp",
    "verified_type": "blue",
-   "text": "🇺🇸 America After the Election: Can We Put People Over Parties and Let Humanity Win? ❤️ https://t.co/n4IXxiK25p",
-   "started_at": "2026-11-05T14:00:07.000Z",
-   "assumed_live_until": "2026-11-05T17:00:07Z"
+   "text": "Trump News, Democratic Politics & 2026 Election Updates | TMM S7E129 https://t.co/Ybirjv0coS",
+   "started_at": "2026-11-05T13:57:58.000Z",
+   "assumed_live_until": "2026-11-05T16:57:58Z"
   },
   {
    "post_id": "2118345852922011754",
@@ -65,16 +45,6 @@
    "assumed_live_until": "2026-11-05T17:13:02Z"
   },
   {
-   "post_id": "2118371115370479795",
-   "post_url": "https://x.com/MELANIAJTRUMP/status/2118371115370479795",
-   "name": "FLOTUS Report",
-   "username": "MELANIAJTRUMP",
-   "verified_type": "blue",
-   "text": "LIVE: First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/nAAgD4c47Y",
-   "started_at": "2026-11-05T15:53:25.000Z",
-   "assumed_live_until": "2026-11-05T18:53:25Z"
-  },
-  {
    "post_id": "2118374131250954353",
    "post_url": "https://x.com/TheCradleMedia/status/2118374131250954353",
    "name": "The Cradle",
@@ -83,6 +53,36 @@
    "text": "White House Falls Apart Following Crushing Midterms Defeat | Ep. 279 https://t.co/rO1Mj8QeCT",
    "started_at": "2026-11-05T16:05:25.000Z",
    "assumed_live_until": "2026-11-05T19:05:25Z"
+  },
+  {
+   "post_id": "2118375547696771322",
+   "post_url": "https://x.com/MELANIAJTRUMP/status/2118375547696771322",
+   "name": "FLOTUS Report",
+   "username": "MELANIAJTRUMP",
+   "verified_type": "blue",
+   "text": "LIVE: First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/Dj2MD3swgT",
+   "started_at": "2026-11-05T16:11:02.000Z",
+   "assumed_live_until": "2026-11-05T19:11:02Z"
+  },
+  {
+   "post_id": "2118359132826677576",
+   "post_url": "https://x.com/ChrisHandOnAir/status/2118359132826677576",
+   "name": "Chris Hand",
+   "username": "ChrisHandOnAir",
+   "verified_type": "blue",
+   "text": "MIDTERM FALLOUT: DESANTIS EYES WHITE HOUSE, DEMS EYE IMPEACHMENT https://t.co/6gLknautYS",
+   "started_at": "2026-11-05T15:05:49.000Z",
+   "assumed_live_until": "2026-11-05T18:05:49Z"
+  },
+  {
+   "post_id": "2118370223673782493",
+   "post_url": "https://x.com/magnonewslive/status/2118370223673782493",
+   "name": "MAGNO NEWS LIVE",
+   "username": "magnonewslive",
+   "verified_type": "blue",
+   "text": "🇺🇸|🇷🇺|🇺🇦 First Lady Melania Trump Leads Russia-Ukraine Peace Summit at the White House [LIVE] https://t.co/NPmjoWWa74",
+   "started_at": "2026-11-05T15:49:53.000Z",
+   "assumed_live_until": "2026-11-05T18:49:53Z"
   }
  ]
 }
