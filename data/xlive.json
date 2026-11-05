@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-05T06:38:28Z",
- "searched_at": "2026-11-05T06:38:28Z",
+ "built_at": "2026-11-05T06:55:07Z",
+ "searched_at": "2026-11-05T06:55:07Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,16 +35,6 @@
    "assumed_live_until": "2026-11-05T07:59:55Z"
   },
   {
-   "post_id": "2118200897595441344",
-   "post_url": "https://x.com/nick_matau/status/2118200897595441344",
-   "name": "Nick Matau",
-   "username": "nick_matau",
-   "verified_type": "blue",
-   "text": "UMINGLE DEBATES LIVE: Israel, Politics, Religion & Anything Goes | Come Challenge Me! https://t.co/NH3gOV9IRx",
-   "started_at": "2026-11-05T04:37:02.000Z",
-   "assumed_live_until": "2026-11-05T07:37:02Z"
-  },
-  {
    "post_id": "2118212221977153864",
    "post_url": "https://x.com/alaskalandmine/status/2118212221977153864",
    "name": "The Alaska Landmine",
@@ -53,6 +43,16 @@
    "text": "The Election is Over (kind of) and the Alaska Senate Has Organized https://t.co/9Zjouv1niT",
    "started_at": "2026-11-05T05:22:02.000Z",
    "assumed_live_until": "2026-11-05T08:22:02Z"
+  },
+  {
+   "post_id": "2118200897595441344",
+   "post_url": "https://x.com/nick_matau/status/2118200897595441344",
+   "name": "Nick Matau",
+   "username": "nick_matau",
+   "verified_type": "blue",
+   "text": "UMINGLE DEBATES LIVE: Israel, Politics, Religion & Anything Goes | Come Challenge Me! https://t.co/NH3gOV9IRx",
+   "started_at": "2026-11-05T04:37:02.000Z",
+   "assumed_live_until": "2026-11-05T07:37:02Z"
   },
   {
    "post_id": "2118191837970063634",
