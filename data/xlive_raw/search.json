@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T15:36:16Z",
+ "fetched_at": "2026-11-05T15:51:30Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-05T12:35:00Z",
+  "start_time": "2026-11-05T12:52:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,10 +17,37 @@
    "edit_history_tweet_ids": [
     "2118356916778750084"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE -Mayor's Weekly Press Conference 11-05-2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 72,
+      "expanded_url": "https://x.com/i/broadcasts/2vylpVjQvZzyLK",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118356959405441024/zEtDY-qV?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118356959405441024/zEtDY-qV?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 49,
+      "status": 200,
+      "title": "Mayor Craig Greenberg",
+      "unwound_url": "https://x.com/i/broadcasts/2vylpVjQvZzyLK",
+      "url": "https://t.co/0woKOZT8YP"
+     }
+    ]
+   },
    "id": "2118356916778750084",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 125,
+    "impression_count": 148,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -35,10 +62,37 @@
    "edit_history_tweet_ids": [
     "2118356916749398114"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE -Mayor's Weekly Press Conference 11-05-2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 72,
+      "expanded_url": "https://x.com/i/broadcasts/2ybAVjmlnlKLvj",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118356959384485888/N88yo4jX?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118356959384485888/N88yo4jX?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 49,
+      "status": 200,
+      "title": "Louisville MetroTV",
+      "unwound_url": "https://x.com/i/broadcasts/2ybAVjmlnlKLvj",
+      "url": "https://t.co/2aW9YwKa7t"
+     }
+    ]
+   },
    "id": "2118356916749398114",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 25,
+    "impression_count": 26,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -53,14 +107,41 @@
    "edit_history_tweet_ids": [
     "2118340094977257621"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE | Renée Slegers previews Liverpool | WSL",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 102,
+      "expanded_url": "https://x.com/i/broadcasts/2kEvOBZOloMrBm",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118340137671139328/dvVFHbuD?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118340137671139328/dvVFHbuD?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 79,
+      "status": 200,
+      "title": "Arsenal Women",
+      "unwound_url": "https://x.com/i/broadcasts/2kEvOBZOloMrBm",
+      "url": "https://t.co/eOjN7k3fzA"
+     }
+    ]
+   },
    "id": "2118340094977257621",
    "public_metrics": {
     "bookmark_count": 6,
-    "impression_count": 10778,
-    "like_count": 229,
+    "impression_count": 11160,
+    "like_count": 238,
     "quote_count": 1,
     "reply_count": 0,
-    "retweet_count": 20
+    "retweet_count": 21
    },
    "text": "It's time for Renée Slegers' pre-Liverpool press conference 🎙️ \n\nTune in now 📺 https://t.co/eOjN7k3fzA",
    "url": "https://x.com/ArsenalWFC/status/2118340094977257621"
@@ -71,10 +152,37 @@
    "edit_history_tweet_ids": [
     "2118326665549873426"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE Press Conference | Joshua Buatsi vs Willy Hutchinson 2 | A Point to Prove 💥",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 104,
+      "expanded_url": "https://x.com/i/broadcasts/2pekOQBRBgLlMn",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118326708419887104/cDJhr-_-?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118326708419887104/cDJhr-_-?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 81,
+      "status": 200,
+      "title": "Queensberry Promotions",
+      "unwound_url": "https://x.com/i/broadcasts/2pekOQBRBgLlMn",
+      "url": "https://t.co/PbqELUeTTD"
+     }
+    ]
+   },
    "id": "2118326665549873426",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1167,
+    "impression_count": 1182,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -89,10 +197,37 @@
    "edit_history_tweet_ids": [
     "2118331483349725458"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "WATCH LIVE: NYC Mayor Mamdani holds press conference on the Brooklyn fire",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 97,
+      "expanded_url": "https://x.com/i/broadcasts/2XyErNlEvOorLm",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118331525959733249/vgVi179w?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118331525959733249/vgVi179w?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 74,
+      "status": 200,
+      "title": "Fox News",
+      "unwound_url": "https://x.com/i/broadcasts/2XyErNlEvOorLm",
+      "url": "https://t.co/0a8e9yRqU0"
+     }
+    ]
+   },
    "id": "2118331483349725458",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 49872,
+    "impression_count": 51168,
     "like_count": 30,
     "quote_count": 1,
     "reply_count": 38,
@@ -102,15 +237,120 @@
    "url": "https://x.com/FoxNews/status/2118331483349725458"
   },
   {
+   "author_id": "1900375238548086788",
+   "created_at": "2026-11-05T15:49:53.000Z",
+   "edit_history_tweet_ids": [
+    "2118370223673782493"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🇺🇸|🇷🇺|🇺🇦 First Lady Melania Trump Leads Russia-Ukraine Peace Summit at the White House [LIVE]",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 117,
+      "expanded_url": "https://x.com/i/broadcasts/2zkAzZqeyMANVe",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118370266296315904/oWXCcbQK?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118370266296315904/oWXCcbQK?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 94,
+      "status": 200,
+      "title": "MAGNO NEWS LIVE",
+      "unwound_url": "https://x.com/i/broadcasts/2zkAzZqeyMANVe",
+      "url": "https://t.co/NPmjoWWa74"
+     }
+    ]
+   },
+   "id": "2118370223673782493",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 16,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🇺🇸|🇷🇺|🇺🇦 First Lady Melania Trump Leads Russia-Ukraine Peace Summit at the White House [LIVE] https://t.co/NPmjoWWa74",
+   "url": "https://x.com/magnonewslive/status/2118370223673782493"
+  },
+  {
+   "author_id": "1879651867288018944",
+   "created_at": "2026-11-05T15:51:09.000Z",
+   "edit_history_tweet_ids": [
+    "2118370542956822792"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 122,
+      "expanded_url": "https://x.com/i/broadcasts/2XyEJPNAXYeWNq",
+      "start": 99,
+      "status": 200,
+      "title": "First Lady Melania Trump",
+      "unwound_url": "https://x.com/i/broadcasts/2XyEJPNAXYeWNq",
+      "url": "https://t.co/SBCxanhctf"
+     }
+    ]
+   },
+   "id": "2118370542956822792",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 1
+   },
+   "text": "First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/SBCxanhctf",
+   "url": "https://x.com/FLOTUS/status/2118370542956822792"
+  },
+  {
    "author_id": "1609327575200923654",
    "created_at": "2026-11-05T12:57:16.000Z",
    "edit_history_tweet_ids": [
     "2118326783313396115"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE - The White House Podcast 🏛️ 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 60,
+      "expanded_url": "https://x.com/i/broadcasts/2zkAmXaeQEvVQk",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118326826028216320/kfYzm0dC?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118326826028216320/kfYzm0dC?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 37,
+      "status": 200,
+      "title": "Free People Radio",
+      "unwound_url": "https://x.com/i/broadcasts/2zkAmXaeQEvVQk",
+      "url": "https://t.co/ocPSHmi3bZ"
+     }
+    ]
+   },
    "id": "2118326783313396115",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 2404,
+    "impression_count": 2511,
     "like_count": 7,
     "quote_count": 1,
     "reply_count": 1,
@@ -125,11 +365,38 @@
    "edit_history_tweet_ids": [
     "2118359132826677576"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "MIDTERM FALLOUT: DESANTIS EYES WHITE HOUSE, DEMS EYE IMPEACHMENT",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 88,
+      "expanded_url": "https://x.com/i/broadcasts/2JQXlYPZVjdqqb",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118359176397123584/mrnj_mVW?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118359176397123584/mrnj_mVW?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 65,
+      "status": 200,
+      "title": "Chris Hand",
+      "unwound_url": "https://x.com/i/broadcasts/2JQXlYPZVjdqqb",
+      "url": "https://t.co/6gLknautYS"
+     }
+    ]
+   },
    "id": "2118359132826677576",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 97,
-    "like_count": 0,
+    "impression_count": 116,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 1,
     "retweet_count": 0
@@ -143,10 +410,37 @@
    "edit_history_tweet_ids": [
     "2118359131845247061"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "MIDTERM FALLOUT: DESANTIS EYES WHITE HOUSE, DEMS EYE IMPEACHMENT",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 88,
+      "expanded_url": "https://x.com/i/broadcasts/2QnlmVYZolqRdm",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118359174367072256/9PltQ3Xu?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118359174367072256/9PltQ3Xu?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 65,
+      "status": 200,
+      "title": "SuperTalk 99.7 WTN",
+      "unwound_url": "https://x.com/i/broadcasts/2QnlmVYZolqRdm",
+      "url": "https://t.co/i1BazlOByb"
+     }
+    ]
+   },
    "id": "2118359131845247061",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 77,
+    "impression_count": 93,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -156,33 +450,42 @@
    "url": "https://x.com/997wtn/status/2118359131845247061"
   },
   {
-   "author_id": "1731447196455989248",
-   "created_at": "2026-11-05T13:57:58.000Z",
-   "edit_history_tweet_ids": [
-    "2118342057609535592"
-   ],
-   "id": "2118342057609535592",
-   "public_metrics": {
-    "bookmark_count": 3,
-    "impression_count": 2009,
-    "like_count": 6,
-    "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 0
-   },
-   "text": "Trump News, Democratic Politics &amp; 2026 Election Updates | TMM S7E129 https://t.co/Ybirjv0coS",
-   "url": "https://x.com/2waytvapp/status/2118342057609535592"
-  },
-  {
    "author_id": "1215781540073918465",
    "created_at": "2026-11-05T13:57:57.000Z",
    "edit_history_tweet_ids": [
     "2118342056410050787"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Trump News, Democratic Politics & 2026 Election Updates | TMM S7E129",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 96,
+      "expanded_url": "https://x.com/i/broadcasts/2kEvONYXPmmpqo",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118342099019935744/OB2IIWr7?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118342099019935744/OB2IIWr7?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 73,
+      "status": 200,
+      "title": "Walking Duck",
+      "unwound_url": "https://x.com/i/broadcasts/2kEvONYXPmmpqo",
+      "url": "https://t.co/lHfKE2w1tS"
+     }
+    ]
+   },
    "id": "2118342056410050787",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 11,
+    "impression_count": 12,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -192,15 +495,87 @@
    "url": "https://x.com/Walkingduckprod/status/2118342056410050787"
   },
   {
+   "author_id": "1731447196455989248",
+   "created_at": "2026-11-05T13:57:58.000Z",
+   "edit_history_tweet_ids": [
+    "2118342057609535592"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Trump News, Democratic Politics & 2026 Election Updates | TMM S7E129",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 96,
+      "expanded_url": "https://x.com/i/broadcasts/2bronNeXvEqqPb",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118342100169195521/0oZhtDJO?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118342100169195521/0oZhtDJO?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 73,
+      "status": 200,
+      "title": "2WAY",
+      "unwound_url": "https://x.com/i/broadcasts/2bronNeXvEqqPb",
+      "url": "https://t.co/Ybirjv0coS"
+     }
+    ]
+   },
+   "id": "2118342057609535592",
+   "public_metrics": {
+    "bookmark_count": 3,
+    "impression_count": 2113,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "text": "Trump News, Democratic Politics &amp; 2026 Election Updates | TMM S7E129 https://t.co/Ybirjv0coS",
+   "url": "https://x.com/2waytvapp/status/2118342057609535592"
+  },
+  {
    "author_id": "17963831",
    "created_at": "2026-11-05T15:01:45.000Z",
    "edit_history_tweet_ids": [
     "2118358112549650754"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "INDUSTRY THURSDAYS on D.A.M.N - 11.05.2026 | News • Culture • Politics • Roast • No B.S",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 111,
+      "expanded_url": "https://x.com/i/broadcasts/2zkAzNBzrQNmYA",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118358155088314368/8jI1FhA8?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118358155088314368/8jI1FhA8?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 88,
+      "status": 200,
+      "title": "Dave Anderson",
+      "unwound_url": "https://x.com/i/broadcasts/2zkAzNBzrQNmYA",
+      "url": "https://t.co/ebnXMJUeyD"
+     }
+    ]
+   },
    "id": "2118358112549650754",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 10,
+    "impression_count": 13,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -215,6 +590,33 @@
    "edit_history_tweet_ids": [
     "2118345026673516703"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Breaking News🚨, Internet Drama😡, & Trending Clips😂 - Live🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 86,
+      "expanded_url": "https://x.com/i/broadcasts/2ZBXYRyLZyQPEo",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118345030138056704/Ugfmn-GX?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118345030138056704/Ugfmn-GX?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 63,
+      "status": 200,
+      "title": "GamingWade",
+      "unwound_url": "https://x.com/i/broadcasts/2ZBXYRyLZyQPEo",
+      "url": "https://t.co/glNULBKzMr"
+     }
+    ]
+   },
    "id": "2118345026673516703",
    "public_metrics": {
     "bookmark_count": 0,
@@ -233,10 +635,45 @@
    "edit_history_tweet_ids": [
     "2118345852922011754"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 130,
+      "id": "16569497",
+      "start": 124,
+      "username": "JBSDC"
+     }
+    ],
+    "urls": [
+     {
+      "description": "What a Democratic Congress Means for Crypto Rules",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 178,
+      "expanded_url": "https://x.com/i/broadcasts/2POMKyPbXWXyqa?s=20",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118345051650580480/Yt8haH9_?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118345051650580480/Yt8haH9_?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 155,
+      "status": 200,
+      "title": "Unchained",
+      "unwound_url": "https://x.com/i/broadcasts/2POMKyPbXWXyqa?s=20",
+      "url": "https://t.co/suMBT6de2Y"
+     }
+    ]
+   },
    "id": "2118345852922011754",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1472,
+    "impression_count": 1518,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
@@ -251,6 +688,33 @@
    "edit_history_tweet_ids": [
     "2118357900762489310"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Trump Media Just Moved $340M in Bitcoin 🚨 After Dems Took Congress",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 89,
+      "expanded_url": "https://x.com/i/broadcasts/2XyEJYQMKOeaRe",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2118356388996919296/HVm2qaqp?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118356388996919296/HVm2qaqp?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 66,
+      "status": 200,
+      "title": "Bloodalytics Trading",
+      "unwound_url": "https://x.com/i/broadcasts/2XyEJYQMKOeaRe",
+      "url": "https://t.co/s5D6JteDWo"
+     }
+    ]
+   },
    "id": "2118357900762489310",
    "public_metrics": {
     "bookmark_count": 0,
@@ -269,10 +733,37 @@
    "edit_history_tweet_ids": [
     "2118357900359790977"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Trump Media Just Moved $340M in Bitcoin 🚨 After Dems Took Congress",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 89,
+      "expanded_url": "https://x.com/i/broadcasts/2nQBYzrLBQROeL",
+      "images": [
+       {
+        "height": 675,
+        "url": "https://pbs.twimg.com/news_img/2118356390443954176/4NyzW4UX?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118356390443954176/4NyzW4UX?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 66,
+      "status": 200,
+      "title": "Jerry Ruck🩸",
+      "unwound_url": "https://x.com/i/broadcasts/2nQBYzrLBQROeL",
+      "url": "https://t.co/ElsTKQUZDM"
+     }
+    ]
+   },
    "id": "2118357900359790977",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 72,
+    "impression_count": 80,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -282,33 +773,42 @@
    "url": "https://x.com/cryptoblood_/status/2118357900359790977"
   },
   {
-   "author_id": "1519441963262484480",
-   "created_at": "2026-11-05T13:57:11.000Z",
-   "edit_history_tweet_ids": [
-    "2118341861479719216"
-   ],
-   "id": "2118341861479719216",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1022,
-    "like_count": 10,
-    "quote_count": 0,
-    "reply_count": 3,
-    "retweet_count": 2
-   },
-   "text": "🇺🇸 America After the Election: Can We Put People Over Parties and Let Humanity Win? ❤️ https://t.co/7zyd4Rvsgj",
-   "url": "https://x.com/LaNativePatriot/status/2118341861479719216"
-  },
-  {
    "author_id": "1674079298091900929",
    "created_at": "2026-11-05T14:00:07.000Z",
    "edit_history_tweet_ids": [
     "2118342599807205802"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🇺🇸 America After the Election: Can We Put People Over Parties and Let Humanity Win? ❤️",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 110,
+      "expanded_url": "https://x.com/i/broadcasts/2LPXWBlpEgAdRQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118155763671560192/WSMJHVPP?format=png&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118155763671560192/WSMJHVPP?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 87,
+      "status": 200,
+      "title": "NaturallyInspiredRadio",
+      "unwound_url": "https://x.com/i/broadcasts/2LPXWBlpEgAdRQ",
+      "url": "https://t.co/81puxe09ab"
+     }
+    ]
+   },
    "id": "2118342599807205802",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 19,
+    "impression_count": 21,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -318,15 +818,120 @@
    "url": "https://x.com/NaturallyIRadio/status/2118342599807205802"
   },
   {
+   "author_id": "1519441963262484480",
+   "created_at": "2026-11-05T13:57:11.000Z",
+   "edit_history_tweet_ids": [
+    "2118341861479719216"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🇺🇸 America After the Election: Can We Put People Over Parties and Let Humanity Win? ❤️",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 110,
+      "expanded_url": "https://x.com/i/broadcasts/2bronNgPXReNLL",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118344821035220992/01kUc9Sc?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118344821035220992/01kUc9Sc?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 87,
+      "status": 200,
+      "title": "🪶Native Patriot 🇺🇸",
+      "unwound_url": "https://x.com/i/broadcasts/2bronNgPXReNLL",
+      "url": "https://t.co/7zyd4Rvsgj"
+     }
+    ]
+   },
+   "id": "2118341861479719216",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1058,
+    "like_count": 12,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 2
+   },
+   "text": "🇺🇸 America After the Election: Can We Put People Over Parties and Let Humanity Win? ❤️ https://t.co/7zyd4Rvsgj",
+   "url": "https://x.com/LaNativePatriot/status/2118341861479719216"
+  },
+  {
+   "author_id": "904811819335688192",
+   "created_at": "2026-11-05T14:00:07.000Z",
+   "edit_history_tweet_ids": [
+    "2118342598582534590"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🇺🇸 America After the Election: Can We Put People Over Parties and Let Humanity Win? ❤️",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 110,
+      "expanded_url": "https://x.com/i/broadcasts/2lgyOrKaBJjNvd",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118155763709255680/suezjICW?format=png&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118155763709255680/suezjICW?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 87,
+      "status": 200,
+      "title": "Joshua Reid | Redpills.tv",
+      "unwound_url": "https://x.com/i/broadcasts/2lgyOrKaBJjNvd",
+      "url": "https://t.co/n4IXxiK25p"
+     }
+    ]
+   },
+   "id": "2118342598582534590",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 1536,
+    "like_count": 17,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 2
+   },
+   "text": "🇺🇸 America After the Election: Can We Put People Over Parties and Let Humanity Win? ❤️ https://t.co/n4IXxiK25p",
+   "url": "https://x.com/realjoshuareid/status/2118342598582534590"
+  },
+  {
    "author_id": "1610405213080522754",
    "created_at": "2026-11-05T13:57:11.000Z",
    "edit_history_tweet_ids": [
     "2118341861865672884"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🇺🇸 America After the Election: Can We Put People Over Parties and Let Humanity Win? ❤️",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 110,
+      "expanded_url": "https://x.com/i/broadcasts/2JQXRmrApYpEVX",
+      "start": 87,
+      "status": 200,
+      "title": "The Patriots Prayer Network",
+      "unwound_url": "https://x.com/i/broadcasts/2JQXRmrApYpEVX",
+      "url": "https://t.co/qPsF48gMGU"
+     }
+    ]
+   },
    "id": "2118341861865672884",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 134,
+    "impression_count": 138,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 1,
@@ -341,10 +946,37 @@
    "edit_history_tweet_ids": [
     "2118342603045327072"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🇺🇸 America After the Election: Can We Put People Over Parties and Let Humanity Win? ❤️",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 110,
+      "expanded_url": "https://x.com/i/broadcasts/2MEXkbWqrWeQvr",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118155763205959680/BIRn41u6?format=png&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118155763205959680/BIRn41u6?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 87,
+      "status": 200,
+      "title": "Tammy Cuthbert Garcia",
+      "unwound_url": "https://x.com/i/broadcasts/2MEXkbWqrWeQvr",
+      "url": "https://t.co/qNysnTh1Yr"
+     }
+    ]
+   },
    "id": "2118342603045327072",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 39,
+    "impression_count": 40,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -354,34 +986,43 @@
    "url": "https://x.com/TammyCuthbertG/status/2118342603045327072"
   },
   {
-   "author_id": "904811819335688192",
-   "created_at": "2026-11-05T14:00:07.000Z",
-   "edit_history_tweet_ids": [
-    "2118342598582534590"
-   ],
-   "id": "2118342598582534590",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 1463,
-    "like_count": 17,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 2
-   },
-   "text": "🇺🇸 America After the Election: Can We Put People Over Parties and Let Humanity Win? ❤️ https://t.co/n4IXxiK25p",
-   "url": "https://x.com/realjoshuareid/status/2118342598582534590"
-  },
-  {
    "author_id": "4351005192",
    "created_at": "2026-11-05T15:35:40.000Z",
    "edit_history_tweet_ids": [
     "2118366646830047300"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Did Vance Betray Trump? - Drinkin' Bros Fake News 557",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 77,
+      "expanded_url": "https://x.com/i/broadcasts/2JQXlXdWlmobAk",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118366691209940992/fox7qXJ2?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118366691209940992/fox7qXJ2?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 54,
+      "status": 200,
+      "title": "Drinkin'Bros Podcast",
+      "unwound_url": "https://x.com/i/broadcasts/2JQXlXdWlmobAk",
+      "url": "https://t.co/hyHshMTo9s"
+     }
+    ]
+   },
    "id": "2118366646830047300",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 31,
-    "like_count": 1,
+    "impression_count": 223,
+    "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
@@ -395,14 +1036,29 @@
    "edit_history_tweet_ids": [
     "2118355360725581942"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "GRUMBLES FROM THE GREYBEARD! PRESIDENT TRUMP **KNOWS** HOW TO BEAT THE CHEAT! BUT MANY CAN'T SEE IT",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 123,
+      "expanded_url": "https://x.com/i/broadcasts/2mdRApzkvBZPVy",
+      "start": 100,
+      "status": 200,
+      "title": "DuaneCates001",
+      "unwound_url": "https://x.com/i/broadcasts/2mdRApzkvBZPVy",
+      "url": "https://t.co/EQjGI3B1xM"
+     }
+    ]
+   },
    "id": "2118355360725581942",
    "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 853,
+    "bookmark_count": 3,
+    "impression_count": 952,
     "like_count": 21,
     "quote_count": 0,
     "reply_count": 2,
-    "retweet_count": 7
+    "retweet_count": 8
    },
    "text": "GRUMBLES FROM THE GREYBEARD! PRESIDENT TRUMP **KNOWS** HOW TO BEAT THE CHEAT! BUT MANY CAN'T SEE IT https://t.co/EQjGI3B1xM",
    "url": "https://x.com/THEDuaneCates/status/2118355360725581942"
@@ -413,53 +1069,44 @@
    "edit_history_tweet_ids": [
     "2118329687692759227"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Alex Krainer: BREAKING: Trump Privately Questioned If Iran War Cost Republicans the Midterms",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 116,
+      "expanded_url": "https://x.com/i/broadcasts/2POMKqaWmklRBk",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118329730235617280/QnoKYa8Q?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118329730235617280/QnoKYa8Q?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 93,
+      "status": 200,
+      "title": "Dialogue works",
+      "unwound_url": "https://x.com/i/broadcasts/2POMKqaWmklRBk",
+      "url": "https://t.co/BOOM4MRNQi"
+     }
+    ]
+   },
    "id": "2118329687692759227",
    "public_metrics": {
     "bookmark_count": 6,
-    "impression_count": 938,
-    "like_count": 26,
+    "impression_count": 968,
+    "like_count": 29,
     "quote_count": 0,
     "reply_count": 4,
-    "retweet_count": 10
+    "retweet_count": 11
    },
    "text": "Alex Krainer: BREAKING: Trump Privately Questioned If Iran War Cost Republicans the Midterms https://t.co/BOOM4MRNQi",
    "url": "https://x.com/Dialogue_NRA/status/2118329687692759227"
-  },
-  {
-   "author_id": "1842411061586120704",
-   "created_at": "2026-11-05T15:00:43.000Z",
-   "edit_history_tweet_ids": [
-    "2118357851684884853"
-   ],
-   "id": "2118357851684884853",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Christians Should Keep Law — Prove Me Wrong (LIVE DEBATE) https://t.co/2wT7gA4rbA",
-   "url": "https://x.com/NazareneRemnant/status/2118357851684884853"
-  },
-  {
-   "author_id": "26377478",
-   "created_at": "2026-11-05T14:16:57.000Z",
-   "edit_history_tweet_ids": [
-    "2118346835890934169"
-   ],
-   "id": "2118346835890934169",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1706,
-    "like_count": 6,
-    "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 0
-   },
-   "text": "\"CLARITY does look dead. I don't think it passes in the lame duck,\" @JBSDC on the fate of the Clarity Act after the Democratic sweep of Congress \n\nhttps://t.co/n4AtiChe6x",
-   "url": "https://x.com/laurashin/status/2118346835890934169"
   }
  ],
  "users": [
@@ -497,7 +1144,7 @@
    "id": "256551011",
    "name": "Arsenal Women",
    "public_metrics": {
-    "followers_count": 828355,
+    "followers_count": 828351,
     "following_count": 284,
     "like_count": 3891,
     "listed_count": 2396,
@@ -516,8 +1163,8 @@
     "following_count": 130,
     "like_count": 3813,
     "listed_count": 764,
-    "media_count": 30268,
-    "tweet_count": 69455
+    "media_count": 30269,
+    "tweet_count": 69456
    },
    "username": "Queensberry",
    "verified": true,
@@ -527,16 +1174,46 @@
    "id": "1367531",
    "name": "Fox News",
    "public_metrics": {
-    "followers_count": 29448457,
+    "followers_count": 29448498,
     "following_count": 183,
     "like_count": 37,
-    "listed_count": 80642,
+    "listed_count": 80643,
     "media_count": 186779,
     "tweet_count": 709939
    },
    "username": "FoxNews",
    "verified": true,
    "verified_type": "blue"
+  },
+  {
+   "id": "1900375238548086788",
+   "name": "MAGNO NEWS LIVE",
+   "public_metrics": {
+    "followers_count": 2421,
+    "following_count": 277,
+    "like_count": 28,
+    "listed_count": 16,
+    "media_count": 46,
+    "tweet_count": 2199
+   },
+   "username": "magnonewslive",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1879651867288018944",
+   "name": "First Lady Melania Trump",
+   "public_metrics": {
+    "followers_count": 777211,
+    "following_count": 43,
+    "like_count": 9,
+    "listed_count": 1492,
+    "media_count": 175,
+    "tweet_count": 633
+   },
+   "username": "FLOTUS",
+   "verified": true,
+   "verified_type": "government"
   },
   {
    "id": "1609327575200923654",
@@ -584,21 +1261,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "1731447196455989248",
-   "name": "2WAY",
-   "public_metrics": {
-    "followers_count": 60499,
-    "following_count": 790,
-    "like_count": 1542,
-    "listed_count": 309,
-    "media_count": 2491,
-    "tweet_count": 5121
-   },
-   "username": "2waytvapp",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1215781540073918465",
    "name": "Walking Duck",
    "public_metrics": {
@@ -610,6 +1272,21 @@
     "tweet_count": 2023
    },
    "username": "Walkingduckprod",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1731447196455989248",
+   "name": "2WAY",
+   "public_metrics": {
+    "followers_count": 60501,
+    "following_count": 790,
+    "like_count": 1542,
+    "listed_count": 309,
+    "media_count": 2491,
+    "tweet_count": 5121
+   },
+   "username": "2waytvapp",
    "verified": true,
    "verified_type": "blue"
   },
@@ -647,7 +1324,7 @@
    "id": "26377478",
    "name": "Laura Shin",
    "public_metrics": {
-    "followers_count": 307652,
+    "followers_count": 307649,
     "following_count": 5711,
     "like_count": 96657,
     "listed_count": 6834,
@@ -689,21 +1366,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "1519441963262484480",
-   "name": "🪶Native Patriot 🇺🇸",
-   "public_metrics": {
-    "followers_count": 232411,
-    "following_count": 26302,
-    "like_count": 335680,
-    "listed_count": 277,
-    "media_count": 15074,
-    "tweet_count": 80639
-   },
-   "username": "LaNativePatriot",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1674079298091900929",
    "name": "NaturallyInspiredRadio",
    "public_metrics": {
@@ -715,6 +1377,36 @@
     "tweet_count": 1539
    },
    "username": "NaturallyIRadio",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1519441963262484480",
+   "name": "🪶Native Patriot 🇺🇸",
+   "public_metrics": {
+    "followers_count": 232412,
+    "following_count": 26302,
+    "like_count": 335680,
+    "listed_count": 277,
+    "media_count": 15074,
+    "tweet_count": 80639
+   },
+   "username": "LaNativePatriot",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "904811819335688192",
+   "name": "Joshua Reid | Redpills.tv",
+   "public_metrics": {
+    "followers_count": 69979,
+    "following_count": 5902,
+    "like_count": 5193,
+    "listed_count": 304,
+    "media_count": 6461,
+    "tweet_count": 48019
+   },
+   "username": "realjoshuareid",
    "verified": true,
    "verified_type": "blue"
   },
@@ -739,27 +1431,12 @@
    "public_metrics": {
     "followers_count": 2377,
     "following_count": 1442,
-    "like_count": 29716,
+    "like_count": 29721,
     "listed_count": 9,
     "media_count": 731,
-    "tweet_count": 6085
+    "tweet_count": 6086
    },
    "username": "TammyCuthbertG",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "904811819335688192",
-   "name": "Joshua Reid | Redpills.tv",
-   "public_metrics": {
-    "followers_count": 69978,
-    "following_count": 5902,
-    "like_count": 5193,
-    "listed_count": 304,
-    "media_count": 6461,
-    "tweet_count": 48018
-   },
-   "username": "realjoshuareid",
    "verified": true,
    "verified_type": "blue"
   },
@@ -767,7 +1444,7 @@
    "id": "4351005192",
    "name": "Drinkin'Bros Podcast",
    "public_metrics": {
-    "followers_count": 37132,
+    "followers_count": 37133,
     "following_count": 294,
     "like_count": 15324,
     "listed_count": 57,
@@ -782,7 +1459,7 @@
    "id": "1688207297980354561",
    "name": "DuaneCates001",
    "public_metrics": {
-    "followers_count": 22236,
+    "followers_count": 22237,
     "following_count": 1471,
     "like_count": 210221,
     "listed_count": 81,
@@ -797,7 +1474,7 @@
    "id": "1326462342679441409",
    "name": "Dialogue works",
    "public_metrics": {
-    "followers_count": 19571,
+    "followers_count": 19573,
     "following_count": 82,
     "like_count": 1038,
     "listed_count": 174,
@@ -805,21 +1482,6 @@
     "tweet_count": 6572
    },
    "username": "Dialogue_NRA",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1842411061586120704",
-   "name": "Nazarene Remnants",
-   "public_metrics": {
-    "followers_count": 42,
-    "following_count": 59,
-    "like_count": 153,
-    "listed_count": 0,
-    "media_count": 57,
-    "tweet_count": 399
-   },
-   "username": "NazareneRemnant",
    "verified": true,
    "verified_type": "blue"
   }
