@@ -1,9 +1,19 @@
 {
- "built_at": "2026-11-05T20:36:49Z",
- "searched_at": "2026-11-05T20:36:40Z",
+ "built_at": "2026-11-05T20:54:53Z",
+ "searched_at": "2026-11-05T20:54:53Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2118445573640741082",
+   "post_url": "https://x.com/WhiteHouse/status/2118445573640741082",
+   "name": "The White House",
+   "username": "WhiteHouse",
+   "verified_type": "government",
+   "text": "President Trump Participates in Signing Time, Nov. 5, 2026 https://t.co/MHZaSHiHfb",
+   "started_at": "2026-11-05T20:49:18.000Z",
+   "assumed_live_until": "2026-11-05T23:49:18Z"
+  },
   {
    "post_id": "2118402714971349148",
    "post_url": "https://x.com/channelstv/status/2118402714971349148",
@@ -15,14 +25,14 @@
    "assumed_live_until": "2026-11-05T20:58:59Z"
   },
   {
-   "post_id": "2118406889159430173",
-   "post_url": "https://x.com/JOBhakdi/status/2118406889159430173",
-   "name": "Jo Bhakdi",
-   "username": "JOBhakdi",
-   "verified_type": "blue",
-   "text": "Why EXCESSIVE Fear of Politics DESTROYS AI Stocks Today: MU, TSLA, SPCX, NBIS, NVDA and More https://t.co/SNTlWyhbNn",
-   "started_at": "2026-11-05T18:15:35.000Z",
-   "assumed_live_until": "2026-11-05T21:15:35Z"
+   "post_id": "2118433051566882867",
+   "post_url": "https://x.com/fox7austin/status/2118433051566882867",
+   "name": "FOX 7 Austin",
+   "username": "fox7austin",
+   "verified_type": "business",
+   "text": "Texas Governor-elect Gina Hinojosa is holding her first news conference since the election, where she plans to outline her plans for the state. https://t.co/Jlw3DMV1Vq",
+   "started_at": "2026-11-05T19:59:32.000Z",
+   "assumed_live_until": "2026-11-05T22:59:32Z"
   },
   {
    "post_id": "2118417815585661201",
@@ -33,16 +43,6 @@
    "text": "Trump lost the midterms. What does it mean for Canada?\n\n@Martyupnorth breaks down the U.S. election fallout, Carney’s second budget, six upcoming by-elections, Alberta politics, Calgary water restrictions and more.\n\nWATCH LIVE:\nhttps://t.co/r3Y8aDbJBq",
    "started_at": "2026-11-05T18:59:00.000Z",
    "assumed_live_until": "2026-11-05T21:59:00Z"
-  },
-  {
-   "post_id": "2118433051566882867",
-   "post_url": "https://x.com/fox7austin/status/2118433051566882867",
-   "name": "FOX 7 Austin",
-   "username": "fox7austin",
-   "verified_type": "business",
-   "text": "Texas Governor-elect Gina Hinojosa is holding her first news conference since the election, where she plans to outline her plans for the state. https://t.co/Jlw3DMV1Vq",
-   "started_at": "2026-11-05T19:59:32.000Z",
-   "assumed_live_until": "2026-11-05T22:59:32Z"
   },
   {
    "post_id": "2118434362844979441",
@@ -75,14 +75,14 @@
    "assumed_live_until": "2026-11-05T20:58:08Z"
   },
   {
-   "post_id": "2118434172406542724",
-   "post_url": "https://x.com/nickvalencianew/status/2118434172406542724",
-   "name": "Nick Valencia",
-   "username": "nickvalencianew",
+   "post_id": "2118434870305173643",
+   "post_url": "https://x.com/SocialSportsMs/status/2118434870305173643",
+   "name": "Mississippi Sports",
+   "username": "SocialSportsMs",
    "verified_type": "blue",
-   "text": "America Voted: Did President Trump And ICE Lose, Or Did Democrats Win? What Happens Now https://t.co/Iktp16I78l",
-   "started_at": "2026-11-05T20:03:59.000Z",
-   "assumed_live_until": "2026-11-05T23:03:59Z"
+   "text": "Mississippi Republican Party Election Press Conference 11-5-2026 https://t.co/jhF3oxFO2j",
+   "started_at": "2026-11-05T20:06:46.000Z",
+   "assumed_live_until": "2026-11-05T23:06:46Z"
   }
  ]
 }
