@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T09:31:00Z",
+ "fetched_at": "2026-11-05T09:47:00Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-05T06:31:00Z",
+  "start_time": "2026-11-05T06:47:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -20,7 +20,7 @@
    "id": "2118249524065906919",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 316,
+    "impression_count": 332,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
@@ -38,32 +38,14 @@
    "id": "2118267452224401524",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 886,
-    "like_count": 4,
+    "impression_count": 953,
+    "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 4
+    "retweet_count": 5
    },
    "text": "LIVE: Shri @pradip103 Ji addresses press conference at BJP Headquarters, New Delhi https://t.co/IhsPHW7uur",
    "url": "https://x.com/BJP4MP/status/2118267452224401524"
-  },
-  {
-   "author_id": "150623438",
-   "created_at": "2026-11-05T08:07:20.000Z",
-   "edit_history_tweet_ids": [
-    "2118253817938477377"
-   ],
-   "id": "2118253817938477377",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 39,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "LIVE: Shri Pradeep Bhandari addresses press conference at BJP Headquarter, New Delhi https://t.co/v8QP7uClXq",
-   "url": "https://x.com/prabhasakshi/status/2118253817938477377"
   },
   {
    "author_id": "207809313",
@@ -74,14 +56,32 @@
    "id": "2118253719141654985",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 12724,
-    "like_count": 56,
+    "impression_count": 13077,
+    "like_count": 60,
     "quote_count": 1,
     "reply_count": 5,
-    "retweet_count": 26
+    "retweet_count": 28
    },
    "text": "BJP National Spokesperson &amp; Media Co-convener Shri @pradip103 addresses press conference at BJP headquarters, New Delhi. https://t.co/JeapnWB6QD",
    "url": "https://x.com/BJP4India/status/2118253719141654985"
+  },
+  {
+   "author_id": "150623438",
+   "created_at": "2026-11-05T08:07:20.000Z",
+   "edit_history_tweet_ids": [
+    "2118253817938477377"
+   ],
+   "id": "2118253817938477377",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 41,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE: Shri Pradeep Bhandari addresses press conference at BJP Headquarter, New Delhi https://t.co/v8QP7uClXq",
+   "url": "https://x.com/prabhasakshi/status/2118253817938477377"
   },
   {
    "author_id": "355989081",
@@ -92,7 +92,7 @@
    "id": "2118259189264839037",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 15430,
+    "impression_count": 15692,
     "like_count": 8,
     "quote_count": 0,
     "reply_count": 0,
@@ -110,11 +110,11 @@
    "id": "2118259292117553415",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 12353,
-    "like_count": 58,
+    "impression_count": 12660,
+    "like_count": 61,
     "quote_count": 1,
     "reply_count": 4,
-    "retweet_count": 26
+    "retweet_count": 30
    },
    "text": "Joint Press conference by Shri Rajeev Chandrasekhar and Shri Sadanandan Master at BJP headquarters in New Delhi. https://t.co/c1xQYSXgYH",
    "url": "https://x.com/BJP4India/status/2118259292117553415"
@@ -146,7 +146,7 @@
    "id": "2118253360608411774",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 13361,
+    "impression_count": 13530,
     "like_count": 7,
     "quote_count": 0,
     "reply_count": 0,
@@ -164,7 +164,7 @@
    "id": "2118237079410766136",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1513,
+    "impression_count": 1530,
     "like_count": 2,
     "quote_count": 1,
     "reply_count": 0,
@@ -182,7 +182,7 @@
    "id": "2118234807909974332",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 56,
+    "impression_count": 58,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 1,
@@ -200,7 +200,7 @@
    "id": "2118251359447241124",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 82,
+    "impression_count": 89,
     "like_count": 6,
     "quote_count": 0,
     "reply_count": 0,
@@ -236,7 +236,7 @@
    "id": "2118252045975126437",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 63,
+    "impression_count": 68,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -254,7 +254,7 @@
    "id": "2118246674275451289",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 294,
+    "impression_count": 298,
     "like_count": 4,
     "quote_count": 0,
     "reply_count": 0,
@@ -272,7 +272,7 @@
    "id": "2118243604288430156",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 2416,
+    "impression_count": 2436,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -300,42 +300,6 @@
    "url": "https://x.com/509divinepines/status/2118250807912992915"
   },
   {
-   "author_id": "1942927435378388992",
-   "created_at": "2026-11-05T09:03:43.000Z",
-   "edit_history_tweet_ids": [
-    "2118268009999417597"
-   ],
-   "id": "2118268009999417597",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 48,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "LIVE ON Youtube! | Sara To Leeds? | Sulc or Rudoni Possible? | DCL &amp; Bogle Speak Out! |  #LUFC News https://t.co/MOI4EGOtJP",
-   "url": "https://x.com/TheLeedsLens/status/2118268009999417597"
-  },
-  {
-   "author_id": "2008397951971061762",
-   "created_at": "2026-11-05T06:40:05.000Z",
-   "edit_history_tweet_ids": [
-    "2118231862175019169"
-   ],
-   "id": "2118231862175019169",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 89,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Stock Market Live | Reliance Industries, Apollo Hospitals, Adani Power Share | Stock Market News | Finance Gyani\nhttps://t.co/JPYWSg1nb1",
-   "url": "https://x.com/financegyaninew/status/2118231862175019169"
-  },
-  {
    "author_id": "2008397951971061762",
    "created_at": "2026-11-05T09:01:43.000Z",
    "edit_history_tweet_ids": [
@@ -344,7 +308,7 @@
    "id": "2118267505739493806",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 39,
+    "impression_count": 48,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -352,6 +316,24 @@
    },
    "text": "Stock Market Live | Reliance Industries, Apollo Hospitals, Adani Power Share | Stock Market News | Finance Gyani https://t.co/JPYWSg1nb1",
    "url": "https://x.com/financegyaninew/status/2118267505739493806"
+  },
+  {
+   "author_id": "1942927435378388992",
+   "created_at": "2026-11-05T09:03:43.000Z",
+   "edit_history_tweet_ids": [
+    "2118268009999417597"
+   ],
+   "id": "2118268009999417597",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 57,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE ON Youtube! | Sara To Leeds? | Sulc or Rudoni Possible? | DCL &amp; Bogle Speak Out! |  #LUFC News https://t.co/MOI4EGOtJP",
+   "url": "https://x.com/TheLeedsLens/status/2118268009999417597"
   },
   {
    "author_id": "1587010961634131968",
@@ -380,7 +362,7 @@
    "id": "2118234546969702561",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 21,
+    "impression_count": 22,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -398,7 +380,7 @@
    "id": "2118273708892504427",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 23,
+    "impression_count": 40,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -434,7 +416,7 @@
    "id": "2118235817499914722",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 718,
+    "impression_count": 737,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -442,6 +424,24 @@
    },
    "text": "IEC ELECTION RESULTS 2026  LIVE UPDATES | SOUTH AFRICA LOCAL GOVERNMENT ELECTIONS https://t.co/f3CfvvY6MX",
    "url": "https://x.com/AVMedia_za/status/2118235817499914722"
+  },
+  {
+   "author_id": "93512845",
+   "created_at": "2026-11-05T09:41:49.000Z",
+   "edit_history_tweet_ids": [
+    "2118277598459695421"
+   ],
+   "id": "2118277598459695421",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 25,
+    "like_count": 2,
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "Join Gene and me as we discuss the fallout from the US election, rising interest rates, censorship laws, and your questions.\n\nhttps://t.co/1CcWkeV7ck",
+   "url": "https://x.com/JohnHumphreys99/status/2118277598459695421"
   },
   {
    "author_id": "2773644907",
@@ -452,7 +452,7 @@
    "id": "2118267778582937624",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 251,
+    "impression_count": 281,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -482,7 +482,7 @@
    "id": "1618490684",
    "name": "BJP Madhya Pradesh",
    "public_metrics": {
-    "followers_count": 1329282,
+    "followers_count": 1329283,
     "following_count": 217,
     "like_count": 1132,
     "listed_count": 421,
@@ -490,6 +490,21 @@
     "tweet_count": 98793
    },
    "username": "BJP4MP",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "207809313",
+   "name": "BJP",
+   "public_metrics": {
+    "followers_count": 23032638,
+    "following_count": 4,
+    "like_count": 0,
+    "listed_count": 5776,
+    "media_count": 157409,
+    "tweet_count": 310783
+   },
+   "username": "BJP4India",
    "verified": true,
    "verified_type": "blue"
   },
@@ -509,30 +524,15 @@
    "verified_type": "blue"
   },
   {
-   "id": "207809313",
-   "name": "BJP",
-   "public_metrics": {
-    "followers_count": 23032639,
-    "following_count": 4,
-    "like_count": 0,
-    "listed_count": 5776,
-    "media_count": 157405,
-    "tweet_count": 310779
-   },
-   "username": "BJP4India",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "355989081",
    "name": "ANI",
    "public_metrics": {
-    "followers_count": 9492249,
+    "followers_count": 9492262,
     "following_count": 0,
     "like_count": 72,
     "listed_count": 7883,
-    "media_count": 754650,
-    "tweet_count": 1186973
+    "media_count": 754658,
+    "tweet_count": 1186981
    },
    "username": "ANI",
    "verified": true,
@@ -557,12 +557,12 @@
    "id": "25067168",
    "name": "euronews",
    "public_metrics": {
-    "followers_count": 601604,
+    "followers_count": 601605,
     "following_count": 27,
     "like_count": 6842,
     "listed_count": 9606,
-    "media_count": 77376,
-    "tweet_count": 230984
+    "media_count": 77377,
+    "tweet_count": 230986
    },
    "username": "euronews",
    "verified": true,
@@ -657,11 +657,11 @@
    "id": "19897138",
    "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 6276956,
+    "followers_count": 6276962,
     "following_count": 83,
     "like_count": 4431,
     "listed_count": 7341,
-    "media_count": 583500,
+    "media_count": 583501,
     "tweet_count": 1544866
    },
    "username": "IndiaToday",
@@ -684,21 +684,6 @@
    "verified_type": "blue"
   },
   {
-   "id": "1942927435378388992",
-   "name": "TheLeedsLens",
-   "public_metrics": {
-    "followers_count": 516,
-    "following_count": 17,
-    "like_count": 38,
-    "listed_count": 1,
-    "media_count": 783,
-    "tweet_count": 1555
-   },
-   "username": "TheLeedsLens",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "2008397951971061762",
    "name": "Finance Gyani",
    "public_metrics": {
@@ -710,6 +695,21 @@
     "tweet_count": 2445
    },
    "username": "financegyaninew",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1942927435378388992",
+   "name": "TheLeedsLens",
+   "public_metrics": {
+    "followers_count": 516,
+    "following_count": 17,
+    "like_count": 38,
+    "listed_count": 1,
+    "media_count": 783,
+    "tweet_count": 1555
+   },
+   "username": "TheLeedsLens",
    "verified": true,
    "verified_type": "blue"
   },
@@ -789,10 +789,25 @@
    "verified_type": "blue"
   },
   {
+   "id": "93512845",
+   "name": "John Humphreys",
+   "public_metrics": {
+    "followers_count": 3322,
+    "following_count": 691,
+    "like_count": 16158,
+    "listed_count": 20,
+    "media_count": 171,
+    "tweet_count": 2846
+   },
+   "username": "JohnHumphreys99",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "2773644907",
    "name": "CharlotteEmmaUK \ud83d\udcab",
    "public_metrics": {
-    "followers_count": 112741,
+    "followers_count": 112742,
     "following_count": 22435,
     "like_count": 101378,
     "listed_count": 222,
