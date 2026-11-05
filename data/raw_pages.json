@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T20:01:44Z",
+ "fetched_at": "2026-11-05T20:18:03Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -20,6 +20,16 @@
   "username": "zxnbluehandus"
  },
  "pages": [
+  {
+   "meta": {
+    "result_count": 0
+   }
+  },
+  {
+   "meta": {
+    "result_count": 0
+   }
+  },
   {
    "meta": {
     "result_count": 0

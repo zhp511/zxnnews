@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-05T20:01:44Z",
+ "fetched_at": "2026-11-05T20:18:03Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-05T17:01:00Z",
+  "start_time": "2026-11-05T17:17:00Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -12,43 +12,52 @@
  },
  "data": [
   {
+   "author_id": "906150577880670209",
+   "created_at": "2026-11-05T20:06:46.000Z",
+   "edit_history_tweet_ids": [
+    "2118434870305173643"
+   ],
+   "id": "2118434870305173643",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 74,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Mississippi Republican Party Election Press Conference 11-5-2026 https://t.co/jhF3oxFO2j",
+   "url": "https://x.com/SocialSportsMs/status/2118434870305173643"
+  },
+  {
+   "author_id": "23642374",
+   "created_at": "2026-11-05T20:05:33.000Z",
+   "edit_history_tweet_ids": [
+    "2118434564171513858"
+   ],
+   "id": "2118434564171513858",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4322,
+    "like_count": 39,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 2
+   },
+   "text": "Seahawks Press Conference - November 5, 2026 https://t.co/2as6lniQG4",
+   "url": "https://x.com/Seahawks/status/2118434564171513858"
+  },
+  {
    "author_id": "454122399",
    "created_at": "2026-11-05T18:49:06.000Z",
    "edit_history_tweet_ids": [
     "2118415325217567208"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Matt Painter Press Conference | Purdue Men's Basketball",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 79,
-      "expanded_url": "https://x.com/i/broadcasts/2aWLbXgEnqdBpr",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118415367802437632/YQWtK0Gb?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118415367802437632/YQWtK0Gb?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 56,
-      "status": 200,
-      "title": "Purdue Men's Basketball",
-      "unwound_url": "https://x.com/i/broadcasts/2aWLbXgEnqdBpr",
-      "url": "https://t.co/Ld0vZgYO6n"
-     }
-    ]
-   },
    "id": "2118415325217567208",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 2864,
-    "like_count": 28,
+    "impression_count": 3086,
+    "like_count": 29,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 3
@@ -57,87 +66,15 @@
    "url": "https://x.com/BoilerBall/status/2118415325217567208"
   },
   {
-   "author_id": "1209936918",
-   "created_at": "2026-11-05T19:15:34.000Z",
-   "edit_history_tweet_ids": [
-    "2118421986158252352"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: POLICE IN TAMPA HOLD PRESS CONFERENCE AFTER CITIBANK SHOOTING",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 91,
-      "expanded_url": "https://x.com/i/broadcasts/2nQBBabYPRknKR",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118421987903131648/Gk1jheIv?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118421987903131648/Gk1jheIv?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 68,
-      "status": 200,
-      "title": "One America News",
-      "unwound_url": "https://x.com/i/broadcasts/2nQBBabYPRknKR",
-      "url": "https://t.co/tKZtASckNI"
-     }
-    ]
-   },
-   "id": "2118421986158252352",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 5461,
-    "like_count": 13,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 3
-   },
-   "text": "LIVE: POLICE IN TAMPA HOLD PRESS CONFERENCE AFTER CITIBANK SHOOTING https://t.co/tKZtASckNI",
-   "url": "https://x.com/OANN/status/2118421986158252352"
-  },
-  {
    "author_id": "2067872109674557440",
    "created_at": "2026-11-05T19:01:22.000Z",
    "edit_history_tweet_ids": [
     "2118418414150590692"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Fulham v Newcastle United THE PREVIEW & Press Conference REACTION!",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 94,
-      "expanded_url": "https://x.com/i/broadcasts/2dKLLlMReoMEQp",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118418456685039616/2jMHm1Ny?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118418456685039616/2jMHm1Ny?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 71,
-      "status": 200,
-      "title": "The Toon Review",
-      "unwound_url": "https://x.com/i/broadcasts/2dKLLlMReoMEQp",
-      "url": "https://t.co/x9mpAL4jph"
-     }
-    ]
-   },
    "id": "2118418414150590692",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 87,
+    "impression_count": 126,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -147,49 +84,22 @@
    "url": "https://x.com/thetoonreviewYT/status/2118418414150590692"
   },
   {
-   "author_id": "42548887",
-   "created_at": "2026-11-05T17:15:23.000Z",
+   "author_id": "1209936918",
+   "created_at": "2026-11-05T19:15:34.000Z",
    "edit_history_tweet_ids": [
-    "2118391739249561888"
+    "2118421986158252352"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 122,
-      "expanded_url": "https://x.com/i/broadcasts/2gqvWRoXMjNWgj",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118391781804982272/HaUfgP3B?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118391781804982272/HaUfgP3B?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 99,
-      "status": 200,
-      "title": "Diya TV",
-      "unwound_url": "https://x.com/i/broadcasts/2gqvWRoXMjNWgj",
-      "url": "https://t.co/Bdy94AG1Kf"
-     }
-    ]
-   },
-   "id": "2118391739249561888",
+   "id": "2118421986158252352",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 47,
-    "like_count": 0,
+    "impression_count": 6014,
+    "like_count": 14,
     "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
+    "reply_count": 1,
+    "retweet_count": 4
    },
-   "text": "First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire https://t.co/Bdy94AG1Kf",
-   "url": "https://x.com/DiyaTV/status/2118391739249561888"
+   "text": "LIVE: POLICE IN TAMPA HOLD PRESS CONFERENCE AFTER CITIBANK SHOOTING https://t.co/tKZtASckNI",
+   "url": "https://x.com/OANN/status/2118421986158252352"
   },
   {
    "author_id": "1577262165865558017",
@@ -197,37 +107,10 @@
    "edit_history_tweet_ids": [
     "2118415869122609532"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "First Lady Melania Trump Unites Russia and Ukraine at the White House Following Historic Ceasefire",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 279,
-      "expanded_url": "https://x.com/i/broadcasts/2qVjAByJNpRkVY",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118373771237085184/vMBdZQt4?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118373771237085184/vMBdZQt4?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 256,
-      "status": 200,
-      "title": "First Lady Melania Trump",
-      "unwound_url": "https://x.com/i/broadcasts/2qVjAByJNpRkVY",
-      "url": "https://t.co/HeltMxjG2d"
-     }
-    ]
-   },
    "id": "2118415869122609532",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 44,
+    "impression_count": 49,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -243,25 +126,10 @@
     "2118424064205394166",
     "2118424701915807832"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "CB3 Gaming 11/5/26",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 42,
-      "expanded_url": "https://x.com/i/broadcasts/2VNEEmBpJWrVLR",
-      "start": 19,
-      "status": 200,
-      "title": "CB3",
-      "unwound_url": "https://x.com/i/broadcasts/2VNEEmBpJWrVLR",
-      "url": "https://t.co/5yncmYBoR9"
-     }
-    ]
-   },
    "id": "2118424701915807832",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 64,
+    "impression_count": 66,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -276,45 +144,10 @@
    "edit_history_tweet_ids": [
     "2118417815585661201"
    ],
-   "entities": {
-    "mentions": [
-     {
-      "end": 69,
-      "id": "1453726315492700160",
-      "start": 56,
-      "username": "Martyupnorth"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Trump lost the midterms. How quickly will Canada's economy recover?",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 251,
-      "expanded_url": "https://x.com/i/broadcasts/2EmrWpanPoodbk",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2118417818165100544/YMvwzr-d?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118417818165100544/YMvwzr-d?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 228,
-      "status": 200,
-      "title": "Western Standard",
-      "unwound_url": "https://x.com/i/broadcasts/2EmrWpanPoodbk",
-      "url": "https://t.co/r3Y8aDbJBq"
-     }
-    ]
-   },
    "id": "2118417815585661201",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 267,
+    "impression_count": 285,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 1,
@@ -329,38 +162,11 @@
    "edit_history_tweet_ids": [
     "2118418548439580843"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "BREAKING NEWS: Inside Source Reveals Trump Admin Throwing Christians & Patriots to the Islamic Dogs",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 127,
-      "expanded_url": "https://x.com/i/broadcasts/2KoXXWZRmqmgJq",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118418590948864000/nrI22ifj?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118418590948864000/nrI22ifj?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 104,
-      "status": 200,
-      "title": "WorldviewTube",
-      "unwound_url": "https://x.com/i/broadcasts/2KoXXWZRmqmgJq",
-      "url": "https://t.co/ZHpJeBSm6k"
-     }
-    ]
-   },
    "id": "2118418548439580843",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 242,
-    "like_count": 5,
+    "impression_count": 306,
+    "like_count": 6,
     "quote_count": 0,
     "reply_count": 1,
     "retweet_count": 4
@@ -369,33 +175,36 @@
    "url": "https://x.com/WorldviewTube/status/2118418548439580843"
   },
   {
+   "author_id": "15320603",
+   "created_at": "2026-11-05T20:03:59.000Z",
+   "edit_history_tweet_ids": [
+    "2118434172406542724"
+   ],
+   "id": "2118434172406542724",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 87,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "America Voted: Did President Trump And ICE Lose, Or Did Democrats Win? What Happens Now https://t.co/Iktp16I78l",
+   "url": "https://x.com/nickvalencianew/status/2118434172406542724"
+  },
+  {
    "author_id": "80741093",
    "created_at": "2026-11-05T20:00:44.000Z",
    "edit_history_tweet_ids": [
     "2118433350809534601"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Jonathan Emord, Blue Wave reaction, Iran War Election Impact, Progressive Party Division, Congressional Health Freedom Debate, GLP-1 Prediabetes Treatment - The RSB Show 11-5-26",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 201,
-      "expanded_url": "https://x.com/i/broadcasts/2rJqqYNEoEjkPb",
-      "start": 178,
-      "status": 200,
-      "title": "Robert Scott Bell",
-      "unwound_url": "https://x.com/i/broadcasts/2rJqqYNEoEjkPb",
-      "url": "https://t.co/wRp58OIcIV"
-     }
-    ]
-   },
    "id": "2118433350809534601",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 13,
+    "impression_count": 53,
     "like_count": 1,
     "quote_count": 0,
-    "reply_count": 0,
+    "reply_count": 1,
     "retweet_count": 0
    },
    "text": "Jonathan Emord, Blue Wave reaction, Iran War Election Impact, Progressive Party Division, Congressional Health Freedom Debate, GLP-1 Prediabetes Treatment - The RSB Show 11-5-26 https://t.co/wRp58OIcIV",
@@ -407,25 +216,10 @@
    "edit_history_tweet_ids": [
     "2118419471610032489"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Carson Wentz starting for the Vikings on Monday? + Breaking News | Afternoon Drive 11/5/26",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 115,
-      "expanded_url": "https://x.com/i/broadcasts/2pekkPzyQzbdWR",
-      "start": 92,
-      "status": 200,
-      "title": "The Coach",
-      "unwound_url": "https://x.com/i/broadcasts/2pekkPzyQzbdWR",
-      "url": "https://t.co/AUD8KR3WNo"
-     }
-    ]
-   },
    "id": "2118419471610032489",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1498,
+    "impression_count": 1605,
     "like_count": 0,
     "quote_count": 1,
     "reply_count": 0,
@@ -440,41 +234,14 @@
    "edit_history_tweet_ids": [
     "2118433042234499481"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: Hinojosa holds first news conference since election",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 167,
-      "expanded_url": "https://x.com/i/broadcasts/2LPXXomjeMoVmE",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2118433084806721536/BFhkYD9n?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118433084806721536/BFhkYD9n?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 144,
-      "status": 200,
-      "title": "FOX26Houston",
-      "unwound_url": "https://x.com/i/broadcasts/2LPXXomjeMoVmE",
-      "url": "https://t.co/SLlUUFsP4S"
-     }
-    ]
-   },
    "id": "2118433042234499481",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 93,
+    "impression_count": 222,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 1
    },
    "text": "Texas Governor-elect Gina Hinojosa is holding her first news conference since the election, where she plans to outline her plans for the state. https://t.co/SLlUUFsP4S",
    "url": "https://x.com/FOX26Houston/status/2118433042234499481"
@@ -485,41 +252,14 @@
    "edit_history_tweet_ids": [
     "2118433051566882867"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: Hinojosa holds first news conference since election",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 167,
-      "expanded_url": "https://x.com/i/broadcasts/2OdXXRovkpgPMn",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2118433094063599616/3VqqYDsk?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118433094063599616/3VqqYDsk?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 144,
-      "status": 200,
-      "title": "FOX 7 Austin",
-      "unwound_url": "https://x.com/i/broadcasts/2OdXXRovkpgPMn",
-      "url": "https://t.co/Jlw3DMV1Vq"
-     }
-    ]
-   },
    "id": "2118433051566882867",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 69,
-    "like_count": 0,
+    "bookmark_count": 1,
+    "impression_count": 200,
+    "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 2
    },
    "text": "Texas Governor-elect Gina Hinojosa is holding her first news conference since the election, where she plans to outline her plans for the state. https://t.co/Jlw3DMV1Vq",
    "url": "https://x.com/fox7austin/status/2118433051566882867"
@@ -530,136 +270,36 @@
    "edit_history_tweet_ids": [
     "2118433046793785818"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE: Hinojosa holds first news conference since election",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 167,
-      "expanded_url": "https://x.com/i/broadcasts/2kEvvAjdgrnRZq",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2118433048244932609/tclz5Orb?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118433048244932609/tclz5Orb?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 144,
-      "status": 200,
-      "title": "FOX 4 NEWS",
-      "unwound_url": "https://x.com/i/broadcasts/2kEvvAjdgrnRZq",
-      "url": "https://t.co/ztaoF6gDTe"
-     }
-    ]
-   },
    "id": "2118433046793785818",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 168,
-    "like_count": 0,
+    "impression_count": 469,
+    "like_count": 1,
     "quote_count": 0,
-    "reply_count": 0,
+    "reply_count": 1,
     "retweet_count": 0
    },
    "text": "Texas Governor-elect Gina Hinojosa is holding her first news conference since the election, where she plans to outline her plans for the state. https://t.co/ztaoF6gDTe",
    "url": "https://x.com/FOX4/status/2118433046793785818"
   },
   {
-   "author_id": "56806379",
-   "created_at": "2026-11-05T17:03:00.000Z",
+   "author_id": "16232940",
+   "created_at": "2026-11-05T20:04:45.000Z",
    "edit_history_tweet_ids": [
-    "2118388331574698206",
-    "2118388625113035061"
+    "2118433991837581783",
+    "2118434362844979441"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live November Trump, Congress & The Iran War After The Midterms",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 83,
-      "expanded_url": "https://x.com/i/broadcasts/2dKLYnzJQvPygy",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2118388374004215809/I7HIvmzg?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118388374004215809/I7HIvmzg?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 60,
-      "status": 200,
-      "title": "NIAC",
-      "unwound_url": "https://x.com/i/broadcasts/2dKLYnzJQvPygy",
-      "url": "https://t.co/7l3SybKyvR"
-     }
-    ]
-   },
-   "id": "2118388625113035061",
+   "id": "2118434362844979441",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 4039,
-    "like_count": 9,
-    "quote_count": 3,
-    "reply_count": 0,
-    "retweet_count": 7
-   },
-   "text": "LIVE: Trump, Congress &amp; The Iran War After The Midterms https://t.co/7l3SybKyvR",
-   "url": "https://x.com/NIACouncil/status/2118388625113035061"
-  },
-  {
-   "author_id": "56806379",
-   "created_at": "2026-11-05T17:01:50.000Z",
-   "edit_history_tweet_ids": [
-    "2118388331574698206",
-    "2118388625113035061"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live November Trump, Congress & The Iran War After The Midterms",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 91,
-      "expanded_url": "https://x.com/i/broadcasts/2dKLYnzJQvPygy",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2118388374004215809/I7HIvmzg?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118388374004215809/I7HIvmzg?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 68,
-      "status": 200,
-      "title": "NIAC",
-      "unwound_url": "https://x.com/i/broadcasts/2dKLYnzJQvPygy",
-      "url": "https://t.co/7l3SybKyvR"
-     }
-    ]
-   },
-   "id": "2118388331574698206",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 33,
+    "impression_count": 152,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 1
    },
-   "text": "Live November Trump, Congress &amp; The Iran War After The Midterms https://t.co/7l3SybKyvR",
-   "url": "https://x.com/NIACouncil/status/2118388331574698206"
+   "text": "Tune in now to The Michael Patrick Leahy Show - your AMERICA FIRST news talk!\n- Watch LIVE here on X \n- Listen on Spotify \n- Listen on WENO AM760 in Nashville \n- Read more at @TheTNStar https://t.co/FueaJClS9j",
+   "url": "https://x.com/michaelpleahy/status/2118434362844979441"
   },
   {
    "author_id": "1334358077131276289",
@@ -667,38 +307,11 @@
    "edit_history_tweet_ids": [
     "2118433120152064474"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Democrats Crush the Stock Market with Law Fare - Trump Admin Resignations Begin - Today's News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 118,
-      "expanded_url": "https://x.com/i/broadcasts/2MEXXrzdWjqndO",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2118433162707521536/mXOTw-A9?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118433162707521536/mXOTw-A9?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 95,
-      "status": 200,
-      "title": "Oreo Express",
-      "unwound_url": "https://x.com/i/broadcasts/2MEXXrzdWjqndO",
-      "url": "https://t.co/xARUmXQ7T6"
-     }
-    ]
-   },
    "id": "2118433120152064474",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 100,
-    "like_count": 1,
+    "impression_count": 257,
+    "like_count": 2,
     "quote_count": 0,
     "reply_count": 1,
     "retweet_count": 1
@@ -712,26 +325,11 @@
    "edit_history_tweet_ids": [
     "2118433401749323964"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Post Midterm Election EXPOSES Leftist And Woke Right Alliance Against Trump",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 99,
-      "expanded_url": "https://x.com/i/broadcasts/2BlLLamRYzXEbb",
-      "start": 76,
-      "status": 200,
-      "title": "Armin Navabi",
-      "unwound_url": "https://x.com/i/broadcasts/2BlLLamRYzXEbb",
-      "url": "https://t.co/6bkN074AOO"
-     }
-    ]
-   },
    "id": "2118433401749323964",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1,
-    "like_count": 0,
+    "impression_count": 98,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
@@ -745,26 +343,11 @@
    "edit_history_tweet_ids": [
     "2118433401057288683"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Post Midterm Election EXPOSES Leftist And Woke Right Alliance Against Trump",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 99,
-      "expanded_url": "https://x.com/i/broadcasts/2XyEEXakWRlboO",
-      "start": 76,
-      "status": 200,
-      "title": "Atheist Republic",
-      "unwound_url": "https://x.com/i/broadcasts/2XyEEXakWRlboO",
-      "url": "https://t.co/msoqB26cwR"
-     }
-    ]
-   },
    "id": "2118433401057288683",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 0,
-    "like_count": 0,
+    "impression_count": 103,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
@@ -778,37 +361,10 @@
    "edit_history_tweet_ids": [
     "2118418647378989375"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "We Are LIVE! Christianity Vs Islam! Join The Debate! 📞 E257",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 83,
-      "expanded_url": "https://x.com/i/broadcasts/2XyEEZgNgjAjAq",
-      "images": [
-       {
-        "height": 1440,
-        "url": "https://pbs.twimg.com/news_img/2118418690035064832/QAL26kpL?format=jpg&name=orig",
-        "width": 2560
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118418690035064832/QAL26kpL?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 60,
-      "status": 200,
-      "title": "Brother Maverick",
-      "unwound_url": "https://x.com/i/broadcasts/2XyEEZgNgjAjAq",
-      "url": "https://t.co/qs8yuEhsFa"
-     }
-    ]
-   },
    "id": "2118418647378989375",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 72,
+    "impression_count": 82,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
@@ -818,42 +374,33 @@
    "url": "https://x.com/_Maverick143_/status/2118418647378989375"
   },
   {
+   "author_id": "925935566",
+   "created_at": "2026-11-05T20:04:35.000Z",
+   "edit_history_tweet_ids": [
+    "2118434322856468864"
+   ],
+   "id": "2118434322856468864",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 230,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Mormonism Debunked with Vocab Malone vs. Jacob Hansen\n\nhttps://t.co/PgVhcg3Cr0 \n\nJoin us for the newest episode of Apologia Radio in which we are joined with Vocab Malone. We comment on the recent debate between @cabmalone and Jacob Hansen. \nIs Mormonism Christian?",
+   "url": "https://x.com/ApologiaStudios/status/2118434322856468864"
+  },
+  {
    "author_id": "125346858",
    "created_at": "2026-11-05T17:58:59.000Z",
    "edit_history_tweet_ids": [
     "2118402714971349148"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Politics Today",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 38,
-      "expanded_url": "https://x.com/i/broadcasts/2JQXlmVpjlELlm",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118402740355219456/lVXFIgLl?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118402740355219456/lVXFIgLl?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 15,
-      "status": 200,
-      "title": "Channels Television",
-      "unwound_url": "https://x.com/i/broadcasts/2JQXlmVpjlELlm",
-      "url": "https://t.co/aUwIpoJcM6"
-     }
-    ]
-   },
    "id": "2118402714971349148",
    "public_metrics": {
     "bookmark_count": 5,
-    "impression_count": 16562,
+    "impression_count": 16998,
     "like_count": 29,
     "quote_count": 1,
     "reply_count": 5,
@@ -868,41 +415,14 @@
    "edit_history_tweet_ids": [
     "2118402501196005571"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "LIVE : 05-11-26 | CURRENT AFFAIRS with JAGJEET SINGH (NEW YORK) | POLITICS PUNJAB TV",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 108,
-      "expanded_url": "https://x.com/i/broadcasts/2kEvbBnzMOyLnv",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2118400806835630080/kD0F6nVp?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118400806835630080/kD0F6nVp?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 85,
-      "status": 200,
-      "title": "Politics Punjab TV",
-      "unwound_url": "https://x.com/i/broadcasts/2kEvbBnzMOyLnv",
-      "url": "https://t.co/yVCYa38QwQ"
-     }
-    ]
-   },
    "id": "2118402501196005571",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 165,
-    "like_count": 7,
+    "impression_count": 173,
+    "like_count": 8,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 7
+    "retweet_count": 9
    },
    "text": "LIVE : 05-11-26 | CURRENT AFFAIRS with JAGJEET SINGH (NEW YORK) | POLITICS PUNJAB TV https://t.co/yVCYa38QwQ",
    "url": "https://x.com/PoliticsPunj767/status/2118402501196005571"
@@ -913,38 +433,11 @@
    "edit_history_tweet_ids": [
     "2118406889159430173"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Why EXCESSIVE Fear of Politics DESTROYS AI Stocks Today: MU, TSLA, SPCX, NBIS, NVDA and More",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 116,
-      "expanded_url": "https://x.com/i/broadcasts/2dKLYPmXWaLoRo",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118406931668672512/6SXtJoAW?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118406931668672512/6SXtJoAW?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 93,
-      "status": 200,
-      "title": "Jo Bhakdi",
-      "unwound_url": "https://x.com/i/broadcasts/2dKLYPmXWaLoRo",
-      "url": "https://t.co/SNTlWyhbNn"
-     }
-    ]
-   },
    "id": "2118406889159430173",
    "public_metrics": {
     "bookmark_count": 11,
-    "impression_count": 5024,
-    "like_count": 27,
+    "impression_count": 5276,
+    "like_count": 30,
     "quote_count": 0,
     "reply_count": 8,
     "retweet_count": 0
@@ -958,37 +451,10 @@
    "edit_history_tweet_ids": [
     "2118433192101203970"
    ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Greg Swenson - Midterm Analysis: Democrats Seize Congress — Trump’s Next Two Years",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 106,
-      "expanded_url": "https://x.com/i/broadcasts/2zkAzkqWRNBKAE",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118409492656230400/JQ9-RSYc?format=png&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118409492656230400/JQ9-RSYc?format=png&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 83,
-      "status": 200,
-      "title": "X America News",
-      "unwound_url": "https://x.com/i/broadcasts/2zkAzkqWRNBKAE",
-      "url": "https://t.co/atmx74Q5ny"
-     }
-    ]
-   },
    "id": "2118433192101203970",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 91,
+    "impression_count": 213,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -996,99 +462,39 @@
    },
    "text": "Greg Swenson - Midterm Analysis: Democrats Seize Congress — Trump’s Next Two Years https://t.co/atmx74Q5ny",
    "url": "https://x.com/XAmericaNews/status/2118433192101203970"
-  },
-  {
-   "author_id": "1900375238548086788",
-   "created_at": "2026-11-05T19:03:38.000Z",
-   "edit_history_tweet_ids": [
-    "2118418984164802710"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "🔥 Wall Street Collapses after Radical DSA Takeover of Senate and House in 2026 Midterms [LIVE]",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 118,
-      "expanded_url": "https://x.com/i/broadcasts/2kEvvpBdyEzOrE",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118419026674171904/Lvr0Sge0?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118419026674171904/Lvr0Sge0?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 95,
-      "status": 200,
-      "title": "MAGNO NEWS LIVE",
-      "unwound_url": "https://x.com/i/broadcasts/2kEvvpBdyEzOrE",
-      "url": "https://t.co/n8rTcBhU4u"
-     }
-    ]
-   },
-   "id": "2118418984164802710",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 128,
-    "like_count": 1,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "🔥 Wall Street Collapses after Radical DSA Takeover of Senate and House in 2026 Midterms [LIVE] https://t.co/n8rTcBhU4u",
-   "url": "https://x.com/magnonewslive/status/2118418984164802710"
-  },
-  {
-   "author_id": "22640555",
-   "created_at": "2026-11-05T18:24:12.000Z",
-   "edit_history_tweet_ids": [
-    "2118409060491952200"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live Music News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 39,
-      "expanded_url": "https://x.com/i/broadcasts/2vylpylBrXdPWk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2118409103001128960/9W9nRxXC?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2118409103001128960/9W9nRxXC?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 16,
-      "status": 200,
-      "title": "Highland Radio",
-      "unwound_url": "https://x.com/i/broadcasts/2vylpylBrXdPWk",
-      "url": "https://t.co/7oZ9VqDPFv"
-     }
-    ]
-   },
-   "id": "2118409060491952200",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 80,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Live Music News https://t.co/7oZ9VqDPFv",
-   "url": "https://x.com/highlandradio/status/2118409060491952200"
   }
  ],
  "users": [
+  {
+   "id": "906150577880670209",
+   "name": "Mississippi Sports",
+   "public_metrics": {
+    "followers_count": 13007,
+    "following_count": 1555,
+    "like_count": 10953,
+    "listed_count": 28,
+    "media_count": 3562,
+    "tweet_count": 11369
+   },
+   "username": "SocialSportsMs",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "23642374",
+   "name": "Seattle Seahawks",
+   "public_metrics": {
+    "followers_count": 2425804,
+    "following_count": 1021,
+    "like_count": 25221,
+    "listed_count": 10039,
+    "media_count": 35866,
+    "tweet_count": 104212
+   },
+   "username": "Seahawks",
+   "verified": true,
+   "verified_type": "business"
+  },
   {
    "id": "454122399",
    "name": "Purdue Men's Basketball",
@@ -1098,26 +504,11 @@
     "like_count": 2426,
     "listed_count": 909,
     "media_count": 17604,
-    "tweet_count": 45233
+    "tweet_count": 45234
    },
    "username": "BoilerBall",
    "verified": true,
    "verified_type": "blue"
-  },
-  {
-   "id": "1209936918",
-   "name": "One America News",
-   "public_metrics": {
-    "followers_count": 2322667,
-    "following_count": 109,
-    "like_count": 9828,
-    "listed_count": 7646,
-    "media_count": 64003,
-    "tweet_count": 207569
-   },
-   "username": "OANN",
-   "verified": true,
-   "verified_type": "business"
   },
   {
    "id": "2067872109674557440",
@@ -1135,19 +526,19 @@
    "verified_type": "blue"
   },
   {
-   "id": "42548887",
-   "name": "Diya TV",
+   "id": "1209936918",
+   "name": "One America News",
    "public_metrics": {
-    "followers_count": 2569,
-    "following_count": 2030,
-    "like_count": 2756,
-    "listed_count": 79,
-    "media_count": 3560,
-    "tweet_count": 17988
+    "followers_count": 2322670,
+    "following_count": 109,
+    "like_count": 9828,
+    "listed_count": 7646,
+    "media_count": 64006,
+    "tweet_count": 207572
    },
-   "username": "DiyaTV",
+   "username": "OANN",
    "verified": true,
-   "verified_type": "blue"
+   "verified_type": "business"
   },
   {
    "id": "1577262165865558017",
@@ -1158,7 +549,7 @@
     "like_count": 780,
     "listed_count": 2,
     "media_count": 144,
-    "tweet_count": 1148
+    "tweet_count": 1149
    },
    "username": "anlirdee",
    "verified": false,
@@ -1170,10 +561,10 @@
    "public_metrics": {
     "followers_count": 4374,
     "following_count": 4182,
-    "like_count": 154271,
+    "like_count": 154275,
     "listed_count": 0,
     "media_count": 6455,
-    "tweet_count": 63719
+    "tweet_count": 63724
    },
    "username": "RebootCB3",
    "verified": true,
@@ -1187,8 +578,8 @@
     "following_count": 195,
     "like_count": 1829,
     "listed_count": 314,
-    "media_count": 7453,
-    "tweet_count": 54790
+    "media_count": 7455,
+    "tweet_count": 54792
    },
    "username": "WesternStandard",
    "verified": true,
@@ -1210,15 +601,30 @@
    "verified_type": "blue"
   },
   {
+   "id": "15320603",
+   "name": "Nick Valencia",
+   "public_metrics": {
+    "followers_count": 25595,
+    "following_count": 5627,
+    "like_count": 12354,
+    "listed_count": 852,
+    "media_count": 1559,
+    "tweet_count": 43923
+   },
+   "username": "nickvalencianew",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "80741093",
    "name": "Robert Scott Bell",
    "public_metrics": {
     "followers_count": 15260,
     "following_count": 3782,
-    "like_count": 21966,
+    "like_count": 21965,
     "listed_count": 210,
     "media_count": 3764,
-    "tweet_count": 55874
+    "tweet_count": 55875
    },
    "username": "askrsb",
    "verified": true,
@@ -1228,10 +634,10 @@
    "id": "284750553",
    "name": "The Coach",
    "public_metrics": {
-    "followers_count": 136312,
+    "followers_count": 136316,
     "following_count": 522,
     "like_count": 4988,
-    "listed_count": 1027,
+    "listed_count": 1026,
     "media_count": 2558,
     "tweet_count": 47901
    },
@@ -1243,12 +649,12 @@
    "id": "17094323",
    "name": "FOX26Houston",
    "public_metrics": {
-    "followers_count": 423849,
+    "followers_count": 423845,
     "following_count": 4331,
     "like_count": 62683,
     "listed_count": 1890,
-    "media_count": 90036,
-    "tweet_count": 513438
+    "media_count": 90037,
+    "tweet_count": 513439
    },
    "username": "FOX26Houston",
    "verified": true,
@@ -1263,7 +669,7 @@
     "like_count": 14367,
     "listed_count": 1833,
     "media_count": 51354,
-    "tweet_count": 357075
+    "tweet_count": 357077
    },
    "username": "fox7austin",
    "verified": true,
@@ -1273,7 +679,7 @@
    "id": "16656350",
    "name": "FOX 4 NEWS",
    "public_metrics": {
-    "followers_count": 699449,
+    "followers_count": 699450,
     "following_count": 892,
     "like_count": 1862,
     "listed_count": 2204,
@@ -1285,17 +691,17 @@
    "verified_type": "blue"
   },
   {
-   "id": "56806379",
-   "name": "NIAC",
+   "id": "16232940",
+   "name": "Michael Patrick Leahy",
    "public_metrics": {
-    "followers_count": 25183,
-    "following_count": 2167,
-    "like_count": 20437,
-    "listed_count": 572,
-    "media_count": 3511,
-    "tweet_count": 33094
+    "followers_count": 36703,
+    "following_count": 13732,
+    "like_count": 52,
+    "listed_count": 465,
+    "media_count": 206,
+    "tweet_count": 14423
    },
-   "username": "NIACouncil",
+   "username": "michaelpleahy",
    "verified": true,
    "verified_type": "blue"
   },
@@ -1318,8 +724,8 @@
    "id": "34001374",
    "name": "Armin Navabi",
    "public_metrics": {
-    "followers_count": 73914,
-    "following_count": 12191,
+    "followers_count": 73913,
+    "following_count": 12193,
     "like_count": 22547,
     "listed_count": 389,
     "media_count": 2946,
@@ -1370,6 +776,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "925935566",
+   "name": "Apologia Studios",
+   "public_metrics": {
+    "followers_count": 47366,
+    "following_count": 476,
+    "like_count": 1555,
+    "listed_count": 205,
+    "media_count": 1690,
+    "tweet_count": 7459
+   },
+   "username": "ApologiaStudios",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "125346858",
    "name": "Channels Television",
    "public_metrics": {
@@ -1377,8 +798,8 @@
     "following_count": 178,
     "like_count": 4803,
     "listed_count": 3901,
-    "media_count": 167649,
-    "tweet_count": 252799
+    "media_count": 167651,
+    "tweet_count": 252801
    },
    "username": "channelstv",
    "verified": true,
@@ -1392,8 +813,8 @@
     "following_count": 128,
     "like_count": 904,
     "listed_count": 3,
-    "media_count": 5415,
-    "tweet_count": 9222
+    "media_count": 5416,
+    "tweet_count": 9223
    },
    "username": "PoliticsPunj767",
    "verified": true,
@@ -1431,36 +852,6 @@
     "tweet_count": 9204
    },
    "username": "XAmericaNews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1900375238548086788",
-   "name": "MAGNO NEWS LIVE",
-   "public_metrics": {
-    "followers_count": 2422,
-    "following_count": 277,
-    "like_count": 28,
-    "listed_count": 16,
-    "media_count": 46,
-    "tweet_count": 2200
-   },
-   "username": "magnonewslive",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "22640555",
-   "name": "Highland Radio",
-   "public_metrics": {
-    "followers_count": 14162,
-    "following_count": 1874,
-    "like_count": 2785,
-    "listed_count": 92,
-    "media_count": 945,
-    "tweet_count": 20399
-   },
-   "username": "highlandradio",
    "verified": true,
    "verified_type": "blue"
   }
