@@ -2,7 +2,7 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-05T22:53:27Z",
+  "updated_at": "2026-11-05T22:53:48Z",
   "last_x_check": {
     "at": "2026-11-05T22:53:27Z",
     "new_posts": 0,
@@ -17,7 +17,7 @@
       "posts": "no new posts since 2118469354480181410"
     }
   },
-  "last_publish": "pending push",
+  "last_publish": "X Live refresh; pushed 1aed82d; live site HTTP 200",
   "x_reads_left_today": "695 of 1000 (resets 2026-11-06T00:00Z)",
   "note": "update.py now follows a recent post's own t.co redirect (cached in data/tco_cache.json) when X returns it without link entities, so a fresh live-stream post is detected right away.",
   "failure_streak": 0
