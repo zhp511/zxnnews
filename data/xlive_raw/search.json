@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-06T01:01:10Z",
+ "fetched_at": "2026-11-06T01:36:22Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-05T22:00:00Z",
+  "start_time": "2026-11-05T22:35:42Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": "created_at,public_metrics,entities,author_id",
@@ -17,10 +17,37 @@
    "edit_history_tweet_ids": [
     "2118508692790297065"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "WHY? America Voted Against Itself | Trump & the 2026 Midterm Election Fallout",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 105,
+      "expanded_url": "https://x.com/i/broadcasts/2lgyQKNPogVROn",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118497658402721792/5mhMmRI6?format=png&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118497658402721792/5mhMmRI6?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 82,
+      "status": 200,
+      "title": "Talkin Live",
+      "unwound_url": "https://x.com/i/broadcasts/2lgyQKNPogVROn",
+      "url": "https://t.co/nillUdJibM"
+     }
+    ]
+   },
    "id": "2118508692790297065",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 0,
+    "impression_count": 2,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -30,40 +57,82 @@
    "url": "https://x.com/talkinlive/status/2118508692790297065"
   },
   {
-   "author_id": "1835652531826913280",
-   "created_at": "2026-11-05T22:06:13.000Z",
+   "author_id": "364214133",
+   "created_at": "2026-11-06T01:26:46.000Z",
    "edit_history_tweet_ids": [
-    "2118464932991697155"
+    "2118515400845427145"
    ],
-   "id": "2118464932991697155",
+   "entities": {
+    "urls": [
+     {
+      "description": "Dr.SHIVA® LIVE: Dr.SHIVA Won US Senate. No One Can Disprove It! Election 2026 Analysis",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 110,
+      "expanded_url": "https://x.com/i/broadcasts/2YREkOqNgebRKW",
+      "start": 87,
+      "status": 200,
+      "title": "Dr.SHIVA Ayyadurai, MIT PhD. Inventor of Email",
+      "unwound_url": "https://x.com/i/broadcasts/2YREkOqNgebRKW",
+      "url": "https://t.co/JXZLYcL2iF"
+     }
+    ]
+   },
+   "id": "2118515400845427145",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 5463,
-    "like_count": 12,
+    "impression_count": 727,
+    "like_count": 5,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 6
+    "retweet_count": 2
    },
-   "text": "THE CULTURE WAR IS ENTERING A NEW PHASE: From Texas Education And School Choice To Immigration, Identity Politics &amp; The Debate Over Religious Freedom - Examining The Issues Driving America's Political Divide! - TUNE IN! \n\nhttps://t.co/aHIO3M82c0",
-   "url": "https://x.com/AJNlive/status/2118464932991697155"
+   "text": "Dr.SHIVA® LIVE: Dr.SHIVA Won US Senate. No One Can Disprove It! Election 2026 Analysis https://t.co/JXZLYcL2iF",
+   "url": "https://x.com/va_shiva/status/2118515400845427145"
   },
   {
-   "author_id": "770781940341288960",
-   "created_at": "2026-11-05T22:00:42.000Z",
+   "author_id": "1384282002858266629",
+   "created_at": "2026-11-06T01:30:19.000Z",
    "edit_history_tweet_ids": [
-    "2118463544618307661"
+    "2118516294509060257"
    ],
-   "id": "2118463544618307661",
-   "public_metrics": {
-    "bookmark_count": 7,
-    "impression_count": 148654,
-    "like_count": 139,
-    "quote_count": 0,
-    "reply_count": 8,
-    "retweet_count": 24
+   "entities": {
+    "urls": [
+     {
+      "description": "Hurricane Warning: Mali Out!!! Can Miami Win??",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 71,
+      "expanded_url": "https://x.com/i/broadcasts/2POMrkrVMbpqLZ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118516337332858880/brULyI3O?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118516337332858880/brULyI3O?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 48,
+      "status": 200,
+      "title": "Fins Talk Sports Network",
+      "unwound_url": "https://x.com/i/broadcasts/2POMrkrVMbpqLZ",
+      "url": "https://t.co/5bwjHXGgty"
+     }
+    ]
    },
-   "text": "America's Mayor Live (1054) Analyzing Vice President JD Vance's Response to Midterm Election Results https://t.co/MAbYHJukal",
-   "url": "https://x.com/RudyGiuliani/status/2118463544618307661"
+   "id": "2118516294509060257",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 13,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Hurricane Warning:  Mali Out!!! Can Miami Win?? https://t.co/5bwjHXGgty",
+   "url": "https://x.com/FinsTalkNetwork/status/2118516294509060257"
   },
   {
    "author_id": "1364887393921359875",
@@ -71,6 +140,21 @@
    "edit_history_tweet_ids": [
     "2118485280722149494"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "President Trump Participates in Signing Time, Nov. 5, 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 82,
+      "expanded_url": "https://x.com/i/broadcasts/2aWLjOVPNovqmL",
+      "start": 59,
+      "status": 200,
+      "title": "Max V World Media",
+      "unwound_url": "https://x.com/i/broadcasts/2aWLjOVPNovqmL",
+      "url": "https://t.co/5CzGOV0wMN"
+     }
+    ]
+   },
    "id": "2118485280722149494",
    "public_metrics": {
     "bookmark_count": 0,
@@ -84,33 +168,30 @@
    "url": "https://x.com/Maxvworldmedia/status/2118485280722149494"
   },
   {
-   "author_id": "136791586",
-   "created_at": "2026-11-06T00:27:05.000Z",
-   "edit_history_tweet_ids": [
-    "2118500381449720099"
-   ],
-   "id": "2118500381449720099",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 48,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🏈 HFT | THE CFP DEBATE  Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap &amp; playoff implications.  📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM  #IUFB #GoIU #CFBPlayoff https://t.co/3ZOgom3I5C",
-   "url": "https://x.com/CoachGriff55/status/2118500381449720099"
-  },
-  {
    "author_id": "42647008",
    "created_at": "2026-11-06T00:00:13.000Z",
    "edit_history_tweet_ids": [
     "2118493621968052239"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "FSU Football: SHOW US THE PLAN! 💰 | Booster Money & the Jimbo Fisher Debate",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 103,
+      "expanded_url": "https://x.com/i/broadcasts/2vylOYdNevaZkJ",
+      "start": 80,
+      "status": 200,
+      "title": "Ryan - Garnet and Old",
+      "unwound_url": "https://x.com/i/broadcasts/2vylOYdNevaZkJ",
+      "url": "https://t.co/8cgBzMxsZo"
+     }
+    ]
+   },
    "id": "2118493621968052239",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 115,
+    "impression_count": 153,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -125,10 +206,37 @@
    "edit_history_tweet_ids": [
     "2118493622467178512"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "FSU Football: SHOW US THE PLAN! 💰 | Booster Money & the Jimbo Fisher Debate",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 103,
+      "expanded_url": "https://x.com/i/broadcasts/2aWLjReOAbrPpn",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118493665072947200/nPyk7n2H?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118493665072947200/nPyk7n2H?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 80,
+      "status": 200,
+      "title": "Vince C",
+      "unwound_url": "https://x.com/i/broadcasts/2aWLjReOAbrPpn",
+      "url": "https://t.co/PFu0Ed7FGB"
+     }
+    ]
+   },
    "id": "2118493622467178512",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 174,
+    "impression_count": 221,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -138,15 +246,97 @@
    "url": "https://x.com/vcnole/status/2118493622467178512"
   },
   {
+   "author_id": "136791586",
+   "created_at": "2026-11-06T00:27:05.000Z",
+   "edit_history_tweet_ids": [
+    "2118500381449720099"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 209,
+      "start": 204,
+      "tag": "IUFB"
+     },
+     {
+      "end": 215,
+      "start": 210,
+      "tag": "GoIU"
+     },
+     {
+      "end": 227,
+      "start": 216,
+      "tag": "CFBPlayoff"
+     }
+    ],
+    "urls": [
+     {
+      "description": "🏈 HFT | THE CFP DEBATE Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap & playoff implications. 📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM #IUFB #GoIU #CFBPlayoff",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 251,
+      "expanded_url": "https://x.com/i/broadcasts/2peklgRbWkbkaz",
+      "start": 228,
+      "status": 200,
+      "title": "Shannon Griffith",
+      "unwound_url": "https://x.com/i/broadcasts/2peklgRbWkbkaz",
+      "url": "https://t.co/3ZOgom3I5C"
+     }
+    ]
+   },
+   "id": "2118500381449720099",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 86,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🏈 HFT | THE CFP DEBATE  Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap &amp; playoff implications.  📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM  #IUFB #GoIU #CFBPlayoff https://t.co/3ZOgom3I5C",
+   "url": "https://x.com/CoachGriff55/status/2118500381449720099"
+  },
+  {
    "author_id": "1696684840874082305",
    "created_at": "2026-11-06T00:27:05.000Z",
    "edit_history_tweet_ids": [
     "2118500380258537535"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 209,
+      "start": 204,
+      "tag": "IUFB"
+     },
+     {
+      "end": 215,
+      "start": 210,
+      "tag": "GoIU"
+     },
+     {
+      "end": 227,
+      "start": 216,
+      "tag": "CFBPlayoff"
+     }
+    ],
+    "urls": [
+     {
+      "description": "🏈 HFT | THE CFP DEBATE Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap & playoff implications. 📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM #IUFB #GoIU #CFBPlayoff",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 251,
+      "expanded_url": "https://x.com/i/broadcasts/2AMWPZerppzBZO",
+      "start": 228,
+      "status": 200,
+      "title": "Hoosier Tailgate",
+      "unwound_url": "https://x.com/i/broadcasts/2AMWPZerppzBZO",
+      "url": "https://t.co/J1ssBTlArI"
+     }
+    ]
+   },
    "id": "2118500380258537535",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 41,
+    "impression_count": 73,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -156,33 +346,42 @@
    "url": "https://x.com/HoosierTailgate/status/2118500380258537535"
   },
   {
-   "author_id": "1696684840874082305",
-   "created_at": "2026-11-06T00:27:05.000Z",
-   "edit_history_tweet_ids": [
-    "2118500382426948069"
-   ],
-   "id": "2118500382426948069",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 37,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🏈 HFT | THE CFP DEBATE  Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap &amp; playoff implications.  📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM  #IUFB #GoIU #CFBPlayoff https://t.co/Tt1TCBrTMZ",
-   "url": "https://x.com/HoosierTailgate/status/2118500382426948069"
-  },
-  {
    "author_id": "1404103952086585349",
    "created_at": "2026-11-06T00:00:13.000Z",
    "edit_history_tweet_ids": [
     "2118493622433661195"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "FSU Football: SHOW US THE PLAN! 💰 | Booster Money & the Jimbo Fisher Debate",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 103,
+      "expanded_url": "https://x.com/i/broadcasts/2rJqXYnPKBNQJn",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118493664976543744/O6PMDHkh?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118493664976543744/O6PMDHkh?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 80,
+      "status": 200,
+      "title": "Garnet and Old",
+      "unwound_url": "https://x.com/i/broadcasts/2rJqXYnPKBNQJn",
+      "url": "https://t.co/Uk7A7JeFLR"
+     }
+    ]
+   },
    "id": "2118493622433661195",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 108,
+    "impression_count": 144,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -192,15 +391,142 @@
    "url": "https://x.com/Garnet_Old/status/2118493622433661195"
   },
   {
+   "author_id": "1696684840874082305",
+   "created_at": "2026-11-06T00:27:05.000Z",
+   "edit_history_tweet_ids": [
+    "2118500382426948069"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 209,
+      "start": 204,
+      "tag": "IUFB"
+     },
+     {
+      "end": 215,
+      "start": 210,
+      "tag": "GoIU"
+     },
+     {
+      "end": 227,
+      "start": 216,
+      "tag": "CFBPlayoff"
+     }
+    ],
+    "urls": [
+     {
+      "description": "🏈 HFT | THE CFP DEBATE Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap & playoff implications. 📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM #IUFB #GoIU #CFBPlayoff",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 251,
+      "expanded_url": "https://x.com/i/broadcasts/2evWBJmKjezbjW",
+      "start": 228,
+      "status": 200,
+      "title": "Hoosier Tailgate",
+      "unwound_url": "https://x.com/i/broadcasts/2evWBJmKjezbjW",
+      "url": "https://t.co/Tt1TCBrTMZ"
+     }
+    ]
+   },
+   "id": "2118500382426948069",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 72,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🏈 HFT | THE CFP DEBATE  Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap &amp; playoff implications.  📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM  #IUFB #GoIU #CFBPlayoff https://t.co/Tt1TCBrTMZ",
+   "url": "https://x.com/HoosierTailgate/status/2118500382426948069"
+  },
+  {
+   "author_id": "109400580",
+   "created_at": "2026-11-06T01:15:21.000Z",
+   "edit_history_tweet_ids": [
+    "2118512528661655659"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Why Did Democrats Just Win Big? Plus EDP445’s Arrest & the 2 Chainz Debate",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 102,
+      "expanded_url": "https://x.com/i/broadcasts/2QnlYENAbdqmlY",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118512571300909056/9PS1iPeK?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118512571300909056/9PS1iPeK?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 79,
+      "status": 200,
+      "title": "Trouble or Trevor",
+      "unwound_url": "https://x.com/i/broadcasts/2QnlYENAbdqmlY",
+      "url": "https://t.co/6ABZiWJbKs"
+     }
+    ]
+   },
+   "id": "2118512528661655659",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Why Did Democrats Just Win Big? Plus EDP445’s Arrest &amp; the 2 Chainz Debate https://t.co/6ABZiWJbKs",
+   "url": "https://x.com/99_Zelmae/status/2118512528661655659"
+  },
+  {
    "author_id": "136791586",
    "created_at": "2026-11-06T00:27:05.000Z",
    "edit_history_tweet_ids": [
     "2118500379885260983"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 209,
+      "start": 204,
+      "tag": "IUFB"
+     },
+     {
+      "end": 215,
+      "start": 210,
+      "tag": "GoIU"
+     },
+     {
+      "end": 227,
+      "start": 216,
+      "tag": "CFBPlayoff"
+     }
+    ],
+    "urls": [
+     {
+      "description": "🏈 HFT | THE CFP DEBATE Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap & playoff implications. 📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM #IUFB #GoIU #CFBPlayoff",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 251,
+      "expanded_url": "https://x.com/i/broadcasts/2POMrYgVeYvBzE",
+      "start": 228,
+      "status": 200,
+      "title": "Shannon Griffith",
+      "unwound_url": "https://x.com/i/broadcasts/2POMrYgVeYvBzE",
+      "url": "https://t.co/3CHwuDp0Ix"
+     }
+    ]
+   },
    "id": "2118500379885260983",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 44,
+    "impression_count": 77,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -215,10 +541,37 @@
    "edit_history_tweet_ids": [
     "2118479498433683801"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Lois Lane Is A Republican? DC Decisions: How Comics Should Handle Politics | UTC Podcast 346",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 116,
+      "expanded_url": "https://x.com/i/broadcasts/2zkAVNLVBgKlnM",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118479540934565888/h-R-NNwx?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118479540934565888/h-R-NNwx?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 93,
+      "status": 200,
+      "title": "Jared",
+      "unwound_url": "https://x.com/i/broadcasts/2zkAVNLVBgKlnM",
+      "url": "https://t.co/dB0nLC9DqE"
+     }
+    ]
+   },
    "id": "2118479498433683801",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 37,
+    "impression_count": 38,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -228,33 +581,42 @@
    "url": "https://x.com/ComicsLeagueJT/status/2118479498433683801"
   },
   {
-   "author_id": "2546221834",
-   "created_at": "2026-11-05T22:23:12.000Z",
-   "edit_history_tweet_ids": [
-    "2118469207427862678"
-   ],
-   "id": "2118469207427862678",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 17,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "11 5 2026 War of Reckoning Thurs Testing. No politics allowed in chat. https://t.co/xeTBCKs78i",
-   "url": "https://x.com/ticklefitz/status/2118469207427862678"
-  },
-  {
    "author_id": "1352487109165125640",
    "created_at": "2026-11-05T23:14:02.000Z",
    "edit_history_tweet_ids": [
     "2118481996984832277"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Bitcoin Back Above $80K (LIVE): Democrats SWEEP Congress",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 80,
+      "expanded_url": "https://x.com/i/broadcasts/2ReMWJKEdpoPKN",
+      "images": [
+       {
+        "height": 1440,
+        "url": "https://pbs.twimg.com/news_img/2118482039691202560/hLCOhe86?format=jpg&name=orig",
+        "width": 2560
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118482039691202560/hLCOhe86?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 57,
+      "status": 200,
+      "title": "David Beaudry | VYLØS",
+      "unwound_url": "https://x.com/i/broadcasts/2ReMWJKEdpoPKN",
+      "url": "https://t.co/OXzRpFbSpX"
+     }
+    ]
+   },
    "id": "2118481996984832277",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 318,
+    "impression_count": 334,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -269,6 +631,33 @@
    "edit_history_tweet_ids": [
     "2118493539097059335"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Burn It Down! The Next Congress Is Going To Try From The Inside",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 87,
+      "expanded_url": "https://x.com/i/broadcasts/2lgyQYonNjVqXy",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118493581547630592/TRzFz2MV?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118493581547630592/TRzFz2MV?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 64,
+      "status": 200,
+      "title": "Tapp into the Truth",
+      "unwound_url": "https://x.com/i/broadcasts/2lgyQYonNjVqXy",
+      "url": "https://t.co/IQbml4WQUb"
+     }
+    ]
+   },
    "id": "2118493539097059335",
    "public_metrics": {
     "bookmark_count": 0,
@@ -282,22 +671,102 @@
    "url": "https://x.com/TappintotheTrut/status/2118493539097059335"
   },
   {
-   "author_id": "22455409",
-   "created_at": "2026-11-05T22:24:22.000Z",
+   "author_id": "1022800836",
+   "created_at": "2026-11-06T01:07:41.000Z",
    "edit_history_tweet_ids": [
-    "2118469500349632869"
+    "2118510599986409525"
    ],
-   "id": "2118469500349632869",
+   "entities": {
+    "urls": [
+     {
+      "description": "Post Midterms Democrats Prepare To Take Congress, Russel Brand Guilty",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 93,
+      "expanded_url": "https://x.com/i/broadcasts/2NgmNvPVaEQpmj",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118510642697035776/zrwBvSaF?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118510642697035776/zrwBvSaF?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 70,
+      "status": 200,
+      "title": "The Oracle of Whimsy",
+      "unwound_url": "https://x.com/i/broadcasts/2NgmNvPVaEQpmj",
+      "url": "https://t.co/2A6g260gqC"
+     }
+    ]
+   },
+   "id": "2118510599986409525",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 247,
-    "like_count": 1,
+    "impression_count": 8,
+    "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1
+    "retweet_count": 0
    },
-   "text": "Indiana Executes Jeffrey Weisheit &amp; GOP Loses Supermajority | Eric Deters Local News Indiana #indiananews#indiana#jeffreyweisheit#weisheitexecution#indianaexecution#evansville#hamiltoncountyin#news https://t.co/l0QecG1fEI",
-   "url": "https://x.com/bulllaw/status/2118469500349632869"
+   "text": "Post Midterms Democrats Prepare To Take Congress, Russel Brand Guilty https://t.co/2A6g260gqC",
+   "url": "https://x.com/doctorwhimsy/status/2118510599986409525"
+  },
+  {
+   "author_id": "1546659690196738058",
+   "created_at": "2026-11-06T01:31:57.000Z",
+   "edit_history_tweet_ids": [
+    "2118516706863644964"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 76,
+      "id": "25073877",
+      "start": 60,
+      "username": "realDonaldTrump"
+     }
+    ],
+    "urls": [
+     {
+      "description": "The U.S Can No Longer Afford To Hesitate In The Iran War",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 37,
+      "expanded_url": "https://x.com/i/broadcasts/2JQXPjkOJBjXvQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118507046563643392/S29lgry4?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118507046563643392/S29lgry4?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 14,
+      "status": 200,
+      "title": "Ali Samani",
+      "unwound_url": "https://x.com/i/broadcasts/2JQXPjkOJBjXvQ",
+      "url": "https://t.co/W4wfNyeKv3"
+     }
+    ]
+   },
+   "id": "2118516706863644964",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 12,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Iran Update 👇 https://t.co/W4wfNyeKv3\n\nThe Biggest mistake .@realDonaldTrump has done, was listening to his VP, Qatar &amp; Pakistan etc and do a \"Ceasefire\" - they were ALWAYS only dragging out time, wich costed the Midterms, NOT the war itself. \nThe IRGC CELEBRATED the Democrat",
+   "url": "https://x.com/VickanFW/status/2118516706863644964"
   },
   {
    "author_id": "1189608528950054913",
@@ -305,10 +774,37 @@
    "edit_history_tweet_ids": [
     "2118493698887680422"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "GLOBAL NEWS ALERT | Russell Brand, Iran War, GOP Fallout & More | Bek LIVE",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 102,
+      "expanded_url": "https://x.com/i/broadcasts/2dKLRleBzbKJLk",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118493741401128960/_Iah8zOp?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118493741401128960/_Iah8zOp?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 79,
+      "status": 200,
+      "title": "Bek Lover",
+      "unwound_url": "https://x.com/i/broadcasts/2dKLRleBzbKJLk",
+      "url": "https://t.co/X1XaGa5lqm"
+     }
+    ]
+   },
    "id": "2118493698887680422",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 312,
+    "impression_count": 356,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
@@ -323,17 +819,187 @@
    "edit_history_tweet_ids": [
     "2118494104661176390"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "ON TAP NEWS W/WARREN AND MATT~RETIRED U.S NAVY CAPTAIN PETER MATISOO",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 92,
+      "expanded_url": "https://x.com/i/broadcasts/2XyEbXaMjpkXLJ",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118494147086561280/5029sdY0?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118494147086561280/5029sdY0?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 69,
+      "status": 200,
+      "title": "On Tap News",
+      "unwound_url": "https://x.com/i/broadcasts/2XyEbXaMjpkXLJ",
+      "url": "https://t.co/ecPebPuRD8"
+     }
+    ]
+   },
    "id": "2118494104661176390",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 147,
+    "impression_count": 256,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 5
+   },
+   "text": "ON TAP NEWS W/WARREN AND MATT~RETIRED U.S NAVY CAPTAIN PETER MATISOO https://t.co/ecPebPuRD8",
+   "url": "https://x.com/OnTapNewsShow/status/2118494104661176390"
+  },
+  {
+   "author_id": "1574069936867184640",
+   "created_at": "2026-11-06T01:04:18.000Z",
+   "edit_history_tweet_ids": [
+    "2118509746592374869"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Lee Escobedo | Knicks News",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 50,
+      "expanded_url": "https://x.com/i/broadcasts/2nQBJnZPgkNgRa",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118509788988366848/W93ouAue?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118509788988366848/W93ouAue?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 27,
+      "status": 200,
+      "title": "Lee Escobedo | Knicks News",
+      "unwound_url": "https://x.com/i/broadcasts/2nQBJnZPgkNgRa",
+      "url": "https://t.co/d8W3ThlJNV"
+     }
+    ]
+   },
+   "id": "2118509746592374869",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 55,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Lee Escobedo | Knicks News https://t.co/d8W3ThlJNV",
+   "url": "https://x.com/_leeescobedo/status/2118509746592374869"
+  },
+  {
+   "author_id": "973671092396134401",
+   "created_at": "2026-11-06T01:02:08.000Z",
+   "edit_history_tweet_ids": [
+    "2118509203207713158"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🔵🖤 THE COLE SHOW EP34: Todd Wash Speaks + Broncos Preview & chats other Panther news",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 112,
+      "expanded_url": "https://x.com/i/broadcasts/2rJqXnQzlkRPob",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118509245704409088/-AtyQa-7?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118509245704409088/-AtyQa-7?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 89,
+      "status": 200,
+      "title": "PantherPickle",
+      "unwound_url": "https://x.com/i/broadcasts/2rJqXnQzlkRPob",
+      "url": "https://t.co/UpPwEmzT3R"
+     }
+    ]
+   },
+   "id": "2118509203207713158",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 52,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 3
    },
-   "text": "ON TAP NEWS W/WARREN AND MATT~RETIRED U.S NAVY CAPTAIN PETER MATISOO https://t.co/ecPebPuRD8",
-   "url": "https://x.com/OnTapNewsShow/status/2118494104661176390"
+   "text": "🔵🖤 THE COLE SHOW EP34: Todd Wash Speaks + Broncos Preview &amp; chats other Panther news https://t.co/UpPwEmzT3R",
+   "url": "https://x.com/PantherPickle/status/2118509203207713158"
+  },
+  {
+   "author_id": "1434798710169513984",
+   "created_at": "2026-11-06T01:22:39.000Z",
+   "edit_history_tweet_ids": [
+    "2118514367385735521"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 24,
+      "id": "1499561296651456514",
+      "start": 11,
+      "username": "mikoverseinc"
+     }
+    ],
+    "urls": [
+     {
+      "description": "😻THURRSDAY @MIKOVERSEINC STREAM! 😻 🌊 BLUE WAVE FALL OUT! 🌊🙀PARAGUAY BANK COLLAPSE !?! 🙀😺 NEWS! DRAMA! MOAR! 😺OPENING VCARDS 😺",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 149,
+      "expanded_url": "https://x.com/i/broadcasts/2ybAoLVjgREpAQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118514410012463104/HnTCcjj-?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118514410012463104/HnTCcjj-?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 126,
+      "status": 200,
+      "title": "NinjaGato",
+      "unwound_url": "https://x.com/i/broadcasts/2ybAoLVjgREpAQ",
+      "url": "https://t.co/dUeDi0GTAP"
+     }
+    ]
+   },
+   "id": "2118514367385735521",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "😻THURRSDAY @MIKOVERSEINC STREAM! 😻 🌊 BLUE WAVE FALL OUT! 🌊🙀PARAGUAY BANK COLLAPSE !?! 🙀😺 NEWS! DRAMA! MOAR! 😺OPENING VCARDS 😺 https://t.co/dUeDi0GTAP",
+   "url": "https://x.com/ninjagato465/status/2118514367385735521"
   },
   {
    "author_id": "1256260317732057090",
@@ -341,35 +1007,61 @@
    "edit_history_tweet_ids": [
     "2118508652722020641"
    ],
+   "entities": {
+    "cashtags": [
+     {
+      "end": 32,
+      "start": 28,
+      "tag": "OMI"
+     },
+     {
+      "end": 39,
+      "start": 33,
+      "tag": "DACAT"
+     },
+     {
+      "end": 45,
+      "start": 40,
+      "tag": "DEFX"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Marvel advertises for VeVe! $OMI $DACAT $DEFX news!",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 75,
+      "expanded_url": "https://x.com/i/broadcasts/2MEXrlaobPrvXW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118508695260688384/jrEfZMNg?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118508695260688384/jrEfZMNg?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 52,
+      "status": 200,
+      "title": "Randy Chavez ⭕",
+      "unwound_url": "https://x.com/i/broadcasts/2MEXrlaobPrvXW",
+      "url": "https://t.co/CvZ5LCYcBj"
+     }
+    ]
+   },
    "id": "2118508652722020641",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 35,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Marvel advertises for VeVe! $OMI $DACAT $DEFX news! https://t.co/CvZ5LCYcBj",
-   "url": "https://x.com/RealRandyChavez/status/2118508652722020641"
-  },
-  {
-   "author_id": "714377713",
-   "created_at": "2026-11-05T22:19:30.000Z",
-   "edit_history_tweet_ids": [
-    "2118468273469632596"
-   ],
-   "id": "2118468273469632596",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 447,
-    "like_count": 5,
+    "impression_count": 124,
+    "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "LATE NEWS DISCUSSION 05/11/26 https://t.co/u4hQDN2ybT",
-   "url": "https://x.com/utvghana/status/2118468273469632596"
+   "text": "Marvel advertises for VeVe! $OMI $DACAT $DEFX news! https://t.co/CvZ5LCYcBj",
+   "url": "https://x.com/RealRandyChavez/status/2118508652722020641"
   },
   {
    "author_id": "1216793092134723586",
@@ -377,11 +1069,38 @@
    "edit_history_tweet_ids": [
     "2118493598287282666"
    ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Just the News, No Noise - Thursday November 5, 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 75,
+      "expanded_url": "https://x.com/i/broadcasts/2rJPLRvrBLPXrK",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2118493600493510656/2ra5AgnQ?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118493600493510656/2ra5AgnQ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 52,
+      "status": 200,
+      "title": "Just the News",
+      "unwound_url": "https://x.com/i/broadcasts/2rJPLRvrBLPXrK",
+      "url": "https://t.co/KAy59evgHJ"
+     }
+    ]
+   },
    "id": "2118493598287282666",
    "public_metrics": {
     "bookmark_count": 1,
-    "impression_count": 1791,
-    "like_count": 6,
+    "impression_count": 2026,
+    "like_count": 7,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 3
@@ -390,76 +1109,49 @@
    "url": "https://x.com/JustTheNews/status/2118493598287282666"
   },
   {
-   "author_id": "714377713",
-   "created_at": "2026-11-05T22:09:17.000Z",
+   "author_id": "1684411062",
+   "created_at": "2026-11-06T00:15:19.000Z",
    "edit_history_tweet_ids": [
-    "2118465701350445169"
+    "2118497422317903902"
    ],
-   "id": "2118465701350445169",
+   "entities": {
+    "urls": [
+     {
+      "description": "HOT BOY TURK REACTS TO BOOSIE ON CAM CAPONE NEWS",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 72,
+      "expanded_url": "https://x.com/i/broadcasts/2onbzKQozBZYge",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2118497464890056704/O7TLdUjy?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118497464890056704/O7TLdUjy?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 49,
+      "status": 200,
+      "title": "#MAGNOLIATURK🦍🔥",
+      "unwound_url": "https://x.com/i/broadcasts/2onbzKQozBZYge",
+      "url": "https://t.co/x1wz6SalHG"
+     }
+    ]
+   },
+   "id": "2118497422317903902",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 1738,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "LATE NEWS DISCUSSION 05/11/26 https://t.co/y16BMUk4N7",
-   "url": "https://x.com/utvghana/status/2118465701350445169"
-  },
-  {
-   "author_id": "38971480",
-   "created_at": "2026-11-05T23:15:44.000Z",
-   "edit_history_tweet_ids": [
-    "2118482424581460272"
-   ],
-   "id": "2118482424581460272",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 289,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🔴 HORNED UP LIVE! Vikings Latest News, HOT Rumors &amp; Bills Showdown! https://t.co/fruYMlzruv",
-   "url": "https://x.com/Matt_Falk/status/2118482424581460272"
-  },
-  {
-   "author_id": "26014321",
-   "created_at": "2026-11-05T23:00:04.000Z",
-   "edit_history_tweet_ids": [
-    "2118478481646366963"
-   ],
-   "id": "2118478481646366963",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 321,
+    "impression_count": 73,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "The CNC3 Evening News - Thursday 5 November 2026 https://t.co/h06QZUc1Er",
-   "url": "https://x.com/CNC3TV/status/2118478481646366963"
-  },
-  {
-   "author_id": "1216793092134723586",
-   "created_at": "2026-11-06T00:01:43.000Z",
-   "edit_history_tweet_ids": [
-    "2118493997161185452"
-   ],
-   "id": "2118493997161185452",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1845,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 1
-   },
-   "text": "Join Now | Just the News, No Noise :\nhttps://t.co/KAy59euISb",
-   "url": "https://x.com/JustTheNews/status/2118493997161185452"
+   "text": "HOT BOY TURK REACTS TO BOOSIE ON CAM CAPONE NEWS https://t.co/x1wz6SalHG",
+   "url": "https://x.com/HotBoyTurk32/status/2118497422317903902"
   }
  ],
  "users": [
@@ -479,32 +1171,32 @@
    "verified_type": "blue"
   },
   {
-   "id": "1835652531826913280",
-   "name": "Alex Jones Network",
+   "id": "364214133",
+   "name": "Dr.SHIVA Ayyadurai, MIT PhD. Inventor of Email",
    "public_metrics": {
-    "followers_count": 368989,
-    "following_count": 362,
-    "like_count": 4961,
-    "listed_count": 590,
-    "media_count": 2631,
-    "tweet_count": 8055
+    "followers_count": 319400,
+    "following_count": 2082,
+    "like_count": 57003,
+    "listed_count": 1282,
+    "media_count": 5203,
+    "tweet_count": 34713
    },
-   "username": "AJNlive",
+   "username": "va_shiva",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "770781940341288960",
-   "name": "Rudy W. Giuliani",
+   "id": "1384282002858266629",
+   "name": "Fins Talk Sports Network",
    "public_metrics": {
-    "followers_count": 1917810,
-    "following_count": 1359,
-    "like_count": 20786,
-    "listed_count": 5135,
-    "media_count": 3141,
-    "tweet_count": 16738
+    "followers_count": 1626,
+    "following_count": 1151,
+    "like_count": 6935,
+    "listed_count": 7,
+    "media_count": 2103,
+    "tweet_count": 10222
    },
-   "username": "RudyGiuliani",
+   "username": "FinsTalkNetwork",
    "verified": true,
    "verified_type": "blue"
   },
@@ -520,21 +1212,6 @@
     "tweet_count": 749
    },
    "username": "Maxvworldmedia",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "136791586",
-   "name": "Shannon Griffith",
-   "public_metrics": {
-    "followers_count": 1957,
-    "following_count": 2873,
-    "like_count": 16461,
-    "listed_count": 21,
-    "media_count": 770,
-    "tweet_count": 15601
-   },
-   "username": "CoachGriff55",
    "verified": true,
    "verified_type": "blue"
   },
@@ -558,13 +1235,28 @@
    "name": "Vince C",
    "public_metrics": {
     "followers_count": 715,
-    "following_count": 1237,
+    "following_count": 1239,
     "like_count": 44198,
     "listed_count": 4,
     "media_count": 1563,
-    "tweet_count": 7329
+    "tweet_count": 7330
    },
    "username": "vcnole",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "136791586",
+   "name": "Shannon Griffith",
+   "public_metrics": {
+    "followers_count": 1957,
+    "following_count": 2873,
+    "like_count": 16461,
+    "listed_count": 21,
+    "media_count": 770,
+    "tweet_count": 15601
+   },
+   "username": "CoachGriff55",
    "verified": true,
    "verified_type": "blue"
   },
@@ -599,6 +1291,21 @@
    "verified_type": "blue"
   },
   {
+   "id": "109400580",
+   "name": "Trouble or Trevor",
+   "public_metrics": {
+    "followers_count": 1949,
+    "following_count": 4667,
+    "like_count": 92505,
+    "listed_count": 38,
+    "media_count": 8513,
+    "tweet_count": 67851
+   },
+   "username": "99_Zelmae",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "1374121594172375040",
    "name": "Jared",
    "public_metrics": {
@@ -614,25 +1321,10 @@
    "verified_type": "blue"
   },
   {
-   "id": "2546221834",
-   "name": "Ticklefitz",
-   "public_metrics": {
-    "followers_count": 584,
-    "following_count": 272,
-    "like_count": 25386,
-    "listed_count": 6,
-    "media_count": 2033,
-    "tweet_count": 8888
-   },
-   "username": "ticklefitz",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1352487109165125640",
    "name": "David Beaudry | VYLØS",
    "public_metrics": {
-    "followers_count": 25242,
+    "followers_count": 25238,
     "following_count": 42,
     "like_count": 26639,
     "listed_count": 75,
@@ -659,17 +1351,32 @@
    "verified_type": "blue"
   },
   {
-   "id": "22455409",
-   "name": "Eric Deters",
+   "id": "1022800836",
+   "name": "The Oracle of Whimsy",
    "public_metrics": {
-    "followers_count": 27515,
-    "following_count": 3792,
-    "like_count": 7424,
-    "listed_count": 54,
-    "media_count": 23491,
-    "tweet_count": 70702
+    "followers_count": 1233,
+    "following_count": 666,
+    "like_count": 7478,
+    "listed_count": 7,
+    "media_count": 800,
+    "tweet_count": 11452
    },
-   "username": "bulllaw",
+   "username": "doctorwhimsy",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1546659690196738058",
+   "name": "Victoria 🍊 💃",
+   "public_metrics": {
+    "followers_count": 3665,
+    "following_count": 2602,
+    "like_count": 75609,
+    "listed_count": 13,
+    "media_count": 6605,
+    "tweet_count": 90367
+   },
+   "username": "VickanFW",
    "verified": true,
    "verified_type": "blue"
   },
@@ -677,7 +1384,7 @@
    "id": "1189608528950054913",
    "name": "Bek Lover",
    "public_metrics": {
-    "followers_count": 21129,
+    "followers_count": 21127,
     "following_count": 614,
     "like_count": 2176,
     "listed_count": 48,
@@ -704,12 +1411,57 @@
    "verified_type": "blue"
   },
   {
+   "id": "1574069936867184640",
+   "name": "Lee Escobedo | Knicks News",
+   "public_metrics": {
+    "followers_count": 3403,
+    "following_count": 2716,
+    "like_count": 145766,
+    "listed_count": 37,
+    "media_count": 5181,
+    "tweet_count": 58896
+   },
+   "username": "_leeescobedo",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "973671092396134401",
+   "name": "PantherPickle",
+   "public_metrics": {
+    "followers_count": 1099,
+    "following_count": 662,
+    "like_count": 33735,
+    "listed_count": 12,
+    "media_count": 4023,
+    "tweet_count": 54535
+   },
+   "username": "PantherPickle",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1434798710169513984",
+   "name": "NinjaGato",
+   "public_metrics": {
+    "followers_count": 378,
+    "following_count": 246,
+    "like_count": 12506,
+    "listed_count": 2,
+    "media_count": 6077,
+    "tweet_count": 7872
+   },
+   "username": "ninjagato465",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
    "id": "1256260317732057090",
    "name": "Randy Chavez ⭕",
    "public_metrics": {
     "followers_count": 25435,
     "following_count": 494,
-    "like_count": 145570,
+    "like_count": 145531,
     "listed_count": 65,
     "media_count": 4851,
     "tweet_count": 68074
@@ -719,62 +1471,32 @@
    "verified_type": "blue"
   },
   {
-   "id": "714377713",
-   "name": "UTV Ghana",
-   "public_metrics": {
-    "followers_count": 1493814,
-    "following_count": 205,
-    "like_count": 270,
-    "listed_count": 424,
-    "media_count": 60413,
-    "tweet_count": 92914
-   },
-   "username": "utvghana",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
    "id": "1216793092134723586",
    "name": "Just the News",
    "public_metrics": {
-    "followers_count": 273170,
+    "followers_count": 273171,
     "following_count": 194,
     "like_count": 2809,
     "listed_count": 1381,
     "media_count": 7804,
-    "tweet_count": 105483
+    "tweet_count": 105485
    },
    "username": "JustTheNews",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "38971480",
-   "name": "Onebar",
+   "id": "1684411062",
+   "name": "#MAGNOLIATURK🦍🔥",
    "public_metrics": {
-    "followers_count": 3957,
-    "following_count": 919,
-    "like_count": 11227,
-    "listed_count": 59,
-    "media_count": 2385,
-    "tweet_count": 15151
+    "followers_count": 72329,
+    "following_count": 21526,
+    "like_count": 9334,
+    "listed_count": 228,
+    "media_count": 19864,
+    "tweet_count": 177255
    },
-   "username": "Matt_Falk",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "26014321",
-   "name": "CNC3TV",
-   "public_metrics": {
-    "followers_count": 229734,
-    "following_count": 637,
-    "like_count": 1296,
-    "listed_count": 426,
-    "media_count": 90566,
-    "tweet_count": 165193
-   },
-   "username": "CNC3TV",
+   "username": "HotBoyTurk32",
    "verified": true,
    "verified_type": "blue"
   }
