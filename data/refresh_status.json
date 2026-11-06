@@ -2,9 +2,9 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-06T01:36:39Z",
+  "updated_at": "2026-11-06T01:55:01Z",
   "last_x_check": {
-    "at": "2026-11-06T01:36:39Z",
+    "at": "2026-11-06T01:55:01Z",
     "new_posts": 0,
     "new_post_ids": [],
     "newest_id": "2118498936272920718",
@@ -13,15 +13,15 @@
       "xlive"
     ],
     "skipped": {
-      "trending": "age < 60m (~17m at run start)",
+      "trending": "age < 60m (~35m at run start)",
       "following": "featured_accounts empty",
-      "tv": "age < 3h (~107m at run start)",
+      "tv": "age < 3h (~125m at run start)",
       "posts": "no posts newer than 2118498936272920718"
     },
-    "x_reads_this_run": 3
+    "x_reads_this_run": 2
   },
   "last_publish": "xlive refresh; pushed 11d2700; live site https://zhp511.github.io/zxnnews/ HTTP 200",
-  "x_reads_left_today": "966 of 1000 (resets 2026-11-07T00:00Z)",
+  "x_reads_left_today": "961 of 1000 (resets 2026-11-07T00:00Z)",
   "note": "update.py now follows a recent post's own t.co redirect (cached in data/tco_cache.json) when X returns it without link entities, so a fresh live-stream post is detected right away. Live site path is /zxnnews/ (repo rename); /zxn-news/ is 404.",
   "failure_streak": 0
 }
