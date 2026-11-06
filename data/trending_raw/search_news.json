@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T23:07:47Z",
+  "fetched_at": "2026-11-06T00:17:16Z",
   "tool": "x.search_news",
   "args": {
     "query": "US politics",
@@ -410,6 +410,78 @@
       "category": "News",
       "cluster_posts_results": [
         {
+          "post_id": "2118391139816579115"
+        },
+        {
+          "post_id": "2118440166968955085"
+        },
+        {
+          "post_id": "2118469361770037498"
+        },
+        {
+          "post_id": "2118430223691665504"
+        },
+        {
+          "post_id": "2118388629777031327"
+        },
+        {
+          "post_id": "2118440166968955085"
+        },
+        {
+          "post_id": "2118388629777031327"
+        },
+        {
+          "post_id": "2118400203158163638"
+        },
+        {
+          "post_id": "2118391139816579115"
+        },
+        {
+          "post_id": "2118430223691665504"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [
+            "2022 United States midterm elections"
+          ],
+          "organizations": [
+            "Democratic Party",
+            "Republican Party"
+          ],
+          "people": [
+            "Donald Trump"
+          ],
+          "places": [
+            "United States",
+            "Texas",
+            "Ohio",
+            "Oval Office"
+          ],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Elections"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Democrats celebrated sweeping gains, from over 250 House seats to flipping the Senate, while President Trump placed a bold 'VETO' hat on his desk as a reminder of his leverage.",
+      "id": "2117819383741567445",
+      "name": "Democrats Seize House and Senate in 2026 Midterms, Facing Trump's Veto Power",
+      "summary": "Democrats secured control of both chambers in the 2026 midterms, marking one of their strongest showings in decades and creating divided government with President Trump. They gained roughly 250 House seats and flipped the Senate with wins in Republican-leaning states, prompting talks of changing filibuster rules to pass a voting rights bill. Trump highlighted his veto authority with the Oval Office hat, as Republicans like Scott Presler urged quick action before the shift, and leaders noted historic wins for Democratic women including firsts in Georgia and New Mexico governorships. The setup promises gridlock with competing agendas ahead.",
+      "updated_at": "2026-11-06T00:08:57.000Z",
+      "url": "https://x.com/i/trending/2117819383741567445"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
           "post_id": "2118157866758475861"
         },
         {
@@ -443,15 +515,11 @@
       "contexts": {
         "entities": {
           "events": [
-            "US Presidential Election"
+            "U.S. election"
           ],
           "organizations": [],
           "people": [
-            "Donald Trump",
-            "Jane Caro",
-            "Dhruv Rathee",
-            "Benjamin Netanyahu",
-            "Narendra Modi"
+            "Donald Trump"
           ],
           "places": [],
           "products": []
@@ -576,58 +644,21 @@
           "post_id": "2118383255913140240"
         }
       ],
-      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "Democrats flipped the U.S. House with a projected 250-plus seats, their biggest haul since the early 1990s and a sharp turn after years of Republican control.",
-      "id": "2118478229464125828",
-      "name": "Democrats Win Largest House Majority in Nearly 20 Years",
-      "summary": "Early counts showed Democrats at 244 seats to Republicans' 155, with gains potentially hitting 260 for an 85-seat edge and divided government through President Trump's final two years. Republicans like Gov. Ron DeSantis blamed Senate inaction on immigration for low GOP turnout, while exit polls highlighted voter focus on the economy, jobs, and tariffs over foreign policy. Democratic women achieved milestones, with over 100 heading to the House, at least 16 to the Senate, and a record 14 as governors, including several firsts for women of color.",
-      "updated_at": "2026-11-05T23:06:52.000Z",
-      "url": "https://x.com/i/trending/2118478229464125828"
-    },
-    {
-      "category": "Other",
-      "cluster_posts_results": [
-        {
-          "post_id": "2117999734518628775"
-        },
-        {
-          "post_id": "2117977566803869707"
-        },
-        {
-          "post_id": "2118020072186769472"
-        },
-        {
-          "post_id": "2118013453772169717"
-        },
-        {
-          "post_id": "2118093023405805763"
-        },
-        {
-          "post_id": "2117999734518628775"
-        },
-        {
-          "post_id": "2118013453772169717"
-        },
-        {
-          "post_id": "2118086474830610543"
-        },
-        {
-          "post_id": "2117977566803869707"
-        },
-        {
-          "post_id": "2118093023405805763"
-        }
-      ],
       "contexts": {
         "entities": {
           "events": [
-            "U.S. Midterm Elections"
+            "Midterm Elections"
           ],
           "organizations": [
-            "Disney"
+            "Democratic Party",
+            "Republican Party"
           ],
-          "people": [],
-          "places": [],
+          "people": [
+            "Donald Trump"
+          ],
+          "places": [
+            "United States"
+          ],
           "products": []
         },
         "finance": {
@@ -637,16 +668,17 @@
           "teams": []
         },
         "topics": [
+          "News",
           "Elections"
         ]
       },
       "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "As Democrats celebrated flipping Senate seats and taking Congress, fans turned to Andor for its story of everyday people building a rebellion against empire.",
-      "id": "2118025887597891605",
-      "name": "Andor Rewatches Surge After Democrats' 2026 Blue Wave Victory",
-      "summary": "The Disney+ series follows Cassian Andor and allies resisting the Galactic Empire, with lines like 'I HAVE FRIENDS EVERYWHERE' appearing on protest signs and social media after the election rebuke to President Trump. Viewers, including some former right-leaners, connected its anti-fascist themes to real-world shifts, sparking renewed engagement and rewatches. While many praised its legacy in the Trump era, others mocked the rebel comparisons, noting the left's long self-identification with the Rebellion.",
-      "updated_at": "2026-11-04T23:08:47.000Z",
-      "url": "https://x.com/i/trending/2118025887597891605"
+      "hook": "Democrats flipped the U.S. House with a projected 250-plus seats, their biggest haul since the early 1990s and a sharp turn after years of Republican control.",
+      "id": "2118478229464125828",
+      "name": "Democrats Win Largest House Majority in Nearly 20 Years",
+      "summary": "Early counts showed Democrats at 244 seats to Republicans' 155, with gains potentially hitting 260 for an 85-seat edge and divided government through President Trump's final two years. Republicans like Gov. Ron DeSantis blamed Senate inaction on immigration for low GOP turnout, while exit polls highlighted voter focus on the economy, jobs, and tariffs over foreign policy. Democratic women achieved milestones, with over 100 heading to the House, at least 16 to the Senate, and a record 14 as governors, including several firsts for women of color.",
+      "updated_at": "2026-11-05T23:06:52.000Z",
+      "url": "https://x.com/i/trending/2118478229464125828"
     }
   ]
 }
