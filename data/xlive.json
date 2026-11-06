@@ -1,29 +1,9 @@
 {
- "built_at": "2026-11-06T00:40:23Z",
- "searched_at": "2026-11-06T00:40:23Z",
+ "built_at": "2026-11-06T01:01:10Z",
+ "searched_at": "2026-11-06T01:01:10Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2118463544618307661",
-   "post_url": "https://x.com/RudyGiuliani/status/2118463544618307661",
-   "name": "Rudy W. Giuliani",
-   "username": "RudyGiuliani",
-   "verified_type": "blue",
-   "text": "America's Mayor Live (1054) Analyzing Vice President JD Vance's Response to Midterm Election Results https://t.co/MAbYHJukal",
-   "started_at": "2026-11-05T22:00:42.000Z",
-   "assumed_live_until": "2026-11-06T01:00:42Z"
-  },
-  {
-   "post_id": "2118463048537035018",
-   "post_url": "https://x.com/2waytvapp/status/2118463048537035018",
-   "name": "2WAY",
-   "username": "2waytvapp",
-   "verified_type": "blue",
-   "text": "@MarkHalperin is joined by @Albydelphia & @NomikiKonst to break down how Democrats and Republicans are interpreting this week’s resounding election results, and what comes next for both parties. #2Way #Trump #Democrats #Midterms https://t.co/kD4790XUjA",
-   "started_at": "2026-11-05T21:58:44.000Z",
-   "assumed_live_until": "2026-11-06T00:58:44Z"
-  },
   {
    "post_id": "2118479498433683801",
    "post_url": "https://x.com/ComicsLeagueJT/status/2118479498433683801",
@@ -65,14 +45,24 @@
    "assumed_live_until": "2026-11-06T02:59:54Z"
   },
   {
-   "post_id": "2118493598287282666",
-   "post_url": "https://x.com/JustTheNews/status/2118493598287282666",
+   "post_id": "2118508692790297065",
+   "post_url": "https://x.com/talkinlive/status/2118508692790297065",
+   "name": "Talkin Live",
+   "username": "talkinlive",
+   "verified_type": "blue",
+   "text": "WHY? America Voted Against Itself | Trump & the 2026 Midterm Election Fallout https://t.co/nillUdJibM",
+   "started_at": "2026-11-06T01:00:07.000Z",
+   "assumed_live_until": "2026-11-06T04:00:07Z"
+  },
+  {
+   "post_id": "2118493997161185452",
+   "post_url": "https://x.com/JustTheNews/status/2118493997161185452",
    "name": "Just the News",
    "username": "JustTheNews",
    "verified_type": "blue",
-   "text": "Just the News, No Noise - Thursday November 5, 2026 https://t.co/KAy59evgHJ",
-   "started_at": "2026-11-06T00:00:08.000Z",
-   "assumed_live_until": "2026-11-06T03:00:08Z"
+   "text": "Join Now | Just the News, No Noise :\nhttps://t.co/KAy59euISb",
+   "started_at": "2026-11-06T00:01:43.000Z",
+   "assumed_live_until": "2026-11-06T03:01:43Z"
   },
   {
    "post_id": "2118468273469632596",
@@ -83,6 +73,16 @@
    "text": "LATE NEWS DISCUSSION 05/11/26 https://t.co/u4hQDN2ybT",
    "started_at": "2026-11-05T22:19:30.000Z",
    "assumed_live_until": "2026-11-06T01:19:30Z"
+  },
+  {
+   "post_id": "2118478481646366963",
+   "post_url": "https://x.com/CNC3TV/status/2118478481646366963",
+   "name": "CNC3TV",
+   "username": "CNC3TV",
+   "verified_type": "blue",
+   "text": "The CNC3 Evening News - Thursday 5 November 2026 https://t.co/h06QZUc1Er",
+   "started_at": "2026-11-05T23:00:04.000Z",
+   "assumed_live_until": "2026-11-06T02:00:04Z"
   }
  ]
 }
