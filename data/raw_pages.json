@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-05T23:06:13Z",
+ "fetched_at": "2026-11-06T00:24:11.068740Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -10,16 +10,295 @@
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011476148178599939/1787723275",
   "profile_image_url": "https://pbs.twimg.com/profile_images/2116742054856245248/DDZmLoSt_normal.jpg",
   "public_metrics": {
-   "followers_count": 3324,
-   "following_count": 3978,
-   "like_count": 2774,
+   "followers_count": 3328,
+   "following_count": 3983,
+   "like_count": 2780,
    "listed_count": 2,
    "media_count": 758,
-   "tweet_count": 5651
+   "tweet_count": 5660
   },
-  "username": "zxnbluehandus"
+  "username": "zxnbluehandus",
+  "verified": false
  },
  "pages": [
+  {
+   "data": [
+    {
+     "author_id": "2011476148178599939",
+     "created_at": "2026-11-06T00:21:20.000Z",
+     "edit_history_tweet_ids": [
+      "2118498936272920718"
+     ],
+     "id": "2118498936272920718",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1
+     },
+     "text": "Let everyone know I broke a rib in my back  and plus I have asthma",
+     "url": "https://x.com/zxnbluehandus/status/2118498936272920718"
+    }
+   ],
+   "includes": {
+    "users": [
+     {
+      "created_at": "2026-01-14T16:31:28.000Z",
+      "description": "we are Bluehand ZXN #pon im MAGA im Face of this one man my cosing late Dwight D. Eisenhower\n34th U.S. President my Name is Zachary H Parsley I build apps",
+      "id": "2011476148178599939",
+      "location": "God’s country, US TN",
+      "name": "ZXN “ we are bluehand ” AND patriot one network",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2116742054856245248/DDZmLoSt_normal.jpg",
+      "public_metrics": {
+       "followers_count": 3328,
+       "following_count": 3983,
+       "like_count": 2780,
+       "listed_count": 2,
+       "media_count": 758,
+       "tweet_count": 5660
+      },
+      "username": "zxnbluehandus",
+      "verified": false
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2118498936272920718",
+    "oldest_id": "2118498936272920718",
+    "result_count": 1
+   }
+  },
+  {
+   "data": [
+    {
+     "author_id": "2011476148178599939",
+     "created_at": "2026-11-06T00:18:19.000Z",
+     "edit_history_tweet_ids": [
+      "2118498176537887160"
+     ],
+     "id": "2118498176537887160",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118480852950949910",
+       "type": "retweeted"
+      }
+     ],
+     "text": "RT @rdejay: URGENT \n\n🚨 THE LAME-DUCK CLOCK: WHAT REPUBLICANS MUST DO BEFORE JANUARY. Thu, Nov. 5, 2026\n\nThe election does not end the curre…",
+     "url": "https://x.com/zxnbluehandus/status/2118498176537887160"
+    }
+   ],
+   "includes": {
+    "tweets": [
+     {
+      "attachments": {
+       "media_keys": [
+        "3_2118480848655695872",
+        "3_2118480848689168384",
+        "3_2118480848706052096",
+        "3_2118480848647266304"
+       ]
+      },
+      "author_id": "454286167",
+      "created_at": "2026-11-05T23:09:29.000Z",
+      "edit_history_tweet_ids": [
+       "2118480852950949910"
+      ],
+      "id": "2118480852950949910",
+      "public_metrics": {
+       "bookmark_count": 8,
+       "impression_count": 3944,
+       "like_count": 71,
+       "quote_count": 6,
+       "reply_count": 22,
+       "retweet_count": 55
+      },
+      "text": "URGENT \n\n🚨 THE LAME-DUCK CLOCK: WHAT REPUBLICANS MUST DO BEFORE JANUARY. Thu, Nov. 5, 2026\n\nThe election does not end the current Congress. Republicans still control the House and Senate during this lame-duck window. The new Congress convenes at noon Jan. 3, 2027, unless https://t.co/HoJm4eDUV7"
+     }
+    ],
+    "users": [
+     {
+      "created_at": "2026-01-14T16:31:28.000Z",
+      "description": "we are Bluehand ZXN #pon im MAGA im Face of this one man my cosing late Dwight D. Eisenhower\n34th U.S. President my Name is Zachary H Parsley I build apps",
+      "id": "2011476148178599939",
+      "location": "God’s country, US TN",
+      "name": "ZXN “ we are bluehand ” AND patriot one network",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011476148178599939/1787723275",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2116742054856245248/DDZmLoSt_normal.jpg",
+      "public_metrics": {
+       "followers_count": 3328,
+       "following_count": 3983,
+       "like_count": 2780,
+       "listed_count": 2,
+       "media_count": 758,
+       "tweet_count": 5659
+      },
+      "username": "zxnbluehandus",
+      "verified": false
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2118498176537887160",
+    "oldest_id": "2118498176537887160",
+    "result_count": 1
+   }
+  },
+  {
+   "data": [
+    {
+     "author_id": "2011476148178599939",
+     "conversation_id": "2118463534837240227",
+     "created_at": "2026-11-05T23:54:49.000Z",
+     "edit_history_tweet_ids": [
+      "2118492260648030396"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 13,
+        "id": "1843002758430916608",
+        "start": 0,
+        "username": "apinionsvary"
+       }
+      ]
+     },
+     "id": "2118492260648030396",
+     "lang": "en",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 17,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2118463534837240227",
+       "type": "replied_to"
+      }
+     ],
+     "text": "@apinionsvary Check your dm",
+     "url": "https://x.com/zxnbluehandus/status/2118492260648030396"
+    },
+    {
+     "author_id": "2011476148178599939",
+     "conversation_id": "2118488221516759484",
+     "created_at": "2026-11-05T23:38:46.000Z",
+     "edit_history_tweet_ids": [
+      "2118488221516759484"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 13,
+        "id": "1843002758430916608",
+        "start": 0,
+        "username": "apinionsvary"
+       }
+      ]
+     },
+     "id": "2118488221516759484",
+     "lang": "en",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "@apinionsvary check your dm",
+     "url": "https://x.com/zxnbluehandus/status/2118488221516759484"
+    }
+   ],
+   "includes": {
+    "tweets": [
+     {
+      "author_id": "1843002758430916608",
+      "conversation_id": "2118463534837240227",
+      "created_at": "2026-11-05T22:00:40.000Z",
+      "edit_history_tweet_ids": [
+       "2118463534837240227"
+      ],
+      "entities": {
+       "urls": [
+        {
+         "description": "Jay Gatling's Space · Where live audio conversations happen",
+         "display_url": "x.com/i/spaces/1kEvp…",
+         "end": 23,
+         "expanded_url": "https://x.com/i/spaces/1kEvpjRZEgYWWX",
+         "images": [
+          {
+           "height": 630,
+           "url": "https://pbs.twimg.com/news_img/2118148862116524032/tN7lLS8q?format=jpg&name=orig",
+           "width": 1200
+          },
+          {
+           "height": 150,
+           "url": "https://pbs.twimg.com/news_img/2118148862116524032/tN7lLS8q?format=jpg&name=150x150",
+           "width": 150
+          }
+         ],
+         "start": 0,
+         "status": 200,
+         "title": "Scheduled: MAIN ST MEETS WALL ST: Latest News | Latest Market & Economic Data 📈📉 / X",
+         "unwound_url": "https://x.com/i/spaces/1kEvpjRZEgYWWX",
+         "url": "https://t.co/iTnYEqngZX"
+        }
+       ]
+      },
+      "id": "2118463534837240227",
+      "lang": "zxx",
+      "public_metrics": {
+       "bookmark_count": 20,
+       "impression_count": 3701,
+       "like_count": 95,
+       "quote_count": 39,
+       "reply_count": 110,
+       "retweet_count": 105
+      },
+      "text": "https://t.co/iTnYEqngZX"
+     }
+    ],
+    "users": [
+     {
+      "created_at": "2026-01-14T16:31:28.000Z",
+      "description": "we are Bluehand ZXN #pon im MAGA im Face of this one man my cosing late Dwight D. Eisenhower\n34th U.S. President my Name is Zachary H Parsley I build apps",
+      "id": "2011476148178599939",
+      "location": "God’s country, US TN",
+      "name": "ZXN “ we are bluehand ” AND patriot one network",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011476148178599939/1787723275",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2116742054856245248/DDZmLoSt_normal.jpg",
+      "public_metrics": {
+       "followers_count": 3327,
+       "following_count": 3982,
+       "like_count": 2779,
+       "listed_count": 2,
+       "media_count": 758,
+       "tweet_count": 5658
+      },
+      "username": "zxnbluehandus",
+      "verified": false
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2118492260648030396",
+    "oldest_id": "2118488221516759484",
+    "result_count": 2
+   }
+  },
   {
    "data": [
     {
