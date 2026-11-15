@@ -1,0 +1,148 @@
+{
+ "fetched_at": "2026-11-15T16:55:28Z",
+ "tool": "user-X.search_spaces",
+ "args": {
+  "query": "politics",
+  "state": "live",
+  "max_results": 15,
+  "expansions": [
+   "creator_id",
+   "host_ids",
+   "topic_ids"
+  ],
+  "space.fields": [
+   "created_at",
+   "ended_at",
+   "id",
+   "is_ticketed",
+   "lang",
+   "participant_count",
+   "scheduled_start",
+   "started_at",
+   "state",
+   "subscriber_count",
+   "title",
+   "updated_at"
+  ],
+  "user.fields": [
+   "name",
+   "username",
+   "profile_image_url",
+   "verified",
+   "verified_type",
+   "public_metrics"
+  ],
+  "topic.fields": [
+   "id",
+   "name",
+   "description"
+  ]
+ },
+ "data": [
+  {
+   "created_at": "2026-11-15T16:32:26.000Z",
+   "creator_id": "1964108915030859776",
+   "host_ids": [
+    "1964108915030859776",
+    "1053245333579255808",
+    "1905363632273133568"
+   ],
+   "id": "1evBPabBgeERng",
+   "is_ticketed": false,
+   "lang": "en",
+   "participant_count": 55,
+   "started_at": "2026-11-15T16:32:27.000Z",
+   "state": "live",
+   "subscriber_count": 0,
+   "title": "Politics & Geopolitics #UttarPradesh Elections | #Punjab",
+   "updated_at": "2026-11-15T16:55:28.000Z"
+  },
+  {
+   "created_at": "2026-11-15T13:18:50.000Z",
+   "creator_id": "823893439880265728",
+   "host_ids": [
+    "823893439880265728"
+   ],
+   "id": "1ybobpqRNdKVzp",
+   "is_ticketed": false,
+   "lang": "en",
+   "participant_count": 1,
+   "started_at": "2026-11-15T13:18:52.000Z",
+   "state": "live",
+   "subscriber_count": 0,
+   "title": "The Power Table (Politics x Economics x Society)",
+   "updated_at": "2026-11-15T16:55:20.000Z"
+  }
+ ],
+ "includes": {
+  "users": [
+   {
+    "id": "1964108915030859776",
+    "name": "Inquisitive S",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2120222191341940737/0m2t70oe_normal.jpg",
+    "public_metrics": {
+     "followers_count": 12786,
+     "following_count": 958,
+     "like_count": 4531,
+     "listed_count": 3,
+     "media_count": 2197,
+     "tweet_count": 6113
+    },
+    "username": "InquisitiveS_",
+    "verified": true,
+    "verified_type": "blue"
+   },
+   {
+    "id": "1053245333579255808",
+    "name": "Common Sensei",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2098100102669950976/XWudnFCK_normal.jpg",
+    "public_metrics": {
+     "followers_count": 59129,
+     "following_count": 541,
+     "like_count": 2469,
+     "listed_count": 23,
+     "media_count": 1056,
+     "tweet_count": 3632
+    },
+    "username": "TheQuietSensei",
+    "verified": true,
+    "verified_type": "blue"
+   },
+   {
+    "id": "1905363632273133568",
+    "name": "गोभी कृषक",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2094524497986453505/QMbh_b2h_normal.jpg",
+    "public_metrics": {
+     "followers_count": 1231,
+     "following_count": 332,
+     "like_count": 23090,
+     "listed_count": 1,
+     "media_count": 420,
+     "tweet_count": 10989
+    },
+    "username": "gobhikrishak",
+    "verified": true,
+    "verified_type": "blue"
+   },
+   {
+    "id": "823893439880265728",
+    "name": "DonTuranMusicGroup",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1068954432618950656/vaRPCSoM_normal.jpg",
+    "public_metrics": {
+     "followers_count": 837,
+     "following_count": 876,
+     "like_count": 11374,
+     "listed_count": 8,
+     "media_count": 395,
+     "tweet_count": 2924
+    },
+    "username": "donturanmusic",
+    "verified": false,
+    "verified_type": "none"
+   }
+  ]
+ },
+ "meta": {
+  "result_count": 2
+ }
+}

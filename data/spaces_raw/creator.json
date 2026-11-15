@@ -1,0 +1,50 @@
+{
+ "fetched_at": "2026-11-15T16:54:50Z",
+ "tool": "user-X.get_spaces_by_creator_ids",
+ "args": {
+  "user_ids": [
+   "2011476148178599939"
+  ],
+  "expansions": [
+   "creator_id",
+   "host_ids",
+   "speaker_ids",
+   "topic_ids"
+  ],
+  "space.fields": [
+   "created_at",
+   "ended_at",
+   "id",
+   "is_ticketed",
+   "lang",
+   "participant_count",
+   "scheduled_start",
+   "started_at",
+   "state",
+   "subscriber_count",
+   "title",
+   "updated_at"
+  ],
+  "user.fields": [
+   "name",
+   "username",
+   "profile_image_url",
+   "verified",
+   "verified_type",
+   "public_metrics"
+  ],
+  "topic.fields": [
+   "id",
+   "name",
+   "description"
+  ]
+ },
+ "data": [],
+ "includes": {
+  "users": [],
+  "topics": []
+ },
+ "meta": {
+  "result_count": 0
+ }
+}
