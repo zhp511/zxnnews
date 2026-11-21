@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-21T06:51:47Z",
- "searched_at": "2026-11-21T06:51:22Z",
+ "built_at": "2026-11-21T07:10:11Z",
+ "searched_at": "2026-11-21T07:09:23Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -65,16 +65,6 @@
    "assumed_live_until": "2026-11-21T09:08:40Z"
   },
   {
-   "post_id": "2123990229086535786",
-   "post_url": "https://x.com/RealDaveIbrahim/status/2123990229086535786",
-   "name": "Dave Ibrahim",
-   "username": "RealDaveIbrahim",
-   "verified_type": "blue",
-   "text": "TRUMP to Iran: You'll NEVER Get a Nuke | Trump Slams \"Emboldened\" Canada — LIVE https://t.co/J885IwNTY5",
-   "started_at": "2026-11-21T04:01:47.000Z",
-   "assumed_live_until": "2026-11-21T07:01:47Z"
-  },
-  {
    "post_id": "2124019965997236336",
    "post_url": "https://x.com/GBNEWS/status/2124019965997236336",
    "name": "GB News",
@@ -83,6 +73,16 @@
    "text": "GB News https://t.co/y6vplOJ8ym",
    "started_at": "2026-11-21T05:59:56.000Z",
    "assumed_live_until": "2026-11-21T08:59:56Z"
+  },
+  {
+   "post_id": "2123993108115583130",
+   "post_url": "https://x.com/DivintyMary/status/2123993108115583130",
+   "name": "Miss Mary",
+   "username": "DivintyMary",
+   "verified_type": "blue",
+   "text": "🔴 Nubbin St. Nubbins is LIVE\nTHE NUBS BIRTHDAY STREAM!! | 45 AND STILL YOUNG AF | MUSIC SELECTION BY NUBS | NEWS | LIVE CHAOS | CHAT\n11.20.26\n@NubbinSaint\nhttps://t.co/KiEK9xZez5",
+   "started_at": "2026-11-21T04:13:13.000Z",
+   "assumed_live_until": "2026-11-21T07:13:13Z"
   }
  ]
 }
