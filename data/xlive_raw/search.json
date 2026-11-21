@@ -1,1068 +1,596 @@
 {
- "fetched_at": "2026-11-21T13:24:31Z",
- "tool": "x.search_posts_all",
- "args": {
-  "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-21T10:24:09Z",
-  "max_results": 25,
-  "sort_order": "relevancy",
-  "post.fields": [
-   "created_at",
-   "public_metrics",
-   "entities",
-   "text"
-  ],
-  "expansions": [
-   "author_id"
-  ],
-  "user.fields": [
-   "name",
-   "username",
-   "verified",
-   "verified_type",
-   "public_metrics"
-  ]
- },
- "data": [
-  {
-   "author_id": "2109787653625311234",
-   "created_at": "2026-11-21T12:53:17.000Z",
-   "edit_history_tweet_ids": [
-    "2124123986980392971"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "GTA Terminal LIVE 24/7: markets, options flow, dark pools and breaking news",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 99,
-      "expanded_url": "https://x.com/i/broadcasts/2QnervqoZYVKVL",
-      "start": 76,
-      "status": 200,
-      "title": "GTA Terminal",
-      "unwound_url": "https://x.com/i/broadcasts/2QnervqoZYVKVL",
-      "url": "https://t.co/w0auf9cRrS"
-     }
-    ]
-   },
-   "id": "2124123986980392971",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 8,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "GTA Terminal LIVE 24/7: markets, options flow, dark pools and breaking news https://t.co/w0auf9cRrS",
-   "url": "https://x.com/GTA_Terminal/status/2124123986980392971"
-  },
-  {
-   "author_id": "2109787653625311234",
-   "created_at": "2026-11-21T12:03:13.000Z",
-   "edit_history_tweet_ids": [
-    "2124111386091442566"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "GTA Terminal LIVE 24/7: markets, options flow, dark pools and breaking news",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 99,
-      "expanded_url": "https://x.com/i/broadcasts/2BlQpmWkmlepNQ",
-      "start": 76,
-      "status": 200,
-      "title": "GTA Terminal",
-      "unwound_url": "https://x.com/i/broadcasts/2BlQpmWkmlepNQ",
-      "url": "https://t.co/Zx4a8MPHrh"
-     }
-    ]
-   },
-   "id": "2124111386091442566",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 5,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "GTA Terminal LIVE 24/7: markets, options flow, dark pools and breaking news https://t.co/Zx4a8MPHrh",
-   "url": "https://x.com/GTA_Terminal/status/2124111386091442566"
-  },
-  {
-   "author_id": "2217408934",
-   "created_at": "2026-11-21T12:15:30.000Z",
-   "edit_history_tweet_ids": [
-    "2124114477532454963"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "VERY DARK HISTORY O SONIA GANDHI, GANDHI CONGRESS",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 73,
-      "expanded_url": "https://x.com/i/broadcasts/2VNPbpoddVOWvk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124114520113061888/0Sh-AFgp?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124114520113061888/0Sh-AFgp?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 50,
-      "status": 200,
-      "title": "Mamta Painuly Kale",
-      "unwound_url": "https://x.com/i/broadcasts/2VNPbpoddVOWvk",
-      "url": "https://t.co/Ej3IPdX8bL"
-     }
-    ]
-   },
-   "id": "2124114477532454963",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 192,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "VERY DARK HISTORY O SONIA GANDHI, GANDHI CONGRESS https://t.co/Ej3IPdX8bL",
-   "url": "https://x.com/mamta_kale/status/2124114477532454963"
-  },
-  {
-   "author_id": "881731466",
-   "created_at": "2026-11-21T13:00:46.000Z",
-   "edit_history_tweet_ids": [
-    "2124125869677359189",
-    "2124126103531090293"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "World Governments Summit Dialogue for Latin America and the Caribbean",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 93,
-      "expanded_url": "https://x.com/i/broadcasts/2NgQMPdVRkXVKb",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124125871459983360/bwnUuTHh?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124125871459983360/bwnUuTHh?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 70,
-      "status": 200,
-      "title": "World Governments Summit",
-      "unwound_url": "https://x.com/i/broadcasts/2NgQMPdVRkXVKb",
-      "url": "https://t.co/J0OodRb5CG"
-     }
-    ]
-   },
-   "id": "2124125869677359189",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 78,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "World Governments Summit Dialogue for Latin America and the Caribbean https://t.co/J0OodRb5CG",
-   "url": "https://x.com/WorldGovSummit/status/2124125869677359189"
-  },
-  {
-   "author_id": "2375935878",
-   "created_at": "2026-11-21T12:45:06.000Z",
-   "edit_history_tweet_ids": [
-    "2124121926129869081"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "AMERICA ROTTING FROM THE INSIDE OUT",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 59,
-      "expanded_url": "https://x.com/i/broadcasts/2EmboabPYgarop",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124121968676880385/oBy7cvbG?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124121968676880385/oBy7cvbG?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 36,
-      "status": 200,
-      "title": "BraveHeartNation",
-      "unwound_url": "https://x.com/i/broadcasts/2EmboabPYgarop",
-      "url": "https://t.co/pageBv2iWL"
-     }
-    ]
-   },
-   "id": "2124121926129869081",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 24,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "AMERICA ROTTING FROM THE INSIDE OUT https://t.co/pageBv2iWL",
-   "url": "https://x.com/DocOfDetox/status/2124121926129869081"
-  },
-  {
-   "author_id": "881731466",
-   "created_at": "2026-11-21T13:01:42.000Z",
-   "edit_history_tweet_ids": [
-    "2124125869677359189",
-    "2124126103531090293"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "World Governments Summit Dialogue for Latin America and the Caribbean",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 105,
-      "expanded_url": "https://x.com/i/broadcasts/2NgQMPdVRkXVKb",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124125871459983360/bwnUuTHh?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124125871459983360/bwnUuTHh?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 82,
-      "status": 200,
-      "title": "World Governments Summit",
-      "unwound_url": "https://x.com/i/broadcasts/2NgQMPdVRkXVKb",
-      "url": "https://t.co/J0OodRbDse"
-     }
-    ]
-   },
-   "id": "2124126103531090293",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 286,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "The World Governments Summit Dialogue for Latin America and the Caribbean - Day 2\nhttps://t.co/J0OodRbDse",
-   "url": "https://x.com/WorldGovSummit/status/2124126103531090293"
-  },
-  {
-   "author_id": "950380857545646080",
-   "created_at": "2026-11-21T11:58:33.000Z",
-   "edit_history_tweet_ids": [
-    "2124110214953615508"
-   ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 136,
-      "start": 130,
-      "tag": "HBAVO"
-     },
-     {
-      "end": 148,
-      "start": 137,
-      "tag": "HBAVOSTUDY"
-     },
-     {
-      "end": 158,
-      "start": 149,
-      "tag": "NEWSUNIT"
-     },
-     {
-      "end": 173,
-      "start": 159,
-      "tag": "TRUMPMAGANEWS"
-     }
+  "fetched_at": "2026-11-21T13:43:58Z",
+  "tool": "x.search_posts_all",
+  "args": {
+    "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
+    "start_time": "2026-11-21T10:43:58Z",
+    "max_results": 25,
+    "sort_order": "relevancy",
+    "post.fields": [
+      "created_at",
+      "public_metrics",
+      "entities",
+      "text"
     ],
-    "urls": [
-     {
-      "description": "THE NEWS UNIT IS MONITORING NEWS, WEATHER, & MOSTLY BROADCASTING THE HOLY BIBLE AKJV STUDY: WE ARE ON THE STAND-BY FOR NOW: #HBAVO #HBAVOSTUDY #NEWSUNIT #TRUMPMAGANEWS",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 197,
-      "expanded_url": "https://x.com/i/broadcasts/2EmboQqOKvoknJ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124110257571917824/ewtMmGvf?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124110257571917824/ewtMmGvf?format=jpg&name=150x150",
-        "width": 150
-       }
+    "expansions": [
+      "author_id"
+    ],
+    "user.fields": [
+      "name",
+      "username",
+      "verified",
+      "verified_type",
+      "public_metrics"
+    ]
+  },
+  "data": [
+    {
+      "author_id": "2109787653625311234",
+      "created_at": "2026-11-21T12:03:13.000Z",
+      "edit_history_tweet_ids": [
+        "2124111386091442566"
       ],
-      "start": 174,
-      "status": 200,
-      "title": "News UNIT",
-      "unwound_url": "https://x.com/i/broadcasts/2EmboQqOKvoknJ",
-      "url": "https://t.co/B5UDFlsxCM"
-     }
-    ]
-   },
-   "id": "2124110214953615508",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 2,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "THE NEWS UNIT IS MONITORING NEWS, WEATHER, &amp; MOSTLY BROADCASTING THE HOLY BIBLE AKJV STUDY:  WE ARE ON THE STAND-BY FOR NOW:  #HBAVO #HBAVOSTUDY #NEWSUNIT #TRUMPMAGANEWS https://t.co/B5UDFlsxCM",
-   "url": "https://x.com/The_News_UNIT/status/2124110214953615508"
-  },
-  {
-   "author_id": "85814753",
-   "created_at": "2026-11-21T11:24:05.000Z",
-   "edit_history_tweet_ids": [
-    "2124101541078417481"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Sandesh News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 36,
-      "expanded_url": "https://x.com/i/broadcasts/2brOqRWokREeNd",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2124101583772307456/1n_jDb75?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124101583772307456/1n_jDb75?format=jpg&name=150x150",
-        "width": 150
-       }
+      "id": "2124111386091442566",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "GTA Terminal LIVE 24/7: markets, options flow, dark pools and breaking news https://t.co/Zx4a8MPHrh",
+      "url": "https://x.com/GTA_Terminal/status/2124111386091442566"
+    },
+    {
+      "author_id": "2109787653625311234",
+      "created_at": "2026-11-21T12:53:17.000Z",
+      "edit_history_tweet_ids": [
+        "2124123986980392971"
       ],
-      "start": 13,
-      "status": 200,
-      "title": "Sandesh",
-      "unwound_url": "https://x.com/i/broadcasts/2brOqRWokREeNd",
-      "url": "https://t.co/YiZnGOodnd"
-     }
-    ]
-   },
-   "id": "2124101541078417481",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 396,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Sandesh News https://t.co/YiZnGOodnd",
-   "url": "https://x.com/sandeshnews/status/2124101541078417481"
-  },
-  {
-   "author_id": "1999037304103723008",
-   "created_at": "2026-11-21T10:47:44.000Z",
-   "edit_history_tweet_ids": [
-    "2124092390638063795"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "GrowthNow News LIVE !",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 45,
-      "expanded_url": "https://x.com/i/broadcasts/2mdqJoWaELVdLY",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124092433386373120/asOGsKSx?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124092433386373120/asOGsKSx?format=jpg&name=150x150",
-        "width": 150
-       }
+      "id": "2124123986980392971",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "GTA Terminal LIVE 24/7: markets, options flow, dark pools and breaking news https://t.co/w0auf9cRrS",
+      "url": "https://x.com/GTA_Terminal/status/2124123986980392971"
+    },
+    {
+      "author_id": "2217408934",
+      "created_at": "2026-11-21T12:15:30.000Z",
+      "edit_history_tweet_ids": [
+        "2124114477532454963"
       ],
-      "start": 22,
-      "status": 200,
-      "title": "Growthnownews",
-      "unwound_url": "https://x.com/i/broadcasts/2mdqJoWaELVdLY",
-      "url": "https://t.co/Y8ag4pwZ6c"
-     }
-    ]
-   },
-   "id": "2124092390638063795",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 16,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "GrowthNow News LIVE ! https://t.co/Y8ag4pwZ6c",
-   "url": "https://x.com/growthnownews/status/2124092390638063795"
-  },
-  {
-   "author_id": "17680851",
-   "created_at": "2026-11-21T11:17:13.000Z",
-   "edit_history_tweet_ids": [
-    "2124099810655428952"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "TEAM NEWS LIVE: Norwich City vs Cardiff City",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 68,
-      "expanded_url": "https://x.com/i/broadcasts/2lgqVaMQQKLVra",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2124099853084971008/XDXLh-JX?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124099853084971008/XDXLh-JX?format=jpg&name=150x150",
-        "width": 150
-       }
+      "id": "2124114477532454963",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 196,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "VERY DARK HISTORY O SONIA GANDHI, GANDHI CONGRESS https://t.co/Ej3IPdX8bL",
+      "url": "https://x.com/mamta_kale/status/2124114477532454963"
+    },
+    {
+      "author_id": "881731466",
+      "created_at": "2026-11-21T13:00:46.000Z",
+      "edit_history_tweet_ids": [
+        "2124125869677359189",
+        "2124126103531090293"
       ],
-      "start": 45,
-      "status": 200,
-      "title": "The Pink Un",
-      "unwound_url": "https://x.com/i/broadcasts/2lgqVaMQQKLVra",
-      "url": "https://t.co/0sZZzidNKN"
-     }
-    ]
-   },
-   "id": "2124099810655428952",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1234,
-    "like_count": 7,
-    "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 0
-   },
-   "text": "TEAM NEWS LIVE: Norwich City vs Cardiff City https://t.co/0sZZzidNKN",
-   "url": "https://x.com/pinkun/status/2124099810655428952"
-  },
-  {
-   "author_id": "1929504281658298369",
-   "created_at": "2026-11-21T12:08:31.000Z",
-   "edit_history_tweet_ids": [
-    "2124112722258268378"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Bharat Update News Live - 21 November 2026 LIVE",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 73,
-      "expanded_url": "https://x.com/i/broadcasts/2YRZayVmBNyJyn",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2124112764931039232/wwh-jHoC?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124112764931039232/wwh-jHoC?format=jpg&name=150x150",
-        "width": 150
-       }
+      "id": "2124125869677359189",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 117,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "World Governments Summit Dialogue for Latin America and the Caribbean https://t.co/J0OodRb5CG",
+      "url": "https://x.com/WorldGovSummit/status/2124125869677359189"
+    },
+    {
+      "author_id": "2375935878",
+      "created_at": "2026-11-21T12:45:06.000Z",
+      "edit_history_tweet_ids": [
+        "2124121926129869081"
       ],
-      "start": 50,
-      "status": 200,
-      "title": "भारत अपडेट | Bharat Update",
-      "unwound_url": "https://x.com/i/broadcasts/2YRZayVmBNyJyn",
-      "url": "https://t.co/bflAwL1K3a"
-     }
-    ]
-   },
-   "id": "2124112722258268378",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 12,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Bharat Update News Live - 21  November  2026 LIVE https://t.co/bflAwL1K3a",
-   "url": "https://x.com/BharatUpdate_x/status/2124112722258268378"
-  },
-  {
-   "author_id": "2107094653065449472",
-   "created_at": "2026-11-21T12:13:22.000Z",
-   "edit_history_tweet_ids": [
-    "2124113942284755269"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Marcus live: markets, charts and the news · Saturday, November 21, 2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 95,
-      "expanded_url": "https://x.com/i/broadcasts/2AMLvkBezVLXJl",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124113985817493506/Fk8JiFUj?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124113985817493506/Fk8JiFUj?format=jpg&name=150x150",
-        "width": 150
-       }
+      "id": "2124121926129869081",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "AMERICA ROTTING FROM THE INSIDE OUT https://t.co/pageBv2iWL",
+      "url": "https://x.com/DocOfDetox/status/2124121926129869081"
+    },
+    {
+      "author_id": "881731466",
+      "created_at": "2026-11-21T13:01:42.000Z",
+      "edit_history_tweet_ids": [
+        "2124125869677359189",
+        "2124126103531090293"
       ],
-      "start": 72,
-      "status": 200,
-      "title": "FinVibe",
-      "unwound_url": "https://x.com/i/broadcasts/2AMLvkBezVLXJl",
-      "url": "https://t.co/E9pCzlu7fs"
-     }
-    ]
-   },
-   "id": "2124113942284755269",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 0,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Marcus live: markets, charts and the news · Saturday, November 21, 2026 https://t.co/E9pCzlu7fs",
-   "url": "https://x.com/finvibelive/status/2124113942284755269"
-  },
-  {
-   "author_id": "505519109",
-   "created_at": "2026-11-21T12:01:50.000Z",
-   "edit_history_tweet_ids": [
-    "2124111037758595543"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Nigeria News Today LIVE: NAFDAC Uncovers Expired Baby Diapers, NUC Approves Anambra Medical University | Nov 21",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 135,
-      "expanded_url": "https://x.com/i/broadcasts/2OdVAeKllWMBVv",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2124111080322465792/y6e65-hT?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124111080322465792/y6e65-hT?format=jpg&name=150x150",
-        "width": 150
-       }
+      "id": "2124126103531090293",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 395,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "The World Governments Summit Dialogue for Latin America and the Caribbean - Day 2\nhttps://t.co/J0OodRbDse",
+      "url": "https://x.com/WorldGovSummit/status/2124126103531090293"
+    },
+    {
+      "author_id": "950380857545646080",
+      "created_at": "2026-11-21T11:58:33.000Z",
+      "edit_history_tweet_ids": [
+        "2124110214953615508"
       ],
-      "start": 112,
-      "status": 200,
-      "title": "Sapientia Radio & TV",
-      "unwound_url": "https://x.com/i/broadcasts/2OdVAeKllWMBVv",
-      "url": "https://t.co/zjhK1rV6Qz"
-     }
-    ]
-   },
-   "id": "2124111037758595543",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 92,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Nigeria News Today LIVE: NAFDAC Uncovers Expired Baby Diapers, NUC Approves Anambra Medical University | Nov 21 https://t.co/zjhK1rV6Qz",
-   "url": "https://x.com/mediasapientia/status/2124111037758595543"
-  },
-  {
-   "author_id": "804605049859145728",
-   "created_at": "2026-11-21T11:35:06.000Z",
-   "edit_history_tweet_ids": [
-    "2124104309642252749"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live Now",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 135,
-      "expanded_url": "https://x.com/i/broadcasts/2kEqeMmXMVgyKn",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2124104179002032128/6rHu1rUZ?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124104179002032128/6rHu1rUZ?format=jpg&name=150x150",
-        "width": 150
-       }
+      "id": "2124110214953615508",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "THE NEWS UNIT IS MONITORING NEWS, WEATHER, &amp; MOSTLY BROADCASTING THE HOLY BIBLE AKJV STUDY:  WE ARE ON THE STAND-BY FOR NOW:  #HBAVO #HBAVOSTUDY #NEWSUNIT #TRUMPMAGANEWS https://t.co/B5UDFlsxCM",
+      "url": "https://x.com/The_News_UNIT/status/2124110214953615508"
+    },
+    {
+      "author_id": "1999037304103723008",
+      "created_at": "2026-11-21T10:47:44.000Z",
+      "edit_history_tweet_ids": [
+        "2124092390638063795"
       ],
-      "start": 112,
-      "status": 200,
-      "title": "TRT World",
-      "unwound_url": "https://x.com/i/broadcasts/2kEqeMmXMVgyKn",
-      "url": "https://t.co/F72HQYtEwC"
-     }
-    ]
-   },
-   "id": "2124104309642252749",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1103,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "LIVE: Turkish President Recep Tayyip Erdogan speaks at opening ceremony of Gaziosmanpasa Courthouse in Istanbul https://t.co/F72HQYtEwC",
-   "url": "https://x.com/TRTWorldNow/status/2124104309642252749"
-  },
-  {
-   "author_id": "240265305",
-   "created_at": "2026-11-21T11:36:48.000Z",
-   "edit_history_tweet_ids": [
-    "2124104737868124596"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live Now",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 137,
-      "expanded_url": "https://x.com/i/broadcasts/2kEqeMmXMVgyKn",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2124104179002032128/6rHu1rUZ?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124104179002032128/6rHu1rUZ?format=jpg&name=150x150",
-        "width": 150
-       }
+      "id": "2124092390638063795",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "GrowthNow News LIVE ! https://t.co/Y8ag4pwZ6c",
+      "url": "https://x.com/growthnownews/status/2124092390638063795"
+    },
+    {
+      "author_id": "85814753",
+      "created_at": "2026-11-21T11:24:05.000Z",
+      "edit_history_tweet_ids": [
+        "2124101541078417481"
       ],
-      "start": 114,
-      "status": 200,
-      "title": "TRT World",
-      "unwound_url": "https://x.com/i/broadcasts/2kEqeMmXMVgyKn",
-      "url": "https://t.co/GuHcyv1Ebt"
-     }
-    ]
-   },
-   "id": "2124104737868124596",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1174,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🔴 LIVE: Turkish President Recep Tayyip Erdogan speaks at opening ceremony of Gaziosmanpasa Courthouse in Istanbul https://t.co/GuHcyv1Ebt",
-   "url": "https://x.com/anadoluagency/status/2124104737868124596"
-  },
-  {
-   "author_id": "935942321756966912",
-   "created_at": "2026-11-21T12:59:57.000Z",
-   "edit_history_tweet_ids": [
-    "2124125662990725202"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "BREAKING POINT WITH DAVID ZERE",
-      "display_url": "x.com/i/broadcasts/1…",
-      "end": 54,
-      "expanded_url": "https://x.com/i/broadcasts/1DXGyWjXQBNxM",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124125665557692416/FnNzxtFr?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124125665557692416/FnNzxtFr?format=jpg&name=150x150",
-        "width": 150
-       }
+      "id": "2124101541078417481",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 403,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Sandesh News https://t.co/YiZnGOodnd",
+      "url": "https://x.com/sandeshnews/status/2124101541078417481"
+    },
+    {
+      "author_id": "17680851",
+      "created_at": "2026-11-21T11:17:13.000Z",
+      "edit_history_tweet_ids": [
+        "2124099810655428952"
       ],
-      "start": 31,
-      "status": 200,
-      "title": "Real America's Voice (RAV)",
-      "unwound_url": "https://x.com/i/broadcasts/1DXGyWjXQBNxM",
-      "url": "https://t.co/28Th3xkv5A"
-     }
-    ]
-   },
-   "id": "2124125662990725202",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 2415,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 1,
-    "retweet_count": 1
-   },
-   "text": "BREAKING POINT WITH DAVID ZERE https://t.co/28Th3xkv5A",
-   "url": "https://x.com/RealAmVoice/status/2124125662990725202"
-  },
-  {
-   "author_id": "1326462342679441409",
-   "created_at": "2026-11-21T13:11:02.000Z",
-   "edit_history_tweet_ids": [
-    "2124128452596924643"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Seyed M. Marandi: BREAKING: Oil Tanker Ablaze Near Hormuz - U.S. & Israel Eye Iran Again",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 116,
-      "expanded_url": "https://x.com/i/broadcasts/2NgQMbgWnXnpqV",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124128495160774656/MOdL_XxC?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124128495160774656/MOdL_XxC?format=jpg&name=150x150",
-        "width": 150
-       }
+      "id": "2124099810655428952",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1277,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "TEAM NEWS LIVE: Norwich City vs Cardiff City https://t.co/0sZZzidNKN",
+      "url": "https://x.com/pinkun/status/2124099810655428952"
+    },
+    {
+      "author_id": "1929504281658298369",
+      "created_at": "2026-11-21T12:08:31.000Z",
+      "edit_history_tweet_ids": [
+        "2124112722258268378"
       ],
-      "start": 93,
-      "status": 200,
-      "title": "Dialogue works",
-      "unwound_url": "https://x.com/i/broadcasts/2NgQMbgWnXnpqV",
-      "url": "https://t.co/PIJQcM8rMQ"
-     }
-    ]
-   },
-   "id": "2124128452596924643",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 433,
-    "like_count": 13,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 4
-   },
-   "text": "Seyed M. Marandi: BREAKING: Oil Tanker Ablaze Near Hormuz - U.S. &amp; Israel Eye Iran Again https://t.co/PIJQcM8rMQ",
-   "url": "https://x.com/Dialogue_NRA/status/2124128452596924643"
-  },
-  {
-   "author_id": "191910024",
-   "created_at": "2026-11-21T13:15:36.000Z",
-   "edit_history_tweet_ids": [
-    "2124129604419953080"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "889b: Dr. Steve Turley - Trump TRIUMPHS at Shenzhen!!!",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 78,
-      "expanded_url": "https://x.com/i/broadcasts/2pedWvQaYRqnOo",
-      "start": 55,
-      "status": 200,
-      "title": "John R. Murphy",
-      "unwound_url": "https://x.com/i/broadcasts/2pedWvQaYRqnOo",
-      "url": "https://t.co/oBeS9lFsve"
-     }
-    ]
-   },
-   "id": "2124129604419953080",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 5,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "889b: Dr. Steve Turley - Trump TRIUMPHS at Shenzhen!!! https://t.co/oBeS9lFsve",
-   "url": "https://x.com/Mur_Tech/status/2124129604419953080"
-  }
- ],
- "users": [
-  {
-   "id": "2109787653625311234",
-   "name": "GTA Terminal",
-   "public_metrics": {
-    "followers_count": 14,
-    "following_count": 1,
-    "like_count": 17,
-    "listed_count": 0,
-    "media_count": 854,
-    "tweet_count": 1621
-   },
-   "username": "GTA_Terminal",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2217408934",
-   "name": "Mamta Painuly Kale",
-   "public_metrics": {
-    "followers_count": 47931,
-    "following_count": 765,
-    "like_count": 22293,
-    "listed_count": 30,
-    "media_count": 4517,
-    "tweet_count": 19696
-   },
-   "username": "mamta_kale",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "881731466",
-   "name": "World Governments Summit",
-   "public_metrics": {
-    "followers_count": 202698,
-    "following_count": 133,
-    "like_count": 1886,
-    "listed_count": 395,
-    "media_count": 6145,
-    "tweet_count": 13470
-   },
-   "username": "WorldGovSummit",
-   "verified": true,
-   "verified_type": "government"
-  },
-  {
-   "id": "2375935878",
-   "name": "BraveHeartNation",
-   "public_metrics": {
-    "followers_count": 3932,
-    "following_count": 1106,
-    "like_count": 1870,
-    "listed_count": 35,
-    "media_count": 3228,
-    "tweet_count": 15541
-   },
-   "username": "DocOfDetox",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "950380857545646080",
-   "name": "News UNIT",
-   "public_metrics": {
-    "followers_count": 332,
-    "following_count": 394,
-    "like_count": 99,
-    "listed_count": 4,
-    "media_count": 16538,
-    "tweet_count": 52942
-   },
-   "username": "The_News_UNIT",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "85814753",
-   "name": "Sandesh",
-   "public_metrics": {
-    "followers_count": 520337,
-    "following_count": 2,
-    "like_count": 1748,
-    "listed_count": 379,
-    "media_count": 227076,
-    "tweet_count": 467315
-   },
-   "username": "sandeshnews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1999037304103723008",
-   "name": "Growthnownews",
-   "public_metrics": {
-    "followers_count": 224,
-    "following_count": 13,
-    "like_count": 1082,
-    "listed_count": 3,
-    "media_count": 5361,
-    "tweet_count": 6858
-   },
-   "username": "growthnownews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "17680851",
-   "name": "The Pink Un",
-   "public_metrics": {
-    "followers_count": 32900,
-    "following_count": 521,
-    "like_count": 5119,
-    "listed_count": 288,
-    "media_count": 20592,
-    "tweet_count": 102532
-   },
-   "username": "pinkun",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1929504281658298369",
-   "name": "भारत अपडेट | Bharat Update",
-   "public_metrics": {
-    "followers_count": 436,
-    "following_count": 41,
-    "like_count": 823,
-    "listed_count": 0,
-    "media_count": 18338,
-    "tweet_count": 18519
-   },
-   "username": "BharatUpdate_x",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2107094653065449472",
-   "name": "FinVibe",
-   "public_metrics": {
-    "followers_count": 5,
-    "following_count": 0,
-    "like_count": 0,
-    "listed_count": 0,
-    "media_count": 391,
-    "tweet_count": 413
-   },
-   "username": "finvibelive",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "505519109",
-   "name": "Sapientia Radio & TV",
-   "public_metrics": {
-    "followers_count": 9070,
-    "following_count": 126,
-    "like_count": 2444,
-    "listed_count": 21,
-    "media_count": 1326,
-    "tweet_count": 11927
-   },
-   "username": "mediasapientia",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "804605049859145728",
-   "name": "TRT World Now",
-   "public_metrics": {
-    "followers_count": 298932,
-    "following_count": 21,
-    "like_count": 1,
-    "listed_count": 1516,
-    "media_count": 159683,
-    "tweet_count": 195249
-   },
-   "username": "TRTWorldNow",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
-   "id": "240265305",
-   "name": "Anadolu English",
-   "public_metrics": {
-    "followers_count": 319560,
-    "following_count": 21,
-    "like_count": 3,
-    "listed_count": 2990,
-    "media_count": 310415,
-    "tweet_count": 427655
-   },
-   "username": "anadoluagency",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
-   "id": "935942321756966912",
-   "name": "Real America's Voice (RAV)",
-   "public_metrics": {
-    "followers_count": 576371,
-    "following_count": 1927,
-    "like_count": 12128,
-    "listed_count": 1594,
-    "media_count": 87868,
-    "tweet_count": 139957
-   },
-   "username": "RealAmVoice",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
-   "id": "1326462342679441409",
-   "name": "Dialogue works",
-   "public_metrics": {
-    "followers_count": 19800,
-    "following_count": 83,
-    "like_count": 1099,
-    "listed_count": 167,
-    "media_count": 3328,
-    "tweet_count": 6695
-   },
-   "username": "Dialogue_NRA",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "191910024",
-   "name": "John R. Murphy",
-   "public_metrics": {
-    "followers_count": 191,
-    "following_count": 155,
-    "like_count": 3073,
-    "listed_count": 0,
-    "media_count": 773,
-    "tweet_count": 8798
-   },
-   "username": "Mur_Tech",
-   "verified": true,
-   "verified_type": "blue"
-  }
- ]
+      "id": "2124112722258268378",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Bharat Update News Live - 21  November  2026 LIVE https://t.co/bflAwL1K3a",
+      "url": "https://x.com/BharatUpdate_x/status/2124112722258268378"
+    },
+    {
+      "author_id": "2107094653065449472",
+      "created_at": "2026-11-21T12:13:22.000Z",
+      "edit_history_tweet_ids": [
+        "2124113942284755269"
+      ],
+      "id": "2124113942284755269",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Marcus live: markets, charts and the news · Saturday, November 21, 2026 https://t.co/E9pCzlu7fs",
+      "url": "https://x.com/finvibelive/status/2124113942284755269"
+    },
+    {
+      "author_id": "505519109",
+      "created_at": "2026-11-21T12:01:50.000Z",
+      "edit_history_tweet_ids": [
+        "2124111037758595543"
+      ],
+      "id": "2124111037758595543",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 98,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "Nigeria News Today LIVE: NAFDAC Uncovers Expired Baby Diapers, NUC Approves Anambra Medical University | Nov 21 https://t.co/zjhK1rV6Qz",
+      "url": "https://x.com/mediasapientia/status/2124111037758595543"
+    },
+    {
+      "author_id": "804605049859145728",
+      "created_at": "2026-11-21T11:35:06.000Z",
+      "edit_history_tweet_ids": [
+        "2124104309642252749"
+      ],
+      "id": "2124104309642252749",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1151,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "LIVE: Turkish President Recep Tayyip Erdogan speaks at opening ceremony of Gaziosmanpasa Courthouse in Istanbul https://t.co/F72HQYtEwC",
+      "url": "https://x.com/TRTWorldNow/status/2124104309642252749"
+    },
+    {
+      "author_id": "240265305",
+      "created_at": "2026-11-21T11:36:48.000Z",
+      "edit_history_tweet_ids": [
+        "2124104737868124596"
+      ],
+      "id": "2124104737868124596",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1226,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "🔴 LIVE: Turkish President Recep Tayyip Erdogan speaks at opening ceremony of Gaziosmanpasa Courthouse in Istanbul https://t.co/GuHcyv1Ebt",
+      "url": "https://x.com/anadoluagency/status/2124104737868124596"
+    },
+    {
+      "author_id": "935942321756966912",
+      "created_at": "2026-11-21T12:59:57.000Z",
+      "edit_history_tweet_ids": [
+        "2124125662990725202"
+      ],
+      "id": "2124125662990725202",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2947,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "text": "BREAKING POINT WITH DAVID ZERE https://t.co/28Th3xkv5A",
+      "url": "https://x.com/RealAmVoice/status/2124125662990725202"
+    },
+    {
+      "author_id": "1326462342679441409",
+      "created_at": "2026-11-21T13:11:02.000Z",
+      "edit_history_tweet_ids": [
+        "2124128452596924643"
+      ],
+      "id": "2124128452596924643",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 669,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 8
+      },
+      "text": "Seyed M. Marandi: BREAKING: Oil Tanker Ablaze Near Hormuz - U.S. &amp; Israel Eye Iran Again https://t.co/PIJQcM8rMQ",
+      "url": "https://x.com/Dialogue_NRA/status/2124128452596924643"
+    },
+    {
+      "author_id": "191910024",
+      "created_at": "2026-11-21T13:15:36.000Z",
+      "edit_history_tweet_ids": [
+        "2124129604419953080"
+      ],
+      "id": "2124129604419953080",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "889b: Dr. Steve Turley - Trump TRIUMPHS at Shenzhen!!! https://t.co/oBeS9lFsve",
+      "url": "https://x.com/Mur_Tech/status/2124129604419953080"
+    }
+  ],
+  "users": [
+    {
+      "id": "2109787653625311234",
+      "name": "GTA Terminal",
+      "public_metrics": {
+        "followers_count": 14,
+        "following_count": 1,
+        "like_count": 17,
+        "listed_count": 0,
+        "media_count": 855,
+        "tweet_count": 1622
+      },
+      "username": "GTA_Terminal",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "2217408934",
+      "name": "Mamta Painuly Kale",
+      "public_metrics": {
+        "followers_count": 47931,
+        "following_count": 765,
+        "like_count": 22293,
+        "listed_count": 30,
+        "media_count": 4517,
+        "tweet_count": 19696
+      },
+      "username": "mamta_kale",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "881731466",
+      "name": "World Governments Summit",
+      "public_metrics": {
+        "followers_count": 202701,
+        "following_count": 133,
+        "like_count": 1886,
+        "listed_count": 395,
+        "media_count": 6145,
+        "tweet_count": 13470
+      },
+      "username": "WorldGovSummit",
+      "verified": true,
+      "verified_type": "government"
+    },
+    {
+      "id": "2375935878",
+      "name": "BraveHeartNation",
+      "public_metrics": {
+        "followers_count": 3932,
+        "following_count": 1106,
+        "like_count": 1870,
+        "listed_count": 35,
+        "media_count": 3228,
+        "tweet_count": 15541
+      },
+      "username": "DocOfDetox",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "950380857545646080",
+      "name": "News UNIT",
+      "public_metrics": {
+        "followers_count": 332,
+        "following_count": 394,
+        "like_count": 99,
+        "listed_count": 4,
+        "media_count": 16538,
+        "tweet_count": 52942
+      },
+      "username": "The_News_UNIT",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "1999037304103723008",
+      "name": "Growthnownews",
+      "public_metrics": {
+        "followers_count": 224,
+        "following_count": 13,
+        "like_count": 1082,
+        "listed_count": 3,
+        "media_count": 5361,
+        "tweet_count": 6858
+      },
+      "username": "growthnownews",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "85814753",
+      "name": "Sandesh",
+      "public_metrics": {
+        "followers_count": 520337,
+        "following_count": 2,
+        "like_count": 1748,
+        "listed_count": 379,
+        "media_count": 227077,
+        "tweet_count": 467316
+      },
+      "username": "sandeshnews",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "17680851",
+      "name": "The Pink Un",
+      "public_metrics": {
+        "followers_count": 32900,
+        "following_count": 521,
+        "like_count": 5119,
+        "listed_count": 288,
+        "media_count": 20593,
+        "tweet_count": 102536
+      },
+      "username": "pinkun",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "1929504281658298369",
+      "name": "भारत अपडेट | Bharat Update",
+      "public_metrics": {
+        "followers_count": 436,
+        "following_count": 41,
+        "like_count": 823,
+        "listed_count": 0,
+        "media_count": 18338,
+        "tweet_count": 18519
+      },
+      "username": "BharatUpdate_x",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "2107094653065449472",
+      "name": "FinVibe",
+      "public_metrics": {
+        "followers_count": 5,
+        "following_count": 0,
+        "like_count": 0,
+        "listed_count": 0,
+        "media_count": 391,
+        "tweet_count": 413
+      },
+      "username": "finvibelive",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "505519109",
+      "name": "Sapientia Radio & TV",
+      "public_metrics": {
+        "followers_count": 9070,
+        "following_count": 126,
+        "like_count": 2444,
+        "listed_count": 21,
+        "media_count": 1326,
+        "tweet_count": 11927
+      },
+      "username": "mediasapientia",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "804605049859145728",
+      "name": "TRT World Now",
+      "public_metrics": {
+        "followers_count": 298933,
+        "following_count": 21,
+        "like_count": 1,
+        "listed_count": 1516,
+        "media_count": 159685,
+        "tweet_count": 195251
+      },
+      "username": "TRTWorldNow",
+      "verified": true,
+      "verified_type": "business"
+    },
+    {
+      "id": "240265305",
+      "name": "Anadolu English",
+      "public_metrics": {
+        "followers_count": 319554,
+        "following_count": 21,
+        "like_count": 3,
+        "listed_count": 2990,
+        "media_count": 310416,
+        "tweet_count": 427656
+      },
+      "username": "anadoluagency",
+      "verified": true,
+      "verified_type": "business"
+    },
+    {
+      "id": "935942321756966912",
+      "name": "Real America's Voice (RAV)",
+      "public_metrics": {
+        "followers_count": 576371,
+        "following_count": 1927,
+        "like_count": 12128,
+        "listed_count": 1594,
+        "media_count": 87868,
+        "tweet_count": 139958
+      },
+      "username": "RealAmVoice",
+      "verified": true,
+      "verified_type": "business"
+    },
+    {
+      "id": "1326462342679441409",
+      "name": "Dialogue works",
+      "public_metrics": {
+        "followers_count": 19800,
+        "following_count": 83,
+        "like_count": 1099,
+        "listed_count": 167,
+        "media_count": 3328,
+        "tweet_count": 6695
+      },
+      "username": "Dialogue_NRA",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "191910024",
+      "name": "John R. Murphy",
+      "public_metrics": {
+        "followers_count": 191,
+        "following_count": 155,
+        "like_count": 3073,
+        "listed_count": 0,
+        "media_count": 773,
+        "tweet_count": 8799
+      },
+      "username": "Mur_Tech",
+      "verified": true,
+      "verified_type": "blue"
+    }
+  ]
 }
