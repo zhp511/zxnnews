@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T13:31:32Z",
+ "fetched_at": "2026-11-21T14:37:29Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -541,115 +541,115 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2123802351358349316"
+     "post_id": "2123798615009144960"
     },
     {
-     "post_id": "2123638241387831622"
+     "post_id": "2123549977473327130"
     },
     {
-     "post_id": "2123626422879375562"
+     "post_id": "2123807868348424476"
     },
     {
-     "post_id": "2123638027620655433"
+     "post_id": "2123549977473327130"
     },
     {
-     "post_id": "2123860567568117805"
+     "post_id": "2123872309023047978"
     },
     {
-     "post_id": "2123878877974212911"
+     "post_id": "2123895044180676773"
     },
     {
-     "post_id": "2123805734571782317"
+     "post_id": "2124125122277572981"
     },
     {
-     "post_id": "2123884705888309705"
+     "post_id": "2123999616165458148"
     },
     {
-     "post_id": "2123927431879020647"
+     "post_id": "2123807868348424476"
     },
     {
-     "post_id": "2123811065695817749"
+     "post_id": "2123983161759535296"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "Speech to Incoming Freshman Democrats"
+     ],
+     "organizations": [
+      "Democratic Party"
+     ],
+     "people": [
+      "Barack Obama"
+     ],
+     "places": [
+      "House Chamber"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In a closed-door chat with freshmen House Democrats, Barack Obama celebrated their diverse backgrounds as America's true reflection, while pushing them to dream bigger on health care fixes.",
+   "id": "2123646549792346325",
+   "name": "Obama Urges New House Democrats to Push Boldly on Health Care",
+   "summary": "Moderated by Hakeem Jeffries, Obama contrasted the Democratic caucus's mix of races, regions, and ideas with a 'golf country club' on the Republican side, urging members to stay sharp, collaborate across divides, and deliver results. He called the Affordable Care Act a patched-together system and advised going beyond restoring subsidies to push for more ambitious reforms like expanded Medicare. Reactions split, with advocates energized and critics decrying the diversity comments as divisive.",
+   "updated_at": "2026-11-21T13:17:15.000Z",
+   "url": "https://x.com/i/trending/2123646549792346325"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123858252635259173"
+    },
+    {
+     "post_id": "2123900150011531282"
+    },
+    {
+     "post_id": "2123883824987926750"
+    },
+    {
+     "post_id": "2123867609179594956"
+    },
+    {
+     "post_id": "2123858252635259173"
+    },
+    {
+     "post_id": "2123883824987926750"
+    },
+    {
+     "post_id": "2123900150011531282"
+    },
+    {
+     "post_id": "2123889183177461860"
+    },
+    {
+     "post_id": "2123867609179594956"
+    },
+    {
+     "post_id": "2123883081111416927"
     }
    ],
    "contexts": {
     "entities": {
      "events": [],
      "organizations": [
-      "SiriusXM"
+      "Zeteo News"
      ],
      "people": [
-      "Stephen A. Smith"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Stephen A. Smith, a longtime Democrat voter, didn't hold back: he sees immigration as a calculated move to build a new voting base and ease reliance on Black support.",
-   "id": "2123699515995627937",
-   "name": "Stephen A. Smith Claims Democrats Use Immigration to Secure New Voting Bloc",
-   "summary": "In a widely shared clip, the ESPN personality warned that Democrats' approach shows the same arrogance that has frustrated Black communities, potentially reducing their political leverage. A Black resident in Philadelphia echoed this during a November 18 city council meeting, voicing concerns that newcomers could sideline longstanding neighborhood priorities like housing and schools. Broader shifts, such as Compton's Black population declining amid a rise in Hispanic residents from 3.5% in 1950 to over 70% by 2020, add context to discussions about changing voter influence and resource competition in cities facing migrant strains.",
-   "updated_at": "2026-11-21T05:11:26.000Z",
-   "url": "https://x.com/i/trending/2123699515995627937"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123790610335399966"
-    },
-    {
-     "post_id": "2123805433336852614"
-    },
-    {
-     "post_id": "2123821845543604402"
-    },
-    {
-     "post_id": "2123869325555642742"
-    },
-    {
-     "post_id": "2123805433336852614"
-    },
-    {
-     "post_id": "2123790610335399966"
-    },
-    {
-     "post_id": "2123869325555642742"
-    },
-    {
-     "post_id": "2123933018691961278"
-    },
-    {
-     "post_id": "2123824248967835772"
-    },
-    {
-     "post_id": "2123875469472965031"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "Recent Election Victory"
-     ],
-     "organizations": [
-      "Democrats",
-      "Senate",
-      "Supreme Court"
-     ],
-     "people": [
-      "Steve Forbes"
+      "Darializa"
      ],
      "places": [
-      "Senate"
+      "New York"
      ],
      "products": []
     },
@@ -664,12 +664,12 @@
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Democrats just grabbed their biggest Senate majority in nearly 20 years, flipping nine seats. Yet online talk quickly turned to whether 56 is enough or if they need 60 to get things done.",
-   "id": "2123882591036318199",
-   "name": "Democrats' 56-44 Senate Win Sparks Filibuster Debate",
-   "summary": "The 2026 midterms gave Democrats a 56-44 edge, their largest in almost two decades, but Senate rules still demand 60 votes to end debate on most bills. Neera Tanden called for pushing to 60 seats by 2028 for a filibuster-proof majority, drawing replies like one with 24,000 likes mocking the party for already claiming limits. Critics say Democrats could reform or end the filibuster with a simple majority on day one, while others defend the 60-vote reality; Republicans call retaking the chamber a steep challenge.",
-   "updated_at": "2026-11-21T04:22:56.000Z",
-   "url": "https://x.com/i/trending/2123882591036318199"
+   "hook": "Fresh off her primary upset, 32-year-old Rep.-elect Darializa Avila Chevalier called out corporate capture of the House speakership in a recent interview. Her bold stance drew cheers and criticism alike.",
+   "id": "2123914552073212094",
+   "name": "Rep.-Elect Chevalier Challenges Corporate Grip on House Speakership",
+   "summary": "Chevalier, a Democratic Socialist who defeated longtime incumbent Adriano Espaillat to win New York's 13th Congressional District, was one of 11 Democrats who voted against nominating Hakeem Jeffries as speaker in a 251-11 closed-door tally. The Ph.D. student and former public defender's office investigator argued that party leadership must take concrete actions to rebuild voter trust amid fragile faith in institutions. Her comments spotlight tensions in the Democratic Party between progressives seeking campaign finance reform and those favoring unity, as Democrats gear up to control the House with a large majority starting January 3, 2027.",
+   "updated_at": "2026-11-21T02:07:16.000Z",
+   "url": "https://x.com/i/trending/2123914552073212094"
   }
  ]
 }
