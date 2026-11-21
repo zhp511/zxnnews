@@ -1,675 +1,672 @@
 {
- "fetched_at": "2026-11-21T14:37:29Z",
- "tool": "x.search_news",
- "args": {
-  "query": "US politics",
-  "max_results": 10,
-  "max_age_hours": 24,
-  "news.fields": [
-   "name",
-   "summary",
-   "hook",
-   "category",
-   "updated_at",
-   "contexts",
-   "cluster_posts_results"
+  "fetched_at": "2026-11-21T15:50:13Z",
+  "tool": "x.search_news",
+  "args": {
+    "query": "US politics",
+    "max_results": 10,
+    "max_age_hours": 24,
+    "news.fields": [
+      "name",
+      "summary",
+      "hook",
+      "category",
+      "updated_at",
+      "contexts",
+      "cluster_posts_results"
+    ]
+  },
+  "data": [
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2123928497605181739"
+        },
+        {
+          "post_id": "2123849552025272694"
+        },
+        {
+          "post_id": "2123849438502551813"
+        },
+        {
+          "post_id": "2123928497605181739"
+        },
+        {
+          "post_id": "2123901971044479170"
+        },
+        {
+          "post_id": "2123898720668516461"
+        },
+        {
+          "post_id": "2123922993805955443"
+        },
+        {
+          "post_id": "2123916529045528801"
+        },
+        {
+          "post_id": "2123962129250500829"
+        },
+        {
+          "post_id": "2123899201302213038"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [
+            "U.S. presidential election"
+          ],
+          "organizations": [
+            "Democrats",
+            "Republicans"
+          ],
+          "people": [
+            "Donald Trump"
+          ],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "News",
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Two years into Donald Trump's second term, polls show only 17% of Americans believe kids will have it better than their parents—a stark sign of economic unease.",
+      "id": "2123972008841191716",
+      "name": "Debate Intensifies Over Trump's Affordability Crisis Claims",
+      "summary": "Social media users fiercely debate whether high costs for gas, groceries, and housing stem from Trump policies like tariffs or lingering Biden-era inflation. Trump counters that his administration inherited the problem and has lowered prices through tax cuts and energy boosts, while critics blame him for ongoing 3.7% inflation above Fed targets. Midterm losses handed Democrats House and Senate control, driven by voter frustration over living costs as the top issue.",
+      "updated_at": "2026-11-21T02:54:42.000Z",
+      "url": "https://x.com/i/trending/2123972008841191716"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2123811325281488979"
+        },
+        {
+          "post_id": "2123787766613893429"
+        },
+        {
+          "post_id": "2123840362628227518"
+        },
+        {
+          "post_id": "2123895752170590255"
+        },
+        {
+          "post_id": "2123811325281488979"
+        },
+        {
+          "post_id": "2123901905147699401"
+        },
+        {
+          "post_id": "2123840362628227518"
+        },
+        {
+          "post_id": "2123879139212226958"
+        },
+        {
+          "post_id": "2123885271557238919"
+        },
+        {
+          "post_id": "2123841595175055647"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [],
+          "organizations": [
+            "House Democrats"
+          ],
+          "people": [],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "House Democrats pledged lower costs and an end to foreign wars, but a stark graphic of soaring prices under the prior administration drew swift pushback from skeptics.",
+      "id": "2123911543431811467",
+      "name": "House Democrats Promise Lower Costs and Peace Amid Price Rise Backlash",
+      "summary": "Democrats highlighted Republican chaos while promising affordable healthcare and lower costs, alongside claims that they would end what they called Donald Trump's 265-day war with Iran. A Fox Business graphic detailed sharp increases from January 2021 to May 2024, including 20.1% overall inflation, 35.3% home prices, 148% mortgage rates, 46% gas, and 21.5% food prices—figures backed by Bureau of Labor Statistics and USDA data. Critics replied by tying the promises to past Democratic records on inflation, borders, and foreign funding, questioning their credibility in the heated exchange.",
+      "updated_at": "2026-11-20T22:57:43.000Z",
+      "url": "https://x.com/i/trending/2123911543431811467"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2123928497605181739"
+        },
+        {
+          "post_id": "2123849552025272694"
+        },
+        {
+          "post_id": "2123849438502551813"
+        },
+        {
+          "post_id": "2123930652143923687"
+        },
+        {
+          "post_id": "2123899052181839972"
+        },
+        {
+          "post_id": "2123928497605181739"
+        },
+        {
+          "post_id": "2123936983374610436"
+        },
+        {
+          "post_id": "2123954954876657705"
+        },
+        {
+          "post_id": "2123899052181839972"
+        },
+        {
+          "post_id": "2123905480980308348"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [
+            "U.S. Midterm Elections",
+            "Trump's war with Iran"
+          ],
+          "organizations": [],
+          "people": [
+            "President Trump"
+          ],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Only 17% of adults believe today's children will have it better than their parents, capturing deep economic unease across the board.",
+      "id": "2123973944667673026",
+      "name": "Americans Split on Affordability Crisis Amid Rising Inflation",
+      "summary": "President Trump blames high prices on the prior Biden administration, claiming they are now way down, while supporters argue an information operation misled voters on affordability. Critics point to Trump's tariffs and the ongoing Iran conflict, which spiked energy prices with gasoline up 9.1% in September as inflation hit 3.7%. A post-election survey showed voters more likely to blame tariffs than the war itself, reflecting divided views on groceries, energy, and housing costs.",
+      "updated_at": "2026-11-21T03:02:50.000Z",
+      "url": "https://x.com/i/trending/2123973944667673026"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2123776973705228320"
+        },
+        {
+          "post_id": "2123795961218773499"
+        },
+        {
+          "post_id": "2123831194512920910"
+        },
+        {
+          "post_id": "2123847465816461741"
+        },
+        {
+          "post_id": "2123776973705228320"
+        },
+        {
+          "post_id": "2123806906397721064"
+        },
+        {
+          "post_id": "2123795961218773499"
+        },
+        {
+          "post_id": "2123831194512920910"
+        },
+        {
+          "post_id": "2123809310774046945"
+        },
+        {
+          "post_id": "2123816945724350966"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [],
+          "organizations": [
+            "New York Times"
+          ],
+          "people": [
+            "John Cornyn"
+          ],
+          "places": [
+            "Texas"
+          ],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Texas Senator John Cornyn shared a New York Times piece celebrating the state's Democratic shift, right after major election losses for Republicans.",
+      "id": "2123863179252150575",
+      "name": "Cornyn Faces Conservative Backlash for Sharing Texas 'Bluer' Article",
+      "summary": "In the wake of November 2026 elections where Democrats flipped Texas's U.S. Senate seat, governor's office, and other key positions, Cornyn posted a Times article titled 'Whatever You Thought Texas Was, It’s Bigger and Bluer Than That.' Conservatives online quickly called it petty, labeling him a sore loser after his earlier losses: a 2026 primary defeat to Ken Paxton and a failed 2024 bid for Senate Republican leader against John Thune. The backlash highlighted growing questions about Cornyn's ties to the Texas GOP base as his term ends, even as he continues work like co-chairing the Senate India Caucus.",
+      "updated_at": "2026-11-20T22:23:18.000Z",
+      "url": "https://x.com/i/trending/2123863179252150575"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2123782030777516186"
+        },
+        {
+          "post_id": "2123782972776018282"
+        },
+        {
+          "post_id": "2123833461936996757"
+        },
+        {
+          "post_id": "2123532931042091249"
+        },
+        {
+          "post_id": "2123441475727856013"
+        },
+        {
+          "post_id": "2123833461936996757"
+        },
+        {
+          "post_id": "2123782972776018282"
+        },
+        {
+          "post_id": "2123769652169912789"
+        },
+        {
+          "post_id": "2123782030777516186"
+        },
+        {
+          "post_id": "2123819988318552365"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [],
+          "organizations": [
+            "Senate",
+            "Taliban"
+          ],
+          "people": [
+            "Donald Trump",
+            "John Thune"
+          ],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "With just 44 days left before Democrats take the Senate majority, Speaker Mike Johnson is calling every Republican back to Washington—except for serious medical issues—to push through key bills.",
+      "id": "2123261730273083413",
+      "name": "GOP Tensions Rise as Congress Nears End with Johnson Urging Attendance",
+      "summary": "Johnson's November 20 letter highlights the House passing over 1,000 measures while Senate Democrats blocked nearly 700, stressing the need to advance government funding, the NDAA, and more before January. Conservatives are voicing frustration at Senate Majority Leader John Thune, with President Trump blaming him for stalling military funding and air traffic control reforms, and a White House official citing a held-up $350 billion Pentagon boost. Meanwhile, Rep. Tim Burchett announced his 2028 Senate run in Tennessee, polling strongly and drawing cheers as a conservative fighter. These moves underscore Republican pressure to act aggressively in their final weeks of unified control.",
+      "updated_at": "2026-11-21T02:14:06.000Z",
+      "url": "https://x.com/i/trending/2123261730273083413"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2123962458805022889"
+        },
+        {
+          "post_id": "2123914214989316133"
+        },
+        {
+          "post_id": "2123906354511323563"
+        },
+        {
+          "post_id": "2123912397283037330"
+        },
+        {
+          "post_id": "2123950124246106232"
+        },
+        {
+          "post_id": "2123975316393623815"
+        },
+        {
+          "post_id": "2123946432390439155"
+        },
+        {
+          "post_id": "2123963296818847816"
+        },
+        {
+          "post_id": "2123909012282290552"
+        },
+        {
+          "post_id": "2123921440005038329"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [],
+          "organizations": [],
+          "people": [
+            "Thom Tillis",
+            "John Cornyn"
+          ],
+          "places": [
+            "North Carolina"
+          ],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "In his final weeks as a senator, Thom Tillis is drawing fire from fellow conservatives for a bill they say hands Democrats a win by crippling lawsuits against banks.",
+      "id": "2123976072660230298",
+      "name": "Conservatives Blast Sen. Tillis Over Litigation Funding Tax Bill",
+      "summary": "The Tackling Predatory Litigation Funding Act would slap a 40.8% excise tax on third-party lawsuit financing, which critics like former Justice official Chad Mizelle argue would gut funding for conservative legal battles over debanking by big banks. Figures such as Laura Ingraham and Riley Gaines voiced frustration, with Gaines stressing the need for tools to hold banks accountable, while North Carolina locals called Tillis an embarrassment. Tillis defends the bill as curbing abusive practices and has backed separate anti-debanking measures, but the backlash has Republicans urging leadership to block it before year's end amid his lame-duck retirement.",
+      "updated_at": "2026-11-21T03:10:23.000Z",
+      "url": "https://x.com/i/trending/2123976072660230298"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2123490543489650688"
+        },
+        {
+          "post_id": "2123489118642659662"
+        },
+        {
+          "post_id": "2123473029778796837"
+        },
+        {
+          "post_id": "2123490549931897191"
+        },
+        {
+          "post_id": "2123489931544912375"
+        },
+        {
+          "post_id": "2123490543489650688"
+        },
+        {
+          "post_id": "2123489118642659662"
+        },
+        {
+          "post_id": "2123473029778796837"
+        },
+        {
+          "post_id": "2123490541216129329"
+        },
+        {
+          "post_id": "2123489931544912375"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [
+            "2026 midterms",
+            "2024 election"
+          ],
+          "organizations": [
+            "GOP",
+            "Democrats"
+          ],
+          "people": [],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Young men who powered Trump's 2024 win largely stayed home or backed Democrats in the 2026 midterms, driving a Democratic surge across states.",
+      "id": "2123526962320728154",
+      "name": "Young Trump Voters Swing to Democrats in 2026 Midterms",
+      "summary": "Post-election analysis shows that of every 100 Trump 2024 voters, 63 voted Republican, 4 switched to Democrats, and 33 stayed home—while Harris voters turned out at 85% for Democrats. Young men ages 18-29 led the shift, moving left in every state's House races and key Senate contests, with non-college men swinging 64-77 points against Republicans in Texas, South Carolina, and Mississippi. Republicans highlight turnout drops among young, non-college, Hispanic, and rural voters as the key factor, amid economic pressures like higher gas prices. Both parties see these fluid voters as up for grabs in future races.",
+      "updated_at": "2026-11-20T20:37:00.000Z",
+      "url": "https://x.com/i/trending/2123526962320728154"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2124025670976319652"
+        },
+        {
+          "post_id": "2124024386810462626"
+        },
+        {
+          "post_id": "2124112852042555869"
+        },
+        {
+          "post_id": "2124101256473944211"
+        },
+        {
+          "post_id": "2124057729547538883"
+        },
+        {
+          "post_id": "2124025670976319652"
+        },
+        {
+          "post_id": "2123985790049157264"
+        },
+        {
+          "post_id": "2123974792533475591"
+        },
+        {
+          "post_id": "2124112852042555869"
+        },
+        {
+          "post_id": "2124024386810462626"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [
+            "2026 elections"
+          ],
+          "organizations": [
+            "Senate GOP"
+          ],
+          "people": [
+            "John Thune"
+          ],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "MAGA supporters vented raw frustration at Senate Majority Leader John Thune, blaming him for blocking key bills and nominees in the final weeks of GOP control.",
+      "id": "2123979804773072923",
+      "name": "Senate Republicans Face Base Backlash Over Thune's Stalled Priorities",
+      "summary": "After Democrats won Senate majorities with a 56-44 edge following midterms, Republicans drew sharp criticism from their base for inaction on priorities like the SAVE America Act, which requires proof of citizenship for voter registration and passed the House multiple times but stalled in the Senate. Posts highlighted over 700 House-passed bills sitting idle and slow progress on 171 Trump nominees, with one user noting just one judge confirmed last week. Critics called Thune the worst GOP leader in history or a traitor, while he defended regular order amid narrow margins; petitions now demand a no-confidence vote as Democrats prepare to take control in January.",
+      "updated_at": "2026-11-21T14:20:20.000Z",
+      "url": "https://x.com/i/trending/2123979804773072923"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2123905156295352461"
+        },
+        {
+          "post_id": "2124144318793257002"
+        },
+        {
+          "post_id": "2124107652410011715"
+        },
+        {
+          "post_id": "2124131494822314357"
+        },
+        {
+          "post_id": "2124111427766308888"
+        },
+        {
+          "post_id": "2124135766611878135"
+        },
+        {
+          "post_id": "2124146182666780856"
+        },
+        {
+          "post_id": "2124148740696986110"
+        },
+        {
+          "post_id": "2124151307111993345"
+        },
+        {
+          "post_id": "2124111803001270778"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [],
+          "organizations": [],
+          "people": [
+            "Donald Trump"
+          ],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "A cheeky tweet pictures a wild twist: Trump ready to pass Medicare for All, only for Hakeem Jeffries to block it. The idea hit a nerve amid fresh midterm shifts.",
+      "id": "2124164853401055574",
+      "name": "Satirical Tweet Imagines Trump Backing Medicare for All as Jeffries Says No",
+      "summary": "The post by @ostonox, racking up tens of thousands of likes, pokes at Trump's recent talk of 'great healthcare' teamwork with Democrats, who now control Congress from January 2026. Jeffries favors smaller steps like lowering Medicare's age and adding dental coverage, but not full single-payer that scraps most private insurance. Critics like Neera Tanden dismissed it as another Trump feint, citing his ACA repeal efforts, while others saw it as satire spotlighting left-wing strategy debates. Experts note big reforms face vetoes and filibusters, with incremental changes gaining traction.",
+      "updated_at": "2026-11-21T15:42:08.000Z",
+      "url": "https://x.com/i/trending/2124164853401055574"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2123858252635259173"
+        },
+        {
+          "post_id": "2123900150011531282"
+        },
+        {
+          "post_id": "2123883824987926750"
+        },
+        {
+          "post_id": "2123867609179594956"
+        },
+        {
+          "post_id": "2123858252635259173"
+        },
+        {
+          "post_id": "2123883824987926750"
+        },
+        {
+          "post_id": "2123900150011531282"
+        },
+        {
+          "post_id": "2123889183177461860"
+        },
+        {
+          "post_id": "2123867609179594956"
+        },
+        {
+          "post_id": "2123883081111416927"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [],
+          "organizations": [
+            "Zeteo News"
+          ],
+          "people": [
+            "Darializa"
+          ],
+          "places": [
+            "New York"
+          ],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Fresh off her primary upset, 32-year-old Rep.-elect Darializa Avila Chevalier called out corporate capture of the House speakership in a recent interview. Her bold stance drew cheers and criticism alike.",
+      "id": "2123914552073212094",
+      "name": "Rep.-Elect Chevalier Challenges Corporate Grip on House Speakership",
+      "summary": "Chevalier, a Democratic Socialist who defeated longtime incumbent Adriano Espaillat to win New York's 13th Congressional District, was one of 11 Democrats who voted against nominating Hakeem Jeffries as speaker in a 251-11 closed-door tally. The Ph.D. student and former public defender's office investigator argued that party leadership must take concrete actions to rebuild voter trust amid fragile faith in institutions. Her comments spotlight tensions in the Democratic Party between progressives seeking campaign finance reform and those favoring unity, as Democrats gear up to control the House with a large majority starting January 3, 2027.",
+      "updated_at": "2026-11-21T02:07:16.000Z",
+      "url": "https://x.com/i/trending/2123914552073212094"
+    }
   ]
- },
- "data": [
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123928497605181739"
-    },
-    {
-     "post_id": "2123849552025272694"
-    },
-    {
-     "post_id": "2123849438502551813"
-    },
-    {
-     "post_id": "2123928497605181739"
-    },
-    {
-     "post_id": "2123901971044479170"
-    },
-    {
-     "post_id": "2123898720668516461"
-    },
-    {
-     "post_id": "2123922993805955443"
-    },
-    {
-     "post_id": "2123916529045528801"
-    },
-    {
-     "post_id": "2123962129250500829"
-    },
-    {
-     "post_id": "2123899201302213038"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "U.S. presidential election"
-     ],
-     "organizations": [
-      "Democrats",
-      "Republicans"
-     ],
-     "people": [
-      "Donald Trump"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "News",
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Two years into Donald Trump's second term, polls show only 17% of Americans believe kids will have it better than their parents—a stark sign of economic unease.",
-   "id": "2123972008841191716",
-   "name": "Debate Intensifies Over Trump's Affordability Crisis Claims",
-   "summary": "Social media users fiercely debate whether high costs for gas, groceries, and housing stem from Trump policies like tariffs or lingering Biden-era inflation. Trump counters that his administration inherited the problem and has lowered prices through tax cuts and energy boosts, while critics blame him for ongoing 3.7% inflation above Fed targets. Midterm losses handed Democrats House and Senate control, driven by voter frustration over living costs as the top issue.",
-   "updated_at": "2026-11-21T02:54:42.000Z",
-   "url": "https://x.com/i/trending/2123972008841191716"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123811325281488979"
-    },
-    {
-     "post_id": "2123787766613893429"
-    },
-    {
-     "post_id": "2123840362628227518"
-    },
-    {
-     "post_id": "2123895752170590255"
-    },
-    {
-     "post_id": "2123811325281488979"
-    },
-    {
-     "post_id": "2123901905147699401"
-    },
-    {
-     "post_id": "2123840362628227518"
-    },
-    {
-     "post_id": "2123879139212226958"
-    },
-    {
-     "post_id": "2123885271557238919"
-    },
-    {
-     "post_id": "2123841595175055647"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "House Democrats"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "House Democrats pledged lower costs and an end to foreign wars, but a stark graphic of soaring prices under the prior administration drew swift pushback from skeptics.",
-   "id": "2123911543431811467",
-   "name": "House Democrats Promise Lower Costs and Peace Amid Price Rise Backlash",
-   "summary": "Democrats highlighted Republican chaos while promising affordable healthcare and lower costs, alongside claims that they would end what they called Donald Trump's 265-day war with Iran. A Fox Business graphic detailed sharp increases from January 2021 to May 2024, including 20.1% overall inflation, 35.3% home prices, 148% mortgage rates, 46% gas, and 21.5% food prices—figures backed by Bureau of Labor Statistics and USDA data. Critics replied by tying the promises to past Democratic records on inflation, borders, and foreign funding, questioning their credibility in the heated exchange.",
-   "updated_at": "2026-11-20T22:57:43.000Z",
-   "url": "https://x.com/i/trending/2123911543431811467"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123928497605181739"
-    },
-    {
-     "post_id": "2123849552025272694"
-    },
-    {
-     "post_id": "2123849438502551813"
-    },
-    {
-     "post_id": "2123930652143923687"
-    },
-    {
-     "post_id": "2123899052181839972"
-    },
-    {
-     "post_id": "2123928497605181739"
-    },
-    {
-     "post_id": "2123936983374610436"
-    },
-    {
-     "post_id": "2123954954876657705"
-    },
-    {
-     "post_id": "2123899052181839972"
-    },
-    {
-     "post_id": "2123905480980308348"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "U.S. Midterm Elections",
-      "Trump's war with Iran"
-     ],
-     "organizations": [],
-     "people": [
-      "President Trump"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Only 17% of adults believe today's children will have it better than their parents, capturing deep economic unease across the board.",
-   "id": "2123973944667673026",
-   "name": "Americans Split on Affordability Crisis Amid Rising Inflation",
-   "summary": "President Trump blames high prices on the prior Biden administration, claiming they are now way down, while supporters argue an information operation misled voters on affordability. Critics point to Trump's tariffs and the ongoing Iran conflict, which spiked energy prices with gasoline up 9.1% in September as inflation hit 3.7%. A post-election survey showed voters more likely to blame tariffs than the war itself, reflecting divided views on groceries, energy, and housing costs.",
-   "updated_at": "2026-11-21T03:02:50.000Z",
-   "url": "https://x.com/i/trending/2123973944667673026"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123776973705228320"
-    },
-    {
-     "post_id": "2123795961218773499"
-    },
-    {
-     "post_id": "2123831194512920910"
-    },
-    {
-     "post_id": "2123847465816461741"
-    },
-    {
-     "post_id": "2123776973705228320"
-    },
-    {
-     "post_id": "2123806906397721064"
-    },
-    {
-     "post_id": "2123795961218773499"
-    },
-    {
-     "post_id": "2123831194512920910"
-    },
-    {
-     "post_id": "2123809310774046945"
-    },
-    {
-     "post_id": "2123816945724350966"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "New York Times"
-     ],
-     "people": [
-      "John Cornyn"
-     ],
-     "places": [
-      "Texas"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Texas Senator John Cornyn shared a New York Times piece celebrating the state's Democratic shift, right after major election losses for Republicans.",
-   "id": "2123863179252150575",
-   "name": "Cornyn Faces Conservative Backlash for Sharing Texas 'Bluer' Article",
-   "summary": "In the wake of November 2026 elections where Democrats flipped Texas's U.S. Senate seat, governor's office, and other key positions, Cornyn posted a Times article titled 'Whatever You Thought Texas Was, It’s Bigger and Bluer Than That.' Conservatives online quickly called it petty, labeling him a sore loser after his earlier losses: a 2026 primary defeat to Ken Paxton and a failed 2024 bid for Senate Republican leader against John Thune. The backlash highlighted growing questions about Cornyn's ties to the Texas GOP base as his term ends, even as he continues work like co-chairing the Senate India Caucus.",
-   "updated_at": "2026-11-20T22:23:18.000Z",
-   "url": "https://x.com/i/trending/2123863179252150575"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123782030777516186"
-    },
-    {
-     "post_id": "2123782972776018282"
-    },
-    {
-     "post_id": "2123833461936996757"
-    },
-    {
-     "post_id": "2123532931042091249"
-    },
-    {
-     "post_id": "2123441475727856013"
-    },
-    {
-     "post_id": "2123833461936996757"
-    },
-    {
-     "post_id": "2123782972776018282"
-    },
-    {
-     "post_id": "2123769652169912789"
-    },
-    {
-     "post_id": "2123782030777516186"
-    },
-    {
-     "post_id": "2123819988318552365"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Senate",
-      "Taliban"
-     ],
-     "people": [
-      "Donald Trump",
-      "John Thune"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "With just 44 days left before Democrats take the Senate majority, Speaker Mike Johnson is calling every Republican back to Washington—except for serious medical issues—to push through key bills.",
-   "id": "2123261730273083413",
-   "name": "GOP Tensions Rise as Congress Nears End with Johnson Urging Attendance",
-   "summary": "Johnson's November 20 letter highlights the House passing over 1,000 measures while Senate Democrats blocked nearly 700, stressing the need to advance government funding, the NDAA, and more before January. Conservatives are voicing frustration at Senate Majority Leader John Thune, with President Trump blaming him for stalling military funding and air traffic control reforms, and a White House official citing a held-up $350 billion Pentagon boost. Meanwhile, Rep. Tim Burchett announced his 2028 Senate run in Tennessee, polling strongly and drawing cheers as a conservative fighter. These moves underscore Republican pressure to act aggressively in their final weeks of unified control.",
-   "updated_at": "2026-11-21T02:14:06.000Z",
-   "url": "https://x.com/i/trending/2123261730273083413"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123895330517266943"
-    },
-    {
-     "post_id": "2123945730868154673"
-    },
-    {
-     "post_id": "2123998391294419250"
-    },
-    {
-     "post_id": "2123988791996072404"
-    },
-    {
-     "post_id": "2123945730868154673"
-    },
-    {
-     "post_id": "2123998363557548043"
-    },
-    {
-     "post_id": "2123998391294419250"
-    },
-    {
-     "post_id": "2123992005462151503"
-    },
-    {
-     "post_id": "2124019569526292513"
-    },
-    {
-     "post_id": "2123988791996072404"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [
-      "Bill Mitchell"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics",
-     "Stocks"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Right after Democrats flipped Congress on November 3, Wall Street tanked — and online claims rushed to pin it on them, only for quick corrections to highlight the real timeline.",
-   "id": "2124061732968575274",
-   "name": "Wall Street Drop Sparks Blame Game Over Democrat Wins",
-   "summary": "Gunther Eagleman and Bill Mitchell blamed Democrats for the November 20 plunge, where the Nasdaq fell 5.3 percent, erasing 2026 gains, the S&P 500 dropped 3.7 percent, and the Dow lost nearly 950 points. Users like Being J Wood and Tiffany Willis Clark pushed back, noting Democrats don't take office until January 3, 2027, with Republicans still in control. Analysts pointed to an AI trade unwind, including Nvidia troubles, Anthropic IPO fallout, and Fed rate hike fears, as the true drivers behind the Nasdaq's worst week since early COVID.",
-   "updated_at": "2026-11-21T08:51:13.000Z",
-   "url": "https://x.com/i/trending/2124061732968575274"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123962458805022889"
-    },
-    {
-     "post_id": "2123914214989316133"
-    },
-    {
-     "post_id": "2123906354511323563"
-    },
-    {
-     "post_id": "2123912397283037330"
-    },
-    {
-     "post_id": "2123950124246106232"
-    },
-    {
-     "post_id": "2123975316393623815"
-    },
-    {
-     "post_id": "2123946432390439155"
-    },
-    {
-     "post_id": "2123963296818847816"
-    },
-    {
-     "post_id": "2123909012282290552"
-    },
-    {
-     "post_id": "2123921440005038329"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [
-      "Thom Tillis",
-      "John Cornyn"
-     ],
-     "places": [
-      "North Carolina"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "In his final weeks as a senator, Thom Tillis is drawing fire from fellow conservatives for a bill they say hands Democrats a win by crippling lawsuits against banks.",
-   "id": "2123976072660230298",
-   "name": "Conservatives Blast Sen. Tillis Over Litigation Funding Tax Bill",
-   "summary": "The Tackling Predatory Litigation Funding Act would slap a 40.8% excise tax on third-party lawsuit financing, which critics like former Justice official Chad Mizelle argue would gut funding for conservative legal battles over debanking by big banks. Figures such as Laura Ingraham and Riley Gaines voiced frustration, with Gaines stressing the need for tools to hold banks accountable, while North Carolina locals called Tillis an embarrassment. Tillis defends the bill as curbing abusive practices and has backed separate anti-debanking measures, but the backlash has Republicans urging leadership to block it before year's end amid his lame-duck retirement.",
-   "updated_at": "2026-11-21T03:10:23.000Z",
-   "url": "https://x.com/i/trending/2123976072660230298"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123490543489650688"
-    },
-    {
-     "post_id": "2123489118642659662"
-    },
-    {
-     "post_id": "2123473029778796837"
-    },
-    {
-     "post_id": "2123490549931897191"
-    },
-    {
-     "post_id": "2123489931544912375"
-    },
-    {
-     "post_id": "2123490543489650688"
-    },
-    {
-     "post_id": "2123489118642659662"
-    },
-    {
-     "post_id": "2123473029778796837"
-    },
-    {
-     "post_id": "2123490541216129329"
-    },
-    {
-     "post_id": "2123489931544912375"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "2026 midterms",
-      "2024 election"
-     ],
-     "organizations": [
-      "GOP",
-      "Democrats"
-     ],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Young men who powered Trump's 2024 win largely stayed home or backed Democrats in the 2026 midterms, driving a Democratic surge across states.",
-   "id": "2123526962320728154",
-   "name": "Young Trump Voters Swing to Democrats in 2026 Midterms",
-   "summary": "Post-election analysis shows that of every 100 Trump 2024 voters, 63 voted Republican, 4 switched to Democrats, and 33 stayed home—while Harris voters turned out at 85% for Democrats. Young men ages 18-29 led the shift, moving left in every state's House races and key Senate contests, with non-college men swinging 64-77 points against Republicans in Texas, South Carolina, and Mississippi. Republicans highlight turnout drops among young, non-college, Hispanic, and rural voters as the key factor, amid economic pressures like higher gas prices. Both parties see these fluid voters as up for grabs in future races.",
-   "updated_at": "2026-11-20T20:37:00.000Z",
-   "url": "https://x.com/i/trending/2123526962320728154"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123798615009144960"
-    },
-    {
-     "post_id": "2123549977473327130"
-    },
-    {
-     "post_id": "2123807868348424476"
-    },
-    {
-     "post_id": "2123549977473327130"
-    },
-    {
-     "post_id": "2123872309023047978"
-    },
-    {
-     "post_id": "2123895044180676773"
-    },
-    {
-     "post_id": "2124125122277572981"
-    },
-    {
-     "post_id": "2123999616165458148"
-    },
-    {
-     "post_id": "2123807868348424476"
-    },
-    {
-     "post_id": "2123983161759535296"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "Speech to Incoming Freshman Democrats"
-     ],
-     "organizations": [
-      "Democratic Party"
-     ],
-     "people": [
-      "Barack Obama"
-     ],
-     "places": [
-      "House Chamber"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "In a closed-door chat with freshmen House Democrats, Barack Obama celebrated their diverse backgrounds as America's true reflection, while pushing them to dream bigger on health care fixes.",
-   "id": "2123646549792346325",
-   "name": "Obama Urges New House Democrats to Push Boldly on Health Care",
-   "summary": "Moderated by Hakeem Jeffries, Obama contrasted the Democratic caucus's mix of races, regions, and ideas with a 'golf country club' on the Republican side, urging members to stay sharp, collaborate across divides, and deliver results. He called the Affordable Care Act a patched-together system and advised going beyond restoring subsidies to push for more ambitious reforms like expanded Medicare. Reactions split, with advocates energized and critics decrying the diversity comments as divisive.",
-   "updated_at": "2026-11-21T13:17:15.000Z",
-   "url": "https://x.com/i/trending/2123646549792346325"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123858252635259173"
-    },
-    {
-     "post_id": "2123900150011531282"
-    },
-    {
-     "post_id": "2123883824987926750"
-    },
-    {
-     "post_id": "2123867609179594956"
-    },
-    {
-     "post_id": "2123858252635259173"
-    },
-    {
-     "post_id": "2123883824987926750"
-    },
-    {
-     "post_id": "2123900150011531282"
-    },
-    {
-     "post_id": "2123889183177461860"
-    },
-    {
-     "post_id": "2123867609179594956"
-    },
-    {
-     "post_id": "2123883081111416927"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Zeteo News"
-     ],
-     "people": [
-      "Darializa"
-     ],
-     "places": [
-      "New York"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Fresh off her primary upset, 32-year-old Rep.-elect Darializa Avila Chevalier called out corporate capture of the House speakership in a recent interview. Her bold stance drew cheers and criticism alike.",
-   "id": "2123914552073212094",
-   "name": "Rep.-Elect Chevalier Challenges Corporate Grip on House Speakership",
-   "summary": "Chevalier, a Democratic Socialist who defeated longtime incumbent Adriano Espaillat to win New York's 13th Congressional District, was one of 11 Democrats who voted against nominating Hakeem Jeffries as speaker in a 251-11 closed-door tally. The Ph.D. student and former public defender's office investigator argued that party leadership must take concrete actions to rebuild voter trust amid fragile faith in institutions. Her comments spotlight tensions in the Democratic Party between progressives seeking campaign finance reform and those favoring unity, as Democrats gear up to control the House with a large majority starting January 3, 2027.",
-   "updated_at": "2026-11-21T02:07:16.000Z",
-   "url": "https://x.com/i/trending/2123914552073212094"
-  }
- ]
 }

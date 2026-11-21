@@ -2,34 +2,34 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-21T14:46:44Z",
+  "updated_at": "2026-11-21T15:50:48Z",
   "last_x_check": {
-    "at": "2026-11-21T14:46:08Z",
+    "at": "2026-11-21T15:50:13Z",
     "new_posts": 0,
     "new_post_ids": [],
     "newest_id": "2124113623953928648",
     "published": true,
     "refreshed": [
+      "trending",
       "xlive"
     ],
     "skipped": {
       "posts": "one get_users_posts read (since_id 2124113623953928648); result_count 0",
-      "trending": "trending.json mtime age < 60 min",
       "following": "featured_accounts empty",
       "tv": "tv.json mtime age < 3 hours"
     },
-    "x_reads_this_run": 2,
+    "x_reads_this_run": 4,
     "notes": {
       "posts": "no new posts newer than 2124113623953928648",
-      "trending": "skipped, mtime age < 60 min",
+      "trending": "refreshed news_fetched_at 2026-11-21T15:50:13Z; 8 stories, 15 trends",
       "following": "skipped, featured_accounts empty",
-      "tv": "skipped, mtime age < 3 hours (mtime 2026-11-21T06:19:54-06:00)",
-      "xlive": "refreshed search fetched_at 2026-11-21T14:46:08Z; 17 posts / 15 users; xlive.json 8 broadcasts (dropped @anadoluagency, expired; added @Sonkondeyni)",
-      "publish": "xlive.json broadcasts changed; include live.json checked_at"
+      "tv": "skipped, mtime age < 3 hours (mtime 2026-11-21T09:41-06:00)",
+      "xlive": "refreshed search fetched_at 2026-11-21T15:50:13Z; 15 posts / 14 users; xlive.json 8 broadcasts (dropped @DocOfDetox; added @realPSBNews)",
+      "publish": "trending.json and xlive.json content changed; include live.json checked_at"
     }
   },
-  "last_publish": "Refresh X Live 2026-11-21T14:46Z (push pending)",
-  "x_reads_left_today": "869 of 1000 (resets 2026-11-22T00:00Z)",
-  "note": "X checks succeeded; failure streak 0. Publishing X Live refresh.",
+  "last_publish": "Refresh trending and X Live 2026-11-21T15:50Z (push pending)",
+  "x_reads_left_today": "856 of 1000 (resets 2026-11-22T00:00Z)",
+  "note": "X checks succeeded; failure streak 0. Publishing trending and X Live refresh.",
   "failure_streak": 0
 }
