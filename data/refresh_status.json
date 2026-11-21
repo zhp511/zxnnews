@@ -2,31 +2,31 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-21T11:11:45Z",
+  "updated_at": "2026-11-21T11:19:27Z",
   "last_x_check": {
-    "at": "2026-11-21T11:11:09Z",
+    "at": "2026-11-21T11:18:53Z",
     "new_posts": 0,
     "new_post_ids": [],
     "newest_id": "2123969615239750114",
-    "published": true,
+    "published": false,
     "refreshed": [
-      "xlive"
+      "trending"
     ],
     "skipped": {
-      "trending": "trending.json mtime 2026-11-21T10:12:01Z age < 60 minutes",
       "following": "featured_accounts empty",
       "tv": "tv.json mtime 2026-11-21T09:10:32Z age < 3 hours",
+      "xlive": "xlive_raw/search.json fetched_at 2026-11-21T11:11:09Z age < 15 minutes",
       "posts": "one get_users_posts read (since_id 2123969615239750114); result_count 0, no new posts"
     },
-    "x_reads_this_run": 2,
+    "x_reads_this_run": 3,
     "notes": {
       "posts": "one get_users_posts read (since_id 2123969615239750114); result_count 0, no new posts",
-      "xlive": "search_posts_all 6 posts since 2026-11-21T08:11:09Z; xlive.py wrote 6 broadcasts (added @growthnownews, dropped @news24tvchannel, @QuilibriumInc, @poaenglish)",
-      "publish": "X Live update pending push"
+      "trending": "search_news 10 stories, get_trends_by_woeid 20 US trends; trending.py wrote 8 stories, 15 trends (added Good Saturday, CONGRATULATIONS BTS, #MAMA2026, #lamansiónvip, MAMA Awards; dropped #中共选举, #LESSERAFIMxMAMA2026, PERTHSANTA COFFEE DATE, El Chapo Isidro, Kimi)",
+      "publish": "trending update pending push"
     }
   },
-  "last_publish": "X Live update; pushed 0683fad; live site https://zhp511.github.io/zxnnews/ HTTP 200 (Pages build 1389698281 success)",
-  "x_reads_left_today": "930 of 1000 (resets 2026-11-22T00:00Z)",
+  "last_publish": "X Live update; pushed 87e2110; live site https://zhp511.github.io/zxnnews/ HTTP 200 (Pages build 1389736656 success)",
+  "x_reads_left_today": "927 of 1000 (resets 2026-11-22T00:00Z)",
   "note": "X checks succeeded; failure streak 0.",
   "failure_streak": 0
 }
