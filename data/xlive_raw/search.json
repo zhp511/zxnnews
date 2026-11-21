@@ -1,771 +1,567 @@
 {
-  "fetched_at": "2026-11-21T06:35:28Z",
-  "tool": "x.search_posts_all",
-  "args": {
-    "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-    "start_time": "2026-11-21T03:35:28Z",
-    "max_results": 25,
-    "sort_order": "relevancy",
-    "post.fields": [
-      "created_at",
-      "public_metrics",
-      "entities"
-    ],
-    "expansions": [
-      "author_id"
-    ],
-    "user.fields": [
-      "name",
-      "username",
-      "verified",
-      "verified_type",
-      "public_metrics"
-    ]
-  },
-  "data": [
-    {
-      "author_id": "1896622439196762112",
-      "created_at": "2026-11-21T06:08:40.000Z",
-      "edit_history_tweet_ids": [
-        "2124022163384451169"
-      ],
-      "id": "2124022163384451169",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 14,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "GPCC Media Briefing LIVE | Goa Congress Press Conference | Latest Political Updates https://t.co/NMe7WBxZSR",
-      "url": "https://x.com/Rashtra_TV/status/2124022163384451169"
-    },
-    {
-      "author_id": "2420020489",
-      "created_at": "2026-11-21T06:15:10.000Z",
-      "edit_history_tweet_ids": [
-        "2124023796147654835"
-      ],
-      "id": "2124023796147654835",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 682,
-        "like_count": 3,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Live: Pakistan Head Coach Mike Hesson &amp; Director High Performance Aqib Javed Press Conference\n\nhttps://t.co/AGkhJOX7dW",
-      "url": "https://x.com/TheRealPCB/status/2124023796147654835"
-    },
-    {
-      "author_id": "2420020489",
-      "created_at": "2026-11-21T06:13:17.000Z",
-      "edit_history_tweet_ids": [
-        "2124023322652405867"
-      ],
-      "id": "2124023322652405867",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 1054,
-        "like_count": 20,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Live: Pakistan Head Coach Mike Hesson &amp; Director High Performance Aqib Javed Press Conference https://t.co/AGkhJOWzoo",
-      "url": "https://x.com/TheRealPCB/status/2124023322652405867"
-    },
-    {
-      "author_id": "1406048189015158787",
-      "created_at": "2026-11-21T04:34:20.000Z",
-      "edit_history_tweet_ids": [
-        "2123998422185525529"
-      ],
-      "id": "2123998422185525529",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 36,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "10 बजे की बड़ी खबरें | Big news | National News | PM Modi | Rahul Gandhi | BJP vs Congress https://t.co/F1ChFeLlNX",
-      "url": "https://x.com/Daily24bharat/status/2123998422185525529"
-    },
-    {
-      "author_id": "1406048189015158787",
-      "created_at": "2026-11-21T05:34:30.000Z",
-      "edit_history_tweet_ids": [
-        "2124013562234540079"
-      ],
-      "id": "2124013562234540079",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 24,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "दिल्ली-NCR की बड़ी खबरें | Big news of Delhi | CM Rekha Gupta | BJP Delhi | BJP vs Congress https://t.co/kJg2kM703J",
-      "url": "https://x.com/Daily24bharat/status/2124013562234540079"
-    },
-    {
-      "author_id": "19897138",
-      "created_at": "2026-11-21T04:00:31.000Z",
-      "edit_history_tweet_ids": [
-        "2123989911149879512"
-      ],
-      "id": "2123989911149879512",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 2698,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "#LIVE || Weight-loss injections on trial: Ozempic and Mounjaro, miracle drugs or medical traps? Which lifestyle intervention actually works, and who wins the weight-loss debate?  #ITLivestream #HealthWealth | @Sonal_MK https://t.co/lEpVxy3Ye1",
-      "url": "https://x.com/IndiaToday/status/2123989911149879512"
-    },
-    {
-      "author_id": "161482772",
-      "created_at": "2026-11-21T06:09:20.000Z",
-      "edit_history_tweet_ids": [
-        "2124022331534377026"
-      ],
-      "id": "2124022331534377026",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 57,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Swift@america: Celebrating Digital Authorship! https://t.co/VY7l03GjLu",
-      "url": "https://x.com/atamerica/status/2124022331534377026"
-    },
-    {
-      "author_id": "935942321756966912",
-      "created_at": "2026-11-21T04:59:57.000Z",
-      "edit_history_tweet_ids": [
-        "2124004867027182047"
-      ],
-      "id": "2124004867027182047",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 3687,
-        "like_count": 4,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/0pAVX55a5Z",
-      "url": "https://x.com/RealAmVoice/status/2124004867027182047"
-    },
-    {
-      "author_id": "2015134783517667328",
-      "created_at": "2026-11-21T04:44:34.000Z",
-      "edit_history_tweet_ids": [
-        "2124000999622799602"
-      ],
-      "id": "2124000999622799602",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 153,
-        "like_count": 2,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "LIVE City Cams Across America + Abernethy Bridge Slide Tonight | The Guyer Show 🔴 https://t.co/SGHBZjLocw",
-      "url": "https://x.com/THEGUYERSHOW/status/2124000999622799602"
-    },
-    {
-      "author_id": "1339166129110065152",
-      "created_at": "2026-11-21T05:59:56.000Z",
-      "edit_history_tweet_ids": [
-        "2124019965997236336"
-      ],
-      "id": "2124019965997236336",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 2291,
-        "like_count": 3,
-        "quote_count": 0,
-        "reply_count": 2,
-        "retweet_count": 3
-      },
-      "text": "GB News https://t.co/y6vplOJ8ym",
-      "url": "https://x.com/GBNEWS/status/2124019965997236336"
-    },
-    {
-      "author_id": "85814753",
-      "created_at": "2026-11-21T03:49:11.000Z",
-      "edit_history_tweet_ids": [
-        "2123987058188255596"
-      ],
-      "id": "2123987058188255596",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 431,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Sandesh News https://t.co/N0xXMC7RJj",
-      "url": "https://x.com/sandeshnews/status/2123987058188255596"
-    },
-    {
-      "author_id": "1438604288025153542",
-      "created_at": "2026-11-21T03:59:59.000Z",
-      "edit_history_tweet_ids": [
-        "2123989779612156031"
-      ],
-      "id": "2123989779612156031",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 1309,
-        "like_count": 26,
-        "quote_count": 1,
-        "reply_count": 0,
-        "retweet_count": 11
-      },
-      "text": "LIVE NOW \n\nRapid Fire News #1250 ~FAFO FRIDAY~\nhttps://t.co/vOmo2gmuDu",
-      "url": "https://x.com/AJPArmy/status/2123989779612156031"
-    },
-    {
-      "author_id": "1691380072517664769",
-      "created_at": "2026-11-21T05:27:51.000Z",
-      "edit_history_tweet_ids": [
-        "2124011888199811182",
-        "2124011991547416870"
-      ],
-      "id": "2124011888199811182",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 8,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "LIVE NSC9 NEWS https://t.co/iuHJDqsfmP",
-      "url": "https://x.com/nsc9news/status/2124011888199811182"
-    },
-    {
-      "author_id": "1438604288025153542",
-      "created_at": "2026-11-21T03:59:46.000Z",
-      "edit_history_tweet_ids": [
-        "2123989721562964330"
-      ],
-      "id": "2123989721562964330",
-      "public_metrics": {
-        "bookmark_count": 2,
-        "impression_count": 870,
-        "like_count": 12,
-        "quote_count": 1,
-        "reply_count": 0,
-        "retweet_count": 7
-      },
-      "text": "Rapid Fire News #1250 ~FAFO FRIDAY~ https://t.co/vOmo2gmuDu",
-      "url": "https://x.com/AJPArmy/status/2123989721562964330"
-    },
-    {
-      "author_id": "1691380072517664769",
-      "created_at": "2026-11-21T05:28:15.000Z",
-      "edit_history_tweet_ids": [
-        "2124011888199811182",
-        "2124011991547416870"
-      ],
-      "id": "2124011991547416870",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 15,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "LIVE NSC9 NEWS - 21-11-2026 https://t.co/iuHJDqsfmP",
-      "url": "https://x.com/nsc9news/status/2124011991547416870"
-    },
-    {
-      "author_id": "1656485362640777216",
-      "created_at": "2026-11-21T04:02:51.000Z",
-      "edit_history_tweet_ids": [
-        "2123990498683551954"
-      ],
-      "id": "2123990498683551954",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 20,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "ufo talk and news reactions https://t.co/NLYgWCPyKg",
-      "url": "https://x.com/NICEGUYEDDYSHOW/status/2123990498683551954"
-    },
-    {
-      "author_id": "1656485362640777216",
-      "created_at": "2026-11-21T03:48:12.000Z",
-      "edit_history_tweet_ids": [
-        "2123986810543943861"
-      ],
-      "id": "2123986810543943861",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 18,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "news and x reactions of the day https://t.co/4XZIMWw4Vv",
-      "url": "https://x.com/NICEGUYEDDYSHOW/status/2123986810543943861"
-    },
-    {
-      "author_id": "1302508792698015749",
-      "created_at": "2026-11-21T03:50:06.000Z",
-      "edit_history_tweet_ids": [
-        "2123987289374138825"
-      ],
-      "id": "2123987289374138825",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 345,
-        "like_count": 8,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 4
-      },
-      "text": "THE NUBS BIRTHDAY STREAM!! | 45 AND STILL YOUNG AF | MUSIC SELECTION BY NUBS | NEWS | LIVE CHAOS | CHAT https://t.co/KFKLvmC2Vk",
-      "url": "https://x.com/NubbinSaint/status/2123987289374138825"
-    },
-    {
-      "author_id": "1707048293883056128",
-      "created_at": "2026-11-21T05:48:07.000Z",
-      "edit_history_tweet_ids": [
-        "2124016988502511830"
-      ],
-      "id": "2124016988502511830",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 235,
-        "like_count": 4,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 3
-      },
-      "text": "COLLEGE BASKETBALL PICKS 11/21 |  CBB PREDICTIONS | BETS &amp; CBB NEWS  ANALYSIS | PUMP FAKE POD https://t.co/cpdKqJiDdy",
-      "url": "https://x.com/PumpFakePod/status/2124016988502511830"
-    },
-    {
-      "author_id": "1302508792698015749",
-      "created_at": "2026-11-21T03:50:18.000Z",
-      "edit_history_tweet_ids": [
-        "2123987340821713277"
-      ],
-      "id": "2123987340821713277",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 548,
-        "like_count": 10,
-        "quote_count": 0,
-        "reply_count": 3,
-        "retweet_count": 2
-      },
-      "text": "THE NUBS BIRTHDAY STREAM!! | 45 AND STILL YOUNG AF | MUSIC SELECTION BY NUBS | NEWS | LIVE CHAOS | CHAT\nhttps://t.co/P9t8A5MLw2\nhttps://t.co/QSTsGAR5di\nhttps://t.co/6nL0uPscYO\nstarting now!!\nhttps://t.co/KFKLvmCAKS",
-      "url": "https://x.com/NubbinSaint/status/2123987340821713277"
-    },
-    {
-      "author_id": "4505795352",
-      "created_at": "2026-11-21T04:13:13.000Z",
-      "edit_history_tweet_ids": [
-        "2123993108115583130"
-      ],
-      "id": "2123993108115583130",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 356,
-        "like_count": 7,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "text": "🔴 Nubbin St. Nubbins is LIVE\nTHE NUBS BIRTHDAY STREAM!! | 45 AND STILL YOUNG AF | MUSIC SELECTION BY NUBS | NEWS | LIVE CHAOS | CHAT\n11.20.26\n@NubbinSaint\nhttps://t.co/KiEK9xZez5",
-      "url": "https://x.com/DivintyMary/status/2123993108115583130"
-    },
-    {
-      "author_id": "1816231321502621696",
-      "created_at": "2026-11-21T03:40:10.000Z",
-      "edit_history_tweet_ids": [
-        "2123984792261644559"
-      ],
-      "id": "2123984792261644559",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 33,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "God Is Absolutely Good: President Trump’s Moves—What’s Coming? | Day 220 https://t.co/mduWzJg3X8",
-      "url": "https://x.com/LynneSHaggerman/status/2123984792261644559"
-    },
-    {
-      "author_id": "1061081543102218240",
-      "created_at": "2026-11-21T04:08:28.000Z",
-      "edit_history_tweet_ids": [
-        "2123991911321014579"
-      ],
-      "id": "2123991911321014579",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 342,
-        "like_count": 2,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "BREAKING: LUKA DONCIC IS ON \"CLAP\" ALERT VS KINGS https://t.co/opcp2Z9QJB",
-      "url": "https://x.com/lockerroomla/status/2123991911321014579"
-    },
-    {
-      "author_id": "733910552527802368",
-      "created_at": "2026-11-21T04:14:04.000Z",
-      "edit_history_tweet_ids": [
-        "2123993322612220213"
-      ],
-      "id": "2123993322612220213",
-      "public_metrics": {
-        "bookmark_count": 8,
-        "impression_count": 11479,
-        "like_count": 121,
-        "quote_count": 3,
-        "reply_count": 10,
-        "retweet_count": 10
-      },
-      "text": "#BREAKING 🚨 WEST COAST SPACEX LAUNCH COMING UP IN 6 MINUTES  https://t.co/RTBf0ZDPsB",
-      "url": "https://x.com/OC_Scanner/status/2123993322612220213"
-    },
-    {
-      "author_id": "22290224",
-      "created_at": "2026-11-21T03:41:48.000Z",
-      "edit_history_tweet_ids": [
-        "2123985201000849885"
-      ],
-      "id": "2123985201000849885",
-      "public_metrics": {
-        "bookmark_count": 2,
-        "impression_count": 2685,
-        "like_count": 9,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 1
-      },
-      "text": "Breaking down Mark Pope’s heated seat right now. https://t.co/TQScXNAO1v",
-      "url": "https://x.com/RobDauster/status/2123985201000849885"
-    }
+ "fetched_at": "2026-11-21T07:30:43Z",
+ "tool": "x.search_posts_all",
+ "args": {
+  "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
+  "start_time": "2026-11-21T04:30:43Z",
+  "max_results": 25,
+  "sort_order": "relevancy",
+  "post.fields": [
+   "created_at",
+   "public_metrics",
+   "entities"
   ],
-  "users": [
-    {
-      "id": "1896622439196762112",
-      "name": "Rashtra TV",
-      "public_metrics": {
-        "followers_count": 252,
-        "following_count": 0,
-        "like_count": 401,
-        "listed_count": 1,
-        "media_count": 18549,
-        "tweet_count": 19687
-      },
-      "username": "Rashtra_TV",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "2420020489",
-      "name": "Pakistan Cricket",
-      "public_metrics": {
-        "followers_count": 7119086,
-        "following_count": 186,
-        "like_count": 2590,
-        "listed_count": 2136,
-        "media_count": 40469,
-        "tweet_count": 68472
-      },
-      "username": "TheRealPCB",
-      "verified": true,
-      "verified_type": "blue",
-      "withheld": {
-        "country_codes": [
-          "IN"
-        ]
-      }
-    },
-    {
-      "id": "1406048189015158787",
-      "name": "Daily 24 Bharat",
-      "public_metrics": {
-        "followers_count": 1036,
-        "following_count": 8,
-        "like_count": 184,
-        "listed_count": 2,
-        "media_count": 37570,
-        "tweet_count": 38918
-      },
-      "username": "Daily24bharat",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "19897138",
-      "name": "IndiaToday",
-      "public_metrics": {
-        "followers_count": 6278504,
-        "following_count": 82,
-        "like_count": 4431,
-        "listed_count": 7336,
-        "media_count": 587939,
-        "tweet_count": 1550091
-      },
-      "username": "IndiaToday",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "161482772",
-      "name": "@america",
-      "public_metrics": {
-        "followers_count": 90941,
-        "following_count": 545,
-        "like_count": 2289,
-        "listed_count": 381,
-        "media_count": 7945,
-        "tweet_count": 15295
-      },
-      "username": "atamerica",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "935942321756966912",
-      "name": "Real America's Voice (RAV)",
-      "public_metrics": {
-        "followers_count": 576366,
-        "following_count": 1927,
-        "like_count": 12127,
-        "listed_count": 1594,
-        "media_count": 87867,
-        "tweet_count": 139954
-      },
-      "username": "RealAmVoice",
-      "verified": true,
-      "verified_type": "business"
-    },
-    {
-      "id": "2015134783517667328",
-      "name": "GUYER",
-      "public_metrics": {
-        "followers_count": 3937,
-        "following_count": 180,
-        "like_count": 2199,
-        "listed_count": 3,
-        "media_count": 795,
-        "tweet_count": 3121
-      },
-      "username": "THEGUYERSHOW",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1339166129110065152",
-      "name": "GB News",
-      "public_metrics": {
-        "followers_count": 994854,
-        "following_count": 49,
-        "like_count": 0,
-        "listed_count": 2730,
-        "media_count": 171877,
-        "tweet_count": 332788
-      },
-      "username": "GBNEWS",
-      "verified": true,
-      "verified_type": "business"
-    },
-    {
-      "id": "85814753",
-      "name": "Sandesh",
-      "public_metrics": {
-        "followers_count": 520342,
-        "following_count": 2,
-        "like_count": 1748,
-        "listed_count": 379,
-        "media_count": 227022,
-        "tweet_count": 467260
-      },
-      "username": "sandeshnews",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1438604288025153542",
-      "name": "Average Joe Patriot 1776",
-      "public_metrics": {
-        "followers_count": 11606,
-        "following_count": 4749,
-        "like_count": 99714,
-        "listed_count": 13,
-        "media_count": 4812,
-        "tweet_count": 59016
-      },
-      "username": "AJPArmy",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1691380072517664769",
-      "name": "NSC9 News",
-      "public_metrics": {
-        "followers_count": 664,
-        "following_count": 4,
-        "like_count": 1562,
-        "listed_count": 0,
-        "media_count": 23367,
-        "tweet_count": 36161
-      },
-      "username": "nsc9news",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1656485362640777216",
-      "name": "Nice Guy Eddy",
-      "public_metrics": {
-        "followers_count": 714,
-        "following_count": 1809,
-        "like_count": 52306,
-        "listed_count": 1,
-        "media_count": 353,
-        "tweet_count": 8263
-      },
-      "username": "NICEGUYEDDYSHOW",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1302508792698015749",
-      "name": "Nubbin St. Nubbins",
-      "public_metrics": {
-        "followers_count": 2184,
-        "following_count": 2477,
-        "like_count": 15855,
-        "listed_count": 4,
-        "media_count": 562,
-        "tweet_count": 12295
-      },
-      "username": "NubbinSaint",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1707048293883056128",
-      "name": "Pump Fake Pod",
-      "public_metrics": {
-        "followers_count": 1026,
-        "following_count": 69,
-        "like_count": 1856,
-        "listed_count": 5,
-        "media_count": 395,
-        "tweet_count": 1724
-      },
-      "username": "PumpFakePod",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "4505795352",
-      "name": "Miss Mary",
-      "public_metrics": {
-        "followers_count": 56237,
-        "following_count": 34176,
-        "like_count": 357440,
-        "listed_count": 88,
-        "media_count": 16754,
-        "tweet_count": 219177
-      },
-      "username": "DivintyMary",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1816231321502621696",
-      "name": "Lynne Scott Haggerman",
-      "public_metrics": {
-        "followers_count": 1312,
-        "following_count": 116,
-        "like_count": 600,
-        "listed_count": 2,
-        "media_count": 151,
-        "tweet_count": 1043
-      },
-      "username": "LynneSHaggerman",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1061081543102218240",
-      "name": "The Locker Room",
-      "public_metrics": {
-        "followers_count": 2121,
-        "following_count": 1182,
-        "like_count": 18384,
-        "listed_count": 18,
-        "media_count": 1266,
-        "tweet_count": 10839
-      },
-      "username": "lockerroomla",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "733910552527802368",
-      "name": "OC Scanner 🇺🇸 🇺🇸",
-      "public_metrics": {
-        "followers_count": 89597,
-        "following_count": 1818,
-        "like_count": 182647,
-        "listed_count": 560,
-        "media_count": 6161,
-        "tweet_count": 94851
-      },
-      "username": "OC_Scanner",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "22290224",
-      "name": "Rob Dauster",
-      "public_metrics": {
-        "followers_count": 62449,
-        "following_count": 1817,
-        "like_count": 2325,
-        "listed_count": 1370,
-        "media_count": 8652,
-        "tweet_count": 146006
-      },
-      "username": "RobDauster",
-      "verified": true,
-      "verified_type": "blue"
-    }
+  "expansions": [
+   "author_id"
+  ],
+  "user.fields": [
+   "name",
+   "username",
+   "verified",
+   "verified_type",
+   "public_metrics"
   ]
+ },
+ "data": [
+  {
+   "author_id": "1896622439196762112",
+   "created_at": "2026-11-21T06:08:40.000Z",
+   "edit_history_tweet_ids": [
+    "2124022163384451169"
+   ],
+   "id": "2124022163384451169",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 21,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "GPCC Media Briefing LIVE | Goa Congress Press Conference | Latest Political Updates https://t.co/NMe7WBxZSR",
+   "url": "https://x.com/Rashtra_TV/status/2124022163384451169"
+  },
+  {
+   "author_id": "287602729",
+   "created_at": "2026-11-21T06:44:15.000Z",
+   "edit_history_tweet_ids": [
+    "2124031115652424082"
+   ],
+   "id": "2124031115652424082",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 519,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Chief Minister Nayab Singh Saini addressing a Press Conference. https://t.co/1aBtMsvQV7",
+   "url": "https://x.com/BJP4Haryana/status/2124031115652424082"
+  },
+  {
+   "author_id": "2420020489",
+   "created_at": "2026-11-21T06:13:17.000Z",
+   "edit_history_tweet_ids": [
+    "2124023322652405867"
+   ],
+   "id": "2124023322652405867",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2813,
+    "like_count": 38,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Live: Pakistan Head Coach Mike Hesson &amp; Director High Performance Aqib Javed Press Conference https://t.co/AGkhJOWzoo",
+   "url": "https://x.com/TheRealPCB/status/2124023322652405867"
+  },
+  {
+   "author_id": "954295634663632897",
+   "created_at": "2026-11-21T07:05:28.000Z",
+   "edit_history_tweet_ids": [
+    "2124036454619783458"
+   ],
+   "id": "2124036454619783458",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 361,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "LIVE: Press Conference at BJP District Office, Nizamabad, Telangana | Date: 21st November 2026 at 12:00 PM https://t.co/qW0tkAhCno",
+   "url": "https://x.com/Arvindharmapuri/status/2124036454619783458"
+  },
+  {
+   "author_id": "1406048189015158787",
+   "created_at": "2026-11-21T04:34:20.000Z",
+   "edit_history_tweet_ids": [
+    "2123998422185525529"
+   ],
+   "id": "2123998422185525529",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 36,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "10 बजे की बड़ी खबरें | Big news | National News | PM Modi | Rahul Gandhi | BJP vs Congress https://t.co/F1ChFeLlNX",
+   "url": "https://x.com/Daily24bharat/status/2123998422185525529"
+  },
+  {
+   "author_id": "1406048189015158787",
+   "created_at": "2026-11-21T05:34:30.000Z",
+   "edit_history_tweet_ids": [
+    "2124013562234540079"
+   ],
+   "id": "2124013562234540079",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 25,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "दिल्ली-NCR की बड़ी खबरें | Big news of Delhi | CM Rekha Gupta | BJP Delhi | BJP vs Congress https://t.co/kJg2kM703J",
+   "url": "https://x.com/Daily24bharat/status/2124013562234540079"
+  },
+  {
+   "author_id": "161482772",
+   "created_at": "2026-11-21T06:09:20.000Z",
+   "edit_history_tweet_ids": [
+    "2124022331534377026"
+   ],
+   "id": "2124022331534377026",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 87,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Swift@america: Celebrating Digital Authorship! https://t.co/VY7l03GjLu",
+   "url": "https://x.com/atamerica/status/2124022331534377026"
+  },
+  {
+   "author_id": "1202831887984541697",
+   "created_at": "2026-11-21T07:23:23.000Z",
+   "edit_history_tweet_ids": [
+    "2124040963144266160"
+   ],
+   "id": "2124040963144266160",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 73,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "NEWS BULLETIN || LIVE || NEWS || NETWORK10 https://t.co/7EnG2ZOgSZ",
+   "url": "https://x.com/Network10Update/status/2124040963144266160"
+  },
+  {
+   "author_id": "935942321756966912",
+   "created_at": "2026-11-21T04:59:57.000Z",
+   "edit_history_tweet_ids": [
+    "2124004867027182047"
+   ],
+   "id": "2124004867027182047",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4043,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/0pAVX55a5Z",
+   "url": "https://x.com/RealAmVoice/status/2124004867027182047"
+  },
+  {
+   "author_id": "2015134783517667328",
+   "created_at": "2026-11-21T04:44:34.000Z",
+   "edit_history_tweet_ids": [
+    "2124000999622799602"
+   ],
+   "id": "2124000999622799602",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 173,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE City Cams Across America + Abernethy Bridge Slide Tonight | The Guyer Show 🔴 https://t.co/SGHBZjLocw",
+   "url": "https://x.com/THEGUYERSHOW/status/2124000999622799602"
+  },
+  {
+   "author_id": "1691380072517664769",
+   "created_at": "2026-11-21T05:28:15.000Z",
+   "edit_history_tweet_ids": [
+    "2124011888199811182",
+    "2124011991547416870"
+   ],
+   "id": "2124011991547416870",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE NSC9 NEWS - 21-11-2026 https://t.co/iuHJDqsfmP",
+   "url": "https://x.com/nsc9news/status/2124011991547416870"
+  },
+  {
+   "author_id": "1339166129110065152",
+   "created_at": "2026-11-21T05:59:56.000Z",
+   "edit_history_tweet_ids": [
+    "2124019965997236336"
+   ],
+   "id": "2124019965997236336",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3622,
+    "like_count": 12,
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 5
+   },
+   "text": "GB News https://t.co/y6vplOJ8ym",
+   "url": "https://x.com/GBNEWS/status/2124019965997236336"
+  },
+  {
+   "author_id": "1691380072517664769",
+   "created_at": "2026-11-21T05:27:51.000Z",
+   "edit_history_tweet_ids": [
+    "2124011888199811182",
+    "2124011991547416870"
+   ],
+   "id": "2124011888199811182",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE NSC9 NEWS https://t.co/iuHJDqsfmP",
+   "url": "https://x.com/nsc9news/status/2124011888199811182"
+  },
+  {
+   "author_id": "1707048293883056128",
+   "created_at": "2026-11-21T05:48:07.000Z",
+   "edit_history_tweet_ids": [
+    "2124016988502511830"
+   ],
+   "id": "2124016988502511830",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 317,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 3
+   },
+   "text": "COLLEGE BASKETBALL PICKS 11/21 |  CBB PREDICTIONS | BETS &amp; CBB NEWS  ANALYSIS | PUMP FAKE POD https://t.co/cpdKqJiDdy",
+   "url": "https://x.com/PumpFakePod/status/2124016988502511830"
+  },
+  {
+   "author_id": "1396329850894442497",
+   "created_at": "2026-11-21T04:31:38.000Z",
+   "edit_history_tweet_ids": [
+    "2123997744331100555"
+   ],
+   "id": "2123997744331100555",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 270,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚀 Breaking: SpaceX launched USSF-317 for the U.S. Space Force on a Falcon 9.\n\n• Up at 11:20 p.m. ET (10:20 p.m. CT) Friday, Nov. 20, 2026.\n\n• From Vandenberg SFB in California.\n\n• It was the booster's 11th flight.\n\nSpaceX webcast:\nhttps://t.co/8apoK4qDGh\n\ncc @BocasBrain https://t.co/X1nVyEP5TO",
+   "url": "https://x.com/Gatewaytomarsco/status/2123997744331100555"
+  },
+  {
+   "author_id": "1758614190149791744",
+   "created_at": "2026-11-21T05:18:02.000Z",
+   "edit_history_tweet_ids": [
+    "2124009417830023203"
+   ],
+   "id": "2124009417830023203",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 27,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🔴LIVE🔴CARNEY TRUMP PUTIN XI TOMMYBOI💥CHAT MORE💥 https://t.co/pt1pQ7vtbW",
+   "url": "https://x.com/TommyTemperShow/status/2124009417830023203"
+  },
+  {
+   "author_id": "2258332112",
+   "created_at": "2026-11-21T04:58:13.000Z",
+   "edit_history_tweet_ids": [
+    "2124004430852825199"
+   ],
+   "id": "2124004430852825199",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 249,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Clown Planet 11/20/2026: Trump in Control Grid Mode, Amnesty? Trillion Gallons of Water on Florida https://t.co/LSDFko9m7c",
+   "url": "https://x.com/Sensus_Fidelium/status/2124004430852825199"
+  }
+ ],
+ "users": [
+  {
+   "id": "1896622439196762112",
+   "name": "Rashtra TV",
+   "public_metrics": {
+    "followers_count": 253,
+    "following_count": 0,
+    "like_count": 401,
+    "listed_count": 1,
+    "media_count": 18556,
+    "tweet_count": 19695
+   },
+   "username": "Rashtra_TV",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "287602729",
+   "name": "Haryana BJP",
+   "public_metrics": {
+    "followers_count": 340289,
+    "following_count": 273,
+    "like_count": 22299,
+    "listed_count": 268,
+    "media_count": 32030,
+    "tweet_count": 97144
+   },
+   "username": "BJP4Haryana",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2420020489",
+   "name": "Pakistan Cricket",
+   "public_metrics": {
+    "followers_count": 7119091,
+    "following_count": 186,
+    "like_count": 2590,
+    "listed_count": 2136,
+    "media_count": 40470,
+    "tweet_count": 68472
+   },
+   "username": "TheRealPCB",
+   "verified": true,
+   "verified_type": "blue",
+   "withheld": {
+    "country_codes": [
+     "IN"
+    ]
+   }
+  },
+  {
+   "id": "954295634663632897",
+   "name": "Arvind Dharmapuri",
+   "public_metrics": {
+    "followers_count": 212706,
+    "following_count": 304,
+    "like_count": 19837,
+    "listed_count": 106,
+    "media_count": 17523,
+    "tweet_count": 27984
+   },
+   "username": "Arvindharmapuri",
+   "verified": true,
+   "verified_type": "government"
+  },
+  {
+   "id": "1406048189015158787",
+   "name": "Daily 24 Bharat",
+   "public_metrics": {
+    "followers_count": 1036,
+    "following_count": 8,
+    "like_count": 184,
+    "listed_count": 2,
+    "media_count": 37580,
+    "tweet_count": 38928
+   },
+   "username": "Daily24bharat",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "161482772",
+   "name": "@america",
+   "public_metrics": {
+    "followers_count": 90940,
+    "following_count": 545,
+    "like_count": 2289,
+    "listed_count": 381,
+    "media_count": 7945,
+    "tweet_count": 15295
+   },
+   "username": "atamerica",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1202831887984541697",
+   "name": "Network10",
+   "public_metrics": {
+    "followers_count": 2552,
+    "following_count": 23,
+    "like_count": 4041,
+    "listed_count": 9,
+    "media_count": 65032,
+    "tweet_count": 73477
+   },
+   "username": "Network10Update",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "935942321756966912",
+   "name": "Real America's Voice (RAV)",
+   "public_metrics": {
+    "followers_count": 576366,
+    "following_count": 1927,
+    "like_count": 12127,
+    "listed_count": 1594,
+    "media_count": 87867,
+    "tweet_count": 139954
+   },
+   "username": "RealAmVoice",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "2015134783517667328",
+   "name": "GUYER",
+   "public_metrics": {
+    "followers_count": 3937,
+    "following_count": 180,
+    "like_count": 2199,
+    "listed_count": 3,
+    "media_count": 795,
+    "tweet_count": 3122
+   },
+   "username": "THEGUYERSHOW",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1691380072517664769",
+   "name": "NSC9 News",
+   "public_metrics": {
+    "followers_count": 664,
+    "following_count": 4,
+    "like_count": 1562,
+    "listed_count": 0,
+    "media_count": 23371,
+    "tweet_count": 36165
+   },
+   "username": "nsc9news",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1339166129110065152",
+   "name": "GB News",
+   "public_metrics": {
+    "followers_count": 994869,
+    "following_count": 49,
+    "like_count": 0,
+    "listed_count": 2730,
+    "media_count": 171878,
+    "tweet_count": 332790
+   },
+   "username": "GBNEWS",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "1707048293883056128",
+   "name": "Pump Fake Pod",
+   "public_metrics": {
+    "followers_count": 1027,
+    "following_count": 69,
+    "like_count": 1856,
+    "listed_count": 5,
+    "media_count": 395,
+    "tweet_count": 1724
+   },
+   "username": "PumpFakePod",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1396329850894442497",
+   "name": "Gateway to Mars",
+   "public_metrics": {
+    "followers_count": 110,
+    "following_count": 159,
+    "like_count": 81,
+    "listed_count": 2,
+    "media_count": 136,
+    "tweet_count": 355
+   },
+   "username": "Gatewaytomarsco",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1758614190149791744",
+   "name": "Tommy Temper Show",
+   "public_metrics": {
+    "followers_count": 1470,
+    "following_count": 3050,
+    "like_count": 5551,
+    "listed_count": 12,
+    "media_count": 307,
+    "tweet_count": 6162
+   },
+   "username": "TommyTemperShow",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2258332112",
+   "name": "Sensus Fidelium",
+   "public_metrics": {
+    "followers_count": 30892,
+    "following_count": 345,
+    "like_count": 22686,
+    "listed_count": 134,
+    "media_count": 28259,
+    "tweet_count": 90693
+   },
+   "username": "Sensus_Fidelium",
+   "verified": true,
+   "verified_type": "blue"
+  }
+ ]
 }

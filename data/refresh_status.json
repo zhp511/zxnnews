@@ -2,9 +2,9 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-21T06:51:22Z",
+  "updated_at": "2026-11-21T07:31:50Z",
   "last_x_check": {
-    "at": "2026-11-21T06:51:22Z",
+    "at": "2026-11-21T07:31:50Z",
     "new_posts": 0,
     "new_post_ids": [],
     "newest_id": "2123969615239750114",
@@ -13,19 +13,19 @@
       "xlive"
     ],
     "skipped": {
-      "trending": "trending.json age < 60 min (built_at 2026-11-21T05:59:19Z)",
       "following": "featured_accounts empty",
       "tv": "tv.json age < 3 h (checked_at 2026-11-21T06:00:15Z)",
+      "trending": "trending.json age < 60 min (built_at 2026-11-21T07:01:49Z)",
       "posts": "one get_users_posts read (since_id 2123969615239750114); result_count 0, no new posts"
     },
     "x_reads_this_run": 2,
     "notes": {
       "posts": "one get_users_posts read (since_id 2123969615239750114); result_count 0, no new posts",
-      "xlive": "search_posts_all start_time=2026-11-21T03:51:22Z; 24 posts, 20 users; xlive.py wrote 8 broadcasts (dropped LynneSHaggerman, IndiaToday, AJPArmy; added Sensus_Fidelium, TommyTemperShow, RealDaveIbrahim)"
+      "xlive": "search_posts_all start_time=2026-11-21T04:30:43Z; 17 posts, 15 users; xlive.py wrote 8 broadcasts (dropped DivintyMary; added PumpFakePod)"
     }
   },
   "last_publish": "pending push",
-  "x_reads_left_today": "986 of 1000 (resets 2026-11-22T00:00Z)",
-  "note": "X checks succeeded after a long gap since 2026-11-06; failure streak reset to 0.",
+  "x_reads_left_today": "977 of 1000 (resets 2026-11-22T00:00Z)",
+  "note": "X checks succeeded; failure streak 0.",
   "failure_streak": 0
 }
