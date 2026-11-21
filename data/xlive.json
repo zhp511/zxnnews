@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-21T10:52:47Z",
- "searched_at": "2026-11-21T10:52:08Z",
+ "built_at": "2026-11-21T11:11:44Z",
+ "searched_at": "2026-11-21T11:11:09Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -13,26 +13,6 @@
    "text": "WATCH LIVE: President Trump, Dana White honor military musicians at White House https://t.co/hsfeWn6EVi",
    "started_at": "2026-11-21T08:31:46.000Z",
    "assumed_live_until": "2026-11-21T11:31:46Z"
-  },
-  {
-   "post_id": "2124052824162185296",
-   "post_url": "https://x.com/news24tvchannel/status/2124052824162185296",
-   "name": "News24",
-   "username": "news24tvchannel",
-   "verified_type": "blue",
-   "text": "News 24 LIVE https://t.co/mSk2crLiyY",
-   "started_at": "2026-11-21T08:10:30.000Z",
-   "assumed_live_until": "2026-11-21T11:10:30Z"
-  },
-  {
-   "post_id": "2124051108997861567",
-   "post_url": "https://x.com/QuilibriumInc/status/2124051108997861567",
-   "name": "Quilibrium",
-   "username": "QuilibriumInc",
-   "verified_type": "none",
-   "text": "Quilibrium: Mainnet, Roadmap & News https://t.co/cHGr1TbCvq",
-   "started_at": "2026-11-21T08:03:42.000Z",
-   "assumed_live_until": "2026-11-21T11:03:42Z"
   },
   {
    "post_id": "2124080529196671268",
@@ -65,16 +45,6 @@
    "assumed_live_until": "2026-11-21T13:01:26Z"
   },
   {
-   "post_id": "2124051551622717569",
-   "post_url": "https://x.com/poaenglish/status/2124051551622717569",
-   "name": "Pulse of Africa - English",
-   "username": "poaenglish",
-   "verified_type": "none",
-   "text": "News Roundup: Africa’s Voice. Global Perspective. Your News Roundup of the day’s most significant developments from around the world and across Africa. https://t.co/asi3pH4TTZ",
-   "started_at": "2026-11-21T08:05:27.000Z",
-   "assumed_live_until": "2026-11-21T11:05:27Z"
-  },
-  {
    "post_id": "2124086299506151890",
    "post_url": "https://x.com/BharatUpdate_x/status/2124086299506151890",
    "name": "भारत अपडेट | Bharat Update",
@@ -83,6 +53,16 @@
    "text": "Bharat Update News Live - 21  November  2026 LIVE https://t.co/pD5rLca7Bi",
    "started_at": "2026-11-21T10:23:32.000Z",
    "assumed_live_until": "2026-11-21T13:23:32Z"
+  },
+  {
+   "post_id": "2124092390638063795",
+   "post_url": "https://x.com/growthnownews/status/2124092390638063795",
+   "name": "Growthnownews",
+   "username": "growthnownews",
+   "verified_type": "blue",
+   "text": "GrowthNow News LIVE ! https://t.co/Y8ag4pwZ6c",
+   "started_at": "2026-11-21T10:47:44.000Z",
+   "assumed_live_until": "2026-11-21T13:47:44Z"
   }
  ]
 }
