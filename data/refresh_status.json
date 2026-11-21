@@ -2,9 +2,9 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-21T13:44:27Z",
+  "updated_at": "2026-11-21T14:01:08Z",
   "last_x_check": {
-    "at": "2026-11-21T13:44:27Z",
+    "at": "2026-11-21T14:00:16Z",
     "new_posts": 0,
     "new_post_ids": [],
     "newest_id": "2124113623953928648",
@@ -16,17 +16,21 @@
       "posts": "one get_users_posts read (since_id 2124113623953928648); result_count 0",
       "trending": "trending.json news_fetched_at 2026-11-21T13:31:32Z age < 60 min",
       "following": "featured_accounts empty",
-      "tv": "tv.json mtime age < 3 hours"
+      "tv": "tv.json mtime age < 3 hours",
+      "xlive": null
     },
     "x_reads_this_run": 2,
     "notes": {
       "posts": "no new posts newer than 2124113623953928648",
       "trending": "skipped, news_fetched_at 2026-11-21T13:31:32Z",
-      "xlive": "refreshed, fetched_at 2026-11-21T13:43:58Z, 18 posts, 8 broadcasts"
+      "following": "skipped, featured_accounts empty",
+      "tv": "skipped, mtime age < 3 hours",
+      "xlive": "refreshed search fetched_at 2026-11-21T14:00:16Z; 18 posts; xlive.json 8 broadcasts (added 2124137228364366021 @HereCelts, dropped 2124101541078417481 @sandeshnews)",
+      "publish": "commit e5b5977, push pending"
     }
   },
-  "last_publish": "pending push",
-  "x_reads_left_today": "883 of 1000 (resets 2026-11-22T00:00Z)",
-  "note": "X checks succeeded; failure streak 0. Publishing X Live refresh.",
+  "last_publish": "X Live update; pushed e5b5977; live site check pending",
+  "x_reads_left_today": "879 of 1000 (resets 2026-11-22T00:00Z)",
+  "note": "X checks succeeded; failure streak 0. Publishing X Live refresh (e5b5977).",
   "failure_streak": 0
 }
