@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-21T11:49:51Z",
- "searched_at": "2026-11-21T11:49:17Z",
+ "built_at": "2026-11-21T12:07:55Z",
+ "searched_at": "2026-11-21T12:07:26Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -65,6 +65,16 @@
    "assumed_live_until": "2026-11-21T13:01:26Z"
   },
   {
+   "post_id": "2124111037758595543",
+   "post_url": "https://x.com/mediasapientia/status/2124111037758595543",
+   "name": "Sapientia Radio & TV",
+   "username": "mediasapientia",
+   "verified_type": "blue",
+   "text": "Nigeria News Today LIVE: NAFDAC Uncovers Expired Baby Diapers, NUC Approves Anambra Medical University | Nov 21 https://t.co/zjhK1rV6Qz",
+   "started_at": "2026-11-21T12:01:50.000Z",
+   "assumed_live_until": "2026-11-21T15:01:50Z"
+  },
+  {
    "post_id": "2124086299506151890",
    "post_url": "https://x.com/BharatUpdate_x/status/2124086299506151890",
    "name": "भारत अपडेट | Bharat Update",
@@ -73,16 +83,6 @@
    "text": "Bharat Update News Live - 21  November  2026 LIVE https://t.co/pD5rLca7Bi",
    "started_at": "2026-11-21T10:23:32.000Z",
    "assumed_live_until": "2026-11-21T13:23:32Z"
-  },
-  {
-   "post_id": "2124092390638063795",
-   "post_url": "https://x.com/growthnownews/status/2124092390638063795",
-   "name": "Growthnownews",
-   "username": "growthnownews",
-   "verified_type": "blue",
-   "text": "GrowthNow News LIVE ! https://t.co/Y8ag4pwZ6c",
-   "started_at": "2026-11-21T10:47:44.000Z",
-   "assumed_live_until": "2026-11-21T13:47:44Z"
   }
  ]
 }
