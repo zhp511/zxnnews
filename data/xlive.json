@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-21T11:32:19Z",
- "searched_at": "2026-11-21T11:31:35Z",
+ "built_at": "2026-11-21T11:49:51Z",
+ "searched_at": "2026-11-21T11:49:17Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -15,16 +15,6 @@
    "assumed_live_until": "2026-11-21T13:00:36Z"
   },
   {
-   "post_id": "2124070009148170263",
-   "post_url": "https://x.com/Channel1TVGHA/status/2124070009148170263",
-   "name": "ChannelOne TV",
-   "username": "Channel1TVGHA",
-   "verified_type": "blue",
-   "text": "Channel One TV LIVE | The Big Presidential Jet Debate | Will The New Economy Work? | The Big Issue | https://t.co/OJtOXdmlKM",
-   "started_at": "2026-11-21T09:18:48.000Z",
-   "assumed_live_until": "2026-11-21T12:18:48Z"
-  },
-  {
    "post_id": "2124099810655428952",
    "post_url": "https://x.com/pinkun/status/2124099810655428952",
    "name": "The Pink Un",
@@ -33,6 +23,26 @@
    "text": "TEAM NEWS LIVE: Norwich City vs Cardiff City https://t.co/0sZZzidNKN",
    "started_at": "2026-11-21T11:17:13.000Z",
    "assumed_live_until": "2026-11-21T14:17:13Z"
+  },
+  {
+   "post_id": "2124104737868124596",
+   "post_url": "https://x.com/anadoluagency/status/2124104737868124596",
+   "name": "Anadolu English",
+   "username": "anadoluagency",
+   "verified_type": "business",
+   "text": "🔴 LIVE: Turkish President Recep Tayyip Erdogan speaks at opening ceremony of Gaziosmanpasa Courthouse in Istanbul https://t.co/GuHcyv1Ebt",
+   "started_at": "2026-11-21T11:36:48.000Z",
+   "assumed_live_until": "2026-11-21T14:36:48Z"
+  },
+  {
+   "post_id": "2124070009148170263",
+   "post_url": "https://x.com/Channel1TVGHA/status/2124070009148170263",
+   "name": "ChannelOne TV",
+   "username": "Channel1TVGHA",
+   "verified_type": "blue",
+   "text": "Channel One TV LIVE | The Big Presidential Jet Debate | Will The New Economy Work? | The Big Issue | https://t.co/OJtOXdmlKM",
+   "started_at": "2026-11-21T09:18:48.000Z",
+   "assumed_live_until": "2026-11-21T12:18:48Z"
   },
   {
    "post_id": "2124101541078417481",
