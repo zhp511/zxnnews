@@ -1,9 +1,19 @@
 {
- "built_at": "2026-11-21T12:48:52Z",
- "searched_at": "2026-11-21T12:48:18Z",
+ "built_at": "2026-11-21T13:07:46Z",
+ "searched_at": "2026-11-21T13:06:59Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
+  {
+   "post_id": "2124126103531090293",
+   "post_url": "https://x.com/WorldGovSummit/status/2124126103531090293",
+   "name": "World Governments Summit",
+   "username": "WorldGovSummit",
+   "verified_type": "government",
+   "text": "The World Governments Summit Dialogue for Latin America and the Caribbean - Day 2\nhttps://t.co/J0OodRbDse",
+   "started_at": "2026-11-21T13:01:42.000Z",
+   "assumed_live_until": "2026-11-21T16:01:42Z"
+  },
   {
    "post_id": "2124114477532454963",
    "post_url": "https://x.com/mamta_kale/status/2124114477532454963",
@@ -35,16 +45,6 @@
    "assumed_live_until": "2026-11-21T14:17:13Z"
   },
   {
-   "post_id": "2124080529196671268",
-   "post_url": "https://x.com/TrophyFpl/status/2124080529196671268",
-   "name": "FPL Mo",
-   "username": "TrophyFpl",
-   "verified_type": "blue",
-   "text": "FPL GW11 DEADLINE STREAM ✅ BENCHING DILEMMAS 🤔 EARLY TEAM NEWS 🤩 https://t.co/mK3OZAI94S",
-   "started_at": "2026-11-21T10:00:36.000Z",
-   "assumed_live_until": "2026-11-21T13:00:36Z"
-  },
-  {
    "post_id": "2124104737868124596",
    "post_url": "https://x.com/anadoluagency/status/2124104737868124596",
    "name": "Anadolu English",
@@ -65,16 +65,6 @@
    "assumed_live_until": "2026-11-21T14:24:05Z"
   },
   {
-   "post_id": "2124080739083772192",
-   "post_url": "https://x.com/TheLeedsLens/status/2124080739083772192",
-   "name": "TheLeedsLens",
-   "username": "TheLeedsLens",
-   "verified_type": "blue",
-   "text": "LIVE ON Youtube! | #CFC vs #LUFC Build Up! |  #LUFC News https://t.co/ItOz7sZz30",
-   "started_at": "2026-11-21T10:01:26.000Z",
-   "assumed_live_until": "2026-11-21T13:01:26Z"
-  },
-  {
    "post_id": "2124111037758595543",
    "post_url": "https://x.com/mediasapientia/status/2124111037758595543",
    "name": "Sapientia Radio & TV",
@@ -83,6 +73,16 @@
    "text": "Nigeria News Today LIVE: NAFDAC Uncovers Expired Baby Diapers, NUC Approves Anambra Medical University | Nov 21 https://t.co/zjhK1rV6Qz",
    "started_at": "2026-11-21T12:01:50.000Z",
    "assumed_live_until": "2026-11-21T15:01:50Z"
+  },
+  {
+   "post_id": "2124092390638063795",
+   "post_url": "https://x.com/growthnownews/status/2124092390638063795",
+   "name": "Growthnownews",
+   "username": "growthnownews",
+   "verified_type": "blue",
+   "text": "GrowthNow News LIVE ! https://t.co/Y8ag4pwZ6c",
+   "started_at": "2026-11-21T10:47:44.000Z",
+   "assumed_live_until": "2026-11-21T13:47:44Z"
   }
  ]
 }

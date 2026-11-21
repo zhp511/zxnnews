@@ -2,9 +2,9 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-21T12:50:11Z",
+  "updated_at": "2026-11-21T13:08:32Z",
   "last_x_check": {
-    "at": "2026-11-21T12:50:11Z",
+    "at": "2026-11-21T13:08:32Z",
     "new_posts": 0,
     "new_post_ids": [],
     "newest_id": "2124113623953928648",
@@ -22,12 +22,11 @@
     "notes": {
       "posts": "no new posts newer than 2124113623953928648",
       "trending": "skipped, last refresh 2026-11-21T12:25:36Z",
-      "xlive": "search_posts_all start_time 2026-11-21T09:47:26Z; 15 posts / 14 users; xlive.py wrote 8 broadcasts",
-      "publish": "X Live update pending push"
+      "xlive": "refreshed, fetched_at 2026-11-21T13:06:59Z, 17 posts, 8 broadcasts"
     }
   },
-  "last_publish": "trending and X Live update; pushed 0c39bc8; live site https://zhp511.github.io/zxnnews/ HTTP 200 (Pages build 44903929193 success)",
-  "x_reads_left_today": "907 of 1000 (resets 2026-11-22T00:00Z)",
-  "note": "X checks succeeded; failure streak 0.",
+  "last_publish": "pending push",
+  "x_reads_left_today": "903 of 1000 (resets 2026-11-22T00:00Z)",
+  "note": "X checks succeeded; failure streak 0. Published X Live refresh.",
   "failure_streak": 0
 }
