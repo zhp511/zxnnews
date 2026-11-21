@@ -2,32 +2,32 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-21T12:26:25Z",
+  "updated_at": "2026-11-21T12:50:11Z",
   "last_x_check": {
-    "at": "2026-11-21T12:26:25Z",
+    "at": "2026-11-21T12:50:11Z",
     "new_posts": 0,
     "new_post_ids": [],
     "newest_id": "2124113623953928648",
-    "published": false,
+    "published": true,
     "refreshed": [
-      "trending",
       "xlive"
     ],
     "skipped": {
       "posts": "one get_users_posts read (since_id 2124113623953928648); result_count 0",
+      "trending": "trending.json mtime age < 60 min",
       "following": "featured_accounts empty",
       "tv": "tv.json mtime age < 3 hours"
     },
-    "x_reads_this_run": 4,
+    "x_reads_this_run": 2,
     "notes": {
       "posts": "no new posts newer than 2124113623953928648",
-      "trending": "search_news US politics + get_trends_by_woeid 23424977; trending.py wrote 8 stories, 15 trends",
-      "xlive": "search_posts_all start_time 2026-11-21T09:24:51Z; 14 posts / 13 users; xlive.py wrote 8 broadcasts",
-      "publish": "trending and X Live update pending push"
+      "trending": "skipped, last refresh 2026-11-21T12:25:36Z",
+      "xlive": "search_posts_all start_time 2026-11-21T09:47:26Z; 15 posts / 14 users; xlive.py wrote 8 broadcasts",
+      "publish": "X Live update pending push"
     }
   },
-  "last_publish": "posts update (new 2124113623953928648); pushed 927809b; live site https://zhp511.github.io/zxnnews/ HTTP 200 (Pages build 1389870220 success)",
-  "x_reads_left_today": "911 of 1000 (resets 2026-11-22T00:00Z)",
+  "last_publish": "trending and X Live update; pushed 0c39bc8; live site https://zhp511.github.io/zxnnews/ HTTP 200 (Pages build 44903929193 success)",
+  "x_reads_left_today": "907 of 1000 (resets 2026-11-22T00:00Z)",
   "note": "X checks succeeded; failure streak 0.",
   "failure_streak": 0
 }
