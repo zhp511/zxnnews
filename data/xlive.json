@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-21T08:37:55Z",
- "searched_at": "2026-11-21T08:37:52Z",
+ "built_at": "2026-11-21T08:56:06Z",
+ "searched_at": "2026-11-21T08:55:43Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -65,16 +65,6 @@
    "assumed_live_until": "2026-11-21T11:03:42Z"
   },
   {
-   "post_id": "2124016988502511830",
-   "post_url": "https://x.com/PumpFakePod/status/2124016988502511830",
-   "name": "Pump Fake Pod",
-   "username": "PumpFakePod",
-   "verified_type": "blue",
-   "text": "COLLEGE BASKETBALL PICKS 11/21 |  CBB PREDICTIONS | BETS & CBB NEWS  ANALYSIS | PUMP FAKE POD https://t.co/cpdKqJiDdy",
-   "started_at": "2026-11-21T05:48:07.000Z",
-   "assumed_live_until": "2026-11-21T08:48:07Z"
-  },
-  {
    "post_id": "2124040963144266160",
    "post_url": "https://x.com/Network10Update/status/2124040963144266160",
    "name": "Network10",
@@ -83,6 +73,16 @@
    "text": "NEWS BULLETIN || LIVE || NEWS || NETWORK10 https://t.co/7EnG2ZOgSZ",
    "started_at": "2026-11-21T07:23:23.000Z",
    "assumed_live_until": "2026-11-21T10:23:23Z"
+  },
+  {
+   "post_id": "2124051551622717569",
+   "post_url": "https://x.com/poaenglish/status/2124051551622717569",
+   "name": "Pulse of Africa - English",
+   "username": "poaenglish",
+   "verified_type": "none",
+   "text": "News Roundup: Africa’s Voice. Global Perspective. Your News Roundup of the day’s most significant developments from around the world and across Africa. https://t.co/asi3pH4TTZ",
+   "started_at": "2026-11-21T08:05:27.000Z",
+   "assumed_live_until": "2026-11-21T11:05:27Z"
   }
  ]
 }
