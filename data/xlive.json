@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-21T14:46:43Z",
- "searched_at": "2026-11-21T14:46:08Z",
+ "built_at": "2026-11-21T15:06:02Z",
+ "searched_at": "2026-11-21T15:04:55Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-11-21T15:45:06Z"
   },
   {
-   "post_id": "2124129604419953080",
-   "post_url": "https://x.com/Mur_Tech/status/2124129604419953080",
-   "name": "John R. Murphy",
-   "username": "Mur_Tech",
-   "verified_type": "blue",
-   "text": "889b: Dr. Steve Turley - Trump TRIUMPHS at Shenzhen!!! https://t.co/oBeS9lFsve",
-   "started_at": "2026-11-21T13:15:36.000Z",
-   "assumed_live_until": "2026-11-21T16:15:36Z"
-  },
-  {
    "post_id": "2124149700433506674",
    "post_url": "https://x.com/Sonkondeyni/status/2124149700433506674",
    "name": "Ebrima Sonko",
@@ -63,6 +53,16 @@
    "text": "Behind the Numbers: The Story of CEPRASS, Election Polls & Public Policy in The Gambia https://t.co/647RACvoey",
    "started_at": "2026-11-21T14:35:28.000Z",
    "assumed_live_until": "2026-11-21T17:35:28Z"
+  },
+  {
+   "post_id": "2124129604419953080",
+   "post_url": "https://x.com/Mur_Tech/status/2124129604419953080",
+   "name": "John R. Murphy",
+   "username": "Mur_Tech",
+   "verified_type": "blue",
+   "text": "889b: Dr. Steve Turley - Trump TRIUMPHS at Shenzhen!!! https://t.co/oBeS9lFsve",
+   "started_at": "2026-11-21T13:15:36.000Z",
+   "assumed_live_until": "2026-11-21T16:15:36Z"
   },
   {
    "post_id": "2124128452596924643",
