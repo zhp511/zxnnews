@@ -1,501 +1,534 @@
 {
-  "fetched_at": "2026-11-21T07:51:11Z",
-  "tool": "x.search_posts_all",
-  "args": {
-    "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-    "start_time": "2026-11-21T04:50:37Z",
-    "max_results": 25,
-    "sort_order": "relevancy",
-    "post.fields": [
-      "created_at",
-      "public_metrics",
-      "entities"
-    ],
-    "expansions": [
-      "author_id"
-    ],
-    "user.fields": [
-      "name",
-      "username",
-      "verified",
-      "verified_type",
-      "public_metrics"
-    ]
-  },
-  "data": [
-    {
-      "author_id": "1896622439196762112",
-      "created_at": "2026-11-21T06:08:40.000Z",
-      "edit_history_tweet_ids": [
-        "2124022163384451169"
-      ],
-      "id": "2124022163384451169",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 22,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "GPCC Media Briefing LIVE | Goa Congress Press Conference | Latest Political Updates https://t.co/NMe7WBxZSR",
-      "url": "https://x.com/Rashtra_TV/status/2124022163384451169"
-    },
-    {
-      "author_id": "287602729",
-      "created_at": "2026-11-21T06:44:15.000Z",
-      "edit_history_tweet_ids": [
-        "2124031115652424082"
-      ],
-      "id": "2124031115652424082",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 553,
-        "like_count": 6,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Chief Minister Nayab Singh Saini addressing a Press Conference. https://t.co/1aBtMsvQV7",
-      "url": "https://x.com/BJP4Haryana/status/2124031115652424082"
-    },
-    {
-      "author_id": "2420020489",
-      "created_at": "2026-11-21T06:13:17.000Z",
-      "edit_history_tweet_ids": [
-        "2124023322652405867"
-      ],
-      "id": "2124023322652405867",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 3083,
-        "like_count": 41,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Live: Pakistan Head Coach Mike Hesson &amp; Director High Performance Aqib Javed Press Conference https://t.co/AGkhJOWzoo",
-      "url": "https://x.com/TheRealPCB/status/2124023322652405867"
-    },
-    {
-      "author_id": "954295634663632897",
-      "created_at": "2026-11-21T07:05:28.000Z",
-      "edit_history_tweet_ids": [
-        "2124036454619783458"
-      ],
-      "id": "2124036454619783458",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 388,
-        "like_count": 2,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "text": "LIVE: Press Conference at BJP District Office, Nizamabad, Telangana | Date: 21st November 2026 at 12:00 PM https://t.co/qW0tkAhCno",
-      "url": "https://x.com/Arvindharmapuri/status/2124036454619783458"
-    },
-    {
-      "author_id": "1406048189015158787",
-      "created_at": "2026-11-21T05:34:30.000Z",
-      "edit_history_tweet_ids": [
-        "2124013562234540079"
-      ],
-      "id": "2124013562234540079",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 26,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "दिल्ली-NCR की बड़ी खबरें | Big news of Delhi | CM Rekha Gupta | BJP Delhi | BJP vs Congress https://t.co/kJg2kM703J",
-      "url": "https://x.com/Daily24bharat/status/2124013562234540079"
-    },
-    {
-      "author_id": "1406048189015158787",
-      "created_at": "2026-11-21T07:31:18.000Z",
-      "edit_history_tweet_ids": [
-        "2124042959297630591"
-      ],
-      "id": "2124042959297630591",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 14,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "उत्तराखंड की बड़ी खबरें | Big news of Uttarakhand | CM Dhami | BJP Uttarakhand | BJP vs Congress https://t.co/feI7h7S9KY",
-      "url": "https://x.com/Daily24bharat/status/2124042959297630591"
-    },
-    {
-      "author_id": "161482772",
-      "created_at": "2026-11-21T06:09:20.000Z",
-      "edit_history_tweet_ids": [
-        "2124022331534377026"
-      ],
-      "id": "2124022331534377026",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 94,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Swift@america: Celebrating Digital Authorship! https://t.co/VY7l03GjLu",
-      "url": "https://x.com/atamerica/status/2124022331534377026"
-    },
-    {
-      "author_id": "1202831887984541697",
-      "created_at": "2026-11-21T07:23:23.000Z",
-      "edit_history_tweet_ids": [
-        "2124040963144266160"
-      ],
-      "id": "2124040963144266160",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 82,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "NEWS BULLETIN || LIVE || NEWS || NETWORK10 https://t.co/7EnG2ZOgSZ",
-      "url": "https://x.com/Network10Update/status/2124040963144266160"
-    },
-    {
-      "author_id": "935942321756966912",
-      "created_at": "2026-11-21T04:59:57.000Z",
-      "edit_history_tweet_ids": [
-        "2124004867027182047"
-      ],
-      "id": "2124004867027182047",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 4133,
-        "like_count": 4,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/0pAVX55a5Z",
-      "url": "https://x.com/RealAmVoice/status/2124004867027182047"
-    },
-    {
-      "author_id": "1691380072517664769",
-      "created_at": "2026-11-21T05:28:15.000Z",
-      "edit_history_tweet_ids": [
-        "2124011888199811182",
-        "2124011991547416870"
-      ],
-      "id": "2124011991547416870",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 18,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "LIVE NSC9 NEWS - 21-11-2026 https://t.co/iuHJDqsfmP",
-      "url": "https://x.com/nsc9news/status/2124011991547416870"
-    },
-    {
-      "author_id": "1339166129110065152",
-      "created_at": "2026-11-21T05:59:56.000Z",
-      "edit_history_tweet_ids": [
-        "2124019965997236336"
-      ],
-      "id": "2124019965997236336",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 4046,
-        "like_count": 12,
-        "quote_count": 0,
-        "reply_count": 4,
-        "retweet_count": 5
-      },
-      "text": "GB News https://t.co/y6vplOJ8ym",
-      "url": "https://x.com/GBNEWS/status/2124019965997236336"
-    },
-    {
-      "author_id": "1691380072517664769",
-      "created_at": "2026-11-21T05:27:51.000Z",
-      "edit_history_tweet_ids": [
-        "2124011888199811182",
-        "2124011991547416870"
-      ],
-      "id": "2124011888199811182",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 8,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "LIVE NSC9 NEWS https://t.co/iuHJDqsfmP",
-      "url": "https://x.com/nsc9news/status/2124011888199811182"
-    },
-    {
-      "author_id": "1707048293883056128",
-      "created_at": "2026-11-21T05:48:07.000Z",
-      "edit_history_tweet_ids": [
-        "2124016988502511830"
-      ],
-      "id": "2124016988502511830",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 338,
-        "like_count": 5,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 3
-      },
-      "text": "COLLEGE BASKETBALL PICKS 11/21 |  CBB PREDICTIONS | BETS &amp; CBB NEWS  ANALYSIS | PUMP FAKE POD https://t.co/cpdKqJiDdy",
-      "url": "https://x.com/PumpFakePod/status/2124016988502511830"
-    },
-    {
-      "author_id": "1758614190149791744",
-      "created_at": "2026-11-21T05:18:02.000Z",
-      "edit_history_tweet_ids": [
-        "2124009417830023203"
-      ],
-      "id": "2124009417830023203",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 28,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "🔴LIVE🔴CARNEY TRUMP PUTIN XI TOMMYBOI💥CHAT MORE💥 https://t.co/pt1pQ7vtbW",
-      "url": "https://x.com/TommyTemperShow/status/2124009417830023203"
-    },
-    {
-      "author_id": "2258332112",
-      "created_at": "2026-11-21T04:58:13.000Z",
-      "edit_history_tweet_ids": [
-        "2124004430852825199"
-      ],
-      "id": "2124004430852825199",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 252,
-        "like_count": 2,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "text": "Clown Planet 11/20/2026: Trump in Control Grid Mode, Amnesty? Trillion Gallons of Water on Florida https://t.co/LSDFko9m7c",
-      "url": "https://x.com/Sensus_Fidelium/status/2124004430852825199"
-    }
+ "fetched_at": "2026-11-21T08:17:31Z",
+ "tool": "x.search_posts_all",
+ "args": {
+  "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
+  "start_time": "2026-11-21T05:16:49Z",
+  "max_results": 25,
+  "sort_order": "relevancy",
+  "post.fields": [
+   "created_at",
+   "public_metrics",
+   "entities"
   ],
-  "users": [
-    {
-      "id": "1896622439196762112",
-      "name": "Rashtra TV",
-      "public_metrics": {
-        "followers_count": 253,
-        "following_count": 0,
-        "like_count": 401,
-        "listed_count": 1,
-        "media_count": 18557,
-        "tweet_count": 19696
-      },
-      "username": "Rashtra_TV",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "287602729",
-      "name": "Haryana BJP",
-      "public_metrics": {
-        "followers_count": 340289,
-        "following_count": 273,
-        "like_count": 22299,
-        "listed_count": 268,
-        "media_count": 32031,
-        "tweet_count": 97145
-      },
-      "username": "BJP4Haryana",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "2420020489",
-      "name": "Pakistan Cricket",
-      "public_metrics": {
-        "followers_count": 7119089,
-        "following_count": 186,
-        "like_count": 2590,
-        "listed_count": 2136,
-        "media_count": 40470,
-        "tweet_count": 68472
-      },
-      "username": "TheRealPCB",
-      "verified": true,
-      "verified_type": "blue",
-      "withheld": {
-        "country_codes": [
-          "IN"
-        ]
-      }
-    },
-    {
-      "id": "954295634663632897",
-      "name": "Arvind Dharmapuri",
-      "public_metrics": {
-        "followers_count": 212707,
-        "following_count": 304,
-        "like_count": 19837,
-        "listed_count": 106,
-        "media_count": 17523,
-        "tweet_count": 27984
-      },
-      "username": "Arvindharmapuri",
-      "verified": true,
-      "verified_type": "government"
-    },
-    {
-      "id": "1406048189015158787",
-      "name": "Daily 24 Bharat",
-      "public_metrics": {
-        "followers_count": 1036,
-        "following_count": 8,
-        "like_count": 184,
-        "listed_count": 2,
-        "media_count": 37583,
-        "tweet_count": 38932
-      },
-      "username": "Daily24bharat",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "161482772",
-      "name": "@america",
-      "public_metrics": {
-        "followers_count": 90940,
-        "following_count": 545,
-        "like_count": 2289,
-        "listed_count": 381,
-        "media_count": 7945,
-        "tweet_count": 15295
-      },
-      "username": "atamerica",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1202831887984541697",
-      "name": "Network10",
-      "public_metrics": {
-        "followers_count": 2552,
-        "following_count": 23,
-        "like_count": 4041,
-        "listed_count": 9,
-        "media_count": 65032,
-        "tweet_count": 73477
-      },
-      "username": "Network10Update",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "935942321756966912",
-      "name": "Real America's Voice (RAV)",
-      "public_metrics": {
-        "followers_count": 576366,
-        "following_count": 1927,
-        "like_count": 12127,
-        "listed_count": 1594,
-        "media_count": 87867,
-        "tweet_count": 139954
-      },
-      "username": "RealAmVoice",
-      "verified": true,
-      "verified_type": "business"
-    },
-    {
-      "id": "1691380072517664769",
-      "name": "NSC9 News",
-      "public_metrics": {
-        "followers_count": 664,
-        "following_count": 4,
-        "like_count": 1562,
-        "listed_count": 0,
-        "media_count": 23375,
-        "tweet_count": 36169
-      },
-      "username": "nsc9news",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1339166129110065152",
-      "name": "GB News",
-      "public_metrics": {
-        "followers_count": 994871,
-        "following_count": 49,
-        "like_count": 0,
-        "listed_count": 2730,
-        "media_count": 171879,
-        "tweet_count": 332791
-      },
-      "username": "GBNEWS",
-      "verified": true,
-      "verified_type": "business"
-    },
-    {
-      "id": "1707048293883056128",
-      "name": "Pump Fake Pod",
-      "public_metrics": {
-        "followers_count": 1027,
-        "following_count": 69,
-        "like_count": 1856,
-        "listed_count": 5,
-        "media_count": 395,
-        "tweet_count": 1724
-      },
-      "username": "PumpFakePod",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1758614190149791744",
-      "name": "Tommy Temper Show",
-      "public_metrics": {
-        "followers_count": 1470,
-        "following_count": 3050,
-        "like_count": 5551,
-        "listed_count": 12,
-        "media_count": 307,
-        "tweet_count": 6162
-      },
-      "username": "TommyTemperShow",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "2258332112",
-      "name": "Sensus Fidelium",
-      "public_metrics": {
-        "followers_count": 30892,
-        "following_count": 345,
-        "like_count": 22686,
-        "listed_count": 134,
-        "media_count": 28259,
-        "tweet_count": 90693
-      },
-      "username": "Sensus_Fidelium",
-      "verified": true,
-      "verified_type": "blue"
-    }
+  "expansions": [
+   "author_id"
+  ],
+  "user.fields": [
+   "name",
+   "username",
+   "verified",
+   "verified_type",
+   "public_metrics"
   ]
+ },
+ "data": [
+  {
+   "author_id": "1896622439196762112",
+   "created_at": "2026-11-21T06:08:40.000Z",
+   "edit_history_tweet_ids": [
+    "2124022163384451169"
+   ],
+   "id": "2124022163384451169",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 22,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "GPCC Media Briefing LIVE | Goa Congress Press Conference | Latest Political Updates https://t.co/NMe7WBxZSR",
+   "url": "https://x.com/Rashtra_TV/status/2124022163384451169"
+  },
+  {
+   "author_id": "287602729",
+   "created_at": "2026-11-21T06:44:15.000Z",
+   "edit_history_tweet_ids": [
+    "2124031115652424082"
+   ],
+   "id": "2124031115652424082",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 577,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Chief Minister Nayab Singh Saini addressing a Press Conference. https://t.co/1aBtMsvQV7",
+   "url": "https://x.com/BJP4Haryana/status/2124031115652424082"
+  },
+  {
+   "author_id": "2420020489",
+   "created_at": "2026-11-21T06:13:17.000Z",
+   "edit_history_tweet_ids": [
+    "2124023322652405867"
+   ],
+   "id": "2124023322652405867",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3398,
+    "like_count": 44,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Live: Pakistan Head Coach Mike Hesson &amp; Director High Performance Aqib Javed Press Conference https://t.co/AGkhJOWzoo",
+   "url": "https://x.com/TheRealPCB/status/2124023322652405867"
+  },
+  {
+   "author_id": "954295634663632897",
+   "created_at": "2026-11-21T07:05:28.000Z",
+   "edit_history_tweet_ids": [
+    "2124036454619783458"
+   ],
+   "id": "2124036454619783458",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 421,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "LIVE: Press Conference at BJP District Office, Nizamabad, Telangana | Date: 21st November 2026 at 12:00 PM https://t.co/qW0tkAhCno",
+   "url": "https://x.com/Arvindharmapuri/status/2124036454619783458"
+  },
+  {
+   "author_id": "1406048189015158787",
+   "created_at": "2026-11-21T05:34:30.000Z",
+   "edit_history_tweet_ids": [
+    "2124013562234540079"
+   ],
+   "id": "2124013562234540079",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 27,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "दिल्ली-NCR की बड़ी खबरें | Big news of Delhi | CM Rekha Gupta | BJP Delhi | BJP vs Congress https://t.co/kJg2kM703J",
+   "url": "https://x.com/Daily24bharat/status/2124013562234540079"
+  },
+  {
+   "author_id": "1406048189015158787",
+   "created_at": "2026-11-21T07:31:18.000Z",
+   "edit_history_tweet_ids": [
+    "2124042959297630591"
+   ],
+   "id": "2124042959297630591",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "उत्तराखंड की बड़ी खबरें | Big news of Uttarakhand | CM Dhami | BJP Uttarakhand | BJP vs Congress https://t.co/feI7h7S9KY",
+   "url": "https://x.com/Daily24bharat/status/2124042959297630591"
+  },
+  {
+   "author_id": "161482772",
+   "created_at": "2026-11-21T06:09:20.000Z",
+   "edit_history_tweet_ids": [
+    "2124022331534377026"
+   ],
+   "id": "2124022331534377026",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 97,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Swift@america: Celebrating Digital Authorship! https://t.co/VY7l03GjLu",
+   "url": "https://x.com/atamerica/status/2124022331534377026"
+  },
+  {
+   "author_id": "1202831887984541697",
+   "created_at": "2026-11-21T07:23:23.000Z",
+   "edit_history_tweet_ids": [
+    "2124040963144266160"
+   ],
+   "id": "2124040963144266160",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 85,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "NEWS BULLETIN || LIVE || NEWS || NETWORK10 https://t.co/7EnG2ZOgSZ",
+   "url": "https://x.com/Network10Update/status/2124040963144266160"
+  },
+  {
+   "author_id": "1866816245456162816",
+   "created_at": "2026-11-21T08:05:27.000Z",
+   "edit_history_tweet_ids": [
+    "2124051551622717569"
+   ],
+   "id": "2124051551622717569",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 20,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "News Roundup: Africa’s Voice. Global Perspective. Your News Roundup of the day’s most significant developments from around the world and across Africa. https://t.co/asi3pH4TTZ",
+   "url": "https://x.com/poaenglish/status/2124051551622717569"
+  },
+  {
+   "author_id": "1339166129110065152",
+   "created_at": "2026-11-21T05:59:56.000Z",
+   "edit_history_tweet_ids": [
+    "2124019965997236336"
+   ],
+   "id": "2124019965997236336",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4545,
+    "like_count": 14,
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 5
+   },
+   "text": "GB News https://t.co/y6vplOJ8ym",
+   "url": "https://x.com/GBNEWS/status/2124019965997236336"
+  },
+  {
+   "author_id": "1691380072517664769",
+   "created_at": "2026-11-21T05:27:51.000Z",
+   "edit_history_tweet_ids": [
+    "2124011888199811182",
+    "2124011991547416870"
+   ],
+   "id": "2124011888199811182",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE NSC9 NEWS https://t.co/iuHJDqsfmP",
+   "url": "https://x.com/nsc9news/status/2124011888199811182"
+  },
+  {
+   "author_id": "1691380072517664769",
+   "created_at": "2026-11-21T05:28:15.000Z",
+   "edit_history_tweet_ids": [
+    "2124011888199811182",
+    "2124011991547416870"
+   ],
+   "id": "2124011991547416870",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 20,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE NSC9 NEWS - 21-11-2026 https://t.co/iuHJDqsfmP",
+   "url": "https://x.com/nsc9news/status/2124011991547416870"
+  },
+  {
+   "author_id": "34206701",
+   "created_at": "2026-11-21T08:10:30.000Z",
+   "edit_history_tweet_ids": [
+    "2124052824162185296"
+   ],
+   "id": "2124052824162185296",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1989,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "News 24 LIVE https://t.co/mSk2crLiyY",
+   "url": "https://x.com/news24tvchannel/status/2124052824162185296"
+  },
+  {
+   "author_id": "1854589032702828546",
+   "created_at": "2026-11-21T08:03:42.000Z",
+   "edit_history_tweet_ids": [
+    "2124051108997861567"
+   ],
+   "id": "2124051108997861567",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 362,
+    "like_count": 20,
+    "quote_count": 1,
+    "reply_count": 3,
+    "retweet_count": 10
+   },
+   "text": "Quilibrium: Mainnet, Roadmap &amp; News https://t.co/cHGr1TbCvq",
+   "url": "https://x.com/QuilibriumInc/status/2124051108997861567"
+  },
+  {
+   "author_id": "1707048293883056128",
+   "created_at": "2026-11-21T05:48:07.000Z",
+   "edit_history_tweet_ids": [
+    "2124016988502511830"
+   ],
+   "id": "2124016988502511830",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 349,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 3
+   },
+   "text": "COLLEGE BASKETBALL PICKS 11/21 |  CBB PREDICTIONS | BETS &amp; CBB NEWS  ANALYSIS | PUMP FAKE POD https://t.co/cpdKqJiDdy",
+   "url": "https://x.com/PumpFakePod/status/2124016988502511830"
+  },
+  {
+   "author_id": "1758614190149791744",
+   "created_at": "2026-11-21T05:18:02.000Z",
+   "edit_history_tweet_ids": [
+    "2124009417830023203"
+   ],
+   "id": "2124009417830023203",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 29,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🔴LIVE🔴CARNEY TRUMP PUTIN XI TOMMYBOI💥CHAT MORE💥 https://t.co/pt1pQ7vtbW",
+   "url": "https://x.com/TommyTemperShow/status/2124009417830023203"
+  }
+ ],
+ "users": [
+  {
+   "id": "1896622439196762112",
+   "name": "Rashtra TV",
+   "public_metrics": {
+    "followers_count": 253,
+    "following_count": 0,
+    "like_count": 401,
+    "listed_count": 1,
+    "media_count": 18557,
+    "tweet_count": 19696
+   },
+   "username": "Rashtra_TV",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "287602729",
+   "name": "Haryana BJP",
+   "public_metrics": {
+    "followers_count": 340289,
+    "following_count": 273,
+    "like_count": 22299,
+    "listed_count": 268,
+    "media_count": 32031,
+    "tweet_count": 97145
+   },
+   "username": "BJP4Haryana",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2420020489",
+   "name": "Pakistan Cricket",
+   "public_metrics": {
+    "followers_count": 7119037,
+    "following_count": 186,
+    "like_count": 2590,
+    "listed_count": 2136,
+    "media_count": 40470,
+    "tweet_count": 68472
+   },
+   "username": "TheRealPCB",
+   "verified": true,
+   "verified_type": "blue",
+   "withheld": {
+    "country_codes": [
+     "IN"
+    ]
+   }
+  },
+  {
+   "id": "954295634663632897",
+   "name": "Arvind Dharmapuri",
+   "public_metrics": {
+    "followers_count": 212707,
+    "following_count": 304,
+    "like_count": 19837,
+    "listed_count": 106,
+    "media_count": 17524,
+    "tweet_count": 27984
+   },
+   "username": "Arvindharmapuri",
+   "verified": true,
+   "verified_type": "government"
+  },
+  {
+   "id": "1406048189015158787",
+   "name": "Daily 24 Bharat",
+   "public_metrics": {
+    "followers_count": 1036,
+    "following_count": 8,
+    "like_count": 184,
+    "listed_count": 2,
+    "media_count": 37585,
+    "tweet_count": 38934
+   },
+   "username": "Daily24bharat",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "161482772",
+   "name": "@america",
+   "public_metrics": {
+    "followers_count": 90940,
+    "following_count": 545,
+    "like_count": 2289,
+    "listed_count": 381,
+    "media_count": 7945,
+    "tweet_count": 15295
+   },
+   "username": "atamerica",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1202831887984541697",
+   "name": "Network10",
+   "public_metrics": {
+    "followers_count": 2552,
+    "following_count": 23,
+    "like_count": 4041,
+    "listed_count": 9,
+    "media_count": 65033,
+    "tweet_count": 73478
+   },
+   "username": "Network10Update",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1866816245456162816",
+   "name": "Pulse of Africa - English",
+   "public_metrics": {
+    "followers_count": 2854,
+    "following_count": 0,
+    "like_count": 4,
+    "listed_count": 4,
+    "media_count": 5112,
+    "tweet_count": 5564
+   },
+   "username": "poaenglish",
+   "verified": false,
+   "verified_type": "none"
+  },
+  {
+   "id": "1339166129110065152",
+   "name": "GB News",
+   "public_metrics": {
+    "followers_count": 994880,
+    "following_count": 49,
+    "like_count": 0,
+    "listed_count": 2730,
+    "media_count": 171880,
+    "tweet_count": 332792
+   },
+   "username": "GBNEWS",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "1691380072517664769",
+   "name": "NSC9 News",
+   "public_metrics": {
+    "followers_count": 664,
+    "following_count": 4,
+    "like_count": 1562,
+    "listed_count": 0,
+    "media_count": 23382,
+    "tweet_count": 36176
+   },
+   "username": "nsc9news",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "34206701",
+   "name": "News24",
+   "public_metrics": {
+    "followers_count": 2043778,
+    "following_count": 216,
+    "like_count": 557,
+    "listed_count": 1409,
+    "media_count": 528873,
+    "tweet_count": 700293
+   },
+   "username": "news24tvchannel",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1854589032702828546",
+   "name": "Quilibrium",
+   "public_metrics": {
+    "followers_count": 6673,
+    "following_count": 1,
+    "like_count": 553,
+    "listed_count": 54,
+    "media_count": 79,
+    "tweet_count": 522
+   },
+   "username": "QuilibriumInc",
+   "verified": false,
+   "verified_type": "none"
+  },
+  {
+   "id": "1707048293883056128",
+   "name": "Pump Fake Pod",
+   "public_metrics": {
+    "followers_count": 1027,
+    "following_count": 69,
+    "like_count": 1856,
+    "listed_count": 5,
+    "media_count": 395,
+    "tweet_count": 1724
+   },
+   "username": "PumpFakePod",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1758614190149791744",
+   "name": "Tommy Temper Show",
+   "public_metrics": {
+    "followers_count": 1470,
+    "following_count": 3050,
+    "like_count": 5551,
+    "listed_count": 12,
+    "media_count": 307,
+    "tweet_count": 6162
+   },
+   "username": "TommyTemperShow",
+   "verified": true,
+   "verified_type": "blue"
+  }
+ ]
 }
