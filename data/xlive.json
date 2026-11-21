@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-21T10:12:01Z",
- "searched_at": "2026-11-21T10:11:28Z",
+ "built_at": "2026-11-21T10:33:02Z",
+ "searched_at": "2026-11-21T10:33:02Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -25,6 +25,16 @@
    "assumed_live_until": "2026-11-21T11:10:30Z"
   },
   {
+   "post_id": "2124083322481471878",
+   "post_url": "https://x.com/eucopresident/status/2124083322481471878",
+   "name": "António Costa",
+   "username": "eucopresident",
+   "verified_type": "government",
+   "text": "LIVE | Presentation of President Costa’s proposal for the EU long-term budget for 2028-2034 https://t.co/xRVOXrr57j",
+   "started_at": "2026-11-21T10:11:42.000Z",
+   "assumed_live_until": "2026-11-21T13:11:42Z"
+  },
+  {
    "post_id": "2124051108997861567",
    "post_url": "https://x.com/QuilibriumInc/status/2124051108997861567",
    "name": "Quilibrium",
@@ -33,16 +43,6 @@
    "text": "Quilibrium: Mainnet, Roadmap & News https://t.co/cHGr1TbCvq",
    "started_at": "2026-11-21T08:03:42.000Z",
    "assumed_live_until": "2026-11-21T11:03:42Z"
-  },
-  {
-   "post_id": "2124070009148170263",
-   "post_url": "https://x.com/Channel1TVGHA/status/2124070009148170263",
-   "name": "ChannelOne TV",
-   "username": "Channel1TVGHA",
-   "verified_type": "blue",
-   "text": "Channel One TV LIVE | The Big Presidential Jet Debate | Will The New Economy Work? | The Big Issue | https://t.co/OJtOXdmlKM",
-   "started_at": "2026-11-21T09:18:48.000Z",
-   "assumed_live_until": "2026-11-21T12:18:48Z"
   },
   {
    "post_id": "2124080529196671268",
@@ -55,14 +55,14 @@
    "assumed_live_until": "2026-11-21T13:00:36Z"
   },
   {
-   "post_id": "2124040963144266160",
-   "post_url": "https://x.com/Network10Update/status/2124040963144266160",
-   "name": "Network10",
-   "username": "Network10Update",
+   "post_id": "2124070009148170263",
+   "post_url": "https://x.com/Channel1TVGHA/status/2124070009148170263",
+   "name": "ChannelOne TV",
+   "username": "Channel1TVGHA",
    "verified_type": "blue",
-   "text": "NEWS BULLETIN || LIVE || NEWS || NETWORK10 https://t.co/7EnG2ZOgSZ",
-   "started_at": "2026-11-21T07:23:23.000Z",
-   "assumed_live_until": "2026-11-21T10:23:23Z"
+   "text": "Channel One TV LIVE | The Big Presidential Jet Debate | Will The New Economy Work? | The Big Issue | https://t.co/OJtOXdmlKM",
+   "started_at": "2026-11-21T09:18:48.000Z",
+   "assumed_live_until": "2026-11-21T12:18:48Z"
   },
   {
    "post_id": "2124051551622717569",
