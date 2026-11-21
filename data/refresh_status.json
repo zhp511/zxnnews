@@ -2,31 +2,32 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-21T12:08:48Z",
+  "updated_at": "2026-11-21T12:20:10Z",
   "last_x_check": {
-    "at": "2026-11-21T12:08:48Z",
-    "new_posts": 0,
-    "new_post_ids": [],
-    "newest_id": "2123969615239750114",
-    "published": true,
+    "at": "2026-11-21T12:20:10Z",
+    "new_posts": 1,
+    "new_post_ids": [
+      "2124113623953928648"
+    ],
+    "newest_id": "2124113623953928648",
+    "published": false,
     "refreshed": [
-      "xlive"
+      "posts"
     ],
     "skipped": {
       "trending": "trending.json built_at 2026-11-21T11:19:27Z age < 60 minutes",
       "following": "featured_accounts empty",
-      "tv": "tv.json mtime 2026-11-21T09:10:32Z age < 3 hours",
-      "posts": "one get_users_posts read (since_id 2123969615239750114); result_count 0, no new posts"
+      "xlive": "xlive_raw/search.json fetched_at 2026-11-21T12:07:26Z age < 15 minutes"
     },
-    "x_reads_this_run": 2,
+    "x_reads_this_run": 1,
     "notes": {
-      "posts": "one get_users_posts read (since_id 2123969615239750114); result_count 0, no new posts",
-      "xlive": "search_posts_all 12 posts since 2026-11-21T09:07:26Z; xlive.py wrote 8 broadcasts (added @mediasapientia, dropped @growthnownews)",
-      "publish": "X Live update pending push"
+      "posts": "one get_users_posts read (since_id 2123969615239750114); result_count 1, new id 2124113623953928648 created 2026-11-21T12:12:06Z",
+      "tv": "tv.json mtime was > 3 hours; tv_channels.py ran but YouTube /live pages were sign-in or empty shells (no isLiveNow/canonical). Kept last good tv.json (checked_at 2026-11-21T09:10:32Z) instead of publishing all channels ok=false.",
+      "publish": "posts update pending push"
     }
   },
-  "last_publish": "X Live update; pushed 551e9ea; live site https://zhp511.github.io/zxnnews/ HTTP 200 (Pages build 1389810445 success)",
-  "x_reads_left_today": "916 of 1000 (resets 2026-11-22T00:00Z)",
+  "last_publish": "X Live update; pushed 2ebf14e; live site https://zhp511.github.io/zxnnews/ HTTP 200 (Pages build 44902453955 success)",
+  "x_reads_left_today": "915 of 1000 (resets 2026-11-22T00:00Z)",
   "note": "X checks succeeded; failure streak 0.",
   "failure_streak": 0
 }
