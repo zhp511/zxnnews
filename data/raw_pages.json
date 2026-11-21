@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-06T00:24:11.068740Z",
+ "fetched_at": "2026-11-21T05:59:19.895603Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -21,6 +21,572 @@
   "verified": false
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-11-21T02:39:52.000Z",
+     "edit_history_tweet_ids": [
+      "2123969615239750114"
+     ],
+     "id": "2123969615239750114",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 30,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "Set a reminder for my upcoming Space! https://t.co/1dK1iZrcgS",
+     "url": "https://x.com/i/status/2123969615239750114"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2123968377551044608"
+      ]
+     },
+     "created_at": "2026-11-21T02:34:59.000Z",
+     "edit_history_tweet_ids": [
+      "2123968386069864630"
+     ],
+     "id": "2123968386069864630",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 61,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+     },
+     "text": "Next week #patriotonenetwork Live space coming soon https://t.co/9t7TdtERQI",
+     "url": "https://x.com/i/status/2123968386069864630"
+    },
+    {
+     "created_at": "2026-11-21T00:43:48.000Z",
+     "edit_history_tweet_ids": [
+      "2123940405808898476"
+     ],
+     "id": "2123940405808898476",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 96,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2123939299158602228",
+       "type": "quoted"
+      }
+     ],
+     "text": "#smackdown live now https://t.co/AaJMjgfcCp",
+     "url": "https://x.com/i/status/2123940405808898476"
+    },
+    {
+     "created_at": "2026-11-21T00:39:24.000Z",
+     "edit_history_tweet_ids": [
+      "2123939299158602228"
+     ],
+     "id": "2123939299158602228",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 165,
+      "like_count": 0,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 2
+     },
+     "text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory  #smackown https://t.co/SNcbFJzdzr",
+     "url": "https://x.com/i/status/2123939299158602228"
+    },
+    {
+     "created_at": "2026-11-20T19:41:24.000Z",
+     "edit_history_tweet_ids": [
+      "2123864305795993845"
+     ],
+     "id": "2123864305795993845",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 29,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2123830276778590585",
+       "type": "quoted"
+      }
+     ],
+     "text": "#REDFriday https://t.co/KWjXctMQEC",
+     "url": "https://x.com/i/status/2123864305795993845"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2123830271967383552"
+      ]
+     },
+     "created_at": "2026-11-20T17:26:11.000Z",
+     "edit_history_tweet_ids": [
+      "2123830276778590585"
+     ],
+     "id": "2123830276778590585",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 231,
+      "like_count": 6,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 6
+     },
+     "text": "#patriotonenetwork and #BlueHand I love u all https://t.co/MUOcQULAh9",
+     "url": "https://x.com/i/status/2123830276778590585"
+    },
+    {
+     "created_at": "2026-11-20T17:07:08.000Z",
+     "edit_history_tweet_ids": [
+      "2123825483942887586"
+     ],
+     "id": "2123825483942887586",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 38,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "Brantley Gilbert - Real American (Official Video) https://t.co/mzrpwyE0yO via @YouTube",
+     "url": "https://x.com/i/status/2123825483942887586"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2123630572815704064"
+      ]
+     },
+     "created_at": "2026-11-20T04:12:39.000Z",
+     "edit_history_tweet_ids": [
+      "2123630578058592561"
+     ],
+     "id": "2123630578058592561",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 281,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+     },
+     "text": "New #patriotonenetwork https://t.co/l7PLM5Uhpo",
+     "url": "https://x.com/i/status/2123630578058592561"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2123490100763852801"
+      ]
+     },
+     "created_at": "2026-11-19T18:55:38.000Z",
+     "edit_history_tweet_ids": [
+      "2123490399549551072"
+     ],
+     "id": "2123490399549551072",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 188,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+     },
+     "text": "Why I call myself the the code you’ll find out in the the patriot one network space live next week #patriotonenetwork https://t.co/mZ5uArlNAG",
+     "url": "https://x.com/i/status/2123490399549551072"
+    },
+    {
+     "created_at": "2026-11-19T16:48:14.000Z",
+     "edit_history_tweet_ids": [
+      "2123458338390208562"
+     ],
+     "id": "2123458338390208562",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 105,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+     },
+     "text": "I’m going to @apinionsvary’s upcoming Space. Will you join too? https://t.co/LyyZm8OkSj",
+     "url": "https://x.com/i/status/2123458338390208562"
+    },
+    {
+     "created_at": "2026-11-19T16:33:57.000Z",
+     "edit_history_tweet_ids": [
+      "2123454744664719801"
+     ],
+     "id": "2123454744664719801",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 65,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "I’m going to @CHELLESHOCKEDTM’s upcoming Space. Will you join too? https://t.co/VpmZPGiCiB",
+     "url": "https://x.com/i/status/2123454744664719801"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2123324795831963648"
+      ]
+     },
+     "created_at": "2026-11-19T07:57:36.000Z",
+     "edit_history_tweet_ids": [
+      "2123324801423167559"
+     ],
+     "id": "2123324801423167559",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 210,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+     },
+     "text": "Next week spaces will be opened two times a week. Call patriot one network. https://t.co/2adHcAQ3vG",
+     "url": "https://x.com/i/status/2123324801423167559"
+    },
+    {
+     "created_at": "2026-11-19T07:54:44.000Z",
+     "edit_history_tweet_ids": [
+      "2123324080770404425"
+     ],
+     "id": "2123324080770404425",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 49,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "https://t.co/OdLTJAlCaS",
+     "url": "https://x.com/i/status/2123324080770404425"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2123308005999394816"
+      ]
+     },
+     "created_at": "2026-11-19T06:51:02.000Z",
+     "edit_history_tweet_ids": [
+      "2123308049217581562"
+     ],
+     "id": "2123308049217581562",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 200,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+     },
+     "text": "#PatriotoneNetwork https://t.co/EvXS70hD77",
+     "url": "https://x.com/i/status/2123308049217581562"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2123298839469690880"
+      ]
+     },
+     "created_at": "2026-11-19T06:14:29.000Z",
+     "edit_history_tweet_ids": [
+      "2123298848772919531"
+     ],
+     "id": "2123298848772919531",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 257,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+     },
+     "text": "Next week #bluehand https://t.co/aChvYtTtnM",
+     "url": "https://x.com/i/status/2123298848772919531"
+    },
+    {
+     "created_at": "2026-11-19T04:35:56.000Z",
+     "edit_history_tweet_ids": [
+      "2123274051108090145"
+     ],
+     "id": "2123274051108090145",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 42,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "https://t.co/JCkD09FGpN",
+     "url": "https://x.com/i/status/2123274051108090145"
+    },
+    {
+     "created_at": "2026-11-19T04:23:00.000Z",
+     "edit_history_tweet_ids": [
+      "2123270795019297181"
+     ],
+     "id": "2123270795019297181",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 41,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "https://t.co/FZtpFNKMyy",
+     "url": "https://x.com/i/status/2123270795019297181"
+    },
+    {
+     "created_at": "2026-11-18T21:14:02.000Z",
+     "edit_history_tweet_ids": [
+      "2123162840194494485"
+     ],
+     "id": "2123162840194494485",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 36,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "https://t.co/WdOOsZsgzq",
+     "url": "https://x.com/i/status/2123162840194494485"
+    },
+    {
+     "created_at": "2026-11-18T17:30:49.000Z",
+     "edit_history_tweet_ids": [
+      "2123106668619706865"
+     ],
+     "id": "2123106668619706865",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 276,
+      "like_count": 6,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+     },
+     "text": "To let everyone know I am at Amazon affiliate now am get to work on this this coming week thank you very much",
+     "url": "https://x.com/i/status/2123106668619706865"
+    },
+    {
+     "created_at": "2026-11-18T06:23:31.000Z",
+     "edit_history_tweet_ids": [
+      "2122938733687116104"
+     ],
+     "id": "2122938733687116104",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 519,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+     },
+     "text": "The Lacs - American Rebelution (Lyric Video) https://t.co/07JAgiewDJ via @YouTube",
+     "url": "https://x.com/i/status/2122938733687116104"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2122731307163684864"
+      ]
+     },
+     "created_at": "2026-11-17T16:39:38.000Z",
+     "edit_history_tweet_ids": [
+      "2122731398217806275"
+     ],
+     "id": "2122731398217806275",
+     "in_reply_to_user_id": "2011476148178599939",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 25,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2122731238154994090",
+       "type": "replied_to"
+      }
+     ],
+     "text": "Reposted by https://t.co/105DzhhwNB",
+     "url": "https://x.com/i/status/2122731398217806275"
+    },
+    {
+     "created_at": "2026-11-17T16:39:00.000Z",
+     "edit_history_tweet_ids": [
+      "2122731238154994090"
+     ],
+     "id": "2122731238154994090",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 156,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1
+     },
+     "text": "I’m going to @apinionsvary’s upcoming Space. Will you join too? https://t.co/2C2dLmQbpz",
+     "url": "https://x.com/i/status/2122731238154994090"
+    },
+    {
+     "created_at": "2026-11-17T12:57:30.000Z",
+     "edit_history_tweet_ids": [
+      "2122675496169373707"
+     ],
+     "id": "2122675496169373707",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 406,
+      "like_count": 5,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 6
+     },
+     "text": "LET IT EAT by 10MM#metal #metalfans #diesel #workoutmotivation #numetal https://t.co/2DujjIYig5 via @YouTube",
+     "url": "https://x.com/i/status/2122675496169373707"
+    },
+    {
+     "created_at": "2026-11-17T12:52:25.000Z",
+     "edit_history_tweet_ids": [
+      "2122674217015746817"
+     ],
+     "id": "2122674217015746817",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 215,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+     },
+     "text": "I Don't Wanna Stop https://t.co/kJqahDSlyd via @YouTube",
+     "url": "https://x.com/i/status/2122674217015746817"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2122610650580914176"
+      ]
+     },
+     "created_at": "2026-11-17T08:40:16.000Z",
+     "edit_history_tweet_ids": [
+      "2122610761474416799"
+     ],
+     "id": "2122610761474416799",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 203,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+     },
+     "text": "New #patriotonenetwork #BlueHand #ZXNLive and that’s ZXN championship can you dig that? The network. Keeps working. https://t.co/sl0F4DWj1Z",
+     "url": "https://x.com/i/status/2122610761474416799"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "height": 1254,
+      "media_key": "3_2123968377551044608",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXnZ_HIXwAA9V7X.jpg",
+      "width": 1254
+     },
+     {
+      "height": 1254,
+      "media_key": "3_2123830271967383552",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXlcYTvWUAAsjAy.jpg",
+      "width": 1254
+     },
+     {
+      "height": 1254,
+      "media_key": "3_2123630572815704064",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXimwSbW4AAghju.jpg",
+      "width": 1254
+     },
+     {
+      "height": 720,
+      "media_key": "13_2123490100763852801",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2123490100763852801/img/4TwklBzb2HpwgSH0.jpg",
+      "type": "video",
+      "width": 1280
+     },
+     {
+      "height": 1254,
+      "media_key": "3_2123324795831963648",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXeQpuZX0AADe1x.jpg",
+      "width": 1254
+     },
+     {
+      "height": 1024,
+      "media_key": "13_2123308005999394816",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2123308005999394816/img/jRGT7v99Ez632PKN.jpg",
+      "type": "video",
+      "width": 576
+     },
+     {
+      "height": 1254,
+      "media_key": "3_2123298839469690880",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HXd5C3aXEAA3H_H.jpg",
+      "width": 1254
+     },
+     {
+      "height": 720,
+      "media_key": "13_2122731307163684864",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122731307163684864/img/xkEC4Uyn34E99hVW.jpg",
+      "type": "video",
+      "width": 1280
+     },
+     {
+      "height": 720,
+      "media_key": "13_2122610650580914176",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122610650580914176/img/ZaMZlbXfVIq0m9MI.jpg",
+      "type": "video",
+      "width": 1280
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2123969615239750114",
+    "next_token": "7140dibdnow9c7btwp0gm7clxsmi6ch9ofqjzzfq9y0qh",
+    "oldest_id": "2122610761474416799",
+    "result_count": 25
+   }
+  },
   {
    "data": [
     {

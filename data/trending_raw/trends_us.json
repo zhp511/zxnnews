@@ -1,89 +1,104 @@
 {
-  "fetched_at": "2026-11-06T00:15:28Z",
-  "tool": "x.get_trends_by_woeid",
-  "args": {
-    "woeid": 23424977
+ "fetched_at": "2026-11-21T05:59:19Z",
+ "tool": "x.get_trends_by_woeid",
+ "args": {
+  "woeid": 23424977
+ },
+ "data": [
+  {
+   "trend_name": "Kessler",
+   "tweet_count": 4426,
+   "url": "https://x.com/search?q=Kessler"
   },
-  "data": [
-    {
-      "trend_name": "Deliver",
-      "url": "https://x.com/search?q=Deliver"
-    },
-    {
-      "trend_name": "Pete",
-      "url": "https://x.com/search?q=Pete"
-    },
-    {
-      "trend_name": "Defend the Republic",
-      "url": "https://x.com/search?q=Defend%20the%20Republic"
-    },
-    {
-      "trend_name": "Harmeet",
-      "url": "https://x.com/search?q=Harmeet"
-    },
-    {
-      "trend_name": "Salon",
-      "url": "https://x.com/search?q=Salon"
-    },
-    {
-      "trend_name": "Tuten",
-      "url": "https://x.com/search?q=Tuten"
-    },
-    {
-      "trend_name": "Jaguars",
-      "url": "https://x.com/search?q=Jaguars"
-    },
-    {
-      "trend_name": "Oval Office",
-      "url": "https://x.com/search?q=Oval%20Office"
-    },
-    {
-      "trend_name": "Russell Brand",
-      "url": "https://x.com/search?q=Russell%20Brand"
-    },
-    {
-      "trend_name": "Inkling 2 Small",
-      "url": "https://x.com/search?q=Inkling%202%20Small"
-    },
-    {
-      "trend_name": "Led Zeppelin",
-      "url": "https://x.com/search?q=Led%20Zeppelin"
-    },
-    {
-      "trend_name": "Jovana",
-      "url": "https://x.com/search?q=Jovana"
-    },
-    {
-      "trend_name": "401k",
-      "url": "https://x.com/search?q=401k"
-    },
-    {
-      "trend_name": "Cada 5",
-      "url": "https://x.com/search?q=Cada%205"
-    },
-    {
-      "trend_name": "Thursday Night Football",
-      "url": "https://x.com/search?q=Thursday%20Night%20Football"
-    },
-    {
-      "trend_name": "#LightningStrikes",
-      "url": "https://x.com/search?q=%23LightningStrikes"
-    },
-    {
-      "trend_name": "Darren Harris",
-      "url": "https://x.com/search?q=Darren%20Harris"
-    },
-    {
-      "trend_name": "Nasdaq",
-      "url": "https://x.com/search?q=Nasdaq"
-    },
-    {
-      "trend_name": "Besiktas",
-      "url": "https://x.com/search?q=Besiktas"
-    },
-    {
-      "trend_name": "La Conference Panamá",
-      "url": "https://x.com/search?q=La%20Conference%20Panam%C3%A1"
-    }
-  ]
+  {
+   "trend_name": "#SmackDown",
+   "tweet_count": 17160,
+   "url": "https://x.com/search?q=%23SmackDown"
+  },
+  {
+   "trend_name": "Harden",
+   "tweet_count": 13991,
+   "url": "https://x.com/search?q=Harden"
+  },
+  {
+   "trend_name": "Clemson",
+   "tweet_count": 7457,
+   "url": "https://x.com/search?q=Clemson"
+  },
+  {
+   "trend_name": "#OPLive",
+   "tweet_count": 1470,
+   "url": "https://x.com/search?q=%23OPLive"
+  },
+  {
+   "trend_name": "Mark Pope",
+   "tweet_count": 2172,
+   "url": "https://x.com/search?q=Mark%20Pope"
+  },
+  {
+   "trend_name": "Wyoming",
+   "tweet_count": 3799,
+   "url": "https://x.com/search?q=Wyoming"
+  },
+  {
+   "trend_name": "Sengun",
+   "tweet_count": 3185,
+   "url": "https://x.com/search?q=Sengun"
+  },
+  {
+   "trend_name": "#iubb",
+   "tweet_count": 1750,
+   "url": "https://x.com/search?q=%23iubb"
+  },
+  {
+   "trend_name": "Kevin Durant",
+   "tweet_count": 1951,
+   "url": "https://x.com/search?q=Kevin%20Durant"
+  },
+  {
+   "trend_name": "#LaGranjaTraicion",
+   "tweet_count": 2516,
+   "url": "https://x.com/search?q=%23LaGranjaTraicion"
+  },
+  {
+   "trend_name": "Brazile",
+   "url": "https://x.com/search?q=Brazile"
+  },
+  {
+   "trend_name": "Ferrari",
+   "tweet_count": 26845,
+   "url": "https://x.com/search?q=Ferrari"
+  },
+  {
+   "trend_name": "Vando",
+   "url": "https://x.com/search?q=Vando"
+  },
+  {
+   "trend_name": "Guasave",
+   "tweet_count": 17357,
+   "url": "https://x.com/search?q=Guasave"
+  },
+  {
+   "trend_name": "Nuggets",
+   "tweet_count": 8003,
+   "url": "https://x.com/search?q=Nuggets"
+  },
+  {
+   "trend_name": "Fred VanVleet",
+   "url": "https://x.com/search?q=Fred%20VanVleet"
+  },
+  {
+   "trend_name": "Seton Hall",
+   "tweet_count": 1520,
+   "url": "https://x.com/search?q=Seton%20Hall"
+  },
+  {
+   "trend_name": "Trent Pearman",
+   "url": "https://x.com/search?q=Trent%20Pearman"
+  },
+  {
+   "trend_name": "#Cannonball",
+   "url": "https://x.com/search?q=%23Cannonball"
+  }
+ ]
 }

@@ -1,684 +1,670 @@
 {
-  "fetched_at": "2026-11-06T00:17:16Z",
-  "tool": "x.search_news",
-  "args": {
-    "query": "US politics",
-    "max_results": 10,
-    "max_age_hours": 24,
-    "news.fields": "name,summary,hook,category,updated_at,contexts,cluster_posts_results"
-  },
-  "data": [
-    {
-      "category": "News",
-      "cluster_posts_results": [
-        {
-          "post_id": "2117885624472449389"
-        },
-        {
-          "post_id": "2118133796751253557"
-        },
-        {
-          "post_id": "2118146509606957501"
-        },
-        {
-          "post_id": "2118134704000098749"
-        },
-        {
-          "post_id": "2118032703589114311"
-        },
-        {
-          "post_id": "2118104826697462117"
-        },
-        {
-          "post_id": "2118146509606957501"
-        },
-        {
-          "post_id": "2118032703589114311"
-        },
-        {
-          "post_id": "2118134704000098749"
-        },
-        {
-          "post_id": "2118138973931634860"
-        }
-      ],
-      "contexts": {
-        "entities": {
-          "events": [],
-          "organizations": [
-            "Democratic Party",
-            "Republican Party"
-          ],
-          "people": [
-            "Thrilla the Gorilla"
-          ],
-          "places": [
-            "United States"
-          ],
-          "products": []
-        },
-        "finance": {
-          "tickers": []
-        },
-        "sports": {
-          "teams": []
-        },
-        "topics": [
-          "Politics"
-        ]
-      },
-      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "Democrats flipped longtime Republican strongholds like Texas and Kansas, handing Trump and the GOP a major setback. Curtis Yarvin responded with a grim post calling it the final showdown between parties.",
-      "id": "2118145178947240201",
-      "name": "Democrats Take House and Senate in 2026 Midterms, Prompting Stark Warnings",
-      "summary": "In the 2026 midterms, Democrats gained control of both the House and Senate, rejecting Trump's agenda in races across diverse regions. Yarvin's X post warned that losing the next election would destroy the GOP, while winning must dismantle Democrats, linking to an essay viewing parties as armies in a chaotic democracy. Replies voiced frustration with endless two-year swings, policy whiplash, and the two-party system's instability, with some questioning voter choices and calling for change.",
-      "updated_at": "2026-11-05T05:39:31.000Z",
-      "url": "https://x.com/i/trending/2118145178947240201"
-    },
-    {
-      "category": "News",
-      "cluster_posts_results": [
-        {
-          "post_id": "2117962126409265454"
-        },
-        {
-          "post_id": "2117954144233464152"
-        },
-        {
-          "post_id": "2118166638478737685"
-        },
-        {
-          "post_id": "2118155053416788393"
-        },
-        {
-          "post_id": "2118031526239649932"
-        },
-        {
-          "post_id": "2117954144233464152"
-        },
-        {
-          "post_id": "2118166638478737685"
-        },
-        {
-          "post_id": "2118031526239649932"
-        },
-        {
-          "post_id": "2118155053416788393"
-        },
-        {
-          "post_id": "2117962126409265454"
-        }
-      ],
-      "contexts": {
-        "entities": {
-          "events": [],
-          "organizations": [],
-          "people": [],
-          "places": [],
-          "products": []
-        },
-        "finance": {
-          "tickers": []
-        },
-        "sports": {
-          "teams": []
-        },
-        "topics": [
-          "Elections"
-        ]
-      },
-      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "Foreign critics wonder why Americans skip independents for real change, but U.S. voices fire back with a simple truth: the system makes third-party votes feel like a waste.",
-      "id": "2117964897594040454",
-      "name": "Why Americans Stick with Major Parties Despite Frustration",
-      "summary": "A lively online exchange explains how Duverger’s Law and first-past-the-post voting lock in two-party dominance, pushing voters to choose majors to avoid spoiling close races. Polls show many identify as independents yet back Democrats or Republicans on Election Day, facing hurdles like ballot access and limited media for others. Historical runs like Ross Perot's 19% in 1992 split votes without upending the duopoly, leaving users skeptical of quick fixes amid 2026 midterm tensions.",
-      "updated_at": "2026-11-05T06:30:12.000Z",
-      "url": "https://x.com/i/trending/2117964897594040454"
-    },
-    {
-      "category": "News",
-      "cluster_posts_results": [
-        {
-          "post_id": "2117801288058470860"
-        },
-        {
-          "post_id": "2117782704469295273"
-        },
-        {
-          "post_id": "2117847623893667920"
-        },
-        {
-          "post_id": "2117829449807015951"
-        },
-        {
-          "post_id": "2117815665868390530"
-        },
-        {
-          "post_id": "2117782704469295273"
-        },
-        {
-          "post_id": "2117801288058470860"
-        },
-        {
-          "post_id": "2117831726873575598"
-        },
-        {
-          "post_id": "2118026448506335596"
-        },
-        {
-          "post_id": "2117778023126876449"
-        }
-      ],
-      "contexts": {
-        "entities": {
-          "events": [
-            "2026 U.S. Midterm Elections"
-          ],
-          "organizations": [
-            "Democrats"
-          ],
-          "people": [
-            "Keisha Lance Bottoms",
-            "Rick Jackson",
-            "Abdul El-Sayed",
-            "Mike Rogers",
-            "Xavier Becerra",
-            "Steve Hilton",
-            "Clayton Tucker",
-            "Nate Sheets"
-          ],
-          "places": [
-            "Georgia",
-            "Michigan",
-            "California",
-            "Texas"
-          ],
-          "products": []
-        },
-        "finance": {
-          "tickers": []
-        },
-        "sports": {
-          "teams": []
-        },
-        "topics": [
-          "News",
-          "Elections"
-        ]
-      },
-      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "Keisha Lance Bottoms stepped into history Tuesday night, her victory speech carrying the weight of generations as Georgia's voters chose her as their first Black woman governor.",
-      "id": "2117861751828148588",
-      "name": "Keisha Lance Bottoms Elected Georgia's First Black Female Governor",
-      "summary": "The former Atlanta mayor and Biden adviser defeated Republican Rick Jackson, flipping the governor's office from GOP control after 24 years and succeeding term-limited Gov. Brian Kemp. Bottoms campaigned on affordability, healthcare, and education access, overcoming Jackson's heavy personal spending. Supporters celebrated the milestone, with Stacey Abrams congratulating her for a 'brighter direction,' while Bottoms thanked Georgia simply: 'Thank you 💙.' Her win as the great-great-granddaughter of an enslaved man adds deep personal resonance to the moment.",
-      "updated_at": "2026-11-05T02:40:48.000Z",
-      "url": "https://x.com/i/trending/2117861751828148588"
-    },
-    {
-      "category": "News",
-      "cluster_posts_results": [
-        {
-          "post_id": "2118081177492066485"
-        },
-        {
-          "post_id": "2118149953931665764"
-        },
-        {
-          "post_id": "2118129108479819977"
-        },
-        {
-          "post_id": "2118179780080423099"
-        },
-        {
-          "post_id": "2118081177492066485"
-        },
-        {
-          "post_id": "2118118784137383976"
-        },
-        {
-          "post_id": "2118170617782394908"
-        },
-        {
-          "post_id": "2118117431734612409"
-        },
-        {
-          "post_id": "2118149953931665764"
-        },
-        {
-          "post_id": "2118132424509141101"
-        }
-      ],
-      "contexts": {
-        "entities": {
-          "events": [],
-          "organizations": [],
-          "people": [
-            "Patrick Collison"
-          ],
-          "places": [
-            "America"
-          ],
-          "products": []
-        },
-        "finance": {
-          "tickers": []
-        },
-        "sports": {
-          "teams": []
-        },
-        "topics": [
-          "Politics"
-        ]
-      },
-      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "Patrick Collison sees America's democracy thriving through responsive policy shifts over the past decade. Yet a Pew poll tells a starkly different story, with satisfaction dropping to 30% by 2026.",
-      "id": "2118187173170106464",
-      "name": "Stripe CEO Praises U.S. Democracy Amid Falling Satisfaction Polls",
-      "summary": "Stripe CEO Patrick Collison highlighted how U.S. national outcomes have closely matched voter preferences on key issues, citing Alexis de Tocqueville’s 'Democracy in America' as still relevant. A Pew Research Center chart showed public satisfaction with democracy falling from 46% in 2017 to 30% in 2026. Replies split sharply: some pointed to policy swings like immigration changes as proof of the system's strength, while others decried its vulnerability to 'tyrants' and shared memes warning of long-term risks. The exchange underscores ongoing debates about democracy's responsiveness versus public discontent.",
-      "updated_at": "2026-11-05T03:48:21.000Z",
-      "url": "https://x.com/i/trending/2118187173170106464"
-    },
-    {
-      "category": "News",
-      "cluster_posts_results": [
-        {
-          "post_id": "2118322691614666882"
-        },
-        {
-          "post_id": "2117963974646092151"
-        },
-        {
-          "post_id": "2118355334183944458"
-        },
-        {
-          "post_id": "2118326238347771931"
-        },
-        {
-          "post_id": "2118024617982050625"
-        },
-        {
-          "post_id": "2118321796214829443"
-        },
-        {
-          "post_id": "2118361065436123330"
-        },
-        {
-          "post_id": "2118322691614666882"
-        },
-        {
-          "post_id": "2118308681007972421"
-        },
-        {
-          "post_id": "2118311266490188228"
-        }
-      ],
-      "contexts": {
-        "entities": {
-          "events": [],
-          "organizations": [
-            "Democratic Party",
-            "Republican Party"
-          ],
-          "people": [],
-          "places": [
-            "Michigan"
-          ],
-          "products": []
-        },
-        "finance": {
-          "tickers": []
-        },
-        "sports": {
-          "teams": []
-        },
-        "topics": [
-          "News",
-          "Politics"
-        ]
-      },
-      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "Democrats stand on the brink of flipping enough state legislatures to trigger a compact that would award electoral votes to the national popular vote winner.",
-      "id": "2118361138068943038",
-      "name": "Democrats Near Power to Activate National Popular Vote Compact",
-      "summary": "In the 2026 midterms, Democrats are projected to flip 12 state legislative chambers, breaking Republicans' 16-year hold and creating trifectas in key battlegrounds like Pennsylvania, Michigan, Wisconsin, Nevada, and Arizona. These shifts add about 61 electoral votes to the National Popular Vote Interstate Compact, which already has 222 from 18 states and D.C., pushing it past the 270 needed to sideline the Electoral College without a constitutional amendment. While supporters celebrate the opening, skeptics point to past failures in states like Michigan and unresolved legal questions about congressional approval.",
-      "updated_at": "2026-11-05T15:21:45.000Z",
-      "url": "https://x.com/i/trending/2118361138068943038"
-    },
-    {
-      "category": "News",
-      "cluster_posts_results": [
-        {
-          "post_id": "2118323770351866212"
-        },
-        {
-          "post_id": "2118407536760291579"
-        },
-        {
-          "post_id": "2118405511452238201"
-        },
-        {
-          "post_id": "2118462689093828824"
-        },
-        {
-          "post_id": "2118405511452238201"
-        },
-        {
-          "post_id": "2118462689093828824"
-        },
-        {
-          "post_id": "2118407536760291579"
-        },
-        {
-          "post_id": "2118422333283250480"
-        },
-        {
-          "post_id": "2118422804932476955"
-        },
-        {
-          "post_id": "2118421651805319678"
-        }
-      ],
-      "contexts": {
-        "entities": {
-          "events": [
-            "2024 elections"
-          ],
-          "organizations": [],
-          "people": [],
-          "places": [],
-          "products": []
-        },
-        "finance": {
-          "tickers": []
-        },
-        "sports": {
-          "teams": []
-        },
-        "topics": [
-          "Elections"
-        ]
-      },
-      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "Election night maps showed Texas flipping deep red districts blue, prompting some to cry foul while others blamed voter anger at President Trump.",
-      "id": "2118465201700020499",
-      "name": "Texas Democratic Sweeps Spark Statistical Impossible Claims in 2026 Midterms",
-      "summary": "Democrats captured the Texas governorship, U.S. Senate seat, and flipped the Texas House for the first time in over two decades, even winning most Republican-favored congressional districts after redistricting. South Texas Hispanic-heavy areas swung sharply back to Democrats despite 2024 Trump leans, with maps highlighting these shifts fueling online skepticism of 'statistical impossibility.' Defenders pointed to Latino voter returns, inflation discontent, and redistricting backlash as reasons for the wave, marking a big reset from 2024 results.",
-      "updated_at": "2026-11-05T22:17:26.000Z",
-      "url": "https://x.com/i/trending/2118465201700020499"
-    },
-    {
-      "category": "News",
-      "cluster_posts_results": [
-        {
-          "post_id": "2118391139816579115"
-        },
-        {
-          "post_id": "2118440166968955085"
-        },
-        {
-          "post_id": "2118469361770037498"
-        },
-        {
-          "post_id": "2118430223691665504"
-        },
-        {
-          "post_id": "2118388629777031327"
-        },
-        {
-          "post_id": "2118440166968955085"
-        },
-        {
-          "post_id": "2118388629777031327"
-        },
-        {
-          "post_id": "2118400203158163638"
-        },
-        {
-          "post_id": "2118391139816579115"
-        },
-        {
-          "post_id": "2118430223691665504"
-        }
-      ],
-      "contexts": {
-        "entities": {
-          "events": [
-            "2022 United States midterm elections"
-          ],
-          "organizations": [
-            "Democratic Party",
-            "Republican Party"
-          ],
-          "people": [
-            "Donald Trump"
-          ],
-          "places": [
-            "United States",
-            "Texas",
-            "Ohio",
-            "Oval Office"
-          ],
-          "products": []
-        },
-        "finance": {
-          "tickers": []
-        },
-        "sports": {
-          "teams": []
-        },
-        "topics": [
-          "Elections"
-        ]
-      },
-      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "Democrats celebrated sweeping gains, from over 250 House seats to flipping the Senate, while President Trump placed a bold 'VETO' hat on his desk as a reminder of his leverage.",
-      "id": "2117819383741567445",
-      "name": "Democrats Seize House and Senate in 2026 Midterms, Facing Trump's Veto Power",
-      "summary": "Democrats secured control of both chambers in the 2026 midterms, marking one of their strongest showings in decades and creating divided government with President Trump. They gained roughly 250 House seats and flipped the Senate with wins in Republican-leaning states, prompting talks of changing filibuster rules to pass a voting rights bill. Trump highlighted his veto authority with the Oval Office hat, as Republicans like Scott Presler urged quick action before the shift, and leaders noted historic wins for Democratic women including firsts in Georgia and New Mexico governorships. The setup promises gridlock with competing agendas ahead.",
-      "updated_at": "2026-11-06T00:08:57.000Z",
-      "url": "https://x.com/i/trending/2117819383741567445"
-    },
-    {
-      "category": "News",
-      "cluster_posts_results": [
-        {
-          "post_id": "2118157866758475861"
-        },
-        {
-          "post_id": "2117402794277904811"
-        },
-        {
-          "post_id": "2117525849654411614"
-        },
-        {
-          "post_id": "2118206339340222667"
-        },
-        {
-          "post_id": "2118184575344193895"
-        },
-        {
-          "post_id": "2117525849654411614"
-        },
-        {
-          "post_id": "2118157866758475861"
-        },
-        {
-          "post_id": "2117440031250088221"
-        },
-        {
-          "post_id": "2117526507165757950"
-        },
-        {
-          "post_id": "2117518874715545790"
-        }
-      ],
-      "contexts": {
-        "entities": {
-          "events": [
-            "U.S. election"
-          ],
-          "organizations": [],
-          "people": [
-            "Donald Trump"
-          ],
-          "places": [],
-          "products": []
-        },
-        "finance": {
-          "tickers": []
-        },
-        "sports": {
-          "teams": []
-        },
-        "topics": [
-          "Elections"
-        ]
-      },
-      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "An Uber driver in Scotland lit up at an American accent, calling it a 'beautiful day' after Democrats took control. Around the world, reactions poured in with cheers, thanks, and pointed reminders of the high stakes.",
-      "id": "2117552377352081745",
-      "name": "Democrats Secure Senate and House in 2026 Midterms Amid Global Relief",
-      "summary": "Democrats flipped Senate seats in Texas, Iowa, Kansas, Ohio, and South Carolina for a 54-44 majority, while gaining a strong House edge in a historic landslide. International voices like Australian commentator Jane Caro expressed pre-election terror over Trump, while Indian YouTuber Dhruv Rathee offered early thanks and Spain’s Prime Minister Pedro Sánchez hailed votes against hate and climate denialism. Some clarified they cheered not for America but to avert tariffs, inflation, and worse, showing how U.S. results ripple globally.",
-      "updated_at": "2026-11-05T08:20:03.000Z",
-      "url": "https://x.com/i/trending/2117552377352081745"
-    },
-    {
-      "category": "News",
-      "cluster_posts_results": [
-        {
-          "post_id": "2118120235928871296"
-        },
-        {
-          "post_id": "2117857302560833575"
-        },
-        {
-          "post_id": "2118099788126454125"
-        },
-        {
-          "post_id": "2118151149505454080"
-        },
-        {
-          "post_id": "2118120235928871296"
-        },
-        {
-          "post_id": "2118099788126454125"
-        },
-        {
-          "post_id": "2118151149505454080"
-        },
-        {
-          "post_id": "2118154409876021468"
-        },
-        {
-          "post_id": "2118168100600496607"
-        },
-        {
-          "post_id": "2118183995079049374"
-        }
-      ],
-      "contexts": {
-        "entities": {
-          "events": [
-            "Midterm Elections"
-          ],
-          "organizations": [
-            "Republican Party"
-          ],
-          "people": [
-            "Nikki Haley"
-          ],
-          "places": [
-            "Washington DC"
-          ],
-          "products": []
-        },
-        "finance": {
-          "tickers": []
-        },
-        "sports": {
-          "teams": []
-        },
-        "topics": [
-          "Politics"
-        ]
-      },
-      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "With Democrats flipping seats in red strongholds like Texas and South Carolina, Nikki Haley stepped up to call out her party for tuning out everyday Americans.",
-      "id": "2118187173539090442",
-      "name": "Nikki Haley Urges Republicans to Listen to Voters After Midterm Losses",
-      "summary": "After Tuesday's midterms handed Democrats majorities in the House and Senate, former South Carolina governor Nikki Haley appeared on a news program Wednesday, urging Republicans to drop excuses and focus on voter priorities like the cost of living. She stressed that the party succeeds with policies of economic freedom, lower taxes, and smaller government, while warning against distractions and shrinking the coalition with labels like 'RINO.' Her balanced take drew praise for honesty from some, though critics dismissed her as out of touch with the base, amid talks of her potential 2028 run.",
-      "updated_at": "2026-11-05T03:48:25.000Z",
-      "url": "https://x.com/i/trending/2118187173539090442"
-    },
-    {
-      "category": "Other",
-      "cluster_posts_results": [
-        {
-          "post_id": "2118414159515623554"
-        },
-        {
-          "post_id": "2118415838890049729"
-        },
-        {
-          "post_id": "2118383255913140240"
-        },
-        {
-          "post_id": "2118361266981122219"
-        },
-        {
-          "post_id": "2118455729988542941"
-        },
-        {
-          "post_id": "2118362909306917033"
-        },
-        {
-          "post_id": "2118398550291681482"
-        },
-        {
-          "post_id": "2118388629777031327"
-        },
-        {
-          "post_id": "2118361266981122219"
-        },
-        {
-          "post_id": "2118383255913140240"
-        }
-      ],
-      "contexts": {
-        "entities": {
-          "events": [
-            "Midterm Elections"
-          ],
-          "organizations": [
-            "Democratic Party",
-            "Republican Party"
-          ],
-          "people": [
-            "Donald Trump"
-          ],
-          "places": [
-            "United States"
-          ],
-          "products": []
-        },
-        "finance": {
-          "tickers": []
-        },
-        "sports": {
-          "teams": []
-        },
-        "topics": [
-          "News",
-          "Elections"
-        ]
-      },
-      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-      "hook": "Democrats flipped the U.S. House with a projected 250-plus seats, their biggest haul since the early 1990s and a sharp turn after years of Republican control.",
-      "id": "2118478229464125828",
-      "name": "Democrats Win Largest House Majority in Nearly 20 Years",
-      "summary": "Early counts showed Democrats at 244 seats to Republicans' 155, with gains potentially hitting 260 for an 85-seat edge and divided government through President Trump's final two years. Republicans like Gov. Ron DeSantis blamed Senate inaction on immigration for low GOP turnout, while exit polls highlighted voter focus on the economy, jobs, and tariffs over foreign policy. Democratic women achieved milestones, with over 100 heading to the House, at least 16 to the Senate, and a record 14 as governors, including several firsts for women of color.",
-      "updated_at": "2026-11-05T23:06:52.000Z",
-      "url": "https://x.com/i/trending/2118478229464125828"
-    }
+ "fetched_at": "2026-11-21T05:59:19Z",
+ "tool": "x.search_news",
+ "args": {
+  "query": "US politics",
+  "max_results": 10,
+  "max_age_hours": 24,
+  "news.fields": [
+   "name",
+   "summary",
+   "hook",
+   "category",
+   "updated_at",
+   "contexts",
+   "cluster_posts_results"
   ]
+ },
+ "data": [
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123928497605181739"
+    },
+    {
+     "post_id": "2123849552025272694"
+    },
+    {
+     "post_id": "2123849438502551813"
+    },
+    {
+     "post_id": "2123928497605181739"
+    },
+    {
+     "post_id": "2123901971044479170"
+    },
+    {
+     "post_id": "2123898720668516461"
+    },
+    {
+     "post_id": "2123922993805955443"
+    },
+    {
+     "post_id": "2123916529045528801"
+    },
+    {
+     "post_id": "2123962129250500829"
+    },
+    {
+     "post_id": "2123899201302213038"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "U.S. presidential election"
+     ],
+     "organizations": [
+      "Democrats",
+      "Republicans"
+     ],
+     "people": [
+      "Donald Trump"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "News",
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Two years into Donald Trump's second term, polls show only 17% of Americans believe kids will have it better than their parents—a stark sign of economic unease.",
+   "id": "2123972008841191716",
+   "name": "Debate Intensifies Over Trump's Affordability Crisis Claims",
+   "summary": "Social media users fiercely debate whether high costs for gas, groceries, and housing stem from Trump policies like tariffs or lingering Biden-era inflation. Trump counters that his administration inherited the problem and has lowered prices through tax cuts and energy boosts, while critics blame him for ongoing 3.7% inflation above Fed targets. Midterm losses handed Democrats House and Senate control, driven by voter frustration over living costs as the top issue.",
+   "updated_at": "2026-11-21T02:54:42.000Z",
+   "url": "https://x.com/i/trending/2123972008841191716"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123811325281488979"
+    },
+    {
+     "post_id": "2123787766613893429"
+    },
+    {
+     "post_id": "2123840362628227518"
+    },
+    {
+     "post_id": "2123895752170590255"
+    },
+    {
+     "post_id": "2123811325281488979"
+    },
+    {
+     "post_id": "2123901905147699401"
+    },
+    {
+     "post_id": "2123840362628227518"
+    },
+    {
+     "post_id": "2123879139212226958"
+    },
+    {
+     "post_id": "2123885271557238919"
+    },
+    {
+     "post_id": "2123841595175055647"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "House Democrats"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "House Democrats pledged lower costs and an end to foreign wars, but a stark graphic of soaring prices under the prior administration drew swift pushback from skeptics.",
+   "id": "2123911543431811467",
+   "name": "House Democrats Promise Lower Costs and Peace Amid Price Rise Backlash",
+   "summary": "Democrats highlighted Republican chaos while promising affordable healthcare and lower costs, alongside claims that they would end what they called Donald Trump's 265-day war with Iran. A Fox Business graphic detailed sharp increases from January 2021 to May 2024, including 20.1% overall inflation, 35.3% home prices, 148% mortgage rates, 46% gas, and 21.5% food prices—figures backed by Bureau of Labor Statistics and USDA data. Critics replied by tying the promises to past Democratic records on inflation, borders, and foreign funding, questioning their credibility in the heated exchange.",
+   "updated_at": "2026-11-20T22:57:43.000Z",
+   "url": "https://x.com/i/trending/2123911543431811467"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123928497605181739"
+    },
+    {
+     "post_id": "2123849552025272694"
+    },
+    {
+     "post_id": "2123849438502551813"
+    },
+    {
+     "post_id": "2123930652143923687"
+    },
+    {
+     "post_id": "2123899052181839972"
+    },
+    {
+     "post_id": "2123928497605181739"
+    },
+    {
+     "post_id": "2123936983374610436"
+    },
+    {
+     "post_id": "2123954954876657705"
+    },
+    {
+     "post_id": "2123899052181839972"
+    },
+    {
+     "post_id": "2123905480980308348"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "U.S. Midterm Elections",
+      "Trump's war with Iran"
+     ],
+     "organizations": [],
+     "people": [
+      "President Trump"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Only 17% of adults believe today's children will have it better than their parents, capturing deep economic unease across the board.",
+   "id": "2123973944667673026",
+   "name": "Americans Split on Affordability Crisis Amid Rising Inflation",
+   "summary": "President Trump blames high prices on the prior Biden administration, claiming they are now way down, while supporters argue an information operation misled voters on affordability. Critics point to Trump's tariffs and the ongoing Iran conflict, which spiked energy prices with gasoline up 9.1% in September as inflation hit 3.7%. A post-election survey showed voters more likely to blame tariffs than the war itself, reflecting divided views on groceries, energy, and housing costs.",
+   "updated_at": "2026-11-21T03:02:50.000Z",
+   "url": "https://x.com/i/trending/2123973944667673026"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123776973705228320"
+    },
+    {
+     "post_id": "2123795961218773499"
+    },
+    {
+     "post_id": "2123831194512920910"
+    },
+    {
+     "post_id": "2123847465816461741"
+    },
+    {
+     "post_id": "2123776973705228320"
+    },
+    {
+     "post_id": "2123806906397721064"
+    },
+    {
+     "post_id": "2123795961218773499"
+    },
+    {
+     "post_id": "2123831194512920910"
+    },
+    {
+     "post_id": "2123809310774046945"
+    },
+    {
+     "post_id": "2123816945724350966"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "New York Times"
+     ],
+     "people": [
+      "John Cornyn"
+     ],
+     "places": [
+      "Texas"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Texas Senator John Cornyn shared a New York Times piece celebrating the state's Democratic shift, right after major election losses for Republicans.",
+   "id": "2123863179252150575",
+   "name": "Cornyn Faces Conservative Backlash for Sharing Texas 'Bluer' Article",
+   "summary": "In the wake of November 2026 elections where Democrats flipped Texas's U.S. Senate seat, governor's office, and other key positions, Cornyn posted a Times article titled 'Whatever You Thought Texas Was, It’s Bigger and Bluer Than That.' Conservatives online quickly called it petty, labeling him a sore loser after his earlier losses: a 2026 primary defeat to Ken Paxton and a failed 2024 bid for Senate Republican leader against John Thune. The backlash highlighted growing questions about Cornyn's ties to the Texas GOP base as his term ends, even as he continues work like co-chairing the Senate India Caucus.",
+   "updated_at": "2026-11-20T22:23:18.000Z",
+   "url": "https://x.com/i/trending/2123863179252150575"
+  },
+  {
+   "category": "Other",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123578899967750248"
+    },
+    {
+     "post_id": "2123768001933500568"
+    },
+    {
+     "post_id": "2123815269353091467"
+    },
+    {
+     "post_id": "2123814157418102886"
+    },
+    {
+     "post_id": "2123819951706243310"
+    },
+    {
+     "post_id": "2123702135405871417"
+    },
+    {
+     "post_id": "2123814157418102886"
+    },
+    {
+     "post_id": "2123819951706243310"
+    },
+    {
+     "post_id": "2123768001933500568"
+    },
+    {
+     "post_id": "2123815269353091467"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "A simple post wishing for civil war met swift pushback from veterans and parents who know its true horrors all too well.",
+   "id": "2123727780097716688",
+   "name": "X Users Rebuke Call for Civil War with Brutal Realities",
+   "summary": "On November 20, @PoliticalStacy posted, 'I want there to be a civil war. There... I said it,' sparking thousands of replies. Combat veterans and Purple Heart recipients warned of neighbors turning on each other, supply chains collapsing, families in the crossfire, and potential mass deaths leading to authoritarian rule. Many shared grim visions from real conflicts like Bosnia, urging focus on elections over apocalyptic fantasies amid rising political tensions.",
+   "updated_at": "2026-11-21T00:21:52.000Z",
+   "url": "https://x.com/i/trending/2123727780097716688"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123782030777516186"
+    },
+    {
+     "post_id": "2123782972776018282"
+    },
+    {
+     "post_id": "2123833461936996757"
+    },
+    {
+     "post_id": "2123532931042091249"
+    },
+    {
+     "post_id": "2123441475727856013"
+    },
+    {
+     "post_id": "2123833461936996757"
+    },
+    {
+     "post_id": "2123782972776018282"
+    },
+    {
+     "post_id": "2123769652169912789"
+    },
+    {
+     "post_id": "2123782030777516186"
+    },
+    {
+     "post_id": "2123819988318552365"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [
+      "Senate",
+      "Taliban"
+     ],
+     "people": [
+      "Donald Trump",
+      "John Thune"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "With just 44 days left before Democrats take the Senate majority, Speaker Mike Johnson is calling every Republican back to Washington—except for serious medical issues—to push through key bills.",
+   "id": "2123261730273083413",
+   "name": "GOP Tensions Rise as Congress Nears End with Johnson Urging Attendance",
+   "summary": "Johnson's November 20 letter highlights the House passing over 1,000 measures while Senate Democrats blocked nearly 700, stressing the need to advance government funding, the NDAA, and more before January. Conservatives are voicing frustration at Senate Majority Leader John Thune, with President Trump blaming him for stalling military funding and air traffic control reforms, and a White House official citing a held-up $350 billion Pentagon boost. Meanwhile, Rep. Tim Burchett announced his 2028 Senate run in Tennessee, polling strongly and drawing cheers as a conservative fighter. These moves underscore Republican pressure to act aggressively in their final weeks of unified control.",
+   "updated_at": "2026-11-21T02:14:06.000Z",
+   "url": "https://x.com/i/trending/2123261730273083413"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123915110892589292"
+    },
+    {
+     "post_id": "2123917116759802044"
+    },
+    {
+     "post_id": "2123544386701254795"
+    },
+    {
+     "post_id": "2123915110892589292"
+    },
+    {
+     "post_id": "2123544386701254795"
+    },
+    {
+     "post_id": "2123917116759802044"
+    },
+    {
+     "post_id": "2123591501305577595"
+    },
+    {
+     "post_id": "2123607691205435534"
+    },
+    {
+     "post_id": "2123918484513988948"
+    },
+    {
+     "post_id": "2123648235143401970"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "stock market downturn"
+     ],
+     "organizations": [
+      "Federal Reserve"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Stocks"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Retirement savers watched 401(k)s shrink as the S&P 500 dropped 3.7% on November 20, marking its seventh straight decline amid partisan blame online.",
+   "id": "2123663903900995626",
+   "name": "Stock Market Plunges into Correction After Democratic Midterm Wins",
+   "summary": "The selloff deepened after Democrats won House and Senate majorities in the November 3 midterms, pushing the S&P 500 to 6,910.39, the Dow down nearly 950 points, and both indexes over 10% below recent highs. Tech and AI stocks like Nvidia bore the brunt, fueled by concerns over data center costs and potential regulations from the new Congress. Online, reactions split sharply, with some tying trillions in losses to Democrats and others stressing ongoing Republican White House control and broader economic factors.",
+   "updated_at": "2026-11-21T03:54:46.000Z",
+   "url": "https://x.com/i/trending/2123663903900995626"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123962458805022889"
+    },
+    {
+     "post_id": "2123914214989316133"
+    },
+    {
+     "post_id": "2123906354511323563"
+    },
+    {
+     "post_id": "2123912397283037330"
+    },
+    {
+     "post_id": "2123950124246106232"
+    },
+    {
+     "post_id": "2123975316393623815"
+    },
+    {
+     "post_id": "2123946432390439155"
+    },
+    {
+     "post_id": "2123963296818847816"
+    },
+    {
+     "post_id": "2123909012282290552"
+    },
+    {
+     "post_id": "2123921440005038329"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [],
+     "organizations": [],
+     "people": [
+      "Thom Tillis",
+      "John Cornyn"
+     ],
+     "places": [
+      "North Carolina"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "In his final weeks as a senator, Thom Tillis is drawing fire from fellow conservatives for a bill they say hands Democrats a win by crippling lawsuits against banks.",
+   "id": "2123976072660230298",
+   "name": "Conservatives Blast Sen. Tillis Over Litigation Funding Tax Bill",
+   "summary": "The Tackling Predatory Litigation Funding Act would slap a 40.8% excise tax on third-party lawsuit financing, which critics like former Justice official Chad Mizelle argue would gut funding for conservative legal battles over debanking by big banks. Figures such as Laura Ingraham and Riley Gaines voiced frustration, with Gaines stressing the need for tools to hold banks accountable, while North Carolina locals called Tillis an embarrassment. Tillis defends the bill as curbing abusive practices and has backed separate anti-debanking measures, but the backlash has Republicans urging leadership to block it before year's end amid his lame-duck retirement.",
+   "updated_at": "2026-11-21T03:10:23.000Z",
+   "url": "https://x.com/i/trending/2123976072660230298"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123490543489650688"
+    },
+    {
+     "post_id": "2123489118642659662"
+    },
+    {
+     "post_id": "2123473029778796837"
+    },
+    {
+     "post_id": "2123490549931897191"
+    },
+    {
+     "post_id": "2123489931544912375"
+    },
+    {
+     "post_id": "2123490543489650688"
+    },
+    {
+     "post_id": "2123489118642659662"
+    },
+    {
+     "post_id": "2123473029778796837"
+    },
+    {
+     "post_id": "2123490541216129329"
+    },
+    {
+     "post_id": "2123489931544912375"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "2026 midterms",
+      "2024 election"
+     ],
+     "organizations": [
+      "GOP",
+      "Democrats"
+     ],
+     "people": [],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Young men who powered Trump's 2024 win largely stayed home or backed Democrats in the 2026 midterms, driving a Democratic surge across states.",
+   "id": "2123526962320728154",
+   "name": "Young Trump Voters Swing to Democrats in 2026 Midterms",
+   "summary": "Post-election analysis shows that of every 100 Trump 2024 voters, 63 voted Republican, 4 switched to Democrats, and 33 stayed home—while Harris voters turned out at 85% for Democrats. Young men ages 18-29 led the shift, moving left in every state's House races and key Senate contests, with non-college men swinging 64-77 points against Republicans in Texas, South Carolina, and Mississippi. Republicans highlight turnout drops among young, non-college, Hispanic, and rural voters as the key factor, amid economic pressures like higher gas prices. Both parties see these fluid voters as up for grabs in future races.",
+   "updated_at": "2026-11-20T20:37:00.000Z",
+   "url": "https://x.com/i/trending/2123526962320728154"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123802351358349316"
+    },
+    {
+     "post_id": "2123638241387831622"
+    },
+    {
+     "post_id": "2123626422879375562"
+    },
+    {
+     "post_id": "2123638027620655433"
+    },
+    {
+     "post_id": "2123860567568117805"
+    },
+    {
+     "post_id": "2123878877974212911"
+    },
+    {
+     "post_id": "2123805734571782317"
+    },
+    {
+     "post_id": "2123884705888309705"
+    },
+    {
+     "post_id": "2123927431879020647"
+    },
+    {
+     "post_id": "2123811065695817749"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "Straight Shooter with Stephen A."
+     ],
+     "organizations": [
+      "SiriusXM"
+     ],
+     "people": [
+      "Stephen A. Smith"
+     ],
+     "places": [],
+     "products": []
+    },
+    "finance": {
+     "tickers": [
+      "SIRI"
+     ]
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Stephen A. Smith, a longtime Democrat voter, didn't hold back: he sees immigration as a calculated move to build a new voting base and ease reliance on Black support.",
+   "id": "2123699515995627937",
+   "name": "Stephen A. Smith Claims Democrats Use Immigration to Secure New Voting Bloc",
+   "summary": "In a widely shared clip, the ESPN personality warned that Democrats' approach shows the same arrogance that has frustrated Black communities, potentially reducing their political leverage. A Black resident in Philadelphia echoed this during a November 18 city council meeting, voicing concerns that newcomers could sideline longstanding neighborhood priorities like housing and schools. Broader shifts, such as Compton's Black population declining amid a rise in Hispanic residents from 3.5% in 1950 to over 70% by 2020, add context to discussions about changing voter influence and resource competition in cities facing migrant strains.",
+   "updated_at": "2026-11-21T05:11:26.000Z",
+   "url": "https://x.com/i/trending/2123699515995627937"
+  }
+ ]
 }

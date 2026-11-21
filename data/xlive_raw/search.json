@@ -1,95 +1,834 @@
 {
- "fetched_at": "2026-11-06T01:54:41Z",
+ "fetched_at": "2026-11-21T05:59:19Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-05T22:53:45Z",
+  "start_time": "2026-11-21T02:57:51Z",
   "max_results": 25,
   "sort_order": "relevancy",
-  "post.fields": "created_at,public_metrics,entities,author_id",
-  "expansions": "author_id",
-  "user.fields": "name,username,verified,verified_type,public_metrics"
+  "post.fields": [
+   "created_at",
+   "public_metrics",
+   "entities"
+  ],
+  "expansions": [
+   "author_id"
+  ],
+  "user.fields": [
+   "name",
+   "username",
+   "verified",
+   "verified_type",
+   "public_metrics"
+  ]
  },
  "data": [
   {
-   "author_id": "1900375238548086788",
-   "created_at": "2026-11-06T01:46:32.000Z",
+   "author_id": "256203380",
+   "created_at": "2026-11-21T03:11:57.000Z",
    "edit_history_tweet_ids": [
-    "2118520374044324224"
+    "2123977691879674170"
    ],
-   "id": "2118520374044324224",
+   "entities": {
+    "urls": [
+     {
+      "description": "Le Moyne Press Conference",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 89,
+      "expanded_url": "https://x.com/i/broadcasts/2dKONAvLmYAKbg",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2123977734569308161/Tsn7tG_S?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123977734569308161/Tsn7tG_S?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 66,
+      "status": 200,
+      "title": "Mizzou Hoops",
+      "unwound_url": "https://x.com/i/broadcasts/2dKONAvLmYAKbg",
+      "url": "https://t.co/T3dzDsKwho"
+     }
+    ]
+   },
+   "id": "2123977691879674170",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 51,
+    "impression_count": 2558,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "text": "Watch the Mizzou press conference following the win over Le Moyne https://t.co/T3dzDsKwho",
+   "url": "https://x.com/MizzouHoops/status/2123977691879674170"
+  },
+  {
+   "author_id": "1406048189015158787",
+   "created_at": "2026-11-21T04:34:20.000Z",
+   "edit_history_tweet_ids": [
+    "2123998422185525529"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "10 बजे की बड़ी खबरें | Big news | National News | PM Modi | Rahul Gandhi | BJP vs Congress",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 114,
+      "expanded_url": "https://x.com/i/broadcasts/2kEqakJEaRvOmW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123998464669577217/8nh-crAD?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123998464669577217/8nh-crAD?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 91,
+      "status": 200,
+      "title": "Daily 24 Bharat",
+      "unwound_url": "https://x.com/i/broadcasts/2kEqakJEaRvOmW",
+      "url": "https://t.co/F1ChFeLlNX"
+     }
+    ]
+   },
+   "id": "2123998422185525529",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 33,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "10 बजे की बड़ी खबरें | Big news | National News | PM Modi | Rahul Gandhi | BJP vs Congress https://t.co/F1ChFeLlNX",
+   "url": "https://x.com/Daily24bharat/status/2123998422185525529"
+  },
+  {
+   "author_id": "1406048189015158787",
+   "created_at": "2026-11-21T05:34:30.000Z",
+   "edit_history_tweet_ids": [
+    "2124013562234540079"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "दिल्ली-NCR की बड़ी खबरें | Big news of Delhi | CM Rekha Gupta | BJP Delhi | BJP vs Congress",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 115,
+      "expanded_url": "https://x.com/i/broadcasts/2qVOVjZAomeNRA",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124013604722872320/cK6YA9_6?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124013604722872320/cK6YA9_6?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 92,
+      "status": 200,
+      "title": "Daily 24 Bharat",
+      "unwound_url": "https://x.com/i/broadcasts/2qVOVjZAomeNRA",
+      "url": "https://t.co/kJg2kM703J"
+     }
+    ]
+   },
+   "id": "2124013562234540079",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 19,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "दिल्ली-NCR की बड़ी खबरें | Big news of Delhi | CM Rekha Gupta | BJP Delhi | BJP vs Congress https://t.co/kJg2kM703J",
+   "url": "https://x.com/Daily24bharat/status/2124013562234540079"
+  },
+  {
+   "author_id": "1024661303154094081",
+   "created_at": "2026-11-21T03:31:32.000Z",
+   "edit_history_tweet_ids": [
+    "2123982616365846836"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Can You Lose Your Salvation? | Free Grace vs. Eastern Orthodoxy | Debate Review",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 104,
+      "expanded_url": "https://x.com/i/broadcasts/2jPqjaOnlQMNzW",
+      "start": 81,
+      "status": 200,
+      "title": "The Layman's Seminary",
+      "unwound_url": "https://x.com/i/broadcasts/2jPqjaOnlQMNzW",
+      "url": "https://t.co/7iZPOfCdLe"
+     }
+    ]
+   },
+   "id": "2123982616365846836",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 39,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Can You Lose Your Salvation? | Free Grace vs. Eastern Orthodoxy |  Debate Review https://t.co/7iZPOfCdLe",
+   "url": "https://x.com/LaymansSeminary/status/2123982616365846836"
+  },
+  {
+   "author_id": "19897138",
+   "created_at": "2026-11-21T04:00:31.000Z",
+   "edit_history_tweet_ids": [
+    "2123989911149879512"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 5,
+      "start": 0,
+      "tag": "LIVE"
+     },
+     {
+      "end": 192,
+      "start": 179,
+      "tag": "ITLivestream"
+     },
+     {
+      "end": 206,
+      "start": 193,
+      "tag": "HealthWealth"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 218,
+      "id": "379544677",
+      "start": 209,
+      "username": "Sonal_MK"
+     }
+    ],
+    "urls": [
+     {
+      "description": "#LIVE || Weight-loss injections on trial: Ozempic and Mounjaro, miracle drugs or medical traps? Which lifestyle intervention actually works, and who wins the weight-loss debate? #ITLivestream #HealthWealth | @Sonal_MK",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 242,
+      "expanded_url": "https://x.com/i/broadcasts/2jPqjemjgJeoky",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123989955316006913/aDw6e_mu?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123989955316006913/aDw6e_mu?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 219,
+      "status": 200,
+      "title": "IndiaToday",
+      "unwound_url": "https://x.com/i/broadcasts/2jPqjemjgJeoky",
+      "url": "https://t.co/lEpVxy3Ye1"
+     }
+    ]
+   },
+   "id": "2123989911149879512",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2645,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "#LIVE || Weight-loss injections on trial: Ozempic and Mounjaro, miracle drugs or medical traps? Which lifestyle intervention actually works, and who wins the weight-loss debate?  #ITLivestream #HealthWealth | @Sonal_MK https://t.co/lEpVxy3Ye1",
+   "url": "https://x.com/IndiaToday/status/2123989911149879512"
+  },
+  {
+   "author_id": "1902785833578471425",
+   "created_at": "2026-11-21T03:31:25.000Z",
+   "edit_history_tweet_ids": [
+    "2123982588519780371"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "GTA | Stock Market | The Senate | AI Dilemma | Palisades",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 117,
+      "expanded_url": "https://x.com/i/broadcasts/2JQeBnAXnAlWYn",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2123981780478767104/-FEGqY8z?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123981780478767104/-FEGqY8z?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 94,
+      "status": 200,
+      "title": "Rise of Middle America Network",
+      "unwound_url": "https://x.com/i/broadcasts/2JQeBnAXnAlWYn",
+      "url": "https://t.co/IFbAxmUgaI"
+     }
+    ]
+   },
+   "id": "2123982588519780371",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 15,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "We are LIVE for Rise of Middle America! Subscribe to the channels and join us in the chats! \n\nhttps://t.co/IFbAxmUgaI",
+   "url": "https://x.com/RomaNetworkOne/status/2123982588519780371"
+  },
+  {
+   "author_id": "935942321756966912",
+   "created_at": "2026-11-21T04:59:57.000Z",
+   "edit_history_tweet_ids": [
+    "2124004867027182047"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 60,
+      "expanded_url": "https://x.com/i/broadcasts/1nJOLLkXNlqxR",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124004909502869504/WE7dVwgU?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124004909502869504/WE7dVwgU?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 37,
+      "status": 200,
+      "title": "Real America's Voice (RAV)",
+      "unwound_url": "https://x.com/i/broadcasts/1nJOLLkXNlqxR",
+      "url": "https://t.co/0pAVX55a5Z"
+     }
+    ]
+   },
+   "id": "2124004867027182047",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3200,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/0pAVX55a5Z",
+   "url": "https://x.com/RealAmVoice/status/2124004867027182047"
+  },
+  {
+   "author_id": "37034483",
+   "created_at": "2026-11-21T02:59:59.000Z",
+   "edit_history_tweet_ids": [
+    "2123974554636665083",
+    "2123974678863806790"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 11,
+      "start": 6,
+      "tag": "LIVE"
+     }
+    ],
+    "mentions": [
+     {
+      "end": 41,
+      "id": "2308054499",
+      "start": 33,
+      "username": "GaurieD"
+     }
+    ],
+    "urls": [
+     {
+      "description": "India Ascends",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 145,
+      "expanded_url": "https://x.com/i/broadcasts/2EmbJjVqJNOBkp",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123974597330571264/wlojWa_x?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123974597330571264/wlojWa_x?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 122,
+      "status": 200,
+      "title": "NDTV",
+      "unwound_url": "https://x.com/i/broadcasts/2EmbJjVqJNOBkp",
+      "url": "https://t.co/lnSJrc1Vuh"
+     }
+    ]
+   },
+   "id": "2123974678863806790",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2464,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Watch #LIVE | India Ascends with @gauried: America Stumbles, India Surges | Pak's Map-Trap for India | Bharat Blueprint \n https://t.co/lnSJrc1Vuh",
+   "url": "https://x.com/ndtv/status/2123974678863806790"
+  },
+  {
+   "author_id": "2015134783517667328",
+   "created_at": "2026-11-21T04:44:34.000Z",
+   "edit_history_tweet_ids": [
+    "2124000999622799602"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE City Cams Across America + Abernethy Bridge Slide Tonight | The Guyer Show 🔴",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 105,
+      "expanded_url": "https://x.com/i/broadcasts/2brOJYKqjmWXLR",
+      "images": [
+       {
+        "height": 1920,
+        "url": "https://pbs.twimg.com/news_img/2124001042157252608/q3dsiemD?format=jpg&name=orig",
+        "width": 1080
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124001042157252608/q3dsiemD?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 82,
+      "status": 200,
+      "title": "GUYER",
+      "unwound_url": "https://x.com/i/broadcasts/2brOJYKqjmWXLR",
+      "url": "https://t.co/SGHBZjLocw"
+     }
+    ]
+   },
+   "id": "2124000999622799602",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 131,
     "like_count": 2,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "🇺🇸 The White House | President Trump Signs Executive Orders and Biefs Press in the Oval Office [Nov. 5, 2026] https://t.co/JA8aEswNHd",
-   "url": "https://x.com/magnonewslive/status/2118520374044324224"
+   "text": "LIVE City Cams Across America + Abernethy Bridge Slide Tonight | The Guyer Show 🔴 https://t.co/SGHBZjLocw",
+   "url": "https://x.com/THEGUYERSHOW/status/2124000999622799602"
   },
   {
-   "author_id": "1668967306490265601",
-   "created_at": "2026-11-06T01:00:07.000Z",
+   "author_id": "1691380072517664769",
+   "created_at": "2026-11-21T05:28:15.000Z",
    "edit_history_tweet_ids": [
-    "2118508692790297065"
+    "2124011888199811182",
+    "2124011991547416870"
    ],
-   "id": "2118508692790297065",
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE NSC9 NEWS",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 51,
+      "expanded_url": "https://x.com/i/broadcasts/2onqnApVBKVkPm",
+      "start": 28,
+      "status": 200,
+      "title": "NSC9 News",
+      "unwound_url": "https://x.com/i/broadcasts/2onqnApVBKVkPm",
+      "url": "https://t.co/iuHJDqsfmP"
+     }
+    ]
+   },
+   "id": "2124011991547416870",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2,
+    "impression_count": 15,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "WHY? America Voted Against Itself | Trump &amp; the 2026 Midterm Election Fallout https://t.co/nillUdJibM",
-   "url": "https://x.com/talkinlive/status/2118508692790297065"
+   "text": "LIVE NSC9 NEWS - 21-11-2026 https://t.co/iuHJDqsfmP",
+   "url": "https://x.com/nsc9news/status/2124011991547416870"
   },
   {
-   "author_id": "364214133",
-   "created_at": "2026-11-06T01:26:46.000Z",
+   "author_id": "85814753",
+   "created_at": "2026-11-21T03:49:11.000Z",
    "edit_history_tweet_ids": [
-    "2118515400845427145"
+    "2123987058188255596"
    ],
-   "id": "2118515400845427145",
+   "entities": {
+    "urls": [
+     {
+      "description": "Sandesh News",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 36,
+      "expanded_url": "https://x.com/i/broadcasts/2mdqlkmENOJOYW",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2123987100882079744/HsGuZkcF?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123987100882079744/HsGuZkcF?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 13,
+      "status": 200,
+      "title": "Sandesh",
+      "unwound_url": "https://x.com/i/broadcasts/2mdqlkmENOJOYW",
+      "url": "https://t.co/N0xXMC7RJj"
+     }
+    ]
+   },
+   "id": "2123987058188255596",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 944,
-    "like_count": 10,
+    "impression_count": 415,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Sandesh News https://t.co/N0xXMC7RJj",
+   "url": "https://x.com/sandeshnews/status/2123987058188255596"
+  },
+  {
+   "author_id": "1438604288025153542",
+   "created_at": "2026-11-21T03:59:59.000Z",
+   "edit_history_tweet_ids": [
+    "2123989779612156031"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Rapid Fire News #1250 ~FAFO FRIDAY~",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 70,
+      "expanded_url": "https://x.com/i/broadcasts/2kEqaVllagaZmW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123989764198035457/m2ksWK9k?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123989764198035457/m2ksWK9k?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 47,
+      "status": 200,
+      "title": "Average Joe Patriot 1776",
+      "unwound_url": "https://x.com/i/broadcasts/2kEqaVllagaZmW",
+      "url": "https://t.co/vOmo2gmuDu"
+     }
+    ]
+   },
+   "id": "2123989779612156031",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1189,
+    "like_count": 25,
     "quote_count": 1,
     "reply_count": 0,
-    "retweet_count": 4
+    "retweet_count": 11
    },
-   "text": "Dr.SHIVA® LIVE: Dr.SHIVA Won US Senate. No One Can Disprove It! Election 2026 Analysis https://t.co/JXZLYcL2iF",
-   "url": "https://x.com/va_shiva/status/2118515400845427145"
+   "text": "LIVE NOW \n\nRapid Fire News #1250 ~FAFO FRIDAY~\nhttps://t.co/vOmo2gmuDu",
+   "url": "https://x.com/AJPArmy/status/2123989779612156031"
   },
   {
-   "author_id": "1384282002858266629",
-   "created_at": "2026-11-06T01:30:19.000Z",
+   "author_id": "1691380072517664769",
+   "created_at": "2026-11-21T05:27:51.000Z",
    "edit_history_tweet_ids": [
-    "2118516294509060257"
+    "2124011888199811182",
+    "2124011991547416870"
    ],
-   "id": "2118516294509060257",
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE NSC9 NEWS",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 38,
+      "expanded_url": "https://x.com/i/broadcasts/2onqnApVBKVkPm",
+      "start": 15,
+      "status": 200,
+      "title": "NSC9 News",
+      "unwound_url": "https://x.com/i/broadcasts/2onqnApVBKVkPm",
+      "url": "https://t.co/iuHJDqsfmP"
+     }
+    ]
+   },
+   "id": "2124011888199811182",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 30,
+    "impression_count": 8,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "Hurricane Warning:  Mali Out!!! Can Miami Win?? https://t.co/5bwjHXGgty",
-   "url": "https://x.com/FinsTalkNetwork/status/2118516294509060257"
+   "text": "LIVE NSC9 NEWS https://t.co/iuHJDqsfmP",
+   "url": "https://x.com/nsc9news/status/2124011888199811182"
   },
   {
-   "author_id": "1364887393921359875",
-   "created_at": "2026-11-05T23:27:05.000Z",
+   "author_id": "1438604288025153542",
+   "created_at": "2026-11-21T03:59:46.000Z",
    "edit_history_tweet_ids": [
-    "2118485280722149494"
+    "2123989721562964330"
    ],
-   "id": "2118485280722149494",
+   "entities": {
+    "urls": [
+     {
+      "description": "Rapid Fire News #1250 ~FAFO FRIDAY~",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 59,
+      "expanded_url": "https://x.com/i/broadcasts/2kEqaVllagaZmW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123989764198035457/m2ksWK9k?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123989764198035457/m2ksWK9k?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 36,
+      "status": 200,
+      "title": "Average Joe Patriot 1776",
+      "unwound_url": "https://x.com/i/broadcasts/2kEqaVllagaZmW",
+      "url": "https://t.co/vOmo2gmuDu"
+     }
+    ]
+   },
+   "id": "2123989721562964330",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 808,
+    "like_count": 12,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 7
+   },
+   "text": "Rapid Fire News #1250 ~FAFO FRIDAY~ https://t.co/vOmo2gmuDu",
+   "url": "https://x.com/AJPArmy/status/2123989721562964330"
+  },
+  {
+   "author_id": "1510966175504773120",
+   "created_at": "2026-11-21T03:03:08.000Z",
+   "edit_history_tweet_ids": [
+    "2123975469984882971"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Daily Recall on X - Nov, 20 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 117,
+      "expanded_url": "https://x.com/i/broadcasts/2zkZdpgEyKMjBy",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123960033117360128/MYd4K2lA?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123960033117360128/MYd4K2lA?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 94,
+      "status": 200,
+      "title": "Tom Stoukas",
+      "unwound_url": "https://x.com/i/broadcasts/2zkZdpgEyKMjBy",
+      "url": "https://t.co/o1w3LUoNT4"
+     }
+    ]
+   },
+   "id": "2123975469984882971",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 47,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Taking a look at news and events affecting southwestern Ontario and beyond on Nov. 20, 2026. \nhttps://t.co/o1w3LUoNT4",
+   "url": "https://x.com/StoukasTom/status/2123975469984882971"
+  },
+  {
+   "author_id": "30608666",
+   "created_at": "2026-11-21T03:07:57.000Z",
+   "edit_history_tweet_ids": [
+    "2123976682570691022"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "TDL#Raiders Show:Friday Night Live with latest Raidres news and early draft preview",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 108,
+      "expanded_url": "https://x.com/i/broadcasts/2rJQvZJmYgjJzd",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123976724991868928/5sG8Knqq?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123976724991868928/5sG8Knqq?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 85,
+      "status": 200,
+      "title": "Marcus Johnson",
+      "unwound_url": "https://x.com/i/broadcasts/2rJQvZJmYgjJzd",
+      "url": "https://t.co/LMfmAzpQ1A"
+     }
+    ]
+   },
+   "id": "2123976682570691022",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 652,
+    "like_count": 11,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "TDL#Raiders  Show:Friday Night Live with latest Raidres news and early draft preview https://t.co/LMfmAzpQ1A",
+   "url": "https://x.com/TheMarcJohnNFL/status/2123976682570691022"
+  },
+  {
+   "author_id": "1656485362640777216",
+   "created_at": "2026-11-21T04:02:51.000Z",
+   "edit_history_tweet_ids": [
+    "2123990498683551954"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "ufo talk and news reactions",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 51,
+      "expanded_url": "https://x.com/i/broadcasts/2EmbJpnBLrgKXa",
+      "images": [
+       {
+        "height": 1920,
+        "url": "https://pbs.twimg.com/news_img/2123990541540966400/Rj1cgZ2_?format=jpg&name=orig",
+        "width": 1080
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123990541540966400/Rj1cgZ2_?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 28,
+      "status": 404,
+      "title": "Nice Guy Eddy",
+      "unwound_url": "https://x.com/i/broadcasts/2EmbJpnBLrgKXa",
+      "url": "https://t.co/NLYgWCPyKg"
+     }
+    ]
+   },
+   "id": "2123990498683551954",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 20,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "ufo talk and news reactions https://t.co/NLYgWCPyKg",
+   "url": "https://x.com/NICEGUYEDDYSHOW/status/2123990498683551954"
+  },
+  {
+   "author_id": "1656485362640777216",
+   "created_at": "2026-11-21T03:48:12.000Z",
+   "edit_history_tweet_ids": [
+    "2123986810543943861"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "news and x reactions of the day",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 55,
+      "expanded_url": "https://x.com/i/broadcasts/2jPqjRZevAVzra",
+      "images": [
+       {
+        "height": 1920,
+        "url": "https://pbs.twimg.com/news_img/2123986853409779714/DwHwv6D5?format=jpg&name=orig",
+        "width": 1080
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123986853409779714/DwHwv6D5?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 32,
+      "status": 404,
+      "title": "Nice Guy Eddy",
+      "unwound_url": "https://x.com/i/broadcasts/2jPqjRZevAVzra",
+      "url": "https://t.co/4XZIMWw4Vv"
+     }
+    ]
+   },
+   "id": "2123986810543943861",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 18,
@@ -98,713 +837,686 @@
     "reply_count": 0,
     "retweet_count": 0
    },
-   "text": "President Trump Participates in Signing Time, Nov. 5, 2026 https://t.co/5CzGOV0wMN",
-   "url": "https://x.com/Maxvworldmedia/status/2118485280722149494"
+   "text": "news and x reactions of the day https://t.co/4XZIMWw4Vv",
+   "url": "https://x.com/NICEGUYEDDYSHOW/status/2123986810543943861"
   },
   {
-   "author_id": "42647008",
-   "created_at": "2026-11-06T00:00:13.000Z",
+   "author_id": "1302508792698015749",
+   "created_at": "2026-11-21T03:50:06.000Z",
    "edit_history_tweet_ids": [
-    "2118493621968052239"
+    "2123987289374138825"
    ],
-   "id": "2118493621968052239",
+   "entities": {
+    "urls": [
+     {
+      "description": "THE NUBS BIRTHDAY STREAM!! | 45 AND STILL YOUNG AF | MUSIC SELECTION BY NUBS | NEWS | LIVE CHAOS | CHAT",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 127,
+      "expanded_url": "https://x.com/i/broadcasts/2ZBQPrRBJbVOQN",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123987332059607041/G8oJffN3?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123987332059607041/G8oJffN3?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 104,
+      "status": 200,
+      "title": "Nubbin St. Nubbins",
+      "unwound_url": "https://x.com/i/broadcasts/2ZBQPrRBJbVOQN",
+      "url": "https://t.co/KFKLvmC2Vk"
+     }
+    ]
+   },
+   "id": "2123987289374138825",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 174,
-    "like_count": 0,
+    "impression_count": 333,
+    "like_count": 8,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 0
+    "retweet_count": 4
    },
-   "text": "FSU Football: SHOW US THE PLAN! 💰 | Booster Money &amp; the Jimbo Fisher Debate https://t.co/8cgBzMxsZo",
-   "url": "https://x.com/BigPapaEast/status/2118493621968052239"
+   "text": "THE NUBS BIRTHDAY STREAM!! | 45 AND STILL YOUNG AF | MUSIC SELECTION BY NUBS | NEWS | LIVE CHAOS | CHAT https://t.co/KFKLvmC2Vk",
+   "url": "https://x.com/NubbinSaint/status/2123987289374138825"
   },
   {
-   "author_id": "58084367",
-   "created_at": "2026-11-06T00:00:13.000Z",
+   "author_id": "1707048293883056128",
+   "created_at": "2026-11-21T05:48:07.000Z",
    "edit_history_tweet_ids": [
-    "2118493622467178512"
+    "2124016988502511830"
    ],
-   "id": "2118493622467178512",
+   "entities": {
+    "urls": [
+     {
+      "description": "COLLEGE BASKETBALL PICKS 11/21 | CBB PREDICTIONS | BETS & CBB NEWS ANALYSIS | PUMP FAKE POD",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 121,
+      "expanded_url": "https://x.com/i/broadcasts/2lgqgqoKJbjmNd",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124017031062114305/qECwRoZe?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124017031062114305/qECwRoZe?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 98,
+      "status": 200,
+      "title": "Pump Fake Pod",
+      "unwound_url": "https://x.com/i/broadcasts/2lgqgqoKJbjmNd",
+      "url": "https://t.co/cpdKqJiDdy"
+     }
+    ]
+   },
+   "id": "2124016988502511830",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 249,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "FSU Football: SHOW US THE PLAN! 💰 | Booster Money &amp; the Jimbo Fisher Debate https://t.co/PFu0Ed7FGB",
-   "url": "https://x.com/vcnole/status/2118493622467178512"
-  },
-  {
-   "author_id": "136791586",
-   "created_at": "2026-11-06T00:27:05.000Z",
-   "edit_history_tweet_ids": [
-    "2118500381449720099"
-   ],
-   "id": "2118500381449720099",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 95,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🏈 HFT | THE CFP DEBATE  Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap &amp; playoff implications.  📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM  #IUFB #GoIU #CFBPlayoff https://t.co/3ZOgom3I5C",
-   "url": "https://x.com/CoachGriff55/status/2118500381449720099"
-  },
-  {
-   "author_id": "1404103952086585349",
-   "created_at": "2026-11-06T00:00:13.000Z",
-   "edit_history_tweet_ids": [
-    "2118493622433661195"
-   ],
-   "id": "2118493622433661195",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 165,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "FSU Football: SHOW US THE PLAN! 💰 | Booster Money &amp; the Jimbo Fisher Debate https://t.co/Uk7A7JeFLR",
-   "url": "https://x.com/Garnet_Old/status/2118493622433661195"
-  },
-  {
-   "author_id": "109400580",
-   "created_at": "2026-11-06T01:15:21.000Z",
-   "edit_history_tweet_ids": [
-    "2118512528661655659"
-   ],
-   "id": "2118512528661655659",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 12,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Why Did Democrats Just Win Big? Plus EDP445’s Arrest &amp; the 2 Chainz Debate https://t.co/6ABZiWJbKs",
-   "url": "https://x.com/99_Zelmae/status/2118512528661655659"
-  },
-  {
-   "author_id": "1696684840874082305",
-   "created_at": "2026-11-06T00:27:05.000Z",
-   "edit_history_tweet_ids": [
-    "2118500380258537535"
-   ],
-   "id": "2118500380258537535",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 79,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🏈 HFT | THE CFP DEBATE  Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap &amp; playoff implications.  📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM  #IUFB #GoIU #CFBPlayoff https://t.co/J1ssBTlArI",
-   "url": "https://x.com/HoosierTailgate/status/2118500380258537535"
-  },
-  {
-   "author_id": "1696684840874082305",
-   "created_at": "2026-11-06T00:27:05.000Z",
-   "edit_history_tweet_ids": [
-    "2118500382426948069"
-   ],
-   "id": "2118500382426948069",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 87,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🏈 HFT | THE CFP DEBATE  Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap &amp; playoff implications.  📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM  #IUFB #GoIU #CFBPlayoff https://t.co/Tt1TCBrTMZ",
-   "url": "https://x.com/HoosierTailgate/status/2118500382426948069"
-  },
-  {
-   "author_id": "136791586",
-   "created_at": "2026-11-06T00:27:05.000Z",
-   "edit_history_tweet_ids": [
-    "2118500379885260983"
-   ],
-   "id": "2118500379885260983",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 86,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🏈 HFT | THE CFP DEBATE  Indiana #4 in the CFP! Cignetti vs. ESPN, Urban Meyer's comments, Hoover's status, Big Ten's $49M cap &amp; playoff implications.  📻 Saturday 7:30 AM ET | 1380 The Fan / 100.9 FM  #IUFB #GoIU #CFBPlayoff https://t.co/3CHwuDp0Ix",
-   "url": "https://x.com/CoachGriff55/status/2118500379885260983"
-  },
-  {
-   "author_id": "1374121594172375040",
-   "created_at": "2026-11-05T23:04:06.000Z",
-   "edit_history_tweet_ids": [
-    "2118479498433683801"
-   ],
-   "id": "2118479498433683801",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 41,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Lois Lane Is A Republican? DC Decisions: How Comics Should Handle Politics | UTC Podcast 346 https://t.co/dB0nLC9DqE",
-   "url": "https://x.com/ComicsLeagueJT/status/2118479498433683801"
-  },
-  {
-   "author_id": "1352487109165125640",
-   "created_at": "2026-11-05T23:14:02.000Z",
-   "edit_history_tweet_ids": [
-    "2118481996984832277"
-   ],
-   "id": "2118481996984832277",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 340,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Bitcoin Back Above $80K (LIVE): Democrats SWEEP Congress https://t.co/OXzRpFbSpX",
-   "url": "https://x.com/davidbeaudry/status/2118481996984832277"
-  },
-  {
-   "author_id": "1022800836",
-   "created_at": "2026-11-06T01:07:41.000Z",
-   "edit_history_tweet_ids": [
-    "2118510599986409525"
-   ],
-   "id": "2118510599986409525",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 10,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Post Midterms Democrats Prepare To Take Congress, Russel Brand Guilty https://t.co/2A6g260gqC",
-   "url": "https://x.com/doctorwhimsy/status/2118510599986409525"
-  },
-  {
-   "author_id": "1258209258",
-   "created_at": "2026-11-05T23:59:54.000Z",
-   "edit_history_tweet_ids": [
-    "2118493539097059335"
-   ],
-   "id": "2118493539097059335",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 5,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Burn It Down! The Next Congress Is Going To Try From The Inside https://t.co/IQbml4WQUb",
-   "url": "https://x.com/TappintotheTrut/status/2118493539097059335"
-  },
-  {
-   "author_id": "1546659690196738058",
-   "created_at": "2026-11-06T01:31:57.000Z",
-   "edit_history_tweet_ids": [
-    "2118516706863644964"
-   ],
-   "id": "2118516706863644964",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 26,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Iran Update 👇 https://t.co/W4wfNyeKv3\n\nThe Biggest mistake .@realDonaldTrump has done, was listening to his VP, Qatar &amp; Pakistan etc and do a \"Ceasefire\" - they were ALWAYS only dragging out time, wich costed the Midterms, NOT the war itself. \nThe IRGC CELEBRATED the Democrat",
-   "url": "https://x.com/VickanFW/status/2118516706863644964"
-  },
-  {
-   "author_id": "1189608528950054913",
-   "created_at": "2026-11-06T00:00:32.000Z",
-   "edit_history_tweet_ids": [
-    "2118493698887680422"
-   ],
-   "id": "2118493698887680422",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 384,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "GLOBAL NEWS ALERT | Russell Brand, Iran War, GOP Fallout &amp; More | Bek LIVE https://t.co/X1XaGa5lqm",
-   "url": "https://x.com/BekLoverNYC/status/2118493698887680422"
-  },
-  {
-   "author_id": "1574069936867184640",
-   "created_at": "2026-11-06T01:04:18.000Z",
-   "edit_history_tweet_ids": [
-    "2118509746592374869"
-   ],
-   "id": "2118509746592374869",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 68,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Lee Escobedo | Knicks News https://t.co/d8W3ThlJNV",
-   "url": "https://x.com/_leeescobedo/status/2118509746592374869"
-  },
-  {
-   "author_id": "2079977829572501504",
-   "created_at": "2026-11-06T00:02:08.000Z",
-   "edit_history_tweet_ids": [
-    "2118494104661176390"
-   ],
-   "id": "2118494104661176390",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 319,
-    "like_count": 6,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 5
-   },
-   "text": "ON TAP NEWS W/WARREN AND MATT~RETIRED U.S NAVY CAPTAIN PETER MATISOO https://t.co/ecPebPuRD8",
-   "url": "https://x.com/OnTapNewsShow/status/2118494104661176390"
-  },
-  {
-   "author_id": "973671092396134401",
-   "created_at": "2026-11-06T01:02:08.000Z",
-   "edit_history_tweet_ids": [
-    "2118509203207713158"
-   ],
-   "id": "2118509203207713158",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 63,
+    "impression_count": 47,
     "like_count": 3,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 3
+    "retweet_count": 2
    },
-   "text": "🔵🖤 THE COLE SHOW EP34: Todd Wash Speaks + Broncos Preview &amp; chats other Panther news https://t.co/UpPwEmzT3R",
-   "url": "https://x.com/PantherPickle/status/2118509203207713158"
+   "text": "COLLEGE BASKETBALL PICKS 11/21 |  CBB PREDICTIONS | BETS &amp; CBB NEWS  ANALYSIS | PUMP FAKE POD https://t.co/cpdKqJiDdy",
+   "url": "https://x.com/PumpFakePod/status/2124016988502511830"
   },
   {
-   "author_id": "1434798710169513984",
-   "created_at": "2026-11-06T01:22:39.000Z",
+   "author_id": "1302508792698015749",
+   "created_at": "2026-11-21T03:50:18.000Z",
    "edit_history_tweet_ids": [
-    "2118514367385735521"
+    "2123987340821713277"
    ],
-   "id": "2118514367385735521",
+   "entities": {
+    "urls": [
+     {
+      "description": "Live Stream Variety Show w/Live news content, police chases, protests, current world events, and more. Best music and best hair on Twitch 🤘🏼🏴‍☠️ — nubbinsaintnubbins streams live on Twitch! Check out their videos, sign up to chat, and join their community.",
+      "display_url": "twitch.tv/nubbinsaintnub…",
+      "end": 127,
+      "expanded_url": "https://twitch.tv/nubbinsaintnubbins",
+      "images": [
+       {
+        "height": 300,
+        "url": "https://pbs.twimg.com/news_img/2122884886692315136/KBzvoJJN?format=png&name=orig",
+        "width": 300
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2122884886692315136/KBzvoJJN?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 104,
+      "status": 200,
+      "title": "nubbinsaintnubbins - Twitch",
+      "unwound_url": "https://www.twitch.tv/nubbinsaintnubbins",
+      "url": "https://t.co/P9t8A5MLw2"
+     },
+     {
+      "display_url": "x.com/nubbinsaintnub…",
+      "end": 151,
+      "expanded_url": "https://x.com/nubbinsaintnubbins",
+      "start": 128,
+      "status": 404,
+      "unwound_url": "https://x.com/nubbinsaintnubbins",
+      "url": "https://t.co/QSTsGAR5di"
+     },
+     {
+      "description": "Watch nubbinsaintnubbins live on KICK, plus VODs, clips and highlights from every stream. Variety Show with badass music, LIVE car chases, crime chasers,…",
+      "display_url": "kick.com/nubbinsaintnub…",
+      "end": 175,
+      "expanded_url": "https://kick.com/nubbinsaintnubbins",
+      "images": [
+       {
+        "height": 350,
+        "url": "https://pbs.twimg.com/news_img/2122884888550408192/WDgmsvxg?format=jpg&name=orig",
+        "width": 350
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2122884888550408192/WDgmsvxg?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 152,
+      "status": 200,
+      "title": "nubbinsaintnubbins Live Stream - Watch Live on KICK",
+      "unwound_url": "https://kick.com/nubbinsaintnubbins",
+      "url": "https://t.co/6nL0uPscYO"
+     },
+     {
+      "description": "THE NUBS BIRTHDAY STREAM!! | 45 AND STILL YOUNG AF | MUSIC SELECTION BY NUBS | NEWS | LIVE CHAOS | CHAT",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 214,
+      "expanded_url": "https://x.com/i/broadcasts/2ZBQPrRBJbVOQN",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123987332059607041/G8oJffN3?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123987332059607041/G8oJffN3?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 191,
+      "status": 200,
+      "title": "Nubbin St. Nubbins",
+      "unwound_url": "https://x.com/i/broadcasts/2ZBQPrRBJbVOQN",
+      "url": "https://t.co/KFKLvmCAKS"
+     }
+    ]
+   },
+   "id": "2123987340821713277",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 21,
-    "like_count": 0,
+    "impression_count": 505,
+    "like_count": 9,
     "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
+    "reply_count": 3,
+    "retweet_count": 2
    },
-   "text": "😻THURRSDAY @MIKOVERSEINC STREAM! 😻 🌊 BLUE WAVE FALL OUT! 🌊🙀PARAGUAY BANK COLLAPSE !?! 🙀😺 NEWS! DRAMA! MOAR! 😺OPENING VCARDS 😺 https://t.co/dUeDi0GTAP",
-   "url": "https://x.com/ninjagato465/status/2118514367385735521"
+   "text": "THE NUBS BIRTHDAY STREAM!! | 45 AND STILL YOUNG AF | MUSIC SELECTION BY NUBS | NEWS | LIVE CHAOS | CHAT\nhttps://t.co/P9t8A5MLw2\nhttps://t.co/QSTsGAR5di\nhttps://t.co/6nL0uPscYO\nstarting now!!\nhttps://t.co/KFKLvmCAKS",
+   "url": "https://x.com/NubbinSaint/status/2123987340821713277"
   },
   {
-   "author_id": "1684411062",
-   "created_at": "2026-11-06T00:15:19.000Z",
+   "author_id": "4505795352",
+   "created_at": "2026-11-21T04:13:13.000Z",
    "edit_history_tweet_ids": [
-    "2118497422317903902"
+    "2123993108115583130"
    ],
-   "id": "2118497422317903902",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 78,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
+   "entities": {
+    "mentions": [
+     {
+      "end": 154,
+      "id": "1302508792698015749",
+      "start": 142,
+      "username": "NubbinSaint"
+     }
+    ],
+    "urls": [
+     {
+      "description": "THE NUBS BIRTHDAY STREAM!! | 45 AND STILL YOUNG AF | MUSIC SELECTION BY NUBS | NEWS | LIVE CHAOS | CHAT",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 178,
+      "expanded_url": "https://x.com/i/broadcasts/2ZBQPrRBJbVOQN",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123987332059607041/G8oJffN3?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123987332059607041/G8oJffN3?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 155,
+      "status": 200,
+      "title": "Nubbin St. Nubbins",
+      "unwound_url": "https://x.com/i/broadcasts/2ZBQPrRBJbVOQN",
+      "url": "https://t.co/KiEK9xZez5"
+     }
+    ]
    },
-   "text": "HOT BOY TURK REACTS TO BOOSIE ON CAM CAPONE NEWS https://t.co/x1wz6SalHG",
-   "url": "https://x.com/HotBoyTurk32/status/2118497422317903902"
-  },
-  {
-   "author_id": "1256260317732057090",
-   "created_at": "2026-11-06T00:59:57.000Z",
-   "edit_history_tweet_ids": [
-    "2118508652722020641"
-   ],
-   "id": "2118508652722020641",
+   "id": "2123993108115583130",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 163,
-    "like_count": 2,
+    "impression_count": 338,
+    "like_count": 7,
     "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 1
    },
-   "text": "Marvel advertises for VeVe! $OMI $DACAT $DEFX news! https://t.co/CvZ5LCYcBj",
-   "url": "https://x.com/RealRandyChavez/status/2118508652722020641"
+   "text": "🔴 Nubbin St. Nubbins is LIVE\nTHE NUBS BIRTHDAY STREAM!! | 45 AND STILL YOUNG AF | MUSIC SELECTION BY NUBS | NEWS | LIVE CHAOS | CHAT\n11.20.26\n@NubbinSaint\nhttps://t.co/KiEK9xZez5",
+   "url": "https://x.com/DivintyMary/status/2123993108115583130"
+  },
+  {
+   "author_id": "1816231321502621696",
+   "created_at": "2026-11-21T03:40:10.000Z",
+   "edit_history_tweet_ids": [
+    "2123984792261644559"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "God Is Absolutely Good: President Trump’s Moves—What’s Coming? | Day 220",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 96,
+      "expanded_url": "https://x.com/i/broadcasts/2ybQgnyloBprLA",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2123984834632552448/mk0pyFQA?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123984834632552448/mk0pyFQA?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 73,
+      "status": 200,
+      "title": "Lynne Scott Haggerman",
+      "unwound_url": "https://x.com/i/broadcasts/2ybQgnyloBprLA",
+      "url": "https://t.co/mduWzJg3X8"
+     }
+    ]
+   },
+   "id": "2123984792261644559",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 31,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "God Is Absolutely Good: President Trump’s Moves—What’s Coming? | Day 220 https://t.co/mduWzJg3X8",
+   "url": "https://x.com/LynneSHaggerman/status/2123984792261644559"
+  },
+  {
+   "author_id": "22290224",
+   "created_at": "2026-11-21T03:41:48.000Z",
+   "edit_history_tweet_ids": [
+    "2123985201000849885"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "FIELD OF 68 AFTER DARK! Recapping Houston-Kansas! Plus, previewing Kentucky-Indiana and more! | PRESENTED BY @BetMGM",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 72,
+      "expanded_url": "https://x.com/i/broadcasts/2aWQVybPVJONjK",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123978909758763008/EHy28cT9?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123978909758763008/EHy28cT9?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 49,
+      "status": 200,
+      "title": "The Field of 68",
+      "unwound_url": "https://x.com/i/broadcasts/2aWQVybPVJONjK",
+      "url": "https://t.co/TQScXNAO1v"
+     }
+    ]
+   },
+   "id": "2123985201000849885",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 2598,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Breaking down Mark Pope’s heated seat right now. https://t.co/TQScXNAO1v",
+   "url": "https://x.com/RobDauster/status/2123985201000849885"
+  },
+  {
+   "author_id": "1061081543102218240",
+   "created_at": "2026-11-21T04:08:28.000Z",
+   "edit_history_tweet_ids": [
+    "2123991911321014579"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "BREAKING: LUKA DONCIC IS ON \"CLAP\" ALERT VS KINGS",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 73,
+      "expanded_url": "https://x.com/i/broadcasts/2nQqWdbQXeeYJa",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2123991953960321024/4hVEA2nI?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123991953960321024/4hVEA2nI?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 50,
+      "status": 200,
+      "title": "The Locker Room",
+      "unwound_url": "https://x.com/i/broadcasts/2nQqWdbQXeeYJa",
+      "url": "https://t.co/opcp2Z9QJB"
+     }
+    ]
+   },
+   "id": "2123991911321014579",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 321,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "BREAKING: LUKA DONCIC IS ON \"CLAP\" ALERT VS KINGS https://t.co/opcp2Z9QJB",
+   "url": "https://x.com/lockerroomla/status/2123991911321014579"
   }
  ],
  "users": [
   {
-   "id": "1900375238548086788",
-   "name": "MAGNO NEWS LIVE",
+   "id": "256203380",
+   "name": "Mizzou Hoops",
    "public_metrics": {
-    "followers_count": 2422,
-    "following_count": 277,
-    "like_count": 28,
-    "listed_count": 16,
-    "media_count": 46,
-    "tweet_count": 2201
+    "followers_count": 135860,
+    "following_count": 267,
+    "like_count": 2324,
+    "listed_count": 732,
+    "media_count": 12263,
+    "tweet_count": 26624
    },
-   "username": "magnonewslive",
+   "username": "MizzouHoops",
    "verified": true,
-   "verified_type": "blue"
+   "verified_type": "business"
   },
   {
-   "id": "1668967306490265601",
-   "name": "Talkin Live",
+   "id": "1406048189015158787",
+   "name": "Daily 24 Bharat",
    "public_metrics": {
-    "followers_count": 62,
-    "following_count": 73,
-    "like_count": 8,
-    "listed_count": 1,
-    "media_count": 2383,
-    "tweet_count": 2906
-   },
-   "username": "talkinlive",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "364214133",
-   "name": "Dr.SHIVA Ayyadurai, MIT PhD. Inventor of Email",
-   "public_metrics": {
-    "followers_count": 319399,
-    "following_count": 2082,
-    "like_count": 57003,
-    "listed_count": 1282,
-    "media_count": 5203,
-    "tweet_count": 34713
-   },
-   "username": "va_shiva",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1384282002858266629",
-   "name": "Fins Talk Sports Network",
-   "public_metrics": {
-    "followers_count": 1626,
-    "following_count": 1151,
-    "like_count": 6935,
-    "listed_count": 7,
-    "media_count": 2103,
-    "tweet_count": 10222
-   },
-   "username": "FinsTalkNetwork",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1364887393921359875",
-   "name": "Max V World Media",
-   "public_metrics": {
-    "followers_count": 217,
-    "following_count": 242,
-    "like_count": 1442,
-    "listed_count": 1,
-    "media_count": 286,
-    "tweet_count": 749
-   },
-   "username": "Maxvworldmedia",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "42647008",
-   "name": "Ryan - Garnet and Old",
-   "public_metrics": {
-    "followers_count": 530,
-    "following_count": 64,
-    "like_count": 762,
-    "listed_count": 4,
-    "media_count": 1358,
-    "tweet_count": 4374
-   },
-   "username": "BigPapaEast",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "58084367",
-   "name": "Vince C",
-   "public_metrics": {
-    "followers_count": 715,
-    "following_count": 1239,
-    "like_count": 44198,
-    "listed_count": 4,
-    "media_count": 1563,
-    "tweet_count": 7331
-   },
-   "username": "vcnole",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "136791586",
-   "name": "Shannon Griffith",
-   "public_metrics": {
-    "followers_count": 1957,
-    "following_count": 2873,
-    "like_count": 16461,
-    "listed_count": 21,
-    "media_count": 770,
-    "tweet_count": 15601
-   },
-   "username": "CoachGriff55",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1404103952086585349",
-   "name": "Garnet and Old",
-   "public_metrics": {
-    "followers_count": 319,
-    "following_count": 69,
-    "like_count": 167,
-    "listed_count": 3,
-    "media_count": 78,
-    "tweet_count": 591
-   },
-   "username": "Garnet_Old",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "109400580",
-   "name": "Trouble or Trevor",
-   "public_metrics": {
-    "followers_count": 1949,
-    "following_count": 4667,
-    "like_count": 92508,
-    "listed_count": 38,
-    "media_count": 8513,
-    "tweet_count": 67851
-   },
-   "username": "99_Zelmae",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1696684840874082305",
-   "name": "Hoosier Tailgate",
-   "public_metrics": {
-    "followers_count": 613,
-    "following_count": 550,
-    "like_count": 1445,
-    "listed_count": 9,
-    "media_count": 771,
-    "tweet_count": 4097
-   },
-   "username": "HoosierTailgate",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1374121594172375040",
-   "name": "Jared",
-   "public_metrics": {
-    "followers_count": 1244,
-    "following_count": 2421,
-    "like_count": 82922,
-    "listed_count": 3,
-    "media_count": 3277,
-    "tweet_count": 17921
-   },
-   "username": "ComicsLeagueJT",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1352487109165125640",
-   "name": "David Beaudry | VYLØS",
-   "public_metrics": {
-    "followers_count": 25238,
-    "following_count": 42,
-    "like_count": 26639,
-    "listed_count": 75,
-    "media_count": 1009,
-    "tweet_count": 16347
-   },
-   "username": "davidbeaudry",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1022800836",
-   "name": "The Oracle of Whimsy",
-   "public_metrics": {
-    "followers_count": 1233,
-    "following_count": 666,
-    "like_count": 7478,
-    "listed_count": 7,
-    "media_count": 800,
-    "tweet_count": 11452
-   },
-   "username": "doctorwhimsy",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1258209258",
-   "name": "Tapp into the Truth",
-   "public_metrics": {
-    "followers_count": 1443,
-    "following_count": 2816,
-    "like_count": 899,
-    "listed_count": 11,
-    "media_count": 1219,
-    "tweet_count": 8347
-   },
-   "username": "TappintotheTrut",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1546659690196738058",
-   "name": "Victoria 🍊 💃",
-   "public_metrics": {
-    "followers_count": 3665,
-    "following_count": 2602,
-    "like_count": 75609,
-    "listed_count": 13,
-    "media_count": 6605,
-    "tweet_count": 90367
-   },
-   "username": "VickanFW",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1189608528950054913",
-   "name": "Bek Lover",
-   "public_metrics": {
-    "followers_count": 21127,
-    "following_count": 614,
-    "like_count": 2176,
-    "listed_count": 48,
-    "media_count": 1564,
-    "tweet_count": 6648
-   },
-   "username": "BekLoverNYC",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1574069936867184640",
-   "name": "Lee Escobedo | Knicks News",
-   "public_metrics": {
-    "followers_count": 3403,
-    "following_count": 2716,
-    "like_count": 145777,
-    "listed_count": 37,
-    "media_count": 5181,
-    "tweet_count": 58898
-   },
-   "username": "_leeescobedo",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2079977829572501504",
-   "name": "On Tap News",
-   "public_metrics": {
-    "followers_count": 851,
-    "following_count": 5,
-    "like_count": 8,
-    "listed_count": 3,
-    "media_count": 76,
-    "tweet_count": 225
-   },
-   "username": "OnTapNewsShow",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "973671092396134401",
-   "name": "PantherPickle",
-   "public_metrics": {
-    "followers_count": 1099,
-    "following_count": 662,
-    "like_count": 33735,
-    "listed_count": 12,
-    "media_count": 4023,
-    "tweet_count": 54535
-   },
-   "username": "PantherPickle",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1434798710169513984",
-   "name": "NinjaGato",
-   "public_metrics": {
-    "followers_count": 379,
-    "following_count": 246,
-    "like_count": 12506,
+    "followers_count": 1036,
+    "following_count": 8,
+    "like_count": 184,
     "listed_count": 2,
-    "media_count": 6077,
-    "tweet_count": 7872
+    "media_count": 37564,
+    "tweet_count": 38911
    },
-   "username": "ninjagato465",
+   "username": "Daily24bharat",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1684411062",
-   "name": "#MAGNOLIATURK🦍🔥",
+   "id": "1024661303154094081",
+   "name": "The Layman's Seminary",
    "public_metrics": {
-    "followers_count": 72329,
-    "following_count": 21526,
-    "like_count": 9334,
-    "listed_count": 228,
-    "media_count": 19864,
-    "tweet_count": 177255
+    "followers_count": 2148,
+    "following_count": 3670,
+    "like_count": 28468,
+    "listed_count": 16,
+    "media_count": 1213,
+    "tweet_count": 19937
    },
-   "username": "HotBoyTurk32",
+   "username": "LaymansSeminary",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1256260317732057090",
-   "name": "Randy Chavez ⭕",
+   "id": "19897138",
+   "name": "IndiaToday",
    "public_metrics": {
-    "followers_count": 25435,
-    "following_count": 494,
-    "like_count": 145531,
-    "listed_count": 65,
-    "media_count": 4851,
-    "tweet_count": 68074
+    "followers_count": 6278489,
+    "following_count": 82,
+    "like_count": 4431,
+    "listed_count": 7337,
+    "media_count": 587930,
+    "tweet_count": 1550079
    },
-   "username": "RealRandyChavez",
+   "username": "IndiaToday",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1902785833578471425",
+   "name": "Rise of Middle America Network",
+   "public_metrics": {
+    "followers_count": 131,
+    "following_count": 375,
+    "like_count": 307,
+    "listed_count": 0,
+    "media_count": 88,
+    "tweet_count": 1121
+   },
+   "username": "RomaNetworkOne",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "935942321756966912",
+   "name": "Real America's Voice (RAV)",
+   "public_metrics": {
+    "followers_count": 576366,
+    "following_count": 1927,
+    "like_count": 12127,
+    "listed_count": 1594,
+    "media_count": 87867,
+    "tweet_count": 139954
+   },
+   "username": "RealAmVoice",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "37034483",
+   "name": "NDTV",
+   "public_metrics": {
+    "followers_count": 17336972,
+    "following_count": 19,
+    "like_count": 63,
+    "listed_count": 14717,
+    "media_count": 798124,
+    "tweet_count": 1594508
+   },
+   "username": "ndtv",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "2015134783517667328",
+   "name": "GUYER",
+   "public_metrics": {
+    "followers_count": 3934,
+    "following_count": 180,
+    "like_count": 2199,
+    "listed_count": 3,
+    "media_count": 794,
+    "tweet_count": 3119
+   },
+   "username": "THEGUYERSHOW",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1691380072517664769",
+   "name": "NSC9 News",
+   "public_metrics": {
+    "followers_count": 664,
+    "following_count": 4,
+    "like_count": 1562,
+    "listed_count": 0,
+    "media_count": 23364,
+    "tweet_count": 36158
+   },
+   "username": "nsc9news",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "85814753",
+   "name": "Sandesh",
+   "public_metrics": {
+    "followers_count": 520342,
+    "following_count": 2,
+    "like_count": 1748,
+    "listed_count": 379,
+    "media_count": 227022,
+    "tweet_count": 467260
+   },
+   "username": "sandeshnews",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1438604288025153542",
+   "name": "Average Joe Patriot 1776",
+   "public_metrics": {
+    "followers_count": 11606,
+    "following_count": 4749,
+    "like_count": 99714,
+    "listed_count": 13,
+    "media_count": 4812,
+    "tweet_count": 59016
+   },
+   "username": "AJPArmy",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1510966175504773120",
+   "name": "Tom Stoukas",
+   "public_metrics": {
+    "followers_count": 4059,
+    "following_count": 4235,
+    "like_count": 12415,
+    "listed_count": 66,
+    "media_count": 4566,
+    "tweet_count": 47676
+   },
+   "username": "StoukasTom",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "30608666",
+   "name": "Marcus Johnson",
+   "public_metrics": {
+    "followers_count": 9162,
+    "following_count": 811,
+    "like_count": 29897,
+    "listed_count": 164,
+    "media_count": 4226,
+    "tweet_count": 84272
+   },
+   "username": "TheMarcJohnNFL",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1656485362640777216",
+   "name": "Nice Guy Eddy",
+   "public_metrics": {
+    "followers_count": 713,
+    "following_count": 1808,
+    "like_count": 52306,
+    "listed_count": 1,
+    "media_count": 353,
+    "tweet_count": 8263
+   },
+   "username": "NICEGUYEDDYSHOW",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1302508792698015749",
+   "name": "Nubbin St. Nubbins",
+   "public_metrics": {
+    "followers_count": 2182,
+    "following_count": 2477,
+    "like_count": 15855,
+    "listed_count": 4,
+    "media_count": 562,
+    "tweet_count": 12295
+   },
+   "username": "NubbinSaint",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1707048293883056128",
+   "name": "Pump Fake Pod",
+   "public_metrics": {
+    "followers_count": 1025,
+    "following_count": 69,
+    "like_count": 1856,
+    "listed_count": 5,
+    "media_count": 395,
+    "tweet_count": 1724
+   },
+   "username": "PumpFakePod",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "4505795352",
+   "name": "Miss Mary",
+   "public_metrics": {
+    "followers_count": 56238,
+    "following_count": 34176,
+    "like_count": 357438,
+    "listed_count": 88,
+    "media_count": 16754,
+    "tweet_count": 219177
+   },
+   "username": "DivintyMary",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1816231321502621696",
+   "name": "Lynne Scott Haggerman",
+   "public_metrics": {
+    "followers_count": 1312,
+    "following_count": 116,
+    "like_count": 600,
+    "listed_count": 2,
+    "media_count": 151,
+    "tweet_count": 1043
+   },
+   "username": "LynneSHaggerman",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "22290224",
+   "name": "Rob Dauster",
+   "public_metrics": {
+    "followers_count": 62455,
+    "following_count": 1817,
+    "like_count": 2325,
+    "listed_count": 1370,
+    "media_count": 8652,
+    "tweet_count": 146006
+   },
+   "username": "RobDauster",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1061081543102218240",
+   "name": "The Locker Room",
+   "public_metrics": {
+    "followers_count": 2121,
+    "following_count": 1182,
+    "like_count": 18362,
+    "listed_count": 18,
+    "media_count": 1266,
+    "tweet_count": 10839
+   },
+   "username": "lockerroomla",
    "verified": true,
    "verified_type": "blue"
   }
