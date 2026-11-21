@@ -1,19 +1,9 @@
 {
- "built_at": "2026-11-21T11:11:44Z",
- "searched_at": "2026-11-21T11:11:09Z",
+ "built_at": "2026-11-21T11:32:19Z",
+ "searched_at": "2026-11-21T11:31:35Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
-  {
-   "post_id": "2124058175074930919",
-   "post_url": "https://x.com/LaraTrump_USA/status/2124058175074930919",
-   "name": "LaraTrumpVoice",
-   "username": "LaraTrump_USA",
-   "verified_type": "none",
-   "text": "WATCH LIVE: President Trump, Dana White honor military musicians at White House https://t.co/hsfeWn6EVi",
-   "started_at": "2026-11-21T08:31:46.000Z",
-   "assumed_live_until": "2026-11-21T11:31:46Z"
-  },
   {
    "post_id": "2124080529196671268",
    "post_url": "https://x.com/TrophyFpl/status/2124080529196671268",
@@ -33,6 +23,26 @@
    "text": "Channel One TV LIVE | The Big Presidential Jet Debate | Will The New Economy Work? | The Big Issue | https://t.co/OJtOXdmlKM",
    "started_at": "2026-11-21T09:18:48.000Z",
    "assumed_live_until": "2026-11-21T12:18:48Z"
+  },
+  {
+   "post_id": "2124099810655428952",
+   "post_url": "https://x.com/pinkun/status/2124099810655428952",
+   "name": "The Pink Un",
+   "username": "pinkun",
+   "verified_type": "blue",
+   "text": "TEAM NEWS LIVE: Norwich City vs Cardiff City https://t.co/0sZZzidNKN",
+   "started_at": "2026-11-21T11:17:13.000Z",
+   "assumed_live_until": "2026-11-21T14:17:13Z"
+  },
+  {
+   "post_id": "2124101541078417481",
+   "post_url": "https://x.com/sandeshnews/status/2124101541078417481",
+   "name": "Sandesh",
+   "username": "sandeshnews",
+   "verified_type": "blue",
+   "text": "Sandesh News https://t.co/YiZnGOodnd",
+   "started_at": "2026-11-21T11:24:05.000Z",
+   "assumed_live_until": "2026-11-21T14:24:05Z"
   },
   {
    "post_id": "2124080739083772192",
