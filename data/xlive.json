@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-21T13:07:46Z",
- "searched_at": "2026-11-21T13:06:59Z",
+ "built_at": "2026-11-21T13:24:44Z",
+ "searched_at": "2026-11-21T13:24:31Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -35,6 +35,16 @@
    "assumed_live_until": "2026-11-21T15:45:06Z"
   },
   {
+   "post_id": "2124129604419953080",
+   "post_url": "https://x.com/Mur_Tech/status/2124129604419953080",
+   "name": "John R. Murphy",
+   "username": "Mur_Tech",
+   "verified_type": "blue",
+   "text": "889b: Dr. Steve Turley - Trump TRIUMPHS at Shenzhen!!! https://t.co/oBeS9lFsve",
+   "started_at": "2026-11-21T13:15:36.000Z",
+   "assumed_live_until": "2026-11-21T16:15:36Z"
+  },
+  {
    "post_id": "2124099810655428952",
    "post_url": "https://x.com/pinkun/status/2124099810655428952",
    "name": "The Pink Un",
@@ -55,6 +65,16 @@
    "assumed_live_until": "2026-11-21T14:36:48Z"
   },
   {
+   "post_id": "2124128452596924643",
+   "post_url": "https://x.com/Dialogue_NRA/status/2124128452596924643",
+   "name": "Dialogue works",
+   "username": "Dialogue_NRA",
+   "verified_type": "blue",
+   "text": "Seyed M. Marandi: BREAKING: Oil Tanker Ablaze Near Hormuz - U.S. & Israel Eye Iran Again https://t.co/PIJQcM8rMQ",
+   "started_at": "2026-11-21T13:11:02.000Z",
+   "assumed_live_until": "2026-11-21T16:11:02Z"
+  },
+  {
    "post_id": "2124101541078417481",
    "post_url": "https://x.com/sandeshnews/status/2124101541078417481",
    "name": "Sandesh",
@@ -63,26 +83,6 @@
    "text": "Sandesh News https://t.co/YiZnGOodnd",
    "started_at": "2026-11-21T11:24:05.000Z",
    "assumed_live_until": "2026-11-21T14:24:05Z"
-  },
-  {
-   "post_id": "2124111037758595543",
-   "post_url": "https://x.com/mediasapientia/status/2124111037758595543",
-   "name": "Sapientia Radio & TV",
-   "username": "mediasapientia",
-   "verified_type": "blue",
-   "text": "Nigeria News Today LIVE: NAFDAC Uncovers Expired Baby Diapers, NUC Approves Anambra Medical University | Nov 21 https://t.co/zjhK1rV6Qz",
-   "started_at": "2026-11-21T12:01:50.000Z",
-   "assumed_live_until": "2026-11-21T15:01:50Z"
-  },
-  {
-   "post_id": "2124092390638063795",
-   "post_url": "https://x.com/growthnownews/status/2124092390638063795",
-   "name": "Growthnownews",
-   "username": "growthnownews",
-   "verified_type": "blue",
-   "text": "GrowthNow News LIVE ! https://t.co/Y8ag4pwZ6c",
-   "started_at": "2026-11-21T10:47:44.000Z",
-   "assumed_live_until": "2026-11-21T13:47:44Z"
   }
  ]
 }
