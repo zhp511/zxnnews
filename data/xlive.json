@@ -1,6 +1,6 @@
 {
- "built_at": "2026-11-21T06:19:33Z",
- "searched_at": "2026-11-21T06:19:17Z",
+ "built_at": "2026-11-21T06:35:54Z",
+ "searched_at": "2026-11-21T06:35:28Z",
  "window_hours": 3.0,
  "detection": "Posts linking to an X broadcast, counted as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
  "broadcasts": [
@@ -45,16 +45,6 @@
    "assumed_live_until": "2026-11-21T06:40:10Z"
   },
   {
-   "post_id": "2123982588519780371",
-   "post_url": "https://x.com/RomaNetworkOne/status/2123982588519780371",
-   "name": "Rise of Middle America Network",
-   "username": "RomaNetworkOne",
-   "verified_type": "blue",
-   "text": "We are LIVE for Rise of Middle America! Subscribe to the channels and join us in the chats! \n\nhttps://t.co/IFbAxmUgaI",
-   "started_at": "2026-11-21T03:31:25.000Z",
-   "assumed_live_until": "2026-11-21T06:31:25Z"
-  },
-  {
    "post_id": "2124022163384451169",
    "post_url": "https://x.com/Rashtra_TV/status/2124022163384451169",
    "name": "Rashtra TV",
@@ -83,6 +73,16 @@
    "text": "GB News https://t.co/y6vplOJ8ym",
    "started_at": "2026-11-21T05:59:56.000Z",
    "assumed_live_until": "2026-11-21T08:59:56Z"
+  },
+  {
+   "post_id": "2123989779612156031",
+   "post_url": "https://x.com/AJPArmy/status/2123989779612156031",
+   "name": "Average Joe Patriot 1776",
+   "username": "AJPArmy",
+   "verified_type": "blue",
+   "text": "LIVE NOW \n\nRapid Fire News #1250 ~FAFO FRIDAY~\nhttps://t.co/vOmo2gmuDu",
+   "started_at": "2026-11-21T03:59:59.000Z",
+   "assumed_live_until": "2026-11-21T06:59:59Z"
   }
  ]
 }
