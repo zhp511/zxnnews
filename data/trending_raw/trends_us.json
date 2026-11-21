@@ -1,108 +1,102 @@
 {
-  "fetched_at": "2026-11-21T12:25:30Z",
-  "tool": "x.get_trends_by_woeid",
-  "args": {
-    "woeid": 23424977
+ "fetched_at": "2026-11-21T13:31:32Z",
+ "tool": "x.get_trends_by_woeid",
+ "args": {
+  "woeid": 23424977
+ },
+ "data": [
+  {
+   "trend_name": "Good Saturday",
+   "tweet_count": 31744,
+   "url": "https://x.com/search?q=Good%20Saturday"
   },
-  "data": [
-    {
-      "trend_name": "Good Saturday",
-      "tweet_count": 28028,
-      "url": "https://x.com/search?q=Good%20Saturday"
-    },
-    {
-      "trend_name": "Sinaloa",
-      "tweet_count": 40468,
-      "url": "https://x.com/search?q=Sinaloa"
-    },
-    {
-      "trend_name": "La Mansión VIP",
-      "tweet_count": 1979,
-      "url": "https://x.com/search?q=La%20Mansi%C3%B3n%20VIP"
-    },
-    {
-      "trend_name": "Caturday",
-      "tweet_count": 4018,
-      "url": "https://x.com/search?q=Caturday"
-    },
-    {
-      "trend_name": "#SaturdayVibes",
-      "url": "https://x.com/search?q=%23SaturdayVibes"
-    },
-    {
-      "trend_name": "FSD V15",
-      "tweet_count": 1867,
-      "url": "https://x.com/search?q=FSD%20V15"
-    },
-    {
-      "trend_name": "#JanJingJingFanconD1",
-      "tweet_count": 228774,
-      "url": "https://x.com/search?q=%23JanJingJingFanconD1"
-    },
-    {
-      "trend_name": "Guasave",
-      "tweet_count": 40090,
-      "url": "https://x.com/search?q=Guasave"
-    },
-    {
-      "trend_name": "Hwasa",
-      "tweet_count": 41726,
-      "url": "https://x.com/search?q=Hwasa"
-    },
-    {
-      "trend_name": "Carmelo Anthony",
-      "tweet_count": 1898,
-      "url": "https://x.com/search?q=Carmelo%20Anthony"
-    },
-    {
-      "trend_name": "Revolución",
-      "tweet_count": 35769,
-      "url": "https://x.com/search?q=Revoluci%C3%B3n"
-    },
-    {
-      "trend_name": "Signed",
-      "tweet_count": 78621,
-      "url": "https://x.com/search?q=Signed"
-    },
-    {
-      "trend_name": "BIGBANG",
-      "tweet_count": 117893,
-      "url": "https://x.com/search?q=BIGBANG"
-    },
-    {
-      "trend_name": "Taeyang",
-      "tweet_count": 20131,
-      "url": "https://x.com/search?q=Taeyang"
-    },
-    {
-      "trend_name": "CONGRATULATIONS BTS",
-      "tweet_count": 161589,
-      "url": "https://x.com/search?q=CONGRATULATIONS%20BTS"
-    },
-    {
-      "trend_name": "Jacks",
-      "tweet_count": 3834,
-      "url": "https://x.com/search?q=Jacks"
-    },
-    {
-      "trend_name": "#MAMA2026",
-      "tweet_count": 94779,
-      "url": "https://x.com/search?q=%23MAMA2026"
-    },
-    {
-      "trend_name": "Harden",
-      "tweet_count": 18705,
-      "url": "https://x.com/search?q=Harden"
-    },
-    {
-      "trend_name": "Al Qaeda",
-      "tweet_count": 5141,
-      "url": "https://x.com/search?q=Al%20Qaeda"
-    },
-    {
-      "trend_name": "Sorkin",
-      "tweet_count": 3294,
-      "url": "https://x.com/search?q=Sorkin"
-    }
-  ]
+  {
+   "trend_name": "Sinaloa",
+   "tweet_count": 44254,
+   "url": "https://x.com/search?q=Sinaloa"
+  },
+  {
+   "trend_name": "Fulham",
+   "tweet_count": 30999,
+   "url": "https://x.com/search?q=Fulham"
+  },
+  {
+   "trend_name": "Caturday",
+   "tweet_count": 5136,
+   "url": "https://x.com/search?q=Caturday"
+  },
+  {
+   "trend_name": "La Mansión VIP",
+   "tweet_count": 2101,
+   "url": "https://x.com/search?q=La%20Mansi%C3%B3n%20VIP"
+  },
+  {
+   "trend_name": "Haaland",
+   "tweet_count": 17376,
+   "url": "https://x.com/search?q=Haaland"
+  },
+  {
+   "trend_name": "#SaturdayVibes",
+   "url": "https://x.com/search?q=%23SaturdayVibes"
+  },
+  {
+   "trend_name": "Gallos Blancos",
+   "url": "https://x.com/search?q=Gallos%20Blancos"
+  },
+  {
+   "trend_name": "Servicio Meteorológico",
+   "url": "https://x.com/search?q=Servicio%20Meteorol%C3%B3gico"
+  },
+  {
+   "trend_name": "Maresca",
+   "tweet_count": 12440,
+   "url": "https://x.com/search?q=Maresca"
+  },
+  {
+   "trend_name": "#BOYCOTTPBB",
+   "tweet_count": 155808,
+   "url": "https://x.com/search?q=%23BOYCOTTPBB"
+  },
+  {
+   "trend_name": "Guasave",
+   "tweet_count": 43131,
+   "url": "https://x.com/search?q=Guasave"
+  },
+  {
+   "trend_name": "Man City",
+   "tweet_count": 28442,
+   "url": "https://x.com/search?q=Man%20City"
+  },
+  {
+   "trend_name": "#SaturdayMotivation",
+   "url": "https://x.com/search?q=%23SaturdayMotivation"
+  },
+  {
+   "trend_name": "Leno",
+   "tweet_count": 2891,
+   "url": "https://x.com/search?q=Leno"
+  },
+  {
+   "trend_name": "corea del sur",
+   "url": "https://x.com/search?q=corea%20del%20sur"
+  },
+  {
+   "trend_name": "Querétaro",
+   "tweet_count": 6587,
+   "url": "https://x.com/search?q=Quer%C3%A9taro"
+  },
+  {
+   "trend_name": "Lotería Nacional",
+   "url": "https://x.com/search?q=Loter%C3%ADa%20Nacional"
+  },
+  {
+   "trend_name": "IT'S GAME DAY",
+   "url": "https://x.com/search?q=IT%27S%20GAME%20DAY"
+  },
+  {
+   "trend_name": "FSD V15",
+   "tweet_count": 2127,
+   "url": "https://x.com/search?q=FSD%20V15"
+  }
+ ]
 }
