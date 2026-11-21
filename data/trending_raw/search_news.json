@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T05:59:19Z",
+ "fetched_at": "2026-11-21T10:11:28Z",
  "tool": "x.search_news",
  "args": {
   "query": "US politics",
@@ -278,66 +278,6 @@
    "url": "https://x.com/i/trending/2123863179252150575"
   },
   {
-   "category": "Other",
-   "cluster_posts_results": [
-    {
-     "post_id": "2123578899967750248"
-    },
-    {
-     "post_id": "2123768001933500568"
-    },
-    {
-     "post_id": "2123815269353091467"
-    },
-    {
-     "post_id": "2123814157418102886"
-    },
-    {
-     "post_id": "2123819951706243310"
-    },
-    {
-     "post_id": "2123702135405871417"
-    },
-    {
-     "post_id": "2123814157418102886"
-    },
-    {
-     "post_id": "2123819951706243310"
-    },
-    {
-     "post_id": "2123768001933500568"
-    },
-    {
-     "post_id": "2123815269353091467"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A simple post wishing for civil war met swift pushback from veterans and parents who know its true horrors all too well.",
-   "id": "2123727780097716688",
-   "name": "X Users Rebuke Call for Civil War with Brutal Realities",
-   "summary": "On November 20, @PoliticalStacy posted, 'I want there to be a civil war. There... I said it,' sparking thousands of replies. Combat veterans and Purple Heart recipients warned of neighbors turning on each other, supply chains collapsing, families in the crossfire, and potential mass deaths leading to authoritarian rule. Many shared grim visions from real conflicts like Bosnia, urging focus on elections over apocalyptic fantasies amid rising political tensions.",
-   "updated_at": "2026-11-21T00:21:52.000Z",
-   "url": "https://x.com/i/trending/2123727780097716688"
-  },
-  {
    "category": "News",
    "cluster_posts_results": [
     {
@@ -407,45 +347,43 @@
    "category": "News",
    "cluster_posts_results": [
     {
-     "post_id": "2123915110892589292"
+     "post_id": "2123895330517266943"
     },
     {
-     "post_id": "2123917116759802044"
+     "post_id": "2123945730868154673"
     },
     {
-     "post_id": "2123544386701254795"
+     "post_id": "2123998391294419250"
     },
     {
-     "post_id": "2123915110892589292"
+     "post_id": "2123988791996072404"
     },
     {
-     "post_id": "2123544386701254795"
+     "post_id": "2123945730868154673"
     },
     {
-     "post_id": "2123917116759802044"
+     "post_id": "2123998363557548043"
     },
     {
-     "post_id": "2123591501305577595"
+     "post_id": "2123998391294419250"
     },
     {
-     "post_id": "2123607691205435534"
+     "post_id": "2123992005462151503"
     },
     {
-     "post_id": "2123918484513988948"
+     "post_id": "2124019569526292513"
     },
     {
-     "post_id": "2123648235143401970"
+     "post_id": "2123988791996072404"
     }
    ],
    "contexts": {
     "entities": {
-     "events": [
-      "stock market downturn"
+     "events": [],
+     "organizations": [],
+     "people": [
+      "Bill Mitchell"
      ],
-     "organizations": [
-      "Federal Reserve"
-     ],
-     "people": [],
      "places": [],
      "products": []
     },
@@ -456,16 +394,17 @@
      "teams": []
     },
     "topics": [
+     "Politics",
      "Stocks"
     ]
    },
    "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Retirement savers watched 401(k)s shrink as the S&P 500 dropped 3.7% on November 20, marking its seventh straight decline amid partisan blame online.",
-   "id": "2123663903900995626",
-   "name": "Stock Market Plunges into Correction After Democratic Midterm Wins",
-   "summary": "The selloff deepened after Democrats won House and Senate majorities in the November 3 midterms, pushing the S&P 500 to 6,910.39, the Dow down nearly 950 points, and both indexes over 10% below recent highs. Tech and AI stocks like Nvidia bore the brunt, fueled by concerns over data center costs and potential regulations from the new Congress. Online, reactions split sharply, with some tying trillions in losses to Democrats and others stressing ongoing Republican White House control and broader economic factors.",
-   "updated_at": "2026-11-21T03:54:46.000Z",
-   "url": "https://x.com/i/trending/2123663903900995626"
+   "hook": "Right after Democrats flipped Congress on November 3, Wall Street tanked — and online claims rushed to pin it on them, only for quick corrections to highlight the real timeline.",
+   "id": "2124061732968575274",
+   "name": "Wall Street Drop Sparks Blame Game Over Democrat Wins",
+   "summary": "Gunther Eagleman and Bill Mitchell blamed Democrats for the November 20 plunge, where the Nasdaq fell 5.3 percent, erasing 2026 gains, the S&P 500 dropped 3.7 percent, and the Dow lost nearly 950 points. Users like Being J Wood and Tiffany Willis Clark pushed back, noting Democrats don't take office until January 3, 2027, with Republicans still in control. Analysts pointed to an AI trade unwind, including Nvidia troubles, Anthropic IPO fallout, and Fed rate hike fears, as the true drivers behind the Nasdaq's worst week since early COVID.",
+   "updated_at": "2026-11-21T08:51:13.000Z",
+   "url": "https://x.com/i/trending/2124061732968575274"
   },
   {
    "category": "News",
@@ -634,9 +573,7 @@
    ],
    "contexts": {
     "entities": {
-     "events": [
-      "Straight Shooter with Stephen A."
-     ],
+     "events": [],
      "organizations": [
       "SiriusXM"
      ],
@@ -647,9 +584,7 @@
      "products": []
     },
     "finance": {
-     "tickers": [
-      "SIRI"
-     ]
+     "tickers": []
     },
     "sports": {
      "teams": []
@@ -665,6 +600,76 @@
    "summary": "In a widely shared clip, the ESPN personality warned that Democrats' approach shows the same arrogance that has frustrated Black communities, potentially reducing their political leverage. A Black resident in Philadelphia echoed this during a November 18 city council meeting, voicing concerns that newcomers could sideline longstanding neighborhood priorities like housing and schools. Broader shifts, such as Compton's Black population declining amid a rise in Hispanic residents from 3.5% in 1950 to over 70% by 2020, add context to discussions about changing voter influence and resource competition in cities facing migrant strains.",
    "updated_at": "2026-11-21T05:11:26.000Z",
    "url": "https://x.com/i/trending/2123699515995627937"
+  },
+  {
+   "category": "News",
+   "cluster_posts_results": [
+    {
+     "post_id": "2123790610335399966"
+    },
+    {
+     "post_id": "2123805433336852614"
+    },
+    {
+     "post_id": "2123821845543604402"
+    },
+    {
+     "post_id": "2123869325555642742"
+    },
+    {
+     "post_id": "2123805433336852614"
+    },
+    {
+     "post_id": "2123790610335399966"
+    },
+    {
+     "post_id": "2123869325555642742"
+    },
+    {
+     "post_id": "2123933018691961278"
+    },
+    {
+     "post_id": "2123824248967835772"
+    },
+    {
+     "post_id": "2123875469472965031"
+    }
+   ],
+   "contexts": {
+    "entities": {
+     "events": [
+      "Recent Election Victory"
+     ],
+     "organizations": [
+      "Democrats",
+      "Senate",
+      "Supreme Court"
+     ],
+     "people": [
+      "Steve Forbes"
+     ],
+     "places": [
+      "Senate"
+     ],
+     "products": []
+    },
+    "finance": {
+     "tickers": []
+    },
+    "sports": {
+     "teams": []
+    },
+    "topics": [
+     "Politics"
+    ]
+   },
+   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+   "hook": "Democrats just grabbed their biggest Senate majority in nearly 20 years, flipping nine seats. Yet online talk quickly turned to whether 56 is enough or if they need 60 to get things done.",
+   "id": "2123882591036318199",
+   "name": "Democrats' 56-44 Senate Win Sparks Filibuster Debate",
+   "summary": "The 2026 midterms gave Democrats a 56-44 edge, their largest in almost two decades, but Senate rules still demand 60 votes to end debate on most bills. Neera Tanden called for pushing to 60 seats by 2028 for a filibuster-proof majority, drawing replies like one with 24,000 likes mocking the party for already claiming limits. Critics say Democrats could reform or end the filibuster with a simple majority on day one, while others defend the 60-vote reality; Republicans call retaking the chamber a steep challenge.",
+   "updated_at": "2026-11-21T04:22:56.000Z",
+   "url": "https://x.com/i/trending/2123882591036318199"
   }
  ]
 }
