@@ -1,38 +1,37 @@
 {
-  "x_failures": 0,
-  "push_failures": 0,
-  "last_error": null,
-  "updated_at": "2026-11-22T17:03:57Z",
-  "last_x_check": {
-    "at": "2026-11-22T17:03:26Z",
-    "new_posts": 2,
-    "new_post_ids": [
-      "2124503817618104568",
-      "2124402940471312878"
-    ],
-    "newest_id": "2124503817618104568",
-    "published": false,
-    "refreshed": [
-      "trending",
-      "tv",
-      "xlive",
-      "posts"
-    ],
-    "skipped": {
-      "following": "featured_accounts empty"
-    },
-    "x_reads_this_run": 4,
-    "notes": {
-      "posts": "2 new posts newer than 2124345839489282085; featured_top launch story and pinned_top 2114513144307442008 unchanged",
-      "trending": "refreshed US politics news + US trends; built_at 2026-11-22T17:03:31Z",
-      "following": "skipped, featured_accounts empty",
-      "tv": "refreshed, checked_at 2026-11-22T17:02:05Z",
-      "xlive": "refreshed search fetched_at 2026-11-22T17:03:26Z; 25 posts / 24 users; xlive.json 8 broadcasts",
-      "publish": "pending push"
-    }
+ "x_failures": 0,
+ "push_failures": 0,
+ "last_error": null,
+ "updated_at": "2026-11-22T17:49:30Z",
+ "last_x_check": {
+  "at": "2026-11-22T17:48:58Z",
+  "new_posts": 1,
+  "new_post_ids": [
+   "2124560154377199980"
+  ],
+  "newest_id": "2124560154377199980",
+  "published": false,
+  "refreshed": [
+   "xlive",
+   "posts"
+  ],
+  "skipped": {
+   "trending": "trending.json younger than 60 minutes",
+   "following": "featured_accounts empty",
+   "tv": "tv.json younger than 3 hours"
   },
-  "last_publish": null,
-  "x_reads_left_today": "982 of 1000 (resets 2026-11-23T00:00Z)",
-  "note": "X check succeeded; failure streak 0. Publishing full refresh. Launch top story, WWE pin, and CNAME left intact.",
-  "failure_streak": 0
+  "x_reads_this_run": 2,
+  "notes": {
+   "posts": "1 new post newer than 2124503817618104568 (2124560154377199980); featured_top launch story and pinned_top 2114513144307442008 unchanged",
+   "trending": "skipped, file age under 60 minutes",
+   "following": "skipped, featured_accounts empty",
+   "tv": "skipped, file age under 3 hours",
+   "xlive": "refreshed search fetched_at 2026-11-22T17:48:58Z; 25 posts / 25 users; xlive.json 8 broadcasts",
+   "publish": "pending push"
+  }
+ },
+ "last_publish": null,
+ "x_reads_left_today": "980 of 1000 (resets 2026-11-23T00:00Z)",
+ "note": "X check succeeded; failure streak 0. Publishing new post and X Live update. Launch top story, WWE pin, and CNAME left intact.",
+ "failure_streak": 0
 }
