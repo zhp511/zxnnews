@@ -35,6 +35,9 @@ HOW TO REFRESH
    3 hours" (change with "live_window_hours" in site_config.json). To end it early, add the
    post id to "live_ended_post_ids" in site_config.json. data/live.json must be published
    along with data/posts.json.
+   CHRISTMAS THEME: optional "christmas_theme" in data/site_config.json (true/false).
+   This script never removes the assets/christmas.css or assets/christmas.js includes
+   from index.html; if the flag is true and those tags are missing, it puts them back.
 4. Reload index.html (served over http, e.g.  python3 -m http.server 8080).
 
 Nothing is invented: headlines come from the first line of each post (or, for link-only
@@ -210,6 +213,32 @@ def detect_live(posts, config):
     print(f"wrote {LIVE_OUT}: live={out['live']}" + (f" post {out['post_id']} ({out['title']})" if out["live"] else
           (f" (most recent broadcast post {out['recent']['post_id']}, {out['recent']['started_at']})" if out.get("recent") else "")))
     return out
+
+
+INDEX_HTML = os.path.join(ROOT, "index.html")
+XMAS_CSS = '<link rel="stylesheet" href="assets/christmas.css">'
+XMAS_JS = '<script src="assets/christmas.js"></script>'
+
+
+def ensure_christmas_includes(config):
+    """Keep the Christmas overlay includes in index.html when the theme flag is on.
+
+    update.py does not rewrite the page template; this is a safeguard so a later
+    refresh cannot silently drop the tags. It never removes them itself.
+    """
+    if not config.get("christmas_theme"):
+        return
+    if not os.path.exists(INDEX_HTML):
+        return
+    html = open(INDEX_HTML, encoding="utf-8").read()
+    orig = html
+    if "assets/christmas.css" not in html:
+        html = html.replace("</head>", XMAS_CSS + "\n</head>", 1)
+    if "assets/christmas.js" not in html:
+        html = html.replace("</body>", XMAS_JS + "\n</body>", 1)
+    if html != orig:
+        open(INDEX_HTML, "w", encoding="utf-8").write(html)
+        print("  restored Christmas theme includes in index.html")
 
 
 def build():
@@ -399,6 +428,7 @@ def build():
     json.dump(out, open(OUT, "w"), ensure_ascii=False, indent=1)
     vis = [p for p in posts if not p["hidden"]]
     print(f"wrote {OUT}: {len(posts)} posts, {len(vis)} visible, {len(posts)-len(vis)} hidden, featured_top={featured_top}, pinned_top={pinned}")
+    ensure_christmas_includes(config)
     for p in posts:
         if p["hidden"]:
             print(f"  hidden ({p['hidden_reason']}): {p['original_text'][:60]!r}")

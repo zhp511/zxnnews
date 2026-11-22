@@ -1,0 +1,160 @@
+/* ZXN Christmas overlay. Decorations only; does not change story layout.
+   Turn off with "christmas_theme": false in data/site_config.json. */
+.zxn-xmas-lights,
+.zxn-xmas-side,
+.zxn-xmas-snow {
+  pointer-events: none;
+  z-index: 40;
+}
+.zxn-xmas-lights {
+  position: relative;
+  height: 36px;
+  background: linear-gradient(#140c08, #071d3b 70%);
+  overflow: visible;
+  isolation: isolate;
+}
+.zxn-xmas-wire {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 7px;
+  height: 3px;
+  background: linear-gradient(#3a2412, #1a1008);
+  box-shadow: 0 1px 0 rgba(255, 215, 120, .15);
+}
+.zxn-xmas-bulb {
+  position: absolute;
+  top: 6px;
+  width: 11px;
+  height: 16px;
+  margin-left: -5.5px;
+  border-radius: 50% 50% 45% 45% / 42% 42% 58% 58%;
+  transform-origin: top center;
+  animation: zxn-xmas-twinkle 1.8s ease-in-out infinite;
+  box-shadow: 0 0 6px currentColor;
+}
+.zxn-xmas-bulb::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: -4px;
+  width: 6px;
+  height: 5px;
+  margin-left: -3px;
+  background: #c9c0b0;
+  border-radius: 1px 1px 0 0;
+  box-shadow: 0 -2px 0 #6a5840;
+}
+.zxn-xmas-bulb.c-red { background: #e3232c; color: #ff6b6b; }
+.zxn-xmas-bulb.c-green { background: #1f8a3b; color: #5ce07a; }
+.zxn-xmas-bulb.c-gold { background: #e0b422; color: #ffe57a; }
+.zxn-xmas-bulb.c-blue { background: #1d6fd8; color: #7eb6ff; }
+
+@keyframes zxn-xmas-twinkle {
+  0%, 100% { filter: brightness(.7); opacity: .82; box-shadow: 0 0 4px currentColor; }
+  50% { filter: brightness(1.35); opacity: 1; box-shadow: 0 0 12px 3px currentColor; }
+}
+
+.zxn-xmas-side {
+  display: none;
+  position: fixed;
+  top: 36px;
+  bottom: 0;
+  width: 28px;
+  overflow: hidden;
+}
+.zxn-xmas-side.left { left: 0; }
+.zxn-xmas-side.right { right: 0; }
+@media (min-width: 1100px) {
+  .zxn-xmas-side { display: block; }
+  .zxn-xmas-side .zxn-xmas-wire {
+    left: 12px;
+    right: auto;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    height: auto;
+  }
+  .zxn-xmas-side.right .zxn-xmas-wire { left: auto; right: 12px; }
+  .zxn-xmas-side .zxn-xmas-bulb {
+    left: 13.5px;
+    top: auto;
+    margin-left: -5.5px;
+  }
+  .zxn-xmas-side.right .zxn-xmas-bulb { left: auto; right: 13.5px; margin-left: 0; margin-right: -5.5px; }
+}
+
+.zxn-xmas-snow {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  z-index: 35;
+}
+.zxn-xmas-flake {
+  position: absolute;
+  top: -8px;
+  width: 5px;
+  height: 5px;
+  background: #fff;
+  border-radius: 50%;
+  opacity: .55;
+  animation: zxn-xmas-fall linear infinite;
+  box-shadow: 0 0 4px rgba(255, 255, 255, .6);
+}
+@keyframes zxn-xmas-fall {
+  0% { transform: translate3d(0, -10px, 0); opacity: 0; }
+  10% { opacity: .55; }
+  100% { transform: translate3d(var(--dx, 20px), 105vh, 0); opacity: .15; }
+}
+
+.zxn-xmas-accent {
+  margin-top: 8px;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 700;
+  font-size: clamp(.85rem, 1.8vw, 1.05rem);
+  letter-spacing: .04em;
+  color: #ffe08a;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, .35);
+  text-transform: none;
+}
+.zxn-xmas-speak {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 8px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid #ffe08a;
+  background: rgba(7, 29, 59, .7);
+  color: #ffe08a;
+  font: 700 .78rem/1 Inter, system-ui, sans-serif;
+  letter-spacing: .04em;
+  cursor: pointer;
+  pointer-events: auto;
+  z-index: 50;
+}
+.zxn-xmas-speak:hover,
+.zxn-xmas-speak:focus-visible {
+  background: #8c1a28;
+  color: #fff;
+  outline: 2px solid #ffe08a;
+  outline-offset: 2px;
+}
+.mast-date .zxn-xmas-speak { margin-top: 10px; }
+@media (max-width: 700px) {
+  .zxn-xmas-lights { height: 30px; }
+  .zxn-xmas-bulb { width: 9px; height: 13px; }
+  .mast-inner { padding-top: 16px; }
+  .mast-date { text-align: center; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .zxn-xmas-bulb {
+    animation: zxn-xmas-glow 4s ease-in-out infinite;
+  }
+  @keyframes zxn-xmas-glow {
+    0%, 100% { filter: brightness(.9); box-shadow: 0 0 6px currentColor; }
+    50% { filter: brightness(1.1); box-shadow: 0 0 10px currentColor; }
+  }
+  .zxn-xmas-flake { animation-duration: 40s !important; opacity: .3; }
+}
