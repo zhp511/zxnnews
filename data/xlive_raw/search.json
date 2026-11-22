@@ -1,512 +1,1451 @@
 {
-  "fetched_at": "2026-11-21T15:50:13Z",
-  "tool": "x.search_posts_all",
-  "args": {
-    "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-    "start_time": "2026-11-21T12:50:13Z",
-    "max_results": 25,
-    "sort_order": "relevancy",
-    "post.fields": [
-      "created_at",
-      "public_metrics",
-      "entities",
-      "text"
-    ],
-    "expansions": [
-      "author_id"
-    ],
-    "user.fields": [
-      "name",
-      "username",
-      "verified",
-      "verified_type",
-      "public_metrics"
-    ]
-  },
-  "data": [
-    {
-      "author_id": "1572199491503022080",
-      "created_at": "2026-11-21T14:13:32.000Z",
-      "edit_history_tweet_ids": [
-        "2124144182272901355"
-      ],
-      "id": "2124144182272901355",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 15,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Breaking News🚨, Internet Drama😡, &amp; Trending Clips😂 - Live🔴 https://t.co/ze2LQpAVPz",
-      "url": "https://x.com/colludiumwolf/status/2124144182272901355"
-    },
-    {
-      "author_id": "2109787653625311234",
-      "created_at": "2026-11-21T12:53:17.000Z",
-      "edit_history_tweet_ids": [
-        "2124123986980392971"
-      ],
-      "id": "2124123986980392971",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 9,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "GTA Terminal LIVE 24/7: markets, options flow, dark pools and breaking news https://t.co/w0auf9cRrS",
-      "url": "https://x.com/GTA_Terminal/status/2124123986980392971"
-    },
-    {
-      "author_id": "976067864800169984",
-      "created_at": "2026-11-21T14:35:28.000Z",
-      "edit_history_tweet_ids": [
-        "2124149700433506674"
-      ],
-      "id": "2124149700433506674",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 21,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Behind the Numbers: The Story of CEPRASS, Election Polls &amp; Public Policy in The Gambia https://t.co/647RACvoey",
-      "url": "https://x.com/Sonkondeyni/status/2124149700433506674"
-    },
-    {
-      "author_id": "881731466",
-      "created_at": "2026-11-21T13:00:46.000Z",
-      "edit_history_tweet_ids": [
-        "2124125869677359189",
-        "2124126103531090293"
-      ],
-      "id": "2124125869677359189",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 74406,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "World Governments Summit Dialogue for Latin America and the Caribbean https://t.co/J0OodRb5CG",
-      "url": "https://x.com/WorldGovSummit/status/2124125869677359189"
-    },
-    {
-      "author_id": "46724627",
-      "created_at": "2026-11-21T14:03:07.000Z",
-      "edit_history_tweet_ids": [
-        "2124141559704695218"
-      ],
-      "id": "2124141559704695218",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 126,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Racing Across America - November 21th, 2026 https://t.co/l04tgvgf4p",
-      "url": "https://x.com/capitalotb/status/2124141559704695218"
-    },
-    {
-      "author_id": "881731466",
-      "created_at": "2026-11-21T13:01:42.000Z",
-      "edit_history_tweet_ids": [
-        "2124125869677359189",
-        "2124126103531090293"
-      ],
-      "id": "2124126103531090293",
-      "public_metrics": {
-        "bookmark_count": 9,
-        "impression_count": 217752,
-        "like_count": 56,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 8
-      },
-      "text": "The World Governments Summit Dialogue for Latin America and the Caribbean - Day 2\nhttps://t.co/J0OodRbDse",
-      "url": "https://x.com/WorldGovSummit/status/2124126103531090293"
-    },
-    {
-      "author_id": "1866816245456162816",
-      "created_at": "2026-11-21T15:01:33.000Z",
-      "edit_history_tweet_ids": [
-        "2124156265119064076"
-      ],
-      "id": "2124156265119064076",
-      "public_metrics": {
-        "bookmark_count": 1,
-        "impression_count": 36,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "News Roundup: Africa’s Voice. Global Perspective. Your News Roundup of the day’s most significant developments from around the world and across Africa. https://t.co/NtXRSLSNl6",
-      "url": "https://x.com/poaenglish/status/2124156265119064076"
-    },
-    {
-      "author_id": "882505074",
-      "created_at": "2026-11-21T15:00:18.000Z",
-      "edit_history_tweet_ids": [
-        "2124155952383328632"
-      ],
-      "id": "2124155952383328632",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 1459,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Live broadcast | English News Bulletin\n\n#OmanTVnews #مركز_الأخبار https://t.co/68AYju3q3E",
-      "url": "https://x.com/omantvnews/status/2124155952383328632"
-    },
-    {
-      "author_id": "1155036501652193281",
-      "created_at": "2026-11-21T13:45:54.000Z",
-      "edit_history_tweet_ids": [
-        "2124137228364366021"
-      ],
-      "id": "2124137228364366021",
-      "public_metrics": {
-        "bookmark_count": 1,
-        "impression_count": 1187,
-        "like_count": 7,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "text": "Celtic v St Mirren Team News Reaction &amp; Match Predictions #CELSTM | #CelticFC🍀 https://t.co/6seFrOj1xr",
-      "url": "https://x.com/HereCelts/status/2124137228364366021"
-    },
-    {
-      "author_id": "158903216",
-      "created_at": "2026-11-21T15:32:09.000Z",
-      "edit_history_tweet_ids": [
-        "2124163965705912567"
-      ],
-      "id": "2124163965705912567",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 38,
-        "like_count": 0,
-        "quote_count": 1,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "OUR BLACK NEWS LIVE: MINNESOTA, WE NEED TO TALK! https://t.co/qgQQUuyqFC",
-      "url": "https://x.com/DonAllen02/status/2124163965705912567"
-    },
-    {
-      "author_id": "43912989",
-      "created_at": "2026-11-21T15:29:25.000Z",
-      "edit_history_tweet_ids": [
-        "2124163278158868568"
-      ],
-      "id": "2124163278158868568",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 23,
-        "like_count": 2,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "text": "LIVE Week 11 Running Back &amp; Wide Receiver Start/Sit: Jonah Coleman Smash Week + Injury News https://t.co/j6Fa5IFD0F",
-      "url": "https://x.com/Jamesonrulez/status/2124163278158868568"
-    },
-    {
-      "author_id": "1603033354638708739",
-      "created_at": "2026-11-21T14:04:54.000Z",
-      "edit_history_tweet_ids": [
-        "2124142008562328031"
-      ],
-      "id": "2124142008562328031",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 49,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "PSB - 24-HOUR News/Commentary/Entertainment broadcaster hosted by EVERYDAY PATRIOTS. Tune in and join us! Visit our linktree in our profile. https://t.co/MAcKh7UZ0P",
-      "url": "https://x.com/realPSBNews/status/2124142008562328031"
-    },
-    {
-      "author_id": "1680465068",
-      "created_at": "2026-11-21T15:36:09.000Z",
-      "edit_history_tweet_ids": [
-        "2124164974193033630"
-      ],
-      "id": "2124164974193033630",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 40,
-        "like_count": 5,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 5
-      },
-      "text": ". @CharlesMichel: The NCRI, led by President-elect @Maryam_Rajavi, represents a democratic political alternative to the mullahs' dictatorship. Its Ten-Point Plan offers a concrete roadmap to a free, democratic and pluralistic republic. #NCRIAlternative \nhttps://t.co/HVZ2Qa2COG",
-      "url": "https://x.com/4FreedominIran/status/2124164974193033630"
-    },
-    {
-      "author_id": "1326462342679441409",
-      "created_at": "2026-11-21T13:11:02.000Z",
-      "edit_history_tweet_ids": [
-        "2124128452596924643"
-      ],
-      "id": "2124128452596924643",
-      "public_metrics": {
-        "bookmark_count": 4,
-        "impression_count": 4071,
-        "like_count": 91,
-        "quote_count": 1,
-        "reply_count": 5,
-        "retweet_count": 29
-      },
-      "text": "Seyed M. Marandi: BREAKING: Oil Tanker Ablaze Near Hormuz - U.S. &amp; Israel Eye Iran Again https://t.co/PIJQcM8rMQ",
-      "url": "https://x.com/Dialogue_NRA/status/2124128452596924643"
-    },
-    {
-      "author_id": "191910024",
-      "created_at": "2026-11-21T13:15:36.000Z",
-      "edit_history_tweet_ids": [
-        "2124129604419953080"
-      ],
-      "id": "2124129604419953080",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 5,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "889b: Dr. Steve Turley - Trump TRIUMPHS at Shenzhen!!! https://t.co/oBeS9lFsve",
-      "url": "https://x.com/Mur_Tech/status/2124129604419953080"
-    }
+ "fetched_at": "2026-11-22T06:15:12Z",
+ "tool": "x.search_posts_all",
+ "args": {
+  "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
+  "start_time": "2026-11-22T03:10:00Z",
+  "max_results": 25,
+  "sort_order": "relevancy",
+  "post.fields": [
+   "created_at",
+   "public_metrics",
+   "entities",
+   "text"
   ],
-  "users": [
-    {
-      "id": "1572199491503022080",
-      "name": "GamingWade",
-      "public_metrics": {
-        "followers_count": 163,
-        "following_count": 66,
-        "like_count": 515,
-        "listed_count": 0,
-        "media_count": 2302,
-        "tweet_count": 3403
-      },
-      "username": "colludiumwolf",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "2109787653625311234",
-      "name": "GTA Terminal",
-      "public_metrics": {
-        "followers_count": 14,
-        "following_count": 1,
-        "like_count": 17,
-        "listed_count": 0,
-        "media_count": 862,
-        "tweet_count": 1629
-      },
-      "username": "GTA_Terminal",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "976067864800169984",
-      "name": "Ebrima Sonko",
-      "public_metrics": {
-        "followers_count": 2260,
-        "following_count": 1741,
-        "like_count": 25413,
-        "listed_count": 1,
-        "media_count": 167,
-        "tweet_count": 3954
-      },
-      "username": "Sonkondeyni",
-      "verified": false,
-      "verified_type": "none"
-    },
-    {
-      "id": "881731466",
-      "name": "World Governments Summit",
-      "public_metrics": {
-        "followers_count": 202704,
-        "following_count": 133,
-        "like_count": 1886,
-        "listed_count": 395,
-        "media_count": 6145,
-        "tweet_count": 13470
-      },
-      "username": "WorldGovSummit",
-      "verified": true,
-      "verified_type": "government"
-    },
-    {
-      "id": "46724627",
-      "name": "Capital OTB",
-      "public_metrics": {
-        "followers_count": 4897,
-        "following_count": 2196,
-        "like_count": 29757,
-        "listed_count": 86,
-        "media_count": 15156,
-        "tweet_count": 68157
-      },
-      "username": "capitalotb",
-      "verified": false,
-      "verified_type": "none"
-    },
-    {
-      "id": "1866816245456162816",
-      "name": "Pulse of Africa - English",
-      "public_metrics": {
-        "followers_count": 2854,
-        "following_count": 0,
-        "like_count": 4,
-        "listed_count": 4,
-        "media_count": 5117,
-        "tweet_count": 5570
-      },
-      "username": "poaenglish",
-      "verified": false,
-      "verified_type": "none"
-    },
-    {
-      "id": "882505074",
-      "name": "مركز الأخبار",
-      "public_metrics": {
-        "followers_count": 795044,
-        "following_count": 2,
-        "like_count": 300,
-        "listed_count": 634,
-        "media_count": 81903,
-        "tweet_count": 107899
-      },
-      "username": "omantvnews",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1155036501652193281",
-      "name": "CeltsAreHere",
-      "public_metrics": {
-        "followers_count": 40647,
-        "following_count": 346,
-        "like_count": 9071,
-        "listed_count": 102,
-        "media_count": 5879,
-        "tweet_count": 26678
-      },
-      "username": "HereCelts",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "158903216",
-      "name": "Don Allen, Ed.D., Ed.S., M.A. Ed., MAT",
-      "public_metrics": {
-        "followers_count": 1406,
-        "following_count": 2992,
-        "like_count": 12026,
-        "listed_count": 23,
-        "media_count": 2887,
-        "tweet_count": 11236
-      },
-      "username": "DonAllen02",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "43912989",
-      "name": "Jameson Hutchison",
-      "public_metrics": {
-        "followers_count": 1131,
-        "following_count": 676,
-        "like_count": 45337,
-        "listed_count": 14,
-        "media_count": 5361,
-        "tweet_count": 24585
-      },
-      "username": "Jamesonrulez",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1603033354638708739",
-      "name": "Patriots' Soapbox News & Entertainment",
-      "public_metrics": {
-        "followers_count": 2402,
-        "following_count": 461,
-        "like_count": 2382,
-        "listed_count": 6,
-        "media_count": 427,
-        "tweet_count": 11564
-      },
-      "username": "realPSBNews",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1680465068",
-      "name": "Iran Freedom",
-      "public_metrics": {
-        "followers_count": 26283,
-        "following_count": 769,
-        "like_count": 132137,
-        "listed_count": 587,
-        "media_count": 80095,
-        "tweet_count": 256671
-      },
-      "username": "4FreedominIran",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1326462342679441409",
-      "name": "Dialogue works",
-      "public_metrics": {
-        "followers_count": 19807,
-        "following_count": 83,
-        "like_count": 1100,
-        "listed_count": 168,
-        "media_count": 3328,
-        "tweet_count": 6695
-      },
-      "username": "Dialogue_NRA",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "191910024",
-      "name": "John R. Murphy",
-      "public_metrics": {
-        "followers_count": 191,
-        "following_count": 155,
-        "like_count": 3073,
-        "listed_count": 0,
-        "media_count": 773,
-        "tweet_count": 8799
-      },
-      "username": "Mur_Tech",
-      "verified": true,
-      "verified_type": "blue"
-    }
+  "expansions": [
+   "author_id"
+  ],
+  "user.fields": [
+   "name",
+   "username",
+   "verified",
+   "verified_type",
+   "public_metrics"
   ]
+ },
+ "data": [
+  {
+   "author_id": "1406048189015158787",
+   "created_at": "2026-11-22T04:54:31.000Z",
+   "edit_history_tweet_ids": [
+    "2124365889378136309"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "10 बजे की बड़ी खबरें | Big news | National News | PM Modi | Rahul Gandhi | BJP vs Congress",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 114,
+      "expanded_url": "https://x.com/i/broadcasts/2jPVrpjBMAddjy",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124365932403326976/GWA3R-EI?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124365932403326976/GWA3R-EI?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 91,
+      "status": 200,
+      "title": "Daily 24 Bharat",
+      "unwound_url": "https://x.com/i/broadcasts/2jPVrpjBMAddjy",
+      "url": "https://t.co/2GODc7RNj2"
+     }
+    ]
+   },
+   "id": "2124365889378136309",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 38,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "10 बजे की बड़ी खबरें | Big news | National News | PM Modi | Rahul Gandhi | BJP vs Congress https://t.co/2GODc7RNj2",
+   "url": "https://x.com/Daily24bharat/status/2124365889378136309"
+  },
+  {
+   "author_id": "1406048189015158787",
+   "created_at": "2026-11-22T05:33:36.000Z",
+   "edit_history_tweet_ids": [
+    "2124375725805641768"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "दिल्ली-NCR की बड़ी खबरें | Big news of Delhi | CM Rekha Gupta | BJP Delhi | BJP vs Congress",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 115,
+      "expanded_url": "https://x.com/i/broadcasts/2lgYzkXBqamPmW",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124375768327438336/m78CQJQw?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124375768327438336/m78CQJQw?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 92,
+      "status": 200,
+      "title": "Daily 24 Bharat",
+      "unwound_url": "https://x.com/i/broadcasts/2lgYzkXBqamPmW",
+      "url": "https://t.co/NKyW0AOlpv"
+     }
+    ]
+   },
+   "id": "2124375725805641768",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 23,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "दिल्ली-NCR की बड़ी खबरें | Big news of Delhi | CM Rekha Gupta | BJP Delhi | BJP vs Congress https://t.co/NKyW0AOlpv",
+   "url": "https://x.com/Daily24bharat/status/2124375725805641768"
+  },
+  {
+   "author_id": "973080382991097857",
+   "created_at": "2026-11-22T05:30:18.000Z",
+   "edit_history_tweet_ids": [
+    "2124374894045536461"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: Breaking News | PM MODI | Gujarat | Weather | Sports | 22-11-2026 | Samachar at 11:00 AM",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 119,
+      "expanded_url": "https://x.com/i/broadcasts/2VNlomNBMaZbEW",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2124374895580647425/SuKm7_N9?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124374895580647425/SuKm7_N9?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 96,
+      "status": 200,
+      "title": "DD News Gujarati",
+      "unwound_url": "https://x.com/i/broadcasts/2VNlomNBMaZbEW",
+      "url": "https://t.co/8w4UdZcCWL"
+     }
+    ]
+   },
+   "id": "2124374894045536461",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 350,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE: Breaking News | PM MODI | Gujarat | Weather | Sports  | 22-11-2026 | Samachar at 11:00 AM https://t.co/8w4UdZcCWL",
+   "url": "https://x.com/DDNewsGujarati/status/2124374894045536461"
+  },
+  {
+   "author_id": "1245226694400598023",
+   "created_at": "2026-11-22T05:02:21.000Z",
+   "edit_history_tweet_ids": [
+    "2124367858905780605"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "UMINGLE DEBATES LIVE 🔥 PART 2 | Israel, Politics, Religion & EVERYTHING Goes — Come Challenge Me!",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 125,
+      "expanded_url": "https://x.com/i/broadcasts/2brBVEAevXPrbB",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124367901545111552/xINFwS97?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124367901545111552/xINFwS97?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 102,
+      "status": 200,
+      "title": "Nick Matau",
+      "unwound_url": "https://x.com/i/broadcasts/2brBVEAevXPrbB",
+      "url": "https://t.co/evlFOblL0r"
+     }
+    ]
+   },
+   "id": "2124367858905780605",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 733,
+    "like_count": 10,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 2
+   },
+   "text": "UMINGLE DEBATES LIVE 🔥 PART 2 | Israel, Politics, Religion &amp; EVERYTHING Goes — Come Challenge Me! https://t.co/evlFOblL0r",
+   "url": "https://x.com/nick_matau/status/2124367858905780605"
+  },
+  {
+   "author_id": "1245226694400598023",
+   "created_at": "2026-11-22T03:18:57.000Z",
+   "edit_history_tweet_ids": [
+    "2124341839910100998"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "UMINGLE DEBATES LIVE 🔥 | Israel, Politics, Religion & EVERYTHING Goes — Come Challenge Me!",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 118,
+      "expanded_url": "https://x.com/i/broadcasts/2RekVAqkNmdEdZ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124341884076068864/RNyMspEd?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124341884076068864/RNyMspEd?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 95,
+      "status": 200,
+      "title": "Nick Matau",
+      "unwound_url": "https://x.com/i/broadcasts/2RekVAqkNmdEdZ",
+      "url": "https://t.co/0I79Ra5s3c"
+     }
+    ]
+   },
+   "id": "2124341839910100998",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1003,
+    "like_count": 16,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 1
+   },
+   "text": "UMINGLE DEBATES LIVE 🔥 | Israel, Politics, Religion &amp; EVERYTHING Goes — Come Challenge Me! https://t.co/0I79Ra5s3c",
+   "url": "https://x.com/nick_matau/status/2124341839910100998"
+  },
+  {
+   "author_id": "1924911157229309952",
+   "created_at": "2026-11-22T04:01:38.000Z",
+   "edit_history_tweet_ids": [
+    "2124352581212242243"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 25,
+      "id": "2088775032298176513",
+      "start": 16,
+      "username": "BATLGRND"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Debate Night at @BATLGRND",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 49,
+      "expanded_url": "https://x.com/i/broadcasts/2kEApNgBgOYLoP",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124352623797018624/FkYIPz0f?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124352623797018624/FkYIPz0f?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 26,
+      "status": 200,
+      "title": "The Powdered Dusty",
+      "unwound_url": "https://x.com/i/broadcasts/2kEApNgBgOYLoP",
+      "url": "https://t.co/Cls5Yq9MTR"
+     }
+    ]
+   },
+   "id": "2124352581212242243",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 12,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Debate Night at @BATLGRND https://t.co/Cls5Yq9MTR",
+   "url": "https://x.com/dusty_the9642/status/2124352581212242243"
+  },
+  {
+   "author_id": "1024661303154094081",
+   "created_at": "2026-11-22T04:40:59.000Z",
+   "edit_history_tweet_ids": [
+    "2124362484752560153"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Can a Believer REALLY Lose Salvation? | Debate After Show",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 81,
+      "expanded_url": "https://x.com/i/broadcasts/2mdVPJaOqLQkjJ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124362527362387969/2gMn5UKp?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124362527362387969/2gMn5UKp?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 58,
+      "status": 200,
+      "title": "The Layman's Seminary",
+      "unwound_url": "https://x.com/i/broadcasts/2mdVPJaOqLQkjJ",
+      "url": "https://t.co/FqYRHNX2wC"
+     }
+    ]
+   },
+   "id": "2124362484752560153",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 21,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Can a Believer REALLY Lose Salvation? | Debate After Show https://t.co/FqYRHNX2wC",
+   "url": "https://x.com/LaymansSeminary/status/2124362484752560153"
+  },
+  {
+   "author_id": "716572539934248960",
+   "created_at": "2026-11-22T05:43:22.000Z",
+   "edit_history_tweet_ids": [
+    "2124378183738753255"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🔴 Victorian Election Launch for Turning Point Australia | One Nation, Family First & Libertarians",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 125,
+      "expanded_url": "https://x.com/i/broadcasts/2AMjaWZjeQJVoZ",
+      "start": 102,
+      "status": 200,
+      "title": "Joel Jammal",
+      "unwound_url": "https://x.com/i/broadcasts/2AMjaWZjeQJVoZ",
+      "url": "https://t.co/oC0LBSlLB2"
+     }
+    ]
+   },
+   "id": "2124378183738753255",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 106,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🔴 Victorian Election Launch for Turning Point Australia | One Nation, Family First &amp; Libertarians https://t.co/oC0LBSlLB2",
+   "url": "https://x.com/JoelJammal/status/2124378183738753255"
+  },
+  {
+   "author_id": "1691380072517664769",
+   "created_at": "2026-11-22T05:52:15.000Z",
+   "edit_history_tweet_ids": [
+    "2124380417369497728",
+    "2124380523606978688"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE NSC9 NEWS",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 38,
+      "expanded_url": "https://x.com/i/broadcasts/2EmYZPaQbZAqqX",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124380459870367744/yS0Yosbi?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124380459870367744/yS0Yosbi?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 15,
+      "status": 200,
+      "title": "NSC9 News",
+      "unwound_url": "https://x.com/i/broadcasts/2EmYZPaQbZAqqX",
+      "url": "https://t.co/41ZSYZqpDp"
+     }
+    ]
+   },
+   "id": "2124380417369497728",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 10,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE NSC9 NEWS https://t.co/41ZSYZqpDp",
+   "url": "https://x.com/nsc9news/status/2124380417369497728"
+  },
+  {
+   "author_id": "1339166129110065152",
+   "created_at": "2026-11-22T05:59:56.000Z",
+   "edit_history_tweet_ids": [
+    "2124382353820971426"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "GB News",
+      "display_url": "x.com/i/broadcasts/1…",
+      "end": 31,
+      "expanded_url": "https://x.com/i/broadcasts/1gqxvraLappxB",
+      "start": 8,
+      "status": 200,
+      "title": "GB News",
+      "unwound_url": "https://x.com/i/broadcasts/1gqxvraLappxB",
+      "url": "https://t.co/9ckcAUPkcm"
+     }
+    ]
+   },
+   "id": "2124382353820971426",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1556,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "GB News https://t.co/9ckcAUPkcm",
+   "url": "https://x.com/GBNEWS/status/2124382353820971426"
+  },
+  {
+   "author_id": "49365553",
+   "created_at": "2026-11-22T04:30:39.000Z",
+   "edit_history_tweet_ids": [
+    "2124359883319390539"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 110,
+      "start": 102,
+      "tag": "podcast"
+     },
+     {
+      "end": 115,
+      "start": 111,
+      "tag": "rap"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Hip-Hop News & Rap Debates: Let’s Talk Music! Episode 16 | KLASIC LIVE (Busta Rhymes Controversy) #podcast #rap",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 139,
+      "expanded_url": "https://x.com/i/broadcasts/2POBvOZonmqBZo",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2124359925669277696/11PvhfAX?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124359925669277696/11PvhfAX?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 116,
+      "status": 200,
+      "title": "KLASIC",
+      "unwound_url": "https://x.com/i/broadcasts/2POBvOZonmqBZo",
+      "url": "https://t.co/sHV1Xzu8B7"
+     }
+    ]
+   },
+   "id": "2124359883319390539",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 60,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Hip-Hop News &amp; Rap Debates: Let’s Talk Music! Episode 16 | KLASIC LIVE (Busta Rhymes Controversy) #podcast #rap https://t.co/sHV1Xzu8B7",
+   "url": "https://x.com/KLASICS/status/2124359883319390539"
+  },
+  {
+   "author_id": "34206701",
+   "created_at": "2026-11-22T05:25:31.000Z",
+   "edit_history_tweet_ids": [
+    "2124373692159566151"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "News 24",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 32,
+      "expanded_url": "https://x.com/i/broadcasts/2WXZoVBvjnkyyM",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2124373736463966208/g9PwEc82?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124373736463966208/g9PwEc82?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 9,
+      "status": 200,
+      "title": "News24",
+      "unwound_url": "https://x.com/i/broadcasts/2WXZoVBvjnkyyM",
+      "url": "https://t.co/EF52UzvMNG"
+     }
+    ]
+   },
+   "id": "2124373692159566151",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2806,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "News 24  https://t.co/EF52UzvMNG",
+   "url": "https://x.com/news24tvchannel/status/2124373692159566151"
+  },
+  {
+   "author_id": "1691380072517664769",
+   "created_at": "2026-11-22T05:52:40.000Z",
+   "edit_history_tweet_ids": [
+    "2124380417369497728",
+    "2124380523606978688"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE NSC9 NEWS",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 51,
+      "expanded_url": "https://x.com/i/broadcasts/2EmYZPaQbZAqqX",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124380459870367744/yS0Yosbi?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124380459870367744/yS0Yosbi?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 28,
+      "status": 200,
+      "title": "NSC9 News",
+      "unwound_url": "https://x.com/i/broadcasts/2EmYZPaQbZAqqX",
+      "url": "https://t.co/41ZSYZqpDp"
+     }
+    ]
+   },
+   "id": "2124380523606978688",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "LIVE NSC9 NEWS - 22-11-2026 https://t.co/41ZSYZqpDp",
+   "url": "https://x.com/nsc9news/status/2124380523606978688"
+  },
+  {
+   "author_id": "2050186006130028544",
+   "created_at": "2026-11-22T03:35:42.000Z",
+   "edit_history_tweet_ids": [
+    "2124346055521194251"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "<3 HAPPY SATURDAY | NEWS | IT'S NOT TOO LATE W/ PAUL LAUDIERO |",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 90,
+      "expanded_url": "https://x.com/i/broadcasts/2evjVedlmbYyYp",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2124346097912942592/9tTvRj34?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124346097912942592/9tTvRj34?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 67,
+      "status": 200,
+      "title": "Pio AF",
+      "unwound_url": "https://x.com/i/broadcasts/2evjVedlmbYyYp",
+      "url": "https://t.co/69lXYwmLx3"
+     }
+    ]
+   },
+   "id": "2124346055521194251",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 41,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "&lt;3 HAPPY SATURDAY | NEWS | IT'S NOT TOO LATE W/ PAUL LAUDIERO | https://t.co/69lXYwmLx3",
+   "url": "https://x.com/PioShowAF/status/2124346055521194251"
+  },
+  {
+   "author_id": "812479795841945600",
+   "created_at": "2026-11-22T04:08:59.000Z",
+   "edit_history_tweet_ids": [
+    "2124354429662978549"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 57,
+      "id": "812479795841945600",
+      "start": 46,
+      "username": "Debradelai"
+     },
+     {
+      "end": 80,
+      "id": "1711881416626282496",
+      "start": 64,
+      "username": "TheThomasWictor"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Beard Blather 351: \"Wanting to Belong.\" With @Debradelai & @TheThomasWictor No amount of good news can satisfy the professional purveyors of doom, and an economy firing on eight cylinders can’t shake the malaise of a people addicted to their own angst.",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 282,
+      "expanded_url": "https://x.com/i/broadcasts/2kEApVyeMoMaAo",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124354472214204416/px7ld49l?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124354472214204416/px7ld49l?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 259,
+      "status": 200,
+      "title": "Saul Montes-Bradley",
+      "unwound_url": "https://x.com/i/broadcasts/2kEApVyeMoMaAo",
+      "url": "https://t.co/HsntbWxTDQ"
+     }
+    ]
+   },
+   "id": "2124354429662978549",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 441,
+    "like_count": 14,
+    "quote_count": 1,
+    "reply_count": 1,
+    "retweet_count": 11
+   },
+   "text": "Beard Blather 351: \"Wanting to Belong.\"  With @Debradelai &amp; @TheThomasWictor  No amount of good news can satisfy the professional purveyors of doom, and an economy firing on eight cylinders can’t shake the malaise of a people addicted to their own angst. https://t.co/HsntbWxTDQ",
+   "url": "https://x.com/Debradelai/status/2124354429662978549"
+  },
+  {
+   "author_id": "1711881416626282496",
+   "created_at": "2026-11-22T04:08:59.000Z",
+   "edit_history_tweet_ids": [
+    "2124354428928954554"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 57,
+      "id": "812479795841945600",
+      "start": 46,
+      "username": "Debradelai"
+     },
+     {
+      "end": 80,
+      "id": "1711881416626282496",
+      "start": 64,
+      "username": "TheThomasWictor"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Beard Blather 351: \"Wanting to Belong.\" With @Debradelai & @TheThomasWictor No amount of good news can satisfy the professional purveyors of doom, and an economy firing on eight cylinders can’t shake the malaise of a people addicted to their own angst.",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 282,
+      "expanded_url": "https://x.com/i/broadcasts/2KoLWgEndBlEzQ",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124354471429824512/NTy29luY?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124354471429824512/NTy29luY?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 259,
+      "status": 200,
+      "title": "Thomas Wictor",
+      "unwound_url": "https://x.com/i/broadcasts/2KoLWgEndBlEzQ",
+      "url": "https://t.co/89hScyRDFo"
+     }
+    ]
+   },
+   "id": "2124354428928954554",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 645,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 6
+   },
+   "text": "Beard Blather 351: \"Wanting to Belong.\"  With @Debradelai &amp; @TheThomasWictor  No amount of good news can satisfy the professional purveyors of doom, and an economy firing on eight cylinders can’t shake the malaise of a people addicted to their own angst. https://t.co/89hScyRDFo",
+   "url": "https://x.com/TheThomasWictor/status/2124354428928954554"
+  },
+  {
+   "author_id": "1816231321502621696",
+   "created_at": "2026-11-22T04:15:12.000Z",
+   "edit_history_tweet_ids": [
+    "2124355993307922930"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "God Is Absolutely Good: AMERICA, WHAT'S STILL AHEAD? | Day 221",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 86,
+      "expanded_url": "https://x.com/i/broadcasts/2nQVpdmKJNdNlj",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2124356035980726272/jam5GuHr?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124356035980726272/jam5GuHr?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 63,
+      "status": 200,
+      "title": "Lynne Scott Haggerman",
+      "unwound_url": "https://x.com/i/broadcasts/2nQVpdmKJNdNlj",
+      "url": "https://t.co/jaMR7seaZ7"
+     }
+    ]
+   },
+   "id": "2124355993307922930",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 56,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "God Is Absolutely Good: AMERICA, WHAT'S STILL AHEAD? | Day 221 https://t.co/jaMR7seaZ7",
+   "url": "https://x.com/LynneSHaggerman/status/2124355993307922930"
+  },
+  {
+   "author_id": "1355721251180961792",
+   "created_at": "2026-11-22T03:15:08.000Z",
+   "edit_history_tweet_ids": [
+    "2124340879896789095"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Ep. 19 with Special Guest Jay Gatling | 9/11 First Responder | The State of America",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 107,
+      "expanded_url": "https://x.com/i/broadcasts/2evjVoKvrLWKgl",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124340922427097088/2i2AosqC?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124340922427097088/2i2AosqC?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 84,
+      "status": 200,
+      "title": "Gunther Eagleman™",
+      "unwound_url": "https://x.com/i/broadcasts/2evjVoKvrLWKgl",
+      "url": "https://t.co/bn9c7GjECr"
+     }
+    ]
+   },
+   "id": "2124340879896789095",
+   "public_metrics": {
+    "bookmark_count": 10,
+    "impression_count": 12818,
+    "like_count": 81,
+    "quote_count": 3,
+    "reply_count": 23,
+    "retweet_count": 22
+   },
+   "text": "Ep. 19 with Special Guest Jay Gatling | 9/11 First Responder | The State of America https://t.co/bn9c7GjECr",
+   "url": "https://x.com/GuntherEagleman/status/2124340879896789095"
+  },
+  {
+   "author_id": "1166786844895436800",
+   "created_at": "2026-11-22T04:52:19.000Z",
+   "edit_history_tweet_ids": [
+    "2124365337487368440"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Happy Thanksgiving! (America Only!) lol - Happy Hour Hagnout",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 84,
+      "expanded_url": "https://x.com/i/broadcasts/2XyXZmgNaVyzEB",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124365380277633024/iUzCo9Q-?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124365380277633024/iUzCo9Q-?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 61,
+      "status": 200,
+      "title": "Exploring With Ben and Sam",
+      "unwound_url": "https://x.com/i/broadcasts/2XyXZmgNaVyzEB",
+      "url": "https://t.co/doQs6EhSQS"
+     }
+    ]
+   },
+   "id": "2124365337487368440",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Happy Thanksgiving! (America Only!) lol - Happy Hour Hagnout https://t.co/doQs6EhSQS",
+   "url": "https://x.com/XploringWithBen/status/2124365337487368440"
+  },
+  {
+   "author_id": "1295014168261619713",
+   "created_at": "2026-11-22T05:43:09.000Z",
+   "edit_history_tweet_ids": [
+    "2124378127036010985"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🚨LIVE: How Did Feminism Get Control, Captured & Hi-Jacked the Churches In America?",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 110,
+      "expanded_url": "https://x.com/i/broadcasts/2WXZoEvQOegqgR",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124378169515880448/D6U65Hen?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124378169515880448/D6U65Hen?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 87,
+      "status": 200,
+      "title": "The Black Conservative Preacher",
+      "unwound_url": "https://x.com/i/broadcasts/2WXZoEvQOegqgR",
+      "url": "https://t.co/xJDYJUTItI"
+     }
+    ]
+   },
+   "id": "2124378127036010985",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 164,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "🚨LIVE: How Did Feminism Get Control, Captured &amp; Hi-Jacked the Churches In America? https://t.co/xJDYJUTItI",
+   "url": "https://x.com/thebcpreacher/status/2124378127036010985"
+  },
+  {
+   "author_id": "2078174533689753600",
+   "created_at": "2026-11-22T03:15:08.000Z",
+   "edit_history_tweet_ids": [
+    "2124340879682867314"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Ep. 19 with Special Guest Jay Gatling | 9/11 First Responder | The State of America",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 107,
+      "expanded_url": "https://x.com/i/broadcasts/2qVYpZeVnPMpWv",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124340922284478464/CJ-TpXPf?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124340922284478464/CJ-TpXPf?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 84,
+      "status": 200,
+      "title": "The Double Eagleman Podcast",
+      "unwound_url": "https://x.com/i/broadcasts/2qVYpZeVnPMpWv",
+      "url": "https://t.co/Kp2QEyAMlg"
+     }
+    ]
+   },
+   "id": "2124340879682867314",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 1060,
+    "like_count": 22,
+    "quote_count": 2,
+    "reply_count": 3,
+    "retweet_count": 4
+   },
+   "text": "Ep. 19 with Special Guest Jay Gatling | 9/11 First Responder | The State of America https://t.co/Kp2QEyAMlg",
+   "url": "https://x.com/EaglemanPodcast/status/2124340879682867314"
+  },
+  {
+   "author_id": "1359994013999316995",
+   "created_at": "2026-11-22T03:48:23.000Z",
+   "edit_history_tweet_ids": [
+    "2124349247864660477"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Trump is SERIOUSLY Not Okay | CYBERATTACK hits the FBI",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 78,
+      "expanded_url": "https://x.com/i/broadcasts/2onVJvLypvJJNK",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124349290600411136/j9znMTsh?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124349290600411136/j9znMTsh?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 55,
+      "status": 200,
+      "title": "Jolah",
+      "unwound_url": "https://x.com/i/broadcasts/2onVJvLypvJJNK",
+      "url": "https://t.co/TCNyBmUH8Z"
+     }
+    ]
+   },
+   "id": "2124349247864660477",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 33,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Trump is SERIOUSLY Not Okay | CYBERATTACK hits the FBI https://t.co/TCNyBmUH8Z",
+   "url": "https://x.com/jolahpolitics/status/2124349247864660477"
+  },
+  {
+   "author_id": "1555324385652707328",
+   "created_at": "2026-11-22T05:51:51.000Z",
+   "edit_history_tweet_ids": [
+    "2124380316198440973"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "BLACKOUT? REBOOT OR RECAPTURE? - CIA vs OSS - TRUMP \"THEY CHEATED\" - EP.624",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 99,
+      "expanded_url": "https://x.com/i/broadcasts/2XyXLbjabNJeqj",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2124380358640627712/h_6EDAcE?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124380358640627712/h_6EDAcE?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 76,
+      "status": 200,
+      "title": "ALPHAWARRIOR.TV",
+      "unwound_url": "https://x.com/i/broadcasts/2XyXLbjabNJeqj",
+      "url": "https://t.co/nNFMQ9zEA1"
+     }
+    ]
+   },
+   "id": "2124380316198440973",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 239,
+    "like_count": 8,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 1
+   },
+   "text": "BLACKOUT? REBOOT OR RECAPTURE? - CIA vs OSS - TRUMP \"THEY CHEATED\" - EP.624 https://t.co/nNFMQ9zEA1",
+   "url": "https://x.com/AlphaWarriorTV/status/2124380316198440973"
+  },
+  {
+   "author_id": "972978420",
+   "created_at": "2026-11-22T05:51:51.000Z",
+   "edit_history_tweet_ids": [
+    "2124380316454318097"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "BLACKOUT? REBOOT OR RECAPTURE? - CIA vs OSS - TRUMP \"THEY CHEATED\" - EP.624",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 99,
+      "expanded_url": "https://x.com/i/broadcasts/2BlavPpmMXqErA",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2124380358904782848/9Wr7AnL6?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124380358904782848/9Wr7AnL6?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 76,
+      "status": 200,
+      "title": "ALPHAWARRIOR",
+      "unwound_url": "https://x.com/i/broadcasts/2BlavPpmMXqErA",
+      "url": "https://t.co/NRhn8KYOHy"
+     }
+    ]
+   },
+   "id": "2124380316454318097",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 1187,
+    "like_count": 30,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 11
+   },
+   "text": "BLACKOUT? REBOOT OR RECAPTURE? - CIA vs OSS - TRUMP \"THEY CHEATED\" - EP.624 https://t.co/NRhn8KYOHy",
+   "url": "https://x.com/xAlphaWarriorx/status/2124380316454318097"
+  }
+ ],
+ "users": [
+  {
+   "id": "1406048189015158787",
+   "name": "Daily 24 Bharat",
+   "public_metrics": {
+    "followers_count": 1039,
+    "following_count": 8,
+    "like_count": 184,
+    "listed_count": 2,
+    "media_count": 37632,
+    "tweet_count": 38984
+   },
+   "username": "Daily24bharat",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "973080382991097857",
+   "name": "DD News Gujarati",
+   "public_metrics": {
+    "followers_count": 203191,
+    "following_count": 341,
+    "like_count": 5058,
+    "listed_count": 158,
+    "media_count": 179733,
+    "tweet_count": 219554
+   },
+   "username": "DDNewsGujarati",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1245226694400598023",
+   "name": "Nick Matau",
+   "public_metrics": {
+    "followers_count": 57441,
+    "following_count": 383,
+    "like_count": 5126,
+    "listed_count": 338,
+    "media_count": 4176,
+    "tweet_count": 13564
+   },
+   "username": "nick_matau",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1924911157229309952",
+   "name": "The Powdered Dusty",
+   "public_metrics": {
+    "followers_count": 210,
+    "following_count": 424,
+    "like_count": 888,
+    "listed_count": 2,
+    "media_count": 179,
+    "tweet_count": 824
+   },
+   "username": "dusty_the9642",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1024661303154094081",
+   "name": "The Layman's Seminary",
+   "public_metrics": {
+    "followers_count": 2148,
+    "following_count": 3669,
+    "like_count": 28470,
+    "listed_count": 16,
+    "media_count": 1214,
+    "tweet_count": 19939
+   },
+   "username": "LaymansSeminary",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "716572539934248960",
+   "name": "Joel Jammal",
+   "public_metrics": {
+    "followers_count": 19055,
+    "following_count": 1156,
+    "like_count": 16343,
+    "listed_count": 47,
+    "media_count": 2067,
+    "tweet_count": 7156
+   },
+   "username": "JoelJammal",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1691380072517664769",
+   "name": "NSC9 News",
+   "public_metrics": {
+    "followers_count": 665,
+    "following_count": 4,
+    "like_count": 1562,
+    "listed_count": 0,
+    "media_count": 23423,
+    "tweet_count": 36220
+   },
+   "username": "nsc9news",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1339166129110065152",
+   "name": "GB News",
+   "public_metrics": {
+    "followers_count": 994923,
+    "following_count": 49,
+    "like_count": 0,
+    "listed_count": 2729,
+    "media_count": 171931,
+    "tweet_count": 332894
+   },
+   "username": "GBNEWS",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "49365553",
+   "name": "KLASIC",
+   "public_metrics": {
+    "followers_count": 81765,
+    "following_count": 31894,
+    "like_count": 2816,
+    "listed_count": 161,
+    "media_count": 1305,
+    "tweet_count": 20182
+   },
+   "username": "KLASICS",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "34206701",
+   "name": "News24",
+   "public_metrics": {
+    "followers_count": 2043236,
+    "following_count": 216,
+    "like_count": 557,
+    "listed_count": 1409,
+    "media_count": 528986,
+    "tweet_count": 700420
+   },
+   "username": "news24tvchannel",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2050186006130028544",
+   "name": "Pio AF",
+   "public_metrics": {
+    "followers_count": 1464,
+    "following_count": 1323,
+    "like_count": 15836,
+    "listed_count": 4,
+    "media_count": 337,
+    "tweet_count": 6565
+   },
+   "username": "PioShowAF",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "812479795841945600",
+   "name": "Saul Montes-Bradley",
+   "public_metrics": {
+    "followers_count": 21650,
+    "following_count": 667,
+    "like_count": 115263,
+    "listed_count": 171,
+    "media_count": 6337,
+    "tweet_count": 127913
+   },
+   "username": "Debradelai",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1711881416626282496",
+   "name": "Thomas Wictor",
+   "public_metrics": {
+    "followers_count": 11279,
+    "following_count": 6,
+    "like_count": 7,
+    "listed_count": 64,
+    "media_count": 0,
+    "tweet_count": 312
+   },
+   "username": "TheThomasWictor",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1816231321502621696",
+   "name": "Lynne Scott Haggerman",
+   "public_metrics": {
+    "followers_count": 1311,
+    "following_count": 116,
+    "like_count": 603,
+    "listed_count": 2,
+    "media_count": 151,
+    "tweet_count": 1044
+   },
+   "username": "LynneSHaggerman",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1355721251180961792",
+   "name": "Gunther Eagleman™",
+   "public_metrics": {
+    "followers_count": 1770752,
+    "following_count": 102174,
+    "like_count": 1339028,
+    "listed_count": 3808,
+    "media_count": 73132,
+    "tweet_count": 523789
+   },
+   "username": "GuntherEagleman",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1166786844895436800",
+   "name": "Exploring With Ben and Sam",
+   "public_metrics": {
+    "followers_count": 148,
+    "following_count": 189,
+    "like_count": 4330,
+    "listed_count": 1,
+    "media_count": 817,
+    "tweet_count": 2985
+   },
+   "username": "XploringWithBen",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1295014168261619713",
+   "name": "The Black Conservative Preacher",
+   "public_metrics": {
+    "followers_count": 25281,
+    "following_count": 480,
+    "like_count": 4193,
+    "listed_count": 60,
+    "media_count": 2076,
+    "tweet_count": 5019
+   },
+   "username": "thebcpreacher",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2078174533689753600",
+   "name": "The Double Eagleman Podcast",
+   "public_metrics": {
+    "followers_count": 2042,
+    "following_count": 32,
+    "like_count": 25,
+    "listed_count": 0,
+    "media_count": 177,
+    "tweet_count": 213
+   },
+   "username": "EaglemanPodcast",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1359994013999316995",
+   "name": "Jolah",
+   "public_metrics": {
+    "followers_count": 903,
+    "following_count": 246,
+    "like_count": 3643,
+    "listed_count": 19,
+    "media_count": 501,
+    "tweet_count": 12823
+   },
+   "username": "jolahpolitics",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1555324385652707328",
+   "name": "ALPHAWARRIOR.TV",
+   "public_metrics": {
+    "followers_count": 36775,
+    "following_count": 3831,
+    "like_count": 6815,
+    "listed_count": 39,
+    "media_count": 397,
+    "tweet_count": 3705
+   },
+   "username": "AlphaWarriorTV",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "972978420",
+   "name": "ALPHAWARRIOR",
+   "public_metrics": {
+    "followers_count": 133314,
+    "following_count": 18319,
+    "like_count": 218347,
+    "listed_count": 292,
+    "media_count": 7572,
+    "tweet_count": 49834
+   },
+   "username": "xAlphaWarriorx",
+   "verified": true,
+   "verified_type": "blue"
+  }
+ ]
 }

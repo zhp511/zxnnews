@@ -36,15 +36,20 @@
     return firstLeft.length > p.headline.length + 3 ? t : rest;
   }
 
+  function hrefTarget(p) {
+    return ((p.source === "site" || p.headline_source === "site") && p.url && p.url.indexOf("zxnnews.org") >= 0) ? "_self" : "_blank";
+  }
+
   function media(p, big) {
     const img = p.images && p.images[0];
+    const tgt = hrefTarget(p);
     if (img) {
       const vid = p.has_video ? '<span class="badge-video">▶ Video on X</span>' : "";
-      return `<a class="media" href="${p.url}" target="_blank" rel="noopener"><img src="${esc(img.src)}" alt="${esc(p.headline)}" loading="${big ? "eager" : "lazy"}">${vid}</a>`;
+      return `<a class="media" href="${p.url}" target="${tgt}" rel="noopener"><img src="${esc(img.src)}" alt="${esc(p.headline)}" loading="${big ? "eager" : "lazy"}">${vid}</a>`;
     }
     const k = p.link ? p.link.kicker : "ZXN";
     const t = p.link && p.link.title && p.link.title !== p.headline ? p.link.title : "ZXN · Patriot One Network";
-    return `<a class="media" href="${p.url}" target="_blank" rel="noopener"><div class="tile"><span class="t-kicker">${esc(k)}</span><span class="t-title">${esc(t)}</span></div></a>`;
+    return `<a class="media" href="${p.url}" target="${tgt}" rel="noopener"><div class="tile"><span class="t-kicker">${esc(k)}</span><span class="t-title">${esc(t)}</span></div></a>`;
   }
 
   function linkChip(p) {
@@ -53,6 +58,10 @@
   }
 
   function metaRow(p, short) {
+    if (p.source === "site" || p.headline_source === "site") {
+      return `<div class="meta"><time datetime="${p.created_at}">${ct(p.created_at, short)}</time>
+        <a class="readon" href="${esc(p.url)}" target="${p.url && p.url.indexOf("zxnnews.org") >= 0 ? "_self" : "_blank"}" rel="noopener">Open ZXNnews.org →</a></div>`;
+    }
     const m = p.metrics || {};
     return `<div class="meta"><time datetime="${p.created_at}">${ct(p.created_at, short)}</time>
       <span class="stats"><span title="Likes">♥ ${num(m.like_count)}</span><span title="Reposts">⟲ ${num(m.retweet_count)}</span><span title="Views">👁 ${num(m.impression_count)}</span></span>
@@ -60,6 +69,7 @@
   }
 
   function kickerLabel(p) {
+    if (p.source === "site" || p.headline_source === "site") return `<span class="kicker">${esc((p.link && p.link.kicker) || "ZXN News")}</span>`;
     if (p.has_video) return '<span class="kicker red">Video</span>';
     if (p.image_source === "post") return '<span class="kicker red">ZXN</span>';
     return `<span class="kicker">${esc(p.link ? p.link.kicker : "ZXN")}</span>`;
@@ -104,16 +114,30 @@
 
   function render(data) {
     const posts = data.posts.filter((p) => !p.hidden).sort((a, b) => b.created_at.localeCompare(a.created_at));
-    // Top story = most-viewed post that has its own photo/video.
+    // Top story: site-authored featured_top, then the owner pin, then the most-viewed post with its own photo/video.
     const withMedia = posts.filter((p) => p.image_source === "post");
-    // A pin set by the site owner (data.pinned_top) wins; otherwise pick automatically.
-    const pinned = data.pinned_top && posts.find((p) => p.id === data.pinned_top);
-    const featured = pinned || (withMedia.length ? withMedia : posts).slice().sort((a, b) => (b.metrics.impression_count || 0) - (a.metrics.impression_count || 0))[0];
-    const rest = posts.filter((p) => p !== featured);
+    const featuredId = data.featured_top || data.pinned_top;
+    const featured = (featuredId && posts.find((p) => p.id === featuredId)) || (withMedia.length ? withMedia : posts).slice().sort((a, b) => ((b.metrics || {}).impression_count || 0) - ((a.metrics || {}).impression_count || 0))[0];
+    const pinned = data.pinned_top && posts.find((p) => p.id === data.pinned_top && p !== featured);
+    const rest = posts.filter((p) => p !== featured && p !== pinned);
 
+    const featTarget = (featured.source === "site" || featured.headline_source === "site") && featured.url && featured.url.indexOf("zxnnews.org") >= 0 ? "_self" : "_blank";
     $("featured").innerHTML = `${media(featured, true)}<div class="body">${kickerLabel(featured)} <span class="kicker">Top Story</span>
-      <h1><a href="${featured.url}" target="_blank" rel="noopener">${esc(featured.headline)}</a></h1>
+      <h1><a href="${featured.url}" target="${featTarget}" rel="noopener">${esc(featured.headline)}</a></h1>
       <div class="text">${richText(bodyText(featured))}</div>${linkChip(featured)}${metaRow(featured)}</div>`;
+
+    const pinBox = $("pinned-below");
+    if (pinBox) {
+      if (pinned) {
+        pinBox.hidden = false;
+        pinBox.innerHTML = `${media(pinned, false)}<div class="body">${kickerLabel(pinned)} <span class="kicker">Pinned</span>
+          <h2><a href="${pinned.url}" target="_blank" rel="noopener">${esc(pinned.headline)}</a></h2>
+          <div class="text">${richText(bodyText(pinned))}</div>${linkChip(pinned)}${metaRow(pinned)}</div>`;
+      } else {
+        pinBox.hidden = true;
+        pinBox.innerHTML = "";
+      }
+    }
 
     $("justin").innerHTML = rest.slice(0, 6).map((p) => `<li><div><a href="${p.url}" target="_blank" rel="noopener">${esc(p.headline)}</a><time>${ct(p.created_at, true)}</time></div></li>`).join("");
     // Latest grid: newest PAGE stories, then "Load more" adds PAGE at a time.

@@ -25,6 +25,9 @@ HOW TO REFRESH
    This script only READS that file and copies the pin into posts.json; it never changes it.
    Only the site owner (in chat) changes the pin. Posts on X never change it, including
    "make this top story" quote-posts, which are hidden as editorial notes.
+   SITE-AUTHORED STORIES: optional "site_stories" and "featured_top" in site_config.json.
+   Each site story is copied into posts.json on every run (so it survives a refresh).
+   featured_top is the homepage Top Story; pinned_top, if different, is shown just below it.
    LIVE NOW: every run also writes data/live.json (see detect_live below). When one of the
    newest posts links to an X live broadcast (x.com/i/broadcasts/<id>) posted within the last
    3 hours, live.json says {"live": true, ...} and the page shows the LIVE NOW player.
@@ -351,16 +354,51 @@ def build():
         user["banner_local"] = download(user["profile_banner_url"] + "/1500x500", "banner.jpg")
     config = json.load(open(CONFIG)) if os.path.exists(CONFIG) else {}
     pinned = config.get("pinned_top")
+    featured_top = config.get("featured_top")
+    # Inject site-authored stories from site_config so they survive every refresh.
+    existing_ids = {p["id"] for p in posts}
+    injected = []
+    for s in (config.get("site_stories") or []):
+        sid = s.get("id")
+        if not sid or sid in existing_ids:
+            continue
+        url = s.get("url") or "https://zxnnews.org/"
+        text = s.get("text") or ""
+        story_kicker = s.get("kicker") or "ZXN News"
+        injected.append({
+            "id": sid,
+            "url": url,
+            "created_at": s.get("created_at"),
+            "headline": s.get("headline") or "",
+            "headline_source": "site",
+            "text": text,
+            "original_text": text,
+            "metrics": {},
+            "images": s.get("images") or [],
+            "image_source": s.get("image_source"),
+            "link": s.get("link") or {"url": url, "display": "zxnnews.org", "title": s.get("headline") or "ZXN News", "kicker": story_kicker},
+            "has_video": False,
+            "hidden": False,
+            "hidden_reason": None,
+            "source": "site",
+        })
+        existing_ids.add(sid)
+    if injected:
+        posts = injected + posts
+        print(f"  injected {len(injected)} site-authored stor{'y' if len(injected)==1 else 'ies'} from site_config.json")
+    if featured_top and not any(p["id"] == featured_top and not p["hidden"] for p in posts):
+        print(f"  ! featured_top {featured_top} is not among the visible posts; the page will fall back to pinned_top or the automatic Top Story")
     if pinned and not any(p["id"] == pinned and not p["hidden"] for p in posts):
         print(f"  ! pinned_top {pinned} is not among the visible posts; the page will fall back to the automatic Top Story")
     detect_live(posts, config)
     for p in posts:
         p.pop("_expanded_urls", None)
-    out = {"generated_from": "data/raw_pages.json + data/raw_archive.json", "fetched_at": raw.get("fetched_at"),
-           "pinned_top": pinned, "user": user, "posts": posts}
+    out = {"generated_from": "data/raw_pages.json + data/raw_archive.json + data/site_config.json site_stories",
+           "fetched_at": raw.get("fetched_at"),
+           "featured_top": featured_top, "pinned_top": pinned, "user": user, "posts": posts}
     json.dump(out, open(OUT, "w"), ensure_ascii=False, indent=1)
     vis = [p for p in posts if not p["hidden"]]
-    print(f"wrote {OUT}: {len(posts)} posts, {len(vis)} visible, {len(posts)-len(vis)} hidden, pinned_top={pinned}")
+    print(f"wrote {OUT}: {len(posts)} posts, {len(vis)} visible, {len(posts)-len(vis)} hidden, featured_top={featured_top}, pinned_top={pinned}")
     for p in posts:
         if p["hidden"]:
             print(f"  hidden ({p['hidden_reason']}): {p['original_text'][:60]!r}")

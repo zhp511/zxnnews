@@ -1,6 +1,19 @@
 {
  "pinned_top": "2114513144307442008",
  "_note": "Top Story pin. Set by the site owner in chat on 2026-10-25 7:59 PM CT (the 'WWE do not go to Riyadh' post); stays until they say otherwise. update.py only reads this file. Set to null to return to the automatic pick. A pinned post is never hidden as reply-style. Previous pin: 2108635147318784214 (Hurricane Isaias livestream).",
+ "featured_top": "zxn-launch-zxnnews-org-2026-11-21",
+ "_featured_top_note": "Site-authored Top Story: the ZXNnews.org launch announcement, added Nov 22, 2026. update.py injects it from site_stories on every run, so it survives the daily refresh. Stays until the site owner says otherwise. The WWE/Riyadh pin (pinned_top) remains and is shown just below this story.",
+ "site_stories": [
+  {
+   "id": "zxn-launch-zxnnews-org-2026-11-21",
+   "created_at": "2026-11-22T03:15:00.000Z",
+   "headline": "ZXN News launches at ZXNnews.org",
+   "text": "ZXN News is now live at its own address, https://zxnnews.org, as of Nov 21, 2026, with secure HTTPS. The previous address, https://zhp511.github.io/zxnnews, now redirects there. The site brings Zachary's ZXN reporting from X (@Zxnbluehandus) together with trending news, ZXN TV and X Live.",
+   "url": "https://zxnnews.org/",
+   "kicker": "ZXN News"
+  }
+ ],
+ "_site_stories_note": "Site-authored stories, not posts from X. update.py copies these into posts.json on every run. Only changed from chat.",
  "featured_accounts": [],
  "_featured_accounts_note": "X handles (without @) for the 'Accounts We Follow' section, in display order. Empty = section hidden. Filled by the site owner in chat; following.py builds data/following.json from saved x-tool output in data/following_raw/.",
  "blocked_terms": [

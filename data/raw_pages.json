@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T12:18:26.564435Z",
+ "fetched_at": "2026-11-22T06:15:12Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -21,6 +21,184 @@
   "verified": false
  },
  "pages": [
+  {
+   "data": [
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2124345727849472000"
+      ]
+     },
+     "created_at": "2026-11-22T03:34:51.000Z",
+     "edit_history_tweet_ids": [
+      "2124345839489282085"
+     ],
+     "id": "2124345839489282085",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 81,
+      "like_count": 0,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "https://t.co/jCMXOViwoF the all new ZXN news https://t.co/qAX5FhBKes",
+     "url": "https://x.com/i/status/2124345839489282085"
+    },
+    {
+     "created_at": "2026-11-22T03:20:05.000Z",
+     "edit_history_tweet_ids": [
+      "2124342124250345586"
+     ],
+     "id": "2124342124250345586",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 23,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "Things are looking up for ZXNnews",
+     "url": "https://x.com/i/status/2124342124250345586"
+    },
+    {
+     "created_at": "2026-11-21T23:59:16.000Z",
+     "edit_history_tweet_ids": [
+      "2124291587438236002"
+     ],
+     "id": "2124291587438236002",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 24,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "Limited-time deal: Flashlight 20000 High Lumens Rechargeable 2 Pack 30W Bright LED Flash Light | 24H Long Lasting, 5000ft Beam, USB C+A Charging, High Powered, Police Flashlight, for Home, Camping, Hiking, Emergency, Gift https://t.co/Nphfl261LA #Amazon via @Amazon",
+     "url": "https://x.com/i/status/2124291587438236002"
+    },
+    {
+     "created_at": "2026-11-21T22:06:25.000Z",
+     "edit_history_tweet_ids": [
+      "2124263186006175966"
+     ],
+     "id": "2124263186006175966",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 170,
+      "like_count": 2,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "Cobra 29LX AM/FM Professional CB Radio, Emergency Radio, Travel Essentials | NOAA Weather Channels and Emergency Alert System, Selectable 4-Color LCD, Auto-Scan, Black https://t.co/jiCEgvWq6l #Amazon via @Amazon",
+     "url": "https://x.com/i/status/2124263186006175966"
+    },
+    {
+     "created_at": "2026-11-21T22:04:30.000Z",
+     "edit_history_tweet_ids": [
+      "2124262707046371452"
+     ],
+     "id": "2124262707046371452",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 86,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1
+     },
+     "text": "Humanitarian MRE Meals Ready to Eat - 10 Pack, Inspected Date 2025 | Humanitarian MRE rations, shelf-stable entrees, variety pack, includes 10 full meals, ready to eat https://t.co/eEyNZyAo3F #Amazon via @Amazon",
+     "url": "https://x.com/i/status/2124262707046371452"
+    },
+    {
+     "created_at": "2026-11-21T22:02:47.000Z",
+     "edit_history_tweet_ids": [
+      "2124262275150406127"
+     ],
+     "id": "2124262275150406127",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 34,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "Limited-time deal: Anker Laptop Power Bank, 25,000mAh Travel Essential with 165W Total Output | 3 USB-C Ports with 100W Max Each, Built-In Retractable Cables, Flight-Ready, for iPhone 17 Series ,MacBook, and More https://t.co/wHhQ5alRjg #Amazon via @Amazon",
+     "url": "https://x.com/i/status/2124262275150406127"
+    },
+    {
+     "created_at": "2026-11-21T21:51:33.000Z",
+     "edit_history_tweet_ids": [
+      "2124259445026984418"
+     ],
+     "id": "2124259445026984418",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 56,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "https://t.co/SriGsCb8A9",
+     "url": "https://x.com/i/status/2124259445026984418"
+    },
+    {
+     "created_at": "2026-11-21T19:10:44.000Z",
+     "edit_history_tweet_ids": [
+      "2124218977324839059"
+     ],
+     "id": "2124218977324839059",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 144,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+     },
+     "text": "I done figured out why all this outages occurring? Wargames on us on USA heard that movie that’s what they’re doing on us? They take down the main frame. Are the people overseas is doing it? So. We need more cyber security. For the United States of America.",
+     "url": "https://x.com/i/status/2124218977324839059"
+    },
+    {
+     "created_at": "2026-11-21T18:19:48.000Z",
+     "edit_history_tweet_ids": [
+      "2124206155920478707"
+     ],
+     "id": "2124206155920478707",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 108,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+     },
+     "text": "https://t.co/VDTL408Yp4 new sound new purpose.",
+     "url": "https://x.com/i/status/2124206155920478707"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "height": 624,
+      "media_key": "13_2124345727849472000",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2124345727849472000/img/Tjqd2APlSuKrMV__.jpg",
+      "type": "video",
+      "width": 1456
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2124345839489282085",
+    "oldest_id": "2124206155920478707",
+    "result_count": 9
+   }
+  },
   {
    "data": [
     {
