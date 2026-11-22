@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T06:15:12Z",
+ "fetched_at": "2026-11-22T17:03:26Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -21,6 +21,111 @@
   "verified": false
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-11-22T14:02:36.000Z",
+     "edit_history_tweet_ids": [
+      "2124503817618104568"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 68,
+        "id": "10228272",
+        "start": 60,
+        "username": "YouTube"
+       }
+      ],
+      "urls": [
+       {
+        "description": "Join us every Sunday at 8:00am, 9:45am, and 11:30am on 14800 Highla...",
+        "display_url": "youtube.com/live/88gwMy_M9…",
+        "end": 55,
+        "expanded_url": "https://www.youtube.com/live/88gwMy_M9zE?is=5Zoa20TGFrlVBkxg",
+        "images": [
+         {
+          "height": 720,
+          "url": "https://pbs.twimg.com/news_img/2124503818050080768/cVQYqRvt?format=jpg&name=orig",
+          "width": 1280
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2124503818050080768/cVQYqRvt?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 32,
+        "status": 200,
+        "title": "Overflow Church Live Experience",
+        "unwound_url": "https://www.youtube.com/live/88gwMy_M9zE?is=5Zoa20TGFrlVBkxg",
+        "url": "https://t.co/5NQqCcW9P8"
+       }
+      ]
+     },
+     "id": "2124503817618104568",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 251,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+     },
+     "text": "Overflow Church Live Experience https://t.co/5NQqCcW9P8 via @YouTube",
+     "url": "https://x.com/i/status/2124503817618104568"
+    },
+    {
+     "created_at": "2026-11-22T07:21:45.000Z",
+     "edit_history_tweet_ids": [
+      "2124402940471312878"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "description": "Song · 2018 · Duration 2:50",
+        "display_url": "music.apple.com/us/album/when-…",
+        "end": 23,
+        "expanded_url": "https://music.apple.com/us/album/when-the-smoke-clears-outlaw-edition/1436646687?i=1436646692",
+        "images": [
+         {
+          "height": 600,
+          "url": "https://pbs.twimg.com/news_img/2124402944179113984/q75sIN0T?format=jpg&name=orig",
+          "width": 600
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2124402944179113984/q75sIN0T?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 0,
+        "status": 200,
+        "title": "When the Smoke Clears Outlaw Edition by James Storm on Apple Music",
+        "unwound_url": "https://music.apple.com/us/album/when-the-smoke-clears-outlaw-edition/1436646687?i=1436646692",
+        "url": "https://t.co/ZzOSaenztW"
+       }
+      ]
+     },
+     "id": "2124402940471312878",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 26,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "https://t.co/ZzOSaenztW",
+     "url": "https://x.com/i/status/2124402940471312878"
+    }
+   ],
+   "meta": {
+    "newest_id": "2124503817618104568",
+    "oldest_id": "2124402940471312878",
+    "result_count": 2
+   }
+  },
   {
    "data": [
     {

@@ -2,22 +2,15 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-22T06:16:46Z",
+  "updated_at": "2026-11-22T17:03:57Z",
   "last_x_check": {
-    "at": "2026-11-22T06:15:12Z",
-    "new_posts": 9,
+    "at": "2026-11-22T17:03:26Z",
+    "new_posts": 2,
     "new_post_ids": [
-      "2124345839489282085",
-      "2124342124250345586",
-      "2124291587438236002",
-      "2124263186006175966",
-      "2124262707046371452",
-      "2124262275150406127",
-      "2124259445026984418",
-      "2124218977324839059",
-      "2124206155920478707"
+      "2124503817618104568",
+      "2124402940471312878"
     ],
-    "newest_id": "2124345839489282085",
+    "newest_id": "2124503817618104568",
     "published": false,
     "refreshed": [
       "trending",
@@ -30,16 +23,16 @@
     },
     "x_reads_this_run": 4,
     "notes": {
-      "posts": "9 new posts newer than 2124113623953928648; injected site-authored launch story as featured_top; pinned_top 2114513144307442008 unchanged",
-      "trending": "refreshed US politics news + US trends; built_at 2026-11-22T06:15:59Z",
+      "posts": "2 new posts newer than 2124345839489282085; featured_top launch story and pinned_top 2114513144307442008 unchanged",
+      "trending": "refreshed US politics news + US trends; built_at 2026-11-22T17:03:31Z",
       "following": "skipped, featured_accounts empty",
-      "tv": "refreshed, checked_at 2026-11-22T06:16:09Z",
-      "xlive": "refreshed search fetched_at 2026-11-22T06:15:12Z; 24 posts / 21 users; xlive.json 8 broadcasts",
+      "tv": "refreshed, checked_at 2026-11-22T17:02:05Z",
+      "xlive": "refreshed search fetched_at 2026-11-22T17:03:26Z; 25 posts / 24 users; xlive.json 8 broadcasts",
       "publish": "pending push"
     }
   },
   "last_publish": null,
-  "x_reads_left_today": "996 of 1000 (resets 2026-11-23T00:00Z)",
-  "note": "X check succeeded; failure streak 0. Publishing full refresh plus ZXNnews.org launch top story.",
+  "x_reads_left_today": "982 of 1000 (resets 2026-11-23T00:00Z)",
+  "note": "X check succeeded; failure streak 0. Publishing full refresh. Launch top story, WWE pin, and CNAME left intact.",
   "failure_streak": 0
 }
