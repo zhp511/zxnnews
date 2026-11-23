@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-11-22T17:48:58Z",
+ "fetched_at": "2026-11-23T17:48:36Z",
  "tool": "x.search_posts_all",
  "args": {
   "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-22T14:48:58Z",
+  "start_time": "2026-11-23T14:48:36Z",
   "max_results": 25,
   "sort_order": "relevancy",
   "post.fields": [
@@ -25,1360 +25,1537 @@
  },
  "data": [
   {
-   "author_id": "1486020576716242950",
-   "created_at": "2026-11-22T16:03:08.000Z",
+   "author_id": "1473339053575708682",
+   "created_at": "2026-11-23T15:56:46.000Z",
    "edit_history_tweet_ids": [
-    "2124534153093730548"
+    "2124894937846059426"
    ],
    "entities": {
     "urls": [
      {
-      "description": "BREAKING: New Carbon Dating Results Fuel Noah's Ark Debate",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 82,
-      "expanded_url": "https://x.com/i/broadcasts/2JQoRmYyeKNvQX",
-      "start": 59,
-      "status": 200,
-      "title": "Ben Dykes",
-      "unwound_url": "https://x.com/i/broadcasts/2JQoRmYyeKNvQX",
-      "url": "https://t.co/AMrwX9chHG"
-     }
-    ]
-   },
-   "id": "2124534153093730548",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 363,
-    "like_count": 5,
-    "quote_count": 0,
-    "reply_count": 2,
-    "retweet_count": 0
-   },
-   "text": "BREAKING: New Carbon Dating Results Fuel Noah's Ark Debate https://t.co/AMrwX9chHG",
-   "url": "https://x.com/realBenDykes/status/2124534153093730548"
-  },
-  {
-   "author_id": "2109787653625311234",
-   "created_at": "2026-11-22T14:49:48.000Z",
-   "edit_history_tweet_ids": [
-    "2124515696499646527"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "GTA Terminal LIVE 24/7: markets, options flow, dark pools and breaking news",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 99,
-      "expanded_url": "https://x.com/i/broadcasts/2aWROaoEjNqZZJ",
-      "start": 76,
-      "status": 200,
-      "title": "GTA Terminal",
-      "unwound_url": "https://x.com/i/broadcasts/2aWROaoEjNqZZJ",
-      "url": "https://t.co/akUWpe6d9F"
-     }
-    ]
-   },
-   "id": "2124515696499646527",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 12,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "GTA Terminal LIVE 24/7: markets, options flow, dark pools and breaking news https://t.co/akUWpe6d9F",
-   "url": "https://x.com/GTA_Terminal/status/2124515696499646527"
-  },
-  {
-   "author_id": "938775594153672705",
-   "created_at": "2026-11-22T15:55:07.000Z",
-   "edit_history_tweet_ids": [
-    "2124532133376975138"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Red Pill Politics (11-22-26) – Cyberattacks | Beyond COG | Poisoning Iowa!",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 98,
-      "expanded_url": "https://x.com/i/broadcasts/2peVOpWVLLRgPR",
-      "start": 75,
-      "status": 200,
-      "title": "Red Pill Politics",
-      "unwound_url": "https://x.com/i/broadcasts/2peVOpWVLLRgPR",
-      "url": "https://t.co/ZFM0wFMNg3"
-     }
-    ]
-   },
-   "id": "2124532133376975138",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 147,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Red Pill Politics (11-22-26) – Cyberattacks | Beyond COG | Poisoning Iowa! https://t.co/ZFM0wFMNg3",
-   "url": "https://x.com/RedPillRoadShow/status/2124532133376975138"
-  },
-  {
-   "author_id": "46724627",
-   "created_at": "2026-11-22T15:01:59.000Z",
-   "edit_history_tweet_ids": [
-    "2124518763613565081"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Racing Across America - November 22th, 2026",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 67,
-      "expanded_url": "https://x.com/i/broadcasts/2qVYbKaJpkXvdg",
-      "images": [
-       {
-        "height": 675,
-        "url": "https://pbs.twimg.com/news_img/2124297270078164992/cQ2O4ztE?format=jpg&name=orig",
-        "width": 1200
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124297270078164992/cQ2O4ztE?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 44,
-      "status": 200,
-      "title": "Capital OTB",
-      "unwound_url": "https://x.com/i/broadcasts/2qVYbKaJpkXvdg",
-      "url": "https://t.co/er9YbEG3kH"
-     }
-    ]
-   },
-   "id": "2124518763613565081",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 183,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Racing Across America - November 22th, 2026 https://t.co/er9YbEG3kH",
-   "url": "https://x.com/capitalotb/status/2124518763613565081"
-  },
-  {
-   "author_id": "2013698195662995458",
-   "created_at": "2026-11-22T16:00:33.000Z",
-   "edit_history_tweet_ids": [
-    "2124533502389498324"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Sunday Tailgate Week 11: Start/Sits Latest Injury News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 78,
-      "expanded_url": "https://x.com/i/broadcasts/2YRzYWqppbdyjK",
-      "start": 55,
-      "status": 200,
-      "title": "Dynatyze Football",
-      "unwound_url": "https://x.com/i/broadcasts/2YRzYWqppbdyjK",
-      "url": "https://t.co/igoMz4QYIf"
-     }
-    ]
-   },
-   "id": "2124533502389498324",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 584,
-    "like_count": 1,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Sunday Tailgate Week 11: Start/Sits Latest Injury News https://t.co/igoMz4QYIf",
-   "url": "https://x.com/DynatyzeFF/status/2124533502389498324"
-  },
-  {
-   "author_id": "882505074",
-   "created_at": "2026-11-22T15:00:14.000Z",
-   "edit_history_tweet_ids": [
-    "2124518324658716933"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live broadcast | English News Bulletin",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 62,
-      "expanded_url": "https://x.com/i/broadcasts/2ZBeYkjnNyVXrN",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124518367352483840/yFKh4ZNJ?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124518367352483840/yFKh4ZNJ?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 39,
-      "status": 200,
-      "title": "مركز الأخبار",
-      "unwound_url": "https://x.com/i/broadcasts/2ZBeYkjnNyVXrN",
-      "url": "https://t.co/T3UbpoS6Up"
-     }
-    ]
-   },
-   "id": "2124518324658716933",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 2193,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Live broadcast | English News Bulletin https://t.co/T3UbpoS6Up",
-   "url": "https://x.com/omantvnews/status/2124518324658716933"
-  },
-  {
-   "author_id": "24735423",
-   "created_at": "2026-11-22T17:26:52.000Z",
-   "edit_history_tweet_ids": [
-    "2124555225784594796"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "OTF Hangout: Bring on The Aggies! | Texas Rolls Arkansas | Latest Recruiting News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 105,
-      "expanded_url": "https://x.com/i/broadcasts/2kEAbQaeXkaEYO",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124555268323172352/sPaY6wOL?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124555268323172352/sPaY6wOL?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 82,
-      "status": 200,
-      "title": "Gerry Hamilton",
-      "unwound_url": "https://x.com/i/broadcasts/2kEAbQaeXkaEYO",
-      "url": "https://t.co/JZ69RPKTFi"
-     }
-    ]
-   },
-   "id": "2124555225784594796",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 536,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "OTF Hangout: Bring on The Aggies! | Texas Rolls Arkansas | Latest Recruiting News https://t.co/JZ69RPKTFi",
-   "url": "https://x.com/GHamiltonOTF/status/2124555225784594796"
-  },
-  {
-   "author_id": "731228952",
-   "created_at": "2026-11-22T16:00:33.000Z",
-   "edit_history_tweet_ids": [
-    "2124533502334890194"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Sunday Tailgate Week 11: Start/Sits Latest Injury News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 78,
-      "expanded_url": "https://x.com/i/broadcasts/2evjgdbZjaNogg",
-      "start": 55,
-      "status": 200,
-      "title": "Stacy Perez",
-      "unwound_url": "https://x.com/i/broadcasts/2evjgdbZjaNogg",
-      "url": "https://t.co/hEDB6r6N16"
-     }
-    ]
-   },
-   "id": "2124533502334890194",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 216,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Sunday Tailgate Week 11: Start/Sits Latest Injury News https://t.co/hEDB6r6N16",
-   "url": "https://x.com/stacy_perez83/status/2124533502334890194"
-  },
-  {
-   "author_id": "505519109",
-   "created_at": "2026-11-22T17:02:37.000Z",
-   "edit_history_tweet_ids": [
-    "2124549121570639948"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "SAPIENTIA NEWS LIVE: Tinubu Promises Better Electricity | Boat Mishap | Bandits Kill Village Head",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 121,
-      "expanded_url": "https://x.com/i/broadcasts/2LPoLaVBZqgMZz",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2124549124305350656/S1YkOtI1?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124549124305350656/S1YkOtI1?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 98,
-      "status": 200,
-      "title": "Sapientia Radio & TV",
-      "unwound_url": "https://x.com/i/broadcasts/2LPoLaVBZqgMZz",
-      "url": "https://t.co/019yB0oKrA"
-     }
-    ]
-   },
-   "id": "2124549121570639948",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 74,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "SAPIENTIA NEWS LIVE: Tinubu Promises Better Electricity | Boat Mishap | Bandits Kill Village Head https://t.co/019yB0oKrA",
-   "url": "https://x.com/mediasapientia/status/2124549121570639948"
-  },
-  {
-   "author_id": "2066165235803725824",
-   "created_at": "2026-11-22T16:00:33.000Z",
-   "edit_history_tweet_ids": [
-    "2124533502783656296"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Sunday Tailgate Week 11: Start/Sits Latest Injury News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 78,
-      "expanded_url": "https://x.com/i/broadcasts/2peVOMpyRRqvEN",
-      "start": 55,
-      "status": 200,
-      "title": "Matthew Montgomery",
-      "unwound_url": "https://x.com/i/broadcasts/2peVOMpyRRqvEN",
-      "url": "https://t.co/J2wC772qKu"
-     }
-    ]
-   },
-   "id": "2124533502783656296",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 120,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Sunday Tailgate Week 11: Start/Sits Latest Injury News https://t.co/J2wC772qKu",
-   "url": "https://x.com/mattmontyff/status/2124533502783656296"
-  },
-  {
-   "author_id": "1478327736154435587",
-   "created_at": "2026-11-22T16:00:33.000Z",
-   "edit_history_tweet_ids": [
-    "2124533502745960483"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Sunday Tailgate Week 11: Start/Sits Latest Injury News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 78,
-      "expanded_url": "https://x.com/i/broadcasts/2jPVdRlKEdPgQV",
-      "start": 55,
-      "status": 200,
-      "title": "FantasyNerdBoi",
-      "unwound_url": "https://x.com/i/broadcasts/2jPVdRlKEdPgQV",
-      "url": "https://t.co/TlJqlmIF9x"
-     }
-    ]
-   },
-   "id": "2124533502745960483",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 404,
-    "like_count": 0,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Sunday Tailgate Week 11: Start/Sits Latest Injury News https://t.co/TlJqlmIF9x",
-   "url": "https://x.com/NerdBoiTakes/status/2124533502745960483"
-  },
-  {
-   "author_id": "1662581955228041216",
-   "created_at": "2026-11-22T17:26:52.000Z",
-   "edit_history_tweet_ids": [
-    "2124555225159590104"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "OTF Hangout: Bring on The Aggies! | Texas Rolls Arkansas | Latest Recruiting News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 105,
-      "expanded_url": "https://x.com/i/broadcasts/2rJYaAvyadoEbe",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124555267740209152/TcJNn41-?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124555267740209152/TcJNn41-?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 82,
-      "status": 200,
-      "title": "OnTexasFootball",
-      "unwound_url": "https://x.com/i/broadcasts/2rJYaAvyadoEbe",
-      "url": "https://t.co/Ly5y7X0fPz"
-     }
-    ]
-   },
-   "id": "2124555225159590104",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 431,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "OTF Hangout: Bring on The Aggies! | Texas Rolls Arkansas | Latest Recruiting News https://t.co/Ly5y7X0fPz",
-   "url": "https://x.com/ontexasfootball/status/2124555225159590104"
-  },
-  {
-   "author_id": "2693496433",
-   "created_at": "2026-11-22T17:01:24.000Z",
-   "edit_history_tweet_ids": [
-    "2124548815130648666"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Jason Moore is LIVE! Week 11 Fantasy Football Start/Sit Advice + Injury News",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 100,
-      "expanded_url": "https://x.com/i/broadcasts/2aWRbBRNQYyloQ",
-      "start": 77,
-      "status": 200,
-      "title": "Fantasy Footballers",
-      "unwound_url": "https://x.com/i/broadcasts/2aWRbBRNQYyloQ",
-      "url": "https://t.co/Xfb3DWRunm"
-     }
-    ]
-   },
-   "id": "2124548815130648666",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 11284,
-    "like_count": 27,
-    "quote_count": 0,
-    "reply_count": 7,
-    "retweet_count": 0
-   },
-   "text": "Jason Moore is LIVE! Week 11 Fantasy Football Start/Sit Advice + Injury News https://t.co/Xfb3DWRunm",
-   "url": "https://x.com/TheFFBallers/status/2124548815130648666"
-  },
-  {
-   "author_id": "811425464",
-   "created_at": "2026-11-22T16:06:18.000Z",
-   "edit_history_tweet_ids": [
-    "2124534949105541230"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Fernando Mendoza's First Start + Raiders vs Broncos & VGK News | LIVE",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 97,
-      "expanded_url": "https://x.com/i/broadcasts/2VNlmnypQoABoL",
-      "start": 74,
-      "status": 200,
-      "title": "OuttaLine",
-      "unwound_url": "https://x.com/i/broadcasts/2VNlmnypQoABoL",
-      "url": "https://t.co/SYPKrZZQtz"
-     }
-    ]
-   },
-   "id": "2124534949105541230",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 27,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Fernando Mendoza's First Start + Raiders vs Broncos &amp; VGK News | LIVE https://t.co/SYPKrZZQtz",
-   "url": "https://x.com/OuttaLineFoxLV/status/2124534949105541230"
-  },
-  {
-   "author_id": "343331728",
-   "created_at": "2026-11-22T16:01:36.000Z",
-   "edit_history_tweet_ids": [
-    "2124533765267403206"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "FINAL Week 11 Start/Sit Cheat Sheet! LIVE Q&A + Actives/Inactives News | 2026 Fantasy Football",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 122,
-      "expanded_url": "https://x.com/i/broadcasts/2nQVPjWLXAbgKJ",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124545984709693440/5r4iHkkR?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124545984709693440/5r4iHkkR?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 99,
-      "status": 200,
-      "title": "Fantasy Football Today",
-      "unwound_url": "https://x.com/i/broadcasts/2nQVPjWLXAbgKJ",
-      "url": "https://t.co/wOC1qxC2zy"
-     }
-    ]
-   },
-   "id": "2124533765267403206",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 6096,
-    "like_count": 15,
-    "quote_count": 0,
-    "reply_count": 4,
-    "retweet_count": 2
-   },
-   "text": "FINAL Week 11 Start/Sit Cheat Sheet! LIVE Q&amp;A + Actives/Inactives News | 2026 Fantasy Football https://t.co/wOC1qxC2zy",
-   "url": "https://x.com/FFToday/status/2124533765267403206"
-  },
-  {
-   "author_id": "804605049859145728",
-   "created_at": "2026-11-22T15:24:20.000Z",
-   "edit_history_tweet_ids": [
-    "2124524389194691004"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Live Now",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 127,
-      "expanded_url": "https://x.com/i/broadcasts/2AMjKbRrZORLgN",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124524307015475200/rbjDFUgj?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124524307015475200/rbjDFUgj?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 104,
-      "status": 200,
-      "title": "TRT World",
-      "unwound_url": "https://x.com/i/broadcasts/2AMjKbRrZORLgN",
-      "url": "https://t.co/3Ob3nHR13U"
-     }
-    ]
-   },
-   "id": "2124524389194691004",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 1623,
-    "like_count": 4,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "LIVE: COP 31 President Murat Kurum delivers closing remarks at UN Climate Change Conference in Antalya \nhttps://t.co/3Ob3nHR13U",
-   "url": "https://x.com/TRTWorldNow/status/2124524389194691004"
-  },
-  {
-   "author_id": "1207785915533479936",
-   "created_at": "2026-11-22T17:27:19.000Z",
-   "edit_history_tweet_ids": [
-    "2124555337919299648"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "🔴 BREAKING - ALEX FIGHTS BACK!! COURT HEARING!! NANCY GUTHRIE - LIVE",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 92,
-      "expanded_url": "https://x.com/i/broadcasts/2kEAbQkpnZlkdk",
-      "images": [
-       {
-        "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124555380445327360/0kCsbaxN?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124555380445327360/0kCsbaxN?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 69,
-      "status": 200,
-      "title": "JLR©",
-      "unwound_url": "https://x.com/i/broadcasts/2kEAbQkpnZlkdk",
-      "url": "https://t.co/ESghtdoBwp"
-     }
-    ]
-   },
-   "id": "2124555337919299648",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1523,
-    "like_count": 26,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 3
-   },
-   "text": "🔴 BREAKING - ALEX FIGHTS BACK!! COURT HEARING!! NANCY GUTHRIE - LIVE https://t.co/ESghtdoBwp",
-   "url": "https://x.com/JLRINVESTIGATES/status/2124555337919299648"
-  },
-  {
-   "author_id": "249902270",
-   "created_at": "2026-11-22T14:59:38.000Z",
-   "edit_history_tweet_ids": [
-    "2124518171096826290"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "COWBOYS AT THE BREAKING POINT! Must Win vs Titans",
+      "description": "LIVE - Mayor's Weekly Press Conference 11-23-2026",
       "display_url": "x.com/i/broadcasts/2…",
       "end": 73,
-      "expanded_url": "https://x.com/i/broadcasts/2VNlmymQkXOMAX",
+      "expanded_url": "https://x.com/i/broadcasts/2WXZavQMneBgaq",
       "images": [
        {
         "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124552648913559553/pDcHXFQx?format=jpg&name=orig",
+        "url": "https://pbs.twimg.com/news_img/2124894980443410432/yTep-E92?format=jpg&name=orig",
         "width": 1920
        },
        {
         "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124552648913559553/pDcHXFQx?format=jpg&name=150x150",
+        "url": "https://pbs.twimg.com/news_img/2124894980443410432/yTep-E92?format=jpg&name=150x150",
         "width": 150
        }
       ],
       "start": 50,
       "status": 200,
-      "title": "Mike Tag",
-      "unwound_url": "https://x.com/i/broadcasts/2VNlmymQkXOMAX",
-      "url": "https://t.co/sHwreHTdQs"
+      "title": "Louisville MetroTV",
+      "unwound_url": "https://x.com/i/broadcasts/2WXZavQMneBgaq",
+      "url": "https://t.co/Z7rI2HEJS7"
      }
     ]
    },
-   "id": "2124518171096826290",
+   "id": "2124894937846059426",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 960,
-    "like_count": 10,
-    "quote_count": 2,
+    "impression_count": 22,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "LIVE - Mayor's Weekly Press Conference 11-23-2026 https://t.co/Z7rI2HEJS7",
+   "url": "https://x.com/LouMetroTV/status/2124894937846059426"
+  },
+  {
+   "author_id": "19936565",
+   "created_at": "2026-11-23T17:24:16.000Z",
+   "edit_history_tweet_ids": [
+    "2124916957837218144"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Wisconsin Weekly Press Conference || Nov. 23, 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 74,
+      "expanded_url": "https://x.com/i/broadcasts/2evjZYlvvArVqK",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124917000623284224/moah2mp3?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124917000623284224/moah2mp3?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 51,
+      "status": 200,
+      "title": "Wisconsin Badgers",
+      "unwound_url": "https://x.com/i/broadcasts/2evjZYlvvArVqK",
+      "url": "https://t.co/RzeQKtpkUb"
+     }
+    ]
+   },
+   "id": "2124916957837218144",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1183,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Wisconsin Weekly Press Conference || Nov. 23, 2026 https://t.co/RzeQKtpkUb",
+   "url": "https://x.com/UWBadgers/status/2124916957837218144"
+  },
+  {
+   "author_id": "227342532",
+   "created_at": "2026-11-23T17:04:02.000Z",
+   "edit_history_tweet_ids": [
+    "2124911867915117012"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Football Weekly Press Conference",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 56,
+      "expanded_url": "https://x.com/i/broadcasts/2peVRJrzEAYgBp",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124911910466224128/e-NIyQXk?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124911910466224128/e-NIyQXk?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 33,
+      "status": 200,
+      "title": "Virginia Tech Football",
+      "unwound_url": "https://x.com/i/broadcasts/2peVRJrzEAYgBp",
+      "url": "https://t.co/5zNYxN3StM"
+     }
+    ]
+   },
+   "id": "2124911867915117012",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 1668,
+    "like_count": 27,
+    "quote_count": 0,
     "reply_count": 0,
     "retweet_count": 2
    },
-   "text": "COWBOYS AT THE BREAKING POINT! Must Win vs Titans https://t.co/sHwreHTdQs",
-   "url": "https://x.com/mtag1993/status/2124518171096826290"
+   "text": "Football Weekly Press Conference https://t.co/5zNYxN3StM",
+   "url": "https://x.com/HokiesFB/status/2124911867915117012"
   },
   {
-   "author_id": "1931737188",
-   "created_at": "2026-11-22T16:19:02.000Z",
+   "author_id": "42548887",
+   "created_at": "2026-11-23T16:26:37.000Z",
    "edit_history_tweet_ids": [
-    "2124538153482568031"
+    "2124902450897326482"
    ],
    "entities": {
     "urls": [
      {
-      "description": "Maya Francis: Breaking the Cycle of Compromise",
+      "description": "Mayor Zohran Mamdani Holds Press Conference to Make Announcement",
       "display_url": "x.com/i/broadcasts/2…",
-      "end": 70,
-      "expanded_url": "https://x.com/i/broadcasts/2AMjKkekeZALKY",
-      "start": 47,
-      "status": 200,
-      "title": "Avi",
-      "unwound_url": "https://x.com/i/broadcasts/2AMjKkekeZALKY",
-      "url": "https://t.co/Z92sebD5c0"
-     }
-    ]
-   },
-   "id": "2124538153482568031",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 0,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Maya Francis: Breaking the Cycle of Compromise https://t.co/Z92sebD5c0",
-   "url": "https://x.com/avinashnamilla/status/2124538153482568031"
-  },
-  {
-   "author_id": "37603518",
-   "created_at": "2026-11-22T14:59:52.000Z",
-   "edit_history_tweet_ids": [
-    "2124518229846495399"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Be Filled With The SpiritBread🍞💫✨Breaking💥💨🔥Broadcast🗣️🔊🎶",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 83,
-      "expanded_url": "https://x.com/i/broadcasts/2MEoBOldAnYvvK",
-      "start": 60,
-      "status": 200,
-      "title": "Apostle D R Thompson",
-      "unwound_url": "https://x.com/i/broadcasts/2MEoBOldAnYvvK",
-      "url": "https://t.co/zus8oI40pP"
-     }
-    ]
-   },
-   "id": "2124518229846495399",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 7,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Be Filled With The Spirit\n\nBread🍞💫✨Breaking💥💨🔥Broadcast🗣️🔊🎶 https://t.co/zus8oI40pP",
-   "url": "https://x.com/apostledonaldt/status/2124518229846495399"
-  },
-  {
-   "author_id": "338444460",
-   "created_at": "2026-11-22T16:01:39.000Z",
-   "edit_history_tweet_ids": [
-    "2124533777930039337"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "Trump Drops BOMBSHELL Vowing PERMANENT Deals While Facing Major Attacks",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 95,
-      "expanded_url": "https://x.com/i/broadcasts/2jPVdRjZXOnJWR",
-      "start": 72,
-      "status": 200,
-      "title": "Atheist Republic",
-      "unwound_url": "https://x.com/i/broadcasts/2jPVdRjZXOnJWR",
-      "url": "https://t.co/bulkKU2TVz"
-     }
-    ]
-   },
-   "id": "2124533777930039337",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 330,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Trump Drops BOMBSHELL Vowing PERMANENT Deals While Facing Major Attacks https://t.co/bulkKU2TVz",
-   "url": "https://x.com/AtheistRepublic/status/2124533777930039337"
-  },
-  {
-   "author_id": "78452959",
-   "created_at": "2026-11-22T15:02:48.000Z",
-   "edit_history_tweet_ids": [
-    "2124518968379478156"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "BOOM! Trump Just Floated A 2028 Ticket — Who's On It?",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 77,
-      "expanded_url": "https://x.com/i/broadcasts/2rJYPEZEzYVnlM",
-      "start": 54,
-      "status": 200,
-      "title": "Next News Network",
-      "unwound_url": "https://x.com/i/broadcasts/2rJYPEZEzYVnlM",
-      "url": "https://t.co/PVvl20dJip"
-     }
-    ]
-   },
-   "id": "2124518968379478156",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1458,
-    "like_count": 9,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "BOOM! Trump Just Floated A 2028 Ticket — Who's On It? https://t.co/PVvl20dJip",
-   "url": "https://x.com/nextnews/status/2124518968379478156"
-  },
-  {
-   "author_id": "428718110",
-   "created_at": "2026-11-22T17:05:57.000Z",
-   "edit_history_tweet_ids": [
-    "2124549960842567864"
-   ],
-   "entities": {
-    "urls": [
-     {
-      "description": "SUNDAY WIRE EP 622 — MAGA Implodes, Trump Confused on Iran - What Happens Next?",
-      "display_url": "x.com/i/broadcasts/2…",
-      "end": 103,
-      "expanded_url": "https://x.com/i/broadcasts/2QnbmvXjrQVlML",
+      "end": 88,
+      "expanded_url": "https://x.com/i/broadcasts/2AMjekeBrjlVrO",
       "images": [
        {
         "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124550003360178176/txlX6cOh?format=jpg&name=orig",
+        "url": "https://pbs.twimg.com/news_img/2124902493653995520/29D7XAfF?format=jpg&name=orig",
         "width": 1920
        },
        {
         "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124550003360178176/txlX6cOh?format=jpg&name=150x150",
+        "url": "https://pbs.twimg.com/news_img/2124902493653995520/29D7XAfF?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 65,
+      "status": 200,
+      "title": "Diya TV",
+      "unwound_url": "https://x.com/i/broadcasts/2AMjekeBrjlVrO",
+      "url": "https://t.co/NZki4RTyRW"
+     }
+    ]
+   },
+   "id": "2124902450897326482",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 32,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Mayor Zohran Mamdani Holds Press Conference to Make Announcement https://t.co/NZki4RTyRW",
+   "url": "https://x.com/DiyaTV/status/2124902450897326482"
+  },
+  {
+   "author_id": "52273696",
+   "created_at": "2026-11-23T15:56:47.000Z",
+   "edit_history_tweet_ids": [
+    "2124894940723322983"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE - Mayor's Weekly Press Conference 11-23-2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 73,
+      "expanded_url": "https://x.com/i/broadcasts/2onVyvPBXqpYjg",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124894983362592768/wrV_t6Sb?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124894983362592768/wrV_t6Sb?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 50,
+      "status": 200,
+      "title": "Mayor Craig Greenberg",
+      "unwound_url": "https://x.com/i/broadcasts/2onVyvPBXqpYjg",
+      "url": "https://t.co/gvYTGprAnl"
+     }
+    ]
+   },
+   "id": "2124894940723322983",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 213,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "LIVE - Mayor's Weekly Press Conference 11-23-2026 https://t.co/gvYTGprAnl",
+   "url": "https://x.com/LouisvilleMayor/status/2124894940723322983"
+  },
+  {
+   "author_id": "39533864",
+   "created_at": "2026-11-23T16:28:46.000Z",
+   "edit_history_tweet_ids": [
+    "2124902991836643465"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Florida Football Press Conference | Coach Sumrall 11-23-26",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 82,
+      "expanded_url": "https://x.com/i/broadcasts/2NgyLoOjZLKlaE",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124903034412998656/iPAGdaI6?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124903034412998656/iPAGdaI6?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 59,
+      "status": 200,
+      "title": "Florida Gators Football",
+      "unwound_url": "https://x.com/i/broadcasts/2NgyLoOjZLKlaE",
+      "url": "https://t.co/898LGVTT54"
+     }
+    ]
+   },
+   "id": "2124902991836643465",
+   "public_metrics": {
+    "bookmark_count": 5,
+    "impression_count": 5201,
+    "like_count": 65,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 13
+   },
+   "text": "Florida Football Press Conference | Coach Sumrall 11-23-26 https://t.co/898LGVTT54",
+   "url": "https://x.com/GatorsFB/status/2124902991836643465"
+  },
+  {
+   "author_id": "19834403",
+   "created_at": "2026-11-23T15:38:54.000Z",
+   "edit_history_tweet_ids": [
+    "2124890440683962437"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Mayor Zohran Mamdani Holds Press Conference to Make Transportation Announcement",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 103,
+      "expanded_url": "https://x.com/i/broadcasts/2vyYMLzpzVnvLv",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124890483566481408/osbZZDsy?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124890483566481408/osbZZDsy?format=jpg&name=150x150",
         "width": 150
        }
       ],
       "start": 80,
       "status": 200,
-      "title": "21st Century Wire 🇵🇸",
-      "unwound_url": "https://x.com/i/broadcasts/2QnbmvXjrQVlML",
-      "url": "https://t.co/Na1QYFRCQl"
+      "title": "Mayor Zohran Kwame Mamdani",
+      "unwound_url": "https://x.com/i/broadcasts/2vyYMLzpzVnvLv",
+      "url": "https://t.co/mOJw4oePRN"
      }
     ]
    },
-   "id": "2124549960842567864",
+   "id": "2124890440683962437",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 145,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
+    "bookmark_count": 39,
+    "impression_count": 53267,
+    "like_count": 1202,
+    "quote_count": 8,
+    "reply_count": 89,
+    "retweet_count": 80
    },
-   "text": "SUNDAY WIRE EP 622 — MAGA Implodes, Trump Confused on Iran - What Happens Next? https://t.co/Na1QYFRCQl",
-   "url": "https://x.com/21stCenturyWire/status/2124549960842567864"
+   "text": "Mayor Zohran Mamdani Holds Press Conference to Make Transportation Announcement https://t.co/mOJw4oePRN",
+   "url": "https://x.com/NYCMayor/status/2124890440683962437"
   },
   {
-   "author_id": "34001374",
-   "created_at": "2026-11-22T16:01:39.000Z",
+   "author_id": "31126587",
+   "created_at": "2026-11-23T16:28:47.000Z",
    "edit_history_tweet_ids": [
-    "2124533777472868559"
+    "2124902996546838702"
    ],
    "entities": {
     "urls": [
      {
-      "description": "Trump Drops BOMBSHELL Vowing PERMANENT Deals While Facing Major Attacks",
+      "description": "LIVE: Mike Vrabel Press Conference 11/23",
       "display_url": "x.com/i/broadcasts/2…",
-      "end": 95,
-      "expanded_url": "https://x.com/i/broadcasts/2NgyKAavKJelPg",
+      "end": 64,
+      "expanded_url": "https://x.com/i/broadcasts/2KoLzpVOLnyJLQ",
       "images": [
        {
         "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124541701217804289/8OXX2jUq?format=jpg&name=orig",
+        "url": "https://pbs.twimg.com/news_img/2124903039198740480/Q0JrhAxx?format=jpg&name=orig",
         "width": 1920
        },
        {
         "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124541701217804289/8OXX2jUq?format=jpg&name=150x150",
+        "url": "https://pbs.twimg.com/news_img/2124903039198740480/Q0JrhAxx?format=jpg&name=150x150",
         "width": 150
        }
       ],
-      "start": 72,
+      "start": 41,
       "status": 200,
-      "title": "Armin Navabi",
-      "unwound_url": "https://x.com/i/broadcasts/2NgyKAavKJelPg",
-      "url": "https://t.co/L2PIVyV8Z3"
+      "title": "New England Patriots",
+      "unwound_url": "https://x.com/i/broadcasts/2KoLzpVOLnyJLQ",
+      "url": "https://t.co/Kw4Fp8A9Y3"
      }
     ]
    },
-   "id": "2124533777472868559",
+   "id": "2124902996546838702",
    "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 358,
-    "like_count": 9,
-    "quote_count": 0,
+    "bookmark_count": 4,
+    "impression_count": 13746,
+    "like_count": 40,
+    "quote_count": 2,
     "reply_count": 1,
     "retweet_count": 3
    },
-   "text": "Trump Drops BOMBSHELL Vowing PERMANENT Deals While Facing Major Attacks https://t.co/L2PIVyV8Z3",
-   "url": "https://x.com/ArminNavabi/status/2124533777472868559"
+   "text": "LIVE: Mike Vrabel Press Conference 11/23 https://t.co/Kw4Fp8A9Y3",
+   "url": "https://x.com/Patriots/status/2124902996546838702"
   },
   {
-   "author_id": "16936686",
-   "created_at": "2026-11-22T17:05:57.000Z",
+   "author_id": "1222650745901633536",
+   "created_at": "2026-11-23T17:03:50.000Z",
    "edit_history_tweet_ids": [
-    "2124549961383625046"
+    "2124911815716954528"
    ],
    "entities": {
     "urls": [
      {
-      "description": "SUNDAY WIRE EP 622 — MAGA Implodes, Trump Confused on Iran - What Happens Next?",
+      "description": "Mayor Brandon Johnson attends the Don't Count Yourself Out Press Conference.",
       "display_url": "x.com/i/broadcasts/2…",
-      "end": 103,
-      "expanded_url": "https://x.com/i/broadcasts/2dKkYaoyRzBLPP",
+      "end": 100,
+      "expanded_url": "https://x.com/i/broadcasts/2mdVOgZzJMdkWE",
       "images": [
        {
         "height": 1080,
-        "url": "https://pbs.twimg.com/news_img/2124550003884498944/o6uNKj1r?format=jpg&name=orig",
+        "url": "https://pbs.twimg.com/news_img/2124911858347810816/fJaDuDY6?format=jpg&name=orig",
         "width": 1920
        },
        {
         "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2124550003884498944/o6uNKj1r?format=jpg&name=150x150",
+        "url": "https://pbs.twimg.com/news_img/2124911858347810816/fJaDuDY6?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 77,
+      "status": 200,
+      "title": "City of Chicago",
+      "unwound_url": "https://x.com/i/broadcasts/2mdVOgZzJMdkWE",
+      "url": "https://t.co/yKMboM8hDf"
+     }
+    ]
+   },
+   "id": "2124911815716954528",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 552,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Mayor Brandon Johnson attends the Don't Count Yourself Out Press Conference. https://t.co/yKMboM8hDf",
+   "url": "https://x.com/chicago/status/2124911815716954528"
+  },
+  {
+   "author_id": "1657812828084895747",
+   "created_at": "2026-11-23T17:03:45.000Z",
+   "edit_history_tweet_ids": [
+    "2124911796242862201"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Mayor Mayor Brandon Johnson attends the Don't Count Yourself Out Press Conference.",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 106,
+      "expanded_url": "https://x.com/i/broadcasts/2kEAmznBmWNnyq",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124911838965927936/8v6p659P?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124911838965927936/8v6p659P?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 83,
+      "status": 200,
+      "title": "Mayor Brandon Johnson",
+      "unwound_url": "https://x.com/i/broadcasts/2kEAmznBmWNnyq",
+      "url": "https://t.co/VDHOL8bzW3"
+     }
+    ]
+   },
+   "id": "2124911796242862201",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 621,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 1
+   },
+   "text": "Mayor Mayor Brandon Johnson attends the Don't Count Yourself Out Press Conference. https://t.co/VDHOL8bzW3",
+   "url": "https://x.com/ChicagosMayor/status/2124911796242862201"
+  },
+  {
+   "author_id": "44468807",
+   "created_at": "2026-11-23T16:19:43.000Z",
+   "edit_history_tweet_ids": [
+    "2124900714270851314"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Barry Odom Press Conference vs. Indiana (Old Oaken Bucket) | Purdue Football",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 100,
+      "expanded_url": "https://x.com/i/broadcasts/2vyYMWaemlpNbo",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124900715881451520/2ty0uP2a?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124900715881451520/2ty0uP2a?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 77,
+      "status": 200,
+      "title": "Purdue Football",
+      "unwound_url": "https://x.com/i/broadcasts/2vyYMWaemlpNbo",
+      "url": "https://t.co/wH4o8MwIvS"
+     }
+    ]
+   },
+   "id": "2124900714270851314",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 3529,
+    "like_count": 12,
+    "quote_count": 0,
+    "reply_count": 5,
+    "retweet_count": 0
+   },
+   "text": "Barry Odom Press Conference vs. Indiana (Old Oaken Bucket) | Purdue Football https://t.co/wH4o8MwIvS",
+   "url": "https://x.com/BoilerFootball/status/2124900714270851314"
+  },
+  {
+   "author_id": "312901417",
+   "created_at": "2026-11-23T15:59:54.000Z",
+   "edit_history_tweet_ids": [
+    "2124895724907253916"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 68,
+      "id": "282689051",
+      "start": 56,
+      "username": "NeilHuffman"
+     }
+    ],
+    "urls": [
+     {
+      "description": "🎥: Head Coach Jeff Brohm Press Conference, Presented by @NeilHuffman | 11-23-26",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 103,
+      "expanded_url": "https://x.com/i/broadcasts/2rJYbznNAvZQzm",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124895727549595648/X07dWBbR?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124895727549595648/X07dWBbR?format=jpg&name=150x150",
         "width": 150
        }
       ],
       "start": 80,
       "status": 200,
-      "title": "Patrick Henningsen",
-      "unwound_url": "https://x.com/i/broadcasts/2dKkYaoyRzBLPP",
-      "url": "https://t.co/fBzRCbYACo"
+      "title": "Louisville Football",
+      "unwound_url": "https://x.com/i/broadcasts/2rJYbznNAvZQzm",
+      "url": "https://t.co/UPKGqrSQhY"
      }
     ]
    },
-   "id": "2124549961383625046",
+   "id": "2124895724907253916",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2633,
+    "like_count": 24,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "🎥: Head Coach Jeff Brohm Press Conference, Presented by @NeilHuffman | 11-23-26 https://t.co/UPKGqrSQhY",
+   "url": "https://x.com/LouisvilleFB/status/2124895724907253916"
+  },
+  {
+   "author_id": "181180906",
+   "created_at": "2026-11-23T17:21:20.000Z",
+   "edit_history_tweet_ids": [
+    "2124916219731996948"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Josh Heupel Press Conference (Nov. 23, 2026)",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 158,
+      "expanded_url": "https://x.com/i/broadcasts/2zkYrKPEWdyWQe",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124916262547398656/ZRvv_o08?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124916262547398656/ZRvv_o08?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 135,
+      "status": 200,
+      "title": "Tennessee Football",
+      "unwound_url": "https://x.com/i/broadcasts/2zkYrKPEWdyWQe",
+      "url": "https://t.co/wLheFi77vZ"
+     }
+    ]
+   },
+   "id": "2124916219731996948",
    "public_metrics": {
     "bookmark_count": 2,
-    "impression_count": 1327,
-    "like_count": 29,
+    "impression_count": 4315,
+    "like_count": 78,
+    "quote_count": 3,
+    "reply_count": 1,
+    "retweet_count": 5
+   },
+   "text": "Head coach Josh Heupel holds his weekly press conference, looking ahead to Saturday's regular season finale at Vanderbilt (7pm, ESPN). https://t.co/wLheFi77vZ",
+   "url": "https://x.com/Vol_Football/status/2124916219731996948"
+  },
+  {
+   "author_id": "9894602",
+   "created_at": "2026-11-23T15:30:45.000Z",
+   "edit_history_tweet_ids": [
+    "2124888388847427732"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Share your thoughts with President Donald J. Trump and Vice President JD Vance.",
+      "display_url": "whitehouse.gov/contact/",
+      "end": 153,
+      "expanded_url": "https://www.whitehouse.gov/contact/",
+      "images": [
+       {
+        "height": 628,
+        "url": "https://pbs.twimg.com/news_img/2122780707475058688/L4XA-r85?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2122780707475058688/L4XA-r85?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 130,
+      "status": 200,
+      "title": "Contact Us",
+      "unwound_url": "https://www.whitehouse.gov/contact/",
+      "url": "https://t.co/1KAIwUeQrN"
+     },
+     {
+      "description": "PAUL PRESTON'S AGENDA 21 RADIO, NOVEMBER 23, 2026",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 178,
+      "expanded_url": "https://x.com/i/broadcasts/2AMjeLZzojNXLy",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124866895513899008/J3ZT10N2?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124866895513899008/J3ZT10N2?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 155,
+      "status": 200,
+      "title": "Paul Preston: Great State of New California",
+      "unwound_url": "https://x.com/i/broadcasts/2AMjeLZzojNXLy",
+      "url": "https://t.co/Xp3xEmHSye"
+     }
+    ]
+   },
+   "id": "2124888388847427732",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Leave your message for DJT to invalidate this sham of an election.  202-456-1111\nAlso leave a comment on the White House website:\nhttps://t.co/1KAIwUeQrN\n\nhttps://t.co/Xp3xEmHSye",
+   "url": "https://x.com/ChrisShouse/status/2124888388847427732"
+  },
+  {
+   "author_id": "1053941908722991105",
+   "created_at": "2026-11-23T17:07:16.000Z",
+   "edit_history_tweet_ids": [
+    "2124912679881961906"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "First Lady Melania Trump Welcomes the 2026 White House Christmas Tree",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 93,
+      "expanded_url": "https://x.com/i/broadcasts/2rJYBkOlmgJdjd",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2124912681471631360/w5NmI2aS?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124912681471631360/w5NmI2aS?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 70,
+      "status": 200,
+      "title": "MEAWW News",
+      "unwound_url": "https://x.com/i/broadcasts/2rJYBkOlmgJdjd",
+      "url": "https://t.co/LegwtwKgLr"
+     }
+    ]
+   },
+   "id": "2124912679881961906",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 14,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "First Lady Melania Trump Welcomes the 2026 White House Christmas Tree https://t.co/LegwtwKgLr",
+   "url": "https://x.com/meawwcom/status/2124912679881961906"
+  },
+  {
+   "author_id": "951102264",
+   "created_at": "2026-11-23T17:07:15.000Z",
+   "edit_history_tweet_ids": [
+    "2124912677092761853"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "First Lady Melania Trump Participates in 2026 White House Christmas Tree Ceremony",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 105,
+      "expanded_url": "https://x.com/i/broadcasts/2aWRMBYZoKopdn",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2124912678598541312/SxqrhyY5?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124912678598541312/SxqrhyY5?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 82,
+      "status": 200,
+      "title": "McGill Media",
+      "unwound_url": "https://x.com/i/broadcasts/2aWRMBYZoKopdn",
+      "url": "https://t.co/j6p4iTK25B"
+     }
+    ]
+   },
+   "id": "2124912677092761853",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 29,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "First Lady Melania Trump Participates in 2026 White House Christmas Tree Ceremony https://t.co/j6p4iTK25B",
+   "url": "https://x.com/GoMcGillMedia/status/2124912677092761853"
+  },
+  {
+   "author_id": "14437914",
+   "created_at": "2026-11-23T17:07:13.000Z",
+   "edit_history_tweet_ids": [
+    "2124912666846093571"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "WATCH LIVE: First lady Melania Trump welcomes the White House Christmas Tree",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 100,
+      "expanded_url": "https://x.com/i/broadcasts/2NgyrjPrbeEEam",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124912709372190720/OgUtFj9Z?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124912709372190720/OgUtFj9Z?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 77,
+      "status": 200,
+      "title": "PBS News",
+      "unwound_url": "https://x.com/i/broadcasts/2NgyrjPrbeEEam",
+      "url": "https://t.co/AM1qLhjlLA"
+     }
+    ]
+   },
+   "id": "2124912666846093571",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 2366,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "WATCH LIVE: First lady Melania Trump welcomes the White House Christmas Tree https://t.co/AM1qLhjlLA",
+   "url": "https://x.com/NewsHour/status/2124912666846093571"
+  },
+  {
+   "author_id": "1900375238548086788",
+   "created_at": "2026-11-23T17:02:51.000Z",
+   "edit_history_tweet_ids": [
+    "2124911567112180025"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "🇺🇸 First Lady Melania Trump Receives the White House Christmas Tree [LIVE]",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 98,
+      "expanded_url": "https://x.com/i/broadcasts/2KoLzPEOYvgKlR",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124911609642356736/mz7e3ons?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124911609642356736/mz7e3ons?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 75,
+      "status": 200,
+      "title": "MAGNO NEWS LIVE",
+      "unwound_url": "https://x.com/i/broadcasts/2KoLzPEOYvgKlR",
+      "url": "https://t.co/SmZLz8yiSG"
+     }
+    ]
+   },
+   "id": "2124911567112180025",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 335,
+    "like_count": 9,
     "quote_count": 1,
     "reply_count": 0,
-    "retweet_count": 12
+    "retweet_count": 5
    },
-   "text": "SUNDAY WIRE EP 622 — MAGA Implodes, Trump Confused on Iran - What Happens Next? https://t.co/fBzRCbYACo",
-   "url": "https://x.com/21WIRE/status/2124549961383625046"
+   "text": "🇺🇸 First Lady Melania Trump Receives the White House Christmas Tree [LIVE] https://t.co/SmZLz8yiSG",
+   "url": "https://x.com/magnonewslive/status/2124911567112180025"
+  },
+  {
+   "author_id": "1420014400744927245",
+   "created_at": "2026-11-23T16:55:19.000Z",
+   "edit_history_tweet_ids": [
+    "2124909672243032329"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "WATCH LIVE: First Lady Melania Trump Receives 2026 White House Christmas Tree",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 101,
+      "expanded_url": "https://x.com/i/broadcasts/2zkYpEWpqlNeVE",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2124909714672611328/ryD-zuh2?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124909714672611328/ryD-zuh2?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 78,
+      "status": 200,
+      "title": "Off The Press",
+      "unwound_url": "https://x.com/i/broadcasts/2zkYpEWpqlNeVE",
+      "url": "https://t.co/8axaKJDGC3"
+     }
+    ]
+   },
+   "id": "2124909672243032329",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 133,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "WATCH LIVE: First Lady Melania Trump Receives 2026 White House Christmas Tree https://t.co/8axaKJDGC3",
+   "url": "https://x.com/OffThePress1/status/2124909672243032329"
+  },
+  {
+   "author_id": "4041824789",
+   "created_at": "2026-11-23T17:02:25.000Z",
+   "edit_history_tweet_ids": [
+    "2124911460207784195"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: First Lady Melania Trump Welcomes the 2026 White House Christmas Tree - 11/23/26",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 110,
+      "expanded_url": "https://x.com/i/broadcasts/2ybYpmlWgKVzkl",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124911502712795137/WfphJ3i7?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124911502712795137/WfphJ3i7?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 87,
+      "status": 200,
+      "title": "RSBN 🇺🇸",
+      "unwound_url": "https://x.com/i/broadcasts/2ybYpmlWgKVzkl",
+      "url": "https://t.co/dOY12F5Ueg"
+     }
+    ]
+   },
+   "id": "2124911460207784195",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 4358,
+    "like_count": 34,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 17
+   },
+   "text": "LIVE: First Lady Melania Trump Welcomes the 2026 White House Christmas Tree - 11/23/26 https://t.co/dOY12F5Ueg",
+   "url": "https://x.com/RSBNetwork/status/2124911460207784195"
+  },
+  {
+   "author_id": "2002517143246774272",
+   "created_at": "2026-11-23T16:58:34.000Z",
+   "edit_history_tweet_ids": [
+    "2124910488492610031"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "First Lady Melania Trump Welcomes the 2026 White House Christmas Tree: A Timeless American Tradition",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 124,
+      "expanded_url": "https://x.com/i/broadcasts/2rJYbyqYrlgVMm",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124907611480797184/4BVsoMRb?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124907611480797184/4BVsoMRb?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 101,
+      "status": 200,
+      "title": "The White House",
+      "unwound_url": "https://x.com/i/broadcasts/2rJYbyqYrlgVMm",
+      "url": "https://t.co/qM8aC9lwYy"
+     }
+    ]
+   },
+   "id": "2124910488492610031",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "First Lady Melania Trump Welcomes the 2026 White House Christmas Tree: A Timeless American Tradition\nhttps://t.co/qM8aC9lwYy",
+   "url": "https://x.com/MelgarPaolo96/status/2124910488492610031"
+  },
+  {
+   "author_id": "61011257",
+   "created_at": "2026-11-23T17:10:43.000Z",
+   "edit_history_tweet_ids": [
+    "2124913549155955200"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "LIVE: First Lady Melania Trump Welcomes the 2026 White House Christmas Tree - 11/23/26",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 111,
+      "expanded_url": "https://x.com/i/broadcasts/2ybYpmlWgKVzkl",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124911502712795137/WfphJ3i7?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124911502712795137/WfphJ3i7?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 88,
+      "status": 200,
+      "title": "RSBN 🇺🇸",
+      "unwound_url": "https://x.com/i/broadcasts/2ybYpmlWgKVzkl",
+      "url": "https://t.co/jxIexPJyON"
+     }
+    ]
+   },
+   "id": "2124913549155955200",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 13,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚨LIVE: First Lady Melania Trump Welcomes the 2026 White House Christmas Tree - 11/23/26 https://t.co/jxIexPJyON",
+   "url": "https://x.com/realjamesrossi/status/2124913549155955200"
+  },
+  {
+   "author_id": "796431922939494408",
+   "created_at": "2026-11-23T16:47:35.000Z",
+   "edit_history_tweet_ids": [
+    "2124907724416983274"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "First Lady Melania Trump Welcomes the 2026 White House Christmas Tree: A Timeless American Tradition",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 130,
+      "expanded_url": "https://x.com/i/broadcasts/2rJYbyqYrlgVMm",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124907611480797184/4BVsoMRb?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124907611480797184/4BVsoMRb?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 107,
+      "status": 200,
+      "title": "The White House",
+      "unwound_url": "https://x.com/i/broadcasts/2rJYbyqYrlgVMm",
+      "url": "https://t.co/4KVIJrFins"
+     }
+    ]
+   },
+   "id": "2124907724416983274",
+   "public_metrics": {
+    "bookmark_count": 6,
+    "impression_count": 2083,
+    "like_count": 106,
+    "quote_count": 1,
+    "reply_count": 4,
+    "retweet_count": 27
+   },
+   "text": "LIVE: First Lady Melania Trump Welcomes the 2026 White House Christmas Tree: A Timeless American Tradition https://t.co/4KVIJrFins",
+   "url": "https://x.com/MELANIAJTRUMP/status/2124907724416983274"
+  },
+  {
+   "author_id": "2029725690371903488",
+   "created_at": "2026-11-23T16:49:48.000Z",
+   "edit_history_tweet_ids": [
+    "2124908283630862437"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "First Lady Melania Trump Welcomes the 2026 White House Christmas Tree: A Timeless American Tradition",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 130,
+      "expanded_url": "https://x.com/i/broadcasts/2rJYbyqYrlgVMm",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124907611480797184/4BVsoMRb?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124907611480797184/4BVsoMRb?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 107,
+      "status": 200,
+      "title": "The White House",
+      "unwound_url": "https://x.com/i/broadcasts/2rJYbyqYrlgVMm",
+      "url": "https://t.co/pnNxUUDeDZ"
+     }
+    ]
+   },
+   "id": "2124908283630862437",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "First Lady Melania Trump Welcomes the 2026 White House Christmas Tree: A Timeless American Tradition\n\n🇺🇲🇺🇲\nhttps://t.co/pnNxUUDeDZ",
+   "url": "https://x.com/asaonofriend/status/2124908283630862437"
+  },
+  {
+   "author_id": "1879644163769335808",
+   "created_at": "2026-11-23T16:46:57.000Z",
+   "edit_history_tweet_ids": [
+    "2124907569000931435"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "First Lady Melania Trump Welcomes the 2026 White House Christmas Tree: A Timeless American Tradition",
+      "display_url": "x.com/i/broadcasts/2…",
+      "end": 124,
+      "expanded_url": "https://x.com/i/broadcasts/2rJYbyqYrlgVMm",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2124907611480797184/4BVsoMRb?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2124907611480797184/4BVsoMRb?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 101,
+      "status": 200,
+      "title": "The White House",
+      "unwound_url": "https://x.com/i/broadcasts/2rJYbyqYrlgVMm",
+      "url": "https://t.co/CwLCVD2plG"
+     }
+    ]
+   },
+   "id": "2124907569000931435",
+   "public_metrics": {
+    "bookmark_count": 84,
+    "impression_count": 102057,
+    "like_count": 2539,
+    "quote_count": 28,
+    "reply_count": 222,
+    "retweet_count": 516
+   },
+   "text": "First Lady Melania Trump Welcomes the 2026 White House Christmas Tree: A Timeless American Tradition https://t.co/CwLCVD2plG",
+   "url": "https://x.com/WhiteHouse/status/2124907569000931435"
   }
  ],
  "users": [
   {
-   "id": "1486020576716242950",
-   "name": "Ben Dykes",
+   "id": "1473339053575708682",
+   "name": "Louisville MetroTV",
    "public_metrics": {
-    "followers_count": 15328,
-    "following_count": 213,
-    "like_count": 6017,
-    "listed_count": 49,
-    "media_count": 767,
-    "tweet_count": 1989
-   },
-   "username": "realBenDykes",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2109787653625311234",
-   "name": "GTA Terminal",
-   "public_metrics": {
-    "followers_count": 18,
-    "following_count": 1,
-    "like_count": 21,
-    "listed_count": 0,
-    "media_count": 929,
-    "tweet_count": 1701
-   },
-   "username": "GTA_Terminal",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "938775594153672705",
-   "name": "Red Pill Politics",
-   "public_metrics": {
-    "followers_count": 1132,
-    "following_count": 1597,
-    "like_count": 7512,
-    "listed_count": 1,
-    "media_count": 350,
-    "tweet_count": 9847
-   },
-   "username": "RedPillRoadShow",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "46724627",
-   "name": "Capital OTB",
-   "public_metrics": {
-    "followers_count": 4897,
-    "following_count": 2196,
-    "like_count": 29785,
-    "listed_count": 86,
-    "media_count": 15156,
-    "tweet_count": 68200
-   },
-   "username": "capitalotb",
-   "verified": false,
-   "verified_type": "none"
-  },
-  {
-   "id": "2013698195662995458",
-   "name": "Dynatyze Football",
-   "public_metrics": {
-    "followers_count": 6976,
-    "following_count": 644,
-    "like_count": 11620,
-    "listed_count": 79,
-    "media_count": 1599,
-    "tweet_count": 6511
-   },
-   "username": "DynatyzeFF",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "882505074",
-   "name": "مركز الأخبار",
-   "public_metrics": {
-    "followers_count": 795031,
-    "following_count": 2,
-    "like_count": 300,
-    "listed_count": 634,
-    "media_count": 81959,
-    "tweet_count": 107960
-   },
-   "username": "omantvnews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "24735423",
-   "name": "Gerry Hamilton",
-   "public_metrics": {
-    "followers_count": 82151,
-    "following_count": 24340,
-    "like_count": 19058,
-    "listed_count": 591,
-    "media_count": 6428,
-    "tweet_count": 44798
-   },
-   "username": "GHamiltonOTF",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "731228952",
-   "name": "Stacy Perez",
-   "public_metrics": {
-    "followers_count": 1828,
-    "following_count": 1705,
-    "like_count": 33576,
-    "listed_count": 17,
-    "media_count": 567,
-    "tweet_count": 4519
-   },
-   "username": "stacy_perez83",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "505519109",
-   "name": "Sapientia Radio & TV",
-   "public_metrics": {
-    "followers_count": 9065,
-    "following_count": 126,
-    "like_count": 2444,
-    "listed_count": 21,
-    "media_count": 1326,
-    "tweet_count": 11928
-   },
-   "username": "mediasapientia",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2066165235803725824",
-   "name": "Matthew Montgomery",
-   "public_metrics": {
-    "followers_count": 727,
-    "following_count": 210,
-    "like_count": 1072,
+    "followers_count": 425,
+    "following_count": 513,
+    "like_count": 611,
     "listed_count": 10,
-    "media_count": 84,
-    "tweet_count": 1029
+    "media_count": 2593,
+    "tweet_count": 3154
    },
-   "username": "mattmontyff",
+   "username": "LouMetroTV",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1478327736154435587",
-   "name": "FantasyNerdBoi",
+   "id": "19936565",
+   "name": "Wisconsin Badgers",
    "public_metrics": {
-    "followers_count": 6243,
-    "following_count": 2606,
-    "like_count": 13864,
-    "listed_count": 75,
-    "media_count": 9457,
-    "tweet_count": 26422
+    "followers_count": 349626,
+    "following_count": 204,
+    "like_count": 17424,
+    "listed_count": 1305,
+    "media_count": 13357,
+    "tweet_count": 39569
    },
-   "username": "NerdBoiTakes",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1662581955228041216",
-   "name": "OnTexasFootball",
-   "public_metrics": {
-    "followers_count": 16389,
-    "following_count": 500,
-    "like_count": 9540,
-    "listed_count": 101,
-    "media_count": 2621,
-    "tweet_count": 13329
-   },
-   "username": "ontexasfootball",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2693496433",
-   "name": "Fantasy Footballers",
-   "public_metrics": {
-    "followers_count": 425223,
-    "following_count": 1580,
-    "like_count": 15439,
-    "listed_count": 4226,
-    "media_count": 13514,
-    "tweet_count": 40822
-   },
-   "username": "TheFFBallers",
+   "username": "UWBadgers",
    "verified": true,
    "verified_type": "business"
   },
   {
-   "id": "811425464",
-   "name": "OuttaLine",
+   "id": "227342532",
+   "name": "Virginia Tech Football",
    "public_metrics": {
-    "followers_count": 160,
-    "following_count": 142,
-    "like_count": 397,
-    "listed_count": 7,
-    "media_count": 445,
-    "tweet_count": 1172
+    "followers_count": 260128,
+    "following_count": 569,
+    "like_count": 20212,
+    "listed_count": 1165,
+    "media_count": 30982,
+    "tweet_count": 58735
    },
-   "username": "OuttaLineFoxLV",
+   "username": "HokiesFB",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "343331728",
-   "name": "Fantasy Football Today",
+   "id": "42548887",
+   "name": "Diya TV",
    "public_metrics": {
-    "followers_count": 325841,
-    "following_count": 216,
-    "like_count": 1914,
-    "listed_count": 4072,
-    "media_count": 5506,
-    "tweet_count": 64038
+    "followers_count": 2565,
+    "following_count": 2045,
+    "like_count": 2770,
+    "listed_count": 79,
+    "media_count": 3566,
+    "tweet_count": 18342
    },
-   "username": "FFToday",
+   "username": "DiyaTV",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "52273696",
+   "name": "Mayor Craig Greenberg",
+   "public_metrics": {
+    "followers_count": 11641,
+    "following_count": 1257,
+    "like_count": 2643,
+    "listed_count": 90,
+    "media_count": 4868,
+    "tweet_count": 8369
+   },
+   "username": "LouisvilleMayor",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "39533864",
+   "name": "Florida Gators Football",
+   "public_metrics": {
+    "followers_count": 471277,
+    "following_count": 722,
+    "like_count": 11014,
+    "listed_count": 2343,
+    "media_count": 16428,
+    "tweet_count": 45985
+   },
+   "username": "GatorsFB",
    "verified": true,
    "verified_type": "business"
   },
   {
-   "id": "804605049859145728",
-   "name": "TRT World Now",
+   "id": "19834403",
+   "name": "Mayor Zohran Kwame Mamdani",
    "public_metrics": {
-    "followers_count": 298957,
-    "following_count": 21,
-    "like_count": 1,
-    "listed_count": 1516,
-    "media_count": 159725,
-    "tweet_count": 195294
+    "followers_count": 2875575,
+    "following_count": 108,
+    "like_count": 1388,
+    "listed_count": 6689,
+    "media_count": 11973,
+    "tweet_count": 41412
    },
-   "username": "TRTWorldNow",
+   "username": "NYCMayor",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "31126587",
+   "name": "New England Patriots",
+   "public_metrics": {
+    "followers_count": 4399483,
+    "following_count": 404,
+    "like_count": 13825,
+    "listed_count": 13430,
+    "media_count": 39292,
+    "tweet_count": 71340
+   },
+   "username": "Patriots",
    "verified": true,
    "verified_type": "business"
   },
   {
-   "id": "1207785915533479936",
-   "name": "JLR©",
+   "id": "1222650745901633536",
+   "name": "City of Chicago",
    "public_metrics": {
-    "followers_count": 104562,
-    "following_count": 340,
-    "like_count": 15378,
-    "listed_count": 288,
-    "media_count": 10378,
-    "tweet_count": 29149
+    "followers_count": 149963,
+    "following_count": 92,
+    "like_count": 1417,
+    "listed_count": 625,
+    "media_count": 788,
+    "tweet_count": 4377
    },
-   "username": "JLRINVESTIGATES",
+   "username": "chicago",
+   "verified": true,
+   "verified_type": "government"
+  },
+  {
+   "id": "1657812828084895747",
+   "name": "Mayor Brandon Johnson",
+   "public_metrics": {
+    "followers_count": 113737,
+    "following_count": 262,
+    "like_count": 865,
+    "listed_count": 471,
+    "media_count": 2095,
+    "tweet_count": 4773
+   },
+   "username": "ChicagosMayor",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "249902270",
-   "name": "Mike Tag",
+   "id": "44468807",
+   "name": "Purdue Football",
    "public_metrics": {
-    "followers_count": 23676,
-    "following_count": 7675,
-    "like_count": 76032,
-    "listed_count": 65,
-    "media_count": 3407,
-    "tweet_count": 26695
+    "followers_count": 161240,
+    "following_count": 667,
+    "like_count": 8511,
+    "listed_count": 1094,
+    "media_count": 11763,
+    "tweet_count": 25955
    },
-   "username": "mtag1993",
+   "username": "BoilerFootball",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "1931737188",
-   "name": "Avi",
+   "id": "312901417",
+   "name": "Louisville Football",
    "public_metrics": {
-    "followers_count": 63,
-    "following_count": 154,
-    "like_count": 479,
-    "listed_count": 0,
-    "media_count": 0,
-    "tweet_count": 149
+    "followers_count": 251184,
+    "following_count": 1495,
+    "like_count": 3815,
+    "listed_count": 884,
+    "media_count": 13392,
+    "tweet_count": 25135
    },
-   "username": "avinashnamilla",
+   "username": "LouisvilleFB",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "181180906",
+   "name": "Tennessee Football",
+   "public_metrics": {
+    "followers_count": 882636,
+    "following_count": 1811,
+    "like_count": 15574,
+    "listed_count": 2201,
+    "media_count": 34319,
+    "tweet_count": 81494
+   },
+   "username": "Vol_Football",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "9894602",
+   "name": "Chris Shouse 🙏🦅",
+   "public_metrics": {
+    "followers_count": 7641,
+    "following_count": 1334,
+    "like_count": 18402,
+    "listed_count": 132,
+    "media_count": 10376,
+    "tweet_count": 54081
+   },
+   "username": "ChrisShouse",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "37603518",
-   "name": "Apostle D R Thompson",
+   "id": "1053941908722991105",
+   "name": "MEAWW News",
    "public_metrics": {
-    "followers_count": 520,
-    "following_count": 1757,
-    "like_count": 1066,
-    "listed_count": 3,
-    "media_count": 575,
-    "tweet_count": 2402
+    "followers_count": 254,
+    "following_count": 38,
+    "like_count": 13,
+    "listed_count": 1,
+    "media_count": 5161,
+    "tweet_count": 5734
    },
-   "username": "apostledonaldt",
+   "username": "meawwcom",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "951102264",
+   "name": "McGill Media",
+   "public_metrics": {
+    "followers_count": 19918,
+    "following_count": 557,
+    "like_count": 20570,
+    "listed_count": 325,
+    "media_count": 27780,
+    "tweet_count": 76732
+   },
+   "username": "GoMcGillMedia",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "14437914",
+   "name": "PBS News",
+   "public_metrics": {
+    "followers_count": 1223095,
+    "following_count": 79299,
+    "like_count": 18579,
+    "listed_count": 14193,
+    "media_count": 38277,
+    "tweet_count": 284442
+   },
+   "username": "NewsHour",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1900375238548086788",
+   "name": "MAGNO NEWS LIVE",
+   "public_metrics": {
+    "followers_count": 2710,
+    "following_count": 278,
+    "like_count": 28,
+    "listed_count": 16,
+    "media_count": 47,
+    "tweet_count": 2278
+   },
+   "username": "magnonewslive",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1420014400744927245",
+   "name": "Off The Press",
+   "public_metrics": {
+    "followers_count": 19016,
+    "following_count": 1930,
+    "like_count": 915,
+    "listed_count": 143,
+    "media_count": 40515,
+    "tweet_count": 120937
+   },
+   "username": "OffThePress1",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "4041824789",
+   "name": "RSBN 🇺🇸",
+   "public_metrics": {
+    "followers_count": 1161089,
+    "following_count": 975,
+    "like_count": 12413,
+    "listed_count": 2980,
+    "media_count": 17344,
+    "tweet_count": 50438
+   },
+   "username": "RSBNetwork",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2002517143246774272",
+   "name": "Sebastian Paolo Tamigi Melgar",
+   "public_metrics": {
+    "followers_count": 50,
+    "following_count": 1206,
+    "like_count": 84999,
+    "listed_count": 1,
+    "media_count": 932,
+    "tweet_count": 35139
+   },
+   "username": "MelgarPaolo96",
    "verified": false,
    "verified_type": "none"
   },
   {
-   "id": "338444460",
-   "name": "Atheist Republic",
+   "id": "61011257",
+   "name": "James Rossi 🇺🇸",
    "public_metrics": {
-    "followers_count": 133712,
-    "following_count": 3547,
-    "like_count": 45193,
-    "listed_count": 733,
-    "media_count": 57242,
-    "tweet_count": 111556
+    "followers_count": 5663,
+    "following_count": 7324,
+    "like_count": 225876,
+    "listed_count": 11,
+    "media_count": 9220,
+    "tweet_count": 297522
    },
-   "username": "AtheistRepublic",
-   "verified": false,
-   "verified_type": "none",
-   "withheld": {
-    "country_codes": [
-     "IN"
-    ]
-   }
-  },
-  {
-   "id": "78452959",
-   "name": "Next News Network",
-   "public_metrics": {
-    "followers_count": 158043,
-    "following_count": 2002,
-    "like_count": 5349,
-    "listed_count": 458,
-    "media_count": 22096,
-    "tweet_count": 45647
-   },
-   "username": "nextnews",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
-   "id": "428718110",
-   "name": "21st Century Wire 🇵🇸",
-   "public_metrics": {
-    "followers_count": 20828,
-    "following_count": 1129,
-    "like_count": 19153,
-    "listed_count": 104,
-    "media_count": 3424,
-    "tweet_count": 24502
-   },
-   "username": "21stCenturyWire",
+   "username": "realjamesrossi",
    "verified": true,
    "verified_type": "blue"
   },
   {
-   "id": "34001374",
-   "name": "Armin Navabi",
+   "id": "796431922939494408",
+   "name": "FLOTUS Report",
    "public_metrics": {
-    "followers_count": 73784,
-    "following_count": 12195,
-    "like_count": 23243,
-    "listed_count": 388,
-    "media_count": 2951,
-    "tweet_count": 14967
+    "followers_count": 198362,
+    "following_count": 635,
+    "like_count": 35159,
+    "listed_count": 291,
+    "media_count": 5955,
+    "tweet_count": 16538
    },
-   "username": "ArminNavabi",
-   "verified": true,
-   "verified_type": "blue",
-   "withheld": {
-    "country_codes": [
-     "IN"
-    ]
-   }
-  },
-  {
-   "id": "16936686",
-   "name": "Patrick Henningsen",
-   "public_metrics": {
-    "followers_count": 218166,
-    "following_count": 4358,
-    "like_count": 93154,
-    "listed_count": 1674,
-    "media_count": 11241,
-    "tweet_count": 163925
-   },
-   "username": "21WIRE",
+   "username": "MELANIAJTRUMP",
    "verified": true,
    "verified_type": "blue"
+  },
+  {
+   "id": "2029725690371903488",
+   "name": "Asao_no_Friend🇯🇵🇺🇸🇬🇧",
+   "public_metrics": {
+    "followers_count": 39,
+    "following_count": 368,
+    "like_count": 254,
+    "listed_count": 0,
+    "media_count": 584,
+    "tweet_count": 10066
+   },
+   "username": "asaonofriend",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1879644163769335808",
+   "name": "The White House",
+   "public_metrics": {
+    "followers_count": 5369252,
+    "following_count": 5,
+    "like_count": 273,
+    "listed_count": 9557,
+    "media_count": 7510,
+    "tweet_count": 20810
+   },
+   "username": "WhiteHouse",
+   "verified": true,
+   "verified_type": "government"
   }
  ]
 }

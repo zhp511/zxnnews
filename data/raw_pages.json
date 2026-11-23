@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-22T17:48:58Z",
+ "fetched_at": "2026-11-23T17:48:36Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -21,6 +21,184 @@
   "verified": false
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-11-23T06:17:16.000Z",
+     "edit_history_tweet_ids": [
+      "2124749101451592166"
+     ],
+     "id": "2124749101451592166",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 33,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "Praying  🙏 tonight",
+     "url": "https://x.com/i/status/2124749101451592166"
+    },
+    {
+     "created_at": "2026-11-23T01:47:07.000Z",
+     "edit_history_tweet_ids": [
+      "2124681117643227497"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 26,
+        "id": "88689348",
+        "start": 13,
+        "username": "CindyColbert"
+       }
+      ],
+      "urls": [
+       {
+        "description": "Cindy Colbert's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1mdVR…",
+        "end": 87,
+        "expanded_url": "https://x.com/i/spaces/1mdVRRkYmyYMyP",
+        "images": [
+         {
+          "height": 630,
+          "url": "https://pbs.twimg.com/news_img/2124636227186118656/aSwMH-98?format=jpg&name=orig",
+          "width": 1200
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2124636227186118656/aSwMH-98?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 64,
+        "status": 200,
+        "title": "Scheduled: Sunday Soul 🌅 Stop In the Name of God. Ch8, Melachah, Eved & Your Dog / X",
+        "unwound_url": "https://x.com/i/spaces/1mdVRRkYmyYMyP",
+        "url": "https://t.co/ZRoUrwqC9Q"
+       }
+      ]
+     },
+     "id": "2124681117643227497",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 39,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "I’m going to @CindyColbert’s upcoming Space. Will you join too? https://t.co/ZRoUrwqC9Q",
+     "url": "https://x.com/i/status/2124681117643227497"
+    },
+    {
+     "created_at": "2026-11-22T20:52:50.000Z",
+     "edit_history_tweet_ids": [
+      "2124607056644894922"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "description": "Song · 1983 · Duration 4:18",
+        "display_url": "music.apple.com/us/album/sharp…",
+        "end": 23,
+        "expanded_url": "https://music.apple.com/us/album/sharp-dressed-man/1728071480?i=1728071582",
+        "images": [
+         {
+          "height": 600,
+          "url": "https://pbs.twimg.com/news_img/2124607061174714368/nd5LKJ7z?format=jpg&name=orig",
+          "width": 600
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2124607061174714368/nd5LKJ7z?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 0,
+        "status": 200,
+        "title": "Sharp Dressed Man by ZZ Top on Apple Music",
+        "unwound_url": "https://music.apple.com/us/album/sharp-dressed-man/1728071480?i=1728071582",
+        "url": "https://t.co/TijFk5uvh5"
+       }
+      ]
+     },
+     "id": "2124607056644894922",
+     "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 163,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+     },
+     "text": "https://t.co/TijFk5uvh5",
+     "url": "https://x.com/i/status/2124607056644894922"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2124584316004913152"
+      ]
+     },
+     "created_at": "2026-11-22T19:22:56.000Z",
+     "edit_history_tweet_ids": [
+      "2124584434607567111"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "description": "ZXN news: stories from @zxnbluehandus on X. Bluehand ZXN and Patriot One Network.",
+        "display_url": "ZXnnews.org",
+        "end": 36,
+        "expanded_url": "https://ZXnnews.org",
+        "start": 13,
+        "status": 200,
+        "title": "ZXN · “we are bluehand” · Patriot One Network",
+        "unwound_url": "https://ZXnnews.org",
+        "url": "https://t.co/zrSP03Zy0Y"
+       },
+       {
+        "display_url": "pic.x.com/wK145byTCJ",
+        "end": 60,
+        "expanded_url": "https://x.com/zxnbluehandus/status/2124584434607567111/video/1",
+        "media_key": "13_2124584316004913152",
+        "start": 37,
+        "url": "https://t.co/wK145byTCJ"
+       }
+      ]
+     },
+     "id": "2124584434607567111",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 235,
+      "like_count": 2,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 2
+     },
+     "text": "The birth of https://t.co/zrSP03Zy0Y https://t.co/wK145byTCJ",
+     "url": "https://x.com/i/status/2124584434607567111"
+    }
+   ],
+   "includes": {
+    "media": [
+     {
+      "height": 1280,
+      "media_key": "13_2124584316004913152",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2124584316004913152/img/aJt0MsT0OBdA64Pt.jpg",
+      "type": "video",
+      "width": 720
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2124749101451592166",
+    "oldest_id": "2124584434607567111",
+    "result_count": 4
+   }
+  },
   {
    "data": [
     {

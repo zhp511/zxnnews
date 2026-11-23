@@ -2,36 +2,43 @@
  "x_failures": 0,
  "push_failures": 0,
  "last_error": null,
- "updated_at": "2026-11-22T17:49:30Z",
+ "updated_at": "2026-11-23T17:48:36Z",
  "last_x_check": {
-  "at": "2026-11-22T17:48:58Z",
-  "new_posts": 1,
+  "at": "2026-11-23T17:48:36Z",
+  "new_posts": 4,
   "new_post_ids": [
-   "2124560154377199980"
+   "2124749101451592166",
+   "2124681117643227497",
+   "2124607056644894922",
+   "2124584434607567111"
   ],
-  "newest_id": "2124560154377199980",
+  "newest_id": "2124749101451592166",
   "published": false,
   "refreshed": [
-   "xlive",
-   "posts"
+   "posts",
+   "trending",
+   "tv",
+   "xlive"
   ],
   "skipped": {
-   "trending": "trending.json younger than 60 minutes",
-   "following": "featured_accounts empty",
-   "tv": "tv.json younger than 3 hours"
+   "following": "featured_accounts empty"
   },
-  "x_reads_this_run": 2,
+  "x_reads_this_run": 4,
   "notes": {
-   "posts": "1 new post newer than 2124503817618104568 (2124560154377199980); featured_top launch story and pinned_top 2114513144307442008 unchanged",
-   "trending": "skipped, file age under 60 minutes",
+   "posts": "4 new posts newer than 2124560154377199980; featured_top launch story and pinned_top 2114513144307442008 unchanged",
+   "trending": "refreshed US politics news (10) and US trends (20); trending.json 8 stories, 15 trends after blocked_terms",
    "following": "skipped, featured_accounts empty",
-   "tv": "skipped, file age under 3 hours",
-   "xlive": "refreshed search fetched_at 2026-11-22T17:48:58Z; 25 posts / 25 users; xlive.json 8 broadcasts",
-   "publish": "pending push"
+   "tv": "refreshed tv.json; 7 channels ok",
+   "xlive": "refreshed search fetched_at 2026-11-23T17:48:36Z; 25 posts / 25 users; xlive.json 8 broadcasts",
+   "publish": "pending"
   }
  },
- "last_publish": null,
- "x_reads_left_today": "980 of 1000 (resets 2026-11-23T00:00Z)",
- "note": "X check succeeded; failure streak 0. Publishing new post and X Live update. Launch top story, WWE pin, and CNAME left intact.",
+ "last_publish": {
+  "sha": "00d4d14631ea6b86756c144a49a459452853b842",
+  "at": "2026-11-22T17:50:00Z",
+  "message": "Refresh site 2026-11-22T17:48Z"
+ },
+ "x_reads_left_today": "987 of 1000 (resets 2026-11-24T00:00Z)",
+ "note": "X check succeeded; failure streak 0. Ready to publish new posts, trending, TV, and X Live.",
  "failure_streak": 0
 }
