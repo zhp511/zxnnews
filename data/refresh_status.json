@@ -1,44 +1,38 @@
 {
- "x_failures": 0,
- "push_failures": 0,
- "last_error": null,
- "updated_at": "2026-11-23T17:48:36Z",
- "last_x_check": {
-  "at": "2026-11-23T17:48:36Z",
-  "new_posts": 4,
-  "new_post_ids": [
-   "2124749101451592166",
-   "2124681117643227497",
-   "2124607056644894922",
-   "2124584434607567111"
-  ],
-  "newest_id": "2124749101451592166",
-  "published": false,
-  "refreshed": [
-   "posts",
-   "trending",
-   "tv",
-   "xlive"
-  ],
-  "skipped": {
-   "following": "featured_accounts empty"
+  "x_failures": 0,
+  "push_failures": 0,
+  "last_error": null,
+  "updated_at": "2026-11-23T23:27:08Z",
+  "last_x_check": {
+    "at": "2026-11-23T23:26:39Z",
+    "new_posts": 2,
+    "new_post_ids": [
+      "2125002012341223707",
+      "2124977020429824448"
+    ],
+    "newest_id": "2125002012341223707",
+    "published": false,
+    "refreshed": [
+      "trending",
+      "tv",
+      "xlive",
+      "posts"
+    ],
+    "skipped": {
+      "following": "featured_accounts empty"
+    },
+    "x_reads_this_run": 4,
+    "notes": {
+      "posts": "2 new posts newer than 2124749101451592166; featured_top launch story, pinned_top 2114513144307442008, and christmas_theme left unchanged; live.json live=True for 2125002012341223707 (broadcast 2BlaodvorRAbbL, until 2026-11-24T02:02:15Z)",
+      "trending": "refreshed US politics news + US trends; built_at 2026-11-23T23:26:45Z",
+      "following": "skipped, featured_accounts empty",
+      "tv": "refreshed, checked_at 2026-11-23T23:26:19Z, 7 of 8 channels live",
+      "xlive": "refreshed search fetched_at 2026-11-23T23:26:39Z; 25 posts / 25 users; xlive.json 8 broadcasts",
+      "publish": "pending push"
+    }
   },
-  "x_reads_this_run": 4,
-  "notes": {
-   "posts": "4 new posts newer than 2124560154377199980; featured_top launch story and pinned_top 2114513144307442008 unchanged",
-   "trending": "refreshed US politics news (10) and US trends (20); trending.json 8 stories, 15 trends after blocked_terms",
-   "following": "skipped, featured_accounts empty",
-   "tv": "refreshed tv.json; 7 channels ok",
-   "xlive": "refreshed search fetched_at 2026-11-23T17:48:36Z; 25 posts / 25 users; xlive.json 8 broadcasts",
-   "publish": "pending"
-  }
- },
- "last_publish": {
-  "sha": "00d4d14631ea6b86756c144a49a459452853b842",
-  "at": "2026-11-22T17:50:00Z",
-  "message": "Refresh site 2026-11-22T17:48Z"
- },
- "x_reads_left_today": "987 of 1000 (resets 2026-11-24T00:00Z)",
- "note": "X check succeeded; failure streak 0. Ready to publish new posts, trending, TV, and X Live.",
- "failure_streak": 0
+  "last_publish": null,
+  "x_reads_left_today": "983 of 1000 (resets 2026-11-24T00:00Z)",
+  "note": "X check succeeded; failure streak 0. Publishing full refresh. Launch top story, WWE pin, Christmas theme, and CNAME left intact.",
+  "failure_streak": 0
 }

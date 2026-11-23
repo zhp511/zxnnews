@@ -1,5 +1,13 @@
 {
- "live": false,
- "checked_at": "2026-11-23T17:49:13.405526Z",
- "detection": "A post linking to an X broadcast counts as live for 3 h after posting (X's API doesn't report when a broadcast ends)."
+ "live": true,
+ "checked_at": "2026-11-23T23:26:45.498434Z",
+ "detection": "A post linking to an X broadcast counts as live for 3 h after posting (X's API doesn't report when a broadcast ends).",
+ "post_id": "2125002012341223707",
+ "post_url": "https://x.com/zxnbluehandus/status/2125002012341223707",
+ "broadcast_id": "2BlaodvorRAbbL",
+ "broadcast_url": "https://x.com/i/broadcasts/2BlaodvorRAbbL",
+ "title": "#ZXN #xlive #wearethepeople #bluehand #PON #tellmeyourstory #wweraw",
+ "post_text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory  #wweraw",
+ "started_at": "2026-11-23T23:02:15.000Z",
+ "assumed_live_until": "2026-11-24T02:02:15Z"
 }

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T17:48:36Z",
+ "fetched_at": "2026-11-23T23:26:39Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -21,6 +21,49 @@
   "verified": false
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-11-23T23:02:15.000Z",
+     "edit_history_tweet_ids": [
+      "2125002012341223707"
+     ],
+     "id": "2125002012341223707",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 110,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "#ZXN #xlive #wearethepeople #bluehand  #PON #tellmeyourstory  #wweraw https://t.co/9jSDBXqMM7",
+     "url": "https://x.com/i/status/2125002012341223707"
+    },
+    {
+     "created_at": "2026-11-23T21:22:56.000Z",
+     "edit_history_tweet_ids": [
+      "2124977020429824448"
+     ],
+     "id": "2124977020429824448",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 57,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "I’m going to @stockmom’s upcoming Space. Will you join too? https://t.co/6nwq6i4Tju",
+     "url": "https://x.com/i/status/2124977020429824448"
+    }
+   ],
+   "meta": {
+    "newest_id": "2125002012341223707",
+    "oldest_id": "2124977020429824448",
+    "result_count": 2
+   }
+  },
   {
    "data": [
     {
