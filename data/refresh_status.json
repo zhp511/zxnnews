@@ -2,37 +2,39 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-23T23:27:08Z",
+  "updated_at": "2026-11-24T18:01:00Z",
   "last_x_check": {
-    "at": "2026-11-23T23:26:39Z",
-    "new_posts": 2,
+    "at": "2026-11-24T18:01:00Z",
+    "new_posts": 6,
     "new_post_ids": [
-      "2125002012341223707",
-      "2124977020429824448"
+      "2125288120916513228",
+      "2125133720684298345",
+      "2125071727197597904",
+      "2125068952174813389",
+      "2125059792859439137",
+      "2125009734260719762"
     ],
-    "newest_id": "2125002012341223707",
+    "newest_id": "2125288120916513228",
     "published": false,
     "refreshed": [
+      "posts",
       "trending",
       "tv",
-      "xlive",
-      "posts"
+      "xlive"
     ],
     "skipped": {
       "following": "featured_accounts empty"
     },
-    "x_reads_this_run": 4,
     "notes": {
-      "posts": "2 new posts newer than 2124749101451592166; featured_top launch story, pinned_top 2114513144307442008, and christmas_theme left unchanged; live.json live=True for 2125002012341223707 (broadcast 2BlaodvorRAbbL, until 2026-11-24T02:02:15Z)",
-      "trending": "refreshed US politics news + US trends; built_at 2026-11-23T23:26:45Z",
+      "posts": "6 new post(s) newer than 2125002012341223707",
+      "trending": "refreshed US politics news + US trends",
       "following": "skipped, featured_accounts empty",
-      "tv": "refreshed, checked_at 2026-11-23T23:26:19Z, 7 of 8 channels live",
-      "xlive": "refreshed search fetched_at 2026-11-23T23:26:39Z; 25 posts / 25 users; xlive.json 8 broadcasts",
-      "publish": "pending push"
+      "tv": "refreshed",
+      "xlive": "refreshed search fetched_at 2026-11-24T18:01:00Z",
+      "update": "update.py ok"
     }
   },
   "last_publish": null,
-  "x_reads_left_today": "983 of 1000 (resets 2026-11-24T00:00Z)",
-  "note": "X check succeeded; failure streak 0. Publishing full refresh. Launch top story, WWE pin, Christmas theme, and CNAME left intact.",
+  "note": "X check succeeded",
   "failure_streak": 0
 }

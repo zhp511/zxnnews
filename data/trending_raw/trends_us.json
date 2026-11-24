@@ -1,105 +1,109 @@
 {
- "fetched_at": "2026-11-23T23:26:39Z",
- "tool": "x.get_trends_by_woeid",
- "args": {
-  "woeid": 23424977
- },
- "data": [
-  {
-   "trend_name": "Nvidia",
-   "tweet_count": 621572,
-   "url": "https://x.com/search?q=Nvidia"
+  "fetched_at": "2026-11-24T18:01:00Z",
+  "tool": "x.get_trends_by_woeid",
+  "args": {
+    "woeid": 23424977
   },
-  {
-   "trend_name": "Jensen",
-   "tweet_count": 765801,
-   "url": "https://x.com/search?q=Jensen"
-  },
-  {
-   "trend_name": "WALL-API-1.0",
-   "tweet_count": 2362,
-   "url": "https://x.com/search?q=WALL-API-1.0"
-  },
-  {
-   "trend_name": "Swalwell",
-   "tweet_count": 14144,
-   "url": "https://x.com/search?q=Swalwell"
-  },
-  {
-   "trend_name": "Jimmy Gomez",
-   "tweet_count": 6175,
-   "url": "https://x.com/search?q=Jimmy%20Gomez"
-  },
-  {
-   "trend_name": "X Square Robot",
-   "url": "https://x.com/search?q=X%20Square%20Robot"
-  },
-  {
-   "trend_name": "#LaCasaDeAlofoke3",
-   "tweet_count": 1980,
-   "url": "https://x.com/search?q=%23LaCasaDeAlofoke3"
-  },
-  {
-   "trend_name": "Uggs",
-   "tweet_count": 3328,
-   "url": "https://x.com/search?q=Uggs"
-  },
-  {
-   "trend_name": "Cyclops",
-   "tweet_count": 71691,
-   "url": "https://x.com/search?q=Cyclops"
-  },
-  {
-   "trend_name": "Micah Parsons",
-   "tweet_count": 2478,
-   "url": "https://x.com/search?q=Micah%20Parsons"
-  },
-  {
-   "trend_name": "X-Men",
-   "tweet_count": 162731,
-   "url": "https://x.com/search?q=X-Men"
-  },
-  {
-   "trend_name": "WALL-OSS-1.0",
-   "tweet_count": 2357,
-   "url": "https://x.com/search?q=WALL-OSS-1.0"
-  },
-  {
-   "trend_name": "NVDA",
-   "tweet_count": 178829,
-   "url": "https://x.com/search?q=NVDA"
-  },
-  {
-   "trend_name": "Aiyuk",
-   "tweet_count": 5918,
-   "url": "https://x.com/search?q=Aiyuk"
-  },
-  {
-   "trend_name": "#WooSoxWishList",
-   "tweet_count": 11504,
-   "url": "https://x.com/search?q=%23WooSoxWishList"
-  },
-  {
-   "trend_name": "Bill Clinton",
-   "tweet_count": 3348,
-   "url": "https://x.com/search?q=Bill%20Clinton"
-  },
-  {
-   "trend_name": "Pearl Jam",
-   "url": "https://x.com/search?q=Pearl%20Jam"
-  },
-  {
-   "trend_name": "eBPF",
-   "url": "https://x.com/search?q=eBPF"
-  },
-  {
-   "trend_name": "CJ Rosser",
-   "url": "https://x.com/search?q=CJ%20Rosser"
-  },
-  {
-   "trend_name": "VADA",
-   "tweet_count": 4801,
-   "url": "https://x.com/search?q=VADA"
-  }
- ]
+  "data": [
+    {
+      "trend_name": "Cubs",
+      "tweet_count": 24052,
+      "url": "https://x.com/search?q=Cubs"
+    },
+    {
+      "trend_name": "Trev Alberts",
+      "tweet_count": 3171,
+      "url": "https://x.com/search?q=Trev%20Alberts"
+    },
+    {
+      "trend_name": "Peralta",
+      "tweet_count": 14370,
+      "url": "https://x.com/search?q=Peralta"
+    },
+    {
+      "trend_name": "Sato",
+      "tweet_count": 34195,
+      "url": "https://x.com/search?q=Sato"
+    },
+    {
+      "trend_name": "Tidal",
+      "tweet_count": 13238,
+      "url": "https://x.com/search?q=Tidal"
+    },
+    {
+      "trend_name": "Happy Thanksgiving",
+      "tweet_count": 19698,
+      "url": "https://x.com/search?q=Happy%20Thanksgiving"
+    },
+    {
+      "trend_name": "Seiya",
+      "tweet_count": 4681,
+      "url": "https://x.com/search?q=Seiya"
+    },
+    {
+      "trend_name": "Code Red",
+      "tweet_count": 6480,
+      "url": "https://x.com/search?q=Code%20Red"
+    },
+    {
+      "trend_name": "Phillies",
+      "tweet_count": 3653,
+      "url": "https://x.com/search?q=Phillies"
+    },
+    {
+      "trend_name": "Orioles",
+      "tweet_count": 5950,
+      "url": "https://x.com/search?q=Orioles"
+    },
+    {
+      "trend_name": "Pope Francis",
+      "tweet_count": 8183,
+      "url": "https://x.com/search?q=Pope%20Francis"
+    },
+    {
+      "trend_name": "Bubic",
+      "tweet_count": 2250,
+      "url": "https://x.com/search?q=Bubic"
+    },
+    {
+      "trend_name": "Ansem",
+      "tweet_count": 22050,
+      "url": "https://x.com/search?q=Ansem"
+    },
+    {
+      "trend_name": "#gachiakuta176",
+      "tweet_count": 1604,
+      "url": "https://x.com/search?q=%23gachiakuta176"
+    },
+    {
+      "trend_name": "Rudy Giuliani",
+      "tweet_count": 9763,
+      "url": "https://x.com/search?q=Rudy%20Giuliani"
+    },
+    {
+      "trend_name": "Donte",
+      "tweet_count": 3118,
+      "url": "https://x.com/search?q=Donte"
+    },
+    {
+      "trend_name": "University of Michigan",
+      "tweet_count": 1083,
+      "url": "https://x.com/search?q=University%20of%20Michigan"
+    },
+    {
+      "trend_name": "#stayselcaday",
+      "tweet_count": 5824,
+      "url": "https://x.com/search?q=%23stayselcaday"
+    },
+    {
+      "trend_name": "Todd Blanche",
+      "tweet_count": 9966,
+      "url": "https://x.com/search?q=Todd%20Blanche"
+    },
+    {
+      "trend_name": "Taco Tuesday",
+      "tweet_count": 17619,
+      "url": "https://x.com/search?q=Taco%20Tuesday"
+    }
+  ]
 }

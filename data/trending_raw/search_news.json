@@ -1,678 +1,682 @@
 {
- "fetched_at": "2026-11-23T23:26:39Z",
- "tool": "x.search_news",
- "args": {
-  "query": "US politics",
-  "max_results": 10,
-  "max_age_hours": 24,
-  "news.fields": [
-   "name",
-   "summary",
-   "hook",
-   "category",
-   "updated_at",
-   "contexts",
-   "cluster_posts_results"
+  "fetched_at": "2026-11-24T18:01:00Z",
+  "tool": "x.search_news",
+  "args": {
+    "query": "US politics",
+    "max_results": 10,
+    "max_age_hours": 24,
+    "news.fields": [
+      "name",
+      "summary",
+      "hook",
+      "category",
+      "updated_at",
+      "contexts",
+      "cluster_posts_results"
+    ]
+  },
+  "data": [
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2124582412667564354"
+        },
+        {
+          "post_id": "2124563596130840714"
+        },
+        {
+          "post_id": "2124573798272028706"
+        },
+        {
+          "post_id": "2124576418910630042"
+        },
+        {
+          "post_id": "2124555029885460532"
+        },
+        {
+          "post_id": "2124582412667564354"
+        },
+        {
+          "post_id": "2124576418910630042"
+        },
+        {
+          "post_id": "2124655022915142009"
+        },
+        {
+          "post_id": "2124563596130840714"
+        },
+        {
+          "post_id": "2124555029885460532"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [
+            "2024 U.S. House Election"
+          ],
+          "organizations": [
+            "Democratic Party",
+            "U.S. House of Representatives"
+          ],
+          "people": [],
+          "places": [
+            "United States"
+          ],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Chuck Hubbard, a former journalist, edged out 11-term Republican Rep. Virginia Foxx by just 330 votes after a recount, flipping North Carolina's 5th District and handing Democrats their 258th seat.",
+      "id": "2124292548399128594",
+      "name": "Democrats Secure 258 House Seats in Largest Majority Since 1992",
+      "summary": "Democrats flipped multiple seats in North Carolina and gained a net of around 44 House seats overall following the November 3 midterm elections, their strongest midterm performance in decades. House Democratic Leader Hakeem Jeffries called it a 'BOOM' moment, predicting dramatic change with the new majority that convenes in January. President Trump criticized the results as strange, blaming Democratic policies for a more than $6 trillion stock market drop since Election Day, while a circulating graphic shows the party's net favorability at -6 points.",
+      "updated_at": "2026-11-23T18:49:43.000Z",
+      "url": "https://x.com/i/trending/2124292548399128594"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2125229367475261826"
+        },
+        {
+          "post_id": "2125263299470147598"
+        },
+        {
+          "post_id": "2124957771837645287"
+        },
+        {
+          "post_id": "2125196274274345043"
+        },
+        {
+          "post_id": "2125185140544463069"
+        },
+        {
+          "post_id": "2125229367475261826"
+        },
+        {
+          "post_id": "2125174714599399772"
+        },
+        {
+          "post_id": "2125185140544463069"
+        },
+        {
+          "post_id": "2125263299470147598"
+        },
+        {
+          "post_id": "2125196274274345043"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [
+            "Thanksgiving Break"
+          ],
+          "organizations": [
+            "United States Senate"
+          ],
+          "people": [
+            "Donald Trump",
+            "John Thune"
+          ],
+          "places": [
+            "United States Senate"
+          ],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "With just weeks left in their majority, Senate Republicans adjourned for Thanksgiving, leaving nominations and key bills untouched—prompting fury from online voices who feel betrayed.",
+      "id": "2125232621982740850",
+      "name": "Conservatives Slam Senate Republicans for Early Adjournment",
+      "summary": "The U.S. Senate wrapped up this week with no major votes, scheduling only pro forma sessions on November 24 and 27 before resuming on November 30, as Democrats prepare to take control with 56 seats in January. Commentators like Gunther Eagleman accused leaders of squandering the lame-duck period, calling for Majority Leader John Thune's resignation over unfinished business such as Trump nominees and election security measures. Frustration boiled over missed chances to ban ballot harvesting, implement voter ID, and advance the SAVE America Act, with some labeling Republicans frauds and pushing for primary challenges.",
+      "updated_at": "2026-11-24T16:55:25.000Z",
+      "url": "https://x.com/i/trending/2125232621982740850"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2124818494826905695"
+        },
+        {
+          "post_id": "2124849674398081059"
+        },
+        {
+          "post_id": "2124845308513509855"
+        },
+        {
+          "post_id": "2124847380722065719"
+        },
+        {
+          "post_id": "2124818494826905695"
+        },
+        {
+          "post_id": "2124849674398081059"
+        },
+        {
+          "post_id": "2124845308513509855"
+        },
+        {
+          "post_id": "2124853527055065222"
+        },
+        {
+          "post_id": "2124847380722065719"
+        },
+        {
+          "post_id": "2124833743240135160"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [],
+          "organizations": [],
+          "people": [],
+          "places": [
+            "Georgia",
+            "Metro Atlanta",
+            "Georgia state Capitol"
+          ],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Keisha Lance Bottoms made history as the first Black woman elected governor, capping a Democratic sweep that ended decades of Republican dominance in the state.",
+      "id": "2124882171194450076",
+      "name": "Democrats Sweep Georgia Elections as Metro Atlanta Reshapes Power",
+      "summary": "On November 3, 2026, Democrats won every statewide office, including the governorship, and flipped the state House for the first time in over 20 years, while Republicans held a slim Senate majority. The shift stems from population growth and high turnout in metro Atlanta, which now drives much of the state's voter and lawmaker base. Reactions vary, with some rural voices worrying about urban influence spreading statewide, while others see it as fair representation matching where people live. The new Legislature convenes in January, potentially reshaping priorities on agriculture, education, and infrastructure.",
+      "updated_at": "2026-11-23T18:10:12.000Z",
+      "url": "https://x.com/i/trending/2124882171194450076"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2124944016529903948"
+        },
+        {
+          "post_id": "2125020254644621413"
+        },
+        {
+          "post_id": "2125070118875025573"
+        },
+        {
+          "post_id": "2125071754225655960"
+        },
+        {
+          "post_id": "2125020254644621413"
+        },
+        {
+          "post_id": "2125070118875025573"
+        },
+        {
+          "post_id": "2125071754225655960"
+        },
+        {
+          "post_id": "2125055118982737939"
+        },
+        {
+          "post_id": "2125053828089217188"
+        },
+        {
+          "post_id": "2125069583480659982"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [
+            "recent election"
+          ],
+          "organizations": [],
+          "people": [
+            "John Kasich",
+            "Adam Carlson"
+          ],
+          "places": [
+            "Ohio"
+          ],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Former Ohio Gov. John Kasich took to social media with a direct message to Democrats fresh off their big 2026 midterm wins: this isn't a blank check for bold progressive moves.",
+      "id": "2125129771780894945",
+      "name": "John Kasich Warns Democrats Against Progressive Overreach After Midterm Sweep",
+      "summary": "Kasich cautioned that voters were driven by frustration with the economy, war, and inflation, not a mandate for higher taxes or new spending programs. Democrats secured a commanding victory, taking 258 House seats—their most since 1992—and a 56-44 Senate edge after flipping key Republican seats, leading the popular vote by 14 points. Many pushed back hard, mocking the advice with parodies and calling out inconsistent standards for labeling election results as mandates.",
+      "updated_at": "2026-11-24T07:34:48.000Z",
+      "url": "https://x.com/i/trending/2125129771780894945"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2124652768732549508"
+        },
+        {
+          "post_id": "2124893366076989917"
+        },
+        {
+          "post_id": "2124874418262356214"
+        },
+        {
+          "post_id": "2124832333438337319"
+        },
+        {
+          "post_id": "2124838684490944813"
+        },
+        {
+          "post_id": "2124874418262356214"
+        },
+        {
+          "post_id": "2124896937019166919"
+        },
+        {
+          "post_id": "2124827590016053428"
+        },
+        {
+          "post_id": "2124843486570524867"
+        },
+        {
+          "post_id": "2124902290871963876"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [],
+          "organizations": [
+            "House Judiciary Committee"
+          ],
+          "people": [
+            "Jim Jordan"
+          ],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "A simple table lays out 531 congressional hearings on major scandals—and a stark zero arrests. It's hitting a nerve, with many calling the oversight empty theater.",
+      "id": "2124850582527557647",
+      "name": "Chart of 531 Hearings and Zero Arrests Sparks Accountability Frustration",
+      "summary": "The chart tallies hearings on issues like the Russia Hoax (27), Covid (82), J6 Committee (106), Epstein Files (78), and Biden Family Corruption (39), totaling 531 with no arrests listed. People are venting disappointment, questioning leaders like Jim Jordan, Attorney General Todd Blanche, and FBI Director Kash Patel for the lack of follow-through. Hearings gather testimony but don't make arrests—that's the DOJ and FBI's job—yet the pattern fuels cynicism about Washington accountability. Recent Epstein scrutiny, including a House Oversight report on federal mishandling, shows ongoing work amid the broader distrust.",
+      "updated_at": "2026-11-23T16:04:28.000Z",
+      "url": "https://x.com/i/trending/2124850582527557647"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2124852119979090150"
+        },
+        {
+          "post_id": "2124562188182696339"
+        },
+        {
+          "post_id": "2124698345407176778"
+        },
+        {
+          "post_id": "2124715577168019886"
+        },
+        {
+          "post_id": "2124835496249507841"
+        },
+        {
+          "post_id": "2124852119979090150"
+        },
+        {
+          "post_id": "2125227644694261905"
+        },
+        {
+          "post_id": "2124698345407176778"
+        },
+        {
+          "post_id": "2124702569515655539"
+        },
+        {
+          "post_id": "2124715577168019886"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [
+            "North Carolina House seat election"
+          ],
+          "organizations": [
+            "Democrats"
+          ],
+          "people": [
+            "Hakeem Jeffries",
+            "Mike Johnson"
+          ],
+          "places": [
+            "North Carolina"
+          ],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "News",
+          "Elections"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "Hakeem Jeffries secured 251 votes in a closed-door caucus on November 18, positioning him to become the first Black Speaker when the new Congress starts in January. Yet online criticism poured in from both Democrats and conservatives alike.",
+      "id": "2124688874441961536",
+      "name": "Hakeem Jeffries Faces Backlash Ahead of Historic Speaker Role",
+      "summary": "Democrats nominated Jeffries overwhelmingly for Speaker, following their midterm win that gave them House control, though the party's favorability rating dipped to -6 points—the first negative after such a victory in modern times. Critics from the left questioned his Israel stances and AIPAC ties, while conservatives dismissed him outright; he has called for U.S. policy shifts like sanctions on West Bank settlers and more Gaza aid, alongside family cost relief through Medicare expansions. Supporters point to his caucus support and affordability focus amid tensions with a Republican White House.",
+      "updated_at": "2026-11-24T15:40:04.000Z",
+      "url": "https://x.com/i/trending/2124688874441961536"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2124535469970948307"
+        },
+        {
+          "post_id": "2124943981863690458"
+        },
+        {
+          "post_id": "2124653897474359395"
+        },
+        {
+          "post_id": "2124584053772820723"
+        },
+        {
+          "post_id": "2124943981863690458"
+        },
+        {
+          "post_id": "2124653897474359395"
+        },
+        {
+          "post_id": "2124652721491828904"
+        },
+        {
+          "post_id": "2124672735800684983"
+        },
+        {
+          "post_id": "2124963833488048405"
+        },
+        {
+          "post_id": "2124715232069140646"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [],
+          "organizations": [
+            "U.S. Senate"
+          ],
+          "people": [
+            "John Thune",
+            "President Trump"
+          ],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "A dramatic image of an ancient Roman orator in a grand hall captures users' frustration with today's U.S. Senate, captioned to warn of self-destruction through corruption.",
+      "id": "2124721492915056641",
+      "name": "Roman Senate Images Highlight U.S. Dysfunction Parallels",
+      "summary": "People are sharing AI-generated scenes of late Roman senators debating amid bribery and elite rivalries, drawing lines to what they see as modern U.S. Senate gridlock from top-down leadership, oversized committees, and self-interest over state needs. Historians note how the Roman Senate's inflexibility and failure to reform fueled civil wars and the Republic's fall to empire, themes echoed in calls to tweak the filibuster or repeal the 17th Amendment. While some defend the U.S. system's constitutional checks, the visuals amplify pushes for term limits and structural changes as a new Senate class arrives.",
+      "updated_at": "2026-11-23T20:35:04.000Z",
+      "url": "https://x.com/i/trending/2124721492915056641"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2125262020446421500"
+        },
+        {
+          "post_id": "2125265106875597020"
+        },
+        {
+          "post_id": "2125269460257014198"
+        },
+        {
+          "post_id": "2125269851522613753"
+        },
+        {
+          "post_id": "2125262020446421500"
+        },
+        {
+          "post_id": "2125269460257014198"
+        },
+        {
+          "post_id": "2125265106875597020"
+        },
+        {
+          "post_id": "2125269851522613753"
+        },
+        {
+          "post_id": "2125280705550713027"
+        },
+        {
+          "post_id": "2125273230563037386"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [],
+          "organizations": [
+            "Trump administration"
+          ],
+          "people": [
+            "Kash Patel",
+            "Donald Trump"
+          ],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "FBI Director Kash Patel aimed to sound tough on cyber scams, declaring the Trump administration on 'total offense and defense.' The football mashup left online crowds chuckling in confusion.",
+      "id": "2125282098969706793",
+      "name": "FBI Director Kash Patel Mixes Up Football Terms in Cyber Scams Talk",
+      "summary": "At a Department of Justice press conference, Patel described the administration's cyber scam fight as blending offense and defense, a phrasing that blended two opposing sports concepts into one awkward line. Journalist Aaron Rupar shared the clip, prompting reactions like 'How do you screw up the most basic sports metaphor?' from Hemant Mehta and disbelief from others who called it nonsensical or a 'Clown Show.' While supporters saw it as shorthand for a comprehensive strategy involving arrests and asset recoveries, critics mocked the unclear wording amid the bureau's ongoing cybercrime efforts and senior staff changes.",
+      "updated_at": "2026-11-24T17:41:56.000Z",
+      "url": "https://x.com/i/trending/2125282098969706793"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2124950714640220633"
+        },
+        {
+          "post_id": "2124975343631319090"
+        },
+        {
+          "post_id": "2124963193781194855"
+        },
+        {
+          "post_id": "2124966925704761546"
+        },
+        {
+          "post_id": "2124976156978135146"
+        },
+        {
+          "post_id": "2124950714640220633"
+        },
+        {
+          "post_id": "2124975343631319090"
+        },
+        {
+          "post_id": "2124963193781194855"
+        },
+        {
+          "post_id": "2124980971133137284"
+        },
+        {
+          "post_id": "2124986333982855536"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [
+            "2016 Republican Primary"
+          ],
+          "organizations": [],
+          "people": [
+            "Donald Trump",
+            "McKay Coppins"
+          ],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "McKay Coppins reflected on Republican primary voters who backed a candidate they saw as a tough China hawk, anti-war leader, and unbribable billionaire.",
+      "id": "2125035314590687554",
+      "name": "2016 Trump Voters' Campaign Promises Revisited",
+      "summary": "Coppins' post prompted replies noting the irony, like one user declaring no more Republican complaints about China. Others recalled Trump's 2016 involvement in Trump Tower Moscow talks while praising Putin and pushing to lift sanctions, as confirmed by Michael Cohen's 2018 guilty plea for lying to Congress. Some sympathized with early supporters' dashed hopes, while others said warnings were evident from the beginning, fueling ongoing foreign policy debates.",
+      "updated_at": "2026-11-24T01:22:02.000Z",
+      "url": "https://x.com/i/trending/2125035314590687554"
+    },
+    {
+      "category": "News",
+      "cluster_posts_results": [
+        {
+          "post_id": "2124313940498772087"
+        },
+        {
+          "post_id": "2124519707973722283"
+        },
+        {
+          "post_id": "2124870040864321543"
+        },
+        {
+          "post_id": "2124529382949842949"
+        },
+        {
+          "post_id": "2124870040864321543"
+        },
+        {
+          "post_id": "2124519707973722283"
+        },
+        {
+          "post_id": "2124529382949842949"
+        },
+        {
+          "post_id": "2124313940498772087"
+        },
+        {
+          "post_id": "2124546377300763123"
+        },
+        {
+          "post_id": "2124885678815105038"
+        }
+      ],
+      "contexts": {
+        "entities": {
+          "events": [],
+          "organizations": [
+            "GOP"
+          ],
+          "people": [
+            "Steve Cortes",
+            "Mark Levin",
+            "Netanyahu"
+          ],
+          "places": [],
+          "products": []
+        },
+        "finance": {
+          "tickers": []
+        },
+        "sports": {
+          "teams": []
+        },
+        "topics": [
+          "Politics"
+        ]
+      },
+      "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
+      "hook": "After Democrats took the House and Senate in the 2026 midterms, Mark Levin urged young Americans to pull themselves up by their bootstraps on his Fox News show.",
+      "id": "2124365555100487917",
+      "name": "GOP Debates Self-Reliance Message After 2026 Midterm Losses",
+      "summary": "Levin argued against portraying young people as victims needing government programs, stressing family involvement, sacrifices like taking unwanted jobs or moving temporarily, and personal grit that pays off. Critics like former Trump advisor Steve Cortes called it condescending and out of touch, while new GOP Congressman Jace Yarbrough and Florida council member Chandler Langevin pointed to real barriers like mass immigration, welfare issues, soaring home prices, and grocery inflation—milk up from $2.89 to $5.99 over two decades. Supporters defend self-reliance as core to conservative values, but detractors warn ignoring structural challenges risks losing young voters ahead of 2028.",
+      "updated_at": "2026-11-23T21:57:26.000Z",
+      "url": "https://x.com/i/trending/2124365555100487917"
+    }
   ]
- },
- "data": [
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2124582412667564354"
-    },
-    {
-     "post_id": "2124563596130840714"
-    },
-    {
-     "post_id": "2124573798272028706"
-    },
-    {
-     "post_id": "2124576418910630042"
-    },
-    {
-     "post_id": "2124555029885460532"
-    },
-    {
-     "post_id": "2124582412667564354"
-    },
-    {
-     "post_id": "2124576418910630042"
-    },
-    {
-     "post_id": "2124655022915142009"
-    },
-    {
-     "post_id": "2124563596130840714"
-    },
-    {
-     "post_id": "2124555029885460532"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "2024 U.S. House Election"
-     ],
-     "organizations": [
-      "Democratic Party",
-      "U.S. House of Representatives"
-     ],
-     "people": [],
-     "places": [
-      "United States"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Chuck Hubbard, a former journalist, edged out 11-term Republican Rep. Virginia Foxx by just 330 votes after a recount, flipping North Carolina's 5th District and handing Democrats their 258th seat.",
-   "id": "2124292548399128594",
-   "name": "Democrats Secure 258 House Seats in Largest Majority Since 1992",
-   "summary": "Democrats flipped multiple seats in North Carolina and gained a net of around 44 House seats overall following the November 3 midterm elections, their strongest midterm performance in decades. House Democratic Leader Hakeem Jeffries called it a 'BOOM' moment, predicting dramatic change with the new majority that convenes in January. President Trump criticized the results as strange, blaming Democratic policies for a more than $6 trillion stock market drop since Election Day, while a circulating graphic shows the party's net favorability at -6 points.",
-   "updated_at": "2026-11-23T18:49:43.000Z",
-   "url": "https://x.com/i/trending/2124292548399128594"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2124674912023675353"
-    },
-    {
-     "post_id": "2124686021069766725"
-    },
-    {
-     "post_id": "2124701032894628106"
-    },
-    {
-     "post_id": "2124691603029999707"
-    },
-    {
-     "post_id": "2124666048121327904"
-    },
-    {
-     "post_id": "2124708567311933658"
-    },
-    {
-     "post_id": "2124706787387445686"
-    },
-    {
-     "post_id": "2124695785489170894"
-    },
-    {
-     "post_id": "2124719460288536686"
-    },
-    {
-     "post_id": "2124693197930795336"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Republican Party",
-      "Democratic Party"
-     ],
-     "people": [
-      "Donald Trump"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Democrats claimed a strong win in the 2026 midterms, taking the Senate 56-44 and House 258-173. That result quickly led to heated online talks about how racial and ethnic groups vote.",
-   "id": "2124767576953663866",
-   "name": "Democrats Flip Senate and House in 2026 Midterms, Sparking Voting Pattern Debates",
-   "summary": "Hypothetical maps showed every state blue if only Black voters participated, based on breakdowns of the electorate: 73% White, 9% Black, 10% Hispanic or Latino, 4% Asian, and 5% other. Conservative voices like Megan Basham argued high immigration from Hispanic communities has made the country more Democratic overall, despite past hopes for a conservative shift. Critics called these views racist, while Pew surveys confirmed wide Democratic leans among non-White groups, though some noted GOP gains in 2024 and individual variations within demographics.",
-   "updated_at": "2026-11-23T07:35:35.000Z",
-   "url": "https://x.com/i/trending/2124767576953663866"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2124818494826905695"
-    },
-    {
-     "post_id": "2124849674398081059"
-    },
-    {
-     "post_id": "2124845308513509855"
-    },
-    {
-     "post_id": "2124847380722065719"
-    },
-    {
-     "post_id": "2124818494826905695"
-    },
-    {
-     "post_id": "2124849674398081059"
-    },
-    {
-     "post_id": "2124845308513509855"
-    },
-    {
-     "post_id": "2124853527055065222"
-    },
-    {
-     "post_id": "2124847380722065719"
-    },
-    {
-     "post_id": "2124833743240135160"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [],
-     "people": [],
-     "places": [
-      "Georgia",
-      "Metro Atlanta",
-      "Georgia state Capitol"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Keisha Lance Bottoms made history as the first Black woman elected governor, capping a Democratic sweep that ended decades of Republican dominance in the state.",
-   "id": "2124882171194450076",
-   "name": "Democrats Sweep Georgia Elections as Metro Atlanta Reshapes Power",
-   "summary": "On November 3, 2026, Democrats won every statewide office, including the governorship, and flipped the state House for the first time in over 20 years, while Republicans held a slim Senate majority. The shift stems from population growth and high turnout in metro Atlanta, which now drives much of the state's voter and lawmaker base. Reactions vary, with some rural voices worrying about urban influence spreading statewide, while others see it as fair representation matching where people live. The new Legislature convenes in January, potentially reshaping priorities on agriculture, education, and infrastructure.",
-   "updated_at": "2026-11-23T18:10:12.000Z",
-   "url": "https://x.com/i/trending/2124882171194450076"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2124652768732549508"
-    },
-    {
-     "post_id": "2124893366076989917"
-    },
-    {
-     "post_id": "2124874418262356214"
-    },
-    {
-     "post_id": "2124832333438337319"
-    },
-    {
-     "post_id": "2124838684490944813"
-    },
-    {
-     "post_id": "2124874418262356214"
-    },
-    {
-     "post_id": "2124896937019166919"
-    },
-    {
-     "post_id": "2124827590016053428"
-    },
-    {
-     "post_id": "2124843486570524867"
-    },
-    {
-     "post_id": "2124902290871963876"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "House Judiciary Committee"
-     ],
-     "people": [
-      "Jim Jordan"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A simple table lays out 531 congressional hearings on major scandals—and a stark zero arrests. It's hitting a nerve, with many calling the oversight empty theater.",
-   "id": "2124850582527557647",
-   "name": "Chart of 531 Hearings and Zero Arrests Sparks Accountability Frustration",
-   "summary": "The chart tallies hearings on issues like the Russia Hoax (27), Covid (82), J6 Committee (106), Epstein Files (78), and Biden Family Corruption (39), totaling 531 with no arrests listed. People are venting disappointment, questioning leaders like Jim Jordan, Attorney General Todd Blanche, and FBI Director Kash Patel for the lack of follow-through. Hearings gather testimony but don't make arrests—that's the DOJ and FBI's job—yet the pattern fuels cynicism about Washington accountability. Recent Epstein scrutiny, including a House Oversight report on federal mishandling, shows ongoing work amid the broader distrust.",
-   "updated_at": "2026-11-23T16:04:28.000Z",
-   "url": "https://x.com/i/trending/2124850582527557647"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2124535469970948307"
-    },
-    {
-     "post_id": "2124943981863690458"
-    },
-    {
-     "post_id": "2124653897474359395"
-    },
-    {
-     "post_id": "2124584053772820723"
-    },
-    {
-     "post_id": "2124943981863690458"
-    },
-    {
-     "post_id": "2124653897474359395"
-    },
-    {
-     "post_id": "2124652721491828904"
-    },
-    {
-     "post_id": "2124672735800684983"
-    },
-    {
-     "post_id": "2124963833488048405"
-    },
-    {
-     "post_id": "2124715232069140646"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "U.S. Senate"
-     ],
-     "people": [
-      "John Thune",
-      "President Trump"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "A dramatic image of an ancient Roman orator in a grand hall captures users' frustration with today's U.S. Senate, captioned to warn of self-destruction through corruption.",
-   "id": "2124721492915056641",
-   "name": "Roman Senate Images Highlight U.S. Dysfunction Parallels",
-   "summary": "People are sharing AI-generated scenes of late Roman senators debating amid bribery and elite rivalries, drawing lines to what they see as modern U.S. Senate gridlock from top-down leadership, oversized committees, and self-interest over state needs. Historians note how the Roman Senate's inflexibility and failure to reform fueled civil wars and the Republic's fall to empire, themes echoed in calls to tweak the filibuster or repeal the 17th Amendment. While some defend the U.S. system's constitutional checks, the visuals amplify pushes for term limits and structural changes as a new Senate class arrives.",
-   "updated_at": "2026-11-23T20:35:04.000Z",
-   "url": "https://x.com/i/trending/2124721492915056641"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2124313940498772087"
-    },
-    {
-     "post_id": "2124519707973722283"
-    },
-    {
-     "post_id": "2124870040864321543"
-    },
-    {
-     "post_id": "2124529382949842949"
-    },
-    {
-     "post_id": "2124870040864321543"
-    },
-    {
-     "post_id": "2124519707973722283"
-    },
-    {
-     "post_id": "2124529382949842949"
-    },
-    {
-     "post_id": "2124313940498772087"
-    },
-    {
-     "post_id": "2124546377300763123"
-    },
-    {
-     "post_id": "2124885678815105038"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "GOP"
-     ],
-     "people": [
-      "Steve Cortes",
-      "Mark Levin",
-      "Netanyahu"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "After Democrats took the House and Senate in the 2026 midterms, Mark Levin urged young Americans to pull themselves up by their bootstraps on his Fox News show.",
-   "id": "2124365555100487917",
-   "name": "GOP Debates Self-Reliance Message After 2026 Midterm Losses",
-   "summary": "Levin argued against portraying young people as victims needing government programs, stressing family involvement, sacrifices like taking unwanted jobs or moving temporarily, and personal grit that pays off. Critics like former Trump advisor Steve Cortes called it condescending and out of touch, while new GOP Congressman Jace Yarbrough and Florida council member Chandler Langevin pointed to real barriers like mass immigration, welfare issues, soaring home prices, and grocery inflation—milk up from $2.89 to $5.99 over two decades. Supporters defend self-reliance as core to conservative values, but detractors warn ignoring structural challenges risks losing young voters ahead of 2028.",
-   "updated_at": "2026-11-23T21:57:26.000Z",
-   "url": "https://x.com/i/trending/2124365555100487917"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2124963698142031911"
-    },
-    {
-     "post_id": "2124957771837645287"
-    },
-    {
-     "post_id": "2124955545291395238"
-    },
-    {
-     "post_id": "2124892667012169875"
-    },
-    {
-     "post_id": "2124957771837645287"
-    },
-    {
-     "post_id": "2124963698142031911"
-    },
-    {
-     "post_id": "2124892667012169875"
-    },
-    {
-     "post_id": "2124955545291395238"
-    },
-    {
-     "post_id": "2124994903998660919"
-    },
-    {
-     "post_id": "2124965515550482652"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Senate"
-     ],
-     "people": [
-      "John Thune"
-     ],
-     "places": [],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Sen. John Kennedy spent 16 months pushing a defense funding bill through reconciliation, only to hit a wall in the Senate. His quip, 'You can lead a man to Congress, but you can’t make him think,' captured the raw frustration.",
-   "id": "2124968576872587373",
-   "name": "Sen. Kennedy Blasts GOP Senate for Failing on Reconciliation Bill",
-   "summary": "During an NBC's Meet the Press interview, Louisiana Republican Sen. John Kennedy criticized Senate inaction on a reconciliation bill for defense priorities. Conservatives piled on, faulting Senate Majority Leader John Thune and the GOP for not changing rules to pass measures like voter ID requirements, banning ballot harvesting, and the SAVE Act using simple majorities. While some defend the filibuster to block past Democratic priorities, the backlash highlights GOP divisions over procedures amid midterm losses and 2028 primaries. Thune cited missing votes and pursued bipartisan options instead.",
-   "updated_at": "2026-11-23T23:18:25.000Z",
-   "url": "https://x.com/i/trending/2124968576872587373"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2124614652676259999"
-    },
-    {
-     "post_id": "2124522200581501388"
-    },
-    {
-     "post_id": "2124693226582073526"
-    },
-    {
-     "post_id": "2124691052275933247"
-    },
-    {
-     "post_id": "2124691052275933247"
-    },
-    {
-     "post_id": "2124739965477425261"
-    },
-    {
-     "post_id": "2124693226582073526"
-    },
-    {
-     "post_id": "2124694680721932594"
-    },
-    {
-     "post_id": "2124698564349808892"
-    },
-    {
-     "post_id": "2124698886057156965"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [],
-     "organizations": [
-      "Democrats",
-      "Republicans"
-     ],
-     "people": [
-      "Ron DeSantis"
-     ],
-     "places": [
-      "Florida"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Florida Gov. Ron DeSantis didn't hold back, labeling both Democrats and Republicans' handling of healthcare as 'political malpractice.' His words landed amid talks of rebranding Medicare for All as 'TrumpCare' to push it through.",
-   "id": "2124761406692286577",
-   "name": "DeSantis Calls U.S. Healthcare 'Political Malpractice' Across Parties",
-   "summary": "DeSantis accused Democrats of wrecking the individual insurance market and Republicans of sticking to the status quo without real fixes. Minnesota Senator-Elect Peggy Flanagan said Democrats would back Medicare for All if called 'TrumpCare' to get it passed. An infographic highlighted the U.S. as the only wealthy nation without universal healthcare, with other countries like the UK in 1948 and Japan in 1961 achieving it decades ago, alongside worse U.S. outcomes like higher medical bankruptcies and lower life expectancy of 79.8 years. Online reactions urged action beyond slogans, from market reforms to addressing single-payer costs and wait times.",
-   "updated_at": "2026-11-23T07:11:25.000Z",
-   "url": "https://x.com/i/trending/2124761406692286577"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2124532766301954365"
-    },
-    {
-     "post_id": "2124568157822042203"
-    },
-    {
-     "post_id": "2124593500889190692"
-    },
-    {
-     "post_id": "2124607581822021633"
-    },
-    {
-     "post_id": "2124828050139353138"
-    },
-    {
-     "post_id": "2124593500889190692"
-    },
-    {
-     "post_id": "2124532766301954365"
-    },
-    {
-     "post_id": "2124568157822042203"
-    },
-    {
-     "post_id": "2124553862820552773"
-    },
-    {
-     "post_id": "2124634149394796826"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "Midterm Election"
-     ],
-     "organizations": [
-      "Democrats"
-     ],
-     "people": [
-      "Donald Trump"
-     ],
-     "places": [
-      "Congress"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Fresh off their campaign pledges on affordability, Democrats are eyeing a rollback of Trump's tax cuts, drawing immediate fire from critics who call it a broken promise.",
-   "id": "2124636642937811397",
-   "name": "Democrats Plan to Reverse Trump's Tax Cuts After Congress Takeover",
-   "summary": "Incoming House Ways and Means leader Rep. Richard Neal plans hearings to review and potentially unwind key provisions of Trump's tax cuts, which he ties to the growing federal deficit. The effort also targets tariffs, aims to restore expired Affordable Care Act subsidies, and reverse Medicaid cuts, with estimates suggesting costs over $1 trillion. Critics highlight the clash with Democratic affordability messaging, while President Trump has vowed to veto any such measures, creating steep hurdles for the agenda.",
-   "updated_at": "2026-11-23T19:03:40.000Z",
-   "url": "https://x.com/i/trending/2124636642937811397"
-  },
-  {
-   "category": "News",
-   "cluster_posts_results": [
-    {
-     "post_id": "2124283522508542292"
-    },
-    {
-     "post_id": "2124325568468459692"
-    },
-    {
-     "post_id": "2124629935344025857"
-    },
-    {
-     "post_id": "2124341244633792910"
-    },
-    {
-     "post_id": "2124325568468459692"
-    },
-    {
-     "post_id": "2124341244633792910"
-    },
-    {
-     "post_id": "2124629935344025857"
-    },
-    {
-     "post_id": "2124489409466937528"
-    },
-    {
-     "post_id": "2124357105800847496"
-    },
-    {
-     "post_id": "2124386728941158555"
-    }
-   ],
-   "contexts": {
-    "entities": {
-     "events": [
-      "SAVE Act"
-     ],
-     "organizations": [
-      "Republican Party"
-     ],
-     "people": [
-      "John Thune"
-     ],
-     "places": [
-      "United States Congress"
-     ],
-     "products": []
-    },
-    "finance": {
-     "tickers": []
-    },
-    "sports": {
-     "teams": []
-    },
-    "topics": [
-     "Politics"
-    ]
-   },
-   "disclaimer": "This story is a summary of posts on X and may evolve over time. Grok can make mistakes, verify its outputs.",
-   "hook": "Scott Presler laid bare the raw disappointment of many Republicans, questioning party loyalty after unified government failed to deliver on election security.",
-   "id": "2124414703891783910",
-   "name": "Conservatives Frustrated as Senate Blocks SAVE America Act",
-   "summary": "The SAVE America Act, requiring proof of U.S. citizenship and photo ID for federal voting, passed the House but stalled in the Senate despite Republican control of all branches. Conservative activists like Presler called the 2020 election the 'biggest fraud on the American people' and accused senators of betraying promises to prevent repeats. Senate Majority Leader John Thune blamed 'paid influencers' and 'keyboard warriors' for turning the bill into a political weapon, saying votes weren't there to beat the filibuster. Online voices decried betrayal and called for accountability, exposing rifts in the Republican coalition over priorities and procedures.",
-   "updated_at": "2026-11-23T01:04:12.000Z",
-   "url": "https://x.com/i/trending/2124414703891783910"
-  }
- ]
 }

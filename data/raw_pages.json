@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T23:26:39Z",
+ "fetched_at": "2026-11-24T18:01:00Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -21,6 +21,157 @@
   "verified": false
  },
  "pages": [
+  {
+   "includes": {
+    "media": [
+     {
+      "height": 941,
+      "media_key": "3_2125071720901959680",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX3FeJaW4AAcsuH.jpg",
+      "width": 1672
+     },
+     {
+      "height": 724,
+      "media_key": "3_2125068946923511808",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX3C8riW4AAdJBJ.jpg",
+      "width": 2172
+     },
+     {
+      "height": 720,
+      "media_key": "13_2125009602945183744",
+      "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2125009602945183744/img/EvDXSehe94hyIhcj.jpg",
+      "type": "video",
+      "width": 1280
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2125288120916513228",
+    "oldest_id": "2125009734260719762",
+    "result_count": 6
+   },
+   "data": [
+    {
+     "created_at": "2026-11-24T17:59:08.000Z",
+     "edit_history_tweet_ids": [
+      "2125288120916513228"
+     ],
+     "id": "2125288120916513228",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "https://t.co/aLT29q5icY",
+     "url": "https://x.com/i/status/2125288120916513228"
+    },
+    {
+     "created_at": "2026-11-24T07:45:36.000Z",
+     "edit_history_tweet_ids": [
+      "2125133720684298345"
+     ],
+     "id": "2125133720684298345",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 40,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "https://t.co/UgwhJqrzd1",
+     "url": "https://x.com/i/status/2125133720684298345"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2125071720901959680"
+      ]
+     },
+     "created_at": "2026-11-24T03:39:16.000Z",
+     "edit_history_tweet_ids": [
+      "2125071727197597904"
+     ],
+     "id": "2125071727197597904",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 200,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+     },
+     "text": "Happening 2027  https://t.co/nIuPGx0HDz to announce  #zxnlive #patriotonenetwork Cuz democrats kiss my ass https://t.co/t3sOP3vUQF",
+     "url": "https://x.com/i/status/2125071727197597904"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2125068946923511808"
+      ]
+     },
+     "created_at": "2026-11-24T03:28:14.000Z",
+     "edit_history_tweet_ids": [
+      "2125068952174813389"
+     ],
+     "id": "2125068952174813389",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 40,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "New https://t.co/nIuPGx0HDz https://t.co/AYOi7EwN7Z",
+     "url": "https://x.com/i/status/2125068952174813389"
+    },
+    {
+     "created_at": "2026-11-24T02:51:50.000Z",
+     "edit_history_tweet_ids": [
+      "2125059792859439137"
+     ],
+     "id": "2125059792859439137",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 164,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "https://t.co/UCBIGyu3w0",
+     "url": "https://x.com/i/status/2125059792859439137"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "13_2125009602945183744"
+      ]
+     },
+     "created_at": "2026-11-23T23:32:56.000Z",
+     "edit_history_tweet_ids": [
+      "2125009734260719762"
+     ],
+     "id": "2125009734260719762",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 181,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+     },
+     "text": "https://t.co/hb86jTstpK #wweraw https://t.co/ZjgWgEuqC3",
+     "url": "https://x.com/i/status/2125009734260719762"
+    }
+   ]
+  },
   {
    "data": [
     {
