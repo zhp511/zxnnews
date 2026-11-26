@@ -1,856 +1,1438 @@
 {
- "fetched_at": "2026-11-26T00:11:17Z",
- "tool": "x.search_posts_all",
- "args": {
-  "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-  "start_time": "2026-11-25T21:08:00Z",
-  "max_results": 25,
-  "sort_order": "relevancy",
-  "post.fields": [
-   "created_at",
-   "public_metrics",
-   "entities",
-   "text"
+  "fetched_at": "2026-11-26T17:48:57Z",
+  "tool": "x.search_posts_all",
+  "args": {
+    "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
+    "start_time": "2026-11-26T14:49:00Z",
+    "max_results": 25,
+    "sort_order": "relevancy",
+    "post.fields": [
+      "created_at",
+      "public_metrics",
+      "entities",
+      "text"
+    ],
+    "expansions": [
+      "author_id"
+    ],
+    "user.fields": [
+      "name",
+      "username",
+      "verified",
+      "verified_type",
+      "public_metrics"
+    ]
+  },
+  "data": [
+    {
+      "author_id": "376118814",
+      "created_at": "2026-11-26T16:59:30.000Z",
+      "edit_history_tweet_ids": [
+        "2125997890967335270"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "LIVE Press Conference | Agit Kabayel vs Nelson Hysa | Bad Blood 🇩🇪🩸",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 91,
+            "expanded_url": "https://x.com/i/broadcasts/2BlajnzpeMVVbQ",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125997933824745472/B_iTCvCV?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125997933824745472/B_iTCvCV?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 68,
+            "status": 200,
+            "title": "Queensberry Promotions",
+            "unwound_url": "https://x.com/i/broadcasts/2BlajnzpeMVVbQ",
+            "url": "https://t.co/dDTJj3ggZs"
+          }
+        ]
+      },
+      "id": "2125997890967335270",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 939,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "text": "LIVE Press Conference | Agit Kabayel vs Nelson Hysa | Bad Blood 🇩🇪🩸 https://t.co/dDTJj3ggZs",
+      "url": "https://x.com/Queensberry/status/2125997890967335270"
+    },
+    {
+      "author_id": "4640585592",
+      "created_at": "2026-11-26T17:24:08.000Z",
+      "edit_history_tweet_ids": [
+        "2126004086088905194"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Lo-Fi Winning Beats to Pass the Gravy to 🦃🎶",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 235,
+            "expanded_url": "https://x.com/i/broadcasts/2QnbgWnRPRrVPz",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125998190868439040/y0ssqWCc?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125998190868439040/y0ssqWCc?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 212,
+            "status": 200,
+            "title": "The White House",
+            "unwound_url": "https://x.com/i/broadcasts/2QnbgWnRPRrVPz",
+            "url": "https://t.co/ZJosjtZHpq"
+          }
+        ]
+      },
+      "id": "2126004086088905194",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 445,
+        "like_count": 15,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 5
+      },
+      "text": "WHITE HOUSE POST: Trump running like an Olympic athlete, leading the pack, in peak physical condition. 🏃\n\nREALITY: He’s morbidly obese, struggles to walk in a straight line, and hasn’t run a lap in five decades. https://t.co/ZJosjtZHpq",
+      "url": "https://x.com/BrittanyinTexas/status/2126004086088905194"
+    },
+    {
+      "author_id": "104872280",
+      "created_at": "2026-11-26T16:59:56.000Z",
+      "edit_history_tweet_ids": [
+        "2125997997603365325"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 89,
+            "start": 76,
+            "tag": "CitiNewsroom"
+          }
+        ],
+        "urls": [
+          {
+            "description": "🚨 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 26-11-26 | #CitiNewsroom",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 113,
+            "expanded_url": "https://x.com/i/broadcasts/2jPVojNbRQZXZe",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2125998040074924032/OcDRPlCh?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125998040074924032/OcDRPlCh?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 90,
+            "status": 200,
+            "title": "CITI FM 97.3",
+            "unwound_url": "https://x.com/i/broadcasts/2jPVojNbRQZXZe",
+            "url": "https://t.co/7QV7dYoCLN"
+          }
+        ]
+      },
+      "id": "2125997997603365325",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1135,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "🚨 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 26-11-26 | #CitiNewsroom https://t.co/7QV7dYoCLN",
+      "url": "https://x.com/Citi973/status/2125997997603365325"
+    },
+    {
+      "author_id": "330826792",
+      "created_at": "2026-11-26T15:27:11.000Z",
+      "edit_history_tweet_ids": [
+        "2125974656175710376"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "[The wRap] Senate approves OVP 2027 budget in one minute",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 80,
+            "expanded_url": "https://x.com/i/broadcasts/2kEAPoWYMqjvbv",
+            "start": 57,
+            "status": 200,
+            "title": "Rappler",
+            "unwound_url": "https://x.com/i/broadcasts/2kEAPoWYMqjvbv",
+            "url": "https://t.co/3FlFFXNmkf"
+          }
+        ]
+      },
+      "id": "2125974656175710376",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 831,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "[The wRap] Senate approves OVP 2027 budget in one minute https://t.co/3FlFFXNmkf",
+      "url": "https://x.com/rapplerdotcom/status/2125974656175710376"
+    },
+    {
+      "author_id": "381429945",
+      "created_at": "2026-11-26T15:02:01.000Z",
+      "edit_history_tweet_ids": [
+        "2125968322990682297"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "(Ro16) Debate: \"State Police Would Certainly Improve Security\"",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 86,
+            "expanded_url": "https://x.com/i/broadcasts/2evjKJMLRodaKN",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125968365499904000/I1rl-VbP?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125968365499904000/I1rl-VbP?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 63,
+            "status": 200,
+            "title": "Nigeria Info FM 99.3",
+            "unwound_url": "https://x.com/i/broadcasts/2evjKJMLRodaKN",
+            "url": "https://t.co/FW17pEQUrr"
+          }
+        ]
+      },
+      "id": "2125968322990682297",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1896,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "(Ro16) Debate: \"State Police Would Certainly Improve Security\" https://t.co/FW17pEQUrr",
+      "url": "https://x.com/NigeriainfoFM/status/2125968322990682297"
+    },
+    {
+      "author_id": "974995792380473345",
+      "created_at": "2026-11-26T15:57:10.000Z",
+      "edit_history_tweet_ids": [
+        "2125982203423113478"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Channel One TV LIVE! Parliamentary Proceedings| 2027 Budget Debate",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 90,
+            "expanded_url": "https://x.com/i/broadcasts/2YRzyAPZXeonWm",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2125982245991153664/u_-64oTU?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125982245991153664/u_-64oTU?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 67,
+            "status": 200,
+            "title": "ChannelOne TV",
+            "unwound_url": "https://x.com/i/broadcasts/2YRzyAPZXeonWm",
+            "url": "https://t.co/QK2vgHqHYI"
+          }
+        ]
+      },
+      "id": "2125982203423113478",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 562,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Channel One TV LIVE! Parliamentary Proceedings| 2027 Budget Debate https://t.co/QK2vgHqHYI",
+      "url": "https://x.com/Channel1TVGHA/status/2125982203423113478"
+    },
+    {
+      "author_id": "104872280",
+      "created_at": "2026-11-26T15:57:08.000Z",
+      "edit_history_tweet_ids": [
+        "2125982192287301859"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Channel One TV Live! Majority, Minority MPs debate 2027 Budget in Parliament",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 100,
+            "expanded_url": "https://x.com/i/broadcasts/2AMjkbJgPVWZPm",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2125982234679156736/JRE8iCUA?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125982234679156736/JRE8iCUA?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 77,
+            "status": 200,
+            "title": "CITI FM 97.3",
+            "unwound_url": "https://x.com/i/broadcasts/2AMjkbJgPVWZPm",
+            "url": "https://t.co/TbYf8E03c5"
+          }
+        ]
+      },
+      "id": "2125982192287301859",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1217,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "Channel One TV Live! Majority, Minority MPs debate 2027 Budget in Parliament https://t.co/TbYf8E03c5",
+      "url": "https://x.com/Citi973/status/2125982192287301859"
+    },
+    {
+      "author_id": "104872280",
+      "created_at": "2026-11-26T16:18:26.000Z",
+      "edit_history_tweet_ids": [
+        "2125987552939196452"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Citi FM Live! Majority, Minority MPs debate 2027 Budget in Parliament",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 93,
+            "expanded_url": "https://x.com/i/broadcasts/2JQovgbYRbLaJR",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2125987595331031040/Nuj-ume6?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125987595331031040/Nuj-ume6?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 70,
+            "status": 200,
+            "title": "CITI FM 97.3",
+            "unwound_url": "https://x.com/i/broadcasts/2JQovgbYRbLaJR",
+            "url": "https://t.co/maPUY0TQk9"
+          }
+        ]
+      },
+      "id": "2125987552939196452",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 192,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Citi FM Live! Majority, Minority MPs debate 2027 Budget in Parliament https://t.co/maPUY0TQk9",
+      "url": "https://x.com/Citi973/status/2125987552939196452"
+    },
+    {
+      "author_id": "104872280",
+      "created_at": "2026-11-26T15:58:00.000Z",
+      "edit_history_tweet_ids": [
+        "2125982410076512361"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Citi FM Live! Majority, Minority MPs debate 2027 Budget in Parliament",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 93,
+            "expanded_url": "https://x.com/i/broadcasts/2gqMpaPWyyPjAQ",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2125982452459900928/kKg2arbx?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125982452459900928/kKg2arbx?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 70,
+            "status": 200,
+            "title": "CITI FM 97.3",
+            "unwound_url": "https://x.com/i/broadcasts/2gqMpaPWyyPjAQ",
+            "url": "https://t.co/ECntwCS7k2"
+          }
+        ]
+      },
+      "id": "2125982410076512361",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1209,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Citi FM Live! Majority, Minority MPs debate 2027 Budget in Parliament https://t.co/ECntwCS7k2",
+      "url": "https://x.com/Citi973/status/2125982410076512361"
+    },
+    {
+      "author_id": "381429945",
+      "created_at": "2026-11-26T16:09:22.000Z",
+      "edit_history_tweet_ids": [
+        "2125985272714170442"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "(Ro16) Debate: \"State Police Would Certainly Improve Security\"",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 86,
+            "expanded_url": "https://x.com/i/broadcasts/2mdVQeeeoJOQpV",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125985315164696576/xBvSi6x1?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125985315164696576/xBvSi6x1?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 63,
+            "status": 200,
+            "title": "Nigeria Info FM 99.3",
+            "unwound_url": "https://x.com/i/broadcasts/2mdVQeeeoJOQpV",
+            "url": "https://t.co/bHtnibtJDa"
+          }
+        ]
+      },
+      "id": "2125985272714170442",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 351,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "(Ro16) Debate: \"State Police Would Certainly Improve Security\" https://t.co/bHtnibtJDa",
+      "url": "https://x.com/NigeriainfoFM/status/2125985272714170442"
+    },
+    {
+      "author_id": "1638697535836389376",
+      "created_at": "2026-11-26T17:29:42.000Z",
+      "edit_history_tweet_ids": [
+        "2126005487992742166"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "POLYGYNY IS NOT A SIN | LIVE CALL IN DEBATE",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 67,
+            "expanded_url": "https://x.com/i/broadcasts/2aWRlXXdllyzml",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2126005530841772032/hBPS5vxD?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2126005530841772032/hBPS5vxD?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 44,
+            "status": 200,
+            "title": "Biblical Marriages",
+            "unwound_url": "https://x.com/i/broadcasts/2aWRlXXdllyzml",
+            "url": "https://t.co/8D6Mzozlx9"
+          }
+        ]
+      },
+      "id": "2126005487992742166",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "POLYGYNY IS NOT A SIN | LIVE CALL IN DEBATE https://t.co/8D6Mzozlx9",
+      "url": "https://x.com/biblemarriages/status/2126005487992742166"
+    },
+    {
+      "author_id": "140798905",
+      "created_at": "2026-11-26T15:26:55.000Z",
+      "edit_history_tweet_ids": [
+        "2125974589956354486",
+        "2125976000748228809"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Khabar Chalisa | Business News | Political News | Sports News | Entertainment News",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 106,
+            "expanded_url": "https://x.com/i/broadcasts/2brBWmdMzoWLAR",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2125974632327163904/JX1uu1rX?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125974632327163904/JX1uu1rX?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 83,
+            "status": 200,
+            "title": "Zee Business",
+            "unwound_url": "https://x.com/i/broadcasts/2brBWmdMzoWLAR",
+            "url": "https://t.co/hyCmhxnRS7"
+          }
+        ]
+      },
+      "id": "2125974589956354486",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4996,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Khabar Chalisa | Business News | Political News | Sports News | Entertainment News https://t.co/hyCmhxnRS7",
+      "url": "https://x.com/ZeeBusiness/status/2125974589956354486"
+    },
+    {
+      "author_id": "505519109",
+      "created_at": "2026-11-26T17:02:28.000Z",
+      "edit_history_tweet_ids": [
+        "2125998634005074359"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "IGBO NEWS: ANAMBRA, NIGER & DELTA IN THE NEWS | 37 MINERS' DEATHS, 65 INMATES RELEASED, NDLEA BUSTS",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 127,
+            "expanded_url": "https://x.com/i/broadcasts/2BlajlMPENBLWO",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2125998676598235136/DGF-POaF?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125998676598235136/DGF-POaF?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 104,
+            "status": 200,
+            "title": "Sapientia Radio & TV",
+            "unwound_url": "https://x.com/i/broadcasts/2BlajlMPENBLWO",
+            "url": "https://t.co/fLT6eC4hRX"
+          }
+        ]
+      },
+      "id": "2125998634005074359",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 62,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "IGBO NEWS: ANAMBRA, NIGER &amp; DELTA IN THE NEWS | 37 MINERS' DEATHS, 65 INMATES RELEASED, NDLEA BUSTS https://t.co/fLT6eC4hRX",
+      "url": "https://x.com/mediasapientia/status/2125998634005074359"
+    },
+    {
+      "author_id": "1866816245456162816",
+      "created_at": "2026-11-26T15:00:00.000Z",
+      "edit_history_tweet_ids": [
+        "2125967815073034494"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "News Roundup: Africa’s Voice. Global Perspective. Your News Roundup of the day’s most significant developments from around the world and across Africa.",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 175,
+            "expanded_url": "https://x.com/i/broadcasts/2ybYklbqMYnomb",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125967857901023232/I40xPiHB?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125967857901023232/I40xPiHB?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 152,
+            "status": 200,
+            "title": "Pulse of Africa - English",
+            "unwound_url": "https://x.com/i/broadcasts/2ybYklbqMYnomb",
+            "url": "https://t.co/C0qB91tsC5"
+          }
+        ]
+      },
+      "id": "2125967815073034494",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 87,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "News Roundup: Africa’s Voice. Global Perspective. Your News Roundup of the day’s most significant developments from around the world and across Africa. https://t.co/C0qB91tsC5",
+      "url": "https://x.com/poaenglish/status/2125967815073034494"
+    },
+    {
+      "author_id": "206087305",
+      "created_at": "2026-11-26T15:27:07.000Z",
+      "edit_history_tweet_ids": [
+        "2125974638907830354"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Arrival of H.E. Emmerson Mnangagwa, President of the Republic of Zimbabwe",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 97,
+            "expanded_url": "https://x.com/i/broadcasts/2NgyoZklZnAOaL",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125974681459085312/yUlJ7Unv?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125974681459085312/yUlJ7Unv?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 74,
+            "status": 200,
+            "title": "Musalia W Mudavadi",
+            "unwound_url": "https://x.com/i/broadcasts/2NgyoZklZnAOaL",
+            "url": "https://t.co/0iTBv5qKl7"
+          }
+        ]
+      },
+      "id": "2125974638907830354",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1274,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 6
+      },
+      "text": "Arrival of H.E. Emmerson Mnangagwa, President of the Republic of Zimbabwe https://t.co/0iTBv5qKl7",
+      "url": "https://x.com/MusaliaMudavadi/status/2125974638907830354"
+    },
+    {
+      "author_id": "882505074",
+      "created_at": "2026-11-26T15:00:16.000Z",
+      "edit_history_tweet_ids": [
+        "2125967882718781943"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Live broadcast | English News Bulletin",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 62,
+            "expanded_url": "https://x.com/i/broadcasts/2rJYVRyzdRbNmM",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125967925454462976/xj_21USI?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125967925454462976/xj_21USI?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 39,
+            "status": 200,
+            "title": "مركز الأخبار",
+            "unwound_url": "https://x.com/i/broadcasts/2rJYVRyzdRbNmM",
+            "url": "https://t.co/xytSYVMUPu"
+          }
+        ]
+      },
+      "id": "2125967882718781943",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2010,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Live broadcast | English News Bulletin https://t.co/xytSYVMUPu",
+      "url": "https://x.com/omantvnews/status/2125967882718781943"
+    },
+    {
+      "author_id": "206087305",
+      "created_at": "2026-11-26T15:32:05.000Z",
+      "edit_history_tweet_ids": [
+        "2125975890630774978"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Arrival of H.E. Emmerson Mnangagwa, President of the Republic of Zimbabwe",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 97,
+            "expanded_url": "https://x.com/i/broadcasts/2JQovjJbXmYaVQ",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125975933127442433/RLbdAiQO?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125975933127442433/RLbdAiQO?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 74,
+            "status": 200,
+            "title": "Musalia W Mudavadi",
+            "unwound_url": "https://x.com/i/broadcasts/2JQovjJbXmYaVQ",
+            "url": "https://t.co/qQ5hp4SU8C"
+          }
+        ]
+      },
+      "id": "2125975890630774978",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3337,
+        "like_count": 34,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 2
+      },
+      "text": "Arrival of H.E. Emmerson Mnangagwa, President of the Republic of Zimbabwe https://t.co/qQ5hp4SU8C",
+      "url": "https://x.com/MusaliaMudavadi/status/2125975890630774978"
+    },
+    {
+      "author_id": "109362031",
+      "created_at": "2026-11-26T17:04:08.000Z",
+      "edit_history_tweet_ids": [
+        "2125999056631599137"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Latestt Cardano and Midnight News - Happy Thanksgiving!",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 79,
+            "expanded_url": "https://x.com/i/broadcasts/2XyXAyqXWdOXka",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2126005248149852160/OtHpDt6U?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2126005248149852160/OtHpDt6U?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 56,
+            "status": 200,
+            "title": "Jason Appleton (Crypto Crow)",
+            "unwound_url": "https://x.com/i/broadcasts/2XyXAyqXWdOXka",
+            "url": "https://t.co/PDbYVWOICE"
+          }
+        ]
+      },
+      "id": "2125999056631599137",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 655,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "text": "Latestt Cardano and Midnight News - Happy Thanksgiving! https://t.co/PDbYVWOICE",
+      "url": "https://x.com/jasonappleton/status/2125999056631599137"
+    },
+    {
+      "author_id": "22240612",
+      "created_at": "2026-11-26T16:13:53.000Z",
+      "edit_history_tweet_ids": [
+        "2125986410372923687"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "🚨 LIVE: Latest News, Interviews & More from Al Arabiya English",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 90,
+            "expanded_url": "https://x.com/i/broadcasts/2zkYjOVaVWodrM",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125986411870318592/hPMwNsU6?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125986411870318592/hPMwNsU6?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 67,
+            "status": 200,
+            "title": "Al Arabiya English",
+            "unwound_url": "https://x.com/i/broadcasts/2zkYjOVaVWodrM",
+            "url": "https://t.co/BdYmthOMr1"
+          }
+        ]
+      },
+      "id": "2125986410372923687",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2167,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "🚨 LIVE: Latest News, Interviews &amp; More from Al Arabiya English https://t.co/BdYmthOMr1",
+      "url": "https://x.com/AlArabiya_Eng/status/2125986410372923687"
+    },
+    {
+      "author_id": "1765366281010655232",
+      "created_at": "2026-11-26T17:03:09.000Z",
+      "edit_history_tweet_ids": [
+        "2125998806630322243"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "GDP to the MOON! Temu-Chernobyl and More! w/Author Brenden Dilley 11/25/2026",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 105,
+            "expanded_url": "https://x.com/i/broadcasts/2zkYjkPrRkaARP",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125998432707813377/7N3IP2D0?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125998432707813377/7N3IP2D0?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 82,
+            "status": 200,
+            "title": "Brenden Dilley",
+            "unwound_url": "https://x.com/i/broadcasts/2zkYjkPrRkaARP",
+            "url": "https://t.co/W6qtlmGZcF"
+          }
+        ]
+      },
+      "id": "2125998806630322243",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 36,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "text": "Come get your daily dose of news, truth, life hacks and humor.  DILLEY IS ON !!!!\nhttps://t.co/W6qtlmGZcF",
+      "url": "https://x.com/brlrcr321/status/2125998806630322243"
+    },
+    {
+      "author_id": "206087305",
+      "created_at": "2026-11-26T15:55:23.000Z",
+      "edit_history_tweet_ids": [
+        "2125981751738572954"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Arrival of H.E. Emmerson Mnangagwa, President of the Republic of Zimbabwe",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 97,
+            "expanded_url": "https://x.com/i/broadcasts/2ybYkEdeVXQvgA",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125981794294001665/jtDPPauo?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125981794294001665/jtDPPauo?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 74,
+            "status": 200,
+            "title": "Musalia W Mudavadi",
+            "unwound_url": "https://x.com/i/broadcasts/2ybYkEdeVXQvgA",
+            "url": "https://t.co/MkSdJVJJSF"
+          }
+        ]
+      },
+      "id": "2125981751738572954",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 1771,
+        "like_count": 37,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 6
+      },
+      "text": "Arrival of H.E. Emmerson Mnangagwa, President of the Republic of Zimbabwe https://t.co/MkSdJVJJSF",
+      "url": "https://x.com/MusaliaMudavadi/status/2125981751738572954"
+    },
+    {
+      "author_id": "467643219",
+      "created_at": "2026-11-26T14:59:10.000Z",
+      "edit_history_tweet_ids": [
+        "2125967607903695051"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "The Mike Schwartz Show LIVE | Today's Biggest Stories + Political News & Analysis",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 109,
+            "expanded_url": "https://x.com/i/broadcasts/2mdVQXNozmddMb",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125967650861809664/kSOjXPq3?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125967650861809664/kSOjXPq3?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 86,
+            "status": 200,
+            "title": "Dr. Michael J Schwartz",
+            "unwound_url": "https://x.com/i/broadcasts/2mdVQXNozmddMb",
+            "url": "https://t.co/eAIwCwy0EK"
+          }
+        ]
+      },
+      "id": "2125967607903695051",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 48,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "The Mike Schwartz Show LIVE | Today's Biggest Stories + Political News &amp; Analysis https://t.co/eAIwCwy0EK",
+      "url": "https://x.com/MJSchwartz1/status/2125967607903695051"
+    },
+    {
+      "author_id": "2389068597",
+      "created_at": "2026-11-26T16:56:15.000Z",
+      "edit_history_tweet_ids": [
+        "2125997070003663033"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "The Jake Munro Show LIVE: Debunking UK News LIES, DEI Destroys Judicial System + More",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 109,
+            "expanded_url": "https://x.com/i/broadcasts/2MEozjodWNXgEj",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125997112668061696/WNpyqi0P?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125997112668061696/WNpyqi0P?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 86,
+            "status": 200,
+            "title": "𝕲𝖔𝖙𝖍 𝕯𝖆𝖉𝖉𝖞",
+            "unwound_url": "https://x.com/i/broadcasts/2MEozjodWNXgEj",
+            "url": "https://t.co/ZwTrDd64YN"
+          }
+        ]
+      },
+      "id": "2125997070003663033",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1878,
+        "like_count": 61,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 7
+      },
+      "text": "The Jake Munro Show LIVE: Debunking UK News LIES, DEI Destroys Judicial System + More https://t.co/ZwTrDd64YN",
+      "url": "https://x.com/JakeMunro/status/2125997070003663033"
+    },
+    {
+      "author_id": "770305649154621440",
+      "created_at": "2026-11-26T15:00:45.000Z",
+      "edit_history_tweet_ids": [
+        "2125968005595111816"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "🔴Power Hour News Show - Thanksgiving Edition -11/26/26 | 10:00 EDT AM - Tron🔴",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 101,
+            "expanded_url": "https://x.com/i/broadcasts/2QnbgqvaRddLYO",
+            "images": [
+              {
+                "height": 1080,
+                "url": "https://pbs.twimg.com/news_img/2125968048540516352/NxQtNHyD?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125968048540516352/NxQtNHyD?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 78,
+            "status": 200,
+            "title": "Tron",
+            "unwound_url": "https://x.com/i/broadcasts/2QnbgqvaRddLYO",
+            "url": "https://t.co/Gr8W1s8gvF"
+          }
+        ]
+      },
+      "id": "2125968005595111816",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 995,
+        "like_count": 62,
+        "quote_count": 1,
+        "reply_count": 10,
+        "retweet_count": 21
+      },
+      "text": "🔴Power Hour News Show - Thanksgiving Edition -11/26/26 | 10:00 EDT AM - Tron🔴 https://t.co/Gr8W1s8gvF",
+      "url": "https://x.com/1776Tron/status/2125968005595111816"
+    },
+    {
+      "author_id": "1856692463198781440",
+      "created_at": "2026-11-26T17:09:25.000Z",
+      "edit_history_tweet_ids": [
+        "2126000385751986342"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 23,
+            "id": "309366491",
+            "start": 16,
+            "username": "Twitch"
+          },
+          {
+            "end": 36,
+            "id": "3065618342",
+            "start": 28,
+            "username": "discord"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Working hard at @twitch and @discord networking for the people come give a follow for updated news on our streamers!",
+            "display_url": "x.com/i/broadcasts/2…",
+            "end": 140,
+            "expanded_url": "https://x.com/i/broadcasts/2VNlVbmgVOqjlY",
+            "start": 117,
+            "status": 200,
+            "title": "Homeless Gaming Network",
+            "unwound_url": "https://x.com/i/broadcasts/2VNlVbmgVOqjlY",
+            "url": "https://t.co/xrGpqgOV5b"
+          }
+        ]
+      },
+      "id": "2126000385751986342",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Working hard at @twitch and @discord networking for the people come give a follow for updated news on our streamers! https://t.co/xrGpqgOV5b",
+      "url": "https://x.com/homelessgamer2/status/2126000385751986342"
+    }
   ],
-  "expansions": [
-   "author_id"
-  ],
-  "user.fields": [
-   "name",
-   "username",
-   "verified",
-   "verified_type",
-   "public_metrics"
+  "users": [
+    {
+      "id": "376118814",
+      "name": "Queensberry Promotions",
+      "public_metrics": {
+        "followers_count": 297086,
+        "following_count": 131,
+        "like_count": 3817,
+        "listed_count": 764,
+        "media_count": 30437,
+        "tweet_count": 69630
+      },
+      "username": "Queensberry",
+      "verified": true,
+      "verified_type": "business"
+    },
+    {
+      "id": "4640585592",
+      "name": "💕 Brittany Belle 💕",
+      "public_metrics": {
+        "followers_count": 143506,
+        "following_count": 35536,
+        "like_count": 225676,
+        "listed_count": 454,
+        "media_count": 14955,
+        "tweet_count": 132836
+      },
+      "username": "BrittanyinTexas",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "104872280",
+      "name": "CITI FM 97.3",
+      "public_metrics": {
+        "followers_count": 1733904,
+        "following_count": 526,
+        "like_count": 2877,
+        "listed_count": 714,
+        "media_count": 180428,
+        "tweet_count": 578263
+      },
+      "username": "Citi973",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "330826792",
+      "name": "Rappler",
+      "public_metrics": {
+        "followers_count": 3306729,
+        "following_count": 412,
+        "like_count": 7578,
+        "listed_count": 4808,
+        "media_count": 283870,
+        "tweet_count": 1144067
+      },
+      "username": "rapplerdotcom",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "381429945",
+      "name": "Nigeria Info FM 99.3",
+      "public_metrics": {
+        "followers_count": 1189312,
+        "following_count": 631,
+        "like_count": 4520,
+        "listed_count": 754,
+        "media_count": 29148,
+        "tweet_count": 246808
+      },
+      "username": "NigeriainfoFM",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "974995792380473345",
+      "name": "ChannelOne TV",
+      "public_metrics": {
+        "followers_count": 438474,
+        "following_count": 70,
+        "like_count": 1824,
+        "listed_count": 211,
+        "media_count": 61283,
+        "tweet_count": 156026
+      },
+      "username": "Channel1TVGHA",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "1638697535836389376",
+      "name": "Biblical Marriages",
+      "public_metrics": {
+        "followers_count": 1448,
+        "following_count": 333,
+        "like_count": 22763,
+        "listed_count": 11,
+        "media_count": 2633,
+        "tweet_count": 32222
+      },
+      "username": "biblemarriages",
+      "verified": false,
+      "verified_type": "none"
+    },
+    {
+      "id": "140798905",
+      "name": "Zee Business",
+      "public_metrics": {
+        "followers_count": 796146,
+        "following_count": 33,
+        "like_count": 1322,
+        "listed_count": 2235,
+        "media_count": 234583,
+        "tweet_count": 458758
+      },
+      "username": "ZeeBusiness",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "505519109",
+      "name": "Sapientia Radio & TV",
+      "public_metrics": {
+        "followers_count": 9063,
+        "following_count": 126,
+        "like_count": 2444,
+        "listed_count": 21,
+        "media_count": 1326,
+        "tweet_count": 11936
+      },
+      "username": "mediasapientia",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "1866816245456162816",
+      "name": "Pulse of Africa - English",
+      "public_metrics": {
+        "followers_count": 2871,
+        "following_count": 0,
+        "like_count": 4,
+        "listed_count": 4,
+        "media_count": 5191,
+        "tweet_count": 5658
+      },
+      "username": "poaenglish",
+      "verified": false,
+      "verified_type": "none"
+    },
+    {
+      "id": "206087305",
+      "name": "Musalia W Mudavadi",
+      "public_metrics": {
+        "followers_count": 1404357,
+        "following_count": 239,
+        "like_count": 725,
+        "listed_count": 332,
+        "media_count": 4892,
+        "tweet_count": 7211
+      },
+      "username": "MusaliaMudavadi",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "882505074",
+      "name": "مركز الأخبار",
+      "public_metrics": {
+        "followers_count": 795062,
+        "following_count": 2,
+        "like_count": 300,
+        "listed_count": 634,
+        "media_count": 82124,
+        "tweet_count": 108145
+      },
+      "username": "omantvnews",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "109362031",
+      "name": "Jason Appleton (Crypto Crow)",
+      "public_metrics": {
+        "followers_count": 59138,
+        "following_count": 2954,
+        "like_count": 18955,
+        "listed_count": 393,
+        "media_count": 3520,
+        "tweet_count": 18948
+      },
+      "username": "jasonappleton",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "22240612",
+      "name": "Al Arabiya English",
+      "public_metrics": {
+        "followers_count": 897542,
+        "following_count": 43,
+        "like_count": 0,
+        "listed_count": 10887,
+        "media_count": 195146,
+        "tweet_count": 498614
+      },
+      "username": "AlArabiya_Eng",
+      "verified": true,
+      "verified_type": "business"
+    },
+    {
+      "id": "1765366281010655232",
+      "name": "Brlrcr321 (aka barlhorsaz)",
+      "public_metrics": {
+        "followers_count": 4467,
+        "following_count": 4164,
+        "like_count": 88421,
+        "listed_count": 2,
+        "media_count": 1928,
+        "tweet_count": 44808
+      },
+      "username": "brlrcr321",
+      "verified": false,
+      "verified_type": "none"
+    },
+    {
+      "id": "467643219",
+      "name": "Dr. Michael J Schwartz",
+      "public_metrics": {
+        "followers_count": 1394,
+        "following_count": 191,
+        "like_count": 232,
+        "listed_count": 9,
+        "media_count": 37,
+        "tweet_count": 1096
+      },
+      "username": "MJSchwartz1",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "2389068597",
+      "name": "𝕲𝖔𝖙𝖍 𝕯𝖆𝖉𝖉𝖞",
+      "public_metrics": {
+        "followers_count": 158166,
+        "following_count": 348,
+        "like_count": 15505,
+        "listed_count": 213,
+        "media_count": 2866,
+        "tweet_count": 11032
+      },
+      "username": "JakeMunro",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "770305649154621440",
+      "name": "Tron",
+      "public_metrics": {
+        "followers_count": 19839,
+        "following_count": 993,
+        "like_count": 10305,
+        "listed_count": 7,
+        "media_count": 6005,
+        "tweet_count": 11221
+      },
+      "username": "1776Tron",
+      "verified": true,
+      "verified_type": "blue"
+    },
+    {
+      "id": "1856692463198781440",
+      "name": "Homeless Gaming Network",
+      "public_metrics": {
+        "followers_count": 5240,
+        "following_count": 4593,
+        "like_count": 76743,
+        "listed_count": 2,
+        "media_count": 2385,
+        "tweet_count": 95806
+      },
+      "username": "homelessgamer2",
+      "verified": true,
+      "verified_type": "blue"
+    }
   ]
- },
- "data": [
-  {
-   "author_id": "24179879",
-   "created_at": "2026-11-25T22:45:13.000Z",
-   "edit_history_tweet_ids": [
-    "2125722504161382504",
-    "2125722616635998412"
-   ],
-   "id": "2125722504161382504",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 7488,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Joe Burrow Press Conference - November 25 https://t.co/R7h9Rpukfn",
-   "url": "https://x.com/Bengals/status/2125722504161382504"
-  },
-  {
-   "author_id": "819967215218749440",
-   "created_at": "2026-11-25T23:46:37.000Z",
-   "edit_history_tweet_ids": [
-    "2125737954324656153"
-   ],
-   "id": "2125737954324656153",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 235,
-    "like_count": 3,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "BREAKING | ‘SLEEPER CELL ATTACKS ON U.S. SOIL ACTIVATED’ ISRAEL WARNS | White House Weighs Strikes https://t.co/SBZBszjbRQ",
-   "url": "https://x.com/SteveRamNews/status/2125737954324656153"
-  },
-  {
-   "author_id": "135189186",
-   "created_at": "2026-11-25T21:55:12.000Z",
-   "edit_history_tweet_ids": [
-    "2125709917478666558"
-   ],
-   "id": "2125709917478666558",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 1015,
-    "like_count": 30,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 11
-   },
-   "text": "Kicking &amp; Screaming, Fulton Co. Must Give State Election Board 2020 Evidence on Red Pill News Live https://t.co/QOZNpD1gXo",
-   "url": "https://x.com/RedPill78/status/2125709917478666558"
-  },
-  {
-   "author_id": "770781940341288960",
-   "created_at": "2026-11-25T22:00:21.000Z",
-   "edit_history_tweet_ids": [
-    "2125711211253608708"
-   ],
-   "id": "2125711211253608708",
-   "public_metrics": {
-    "bookmark_count": 5,
-    "impression_count": 13620,
-    "like_count": 100,
-    "quote_count": 6,
-    "reply_count": 9,
-    "retweet_count": 39
-   },
-   "text": "America's Mayor Live (1068): President Trump Says Military Operations in Iran Funded Through January https://t.co/LDHgwe5TF3",
-   "url": "https://x.com/RudyGiuliani/status/2125711211253608708"
-  },
-  {
-   "author_id": "2047134404850442241",
-   "created_at": "2026-11-25T21:19:05.000Z",
-   "edit_history_tweet_ids": [
-    "2125700827247759707"
-   ],
-   "id": "2125700827247759707",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 9,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Not Your Grandmother’s Dirty Bomb, \nExplaining the rationale of the Jihadi politics of the Muslim Brotherhood\nBret Weinstein https://t.co/9opCn016zw",
-   "url": "https://x.com/RainmakerDude/status/2125700827247759707"
-  },
-  {
-   "author_id": "1337531542114078722",
-   "created_at": "2026-11-25T21:57:05.000Z",
-   "edit_history_tweet_ids": [
-    "2125710391808262431"
-   ],
-   "id": "2125710391808262431",
-   "public_metrics": {
-    "bookmark_count": 2,
-    "impression_count": 1027,
-    "like_count": 14,
-    "quote_count": 1,
-    "reply_count": 4,
-    "retweet_count": 9
-   },
-   "text": "What Will Be Revealed If We Look Really Close At Election Work? https://t.co/qs9tQlzbfN",
-   "url": "https://x.com/JovanHPulitzer/status/2125710391808262431"
-  },
-  {
-   "author_id": "808368180448075777",
-   "created_at": "2026-11-25T23:57:08.000Z",
-   "edit_history_tweet_ids": [
-    "2125740602058842583"
-   ],
-   "id": "2125740602058842583",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 98,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "ISIS Threat in America: Is Your Family Prepared? https://t.co/BH3nBmJziU",
-   "url": "https://x.com/SurvivalReport/status/2125740602058842583"
-  },
-  {
-   "author_id": "2039037723990732800",
-   "created_at": "2026-11-25T23:00:05.000Z",
-   "edit_history_tweet_ids": [
-    "2125726245459513754"
-   ],
-   "id": "2125726245459513754",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 3,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Thune the Traitor, The Save America Act, and Mamdani Rejects the SRG (REPLAY) https://t.co/x8PYtyKUud",
-   "url": "https://x.com/OutOfPocketLive/status/2125726245459513754"
-  },
-  {
-   "author_id": "135670703",
-   "created_at": "2026-11-25T21:52:07.000Z",
-   "edit_history_tweet_ids": [
-    "2125709139296899427"
-   ],
-   "id": "2125709139296899427",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 26,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "MERI MESSAGE on THANKSGIVING and the BIRTH of a NEW NATION - AMERICA! https://t.co/zfLkf1ig2r",
-   "url": "https://x.com/mericrouley/status/2125709139296899427"
-  },
-  {
-   "author_id": "1585667220591345674",
-   "created_at": "2026-11-25T23:00:12.000Z",
-   "edit_history_tweet_ids": [
-    "2125726275520070071"
-   ],
-   "id": "2125726275520070071",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 550,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Space Revolution Ep. 46 - National Security &amp; What Happens if America is not First https://t.co/0WPuvUy4Jc",
-   "url": "https://x.com/BadlandsMedia_/status/2125726275520070071"
-  },
-  {
-   "author_id": "1783593837052465152",
-   "created_at": "2026-11-26T00:00:37.000Z",
-   "edit_history_tweet_ids": [
-    "2125741478190239933"
-   ],
-   "id": "2125741478190239933",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 184,
-    "like_count": 10,
-    "quote_count": 1,
-    "reply_count": 0,
-    "retweet_count": 10
-   },
-   "text": "Secret America Live! - Episode 287 - What Lives Under NYC? https://t.co/9cmAcs6vbd",
-   "url": "https://x.com/SecretAmericaTV/status/2125741478190239933"
-  },
-  {
-   "author_id": "2160948666",
-   "created_at": "2026-11-26T00:02:49.000Z",
-   "edit_history_tweet_ids": [
-    "2125742033453166753"
-   ],
-   "id": "2125742033453166753",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 43,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Iowa Lead Explosion Aftermath: What Air Tests Show + Quebec, Iran &amp; Ukraine News https://t.co/kXrABKh2RP",
-   "url": "https://x.com/rw581/status/2125742033453166753"
-  },
-  {
-   "author_id": "26014321",
-   "created_at": "2026-11-25T22:59:45.000Z",
-   "edit_history_tweet_ids": [
-    "2125726161254687116"
-   ],
-   "id": "2125726161254687116",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 242,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "The 7pm News on CNC3 - November 25 2026 https://t.co/573XB0OMvH",
-   "url": "https://x.com/CNC3TV/status/2125726161254687116"
-  },
-  {
-   "author_id": "1189608528950054913",
-   "created_at": "2026-11-25T22:00:33.000Z",
-   "edit_history_tweet_ids": [
-    "2125711260830605333"
-   ],
-   "id": "2125711260830605333",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 387,
-    "like_count": 4,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Army Iowa Lead Detonation Aftermath &amp; More Viral News! | Bek Live https://t.co/wwjPBTvjK5",
-   "url": "https://x.com/BekLoverNYC/status/2125711260830605333"
-  },
-  {
-   "author_id": "1232418050294636544",
-   "created_at": "2026-11-25T23:02:35.000Z",
-   "edit_history_tweet_ids": [
-    "2125726874928050368"
-   ],
-   "id": "2125726874928050368",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 26,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Patriots News: Patriots Chargers Preview and week 12 predictions https://t.co/7cIzsul6k8",
-   "url": "https://x.com/kenspatstalk/status/2125726874928050368"
-  },
-  {
-   "author_id": "130157613",
-   "created_at": "2026-11-25T21:58:30.000Z",
-   "edit_history_tweet_ids": [
-    "2125710745199341697"
-   ],
-   "id": "2125710745199341697",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 116,
-    "like_count": 2,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "Real News with Lucretia Hughes | Thanksgiving Special https://t.co/UUquUt8Hca",
-   "url": "https://x.com/cre35/status/2125710745199341697"
-  },
-  {
-   "author_id": "1310610871236915200",
-   "created_at": "2026-11-25T22:53:42.000Z",
-   "edit_history_tweet_ids": [
-    "2125724639678636514"
-   ],
-   "id": "2125724639678636514",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 83,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "🚨 TONIGHT ON LIBERTY LENS\n\nShould the president of the United States have a say in who runs a private corporation?\n\nThe Nvidia controversy raises serious questions about the limits of presidential power.\n\nJoin us LIVE: https://t.co/vxpDSl2m62",
-   "url": "https://x.com/miketermaat_/status/2125724639678636514"
-  },
-  {
-   "author_id": "408244773",
-   "created_at": "2026-11-25T21:40:11.000Z",
-   "edit_history_tweet_ids": [
-    "2125706138524012858"
-   ],
-   "id": "2125706138524012858",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 52,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "MADD: USAID's Global Censorship and Blacklisting of \"Right\" News https://t.co/wGBOAL4j4c",
-   "url": "https://x.com/LionsofLiberty/status/2125706138524012858"
-  },
-  {
-   "author_id": "357198182",
-   "created_at": "2026-11-25T22:02:12.000Z",
-   "edit_history_tweet_ids": [
-    "2125711679317012719"
-   ],
-   "id": "2125711679317012719",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 227,
-    "like_count": 9,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 5
-   },
-   "text": "Aeons Online EP45 Live! SPX6900 Token News - Updates - Events $SPX6900 https://t.co/BMhxEavc9X",
-   "url": "https://x.com/JordanRiz/status/2125711679317012719"
-  },
-  {
-   "author_id": "2108726018219425792",
-   "created_at": "2026-11-25T23:22:36.000Z",
-   "edit_history_tweet_ids": [
-    "2125731911007977748"
-   ],
-   "id": "2125731911007977748",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 109,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 1
-   },
-   "text": "THE H3H3 PODCAST IS OVER! + Strawbs Testimony  [ HUMP DAY/ Vtuber News ] https://t.co/OagW0R3Pqb",
-   "url": "https://x.com/MommaOcco_/status/2125731911007977748"
-  },
-  {
-   "author_id": "1592394953346334720",
-   "created_at": "2026-11-25T23:31:27.000Z",
-   "edit_history_tweet_ids": [
-    "2125734140012376068"
-   ],
-   "id": "2125734140012376068",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 11,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "https://t.co/QtIgwRVLmP \n\nJUST THE NEWS - NO NOISE  @JustTheNews  SHOW ❗️LIVE\n\nWith JOHN SOLOMON @jsolomonReports\n\nAnd AMANDA HEAD @AmandaHead hosting",
-   "url": "https://x.com/MyriamCarlyle/status/2125734140012376068"
-  },
-  {
-   "author_id": "1648673806997770242",
-   "created_at": "2026-11-25T22:45:26.000Z",
-   "edit_history_tweet_ids": [
-    "2125722557282168853"
-   ],
-   "id": "2125722557282168853",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 182,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Mets Offseason Discussion LIVE! | Mets Next Move Coming Soon? | New York Mets News &amp; Trade Rumors https://t.co/4GTSFygowT",
-   "url": "https://x.com/TrueMetsTalkCP/status/2125722557282168853"
-  },
-  {
-   "author_id": "467643219",
-   "created_at": "2026-11-25T23:58:42.000Z",
-   "edit_history_tweet_ids": [
-    "2125740995278958788"
-   ],
-   "id": "2125740995278958788",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 19,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "The Mike Schwartz Show LIVE | Today's Biggest Stories + Political News &amp; Analysis https://t.co/4PkLeZzshk",
-   "url": "https://x.com/MJSchwartz1/status/2125740995278958788"
-  },
-  {
-   "author_id": "1462911175658668032",
-   "created_at": "2026-11-25T22:50:02.000Z",
-   "edit_history_tweet_ids": [
-    "2125723715430224036"
-   ],
-   "id": "2125723715430224036",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 198,
-    "like_count": 5,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 2
-   },
-   "text": "Divini Homines 16, 0036 [November 25, 2026] | QRTRV World News Daily @ 5:00 P.M. CST https://t.co/Kiha7Q5v3n",
-   "url": "https://x.com/Forsaken111CJM/status/2125723715430224036"
-  },
-  {
-   "author_id": "40877411",
-   "created_at": "2026-11-25T22:05:51.000Z",
-   "edit_history_tweet_ids": [
-    "2125712597919949126"
-   ],
-   "id": "2125712597919949126",
-   "public_metrics": {
-    "bookmark_count": 1,
-    "impression_count": 348,
-    "like_count": 9,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 10
-   },
-   "text": "Top Five News Weekend Edition: LinkedIn CEO Says the Job Market Is Frozen https://t.co/VGj3ww4Ue7",
-   "url": "https://x.com/JoeHeadhunter/status/2125712597919949126"
-  }
- ],
- "users": [
-  {
-   "id": "24179879",
-   "name": "Cincinnati Bengals",
-   "public_metrics": {
-    "followers_count": 1647017,
-    "following_count": 188,
-    "like_count": 3265,
-    "listed_count": 7285,
-    "media_count": 22802,
-    "tweet_count": 43548
-   },
-   "username": "Bengals",
-   "verified": true,
-   "verified_type": "business"
-  },
-  {
-   "id": "819967215218749440",
-   "name": "Steve Ram",
-   "public_metrics": {
-    "followers_count": 8830,
-    "following_count": 25,
-    "like_count": 3,
-    "listed_count": 6,
-    "media_count": 1045,
-    "tweet_count": 1450
-   },
-   "username": "SteveRamNews",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "135189186",
-   "name": "Zak Paine",
-   "public_metrics": {
-    "followers_count": 116721,
-    "following_count": 6314,
-    "like_count": 74893,
-    "listed_count": 347,
-    "media_count": 5081,
-    "tweet_count": 31125
-   },
-   "username": "RedPill78",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "770781940341288960",
-   "name": "Rudy W. Giuliani",
-   "public_metrics": {
-    "followers_count": 1913575,
-    "following_count": 1366,
-    "like_count": 20902,
-    "listed_count": 5124,
-    "media_count": 3158,
-    "tweet_count": 16831
-   },
-   "username": "RudyGiuliani",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2047134404850442241",
-   "name": "PHARAOH GAMMA",
-   "public_metrics": {
-    "followers_count": 326,
-    "following_count": 1140,
-    "like_count": 9279,
-    "listed_count": 0,
-    "media_count": 5306,
-    "tweet_count": 6359
-   },
-   "username": "RainmakerDude",
-   "verified": false,
-   "verified_type": "none"
-  },
-  {
-   "id": "1337531542114078722",
-   "name": "JovanHuttonPulitzer",
-   "public_metrics": {
-    "followers_count": 154527,
-    "following_count": 325,
-    "like_count": 44052,
-    "listed_count": 313,
-    "media_count": 8646,
-    "tweet_count": 83117
-   },
-   "username": "JovanHPulitzer",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "808368180448075777",
-   "name": "Christopher Heaven",
-   "public_metrics": {
-    "followers_count": 10887,
-    "following_count": 855,
-    "like_count": 31713,
-    "listed_count": 53,
-    "media_count": 2043,
-    "tweet_count": 11589
-   },
-   "username": "SurvivalReport",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2039037723990732800",
-   "name": "Out of Pocket!",
-   "public_metrics": {
-    "followers_count": 65,
-    "following_count": 61,
-    "like_count": 67,
-    "listed_count": 0,
-    "media_count": 44,
-    "tweet_count": 282
-   },
-   "username": "OutOfPocketLive",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "135670703",
-   "name": "Meri Crouley",
-   "public_metrics": {
-    "followers_count": 1398,
-    "following_count": 433,
-    "like_count": 879,
-    "listed_count": 3,
-    "media_count": 269,
-    "tweet_count": 1074
-   },
-   "username": "mericrouley",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1585667220591345674",
-   "name": "Badlands Media",
-   "public_metrics": {
-    "followers_count": 47463,
-    "following_count": 49,
-    "like_count": 3291,
-    "listed_count": 137,
-    "media_count": 3610,
-    "tweet_count": 30896
-   },
-   "username": "BadlandsMedia_",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1783593837052465152",
-   "name": "Secret America Live!",
-   "public_metrics": {
-    "followers_count": 11818,
-    "following_count": 704,
-    "like_count": 12623,
-    "listed_count": 9,
-    "media_count": 327,
-    "tweet_count": 9612
-   },
-   "username": "SecretAmericaTV",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2160948666",
-   "name": "Maverick News",
-   "public_metrics": {
-    "followers_count": 828,
-    "following_count": 317,
-    "like_count": 32,
-    "listed_count": 10,
-    "media_count": 858,
-    "tweet_count": 3464
-   },
-   "username": "rw581",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "26014321",
-   "name": "CNC3TV",
-   "public_metrics": {
-    "followers_count": 229568,
-    "following_count": 637,
-    "like_count": 1296,
-    "listed_count": 425,
-    "media_count": 91587,
-    "tweet_count": 166274
-   },
-   "username": "CNC3TV",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1189608528950054913",
-   "name": "Bek Lover",
-   "public_metrics": {
-    "followers_count": 21658,
-    "following_count": 619,
-    "like_count": 2207,
-    "listed_count": 51,
-    "media_count": 1600,
-    "tweet_count": 6838
-   },
-   "username": "BekLoverNYC",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1232418050294636544",
-   "name": "Kenspatstalk",
-   "public_metrics": {
-    "followers_count": 527,
-    "following_count": 886,
-    "like_count": 35867,
-    "listed_count": 2,
-    "media_count": 217,
-    "tweet_count": 3755
-   },
-   "username": "kenspatstalk",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "130157613",
-   "name": "Lucretia Hughes",
-   "public_metrics": {
-    "followers_count": 9016,
-    "following_count": 2052,
-    "like_count": 18372,
-    "listed_count": 20,
-    "media_count": 2494,
-    "tweet_count": 29902
-   },
-   "username": "cre35",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1310610871236915200",
-   "name": "Mike ter Maat",
-   "public_metrics": {
-    "followers_count": 18224,
-    "following_count": 1163,
-    "like_count": 4330,
-    "listed_count": 61,
-    "media_count": 2625,
-    "tweet_count": 13968
-   },
-   "username": "miketermaat_",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "408244773",
-   "name": "Lions of Liberty Network",
-   "public_metrics": {
-    "followers_count": 11125,
-    "following_count": 3984,
-    "like_count": 8750,
-    "listed_count": 200,
-    "media_count": 1037,
-    "tweet_count": 28526
-   },
-   "username": "LionsofLiberty",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "357198182",
-   "name": "Jordan Riz💹🧲",
-   "public_metrics": {
-    "followers_count": 3537,
-    "following_count": 3337,
-    "like_count": 221167,
-    "listed_count": 17,
-    "media_count": 7815,
-    "tweet_count": 53253
-   },
-   "username": "JordanRiz",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "2108726018219425792",
-   "name": "Momma Occo 🐙💅 (UnderTheTea)",
-   "public_metrics": {
-    "followers_count": 1994,
-    "following_count": 202,
-    "like_count": 1099,
-    "listed_count": 4,
-    "media_count": 207,
-    "tweet_count": 1381
-   },
-   "username": "MommaOcco_",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1592394953346334720",
-   "name": "Myriam Carlyle",
-   "public_metrics": {
-    "followers_count": 4709,
-    "following_count": 7499,
-    "like_count": 66313,
-    "listed_count": 2,
-    "media_count": 662,
-    "tweet_count": 62012
-   },
-   "username": "MyriamCarlyle",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1648673806997770242",
-   "name": "True Mets Talk 🍎",
-   "public_metrics": {
-    "followers_count": 2816,
-    "following_count": 2051,
-    "like_count": 11737,
-    "listed_count": 17,
-    "media_count": 4095,
-    "tweet_count": 35129
-   },
-   "username": "TrueMetsTalkCP",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "467643219",
-   "name": "Dr. Michael J Schwartz",
-   "public_metrics": {
-    "followers_count": 1390,
-    "following_count": 191,
-    "like_count": 231,
-    "listed_count": 9,
-    "media_count": 37,
-    "tweet_count": 1094
-   },
-   "username": "MJSchwartz1",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "1462911175658668032",
-   "name": "H.E. Right Hon 2nd PM Christopher J Maffenbeier",
-   "public_metrics": {
-    "followers_count": 161,
-    "following_count": 59,
-    "like_count": 73,
-    "listed_count": 1,
-    "media_count": 54,
-    "tweet_count": 340
-   },
-   "username": "Forsaken111CJM",
-   "verified": true,
-   "verified_type": "blue"
-  },
-  {
-   "id": "40877411",
-   "name": "Joe Pelayo",
-   "public_metrics": {
-    "followers_count": 16751,
-    "following_count": 7021,
-    "like_count": 27278,
-    "listed_count": 26,
-    "media_count": 7607,
-    "tweet_count": 47203
-   },
-   "username": "JoeHeadhunter",
-   "verified": true,
-   "verified_type": "blue"
-  }
- ]
 }

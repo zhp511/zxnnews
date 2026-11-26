@@ -1,105 +1,103 @@
 {
- "fetched_at": "2026-11-26T00:11:17Z",
- "tool": "x.get_trends_by_woeid",
- "args": {
-  "woeid": 23424977
- },
- "data": [
-  {
-   "trend_name": "Rodgers",
-   "tweet_count": 290906,
-   "url": "https://x.com/search?q=Rodgers"
+  "fetched_at": "2026-11-26T17:48:57Z",
+  "tool": "x.get_trends_by_woeid",
+  "args": {
+    "woeid": 23424977
   },
-  {
-   "trend_name": "Rodgers",
-   "tweet_count": 290906,
-   "url": "https://x.com/search?q=Rodgers"
-  },
-  {
-   "trend_name": "Thanksgiving",
-   "tweet_count": 585085,
-   "url": "https://x.com/search?q=Thanksgiving"
-  },
-  {
-   "trend_name": "Steelers",
-   "tweet_count": 191199,
-   "url": "https://x.com/search?q=Steelers"
-  },
-  {
-   "trend_name": "Packers",
-   "tweet_count": 46319,
-   "url": "https://x.com/search?q=Packers"
-  },
-  {
-   "trend_name": "Duran Duran",
-   "tweet_count": 41187,
-   "url": "https://x.com/search?q=Duran%20Duran"
-  },
-  {
-   "trend_name": "Andy Taylor",
-   "tweet_count": 18596,
-   "url": "https://x.com/search?q=Andy%20Taylor"
-  },
-  {
-   "trend_name": "Green Bay",
-   "tweet_count": 7890,
-   "url": "https://x.com/search?q=Green%20Bay"
-  },
-  {
-   "trend_name": "McAfee",
-   "tweet_count": 20456,
-   "url": "https://x.com/search?q=McAfee"
-  },
-  {
-   "trend_name": "Rooney",
-   "tweet_count": 15293,
-   "url": "https://x.com/search?q=Rooney"
-  },
-  {
-   "trend_name": "Lammens",
-   "tweet_count": 29003,
-   "url": "https://x.com/search?q=Lammens"
-  },
-  {
-   "trend_name": "USAID",
-   "tweet_count": 275886,
-   "url": "https://x.com/search?q=USAID"
-  },
-  {
-   "trend_name": "#oopsallfarts",
-   "url": "https://x.com/search?q=%23oopsallfarts"
-  },
-  {
-   "trend_name": "Greg Jennings",
-   "url": "https://x.com/search?q=Greg%20Jennings"
-  },
-  {
-   "trend_name": "ARod",
-   "tweet_count": 3896,
-   "url": "https://x.com/search?q=ARod"
-  },
-  {
-   "trend_name": "Rams",
-   "tweet_count": 22753,
-   "url": "https://x.com/search?q=Rams"
-  },
-  {
-   "trend_name": "#DabbleAltPicks",
-   "url": "https://x.com/search?q=%23DabbleAltPicks"
-  },
-  {
-   "trend_name": "AJ Hawk",
-   "tweet_count": 1837,
-   "url": "https://x.com/search?q=AJ%20Hawk"
-  },
-  {
-   "trend_name": "TJ Lang",
-   "url": "https://x.com/search?q=TJ%20Lang"
-  },
-  {
-   "trend_name": "Zyri",
-   "tweet_count": 37928,
-   "url": "https://x.com/search?q=Zyri"
-  }
- ]
+  "data": [
+    {
+      "trend_name": "Thanksgiving",
+      "tweet_count": 1543246,
+      "url": "https://x.com/search?q=Thanksgiving"
+    },
+    {
+      "trend_name": "Thankful",
+      "tweet_count": 269041,
+      "url": "https://x.com/search?q=Thankful"
+    },
+    {
+      "trend_name": "Turkey",
+      "tweet_count": 193631,
+      "url": "https://x.com/search?q=Turkey"
+    },
+    {
+      "trend_name": "Lions",
+      "tweet_count": 42502,
+      "url": "https://x.com/search?q=Lions"
+    },
+    {
+      "trend_name": "Grateful",
+      "tweet_count": 169216,
+      "url": "https://x.com/search?q=Grateful"
+    },
+    {
+      "trend_name": "Go Bills",
+      "tweet_count": 7636,
+      "url": "https://x.com/search?q=Go%20Bills"
+    },
+    {
+      "trend_name": "Go Birds",
+      "tweet_count": 2718,
+      "url": "https://x.com/search?q=Go%20Birds"
+    },
+    {
+      "trend_name": "Gobble Gobble",
+      "tweet_count": 17586,
+      "url": "https://x.com/search?q=Gobble%20Gobble"
+    },
+    {
+      "trend_name": "Feliz Día de Acción de Gracias",
+      "tweet_count": 2493,
+      "url": "https://x.com/search?q=Feliz%20D%C3%ADa%20de%20Acci%C3%B3n%20de%20Gracias"
+    },
+    {
+      "trend_name": "Bears ML",
+      "tweet_count": 1030,
+      "url": "https://x.com/search?q=Bears%20ML"
+    },
+    {
+      "trend_name": "#OnePride",
+      "tweet_count": 1641,
+      "url": "https://x.com/search?q=%23OnePride"
+    },
+    {
+      "trend_name": "#Gratitude",
+      "tweet_count": 4156,
+      "url": "https://x.com/search?q=%23Gratitude"
+    },
+    {
+      "trend_name": "Go Bears",
+      "tweet_count": 1533,
+      "url": "https://x.com/search?q=Go%20Bears"
+    },
+    {
+      "trend_name": "Wonnum",
+      "url": "https://x.com/search?q=Wonnum"
+    },
+    {
+      "trend_name": "Myles Colvin",
+      "url": "https://x.com/search?q=Myles%20Colvin"
+    },
+    {
+      "trend_name": "#BetrPicks",
+      "url": "https://x.com/search?q=%23BetrPicks"
+    },
+    {
+      "trend_name": "Jameson Williams",
+      "url": "https://x.com/search?q=Jameson%20Williams"
+    },
+    {
+      "trend_name": "Larry Hagman",
+      "url": "https://x.com/search?q=Larry%20Hagman"
+    },
+    {
+      "trend_name": "#GobbyGiving",
+      "tweet_count": 1468,
+      "url": "https://x.com/search?q=%23GobbyGiving"
+    },
+    {
+      "trend_name": "Hannah Hidalgo",
+      "url": "https://x.com/search?q=Hannah%20Hidalgo"
+    }
+  ]
 }
