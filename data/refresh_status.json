@@ -14,7 +14,7 @@
       "2125745424346820869"
     ],
     "newest_id": "2125943231057674518",
-    "published": false,
+    "published": true,
     "refreshed": [
       "posts",
       "trending",
@@ -30,10 +30,11 @@
       "following": "skipped, featured_accounts empty",
       "tv": "refreshed",
       "xlive": "refreshed search fetched_at 2026-11-26T17:48:57Z",
-      "update": "update.py ok"
+      "update": "update.py ok",
+      "publish": "pushed 95eb471; pages=built http=200"
     }
   },
-  "last_publish": null,
-  "note": "X check succeeded",
-  "failure_streak": 1
+  "last_publish": "2026-11-26T17:48:57Z",
+  "note": "pushed 95eb471; pages=built http=200",
+  "failure_streak": 0
 }
