@@ -134,3 +134,12 @@ img{max-width:100%;display:block}
 .top > *, .grid > *, .wx-grid > *{min-width:0}
 .linkchip{min-width:0}
 .linkchip span{min-width:0}
+
+/* Holiday greeting banner (from site_config.json holiday_banner). Hidden unless JS fills it. */
+.holiday-banner{margin:28px auto 8px;padding:0}
+.holiday-banner-inner{max-width:min(720px,100%);margin:0 auto}
+.holiday-banner img{width:100%;height:auto;display:block;border-radius:10px;box-shadow:0 8px 24px rgba(7,29,59,.14);background:#f3efe6}
+@media (max-width:560px){
+  .holiday-banner{margin:18px auto 4px}
+  .holiday-banner img{border-radius:8px}
+}

@@ -1,855 +1,856 @@
 {
-  "fetched_at": "2026-11-24T18:01:00Z",
-  "tool": "x.search_posts_all",
-  "args": {
-    "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
-    "start_time": "2026-11-24T15:01:00Z",
-    "max_results": 25,
-    "sort_order": "relevancy",
-    "post.fields": [
-      "created_at",
-      "public_metrics",
-      "entities",
-      "text"
-    ],
-    "expansions": [
-      "author_id"
-    ],
-    "user.fields": [
-      "name",
-      "username",
-      "verified",
-      "verified_type",
-      "public_metrics"
-    ]
-  },
-  "data": [
-    {
-      "author_id": "1900375238548086788",
-      "created_at": "2026-11-24T15:47:06.000Z",
-      "edit_history_tweet_ids": [
-        "2125254891442405627"
-      ],
-      "id": "2125254891442405627",
-      "public_metrics": {
-        "bookmark_count": 1,
-        "impression_count": 323,
-        "like_count": 12,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 6
-      },
-      "text": "🇺🇸 President Donald Trump Hosts Medal of Freedom Ceremony at The White House [LIVE] https://t.co/HG9hcrtIAq",
-      "url": "https://x.com/magnonewslive/status/2125254891442405627"
-    },
-    {
-      "author_id": "27872334",
-      "created_at": "2026-11-24T16:57:36.000Z",
-      "edit_history_tweet_ids": [
-        "2125272633021198572"
-      ],
-      "id": "2125272633021198572",
-      "public_metrics": {
-        "bookmark_count": 1,
-        "impression_count": 1510,
-        "like_count": 12,
-        "quote_count": 1,
-        "reply_count": 2,
-        "retweet_count": 3
-      },
-      "text": "Rich Rodriguez Press Conference https://t.co/ufYV2JnwFC",
-      "url": "https://x.com/WVUSports/status/2125272633021198572"
-    },
-    {
-      "author_id": "1197064033",
-      "created_at": "2026-11-24T17:00:17.000Z",
-      "edit_history_tweet_ids": [
-        "2125273308648153400"
-      ],
-      "id": "2125273308648153400",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 1765,
-        "like_count": 7,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 4
-      },
-      "text": "Live Now 🎥: Football Press Conference https://t.co/WOec6fqsfF",
-      "url": "https://x.com/OhioStAthletics/status/2125273308648153400"
-    },
-    {
-      "author_id": "53103297",
-      "created_at": "2026-11-24T17:42:41.000Z",
-      "edit_history_tweet_ids": [
-        "2125283979590799737"
-      ],
-      "id": "2125283979590799737",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 1914,
-        "like_count": 12,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Head Coach Matt Campbell Press Conference https://t.co/R4YdI1AWP8",
-      "url": "https://x.com/PennStateFball/status/2125283979590799737"
-    },
-    {
-      "author_id": "747386497",
-      "created_at": "2026-11-24T17:05:11.000Z",
-      "edit_history_tweet_ids": [
-        "2125274541907722515"
-      ],
-      "id": "2125274541907722515",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 949,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "LIVE: Weekly Press Conference https://t.co/V4jI284EVW",
-      "url": "https://x.com/GoBearcatsFB/status/2125274541907722515"
-    },
-    {
-      "author_id": "25099042",
-      "created_at": "2026-11-24T17:04:19.000Z",
-      "edit_history_tweet_ids": [
-        "2125274326656024932"
-      ],
-      "id": "2125274326656024932",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 899,
-        "like_count": 2,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Cincinnati Football Weekly Press Conference (November 24, 2026) https://t.co/uHTP4nx8E4",
-      "url": "https://x.com/GoBEARCATS/status/2125274326656024932"
-    },
-    {
-      "author_id": "113096450",
-      "created_at": "2026-11-24T15:33:46.000Z",
-      "edit_history_tweet_ids": [
-        "2125251536372519078"
-      ],
-      "id": "2125251536372519078",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 126,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Live Video: Minister Tinee Furbert &amp; Attorney-General Kim Wilkerson press conference https://t.co/zEsWdm8j9u",
-      "url": "https://x.com/bernewsdotcom/status/2125251536372519078"
-    },
-    {
-      "author_id": "42548887",
-      "created_at": "2026-11-24T17:33:13.000Z",
-      "edit_history_tweet_ids": [
-        "2125281599004495919"
-      ],
-      "id": "2125281599004495919",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 26,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "NYC Mayor Mamdani Holds Press Conference to Make Transportation Announcement https://t.co/1QEir4nlKi",
-      "url": "https://x.com/DiyaTV/status/2125281599004495919"
-    },
-    {
-      "author_id": "407208905",
-      "created_at": "2026-11-24T17:30:14.000Z",
-      "edit_history_tweet_ids": [
-        "2125280846999425165"
-      ],
-      "id": "2125280846999425165",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 3325,
-        "like_count": 50,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 8
-      },
-      "text": "Press Conference 🎙️ | Week 13 at Missouri | @MidFirst https://t.co/yO3yc4VlgG",
-      "url": "https://x.com/OU_Football/status/2125280846999425165"
-    },
-    {
-      "author_id": "1481120972036050948",
-      "created_at": "2026-11-24T17:40:02.000Z",
-      "edit_history_tweet_ids": [
-        "2125283314554618124"
-      ],
-      "id": "2125283314554618124",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 28,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Dr. Matthews and Quanell X hold a press conference outside Stellar Bank in Katy https://t.co/Cm3uM8MS8b",
-      "url": "https://x.com/htownstringer/status/2125283314554618124"
-    },
-    {
-      "author_id": "8824902",
-      "created_at": "2026-11-24T17:47:13.000Z",
-      "edit_history_tweet_ids": [
-        "2125285121385222359"
-      ],
-      "id": "2125285121385222359",
-      "public_metrics": {
-        "bookmark_count": 2,
-        "impression_count": 5459,
-        "like_count": 12,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 3
-      },
-      "text": "Join HC Brian Schottenheimer from The Star in Frisco for a press conference presented by Miller Lite\n \nUp Next 📺: #PHIvsDAL 11/26 on FOX\n \n#DallasCowboys | @MillerLite \n\nhttps://t.co/NZg9rRTGLU",
-      "url": "https://x.com/dallascowboys/status/2125285121385222359"
-    },
-    {
-      "author_id": "86177206",
-      "created_at": "2026-11-24T18:00:11.000Z",
-      "edit_history_tweet_ids": [
-        "2125288384629223815"
-      ],
-      "id": "2125288384629223815",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 57,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Why did Republicans lose the midterms? Dillon Fillion, 22, ran for the Iowa House and blames Congress. He says affordability promises never became law and the SAVE America Act is still sitting in the Senate.\n\nhttps://t.co/SKcL5Xi6qm",
-      "url": "https://x.com/TPPatriots/status/2125288384629223815"
-    },
-    {
-      "author_id": "17963831",
-      "created_at": "2026-11-24T15:02:28.000Z",
-      "edit_history_tweet_ids": [
-        "2125243661348639022"
-      ],
-      "id": "2125243661348639022",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 31,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Dave Anderson Morning News (D.A.M.N) 11.24.2026 | News • Culture • Politics • Roast • No B.S https://t.co/VlGDDFTje7",
-      "url": "https://x.com/DaBusinessBully/status/2125243661348639022"
-    },
-    {
-      "author_id": "104872280",
-      "created_at": "2026-11-24T16:59:58.000Z",
-      "edit_history_tweet_ids": [
-        "2125273230231413211"
-      ],
-      "id": "2125273230231413211",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 1301,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "🚨 Citi FM LIVE!!! | Eyewitness News - Breaking News From Ghana | 24-11-26 | #CitiNewsroom https://t.co/x5DoDCNMll",
-      "url": "https://x.com/Citi973/status/2125273230231413211"
-    },
-    {
-      "author_id": "1942927435378388992",
-      "created_at": "2026-11-24T16:32:34.000Z",
-      "edit_history_tweet_ids": [
-        "2125266335168946223"
-      ],
-      "id": "2125266335168946223",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 141,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "LIVE ON Youtube! | BREAKING: DCL &amp; Tanaka Set For New Leeds Deals! |  |  #LUFC News https://t.co/U9HEFF5y8I",
-      "url": "https://x.com/TheLeedsLens/status/2125266335168946223"
-    },
-    {
-      "author_id": "4041824789",
-      "created_at": "2026-11-24T17:30:45.000Z",
-      "edit_history_tweet_ids": [
-        "2125280979103175150"
-      ],
-      "id": "2125280979103175150",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 3819,
-        "like_count": 25,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 7
-      },
-      "text": "LIVE: President Trump &amp; The First Lady Host Thanksgiving Turkey Pardoning - 11/24/26 https://t.co/8y943x2GTf",
-      "url": "https://x.com/RSBNetwork/status/2125280979103175150"
-    },
-    {
-      "author_id": "940430173517811714",
-      "created_at": "2026-11-24T17:04:45.000Z",
-      "edit_history_tweet_ids": [
-        "2125274434944540918"
-      ],
-      "id": "2125274434944540918",
-      "public_metrics": {
-        "bookmark_count": 2,
-        "impression_count": 860,
-        "like_count": 30,
-        "quote_count": 0,
-        "reply_count": 3,
-        "retweet_count": 21
-      },
-      "text": "President Trump Orders Death for Killers; Blanche &amp; Kash Crush Scammers https://t.co/Jp60oXDRLC",
-      "url": "https://x.com/intheMatrixxx/status/2125274434944540918"
-    },
-    {
-      "author_id": "996350422586679297",
-      "created_at": "2026-11-24T15:20:33.000Z",
-      "edit_history_tweet_ids": [
-        "2125248209568121125"
-      ],
-      "id": "2125248209568121125",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 18,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Wrongful Convictions, Senate Bill S.3300 &amp; The Price of Justice https://t.co/3RMEgsHy2Q",
-      "url": "https://x.com/canwekeepitrea2/status/2125248209568121125"
-    },
-    {
-      "author_id": "1832972046785228801",
-      "created_at": "2026-11-24T18:00:38.000Z",
-      "edit_history_tweet_ids": [
-        "2125288497078505735"
-      ],
-      "id": "2125288497078505735",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "LIVE with Medi | Politics, Life &amp; Whatever Comes Up | Nov 24 https://t.co/qAK0wjwWg7",
-      "url": "https://x.com/RepAmericaTV/status/2125288497078505735"
-    },
-    {
-      "author_id": "125346858",
-      "created_at": "2026-11-24T17:59:07.000Z",
-      "edit_history_tweet_ids": [
-        "2125288116575461787"
-      ],
-      "id": "2125288116575461787",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 9587,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "text": "Politics Today https://t.co/uO5sn1vUNM",
-      "url": "https://x.com/channelstv/status/2125288116575461787"
-    },
-    {
-      "author_id": "1523816865402802176",
-      "created_at": "2026-11-24T17:00:13.000Z",
-      "edit_history_tweet_ids": [
-        "2125273291510157796"
-      ],
-      "id": "2125273291510157796",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 6,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "The Third Phase with John C. Adams #politics#religion#entertainment https://t.co/nKwzkzBQ8H",
-      "url": "https://x.com/1churchandstate/status/2125273291510157796"
-    },
-    {
-      "author_id": "1917340261",
-      "created_at": "2026-11-24T17:30:04.000Z",
-      "edit_history_tweet_ids": [
-        "2125280807526740176"
-      ],
-      "id": "2125280807526740176",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 116,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "text": "Hebrew Israelite vs Christian Apologist (HEATED DEBATE) https://t.co/MOhQ5X2msQ",
-      "url": "https://x.com/seankelly25/status/2125280807526740176"
-    },
-    {
-      "author_id": "1638697535836389376",
-      "created_at": "2026-11-24T17:28:42.000Z",
-      "edit_history_tweet_ids": [
-        "2125280462704701866"
-      ],
-      "id": "2125280462704701866",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 27,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Christian men are not limited to one wife only | LIVE OPEN DEBATE https://t.co/xvdvS38KcS",
-      "url": "https://x.com/biblemarriages/status/2125280462704701866"
-    },
-    {
-      "author_id": "1724099824956424192",
-      "created_at": "2026-11-24T17:30:04.000Z",
-      "edit_history_tweet_ids": [
-        "2125280806763438275"
-      ],
-      "id": "2125280806763438275",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 15,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Was Joseph Jesus' Biological Father According To Prophecy? | Debate https://t.co/7gDqTcMK0y",
-      "url": "https://x.com/TheRagingT0mat0/status/2125280806763438275"
-    },
-    {
-      "author_id": "381429945",
-      "created_at": "2026-11-24T16:11:13.000Z",
-      "edit_history_tweet_ids": [
-        "2125260961149825298"
-      ],
-      "id": "2125260961149825298",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 1743,
-        "like_count": 3,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "(Ro16) Debate: \"Religious Institutions Should Be Regulated As Public-Interest Organisations\" https://t.co/yIxwEUejBm",
-      "url": "https://x.com/NigeriainfoFM/status/2125260961149825298"
-    }
+ "fetched_at": "2026-11-26T00:11:17Z",
+ "tool": "x.search_posts_all",
+ "args": {
+  "query": "url:\"x.com/i/broadcasts\" -is:retweet -is:reply -is:quote lang:en (news OR breaking OR politics OR Trump OR president OR election OR debate OR congress OR senate OR hurricane OR \"press conference\" OR \"White House\" OR America) -nfl -mlb -nba -game -postgame -onlyfans -crypto",
+  "start_time": "2026-11-25T21:08:00Z",
+  "max_results": 25,
+  "sort_order": "relevancy",
+  "post.fields": [
+   "created_at",
+   "public_metrics",
+   "entities",
+   "text"
   ],
-  "users": [
-    {
-      "id": "1900375238548086788",
-      "name": "MAGNO NEWS LIVE",
-      "public_metrics": {
-        "followers_count": 2710,
-        "following_count": 278,
-        "like_count": 28,
-        "listed_count": 16,
-        "media_count": 47,
-        "tweet_count": 2283
-      },
-      "username": "magnonewslive",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "27872334",
-      "name": "WVU Sports",
-      "public_metrics": {
-        "followers_count": 170108,
-        "following_count": 134,
-        "like_count": 20023,
-        "listed_count": 691,
-        "media_count": 7734,
-        "tweet_count": 50315
-      },
-      "username": "WVUSports",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1197064033",
-      "name": "Ohio State Buckeyes 🌰",
-      "public_metrics": {
-        "followers_count": 657398,
-        "following_count": 799,
-        "like_count": 74056,
-        "listed_count": 1481,
-        "media_count": 36162,
-        "tweet_count": 100022
-      },
-      "username": "OhioStAthletics",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "53103297",
-      "name": "Penn State Football",
-      "public_metrics": {
-        "followers_count": 518727,
-        "following_count": 1522,
-        "like_count": 13458,
-        "listed_count": 1921,
-        "media_count": 20232,
-        "tweet_count": 36540
-      },
-      "username": "PennStateFball",
-      "verified": true,
-      "verified_type": "business"
-    },
-    {
-      "id": "747386497",
-      "name": "Cincinnati Football",
-      "public_metrics": {
-        "followers_count": 165291,
-        "following_count": 497,
-        "like_count": 4643,
-        "listed_count": 712,
-        "media_count": 12899,
-        "tweet_count": 22118
-      },
-      "username": "GoBearcatsFB",
-      "verified": true,
-      "verified_type": "business"
-    },
-    {
-      "id": "25099042",
-      "name": "Cincinnati Bearcats",
-      "public_metrics": {
-        "followers_count": 192017,
-        "following_count": 529,
-        "like_count": 10352,
-        "listed_count": 719,
-        "media_count": 11002,
-        "tweet_count": 53943
-      },
-      "username": "GoBEARCATS",
-      "verified": true,
-      "verified_type": "business"
-    },
-    {
-      "id": "113096450",
-      "name": "Bernews",
-      "public_metrics": {
-        "followers_count": 18554,
-        "following_count": 213,
-        "like_count": 2662,
-        "listed_count": 219,
-        "media_count": 21649,
-        "tweet_count": 65685
-      },
-      "username": "bernewsdotcom",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "42548887",
-      "name": "Diya TV",
-      "public_metrics": {
-        "followers_count": 2565,
-        "following_count": 2045,
-        "like_count": 2770,
-        "listed_count": 79,
-        "media_count": 3566,
-        "tweet_count": 18346
-      },
-      "username": "DiyaTV",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "407208905",
-      "name": "Oklahoma Football",
-      "public_metrics": {
-        "followers_count": 765165,
-        "following_count": 933,
-        "like_count": 24424,
-        "listed_count": 1977,
-        "media_count": 22354,
-        "tweet_count": 49445
-      },
-      "username": "OU_Football",
-      "verified": true,
-      "verified_type": "business"
-    },
-    {
-      "id": "1481120972036050948",
-      "name": "Houston Stringer",
-      "public_metrics": {
-        "followers_count": 837,
-        "following_count": 1533,
-        "like_count": 2766,
-        "listed_count": 11,
-        "media_count": 484,
-        "tweet_count": 897
-      },
-      "username": "htownstringer",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "8824902",
-      "name": "Dallas Cowboys",
-      "public_metrics": {
-        "followers_count": 4149343,
-        "following_count": 269,
-        "like_count": 2624,
-        "listed_count": 12023,
-        "media_count": 40471,
-        "tweet_count": 90581
-      },
-      "username": "dallascowboys",
-      "verified": true,
-      "verified_type": "business"
-    },
-    {
-      "id": "86177206",
-      "name": "Tea Party Patriots",
-      "public_metrics": {
-        "followers_count": 214411,
-        "following_count": 28462,
-        "like_count": 4466,
-        "listed_count": 1811,
-        "media_count": 7524,
-        "tweet_count": 61216
-      },
-      "username": "TPPatriots",
-      "verified": true,
-      "verified_type": "business"
-    },
-    {
-      "id": "17963831",
-      "name": "Dave Anderson",
-      "public_metrics": {
-        "followers_count": 8257,
-        "following_count": 7018,
-        "like_count": 6522,
-        "listed_count": 151,
-        "media_count": 1068,
-        "tweet_count": 39487
-      },
-      "username": "DaBusinessBully",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "104872280",
-      "name": "CITI FM 97.3",
-      "public_metrics": {
-        "followers_count": 1733761,
-        "following_count": 527,
-        "like_count": 2876,
-        "listed_count": 713,
-        "media_count": 180179,
-        "tweet_count": 577877
-      },
-      "username": "Citi973",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1942927435378388992",
-      "name": "TheLeedsLens",
-      "public_metrics": {
-        "followers_count": 521,
-        "following_count": 17,
-        "like_count": 38,
-        "listed_count": 1,
-        "media_count": 814,
-        "tweet_count": 1620
-      },
-      "username": "TheLeedsLens",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "4041824789",
-      "name": "RSBN 🇺🇸",
-      "public_metrics": {
-        "followers_count": 1161059,
-        "following_count": 975,
-        "like_count": 12413,
-        "listed_count": 2979,
-        "media_count": 17364,
-        "tweet_count": 50473
-      },
-      "username": "RSBNetwork",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "940430173517811714",
-      "name": "Jeffrey Pedersen",
-      "public_metrics": {
-        "followers_count": 182288,
-        "following_count": 42540,
-        "like_count": 342360,
-        "listed_count": 695,
-        "media_count": 52579,
-        "tweet_count": 147870
-      },
-      "username": "intheMatrixxx",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "996350422586679297",
-      "name": "Can We Keep it Real Podcast",
-      "public_metrics": {
-        "followers_count": 439,
-        "following_count": 785,
-        "like_count": 1534,
-        "listed_count": 1,
-        "media_count": 479,
-        "tweet_count": 3166
-      },
-      "username": "canwekeepitrea2",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1832972046785228801",
-      "name": "Rep America",
-      "public_metrics": {
-        "followers_count": 194,
-        "following_count": 175,
-        "like_count": 362,
-        "listed_count": 1,
-        "media_count": 238,
-        "tweet_count": 505
-      },
-      "username": "RepAmericaTV",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "125346858",
-      "name": "Channels Television",
-      "public_metrics": {
-        "followers_count": 7405773,
-        "following_count": 178,
-        "like_count": 4797,
-        "listed_count": 3895,
-        "media_count": 168193,
-        "tweet_count": 253716
-      },
-      "username": "channelstv",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1523816865402802176",
-      "name": "Church and State",
-      "public_metrics": {
-        "followers_count": 1149,
-        "following_count": 1206,
-        "like_count": 1339,
-        "listed_count": 4,
-        "media_count": 1142,
-        "tweet_count": 2157
-      },
-      "username": "1churchandstate",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1917340261",
-      "name": "Sean Mike Kelly",
-      "public_metrics": {
-        "followers_count": 80515,
-        "following_count": 3130,
-        "like_count": 64988,
-        "listed_count": 238,
-        "media_count": 6876,
-        "tweet_count": 9454
-      },
-      "username": "seankelly25",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "1638697535836389376",
-      "name": "Biblical Marriages",
-      "public_metrics": {
-        "followers_count": 1444,
-        "following_count": 333,
-        "like_count": 22761,
-        "listed_count": 11,
-        "media_count": 2633,
-        "tweet_count": 32214
-      },
-      "username": "biblemarriages",
-      "verified": false,
-      "verified_type": "none"
-    },
-    {
-      "id": "1724099824956424192",
-      "name": "Sara The Raging Tomato",
-      "public_metrics": {
-        "followers_count": 2009,
-        "following_count": 617,
-        "like_count": 1681,
-        "listed_count": 11,
-        "media_count": 828,
-        "tweet_count": 5785
-      },
-      "username": "TheRagingT0mat0",
-      "verified": true,
-      "verified_type": "blue"
-    },
-    {
-      "id": "381429945",
-      "name": "Nigeria Info FM 99.3",
-      "public_metrics": {
-        "followers_count": 1189371,
-        "following_count": 631,
-        "like_count": 4520,
-        "listed_count": 754,
-        "media_count": 29127,
-        "tweet_count": 246768
-      },
-      "username": "NigeriainfoFM",
-      "verified": true,
-      "verified_type": "blue"
-    }
+  "expansions": [
+   "author_id"
+  ],
+  "user.fields": [
+   "name",
+   "username",
+   "verified",
+   "verified_type",
+   "public_metrics"
   ]
+ },
+ "data": [
+  {
+   "author_id": "24179879",
+   "created_at": "2026-11-25T22:45:13.000Z",
+   "edit_history_tweet_ids": [
+    "2125722504161382504",
+    "2125722616635998412"
+   ],
+   "id": "2125722504161382504",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 7488,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Joe Burrow Press Conference - November 25 https://t.co/R7h9Rpukfn",
+   "url": "https://x.com/Bengals/status/2125722504161382504"
+  },
+  {
+   "author_id": "819967215218749440",
+   "created_at": "2026-11-25T23:46:37.000Z",
+   "edit_history_tweet_ids": [
+    "2125737954324656153"
+   ],
+   "id": "2125737954324656153",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 235,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "BREAKING | ‘SLEEPER CELL ATTACKS ON U.S. SOIL ACTIVATED’ ISRAEL WARNS | White House Weighs Strikes https://t.co/SBZBszjbRQ",
+   "url": "https://x.com/SteveRamNews/status/2125737954324656153"
+  },
+  {
+   "author_id": "135189186",
+   "created_at": "2026-11-25T21:55:12.000Z",
+   "edit_history_tweet_ids": [
+    "2125709917478666558"
+   ],
+   "id": "2125709917478666558",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1015,
+    "like_count": 30,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 11
+   },
+   "text": "Kicking &amp; Screaming, Fulton Co. Must Give State Election Board 2020 Evidence on Red Pill News Live https://t.co/QOZNpD1gXo",
+   "url": "https://x.com/RedPill78/status/2125709917478666558"
+  },
+  {
+   "author_id": "770781940341288960",
+   "created_at": "2026-11-25T22:00:21.000Z",
+   "edit_history_tweet_ids": [
+    "2125711211253608708"
+   ],
+   "id": "2125711211253608708",
+   "public_metrics": {
+    "bookmark_count": 5,
+    "impression_count": 13620,
+    "like_count": 100,
+    "quote_count": 6,
+    "reply_count": 9,
+    "retweet_count": 39
+   },
+   "text": "America's Mayor Live (1068): President Trump Says Military Operations in Iran Funded Through January https://t.co/LDHgwe5TF3",
+   "url": "https://x.com/RudyGiuliani/status/2125711211253608708"
+  },
+  {
+   "author_id": "2047134404850442241",
+   "created_at": "2026-11-25T21:19:05.000Z",
+   "edit_history_tweet_ids": [
+    "2125700827247759707"
+   ],
+   "id": "2125700827247759707",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Not Your Grandmother’s Dirty Bomb, \nExplaining the rationale of the Jihadi politics of the Muslim Brotherhood\nBret Weinstein https://t.co/9opCn016zw",
+   "url": "https://x.com/RainmakerDude/status/2125700827247759707"
+  },
+  {
+   "author_id": "1337531542114078722",
+   "created_at": "2026-11-25T21:57:05.000Z",
+   "edit_history_tweet_ids": [
+    "2125710391808262431"
+   ],
+   "id": "2125710391808262431",
+   "public_metrics": {
+    "bookmark_count": 2,
+    "impression_count": 1027,
+    "like_count": 14,
+    "quote_count": 1,
+    "reply_count": 4,
+    "retweet_count": 9
+   },
+   "text": "What Will Be Revealed If We Look Really Close At Election Work? https://t.co/qs9tQlzbfN",
+   "url": "https://x.com/JovanHPulitzer/status/2125710391808262431"
+  },
+  {
+   "author_id": "808368180448075777",
+   "created_at": "2026-11-25T23:57:08.000Z",
+   "edit_history_tweet_ids": [
+    "2125740602058842583"
+   ],
+   "id": "2125740602058842583",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 98,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "ISIS Threat in America: Is Your Family Prepared? https://t.co/BH3nBmJziU",
+   "url": "https://x.com/SurvivalReport/status/2125740602058842583"
+  },
+  {
+   "author_id": "2039037723990732800",
+   "created_at": "2026-11-25T23:00:05.000Z",
+   "edit_history_tweet_ids": [
+    "2125726245459513754"
+   ],
+   "id": "2125726245459513754",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Thune the Traitor, The Save America Act, and Mamdani Rejects the SRG (REPLAY) https://t.co/x8PYtyKUud",
+   "url": "https://x.com/OutOfPocketLive/status/2125726245459513754"
+  },
+  {
+   "author_id": "135670703",
+   "created_at": "2026-11-25T21:52:07.000Z",
+   "edit_history_tweet_ids": [
+    "2125709139296899427"
+   ],
+   "id": "2125709139296899427",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 26,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "MERI MESSAGE on THANKSGIVING and the BIRTH of a NEW NATION - AMERICA! https://t.co/zfLkf1ig2r",
+   "url": "https://x.com/mericrouley/status/2125709139296899427"
+  },
+  {
+   "author_id": "1585667220591345674",
+   "created_at": "2026-11-25T23:00:12.000Z",
+   "edit_history_tweet_ids": [
+    "2125726275520070071"
+   ],
+   "id": "2125726275520070071",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 550,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Space Revolution Ep. 46 - National Security &amp; What Happens if America is not First https://t.co/0WPuvUy4Jc",
+   "url": "https://x.com/BadlandsMedia_/status/2125726275520070071"
+  },
+  {
+   "author_id": "1783593837052465152",
+   "created_at": "2026-11-26T00:00:37.000Z",
+   "edit_history_tweet_ids": [
+    "2125741478190239933"
+   ],
+   "id": "2125741478190239933",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 184,
+    "like_count": 10,
+    "quote_count": 1,
+    "reply_count": 0,
+    "retweet_count": 10
+   },
+   "text": "Secret America Live! - Episode 287 - What Lives Under NYC? https://t.co/9cmAcs6vbd",
+   "url": "https://x.com/SecretAmericaTV/status/2125741478190239933"
+  },
+  {
+   "author_id": "2160948666",
+   "created_at": "2026-11-26T00:02:49.000Z",
+   "edit_history_tweet_ids": [
+    "2125742033453166753"
+   ],
+   "id": "2125742033453166753",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 43,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Iowa Lead Explosion Aftermath: What Air Tests Show + Quebec, Iran &amp; Ukraine News https://t.co/kXrABKh2RP",
+   "url": "https://x.com/rw581/status/2125742033453166753"
+  },
+  {
+   "author_id": "26014321",
+   "created_at": "2026-11-25T22:59:45.000Z",
+   "edit_history_tweet_ids": [
+    "2125726161254687116"
+   ],
+   "id": "2125726161254687116",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 242,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "The 7pm News on CNC3 - November 25 2026 https://t.co/573XB0OMvH",
+   "url": "https://x.com/CNC3TV/status/2125726161254687116"
+  },
+  {
+   "author_id": "1189608528950054913",
+   "created_at": "2026-11-25T22:00:33.000Z",
+   "edit_history_tweet_ids": [
+    "2125711260830605333"
+   ],
+   "id": "2125711260830605333",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 387,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Army Iowa Lead Detonation Aftermath &amp; More Viral News! | Bek Live https://t.co/wwjPBTvjK5",
+   "url": "https://x.com/BekLoverNYC/status/2125711260830605333"
+  },
+  {
+   "author_id": "1232418050294636544",
+   "created_at": "2026-11-25T23:02:35.000Z",
+   "edit_history_tweet_ids": [
+    "2125726874928050368"
+   ],
+   "id": "2125726874928050368",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 26,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Patriots News: Patriots Chargers Preview and week 12 predictions https://t.co/7cIzsul6k8",
+   "url": "https://x.com/kenspatstalk/status/2125726874928050368"
+  },
+  {
+   "author_id": "130157613",
+   "created_at": "2026-11-25T21:58:30.000Z",
+   "edit_history_tweet_ids": [
+    "2125710745199341697"
+   ],
+   "id": "2125710745199341697",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 116,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "Real News with Lucretia Hughes | Thanksgiving Special https://t.co/UUquUt8Hca",
+   "url": "https://x.com/cre35/status/2125710745199341697"
+  },
+  {
+   "author_id": "1310610871236915200",
+   "created_at": "2026-11-25T22:53:42.000Z",
+   "edit_history_tweet_ids": [
+    "2125724639678636514"
+   ],
+   "id": "2125724639678636514",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 83,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🚨 TONIGHT ON LIBERTY LENS\n\nShould the president of the United States have a say in who runs a private corporation?\n\nThe Nvidia controversy raises serious questions about the limits of presidential power.\n\nJoin us LIVE: https://t.co/vxpDSl2m62",
+   "url": "https://x.com/miketermaat_/status/2125724639678636514"
+  },
+  {
+   "author_id": "408244773",
+   "created_at": "2026-11-25T21:40:11.000Z",
+   "edit_history_tweet_ids": [
+    "2125706138524012858"
+   ],
+   "id": "2125706138524012858",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 52,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "MADD: USAID's Global Censorship and Blacklisting of \"Right\" News https://t.co/wGBOAL4j4c",
+   "url": "https://x.com/LionsofLiberty/status/2125706138524012858"
+  },
+  {
+   "author_id": "357198182",
+   "created_at": "2026-11-25T22:02:12.000Z",
+   "edit_history_tweet_ids": [
+    "2125711679317012719"
+   ],
+   "id": "2125711679317012719",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 227,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 5
+   },
+   "text": "Aeons Online EP45 Live! SPX6900 Token News - Updates - Events $SPX6900 https://t.co/BMhxEavc9X",
+   "url": "https://x.com/JordanRiz/status/2125711679317012719"
+  },
+  {
+   "author_id": "2108726018219425792",
+   "created_at": "2026-11-25T23:22:36.000Z",
+   "edit_history_tweet_ids": [
+    "2125731911007977748"
+   ],
+   "id": "2125731911007977748",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 109,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "text": "THE H3H3 PODCAST IS OVER! + Strawbs Testimony  [ HUMP DAY/ Vtuber News ] https://t.co/OagW0R3Pqb",
+   "url": "https://x.com/MommaOcco_/status/2125731911007977748"
+  },
+  {
+   "author_id": "1592394953346334720",
+   "created_at": "2026-11-25T23:31:27.000Z",
+   "edit_history_tweet_ids": [
+    "2125734140012376068"
+   ],
+   "id": "2125734140012376068",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 11,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "https://t.co/QtIgwRVLmP \n\nJUST THE NEWS - NO NOISE  @JustTheNews  SHOW ❗️LIVE\n\nWith JOHN SOLOMON @jsolomonReports\n\nAnd AMANDA HEAD @AmandaHead hosting",
+   "url": "https://x.com/MyriamCarlyle/status/2125734140012376068"
+  },
+  {
+   "author_id": "1648673806997770242",
+   "created_at": "2026-11-25T22:45:26.000Z",
+   "edit_history_tweet_ids": [
+    "2125722557282168853"
+   ],
+   "id": "2125722557282168853",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 182,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Mets Offseason Discussion LIVE! | Mets Next Move Coming Soon? | New York Mets News &amp; Trade Rumors https://t.co/4GTSFygowT",
+   "url": "https://x.com/TrueMetsTalkCP/status/2125722557282168853"
+  },
+  {
+   "author_id": "467643219",
+   "created_at": "2026-11-25T23:58:42.000Z",
+   "edit_history_tweet_ids": [
+    "2125740995278958788"
+   ],
+   "id": "2125740995278958788",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 19,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "The Mike Schwartz Show LIVE | Today's Biggest Stories + Political News &amp; Analysis https://t.co/4PkLeZzshk",
+   "url": "https://x.com/MJSchwartz1/status/2125740995278958788"
+  },
+  {
+   "author_id": "1462911175658668032",
+   "created_at": "2026-11-25T22:50:02.000Z",
+   "edit_history_tweet_ids": [
+    "2125723715430224036"
+   ],
+   "id": "2125723715430224036",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 198,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 2
+   },
+   "text": "Divini Homines 16, 0036 [November 25, 2026] | QRTRV World News Daily @ 5:00 P.M. CST https://t.co/Kiha7Q5v3n",
+   "url": "https://x.com/Forsaken111CJM/status/2125723715430224036"
+  },
+  {
+   "author_id": "40877411",
+   "created_at": "2026-11-25T22:05:51.000Z",
+   "edit_history_tweet_ids": [
+    "2125712597919949126"
+   ],
+   "id": "2125712597919949126",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 348,
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 10
+   },
+   "text": "Top Five News Weekend Edition: LinkedIn CEO Says the Job Market Is Frozen https://t.co/VGj3ww4Ue7",
+   "url": "https://x.com/JoeHeadhunter/status/2125712597919949126"
+  }
+ ],
+ "users": [
+  {
+   "id": "24179879",
+   "name": "Cincinnati Bengals",
+   "public_metrics": {
+    "followers_count": 1647017,
+    "following_count": 188,
+    "like_count": 3265,
+    "listed_count": 7285,
+    "media_count": 22802,
+    "tweet_count": 43548
+   },
+   "username": "Bengals",
+   "verified": true,
+   "verified_type": "business"
+  },
+  {
+   "id": "819967215218749440",
+   "name": "Steve Ram",
+   "public_metrics": {
+    "followers_count": 8830,
+    "following_count": 25,
+    "like_count": 3,
+    "listed_count": 6,
+    "media_count": 1045,
+    "tweet_count": 1450
+   },
+   "username": "SteveRamNews",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "135189186",
+   "name": "Zak Paine",
+   "public_metrics": {
+    "followers_count": 116721,
+    "following_count": 6314,
+    "like_count": 74893,
+    "listed_count": 347,
+    "media_count": 5081,
+    "tweet_count": 31125
+   },
+   "username": "RedPill78",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "770781940341288960",
+   "name": "Rudy W. Giuliani",
+   "public_metrics": {
+    "followers_count": 1913575,
+    "following_count": 1366,
+    "like_count": 20902,
+    "listed_count": 5124,
+    "media_count": 3158,
+    "tweet_count": 16831
+   },
+   "username": "RudyGiuliani",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2047134404850442241",
+   "name": "PHARAOH GAMMA",
+   "public_metrics": {
+    "followers_count": 326,
+    "following_count": 1140,
+    "like_count": 9279,
+    "listed_count": 0,
+    "media_count": 5306,
+    "tweet_count": 6359
+   },
+   "username": "RainmakerDude",
+   "verified": false,
+   "verified_type": "none"
+  },
+  {
+   "id": "1337531542114078722",
+   "name": "JovanHuttonPulitzer",
+   "public_metrics": {
+    "followers_count": 154527,
+    "following_count": 325,
+    "like_count": 44052,
+    "listed_count": 313,
+    "media_count": 8646,
+    "tweet_count": 83117
+   },
+   "username": "JovanHPulitzer",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "808368180448075777",
+   "name": "Christopher Heaven",
+   "public_metrics": {
+    "followers_count": 10887,
+    "following_count": 855,
+    "like_count": 31713,
+    "listed_count": 53,
+    "media_count": 2043,
+    "tweet_count": 11589
+   },
+   "username": "SurvivalReport",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2039037723990732800",
+   "name": "Out of Pocket!",
+   "public_metrics": {
+    "followers_count": 65,
+    "following_count": 61,
+    "like_count": 67,
+    "listed_count": 0,
+    "media_count": 44,
+    "tweet_count": 282
+   },
+   "username": "OutOfPocketLive",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "135670703",
+   "name": "Meri Crouley",
+   "public_metrics": {
+    "followers_count": 1398,
+    "following_count": 433,
+    "like_count": 879,
+    "listed_count": 3,
+    "media_count": 269,
+    "tweet_count": 1074
+   },
+   "username": "mericrouley",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1585667220591345674",
+   "name": "Badlands Media",
+   "public_metrics": {
+    "followers_count": 47463,
+    "following_count": 49,
+    "like_count": 3291,
+    "listed_count": 137,
+    "media_count": 3610,
+    "tweet_count": 30896
+   },
+   "username": "BadlandsMedia_",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1783593837052465152",
+   "name": "Secret America Live!",
+   "public_metrics": {
+    "followers_count": 11818,
+    "following_count": 704,
+    "like_count": 12623,
+    "listed_count": 9,
+    "media_count": 327,
+    "tweet_count": 9612
+   },
+   "username": "SecretAmericaTV",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2160948666",
+   "name": "Maverick News",
+   "public_metrics": {
+    "followers_count": 828,
+    "following_count": 317,
+    "like_count": 32,
+    "listed_count": 10,
+    "media_count": 858,
+    "tweet_count": 3464
+   },
+   "username": "rw581",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "26014321",
+   "name": "CNC3TV",
+   "public_metrics": {
+    "followers_count": 229568,
+    "following_count": 637,
+    "like_count": 1296,
+    "listed_count": 425,
+    "media_count": 91587,
+    "tweet_count": 166274
+   },
+   "username": "CNC3TV",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1189608528950054913",
+   "name": "Bek Lover",
+   "public_metrics": {
+    "followers_count": 21658,
+    "following_count": 619,
+    "like_count": 2207,
+    "listed_count": 51,
+    "media_count": 1600,
+    "tweet_count": 6838
+   },
+   "username": "BekLoverNYC",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1232418050294636544",
+   "name": "Kenspatstalk",
+   "public_metrics": {
+    "followers_count": 527,
+    "following_count": 886,
+    "like_count": 35867,
+    "listed_count": 2,
+    "media_count": 217,
+    "tweet_count": 3755
+   },
+   "username": "kenspatstalk",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "130157613",
+   "name": "Lucretia Hughes",
+   "public_metrics": {
+    "followers_count": 9016,
+    "following_count": 2052,
+    "like_count": 18372,
+    "listed_count": 20,
+    "media_count": 2494,
+    "tweet_count": 29902
+   },
+   "username": "cre35",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1310610871236915200",
+   "name": "Mike ter Maat",
+   "public_metrics": {
+    "followers_count": 18224,
+    "following_count": 1163,
+    "like_count": 4330,
+    "listed_count": 61,
+    "media_count": 2625,
+    "tweet_count": 13968
+   },
+   "username": "miketermaat_",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "408244773",
+   "name": "Lions of Liberty Network",
+   "public_metrics": {
+    "followers_count": 11125,
+    "following_count": 3984,
+    "like_count": 8750,
+    "listed_count": 200,
+    "media_count": 1037,
+    "tweet_count": 28526
+   },
+   "username": "LionsofLiberty",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "357198182",
+   "name": "Jordan Riz💹🧲",
+   "public_metrics": {
+    "followers_count": 3537,
+    "following_count": 3337,
+    "like_count": 221167,
+    "listed_count": 17,
+    "media_count": 7815,
+    "tweet_count": 53253
+   },
+   "username": "JordanRiz",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "2108726018219425792",
+   "name": "Momma Occo 🐙💅 (UnderTheTea)",
+   "public_metrics": {
+    "followers_count": 1994,
+    "following_count": 202,
+    "like_count": 1099,
+    "listed_count": 4,
+    "media_count": 207,
+    "tweet_count": 1381
+   },
+   "username": "MommaOcco_",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1592394953346334720",
+   "name": "Myriam Carlyle",
+   "public_metrics": {
+    "followers_count": 4709,
+    "following_count": 7499,
+    "like_count": 66313,
+    "listed_count": 2,
+    "media_count": 662,
+    "tweet_count": 62012
+   },
+   "username": "MyriamCarlyle",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1648673806997770242",
+   "name": "True Mets Talk 🍎",
+   "public_metrics": {
+    "followers_count": 2816,
+    "following_count": 2051,
+    "like_count": 11737,
+    "listed_count": 17,
+    "media_count": 4095,
+    "tweet_count": 35129
+   },
+   "username": "TrueMetsTalkCP",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "467643219",
+   "name": "Dr. Michael J Schwartz",
+   "public_metrics": {
+    "followers_count": 1390,
+    "following_count": 191,
+    "like_count": 231,
+    "listed_count": 9,
+    "media_count": 37,
+    "tweet_count": 1094
+   },
+   "username": "MJSchwartz1",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "1462911175658668032",
+   "name": "H.E. Right Hon 2nd PM Christopher J Maffenbeier",
+   "public_metrics": {
+    "followers_count": 161,
+    "following_count": 59,
+    "like_count": 73,
+    "listed_count": 1,
+    "media_count": 54,
+    "tweet_count": 340
+   },
+   "username": "Forsaken111CJM",
+   "verified": true,
+   "verified_type": "blue"
+  },
+  {
+   "id": "40877411",
+   "name": "Joe Pelayo",
+   "public_metrics": {
+    "followers_count": 16751,
+    "following_count": 7021,
+    "like_count": 27278,
+    "listed_count": 26,
+    "media_count": 7607,
+    "tweet_count": 47203
+   },
+   "username": "JoeHeadhunter",
+   "verified": true,
+   "verified_type": "blue"
+  }
+ ]
 }

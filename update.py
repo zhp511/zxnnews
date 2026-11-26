@@ -38,6 +38,11 @@ HOW TO REFRESH
    CHRISTMAS THEME: optional "christmas_theme" in data/site_config.json (true/false).
    This script never removes the assets/christmas.css or assets/christmas.js includes
    from index.html; if the flag is true and those tags are missing, it puts them back.
+   HOLIDAY BANNER: optional "holiday_banner" in data/site_config.json (object with
+   enabled, src, src_fallback, alt). The daily refresh keeps it. This script never
+   removes the #holiday-banner container or assets/holiday.js include; if the banner
+   is enabled and those are missing, it puts them back. Set enabled to false (or
+   holiday_banner to null) to take the banner down.
 4. Reload index.html (served over http, e.g.  python3 -m http.server 8080).
 
 Nothing is invented: headlines come from the first line of each post (or, for link-only
@@ -218,6 +223,8 @@ def detect_live(posts, config):
 INDEX_HTML = os.path.join(ROOT, "index.html")
 XMAS_CSS = '<link rel="stylesheet" href="assets/christmas.css">'
 XMAS_JS = '<script src="assets/christmas.js"></script>'
+HOLIDAY_JS = '<script src="assets/holiday.js"></script>'
+HOLIDAY_MOUNT = '<div id="holiday-banner" class="holiday-banner" hidden></div>'
 
 
 def ensure_christmas_includes(config):
@@ -239,6 +246,35 @@ def ensure_christmas_includes(config):
     if html != orig:
         open(INDEX_HTML, "w", encoding="utf-8").write(html)
         print("  restored Christmas theme includes in index.html")
+
+
+def holiday_banner_on(config):
+    b = config.get("holiday_banner")
+    return bool(isinstance(b, dict) and b.get("src") and b.get("enabled") is not False)
+
+
+def ensure_holiday_banner(config):
+    """Keep the holiday banner container and script in index.html when enabled.
+
+    update.py does not rewrite the page template; this is a safeguard so a later
+    refresh cannot silently drop them. It never removes them itself.
+    """
+    if not holiday_banner_on(config):
+        return
+    if not os.path.exists(INDEX_HTML):
+        return
+    html = open(INDEX_HTML, encoding="utf-8").read()
+    orig = html
+    if 'id="holiday-banner"' not in html:
+        html = html.replace('<main id="top" class="wrap">', '<main id="top" class="wrap">\n  ' + HOLIDAY_MOUNT, 1)
+    if "assets/holiday.js" not in html:
+        if "assets/christmas.js" in html:
+            html = html.replace('<script src="assets/christmas.js"></script>', HOLIDAY_JS + "\n" + '<script src="assets/christmas.js"></script>', 1)
+        else:
+            html = html.replace("</body>", HOLIDAY_JS + "\n</body>", 1)
+    if html != orig:
+        open(INDEX_HTML, "w", encoding="utf-8").write(html)
+        print("  restored holiday banner markup in index.html")
 
 
 def build():

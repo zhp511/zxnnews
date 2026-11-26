@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T18:01:00Z",
+ "fetched_at": "2026-11-26T00:11:17Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -21,6 +21,257 @@
   "verified": false
  },
  "pages": [
+  {
+   "data": [
+    {
+     "created_at": "2026-11-25T20:29:47.000Z",
+     "edit_history_tweet_ids": [
+      "2125688422421737620"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 22,
+        "id": "1587930057804234754",
+        "start": 13,
+        "username": "Drax2431"
+       }
+      ],
+      "urls": [
+       {
+        "description": "ᗪRAX's Space · Where live audio conversations happen",
+        "display_url": "x.com/i/spaces/1aWRg…",
+        "end": 83,
+        "expanded_url": "https://x.com/i/spaces/1aWRgmLENjkqWE",
+        "images": [
+         {
+          "height": 630,
+          "url": "https://pbs.twimg.com/news_img/2125671911464300544/Disb1h9p?format=jpg&name=orig",
+          "width": 1200
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2125671911464300544/Disb1h9p?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 60,
+        "status": 200,
+        "title": "Scheduled: The Bar Thanksgiving what are you thankful for 🔥 / X",
+        "unwound_url": "https://x.com/i/spaces/1aWRgmLENjkqWE",
+        "url": "https://t.co/zphWjm1ypN"
+       }
+      ]
+     },
+     "id": "2125688422421737620",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 33,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "I’m going to @Drax2431’s upcoming Space. Will you join too? https://t.co/zphWjm1ypN",
+     "url": "https://x.com/i/status/2125688422421737620"
+    }
+   ],
+   "meta": {
+    "newest_id": "2125688422421737620",
+    "oldest_id": "2125688422421737620",
+    "result_count": 1
+   }
+  },
+  {
+   "includes": {
+    "media": [
+     {
+      "height": 1254,
+      "media_key": "3_2125403444361973760",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HX7zK_mWUAAcgqK.jpg",
+      "width": 1254
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2125636710524678230",
+    "oldest_id": "2125403449084772762",
+    "result_count": 3
+   },
+   "data": [
+    {
+     "created_at": "2026-11-25T17:04:18.000Z",
+     "edit_history_tweet_ids": [
+      "2125636710524678230"
+     ],
+     "entities": {
+      "urls": [
+       {
+        "description": "The more, the merrier! Join #StashStockParty and invite your friends to earn our bonus stock of the week. The bigger the party, the larger the reward.",
+        "display_url": "stash.com/party/referral…",
+        "end": 170,
+        "expanded_url": "https://www.stash.com/party/referral?stash_code_v2=sp30c5cr30f30c2-3wenVXARvQ",
+        "images": [
+         {
+          "height": 630,
+          "url": "https://pbs.twimg.com/news_img/2125636721388011520/Pr3EmR2m?format=jpg&name=orig",
+          "width": 1200
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2125636721388011520/Pr3EmR2m?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 147,
+        "status": 200,
+        "title": "Earn Bonus Stock | Stash Stock Party 🎉📈",
+        "unwound_url": "https://www.stash.com/party/referral?stash_code_v2=sp30c5cr30f30c2-3wenVXARvQ",
+        "url": "https://t.co/3RR7Yoglnf"
+       },
+       {
+        "description": "The more, the merrier! Join #StashStockParty and invite your friends to earn our bonus stock of the week. The bigger the party, the larger the reward.",
+        "display_url": "stash.com/party/referral…",
+        "end": 194,
+        "expanded_url": "https://www.stash.com/party/referral?stash_code_v2=sp30c5cr30f30c2-3wenVXARvQ",
+        "images": [
+         {
+          "height": 630,
+          "url": "https://pbs.twimg.com/news_img/2125636721388011520/Pr3EmR2m?format=jpg&name=orig",
+          "width": 1200
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2125636721388011520/Pr3EmR2m?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 171,
+        "status": 200,
+        "title": "Earn Bonus Stock | Stash Stock Party 🎉📈",
+        "unwound_url": "https://www.stash.com/party/referral?stash_code_v2=sp30c5cr30f30c2-3wenVXARvQ",
+        "url": "https://t.co/3RR7Yoglnf"
+       }
+      ]
+     },
+     "id": "2125636710524678230",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 12,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "Get it on the next StockParty!\nJust claimed my StockParty stock 🎉 Your turn. Join Stash with my link, deposit $5, get $30 to invest. Expires soon: https://t.co/3RR7Yoglnf\nhttps://t.co/3RR7Yoglnf",
+     "url": "https://x.com/i/status/2125636710524678230"
+    },
+    {
+     "created_at": "2026-11-25T16:31:43.000Z",
+     "edit_history_tweet_ids": [
+      "2125628507833385357"
+     ],
+     "entities": {
+      "mentions": [
+       {
+        "end": 112,
+        "id": "10228272",
+        "start": 104,
+        "username": "YouTube"
+       }
+      ],
+      "urls": [
+       {
+        "description": "🎁 Sign up and get gifts! Play for free on PC! https://wo.ws/3KM1bkl...",
+        "display_url": "youtu.be/fDqwAiVR5JU?is…",
+        "end": 99,
+        "expanded_url": "https://youtu.be/fDqwAiVR5JU?is=pwRXJXa-0az14Iip",
+        "images": [
+         {
+          "height": 720,
+          "url": "https://pbs.twimg.com/news_img/2125628511876694019/KPGtf-Fs?format=jpg&name=orig",
+          "width": 1280
+         },
+         {
+          "height": 150,
+          "url": "https://pbs.twimg.com/news_img/2125628511876694019/KPGtf-Fs?format=jpg&name=150x150",
+          "width": 150
+         }
+        ],
+        "start": 76,
+        "status": 200,
+        "title": "New CG trailer \"The Duel\" | Sam Tinnesz - Legends Are Made | World of Warships",
+        "unwound_url": "https://www.youtube.com/watch?is=pwRXJXa-0az14Iip&v=fDqwAiVR5JU&feature=youtu.be",
+        "url": "https://t.co/2PhALnJ0qd"
+       }
+      ]
+     },
+     "id": "2125628507833385357",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 24,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "New CG trailer \"The Duel\" | Sam Tinnesz - Legends Are Made | World of Wa... https://t.co/2PhALnJ0qd via @YouTube",
+     "url": "https://x.com/i/status/2125628507833385357"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2125403444361973760"
+      ]
+     },
+     "created_at": "2026-11-25T01:37:25.000Z",
+     "edit_history_tweet_ids": [
+      "2125403449084772762"
+     ],
+     "entities": {
+      "hashtags": [
+       {
+        "end": 18,
+        "start": 0,
+        "tag": "Patriotonenetwork"
+       },
+       {
+        "end": 27,
+        "start": 19,
+        "tag": "ZXNnews"
+       },
+       {
+        "end": 37,
+        "start": 28,
+        "tag": "BlueHand"
+       }
+      ],
+      "urls": [
+       {
+        "display_url": "pic.x.com/pRDZgVtbbK",
+        "end": 79,
+        "expanded_url": "https://x.com/zxnbluehandus/status/2125403449084772762/photo/1",
+        "media_key": "3_2125403444361973760",
+        "start": 56,
+        "url": "https://t.co/pRDZgVtbbK"
+       }
+      ]
+     },
+     "id": "2125403449084772762",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 229,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+     },
+     "text": "#Patriotonenetwork #ZXNnews #BlueHand I know it’s early https://t.co/pRDZgVtbbK",
+     "url": "https://x.com/i/status/2125403449084772762"
+    }
+   ]
+  },
   {
    "includes": {
     "media": [
