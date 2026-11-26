@@ -227,6 +227,26 @@ HOLIDAY_JS = '<script src="assets/holiday.js"></script>'
 HOLIDAY_MOUNT = '<div id="holiday-banner" class="holiday-banner" hidden></div>'
 
 
+def holiday_banner_markup(config):
+    """Static homepage banner HTML from site_config.json holiday_banner."""
+    b = config.get("holiday_banner") or {}
+    src = b.get("src") or ""
+    fallback = b.get("src_fallback") or src
+    alt = b.get("alt") or "Holiday greeting from ZXN News"
+    w, h = b.get("width") or "", b.get("height") or ""
+    dims = (f' width="{w}"' if w else "") + (f' height="{h}"' if h else "")
+    def esc(x):
+        return (str(x).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;"))
+    if src and fallback and src != fallback:
+        typ = "image/webp" if src.lower().endswith(".webp") else ("image/jpeg" if src.lower().endswith((".jpg", ".jpeg")) else "")
+        typ_attr = f' type="{typ}"' if typ else ""
+        media = f'<picture><source srcset="{esc(src)}"{typ_attr}><img src="{esc(fallback)}" alt="{esc(alt)}"{dims} decoding="async"></picture>'
+    else:
+        media = f'<img src="{esc(src or fallback)}" alt="{esc(alt)}"{dims} decoding="async">'
+    return f'<div id="holiday-banner" class="holiday-banner">\n    <div class="holiday-banner-inner">{media}</div>\n  </div>'
+
+
+
 def ensure_christmas_includes(config):
     """Keep the Christmas overlay includes in index.html when the theme flag is on.
 
@@ -265,8 +285,11 @@ def ensure_holiday_banner(config):
         return
     html = open(INDEX_HTML, encoding="utf-8").read()
     orig = html
+    mount = holiday_banner_markup(config)
     if 'id="holiday-banner"' not in html:
-        html = html.replace('<main id="top" class="wrap">', '<main id="top" class="wrap">\n  ' + HOLIDAY_MOUNT, 1)
+        html = html.replace('<main id="top" class="wrap">', '<main id="top" class="wrap">\n  ' + mount, 1)
+    elif "<img " not in html[html.find("holiday-banner"):html.find("holiday-banner")+1200]:
+        html = re.sub(r'<div id="holiday-banner" class="holiday-banner"[^>]*>.*?</div>\s*</div>', mount, html, count=1, flags=re.S)
     if "assets/holiday.js" not in html:
         if "assets/christmas.js" in html:
             html = html.replace('<script src="assets/christmas.js"></script>', HOLIDAY_JS + "\n" + '<script src="assets/christmas.js"></script>', 1)
