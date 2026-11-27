@@ -43,6 +43,11 @@ HOW TO REFRESH
    removes the #holiday-banner container or assets/holiday.js include; if the banner
    is enabled and those are missing, it puts them back. Set enabled to false (or
    holiday_banner to null) to take the banner down.
+   FEATURED VIDEO: optional "featured_video" in data/site_config.json (object with
+   enabled, src, poster, title, caption). The daily refresh keeps it. This script
+   never removes the #featured-video section or assets/featured.js include; if the
+   video is enabled and those are missing, it puts them back. Set enabled to false
+   (or featured_video to null) to take the player down.
 4. Reload index.html (served over http, e.g.  python3 -m http.server 8080).
 
 Nothing is invented: headlines come from the first line of each post (or, for link-only
@@ -225,6 +230,7 @@ XMAS_CSS = '<link rel="stylesheet" href="assets/christmas.css">'
 XMAS_JS = '<script src="assets/christmas.js"></script>'
 HOLIDAY_JS = '<script src="assets/holiday.js"></script>'
 HOLIDAY_MOUNT = '<div id="holiday-banner" class="holiday-banner" hidden></div>'
+FEATURED_JS = '<script src="assets/featured.js"></script>'
 
 
 def holiday_banner_markup(config):
@@ -298,6 +304,78 @@ def ensure_holiday_banner(config):
     if html != orig:
         open(INDEX_HTML, "w", encoding="utf-8").write(html)
         print("  restored holiday banner markup in index.html")
+
+
+def featured_video_on(config):
+    v = config.get("featured_video")
+    return bool(isinstance(v, dict) and v.get("src") and v.get("enabled") is not False)
+
+
+def featured_video_markup(config):
+    """Static homepage featured-video HTML from site_config.json featured_video."""
+    v = config.get("featured_video") or {}
+    def esc(x):
+        return (str(x).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;"))
+    title = v.get("title") or "ZXN News video"
+    caption = v.get("caption") or ""
+    src = v.get("src") or ""
+    poster = v.get("poster") or ""
+    typ = v.get("type") or "video/mp4"
+    w, h = v.get("width") or 1280, v.get("height") or 720
+    poster_attr = f' poster="{esc(poster)}"' if poster else ""
+    cap = f'\n      <p class="featured-video-caption">{esc(caption)}</p>' if caption else ""
+    return (
+        f'<section id="featured-video" class="featured-video" aria-label="{esc(title)}">\n'
+        f'    <div class="featured-video-inner">\n'
+        f'      <h2 class="section-label">{esc(title)}</h2>\n'
+        f'      <div class="featured-video-player">\n'
+        f'        <video controls playsinline preload="metadata"{poster_attr} width="{esc(w)}" height="{esc(h)}">\n'
+        f'          <source src="{esc(src)}" type="{esc(typ)}">\n'
+        f'          Sorry, your browser cannot play this video.\n'
+        f'        </video>\n'
+        f'      </div>{cap}\n'
+        f'    </div>\n'
+        f'  </section>'
+    )
+
+
+def ensure_featured_video(config):
+    """Keep the featured video section and script in index.html when enabled.
+
+    update.py does not rewrite the page template; this is a safeguard so a later
+    refresh cannot silently drop them. It never removes them itself.
+    """
+    if not featured_video_on(config):
+        return
+    if not os.path.exists(INDEX_HTML):
+        return
+    html = open(INDEX_HTML, encoding="utf-8").read()
+    orig = html
+    mount = featured_video_markup(config)
+    if 'id="featured-video"' not in html:
+        if 'id="holiday-banner"' in html:
+            # place just after the holiday banner, before live-now / top story
+            m = re.search(r'(<div id="holiday-banner"[\s\S]*?</div>\s*</div>)', html)
+            if m:
+                html = html[:m.end()] + "\n" + mount + html[m.end():]
+            else:
+                html = html.replace('<main id="top" class="wrap">', '<main id="top" class="wrap">\n  ' + mount, 1)
+        else:
+            html = html.replace('<main id="top" class="wrap">', '<main id="top" class="wrap">\n  ' + mount, 1)
+    elif "<video " not in html[html.find("featured-video"):html.find("featured-video")+2500]:
+        html = re.sub(
+            r'<section id="featured-video" class="featured-video"[^>]*>.*?</section>',
+            mount, html, count=1, flags=re.S)
+    if "assets/featured.js" not in html:
+        if "assets/holiday.js" in html:
+            html = html.replace('<script src="assets/holiday.js"></script>', FEATURED_JS + "\n" + '<script src="assets/holiday.js"></script>', 1)
+        elif "assets/christmas.js" in html:
+            html = html.replace('<script src="assets/christmas.js"></script>', FEATURED_JS + "\n" + '<script src="assets/christmas.js"></script>', 1)
+        else:
+            html = html.replace("</body>", FEATURED_JS + "\n</body>", 1)
+    if html != orig:
+        open(INDEX_HTML, "w", encoding="utf-8").write(html)
+        print("  restored featured video markup in index.html")
 
 
 def build():
@@ -488,6 +566,8 @@ def build():
     vis = [p for p in posts if not p["hidden"]]
     print(f"wrote {OUT}: {len(posts)} posts, {len(vis)} visible, {len(posts)-len(vis)} hidden, featured_top={featured_top}, pinned_top={pinned}")
     ensure_christmas_includes(config)
+    ensure_holiday_banner(config)
+    ensure_featured_video(config)
     for p in posts:
         if p["hidden"]:
             print(f"  hidden ({p['hidden_reason']}): {p['original_text'][:60]!r}")

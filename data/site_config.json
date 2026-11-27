@@ -46,5 +46,17 @@
   "width": 1254,
   "height": 1254
  },
- "_holiday_banner_note": "Homepage holiday greeting banner. update.py and the daily refresh keep it when enabled. Set enabled to false, or holiday_banner to null, to take it down without other code changes. Added Nov 25, 2026 at the site owner's request (Parsley family Thanksgiving graphic)."
+ "_holiday_banner_note": "Homepage holiday greeting banner. update.py and the daily refresh keep it when enabled. Set enabled to false, or holiday_banner to null, to take it down without other code changes. Added Nov 25, 2026 at the site owner's request (Parsley family Thanksgiving graphic).",
+ "featured_video": {
+  "enabled": true,
+  "src": "media/zxn-patriot-one-promo.mp4",
+  "poster": "images/zxn-patriot-one-promo-poster.jpg",
+  "title": "ZXN News: Patriot One Network Promo",
+  "caption": "ZXN — Zachary X Network News. I Am The Code. Powered by BlueHand Inc.",
+  "width": 1280,
+  "height": 720,
+  "type": "video/mp4",
+  "duration_seconds": 225
+ },
+ "_featured_video_note": "Homepage featured video, below the holiday banner and above the Top Story. update.py and the daily refresh keep it when enabled. Set enabled to false, or featured_video to null, to take it down without other code changes. Added Nov 27, 2026 at the site owner's request (Patriot One Network / BlueHand Inc. station-ID promo)."
 }
