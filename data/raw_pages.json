@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-26T17:48:57Z",
+ "fetched_at": "2026-11-27T17:50:47Z",
  "note": "Snapshot of X API v2 GET /2/users/:id/tweets (exclude=retweets,replies) for @zxnbluehandus, 2 pages x 25 posts, fetched via the x MCP tool. Entity fields trimmed to what the site uses (urls/title/image/media_key); mentions & hashtags omitted.",
  "user": {
   "created_at": "2026-01-14T16:31:28.000Z",
@@ -21,6 +21,214 @@
   "verified": false
  },
  "pages": [
+  {
+   "includes": {
+    "media": [
+     {
+      "height": 941,
+      "media_key": "3_2126364362818428928",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYJdHzzXoAA1Zci.jpg",
+      "width": 1672
+     },
+     {
+      "height": 400,
+      "media_key": "3_2126179290861436928",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYG0zNCWgAAmPxb.jpg",
+      "width": 400
+     },
+     {
+      "height": 1254,
+      "media_key": "3_2126098307629907969",
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HYFrJW_XAAEP-eL.jpg",
+      "width": 1254
+     }
+    ]
+   },
+   "meta": {
+    "newest_id": "2126372200081240322",
+    "oldest_id": "2126011233421959508",
+    "result_count": 9
+   },
+   "data": [
+    {
+     "created_at": "2026-11-27T17:46:53.000Z",
+     "edit_history_tweet_ids": [
+      "2126372200081240322"
+     ],
+     "id": "2126372200081240322",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "We don’t give up https://t.co/oypmFD6B12 via @YouTube",
+     "url": "https://x.com/i/status/2126372200081240322"
+    },
+    {
+     "created_at": "2026-11-27T17:34:17.000Z",
+     "edit_history_tweet_ids": [
+      "2126369028948308445"
+     ],
+     "id": "2126369028948308445",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "https://t.co/1dK1iZrK6q",
+     "url": "https://x.com/i/status/2126369028948308445"
+    },
+    {
+     "created_at": "2026-11-27T17:22:55.000Z",
+     "edit_history_tweet_ids": [
+      "2126366170941120923"
+     ],
+     "id": "2126366170941120923",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 15,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+     },
+     "text": "When We Stand Together https://t.co/u5WIb8dCWS via @YouTubeMusic",
+     "url": "https://x.com/i/status/2126366170941120923"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2126364362818428928"
+      ]
+     },
+     "created_at": "2026-11-27T17:15:46.000Z",
+     "edit_history_tweet_ids": [
+      "2126364371454726604"
+     ],
+     "id": "2126364371454726604",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 26,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+     },
+     "text": "#RedFriday #ZXN #patriotonenetwork https://t.co/dFovoSlGdP",
+     "url": "https://x.com/i/status/2126364371454726604"
+    },
+    {
+     "created_at": "2026-11-27T13:51:15.000Z",
+     "edit_history_tweet_ids": [
+      "2126312904001536408"
+     ],
+     "id": "2126312904001536408",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 41,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "text": "NO DAYS OFF https://t.co/qXGXEnPBsZ via @YouTubeMusic",
+     "url": "https://x.com/i/status/2126312904001536408"
+    },
+    {
+     "created_at": "2026-11-27T13:49:00.000Z",
+     "edit_history_tweet_ids": [
+      "2126312337439416669"
+     ],
+     "id": "2126312337439416669",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 505,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+     },
+     "text": "We Will Rock You (2020 Remaster) https://t.co/C1zoK3PysR via @YouTubeMusic",
+     "url": "https://x.com/i/status/2126312337439416669"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2126179290861436928"
+      ]
+     },
+     "created_at": "2026-11-27T05:00:21.000Z",
+     "edit_history_tweet_ids": [
+      "2126179295118917795"
+     ],
+     "id": "2126179295118917795",
+     "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 359,
+      "like_count": 6,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 6
+     },
+     "text": "#NewProfilePic https://t.co/Imso3W3cDt",
+     "url": "https://x.com/i/status/2126179295118917795"
+    },
+    {
+     "attachments": {
+      "media_keys": [
+       "3_2126098307629907969"
+      ]
+     },
+     "created_at": "2026-11-26T23:38:33.000Z",
+     "edit_history_tweet_ids": [
+      "2126098314638561578"
+     ],
+     "id": "2126098314638561578",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 261,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+     },
+     "text": "Live next on ZXN #bluehand #patriotonenetwork live at 11 pm central time 12 am eastern #zxnnews https://t.co/mfxx4RCa3O",
+     "url": "https://x.com/i/status/2126098314638561578"
+    },
+    {
+     "created_at": "2026-11-26T17:52:32.000Z",
+     "edit_history_tweet_ids": [
+      "2126011233421959508"
+     ],
+     "id": "2126011233421959508",
+     "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 27,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+     },
+     "referenced_tweets": [
+      {
+       "id": "2125921559747391931",
+       "type": "quoted"
+      }
+     ],
+     "text": "What up https://t.co/GS5okM1GLT",
+     "url": "https://x.com/i/status/2126011233421959508"
+    }
+   ]
+  },
   {
    "includes": {
     "media": [

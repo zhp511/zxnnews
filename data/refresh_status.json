@@ -2,19 +2,23 @@
   "x_failures": 0,
   "push_failures": 0,
   "last_error": null,
-  "updated_at": "2026-11-26T17:48:57Z",
+  "updated_at": "2026-11-27T17:50:47Z",
   "last_x_check": {
-    "at": "2026-11-26T17:48:57Z",
-    "new_posts": 5,
+    "at": "2026-11-27T17:50:47Z",
+    "new_posts": 9,
     "new_post_ids": [
-      "2125943231057674518",
-      "2125921559747391931",
-      "2125826422103228833",
-      "2125826038064157163",
-      "2125745424346820869"
+      "2126372200081240322",
+      "2126369028948308445",
+      "2126366170941120923",
+      "2126364371454726604",
+      "2126312904001536408",
+      "2126312337439416669",
+      "2126179295118917795",
+      "2126098314638561578",
+      "2126011233421959508"
     ],
-    "newest_id": "2125943231057674518",
-    "published": true,
+    "newest_id": "2126372200081240322",
+    "published": false,
     "refreshed": [
       "posts",
       "trending",
@@ -25,16 +29,15 @@
       "following": "featured_accounts empty"
     },
     "notes": {
-      "posts": "5 new post(s) newer than 2125688422421737620",
+      "posts": "9 new post(s) newer than 2125943231057674518",
       "trending": "refreshed US politics news + US trends",
       "following": "skipped, featured_accounts empty",
       "tv": "refreshed",
-      "xlive": "refreshed search fetched_at 2026-11-26T17:48:57Z",
-      "update": "update.py ok",
-      "publish": "pushed 95eb471; pages=built http=200"
+      "xlive": "refreshed search fetched_at 2026-11-27T17:50:47Z",
+      "update": "update.py ok"
     }
   },
-  "last_publish": "2026-11-26T17:48:57Z",
-  "note": "pushed 95eb471; pages=built http=200",
+  "last_publish": null,
+  "note": "X check succeeded",
   "failure_streak": 0
 }
