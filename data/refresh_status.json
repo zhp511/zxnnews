@@ -18,7 +18,7 @@
       "2126011233421959508"
     ],
     "newest_id": "2126372200081240322",
-    "published": false,
+    "published": true,
     "refreshed": [
       "posts",
       "trending",
@@ -34,10 +34,11 @@
       "following": "skipped, featured_accounts empty",
       "tv": "refreshed",
       "xlive": "refreshed search fetched_at 2026-11-27T17:50:47Z",
-      "update": "update.py ok"
+      "update": "update.py ok",
+      "publish": "pushed 14c8f9a; pages=built http=200"
     }
   },
-  "last_publish": null,
-  "note": "X check succeeded",
+  "last_publish": "2026-11-27T17:50:47Z",
+  "note": "pushed 14c8f9a; pages=built http=200",
   "failure_streak": 0
 }
